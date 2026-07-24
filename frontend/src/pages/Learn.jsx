@@ -2,76 +2,68 @@ const panelTypes = [
   {
     name: 'Monocrystalline',
     icon: '⬛',
-    efficiency: '~18–22% efficiency',
+    tag: 'Most powerful',
     description:
-      'Cut from a single silicon crystal. Highest efficiency and a sleek black look, so you generate more power from less roof area — but costs more per panel.',
-    bestFor: 'Best for: apartments and urban homes with limited or small rooftop space.',
+      "Makes the most power for the smallest space. Costs a bit more, but great if your roof isn't very big.",
   },
   {
     name: 'Polycrystalline',
     icon: '🔷',
-    efficiency: '~15–17% efficiency',
+    tag: 'Best value',
     description:
-      'Made from multiple silicon fragments melted together. Slightly less efficient than monocrystalline, but noticeably cheaper per panel.',
-    bestFor: 'Best for: larger rooftops, farmhouses, or open plots where space is not the constraint.',
+      'Cheaper than the option above. Needs a little more space for the same power — good if your roof is big.',
   },
   {
     name: 'Thin-Film',
     icon: '🎞️',
-    efficiency: '~10–13% efficiency',
+    tag: 'Flexible',
     description:
-      'Lightweight and flexible, so it can bend to curved or uneven surfaces. Performs relatively better in high heat and low light, but needs more area for the same output.',
-    bestFor: 'Best for: curved or metal-sheet roofs, low load-bearing structures, and portable setups.',
+      "Light and bendable, so it fits curved or uneven roofs. Needs more space for the same power, but it's very versatile.",
   },
 ];
 
 const spaces = [
   {
-    name: 'Rooftop (residential)',
+    name: 'Rooftop',
     icon: '🏠',
-    description:
-      'The most common setup — panels mounted directly on an existing, largely shade-free roof with enough structural strength.',
+    description: 'The standard choice — panels on your house roof, if it gets good sunlight.',
   },
   {
     name: 'Ground-mounted',
     icon: '🌾',
-    description:
-      'For open land, farms, or backyards. Easier to clean and maintain, and panels can be angled for maximum sun exposure.',
+    description: "On open land or in your yard — good if you'd rather not use your roof.",
   },
   {
-    name: 'Balcony / BIPV panels',
+    name: 'Balcony panels',
     icon: '🏢',
-    description:
-      "For apartment dwellers without rooftop access — small, plug-in panels mounted on a balcony railing. Doesn't replace a full system, but adds meaningful output.",
+    description: "Small panels for a balcony railing — great for apartments without roof access.",
   },
   {
-    name: 'Carports & parking shades',
+    name: 'Parking shade',
     icon: '🚗',
-    description:
-      'Panels mounted over a driveway or parking area — you get shade for the vehicle and power generation from the same structure.',
+    description: 'Panels over your parking spot — shades your car and makes power at once.',
   },
   {
-    name: 'Agrivoltaics (elevated farm panels)',
+    name: 'Farm panels',
     icon: '🌱',
-    description:
-      'Panels raised above farmland so crops can keep growing underneath. Lets farmers generate power without giving up cultivable land.',
+    description: 'Raised above farmland — crops keep growing underneath while it makes power.',
   },
 ];
 
 const buyerSteps = [
-  'Sign up as a Buyer. If you\'re from a low-income or underserved area, turn on "Community Priority" — it can match you to discounted rates.',
-  'Browse listings and filter by location, price, or minimum kWh to find sellers near you.',
-  'Open a listing you like and click "Request Energy" with the amount you need.',
-  'Message the seller directly to coordinate details once your request exists.',
-  'Once the seller accepts, track it in your Dashboard — total bought, spending, and savings.',
+  'Sign up as a Buyer. If money is tight where you live, turn on "Community Priority" — it can get you a lower price.',
+  'Browse listings near you and pick one you like.',
+  'Click "Request Energy" and say how much you need.',
+  'Message the seller to sort out the details.',
+  'Once they say yes, it shows up in your Dashboard.',
 ];
 
 const sellerSteps = [
   'Sign up as a Seller with your location.',
-  'Go to "New Listing" and set your available kWh, standard price, and an optional discounted "community price" for priority buyers.',
-  'Check "Requests" regularly — Community Priority requests are highlighted and sorted to the top.',
-  'Accept or decline each request. Accepting reduces your listed availability automatically.',
-  'Message buyers to coordinate handover, and track your earnings in your Dashboard.',
+  'Create a listing: how much energy you have, and your price.',
+  'Check "Requests" for buyers who want to buy from you.',
+  'Accept or decline each one.',
+  'Message buyers to arrange things, and track your earnings in your Dashboard.',
 ];
 
 function StepList({ title, steps, accent }) {
@@ -98,8 +90,8 @@ export default function Learn() {
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">Learn</h1>
         <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-          A quick guide to using SolarShare, plus the basics of choosing solar panels for your
-          own space.
+          How SolarShare works, in plain terms — plus simple tips on solar panels if you're new to
+          this.
         </p>
       </div>
 
@@ -112,11 +104,12 @@ export default function Learn() {
       </section>
 
       <section className="mb-14">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Choosing a solar panel type</h2>
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+          Which solar panel is right for you?
+        </h2>
         <p className="text-gray-600 dark:text-gray-400 text-sm mb-5">
-          If you're thinking about installing solar yourself so you can start selling, here's a
-          quick primer. This is general guidance — always get a site survey from a certified
-          installer before deciding.
+          Thinking about installing solar so you can start selling? Here's the simple version.
+          (For the real decision, talk to a local installer.)
         </p>
         <div className="grid sm:grid-cols-3 gap-5">
           {panelTypes.map((p) => (
@@ -126,18 +119,21 @@ export default function Learn() {
             >
               <div className="text-2xl mb-2">{p.icon}</div>
               <h3 className="font-semibold text-gray-900 dark:text-white mb-1">{p.name}</h3>
-              <p className="text-xs text-brand-600 dark:text-brand-400 font-medium mb-2">{p.efficiency}</p>
-              <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">{p.description}</p>
-              <p className="text-xs text-gray-500 dark:text-gray-500 font-medium">{p.bestFor}</p>
+              <span className="inline-block text-xs text-brand-600 dark:text-brand-400 font-medium bg-brand-50 dark:bg-brand-950/50 px-2 py-0.5 rounded-full mb-2">
+                {p.tag}
+              </span>
+              <p className="text-sm text-gray-600 dark:text-gray-400">{p.description}</p>
             </div>
           ))}
         </div>
       </section>
 
       <section>
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">What space do you have?</h2>
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+          Where would your panels go?
+        </h2>
         <p className="text-gray-600 dark:text-gray-400 text-sm mb-5">
-          Different living situations suit different setups — here's what tends to work where.
+          Pick whichever matches your home.
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {spaces.map((s) => (
