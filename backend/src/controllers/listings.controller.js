@@ -19,8 +19,14 @@ export async function createListing(req, res) {
   res.status(201).json(result.rows[0]);
 }
 
+const SORT_OPTIONS = {
+  newest: 'listings.created_at DESC',
+  price_asc: 'listings.standard_price ASC',
+  price_desc: 'listings.standard_price DESC',
+};
+
 export async function getListings(req, res) {
-  const { location, maxPrice } = req.query;
+  const { location, maxPrice, minKwh, sort } = req.query;
 
   const conditions = ["status = 'active'", 'available_to >= now()'];
   const params = [];
@@ -33,13 +39,19 @@ export async function getListings(req, res) {
     params.push(maxPrice);
     conditions.push(`standard_price <= $${params.length}`);
   }
+  if (minKwh) {
+    params.push(minKwh);
+    conditions.push(`kwh_available >= $${params.length}`);
+  }
+
+  const orderBy = SORT_OPTIONS[sort] || SORT_OPTIONS.newest;
 
   const result = await pool.query(
     `SELECT listings.*, users.name AS seller_name
      FROM listings
      JOIN users ON users.id = listings.seller_id
      WHERE ${conditions.join(' AND ')}
-     ORDER BY created_at DESC`,
+     ORDER BY ${orderBy}`,
     params
   );
 

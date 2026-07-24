@@ -82,10 +82,10 @@ export default function MyListings() {
                   </span>
                 </div>
                 <p className="text-sm text-gray-600">
-                  {Number(l.kwh_available).toFixed(1)} kWh available · $
+                  {Number(l.kwh_available).toFixed(1)} kWh available · ₹
                   {Number(l.standard_price).toFixed(2)}/kWh
                   {l.community_price !== null &&
-                    ` (community: $${Number(l.community_price).toFixed(2)})`}
+                    ` (community: ₹${Number(l.community_price).toFixed(2)})`}
                 </p>
               </div>
 

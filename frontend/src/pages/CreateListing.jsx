@@ -58,7 +58,7 @@ export default function CreateListing() {
 
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Standard price per kWh ($)
+            Standard price per kWh (₹)
           </label>
           <input
             required
@@ -73,7 +73,7 @@ export default function CreateListing() {
 
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Community price per kWh ($) — optional
+            Community price per kWh (₹) — optional
           </label>
           <input
             type="number"

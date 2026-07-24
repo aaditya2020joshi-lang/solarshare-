@@ -46,11 +46,11 @@ export default function ListingCard({ listing }) {
             isPriorityBuyer && hasCommunityPrice ? 'text-brand-600' : 'text-gray-900'
           }`}
         >
-          ${Number(effectivePrice).toFixed(2)}/kWh
+          ₹{Number(effectivePrice).toFixed(2)}/kWh
         </span>
         {isPriorityBuyer && hasCommunityPrice && (
           <span className="line-through text-sm text-gray-400">
-            ${Number(listing.standard_price).toFixed(2)}
+            ₹{Number(listing.standard_price).toFixed(2)}
           </span>
         )}
         {hasCommunityPrice && !isPriorityBuyer && (

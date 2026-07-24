@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
+import BarChart from '../components/BarChart';
 
 function StatCard({ label, value }) {
   return (
@@ -9,6 +10,19 @@ function StatCard({ label, value }) {
       <p className="text-2xl font-bold text-gray-900">{value}</p>
     </div>
   );
+}
+
+function groupByDay(transactions) {
+  const byDate = new Map();
+  transactions.forEach((t) => {
+    const date = new Date(t.responded_at);
+    const key = date.toISOString().slice(0, 10);
+    const label = date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+    const value = Number(t.kwh_requested) * Number(t.price_applied);
+    if (!byDate.has(key)) byDate.set(key, { key, label, value: 0 });
+    byDate.get(key).value += value;
+  });
+  return Array.from(byDate.values()).sort((a, b) => a.key.localeCompare(b.key));
 }
 
 export default function Dashboard() {
@@ -29,6 +43,7 @@ export default function Dashboard() {
   if (loading) return <p className="max-w-5xl mx-auto px-4 py-10 text-gray-500">Loading…</p>;
 
   const isSeller = user.role === 'seller';
+  const chartData = groupByDay(data.transactions);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
@@ -40,20 +55,29 @@ export default function Dashboard() {
         {isSeller ? (
           <>
             <StatCard label="Total kWh Sold" value={data.totalKwhSold.toFixed(1)} />
-            <StatCard label="Total Earnings" value={`$${data.totalEarnings.toFixed(2)}`} />
+            <StatCard label="Total Earnings" value={`₹${data.totalEarnings.toFixed(2)}`} />
             <StatCard label="Completed Sales" value={data.transactions.length} />
           </>
         ) : (
           <>
             <StatCard label="Total kWh Bought" value={data.totalKwhBought.toFixed(1)} />
-            <StatCard label="Total Spending" value={`$${data.totalSpending.toFixed(2)}`} />
+            <StatCard label="Total Spending" value={`₹${data.totalSpending.toFixed(2)}`} />
             <StatCard
               label="Saved via Community Pricing"
-              value={`$${data.totalSavings.toFixed(2)}`}
+              value={`₹${data.totalSavings.toFixed(2)}`}
             />
           </>
         )}
       </div>
+
+      {chartData.length > 0 && (
+        <div className="bg-white border border-gray-200 rounded-xl p-5 mb-8">
+          <h2 className="text-sm font-semibold text-gray-900 mb-4">
+            {isSeller ? 'Earnings over time' : 'Spending over time'}
+          </h2>
+          <BarChart data={chartData} formatValue={(v) => `₹${v.toFixed(0)}`} />
+        </div>
+      )}
 
       <h2 className="text-lg font-semibold text-gray-900 mb-3">Transaction History</h2>
       {data.transactions.length === 0 ? (
@@ -70,7 +94,7 @@ export default function Dashboard() {
                   {isSeller ? t.buyer_name : t.seller_name} · {t.location}
                 </p>
                 <p className="text-gray-500">
-                  {Number(t.kwh_requested).toFixed(1)} kWh at ${Number(t.price_applied).toFixed(2)}
+                  {Number(t.kwh_requested).toFixed(1)} kWh at ₹{Number(t.price_applied).toFixed(2)}
                   /kWh
                   {t.is_priority && (
                     <span className="ml-2 text-brand-600 font-medium">Community rate</span>

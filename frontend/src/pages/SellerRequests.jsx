@@ -67,7 +67,7 @@ export default function SellerRequests() {
                   </span>
                 </div>
                 <p className="text-sm text-gray-600">
-                  {Number(r.kwh_requested).toFixed(1)} kWh at ${Number(r.price_applied).toFixed(2)}
+                  {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
                   /kWh · {r.location}
                 </p>
               </div>
