@@ -42,6 +42,7 @@ export default function Profile() {
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Location</label>
           <input
+            placeholder="e.g. Pune, Maharashtra"
             value={location}
             onChange={(e) => setLocation(e.target.value)}
             className="w-full border border-gray-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-brand-500"
