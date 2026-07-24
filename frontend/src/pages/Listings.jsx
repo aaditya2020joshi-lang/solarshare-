@@ -36,14 +36,14 @@ export default function Listings() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">Browse Energy Listings</h1>
+      <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Browse Energy Listings</h1>
 
       <form onSubmit={fetchListings} className="flex flex-wrap gap-3 mb-8">
         <input
           placeholder="Filter by location"
           value={location}
           onChange={(e) => setLocation(e.target.value)}
-          className="border border-gray-300 rounded-lg px-3 py-2 text-sm flex-1 min-w-[180px] focus:outline-none focus:ring-2 focus:ring-brand-500"
+          className="border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white rounded-lg px-3 py-2 text-sm flex-1 min-w-[180px] focus:outline-none focus:ring-2 focus:ring-brand-500"
         />
         <input
           type="number"
@@ -51,7 +51,7 @@ export default function Listings() {
           placeholder="Max price per kWh"
           value={maxPrice}
           onChange={(e) => setMaxPrice(e.target.value)}
-          className="border border-gray-300 rounded-lg px-3 py-2 text-sm w-40 focus:outline-none focus:ring-2 focus:ring-brand-500"
+          className="border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white rounded-lg px-3 py-2 text-sm w-40 focus:outline-none focus:ring-2 focus:ring-brand-500"
         />
         <input
           type="number"
@@ -59,12 +59,12 @@ export default function Listings() {
           placeholder="Min kWh available"
           value={minKwh}
           onChange={(e) => setMinKwh(e.target.value)}
-          className="border border-gray-300 rounded-lg px-3 py-2 text-sm w-40 focus:outline-none focus:ring-2 focus:ring-brand-500"
+          className="border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white rounded-lg px-3 py-2 text-sm w-40 focus:outline-none focus:ring-2 focus:ring-brand-500"
         />
         <select
           value={sort}
           onChange={handleSortChange}
-          className="border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
+          className="border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
         >
           <option value="newest">Newest first</option>
           <option value="price_asc">Price: low to high</option>
@@ -72,7 +72,7 @@ export default function Listings() {
         </select>
         <button
           type="submit"
-          className="bg-brand-600 hover:bg-brand-700 text-white font-medium px-5 rounded-lg text-sm"
+          className="bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-medium px-5 rounded-full text-sm transition-all"
         >
           Search
         </button>

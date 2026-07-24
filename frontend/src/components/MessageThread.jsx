@@ -35,13 +35,13 @@ export default function MessageThread({ requestId }) {
   }
 
   return (
-    <div className="border-t border-gray-100 mt-3 pt-3">
+    <div className="border-t border-gray-100 dark:border-gray-800 mt-3 pt-3">
       {loading ? (
         <Spinner label="Loading messages…" className="text-xs" />
       ) : (
         <div className="space-y-2 max-h-48 overflow-y-auto mb-2">
           {messages.length === 0 && (
-            <p className="text-xs text-gray-400">No messages yet — say hello.</p>
+            <p className="text-xs text-gray-400 dark:text-gray-500">No messages yet — say hello.</p>
           )}
           {messages.map((m) => {
             const isMine = m.sender_id === user.id;
@@ -53,7 +53,7 @@ export default function MessageThread({ requestId }) {
                 {!isMine && <Avatar name={m.sender_name} size="w-5 h-5" />}
                 <div
                   className={`max-w-[75%] rounded-lg px-3 py-1.5 text-sm ${
-                    isMine ? 'bg-brand-600 text-white' : 'bg-gray-100 text-gray-800'
+                    isMine ? 'bg-brand-600 text-white' : 'bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200'
                   }`}
                 >
                   {!isMine && <p className="text-xs font-medium opacity-70">{m.sender_name}</p>}
@@ -70,7 +70,7 @@ export default function MessageThread({ requestId }) {
           value={body}
           onChange={(e) => setBody(e.target.value)}
           placeholder="Write a message…"
-          className="flex-1 border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
+          className="flex-1 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
         />
         <button
           type="submit"

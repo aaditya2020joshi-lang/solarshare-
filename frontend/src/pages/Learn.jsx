@@ -76,12 +76,12 @@ const sellerSteps = [
 
 function StepList({ title, steps, accent }) {
   return (
-    <div className="bg-white border border-gray-200 rounded-xl p-6">
+    <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6">
       <h3 className={`font-semibold mb-4 ${accent}`}>{title}</h3>
       <ol className="space-y-3">
         {steps.map((step, i) => (
-          <li key={i} className="flex gap-3 text-sm text-gray-700">
-            <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-100 text-gray-700 text-xs font-semibold flex items-center justify-center">
+          <li key={i} className="flex gap-3 text-sm text-gray-700 dark:text-gray-300">
+            <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 text-xs font-semibold flex items-center justify-center">
               {i + 1}
             </span>
             <span>{step}</span>
@@ -96,52 +96,58 @@ export default function Learn() {
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
       <div className="text-center mb-12">
-        <h1 className="text-3xl font-bold text-gray-900 mb-3">Learn</h1>
-        <p className="text-gray-600 max-w-2xl mx-auto">
+        <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">Learn</h1>
+        <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
           A quick guide to using SolarShare, plus the basics of choosing solar panels for your
           own space.
         </p>
       </div>
 
       <section className="mb-14">
-        <h2 className="text-xl font-bold text-gray-900 mb-5">How SolarShare works</h2>
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-5">How SolarShare works</h2>
         <div className="grid sm:grid-cols-2 gap-5">
-          <StepList title="For Buyers" steps={buyerSteps} accent="text-brand-700" />
-          <StepList title="For Sellers" steps={sellerSteps} accent="text-sky-700" />
+          <StepList title="For Buyers" steps={buyerSteps} accent="text-brand-700 dark:text-brand-400" />
+          <StepList title="For Sellers" steps={sellerSteps} accent="text-sky-700 dark:text-sky-400" />
         </div>
       </section>
 
       <section className="mb-14">
-        <h2 className="text-xl font-bold text-gray-900 mb-2">Choosing a solar panel type</h2>
-        <p className="text-gray-600 text-sm mb-5">
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">Choosing a solar panel type</h2>
+        <p className="text-gray-600 dark:text-gray-400 text-sm mb-5">
           If you're thinking about installing solar yourself so you can start selling, here's a
           quick primer. This is general guidance — always get a site survey from a certified
           installer before deciding.
         </p>
         <div className="grid sm:grid-cols-3 gap-5">
           {panelTypes.map((p) => (
-            <div key={p.name} className="bg-white border border-gray-200 rounded-xl p-5">
+            <div
+              key={p.name}
+              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 p-5"
+            >
               <div className="text-2xl mb-2">{p.icon}</div>
-              <h3 className="font-semibold text-gray-900 mb-1">{p.name}</h3>
-              <p className="text-xs text-brand-600 font-medium mb-2">{p.efficiency}</p>
-              <p className="text-sm text-gray-600 mb-3">{p.description}</p>
-              <p className="text-xs text-gray-500 font-medium">{p.bestFor}</p>
+              <h3 className="font-semibold text-gray-900 dark:text-white mb-1">{p.name}</h3>
+              <p className="text-xs text-brand-600 dark:text-brand-400 font-medium mb-2">{p.efficiency}</p>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">{p.description}</p>
+              <p className="text-xs text-gray-500 dark:text-gray-500 font-medium">{p.bestFor}</p>
             </div>
           ))}
         </div>
       </section>
 
       <section>
-        <h2 className="text-xl font-bold text-gray-900 mb-2">What space do you have?</h2>
-        <p className="text-gray-600 text-sm mb-5">
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">What space do you have?</h2>
+        <p className="text-gray-600 dark:text-gray-400 text-sm mb-5">
           Different living situations suit different setups — here's what tends to work where.
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {spaces.map((s) => (
-            <div key={s.name} className="bg-white border border-gray-200 rounded-xl p-5">
+            <div
+              key={s.name}
+              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 p-5"
+            >
               <div className="text-2xl mb-2">{s.icon}</div>
-              <h3 className="font-semibold text-gray-900 mb-1">{s.name}</h3>
-              <p className="text-sm text-gray-600">{s.description}</p>
+              <h3 className="font-semibold text-gray-900 dark:text-white mb-1">{s.name}</h3>
+              <p className="text-sm text-gray-600 dark:text-gray-400">{s.description}</p>
             </div>
           ))}
         </div>

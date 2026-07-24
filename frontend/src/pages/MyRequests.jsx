@@ -6,9 +6,9 @@ import Spinner from '../components/Spinner';
 import { InboxIcon, BoltIcon } from '../components/icons';
 
 const statusStyles = {
-  pending: 'bg-yellow-100 text-yellow-700',
-  accepted: 'bg-brand-100 text-brand-700',
-  declined: 'bg-red-100 text-red-700',
+  pending: 'bg-yellow-100 dark:bg-yellow-900/50 text-yellow-700 dark:text-yellow-300',
+  accepted: 'bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300',
+  declined: 'bg-red-100 dark:bg-red-900/50 text-red-700 dark:text-red-300',
 };
 
 export default function MyRequests() {
@@ -40,7 +40,7 @@ export default function MyRequests() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">My Requests</h1>
+      <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">My Requests</h1>
 
       {loading ? (
         <Spinner label="Loading requests…" />
@@ -54,14 +54,14 @@ export default function MyRequests() {
           {requests.map((r) => (
             <div
               key={r.id}
-              className="border border-gray-200 bg-white rounded-xl p-4 transition-shadow hover:shadow-sm"
+              className="border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 rounded-xl p-4 shadow-sm hover:shadow-md transition-all"
             >
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
                 <div className="flex items-start gap-3">
                   <Avatar name={r.seller_name} />
                   <div>
                     <div className="flex flex-wrap items-center gap-2 mb-1">
-                      <span className="font-semibold text-gray-900">{r.seller_name}</span>
+                      <span className="font-semibold text-gray-900 dark:text-white">{r.seller_name}</span>
                       {r.is_priority && (
                         <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
                           ⭐ Community Priority
@@ -73,7 +73,7 @@ export default function MyRequests() {
                         {r.status}
                       </span>
                     </div>
-                    <p className="text-sm text-gray-600 flex items-center gap-1">
+                    <p className="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-1">
                       <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
                       {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
                       /kWh · {r.location}
@@ -86,14 +86,14 @@ export default function MyRequests() {
                     <button
                       onClick={() => cancel(r.id)}
                       disabled={actingId === r.id}
-                      className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
+                      className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
                     >
                       Cancel request
                     </button>
                   )}
                   <button
                     onClick={() => setOpenThreadId(openThreadId === r.id ? null : r.id)}
-                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors"
+                    className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors"
                   >
                     {openThreadId === r.id ? 'Hide messages' : 'Message'}
                   </button>

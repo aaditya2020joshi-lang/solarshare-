@@ -8,13 +8,13 @@ import { BoltIcon, RupeeIcon, InboxIcon } from '../components/icons';
 
 function StatCard({ label, value, icon }) {
   return (
-    <div className="bg-white border border-gray-200 rounded-xl p-5 flex items-center gap-4 transition-shadow hover:shadow-sm">
-      <div className="w-10 h-10 rounded-lg bg-brand-50 text-brand-600 flex items-center justify-center flex-shrink-0">
+    <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl p-5 flex items-center gap-4 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all">
+      <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 text-brand-600 dark:text-brand-400 flex items-center justify-center flex-shrink-0">
         {icon}
       </div>
       <div>
-        <p className="text-sm text-gray-500 mb-1">{label}</p>
-        <p className="text-2xl font-bold text-gray-900">{value}</p>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">{label}</p>
+        <p className="text-2xl font-bold text-gray-900 dark:text-white">{value}</p>
       </div>
     </div>
   );
@@ -64,7 +64,7 @@ export default function Dashboard() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">
+      <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
         {isSeller ? 'Seller Dashboard' : 'Buyer Dashboard'}
       </h1>
 
@@ -110,14 +110,14 @@ export default function Dashboard() {
 
       {moneyChartData.length > 0 && (
         <div className="grid sm:grid-cols-2 gap-4 mb-8">
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-            <h2 className="text-sm font-semibold text-gray-900 mb-4">
+          <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-5">
+            <h2 className="text-sm font-semibold text-gray-900 dark:text-white mb-4">
               {isSeller ? 'Earnings over time' : 'Spending over time'}
             </h2>
             <BarChart data={moneyChartData} formatValue={(v) => `₹${v.toFixed(0)}`} />
           </div>
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-            <h2 className="text-sm font-semibold text-gray-900 mb-4">
+          <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-5">
+            <h2 className="text-sm font-semibold text-gray-900 dark:text-white mb-4">
               {isSeller ? 'kWh sold over time' : 'kWh bought over time'}
             </h2>
             <BarChart data={kwhChartData} formatValue={(v) => `${v.toFixed(1)}`} />
@@ -125,7 +125,7 @@ export default function Dashboard() {
         </div>
       )}
 
-      <h2 className="text-lg font-semibold text-gray-900 mb-3">Transaction History</h2>
+      <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">Transaction History</h2>
       {data.transactions.length === 0 ? (
         <div className="text-center py-16 text-gray-400">
           <InboxIcon className="w-10 h-10 mx-auto mb-3" />
@@ -136,25 +136,25 @@ export default function Dashboard() {
           {data.transactions.map((t) => (
             <div
               key={t.id}
-              className="bg-white border border-gray-200 rounded-lg p-4 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 text-sm transition-shadow hover:shadow-sm"
+              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-xl p-4 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-2 text-sm shadow-sm hover:shadow-md transition-all"
             >
               <div className="flex items-start gap-3">
                 <Avatar name={isSeller ? t.buyer_name : t.seller_name} size="w-8 h-8" />
                 <div>
-                  <p className="font-medium text-gray-900">
+                  <p className="font-medium text-gray-900 dark:text-white">
                     {isSeller ? t.buyer_name : t.seller_name} · {t.location}
                   </p>
-                  <p className="text-gray-500 flex items-center gap-1">
+                  <p className="text-gray-500 dark:text-gray-400 flex items-center gap-1">
                     <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
                     {Number(t.kwh_requested).toFixed(1)} kWh at ₹{Number(t.price_applied).toFixed(2)}
                     /kWh
                     {t.is_priority && (
-                      <span className="ml-1 text-brand-600 font-medium">Community rate</span>
+                      <span className="ml-1 text-brand-600 dark:text-brand-400 font-medium">Community rate</span>
                     )}
                   </p>
                 </div>
               </div>
-              <span className="text-gray-400">
+              <span className="text-gray-400 dark:text-gray-500">
                 {new Date(t.responded_at).toLocaleDateString()}
               </span>
             </div>

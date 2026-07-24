@@ -30,7 +30,7 @@ export default function FaqChatWidget() {
   return (
     <>
       {open && (
-        <div className="fixed bottom-24 right-5 z-40 w-80 max-w-[calc(100vw-2.5rem)] bg-white border border-gray-200 rounded-xl shadow-xl flex flex-col overflow-hidden">
+        <div className="fixed bottom-24 right-5 z-40 w-80 max-w-[calc(100vw-2.5rem)] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl shadow-xl flex flex-col overflow-hidden">
           <div className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-3 flex items-center justify-between">
             <span className="font-semibold text-sm">SolarShare Help</span>
             <button onClick={() => setOpen(false)} aria-label="Close chat" className="p-1">
@@ -45,7 +45,7 @@ export default function FaqChatWidget() {
               <div key={i} className={`flex ${m.from === 'user' ? 'justify-end' : 'justify-start'}`}>
                 <div
                   className={`max-w-[85%] rounded-lg px-3 py-1.5 text-sm ${
-                    m.from === 'user' ? 'bg-brand-600 text-white' : 'bg-gray-100 text-gray-800'
+                    m.from === 'user' ? 'bg-brand-600 text-white' : 'bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200'
                   }`}
                 >
                   {m.text}
@@ -59,7 +59,7 @@ export default function FaqChatWidget() {
                   <button
                     key={q}
                     onClick={() => ask(q)}
-                    className="text-xs bg-brand-50 text-brand-700 border border-brand-200 rounded-full px-2.5 py-1 hover:bg-brand-100"
+                    className="text-xs bg-brand-50 dark:bg-brand-950/50 text-brand-700 dark:text-brand-300 border border-brand-200 dark:border-brand-800 rounded-full px-2.5 py-1 hover:bg-brand-100 dark:hover:bg-brand-900/50"
                   >
                     {q}
                   </button>
@@ -68,12 +68,12 @@ export default function FaqChatWidget() {
             )}
           </div>
 
-          <form onSubmit={handleSubmit} className="border-t border-gray-100 p-2 flex gap-2">
+          <form onSubmit={handleSubmit} className="border-t border-gray-100 dark:border-gray-800 p-2 flex gap-2">
             <input
               value={input}
               onChange={(e) => setInput(e.target.value)}
               placeholder="Ask a question…"
-              className="flex-1 border border-gray-300 rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
+              className="flex-1 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
             />
             <button
               type="submit"

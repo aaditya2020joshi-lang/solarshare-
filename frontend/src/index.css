@@ -1,14 +1,63 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
   --color-brand-50: #f0fdf6;
   --color-brand-100: #dcfce9;
+  --color-brand-200: #bbf1d0;
   --color-brand-500: #16a34a;
   --color-brand-600: #15803d;
   --color-brand-700: #166534;
+  --color-brand-900: #052e16;
   --color-sky-accent: #0ea5e9;
 }
 
 body {
   margin: 0;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out both;
+}
+
+@keyframes blob-float {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(20px, -30px) scale(1.05);
+  }
+  66% {
+    transform: translate(-15px, 15px) scale(0.97);
+  }
+}
+
+.animate-blob {
+  animation: blob-float 12s ease-in-out infinite;
+}
+
+.animate-blob-delay {
+  animation: blob-float 12s ease-in-out infinite;
+  animation-delay: -6s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html.dark body {
+  background-color: #0b1120;
 }

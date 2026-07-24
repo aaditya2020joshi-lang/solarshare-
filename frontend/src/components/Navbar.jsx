@@ -1,9 +1,31 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
+import { useTheme } from '../context/ThemeContext';
+
+function SunIcon({ className = 'w-5 h-5' }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.36 6.36l-.7-.7M6.34 6.34l-.7-.7m12.02 0l-.7.7M6.34 17.66l-.7.7M16 12a4 4 0 11-8 0 4 4 0 018 0z"
+      />
+    </svg>
+  );
+}
+
+function MoonIcon({ className = 'w-5 h-5' }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path strokeLinecap="round" strokeLinejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 1020.354 15.354z" />
+    </svg>
+  );
+}
 
 export default function Navbar() {
   const { user, logout } = useAuth();
+  const { theme, toggleTheme } = useTheme();
   const navigate = useNavigate();
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -17,61 +39,64 @@ export default function Navbar() {
     setMenuOpen(false);
   }
 
+  const linkClass =
+    'relative text-gray-600 dark:text-gray-300 hover:text-brand-600 dark:hover:text-brand-400 transition-colors';
+
   const links = (
     <>
-      <Link to="/listings" onClick={closeMenu} className="hover:text-brand-100">
+      <Link to="/listings" onClick={closeMenu} className={linkClass}>
         Browse Listings
       </Link>
-      <Link to="/learn" onClick={closeMenu} className="hover:text-brand-100">
+      <Link to="/learn" onClick={closeMenu} className={linkClass}>
         Learn
       </Link>
 
       {user?.role === 'seller' && (
         <>
-          <Link to="/seller/listings" onClick={closeMenu} className="hover:text-brand-100">
+          <Link to="/seller/listings" onClick={closeMenu} className={linkClass}>
             My Listings
           </Link>
-          <Link to="/seller/requests" onClick={closeMenu} className="hover:text-brand-100">
+          <Link to="/seller/requests" onClick={closeMenu} className={linkClass}>
             Requests
           </Link>
         </>
       )}
 
       {user?.role === 'buyer' && (
-        <Link to="/buyer/requests" onClick={closeMenu} className="hover:text-brand-100">
+        <Link to="/buyer/requests" onClick={closeMenu} className={linkClass}>
           My Requests
         </Link>
       )}
 
       {user ? (
         <>
-          <Link to="/dashboard" onClick={closeMenu} className="hover:text-brand-100">
+          <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
           </Link>
-          <Link to="/profile" onClick={closeMenu} className="hover:text-brand-100">
+          <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile
           </Link>
           {user.isAdmin && (
-            <Link to="/admin" onClick={closeMenu} className="hover:text-brand-100">
+            <Link to="/admin" onClick={closeMenu} className={linkClass}>
               Admin
             </Link>
           )}
           <button
             onClick={handleLogout}
-            className="bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition text-left"
+            className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 px-4 py-1.5 rounded-full transition-colors text-left"
           >
             Log out
           </button>
         </>
       ) : (
         <>
-          <Link to="/login" onClick={closeMenu} className="hover:text-brand-100">
+          <Link to="/login" onClick={closeMenu} className={linkClass}>
             Log in
           </Link>
           <Link
             to="/signup"
             onClick={closeMenu}
-            className="bg-white text-brand-700 px-3 py-1.5 rounded-lg font-semibold hover:bg-brand-50 transition text-center"
+            className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
           >
             Sign up
           </Link>
@@ -81,33 +106,57 @@ export default function Navbar() {
   );
 
   return (
-    <nav className="bg-gradient-to-r from-brand-600 to-sky-accent text-white shadow-md">
+    <nav className="sticky top-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-100 dark:border-gray-800">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link to="/" onClick={closeMenu} className="text-xl font-bold tracking-tight">
+        <Link
+          to="/"
+          onClick={closeMenu}
+          className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
+        >
           ☀️ SolarShare
         </Link>
 
-        <div className="hidden md:flex items-center gap-4 text-sm font-medium">{links}</div>
+        <div className="hidden md:flex items-center gap-5 text-sm font-medium">
+          {links}
+          <button
+            onClick={toggleTheme}
+            aria-label="Toggle dark mode"
+            className="p-2 rounded-full text-gray-500 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+          >
+            {theme === 'dark' ? <SunIcon /> : <MoonIcon />}
+          </button>
+        </div>
 
-        <button
-          onClick={() => setMenuOpen((open) => !open)}
-          className="md:hidden p-2 -mr-2"
-          aria-label="Toggle menu"
-        >
-          {menuOpen ? (
-            <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-            </svg>
-          ) : (
-            <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-            </svg>
-          )}
-        </button>
+        <div className="flex items-center gap-2 md:hidden">
+          <button
+            onClick={toggleTheme}
+            aria-label="Toggle dark mode"
+            className="p-2 rounded-full text-gray-500 dark:text-gray-300"
+          >
+            {theme === 'dark' ? <SunIcon className="w-5 h-5" /> : <MoonIcon className="w-5 h-5" />}
+          </button>
+          <button
+            onClick={() => setMenuOpen((open) => !open)}
+            className="p-2 -mr-2 text-gray-700 dark:text-gray-200"
+            aria-label="Toggle menu"
+          >
+            {menuOpen ? (
+              <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            ) : (
+              <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+            )}
+          </button>
+        </div>
       </div>
 
       {menuOpen && (
-        <div className="md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-medium">{links}</div>
+        <div className="md:hidden px-4 pb-4 flex flex-col gap-3 text-sm font-medium bg-white dark:bg-gray-900">
+          {links}
+        </div>
       )}
     </nav>
   );

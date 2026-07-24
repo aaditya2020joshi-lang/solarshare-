@@ -34,7 +34,7 @@ export default function SellerRequests() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">Incoming Requests</h1>
+      <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Incoming Requests</h1>
 
       {loading ? (
         <Spinner label="Loading requests…" />
@@ -48,10 +48,10 @@ export default function SellerRequests() {
           {requests.map((r) => (
             <div
               key={r.id}
-              className={`border rounded-xl p-4 transition-shadow hover:shadow-sm ${
+              className={`border rounded-xl p-4 shadow-sm hover:shadow-md transition-all ${
                 r.is_priority
-                  ? 'border-brand-400 bg-brand-50 ring-1 ring-brand-200'
-                  : 'border-gray-200 bg-white'
+                  ? 'border-brand-400 dark:border-brand-700 bg-brand-50 dark:bg-brand-950/40 ring-1 ring-brand-200 dark:ring-brand-800'
+                  : 'border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900'
               }`}
             >
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
@@ -59,7 +59,7 @@ export default function SellerRequests() {
                   <Avatar name={r.buyer_name} />
                   <div>
                     <div className="flex flex-wrap items-center gap-2 mb-1">
-                      <span className="font-semibold text-gray-900">{r.buyer_name}</span>
+                      <span className="font-semibold text-gray-900 dark:text-white">{r.buyer_name}</span>
                       {r.is_priority && (
                         <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
                           ⭐ Community Priority
@@ -68,16 +68,16 @@ export default function SellerRequests() {
                       <span
                         className={`text-xs px-2 py-0.5 rounded-full font-medium ${
                           r.status === 'pending'
-                            ? 'bg-yellow-100 text-yellow-700'
+                            ? 'bg-yellow-100 dark:bg-yellow-900/50 text-yellow-700 dark:text-yellow-300'
                             : r.status === 'accepted'
-                            ? 'bg-brand-100 text-brand-700'
-                            : 'bg-red-100 text-red-700'
+                            ? 'bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300'
+                            : 'bg-red-100 dark:bg-red-900/50 text-red-700 dark:text-red-300'
                         }`}
                       >
                         {r.status}
                       </span>
                     </div>
-                    <p className="text-sm text-gray-600 flex items-center gap-1">
+                    <p className="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-1">
                       <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
                       {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
                       /kWh · {r.location}
@@ -98,7 +98,7 @@ export default function SellerRequests() {
                       <button
                         onClick={() => respond(r.id, 'declined')}
                         disabled={actingId === r.id}
-                        className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
+                        className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
                       >
                         Decline
                       </button>
@@ -106,7 +106,7 @@ export default function SellerRequests() {
                   )}
                   <button
                     onClick={() => setOpenThreadId(openThreadId === r.id ? null : r.id)}
-                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg"
+                    className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors"
                   >
                     {openThreadId === r.id ? 'Hide messages' : 'Message'}
                   </button>

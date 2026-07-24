@@ -48,16 +48,16 @@ export default function MyListings() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
       <div className="flex items-center justify-between mb-6">
-        <h1 className="text-2xl font-bold text-gray-900">My Listings</h1>
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white">My Listings</h1>
         <Link
           to="/seller/listings/new"
-          className="bg-brand-600 hover:bg-brand-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors"
+          className="bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white text-sm font-semibold px-4 py-2 rounded-full transition-all"
         >
           New Listing
         </Link>
       </div>
 
-      {error && <p className="text-sm text-red-600 mb-4">{error}</p>}
+      {error && <p className="text-sm text-red-600 dark:text-red-400 mb-4">{error}</p>}
 
       {loading ? (
         <Spinner label="Loading listings…" />
@@ -71,25 +71,25 @@ export default function MyListings() {
           {listings.map((l) => (
             <div
               key={l.id}
-              className="border border-gray-200 bg-white rounded-xl p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 transition-shadow hover:shadow-sm"
+              className="border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 rounded-xl p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 shadow-sm hover:shadow-md transition-all"
             >
               <div>
                 <div className="flex flex-wrap items-center gap-2 mb-1">
-                  <span className="font-semibold text-gray-900 flex items-center gap-1">
+                  <span className="font-semibold text-gray-900 dark:text-white flex items-center gap-1">
                     <LocationIcon className="w-3.5 h-3.5 text-gray-400" />
                     {l.location}
                   </span>
                   <span
                     className={`text-xs px-2 py-0.5 rounded-full font-medium ${
                       l.status === 'active'
-                        ? 'bg-brand-100 text-brand-700'
-                        : 'bg-gray-100 text-gray-600'
+                        ? 'bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300'
+                        : 'bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400'
                     }`}
                   >
                     {l.status}
                   </span>
                 </div>
-                <p className="text-sm text-gray-600 flex items-center gap-1">
+                <p className="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-1">
                   <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
                   {Number(l.kwh_available).toFixed(1)} kWh available · ₹
                   {Number(l.standard_price).toFixed(2)}/kWh
@@ -103,7 +103,7 @@ export default function MyListings() {
                   <button
                     onClick={() => closeListing(l.id)}
                     disabled={actingId === l.id}
-                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
+                    className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
                   >
                     Close
                   </button>
@@ -111,7 +111,7 @@ export default function MyListings() {
                 <button
                   onClick={() => deleteListing(l.id)}
                   disabled={actingId === l.id}
-                  className="bg-red-50 hover:bg-red-100 text-red-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
+                  className="bg-red-50 dark:bg-red-950/50 hover:bg-red-100 dark:hover:bg-red-900/50 text-red-700 dark:text-red-400 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
                 >
                   Delete
                 </button>

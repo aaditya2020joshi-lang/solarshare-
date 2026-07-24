@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useTheme } from '../context/ThemeContext';
 
 const BAR_MAX_WIDTH = 24;
 const CHART_HEIGHT = 160;
@@ -21,6 +22,11 @@ function roundedTopBarPath(x, y, w, h, r) {
 
 export default function BarChart({ data, formatValue = (v) => v }) {
   const [hoverIndex, setHoverIndex] = useState(null);
+  const { theme } = useTheme();
+  const isDark = theme === 'dark';
+  const gridColor = isDark ? 'rgba(255,255,255,0.12)' : '#e5e7eb';
+  const axisTextColor = '#9ca3af';
+  const baselineColor = isDark ? 'rgba(255,255,255,0.25)' : '#c3c2b7';
 
   const max = niceMax(Math.max(...data.map((d) => d.value), 0));
   const ticks = [0, max / 2, max];
@@ -47,10 +53,10 @@ export default function BarChart({ data, formatValue = (v) => v }) {
                 x2={width}
                 y1={y}
                 y2={y}
-                stroke="#e5e7eb"
+                stroke={gridColor}
                 strokeWidth="1"
               />
-              <text x={LEFT_MARGIN - 6} y={y + 3} fontSize="10" fill="#9ca3af" textAnchor="end">
+              <text x={LEFT_MARGIN - 6} y={y + 3} fontSize="10" fill={axisTextColor} textAnchor="end">
                 {formatValue(t)}
               </text>
             </g>
@@ -76,7 +82,7 @@ export default function BarChart({ data, formatValue = (v) => v }) {
                 x={x + barWidth / 2}
                 y={CHART_HEIGHT + 16}
                 fontSize="10"
-                fill="#9ca3af"
+                fill={axisTextColor}
                 textAnchor="middle"
               >
                 {d.label}
@@ -103,7 +109,7 @@ export default function BarChart({ data, formatValue = (v) => v }) {
           );
         })}
 
-        <line x1={LEFT_MARGIN} x2={width} y1={CHART_HEIGHT} y2={CHART_HEIGHT} stroke="#c3c2b7" strokeWidth="1" />
+        <line x1={LEFT_MARGIN} x2={width} y1={CHART_HEIGHT} y2={CHART_HEIGHT} stroke={baselineColor} strokeWidth="1" />
       </svg>
     </div>
   );
