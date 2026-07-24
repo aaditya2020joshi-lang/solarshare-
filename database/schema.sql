@@ -8,6 +8,7 @@ CREATE TABLE users (
     role TEXT NOT NULL CHECK (role IN ('seller', 'buyer')),
     community_priority BOOLEAN NOT NULL DEFAULT FALSE,
     location TEXT,
+    is_admin BOOLEAN NOT NULL DEFAULT FALSE,
     created_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );
 
@@ -36,8 +37,17 @@ CREATE TABLE requests (
     responded_at TIMESTAMPTZ
 );
 
+CREATE TABLE messages (
+    id SERIAL PRIMARY KEY,
+    request_id INTEGER NOT NULL REFERENCES requests(id) ON DELETE CASCADE,
+    sender_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    body TEXT NOT NULL,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+
 CREATE INDEX idx_listings_seller ON listings(seller_id);
 CREATE INDEX idx_listings_status ON listings(status);
 CREATE INDEX idx_requests_listing ON requests(listing_id);
 CREATE INDEX idx_requests_buyer ON requests(buyer_id);
 CREATE INDEX idx_requests_status ON requests(status);
+CREATE INDEX idx_messages_request ON messages(request_id);

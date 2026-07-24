@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
+import MessageThread from '../components/MessageThread';
 
 const statusStyles = {
   pending: 'bg-yellow-100 text-yellow-700',
@@ -11,6 +12,7 @@ export default function MyRequests() {
   const [requests, setRequests] = useState([]);
   const [loading, setLoading] = useState(true);
   const [actingId, setActingId] = useState(null);
+  const [openThreadId, setOpenThreadId] = useState(null);
 
   async function fetchRequests() {
     setLoading(true);
@@ -44,39 +46,48 @@ export default function MyRequests() {
       ) : (
         <div className="space-y-3">
           {requests.map((r) => (
-            <div
-              key={r.id}
-              className="border border-gray-200 bg-white rounded-xl p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3"
-            >
-              <div>
-                <div className="flex flex-wrap items-center gap-2 mb-1">
-                  <span className="font-semibold text-gray-900">{r.seller_name}</span>
-                  {r.is_priority && (
-                    <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
-                      ⭐ Community Priority
+            <div key={r.id} className="border border-gray-200 bg-white rounded-xl p-4">
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+                <div>
+                  <div className="flex flex-wrap items-center gap-2 mb-1">
+                    <span className="font-semibold text-gray-900">{r.seller_name}</span>
+                    {r.is_priority && (
+                      <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
+                        ⭐ Community Priority
+                      </span>
+                    )}
+                    <span
+                      className={`text-xs px-2 py-0.5 rounded-full font-medium ${statusStyles[r.status]}`}
+                    >
+                      {r.status}
                     </span>
-                  )}
-                  <span
-                    className={`text-xs px-2 py-0.5 rounded-full font-medium ${statusStyles[r.status]}`}
-                  >
-                    {r.status}
-                  </span>
+                  </div>
+                  <p className="text-sm text-gray-600">
+                    {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
+                    /kWh · {r.location}
+                  </p>
                 </div>
-                <p className="text-sm text-gray-600">
-                  {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
-                  /kWh · {r.location}
-                </p>
+
+                <div className="flex gap-2 self-start sm:self-auto">
+                  {r.status === 'pending' && (
+                    <button
+                      onClick={() => cancel(r.id)}
+                      disabled={actingId === r.id}
+                      className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg disabled:opacity-60"
+                    >
+                      Cancel request
+                    </button>
+                  )}
+                  <button
+                    onClick={() => setOpenThreadId(openThreadId === r.id ? null : r.id)}
+                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg"
+                  >
+                    {openThreadId === r.id ? 'Hide messages' : 'Message'}
+                  </button>
+                </div>
               </div>
 
-              {r.status === 'pending' && (
-                <button
-                  onClick={() => cancel(r.id)}
-                  disabled={actingId === r.id}
-                  className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg disabled:opacity-60 self-start sm:self-auto"
-                >
-                  Cancel request
-                </button>
-              )}
+              {openThreadId === r.id && <MessageThread requestId={r.id} />}
             </div>
           ))}
         </div>

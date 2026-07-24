@@ -7,6 +7,8 @@ import userRoutes from './routes/users.routes.js';
 import listingRoutes from './routes/listings.routes.js';
 import requestRoutes from './routes/requests.routes.js';
 import dashboardRoutes from './routes/dashboard.routes.js';
+import adminRoutes from './routes/admin.routes.js';
+import messagesRoutes from './routes/messages.routes.js';
 
 dotenv.config();
 
@@ -21,7 +23,9 @@ app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/listings', listingRoutes);
 app.use('/api/requests', requestRoutes);
+app.use('/api/requests', messagesRoutes);
 app.use('/api/dashboard', dashboardRoutes);
+app.use('/api/admin', adminRoutes);
 
 app.use((err, req, res, next) => {
   console.error(err);

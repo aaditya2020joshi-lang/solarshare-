@@ -48,6 +48,11 @@ export default function Navbar() {
           <Link to="/profile" onClick={closeMenu} className="hover:text-brand-100">
             Profile
           </Link>
+          {user.isAdmin && (
+            <Link to="/admin" onClick={closeMenu} className="hover:text-brand-100">
+              Admin
+            </Link>
+          )}
           <button
             onClick={handleLogout}
             className="bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition text-left"

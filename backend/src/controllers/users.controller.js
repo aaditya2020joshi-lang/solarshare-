@@ -8,6 +8,7 @@ function toPublicUser(user) {
     role: user.role,
     communityPriority: user.community_priority,
     location: user.location,
+    isAdmin: user.is_admin,
   };
 }
 

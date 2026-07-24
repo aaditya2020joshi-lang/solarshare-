@@ -4,7 +4,7 @@ import { pool } from '../config/db.js';
 
 function signToken(user) {
   return jwt.sign(
-    { id: user.id, role: user.role, name: user.name },
+    { id: user.id, role: user.role, name: user.name, isAdmin: user.is_admin },
     process.env.JWT_SECRET,
     { expiresIn: '7d' }
   );
@@ -18,6 +18,7 @@ function toPublicUser(user) {
     role: user.role,
     communityPriority: user.community_priority,
     location: user.location,
+    isAdmin: user.is_admin,
   };
 }
 
