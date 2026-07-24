@@ -13,6 +13,7 @@ import MyRequests from './pages/MyRequests';
 import Dashboard from './pages/Dashboard';
 import Profile from './pages/Profile';
 import Admin from './pages/Admin';
+import Learn from './pages/Learn';
 import WhatsAppButton from './components/WhatsAppButton';
 import FaqChatWidget from './components/FaqChatWidget';
 
@@ -26,6 +27,7 @@ export default function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/listings" element={<Listings />} />
         <Route path="/listings/:id" element={<ListingDetail />} />
+        <Route path="/learn" element={<Learn />} />
         <Route
           path="/seller/listings"
           element={

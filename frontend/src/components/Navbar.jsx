@@ -22,6 +22,9 @@ export default function Navbar() {
       <Link to="/listings" onClick={closeMenu} className="hover:text-brand-100">
         Browse Listings
       </Link>
+      <Link to="/learn" onClick={closeMenu} className="hover:text-brand-100">
+        Learn
+      </Link>
 
       {user?.role === 'seller' && (
         <>
