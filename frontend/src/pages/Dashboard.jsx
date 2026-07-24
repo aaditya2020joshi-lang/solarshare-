@@ -12,15 +12,14 @@ function StatCard({ label, value }) {
   );
 }
 
-function groupByDay(transactions) {
+function groupByDay(transactions, valueFn) {
   const byDate = new Map();
   transactions.forEach((t) => {
     const date = new Date(t.responded_at);
     const key = date.toISOString().slice(0, 10);
     const label = date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
-    const value = Number(t.kwh_requested) * Number(t.price_applied);
     if (!byDate.has(key)) byDate.set(key, { key, label, value: 0 });
-    byDate.get(key).value += value;
+    byDate.get(key).value += valueFn(t);
   });
   return Array.from(byDate.values()).sort((a, b) => a.key.localeCompare(b.key));
 }
@@ -43,7 +42,11 @@ export default function Dashboard() {
   if (loading) return <p className="max-w-5xl mx-auto px-4 py-10 text-gray-500">Loading…</p>;
 
   const isSeller = user.role === 'seller';
-  const chartData = groupByDay(data.transactions);
+  const moneyChartData = groupByDay(
+    data.transactions,
+    (t) => Number(t.kwh_requested) * Number(t.price_applied)
+  );
+  const kwhChartData = groupByDay(data.transactions, (t) => Number(t.kwh_requested));
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
@@ -70,12 +73,20 @@ export default function Dashboard() {
         )}
       </div>
 
-      {chartData.length > 0 && (
-        <div className="bg-white border border-gray-200 rounded-xl p-5 mb-8">
-          <h2 className="text-sm font-semibold text-gray-900 mb-4">
-            {isSeller ? 'Earnings over time' : 'Spending over time'}
-          </h2>
-          <BarChart data={chartData} formatValue={(v) => `₹${v.toFixed(0)}`} />
+      {moneyChartData.length > 0 && (
+        <div className="grid sm:grid-cols-2 gap-4 mb-8">
+          <div className="bg-white border border-gray-200 rounded-xl p-5">
+            <h2 className="text-sm font-semibold text-gray-900 mb-4">
+              {isSeller ? 'Earnings over time' : 'Spending over time'}
+            </h2>
+            <BarChart data={moneyChartData} formatValue={(v) => `₹${v.toFixed(0)}`} />
+          </div>
+          <div className="bg-white border border-gray-200 rounded-xl p-5">
+            <h2 className="text-sm font-semibold text-gray-900 mb-4">
+              {isSeller ? 'kWh sold over time' : 'kWh bought over time'}
+            </h2>
+            <BarChart data={kwhChartData} formatValue={(v) => `${v.toFixed(1)}`} />
+          </div>
         </div>
       )}
 

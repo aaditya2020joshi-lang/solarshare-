@@ -5,6 +5,7 @@ import Landing from './pages/Landing';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Listings from './pages/Listings';
+import ListingDetail from './pages/ListingDetail';
 import CreateListing from './pages/CreateListing';
 import MyListings from './pages/MyListings';
 import SellerRequests from './pages/SellerRequests';
@@ -24,6 +25,7 @@ export default function App() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/login" element={<Login />} />
         <Route path="/listings" element={<Listings />} />
+        <Route path="/listings/:id" element={<ListingDetail />} />
         <Route
           path="/seller/listings"
           element={
