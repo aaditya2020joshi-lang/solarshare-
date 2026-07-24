@@ -12,6 +12,8 @@ import MyRequests from './pages/MyRequests';
 import Dashboard from './pages/Dashboard';
 import Profile from './pages/Profile';
 import Admin from './pages/Admin';
+import WhatsAppButton from './components/WhatsAppButton';
+import FaqChatWidget from './components/FaqChatWidget';
 
 export default function App() {
   return (
@@ -79,6 +81,8 @@ export default function App() {
           }
         />
       </Routes>
+      <FaqChatWidget />
+      <WhatsAppButton />
     </div>
   );
 }
