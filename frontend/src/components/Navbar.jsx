@@ -50,6 +50,9 @@ export default function Navbar() {
       <Link to="/learn" onClick={closeMenu} className={linkClass}>
         Learn
       </Link>
+      <Link to="/panels" onClick={closeMenu} className={linkClass}>
+        Panel Marketplace
+      </Link>
 
       {user?.role === 'seller' && (
         <>
@@ -72,6 +75,9 @@ export default function Navbar() {
         <>
           <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
+          </Link>
+          <Link to="/my-orders" onClick={closeMenu} className={linkClass}>
+            My Orders
           </Link>
           <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile

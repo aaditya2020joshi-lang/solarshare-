@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 const panelTypes = [
   {
@@ -129,7 +130,7 @@ function StepList({ title, steps, accent }) {
   );
 }
 
-function ExpandableCard({ item, open, onToggle }) {
+function ExpandableCard({ item, open, onToggle, ctaTo, ctaLabel }) {
   return (
     <div
       className={`bg-white dark:bg-gray-900 border rounded-2xl shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden ${
@@ -168,7 +169,7 @@ function ExpandableCard({ item, open, onToggle }) {
 
       {open && (
         <div className="px-5 pb-5 animate-fade-in-up">
-          <ul className="space-y-2 border-t border-gray-100 dark:border-gray-800 pt-3">
+          <ul className="space-y-2 border-t border-gray-100 dark:border-gray-800 pt-3 mb-4">
             {item.details.map((d, i) => (
               <li key={i} className="text-sm text-gray-600 dark:text-gray-400 flex gap-2">
                 <span className="text-brand-500 dark:text-brand-400 flex-shrink-0">•</span>
@@ -176,6 +177,14 @@ function ExpandableCard({ item, open, onToggle }) {
               </li>
             ))}
           </ul>
+          {ctaTo && (
+            <Link
+              to={ctaTo}
+              className="block text-center w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white text-sm font-medium py-2 rounded-full transition-all"
+            >
+              {ctaLabel || 'Browse panels →'}
+            </Link>
+          )}
         </div>
       )}
     </div>
@@ -219,6 +228,8 @@ export default function Learn() {
               item={p}
               open={openPanel === p.name}
               onToggle={() => setOpenPanel(openPanel === p.name ? null : p.name)}
+              ctaTo={`/panels?panelType=${encodeURIComponent(p.name)}`}
+              ctaLabel={`Shop ${p.name} panels →`}
             />
           ))}
         </div>
@@ -238,6 +249,8 @@ export default function Learn() {
               item={s}
               open={openSpace === s.name}
               onToggle={() => setOpenSpace(openSpace === s.name ? null : s.name)}
+              ctaTo="/panels"
+              ctaLabel="Browse vendors & panels →"
             />
           ))}
         </div>

@@ -9,6 +9,8 @@ import requestRoutes from './routes/requests.routes.js';
 import dashboardRoutes from './routes/dashboard.routes.js';
 import adminRoutes from './routes/admin.routes.js';
 import messagesRoutes from './routes/messages.routes.js';
+import panelsRoutes from './routes/panels.routes.js';
+import panelOrdersRoutes from './routes/panelOrders.routes.js';
 
 dotenv.config();
 
@@ -26,6 +28,8 @@ app.use('/api/requests', requestRoutes);
 app.use('/api/requests', messagesRoutes);
 app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api', panelsRoutes);
+app.use('/api/panel-orders', panelOrdersRoutes);
 
 app.use((err, req, res, next) => {
   console.error(err);

@@ -14,6 +14,10 @@ import Dashboard from './pages/Dashboard';
 import Profile from './pages/Profile';
 import Admin from './pages/Admin';
 import Learn from './pages/Learn';
+import Panels from './pages/Panels';
+import PanelDetail from './pages/PanelDetail';
+import Checkout from './pages/Checkout';
+import MyPanelOrders from './pages/MyPanelOrders';
 import WhatsAppButton from './components/WhatsAppButton';
 import FaqChatWidget from './components/FaqChatWidget';
 
@@ -28,6 +32,24 @@ export default function App() {
         <Route path="/listings" element={<Listings />} />
         <Route path="/listings/:id" element={<ListingDetail />} />
         <Route path="/learn" element={<Learn />} />
+        <Route path="/panels" element={<Panels />} />
+        <Route path="/panels/:id" element={<PanelDetail />} />
+        <Route
+          path="/checkout/:id"
+          element={
+            <ProtectedRoute>
+              <Checkout />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/my-orders"
+          element={
+            <ProtectedRoute>
+              <MyPanelOrders />
+            </ProtectedRoute>
+          }
+        />
         <Route
           path="/seller/listings"
           element={
