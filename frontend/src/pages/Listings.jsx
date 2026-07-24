@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
 import ListingCard from '../components/ListingCard';
+import Spinner from '../components/Spinner';
+import { InboxIcon } from '../components/icons';
 
 export default function Listings() {
   const [listings, setListings] = useState([]);
@@ -77,9 +79,12 @@ export default function Listings() {
       </form>
 
       {loading ? (
-        <p className="text-gray-500">Loading listings…</p>
+        <Spinner label="Loading listings…" />
       ) : listings.length === 0 ? (
-        <p className="text-gray-500">No listings match your search.</p>
+        <div className="text-center py-16 text-gray-400">
+          <InboxIcon className="w-10 h-10 mx-auto mb-3" />
+          <p>No listings match your search.</p>
+        </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {listings.map((listing) => (

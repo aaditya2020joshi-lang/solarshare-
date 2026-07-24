@@ -1,6 +1,9 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
 import MessageThread from '../components/MessageThread';
+import Avatar from '../components/Avatar';
+import Spinner from '../components/Spinner';
+import { InboxIcon, BoltIcon } from '../components/icons';
 
 const statusStyles = {
   pending: 'bg-yellow-100 text-yellow-700',
@@ -40,32 +43,42 @@ export default function MyRequests() {
       <h1 className="text-2xl font-bold text-gray-900 mb-6">My Requests</h1>
 
       {loading ? (
-        <p className="text-gray-500">Loading…</p>
+        <Spinner label="Loading requests…" />
       ) : requests.length === 0 ? (
-        <p className="text-gray-500">You haven't sent any requests yet.</p>
+        <div className="text-center py-16 text-gray-400">
+          <InboxIcon className="w-10 h-10 mx-auto mb-3" />
+          <p>You haven't sent any requests yet.</p>
+        </div>
       ) : (
         <div className="space-y-3">
           {requests.map((r) => (
-            <div key={r.id} className="border border-gray-200 bg-white rounded-xl p-4">
+            <div
+              key={r.id}
+              className="border border-gray-200 bg-white rounded-xl p-4 transition-shadow hover:shadow-sm"
+            >
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
-                <div>
-                  <div className="flex flex-wrap items-center gap-2 mb-1">
-                    <span className="font-semibold text-gray-900">{r.seller_name}</span>
-                    {r.is_priority && (
-                      <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
-                        ⭐ Community Priority
+                <div className="flex items-start gap-3">
+                  <Avatar name={r.seller_name} />
+                  <div>
+                    <div className="flex flex-wrap items-center gap-2 mb-1">
+                      <span className="font-semibold text-gray-900">{r.seller_name}</span>
+                      {r.is_priority && (
+                        <span className="text-xs bg-brand-600 text-white px-2 py-0.5 rounded-full font-medium">
+                          ⭐ Community Priority
+                        </span>
+                      )}
+                      <span
+                        className={`text-xs px-2 py-0.5 rounded-full font-medium ${statusStyles[r.status]}`}
+                      >
+                        {r.status}
                       </span>
-                    )}
-                    <span
-                      className={`text-xs px-2 py-0.5 rounded-full font-medium ${statusStyles[r.status]}`}
-                    >
-                      {r.status}
-                    </span>
+                    </div>
+                    <p className="text-sm text-gray-600 flex items-center gap-1">
+                      <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
+                      {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
+                      /kWh · {r.location}
+                    </p>
                   </div>
-                  <p className="text-sm text-gray-600">
-                    {Number(r.kwh_requested).toFixed(1)} kWh at ₹{Number(r.price_applied).toFixed(2)}
-                    /kWh · {r.location}
-                  </p>
                 </div>
 
                 <div className="flex gap-2 self-start sm:self-auto">
@@ -73,14 +86,14 @@ export default function MyRequests() {
                     <button
                       onClick={() => cancel(r.id)}
                       disabled={actingId === r.id}
-                      className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg disabled:opacity-60"
+                      className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-60"
                     >
                       Cancel request
                     </button>
                   )}
                   <button
                     onClick={() => setOpenThreadId(openThreadId === r.id ? null : r.id)}
-                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg"
+                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors"
                   >
                     {openThreadId === r.id ? 'Hide messages' : 'Message'}
                   </button>

@@ -1,9 +1,11 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
+import Avatar from '../components/Avatar';
+import Spinner from '../components/Spinner';
 
 function StatCard({ label, value }) {
   return (
-    <div className="bg-white border border-gray-200 rounded-xl p-5">
+    <div className="bg-white border border-gray-200 rounded-xl p-5 transition-shadow hover:shadow-sm">
       <p className="text-sm text-gray-500 mb-1">{label}</p>
       <p className="text-2xl font-bold text-gray-900">{value}</p>
     </div>
@@ -32,7 +34,13 @@ export default function Admin() {
     load();
   }, []);
 
-  if (loading) return <p className="max-w-6xl mx-auto px-4 py-10 text-gray-500">Loading…</p>;
+  if (loading) {
+    return (
+      <div className="max-w-6xl mx-auto px-4 py-10">
+        <Spinner label="Loading admin data…" />
+      </div>
+    );
+  }
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
@@ -53,7 +61,7 @@ export default function Admin() {
       <div className="flex gap-2 mb-4">
         <button
           onClick={() => setTab('users')}
-          className={`px-4 py-1.5 rounded-lg text-sm font-medium ${
+          className={`px-4 py-1.5 rounded-lg text-sm font-medium transition-colors ${
             tab === 'users' ? 'bg-brand-600 text-white' : 'bg-gray-100 text-gray-700'
           }`}
         >
@@ -61,7 +69,7 @@ export default function Admin() {
         </button>
         <button
           onClick={() => setTab('listings')}
-          className={`px-4 py-1.5 rounded-lg text-sm font-medium ${
+          className={`px-4 py-1.5 rounded-lg text-sm font-medium transition-colors ${
             tab === 'listings' ? 'bg-brand-600 text-white' : 'bg-gray-100 text-gray-700'
           }`}
         >
@@ -84,8 +92,13 @@ export default function Admin() {
             </thead>
             <tbody>
               {users.map((u) => (
-                <tr key={u.id} className="border-b border-gray-100 last:border-0">
-                  <td className="px-4 py-3 text-gray-900 font-medium">{u.name}</td>
+                <tr key={u.id} className="border-b border-gray-100 last:border-0 hover:bg-gray-50 transition-colors">
+                  <td className="px-4 py-3 text-gray-900 font-medium">
+                    <div className="flex items-center gap-2">
+                      <Avatar name={u.name} size="w-6 h-6" />
+                      {u.name}
+                    </div>
+                  </td>
                   <td className="px-4 py-3 text-gray-600">{u.email}</td>
                   <td className="px-4 py-3 text-gray-600 capitalize">{u.role}</td>
                   <td className="px-4 py-3 text-gray-600">{u.location || '—'}</td>
@@ -117,10 +130,15 @@ export default function Admin() {
             </thead>
             <tbody>
               {listings.map((l) => (
-                <tr key={l.id} className="border-b border-gray-100 last:border-0">
+                <tr key={l.id} className="border-b border-gray-100 last:border-0 hover:bg-gray-50 transition-colors">
                   <td className="px-4 py-3 text-gray-900 font-medium">
-                    {l.seller_name}
-                    <div className="text-gray-400 text-xs">{l.seller_email}</div>
+                    <div className="flex items-center gap-2">
+                      <Avatar name={l.seller_name} size="w-6 h-6" />
+                      <div>
+                        {l.seller_name}
+                        <div className="text-gray-400 text-xs font-normal">{l.seller_email}</div>
+                      </div>
+                    </div>
                   </td>
                   <td className="px-4 py-3 text-gray-600">{l.location}</td>
                   <td className="px-4 py-3 text-gray-600">

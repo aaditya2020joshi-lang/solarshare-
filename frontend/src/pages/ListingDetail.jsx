@@ -2,6 +2,9 @@ import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
+import Avatar from '../components/Avatar';
+import Spinner from '../components/Spinner';
+import { BoltIcon, RupeeIcon, CalendarIcon } from '../components/icons';
 
 function formatDateTime(value) {
   return new Date(value).toLocaleString(undefined, {
@@ -34,7 +37,7 @@ export default function ListingDetail() {
     load();
   }, [id]);
 
-  if (loading) return <p className="max-w-2xl mx-auto px-4 py-10 text-gray-500">Loading…</p>;
+  if (loading) return <div className="max-w-2xl mx-auto px-4 py-10"><Spinner label="Loading listing…" /></div>;
   if (error || !listing) {
     return <p className="max-w-2xl mx-auto px-4 py-10 text-red-600">{error || 'Listing not found'}</p>;
   }
@@ -76,17 +79,24 @@ export default function ListingDetail() {
             {listing.status}
           </span>
         </div>
-        <p className="text-sm text-gray-500 mb-6">Listed by {listing.seller_name}</p>
+        <div className="flex items-center gap-2 mb-6">
+          <Avatar name={listing.seller_name} size="w-7 h-7" />
+          <p className="text-sm text-gray-500">Listed by {listing.seller_name}</p>
+        </div>
 
         <div className="grid sm:grid-cols-2 gap-4 mb-6">
           <div>
-            <p className="text-xs text-gray-500 mb-1">Available energy</p>
+            <p className="text-xs text-gray-500 mb-1 flex items-center gap-1">
+              <BoltIcon className="w-3.5 h-3.5 text-amber-500" /> Available energy
+            </p>
             <p className="text-lg font-semibold text-gray-900">
               {Number(listing.kwh_available).toFixed(1)} kWh
             </p>
           </div>
           <div>
-            <p className="text-xs text-gray-500 mb-1">Price</p>
+            <p className="text-xs text-gray-500 mb-1 flex items-center gap-1">
+              <RupeeIcon className="w-3.5 h-3.5 text-gray-400" /> Price
+            </p>
             <div className="flex items-center gap-2">
               <span
                 className={`text-lg font-semibold ${
@@ -108,11 +118,15 @@ export default function ListingDetail() {
             </div>
           </div>
           <div>
-            <p className="text-xs text-gray-500 mb-1">Available from</p>
+            <p className="text-xs text-gray-500 mb-1 flex items-center gap-1">
+              <CalendarIcon className="w-3.5 h-3.5 text-gray-400" /> Available from
+            </p>
             <p className="text-sm text-gray-900">{formatDateTime(listing.available_from)}</p>
           </div>
           <div>
-            <p className="text-xs text-gray-500 mb-1">Available to</p>
+            <p className="text-xs text-gray-500 mb-1 flex items-center gap-1">
+              <CalendarIcon className="w-3.5 h-3.5 text-gray-400" /> Available to
+            </p>
             <p className="text-sm text-gray-900">{formatDateTime(listing.available_to)}</p>
           </div>
         </div>

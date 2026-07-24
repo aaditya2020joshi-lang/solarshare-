@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
+import Avatar from './Avatar';
+import Spinner from './Spinner';
 
 export default function MessageThread({ requestId }) {
   const { user } = useAuth();
@@ -35,7 +37,7 @@ export default function MessageThread({ requestId }) {
   return (
     <div className="border-t border-gray-100 mt-3 pt-3">
       {loading ? (
-        <p className="text-xs text-gray-400">Loading messages…</p>
+        <Spinner label="Loading messages…" className="text-xs" />
       ) : (
         <div className="space-y-2 max-h-48 overflow-y-auto mb-2">
           {messages.length === 0 && (
@@ -44,7 +46,11 @@ export default function MessageThread({ requestId }) {
           {messages.map((m) => {
             const isMine = m.sender_id === user.id;
             return (
-              <div key={m.id} className={`flex ${isMine ? 'justify-end' : 'justify-start'}`}>
+              <div
+                key={m.id}
+                className={`flex items-end gap-1.5 ${isMine ? 'justify-end' : 'justify-start'}`}
+              >
+                {!isMine && <Avatar name={m.sender_name} size="w-5 h-5" />}
                 <div
                   className={`max-w-[75%] rounded-lg px-3 py-1.5 text-sm ${
                     isMine ? 'bg-brand-600 text-white' : 'bg-gray-100 text-gray-800'
@@ -69,7 +75,7 @@ export default function MessageThread({ requestId }) {
         <button
           type="submit"
           disabled={sending}
-          className="bg-brand-600 hover:bg-brand-700 text-white text-sm font-medium px-3 rounded-lg disabled:opacity-60"
+          className="bg-brand-600 hover:bg-brand-700 text-white text-sm font-medium px-3 rounded-lg transition-colors disabled:opacity-60"
         >
           Send
         </button>
