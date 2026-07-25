@@ -38,8 +38,8 @@ export default function Panels() {
     <div className="max-w-6xl mx-auto px-4 py-10">
       <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Solar Panel Marketplace</h1>
       <p className="text-gray-600 dark:text-gray-400 text-sm mb-6">
-        Browse panels from vendors and buy directly. This is a demo marketplace — orders are
-        confirmed by you after paying the vendor via UPI.
+        Browse panels from vendors and buy directly. Checkout is secured by Razorpay — pay via UPI,
+        card, netbanking, or wallet.
       </p>
 
       <form onSubmit={fetchPanels} className="flex flex-wrap gap-3 mb-8">

@@ -74,6 +74,8 @@ CREATE TABLE panel_orders (
     platform_fee NUMERIC(10, 2) NOT NULL DEFAULT 0,
     total_amount NUMERIC(10, 2) NOT NULL,
     status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'payment_claimed')),
+    razorpay_order_id TEXT,
+    razorpay_payment_id TEXT,
     created_at TIMESTAMPTZ NOT NULL DEFAULT now(),
     paid_claimed_at TIMESTAMPTZ
 );

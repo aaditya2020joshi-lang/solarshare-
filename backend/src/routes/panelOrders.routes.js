@@ -5,7 +5,7 @@ import {
   createPanelOrder,
   getMyPanelOrders,
   getPanelOrderById,
-  markPanelOrderPaid,
+  verifyPanelOrderPayment,
 } from '../controllers/panelOrders.controller.js';
 
 const router = Router();
@@ -13,6 +13,6 @@ const router = Router();
 router.post('/', requireAuth, asyncHandler(createPanelOrder));
 router.get('/mine', requireAuth, asyncHandler(getMyPanelOrders));
 router.get('/:id', requireAuth, asyncHandler(getPanelOrderById));
-router.put('/:id/mark-paid', requireAuth, asyncHandler(markPanelOrderPaid));
+router.post('/:id/verify-payment', requireAuth, asyncHandler(verifyPanelOrderPayment));
 
 export default router;

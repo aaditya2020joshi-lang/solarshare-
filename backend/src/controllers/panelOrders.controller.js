@@ -1,6 +1,13 @@
+import crypto from 'crypto';
+import Razorpay from 'razorpay';
 import { pool } from '../config/db.js';
 
 const PLATFORM_FEE = 49;
+
+const razorpay = new Razorpay({
+  key_id: process.env.RAZORPAY_KEY_ID,
+  key_secret: process.env.RAZORPAY_KEY_SECRET,
+});
 
 export async function createPanelOrder(req, res) {
   const { panelId, quantity } = req.body;
@@ -26,20 +33,31 @@ export async function createPanelOrder(req, res) {
      RETURNING *`,
     [panelId, req.user.id, quantity, PLATFORM_FEE, totalAmount]
   );
+  const order = orderResult.rows[0];
+
+  const razorpayOrder = await razorpay.orders.create({
+    amount: Math.round(totalAmount * 100),
+    currency: 'INR',
+    receipt: `panel_order_${order.id}`,
+  });
+
+  const updated = await pool.query(
+    `UPDATE panel_orders SET razorpay_order_id = $1 WHERE id = $2 RETURNING *`,
+    [razorpayOrder.id, order.id]
+  );
 
   res.status(201).json({
-    ...orderResult.rows[0],
+    ...updated.rows[0],
     panel_name: panel.name,
     vendor_name: panel.vendor_name,
-    upi_id: panel.upi_id,
-    payee_name: panel.payee_name,
+    razorpay_key_id: process.env.RAZORPAY_KEY_ID,
   });
 }
 
 export async function getMyPanelOrders(req, res) {
   const result = await pool.query(
     `SELECT panel_orders.*, panels.name AS panel_name, panels.wattage, panels.panel_type,
-            vendors.name AS vendor_name, vendors.upi_id, vendors.payee_name
+            vendors.name AS vendor_name
      FROM panel_orders
      JOIN panels ON panels.id = panel_orders.panel_id
      JOIN vendors ON vendors.id = panels.vendor_id
@@ -53,7 +71,7 @@ export async function getMyPanelOrders(req, res) {
 export async function getPanelOrderById(req, res) {
   const result = await pool.query(
     `SELECT panel_orders.*, panels.name AS panel_name, panels.wattage, panels.panel_type,
-            vendors.name AS vendor_name, vendors.upi_id, vendors.payee_name
+            vendors.name AS vendor_name
      FROM panel_orders
      JOIN panels ON panels.id = panel_orders.panel_id
      JOIN vendors ON vendors.id = panels.vendor_id
@@ -65,10 +83,15 @@ export async function getPanelOrderById(req, res) {
   if (order.buyer_id !== req.user.id) {
     return res.status(403).json({ error: 'You do not own this order' });
   }
-  res.json(order);
+  res.json({ ...order, razorpay_key_id: process.env.RAZORPAY_KEY_ID });
 }
 
-export async function markPanelOrderPaid(req, res) {
+export async function verifyPanelOrderPayment(req, res) {
+  const { razorpay_order_id, razorpay_payment_id, razorpay_signature } = req.body;
+  if (!razorpay_order_id || !razorpay_payment_id || !razorpay_signature) {
+    return res.status(400).json({ error: 'Missing Razorpay payment fields' });
+  }
+
   const result = await pool.query('SELECT * FROM panel_orders WHERE id = $1', [req.params.id]);
   const order = result.rows[0];
   if (!order) return res.status(404).json({ error: 'Order not found' });
@@ -76,12 +99,26 @@ export async function markPanelOrderPaid(req, res) {
     return res.status(403).json({ error: 'You do not own this order' });
   }
   if (order.status !== 'pending') {
-    return res.status(409).json({ error: 'This order has already been marked as paid' });
+    return res.status(409).json({ error: 'This order has already been paid' });
+  }
+  if (order.razorpay_order_id !== razorpay_order_id) {
+    return res.status(400).json({ error: 'Order mismatch' });
+  }
+
+  const expectedSignature = crypto
+    .createHmac('sha256', process.env.RAZORPAY_KEY_SECRET)
+    .update(`${razorpay_order_id}|${razorpay_payment_id}`)
+    .digest('hex');
+
+  if (expectedSignature !== razorpay_signature) {
+    return res.status(400).json({ error: 'Payment signature verification failed' });
   }
 
   const updated = await pool.query(
-    `UPDATE panel_orders SET status = 'payment_claimed', paid_claimed_at = now() WHERE id = $1 RETURNING *`,
-    [req.params.id]
+    `UPDATE panel_orders
+     SET status = 'payment_claimed', razorpay_payment_id = $1, paid_claimed_at = now()
+     WHERE id = $2 RETURNING *`,
+    [razorpay_payment_id, req.params.id]
   );
   res.json(updated.rows[0]);
 }

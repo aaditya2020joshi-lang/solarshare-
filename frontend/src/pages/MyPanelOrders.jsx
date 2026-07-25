@@ -11,7 +11,7 @@ const statusStyles = {
 
 const statusLabels = {
   pending: 'Awaiting payment',
-  payment_claimed: 'Payment confirmed',
+  payment_claimed: 'Payment verified',
 };
 
 export default function MyPanelOrders() {

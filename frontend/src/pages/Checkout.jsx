@@ -1,35 +1,32 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import QRCode from 'qrcode';
 import client from '../api/client';
+import { useAuth } from '../context/AuthContext';
 import Spinner from '../components/Spinner';
 
-function buildUpiUri(order) {
-  const params = new URLSearchParams({
-    pa: order.upi_id,
-    pn: order.payee_name,
-    am: Number(order.total_amount).toFixed(2),
-    cu: 'INR',
-    tn: `SolarShare order #${order.id} - ${order.panel_name}`,
+function loadRazorpayScript() {
+  if (window.Razorpay) return Promise.resolve(true);
+  return new Promise((resolve) => {
+    const script = document.createElement('script');
+    script.src = 'https://checkout.razorpay.com/v1/checkout.js';
+    script.onload = () => resolve(true);
+    script.onerror = () => resolve(false);
+    document.body.appendChild(script);
   });
-  return `upi://pay?${params.toString()}`;
 }
 
 export default function Checkout() {
   const { id } = useParams();
+  const { user } = useAuth();
   const [order, setOrder] = useState(null);
-  const [qrDataUrl, setQrDataUrl] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-  const [confirming, setConfirming] = useState(false);
+  const [paying, setPaying] = useState(false);
 
   async function load() {
     try {
       const { data } = await client.get(`/panel-orders/${id}`);
       setOrder(data);
-      const uri = buildUpiUri(data);
-      const dataUrl = await QRCode.toDataURL(uri, { width: 220, margin: 1 });
-      setQrDataUrl(dataUrl);
     } catch (err) {
       setError(err.response?.data?.error || 'Could not load this order');
     } finally {
@@ -41,19 +38,56 @@ export default function Checkout() {
     load();
   }, [id]);
 
-  async function handleConfirmPaid() {
-    setConfirming(true);
-    try {
-      await client.put(`/panel-orders/${id}/mark-paid`);
-      await load();
-    } finally {
-      setConfirming(false);
+  async function handlePayNow() {
+    setError('');
+    setPaying(true);
+    const ready = await loadRazorpayScript();
+    if (!ready) {
+      setError('Could not load Razorpay checkout. Check your connection and try again.');
+      setPaying(false);
+      return;
     }
+
+    const rzp = new window.Razorpay({
+      key: order.razorpay_key_id,
+      amount: Math.round(Number(order.total_amount) * 100),
+      currency: 'INR',
+      name: 'SolarShare',
+      description: `${order.panel_name} × ${order.quantity}`,
+      order_id: order.razorpay_order_id,
+      prefill: {
+        name: user?.name,
+        email: user?.email,
+      },
+      handler: async (response) => {
+        try {
+          await client.post(`/panel-orders/${id}/verify-payment`, {
+            razorpay_order_id: response.razorpay_order_id,
+            razorpay_payment_id: response.razorpay_payment_id,
+            razorpay_signature: response.razorpay_signature,
+          });
+          await load();
+        } catch (err) {
+          setError(err.response?.data?.error || 'Payment succeeded but verification failed. Contact support.');
+        } finally {
+          setPaying(false);
+        }
+      },
+      modal: {
+        ondismiss: () => setPaying(false),
+      },
+      theme: { color: '#16a34a' },
+    });
+    rzp.on('payment.failed', (response) => {
+      setError(response.error?.description || 'Payment failed');
+      setPaying(false);
+    });
+    rzp.open();
   }
 
   if (loading) return <div className="max-w-md mx-auto px-4 py-10"><Spinner label="Loading checkout…" /></div>;
-  if (error || !order) {
-    return <p className="max-w-md mx-auto px-4 py-10 text-red-600 dark:text-red-400">{error || 'Order not found'}</p>;
+  if (error && !order) {
+    return <p className="max-w-md mx-auto px-4 py-10 text-red-600 dark:text-red-400">{error}</p>;
   }
 
   const isPaid = order.status === 'payment_claimed';
@@ -97,42 +131,26 @@ export default function Checkout() {
         {isPaid ? (
           <div className="text-center py-4">
             <div className="text-4xl mb-3">✅</div>
-            <p className="text-brand-700 dark:text-brand-400 font-semibold mb-1">Payment marked as complete</p>
+            <p className="text-brand-700 dark:text-brand-400 font-semibold mb-1">Payment verified</p>
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              You confirmed you've paid {order.vendor_name} via UPI. They'll be in touch to arrange
-              delivery/installation.
+              Your payment to {order.vendor_name} was confirmed via Razorpay. They'll be in touch to
+              arrange delivery/installation.
             </p>
           </div>
         ) : (
           <>
             <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
-              Scan with any UPI app (Google Pay, PhonePe, Paytm) to pay {order.vendor_name} directly.
-            </p>
-            <div className="flex justify-center mb-4">
-              {qrDataUrl && (
-                <img
-                  src={qrDataUrl}
-                  alt="UPI payment QR code"
-                  className="rounded-xl border border-gray-200 dark:border-gray-700"
-                />
-              )}
-            </div>
-            <p className="text-xs text-gray-400 dark:text-gray-500 text-center mb-6">
-              Paying to UPI ID: {order.upi_id}
+              Pay securely via UPI, card, netbanking, or wallet — powered by Razorpay.
             </p>
 
-            <div className="bg-yellow-50 dark:bg-yellow-950/40 border border-yellow-200 dark:border-yellow-900 rounded-lg p-3 mb-4 text-xs text-yellow-800 dark:text-yellow-300">
-              This is a direct UPI payment between you and the vendor — SolarShare doesn't process
-              or verify it automatically. Only confirm below once you've actually completed the
-              payment.
-            </div>
+            {error && <p className="text-sm text-red-600 dark:text-red-400 mb-4 text-center">{error}</p>}
 
             <button
-              onClick={handleConfirmPaid}
-              disabled={confirming}
+              onClick={handlePayNow}
+              disabled={paying}
               className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
             >
-              {confirming ? 'Confirming…' : "I've completed the payment"}
+              {paying ? 'Processing…' : `Pay ₹${Number(order.total_amount).toLocaleString('en-IN')}`}
             </button>
           </>
         )}
