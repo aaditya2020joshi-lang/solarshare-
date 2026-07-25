@@ -1,4 +1,7 @@
 import { Link } from 'react-router-dom';
+import TreeLine from '../components/TreeLine';
+import Leaf from '../components/Leaf';
+import Sun from '../components/Sun';
 
 const features = [
   {
@@ -34,6 +37,19 @@ export default function Landing() {
           aria-hidden="true"
         />
 
+        <Leaf className="hidden sm:block absolute top-24 left-[8%] w-8 h-8 text-brand-400 dark:text-brand-600 animate-leaf-sway" />
+        <Leaf
+          className="hidden sm:block absolute top-40 right-[10%] w-6 h-6 text-sky-accent/70 animate-leaf-sway"
+          style={{ animationDelay: '-2s' }}
+        />
+        <Leaf className="hidden md:block absolute bottom-32 left-[18%] w-5 h-5 text-brand-500 dark:text-brand-500 animate-leaf-sway" />
+
+        <div
+          className="hidden sm:block absolute top-6 right-[16%] w-20 h-20 bg-amber-300 rounded-full blur-2xl opacity-40 dark:opacity-25"
+          aria-hidden="true"
+        />
+        <Sun className="hidden sm:block absolute top-8 right-[17%] w-16 h-16 animate-sun-pulse" />
+
         <div className="relative max-w-5xl mx-auto px-4 py-24 text-center animate-fade-in-up">
           <p className="inline-block bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 text-sm font-semibold px-3 py-1 rounded-full mb-5">
             Supporting UN Sustainable Development Goal 7
@@ -64,6 +80,8 @@ export default function Landing() {
             </Link>
           </div>
         </div>
+
+        <TreeLine className="relative w-full h-20 sm:h-28" />
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-20 grid sm:grid-cols-3 gap-8">
@@ -98,7 +116,12 @@ export default function Landing() {
         </div>
       </section>
 
-      <section className="max-w-4xl mx-auto px-4 py-16 text-center">
+      <section className="relative max-w-4xl mx-auto px-4 py-16 text-center">
+        <Leaf className="hidden sm:block absolute top-4 left-[12%] w-6 h-6 text-brand-400 dark:text-brand-600 animate-leaf-sway" />
+        <Leaf
+          className="hidden sm:block absolute bottom-4 right-[14%] w-5 h-5 text-sky-accent/60 animate-leaf-sway"
+          style={{ animationDelay: '-3s' }}
+        />
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-3">
           Ready to join the grid?
         </h2>
@@ -112,6 +135,8 @@ export default function Landing() {
           Create your account
         </Link>
       </section>
+
+      <TreeLine className="w-full h-16 sm:h-24" />
     </div>
   );
 }
