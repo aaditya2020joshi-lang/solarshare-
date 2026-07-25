@@ -10,14 +10,43 @@
   --color-brand-600: #15803d;
   --color-brand-700: #166534;
   --color-brand-900: #052e16;
-  --color-sky-accent: #0ea5e9;
-  --font-sans: 'Poppins', ui-sans-serif, system-ui, sans-serif;
-  --font-display: 'Quicksand', 'Poppins', ui-sans-serif, system-ui, sans-serif;
+  --color-sky-accent: #b45309;
+
+  /* Warm stone neutrals replace Tailwind's default cool gray scale. */
+  --color-gray-50: #fafaf9;
+  --color-gray-100: #f5f5f4;
+  --color-gray-200: #e7e5e4;
+  --color-gray-300: #d6d3d1;
+  --color-gray-400: #a8a29e;
+  --color-gray-500: #78716c;
+  --color-gray-600: #57534e;
+  --color-gray-700: #44403c;
+  --color-gray-800: #292524;
+  --color-gray-900: #1c1917;
+  --color-gray-950: #0c0a09;
+
+  /* Amber/gold in place of Tailwind's default blue "sky" scale, so existing
+     sky-* accents (banners, blobs, badges) read as sunlit forest, not sky. */
+  --color-sky-50: #fffbeb;
+  --color-sky-100: #fef3c7;
+  --color-sky-200: #fde68a;
+  --color-sky-300: #fcd34d;
+  --color-sky-400: #fbbf24;
+  --color-sky-500: #f59e0b;
+  --color-sky-600: #d97706;
+  --color-sky-700: #b45309;
+  --color-sky-800: #92400e;
+  --color-sky-900: #78350f;
+  --color-sky-950: #451a03;
+
+  --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fraunces', 'Nunito', ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
   margin: 0;
   font-family: var(--font-sans);
+  background-color: #fafaf9;
 }
 
 h1,
@@ -100,5 +129,5 @@ html {
 }
 
 html.dark body {
-  background-color: #0b1120;
+  background-color: #0c0a09;
 }
