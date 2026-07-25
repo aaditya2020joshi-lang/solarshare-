@@ -71,6 +71,7 @@ CREATE TABLE panel_orders (
     panel_id INTEGER NOT NULL REFERENCES panels(id) ON DELETE CASCADE,
     buyer_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
     quantity INTEGER NOT NULL CHECK (quantity > 0),
+    platform_fee NUMERIC(10, 2) NOT NULL DEFAULT 0,
     total_amount NUMERIC(10, 2) NOT NULL,
     status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'payment_claimed')),
     created_at TIMESTAMPTZ NOT NULL DEFAULT now(),

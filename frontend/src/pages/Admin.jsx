@@ -46,6 +46,15 @@ export default function Admin() {
     <div className="max-w-6xl mx-auto px-4 py-10">
       <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Admin</h1>
 
+      <div className="bg-gradient-to-r from-brand-600 to-sky-accent rounded-2xl p-6 mb-6 text-white shadow-sm">
+        <p className="text-sm text-white/80 mb-1">Platform Revenue (from panel marketplace fees)</p>
+        <p className="text-4xl font-bold">₹{stats.panelOrders.platform_revenue.toFixed(2)}</p>
+        <p className="text-sm text-white/80 mt-1">
+          From {stats.panelOrders.completed} completed panel order{stats.panelOrders.completed === 1 ? '' : 's'} · ₹
+          {stats.panelOrders.total_value.toFixed(2)} total sales volume
+        </p>
+      </div>
+
       <div className="grid sm:grid-cols-3 lg:grid-cols-6 gap-4 mb-8">
         <StatCard label="Total Users" value={stats.users.total} />
         <StatCard label="Sellers" value={stats.users.sellers} />
@@ -53,7 +62,7 @@ export default function Admin() {
         <StatCard label="Priority Buyers" value={stats.users.priority_buyers} />
         <StatCard label="Active Listings" value={stats.listings.active} />
         <StatCard
-          label="Total Traded"
+          label="Energy Traded"
           value={`₹${stats.transactions.total_value.toFixed(2)}`}
         />
       </div>

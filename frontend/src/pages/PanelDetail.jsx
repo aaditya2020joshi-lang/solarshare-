@@ -6,6 +6,8 @@ import Avatar from '../components/Avatar';
 import Spinner from '../components/Spinner';
 import { BoltIcon, LocationIcon } from '../components/icons';
 
+const PLATFORM_FEE = 49;
+
 export default function PanelDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -118,8 +120,22 @@ export default function PanelDetail() {
               onChange={(e) => setQuantity(e.target.value)}
               className="w-24 border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
             />
-            <div className="flex-1 flex items-center text-sm text-gray-500 dark:text-gray-400">
-              Total: ₹{(Number(panel.price) * Number(quantity || 0)).toLocaleString('en-IN')}
+          </div>
+
+          <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3 mb-4 text-sm space-y-1">
+            <div className="flex justify-between text-gray-600 dark:text-gray-400">
+              <span>Panel subtotal</span>
+              <span>₹{(Number(panel.price) * Number(quantity || 0)).toLocaleString('en-IN')}</span>
+            </div>
+            <div className="flex justify-between text-gray-600 dark:text-gray-400">
+              <span>Platform fee</span>
+              <span>₹{PLATFORM_FEE}</span>
+            </div>
+            <div className="flex justify-between font-semibold text-gray-900 dark:text-white pt-1 border-t border-gray-200 dark:border-gray-700">
+              <span>Total</span>
+              <span>
+                ₹{(Number(panel.price) * Number(quantity || 0) + PLATFORM_FEE).toLocaleString('en-IN')}
+              </span>
             </div>
           </div>
 

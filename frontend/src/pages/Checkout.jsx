@@ -80,6 +80,12 @@ export default function Checkout() {
             <span className="text-gray-500 dark:text-gray-400">Quantity</span>
             <span className="text-gray-900 dark:text-white">{order.quantity}</span>
           </div>
+          <div className="flex justify-between mb-1">
+            <span className="text-gray-500 dark:text-gray-400">Platform fee</span>
+            <span className="text-gray-900 dark:text-white">
+              ₹{Number(order.platform_fee).toLocaleString('en-IN')}
+            </span>
+          </div>
           <div className="flex justify-between pt-2 mt-2 border-t border-gray-200 dark:border-gray-700">
             <span className="text-gray-700 dark:text-gray-300 font-medium">Total</span>
             <span className="text-gray-900 dark:text-white font-bold">

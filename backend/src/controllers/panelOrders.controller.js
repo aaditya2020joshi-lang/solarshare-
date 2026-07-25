@@ -1,5 +1,7 @@
 import { pool } from '../config/db.js';
 
+const PLATFORM_FEE = 49;
+
 export async function createPanelOrder(req, res) {
   const { panelId, quantity } = req.body;
   if (!panelId || !quantity) {
@@ -15,13 +17,14 @@ export async function createPanelOrder(req, res) {
   const panel = panelResult.rows[0];
   if (!panel) return res.status(404).json({ error: 'Panel not found' });
 
-  const totalAmount = Number(panel.price) * Number(quantity);
+  const subtotal = Number(panel.price) * Number(quantity);
+  const totalAmount = subtotal + PLATFORM_FEE;
 
   const orderResult = await pool.query(
-    `INSERT INTO panel_orders (panel_id, buyer_id, quantity, total_amount)
-     VALUES ($1, $2, $3, $4)
+    `INSERT INTO panel_orders (panel_id, buyer_id, quantity, platform_fee, total_amount)
+     VALUES ($1, $2, $3, $4, $5)
      RETURNING *`,
-    [panelId, req.user.id, quantity, totalAmount]
+    [panelId, req.user.id, quantity, PLATFORM_FEE, totalAmount]
   );
 
   res.status(201).json({

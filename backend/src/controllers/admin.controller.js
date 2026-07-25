@@ -19,7 +19,7 @@ export async function getListings(req, res) {
 }
 
 export async function getStats(req, res) {
-  const [users, listings, transactions] = await Promise.all([
+  const [users, listings, transactions, panelOrders] = await Promise.all([
     pool.query(
       `SELECT
          COUNT(*)::int AS total,
@@ -39,11 +39,19 @@ export async function getStats(req, res) {
          COALESCE(SUM(kwh_requested * price_applied), 0)::float AS total_value
        FROM requests WHERE status = 'accepted'`
     ),
+    pool.query(
+      `SELECT
+         COUNT(*)::int AS completed,
+         COALESCE(SUM(total_amount), 0)::float AS total_value,
+         COALESCE(SUM(platform_fee), 0)::float AS platform_revenue
+       FROM panel_orders WHERE status = 'payment_claimed'`
+    ),
   ]);
 
   res.json({
     users: users.rows[0],
     listings: listings.rows[0],
     transactions: transactions.rows[0],
+    panelOrders: panelOrders.rows[0],
   });
 }
