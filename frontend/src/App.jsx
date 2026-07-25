@@ -20,10 +20,12 @@ import Checkout from './pages/Checkout';
 import MyPanelOrders from './pages/MyPanelOrders';
 import WhatsAppButton from './components/WhatsAppButton';
 import FaqChatWidget from './components/FaqChatWidget';
+import AdSenseLoader from './components/AdSenseLoader';
 
 export default function App() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950 transition-colors">
+      <AdSenseLoader />
       <Navbar />
       <Routes>
         <Route path="/" element={<Landing />} />
