@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 
 const panelTypes = [
   {
@@ -112,6 +112,65 @@ const sellerSteps = [
   'Message buyers to arrange things, and track your earnings in your Dashboard.',
 ];
 
+const requestFlowSteps = [
+  {
+    icon: '📨',
+    title: 'You send a request',
+    description:
+      "Pick a listing, enter how many kWh you want, and hit \"Request Energy.\" This locks in the price you'll pay right then — the seller's standard rate, or their community rate if you have Community Priority on and they offer one. Nothing is charged yet.",
+  },
+  {
+    icon: '⭐',
+    title: 'Priority requests jump the queue',
+    description:
+      "If you're a Community Priority buyer, your request is flagged and shown to the seller before non-priority requests, even ones sent earlier. Everyone still gets seen — priority just means you're seen first.",
+  },
+  {
+    icon: '👀',
+    title: 'The seller reviews it',
+    description:
+      'Your request lands in the seller\'s queue as "pending." They see how much you want, at what price, and whether you\'re a priority buyer. It stays pending until they act.',
+  },
+  {
+    icon: '✅',
+    title: 'They accept — or decline',
+    description:
+      "If accepted, that amount of kWh is immediately reserved: it's subtracted from the listing's available energy (and the listing closes automatically if that was the last of it). Your request status flips to \"accepted.\" If declined, nothing is charged or reserved — you're free to request from someone else.",
+  },
+  {
+    icon: '💬',
+    title: 'You message each other to arrange things',
+    description:
+      "Whether it's pending, accepted, or declined, you can message the seller directly from \"My Requests\" to ask questions or work out the practical details — SolarShare doesn't automate delivery, so this is where you coordinate it.",
+  },
+  {
+    icon: '📊',
+    title: 'It shows up in your Dashboard',
+    description:
+      'Accepted requests count toward your spending stats and energy history in your Dashboard, so you can track what you\'ve bought over time.',
+  },
+];
+
+function RequestFlow() {
+  return (
+    <ol className="relative border-l-2 border-brand-100 dark:border-brand-900 ml-3 space-y-8">
+      {requestFlowSteps.map((step, i) => (
+        <li key={step.title} className="relative pl-8">
+          <span className="absolute -left-[27px] top-0 w-10 h-10 rounded-full bg-white dark:bg-gray-900 border-2 border-brand-200 dark:border-brand-800 flex items-center justify-center text-lg">
+            {step.icon}
+          </span>
+          <h3 className="font-semibold text-gray-900 dark:text-white mb-1">
+            {i + 1}. {step.title}
+          </h3>
+          <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+            {step.description}
+          </p>
+        </li>
+      ))}
+    </ol>
+  );
+}
+
 function StepList({ title, steps, accent }) {
   return (
     <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6">
@@ -194,6 +253,13 @@ function ExpandableCard({ item, open, onToggle, ctaTo, ctaLabel }) {
 export default function Learn() {
   const [openPanel, setOpenPanel] = useState(null);
   const [openSpace, setOpenSpace] = useState(null);
+  const location = useLocation();
+
+  useEffect(() => {
+    if (!location.hash) return;
+    const el = document.getElementById(location.hash.slice(1));
+    el?.scrollIntoView({ behavior: 'smooth' });
+  }, [location.hash]);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
@@ -210,6 +276,19 @@ export default function Learn() {
         <div className="grid sm:grid-cols-2 gap-5">
           <StepList title="For Buyers" steps={buyerSteps} accent="text-brand-700 dark:text-brand-400" />
           <StepList title="For Sellers" steps={sellerSteps} accent="text-sky-700 dark:text-sky-400" />
+        </div>
+      </section>
+
+      <section id="request-flow" className="mb-14 scroll-mt-20">
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+          What happens after you request energy?
+        </h2>
+        <p className="text-gray-600 dark:text-gray-400 text-sm mb-8">
+          Requesting energy isn't an instant purchase — it starts a conversation with the seller.
+          Here's exactly what happens, step by step.
+        </p>
+        <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
+          <RequestFlow />
         </div>
       </section>
 
