@@ -3,6 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Avatar from '../components/Avatar';
+import SolarPanelArt from '../components/SolarPanelArt';
 import Spinner from '../components/Spinner';
 import { BoltIcon, LocationIcon } from '../components/icons';
 
@@ -62,7 +63,10 @@ export default function PanelDetail() {
         ← Back to marketplace
       </Link>
 
-      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 mt-4">
+      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm overflow-hidden mt-4">
+        <SolarPanelArt panelType={panel.panel_type} className="h-56" />
+
+        <div className="p-6">
         <div className="flex justify-between items-start mb-2">
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white">{panel.name}</h1>
           <span className="text-xs bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 px-2 py-0.5 rounded-full">
@@ -149,6 +153,7 @@ export default function PanelDetail() {
             {submitting ? 'Starting checkout…' : 'Buy Now'}
           </button>
         </form>
+        </div>
       </div>
     </div>
   );
