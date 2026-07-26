@@ -3,7 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Avatar from '../components/Avatar';
-import SolarPanelArt from '../components/SolarPanelArt';
+import { PANEL_IMAGES } from '../lib/panelImages';
 import Spinner from '../components/Spinner';
 import { BoltIcon, LocationIcon } from '../components/icons';
 
@@ -64,7 +64,12 @@ export default function PanelDetail() {
       </Link>
 
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm overflow-hidden mt-4">
-        <SolarPanelArt panelType={panel.panel_type} className="h-56" />
+        <img
+          src={PANEL_IMAGES[panel.panel_type]}
+          alt={panel.panel_type}
+          loading="lazy"
+          className="h-56 w-full object-cover bg-gray-100 dark:bg-gray-800"
+        />
 
         <div className="p-6">
         <div className="flex justify-between items-start mb-2">
