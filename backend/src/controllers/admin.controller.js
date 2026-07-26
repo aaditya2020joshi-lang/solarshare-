@@ -43,7 +43,8 @@ export async function getStats(req, res) {
       `SELECT
          COUNT(*)::int AS completed,
          COALESCE(SUM(total_amount), 0)::float AS total_value,
-         COALESCE(SUM(platform_fee), 0)::float AS platform_revenue
+         COALESCE(SUM(platform_fee), 0)::float AS platform_revenue,
+         COALESCE(AVG(total_amount), 0)::float AS avg_order_value
        FROM panel_orders WHERE status = 'payment_claimed'`
     ),
   ]);
@@ -54,4 +55,20 @@ export async function getStats(req, res) {
     transactions: transactions.rows[0],
     panelOrders: panelOrders.rows[0],
   });
+}
+
+export async function getRecentTransactions(req, res) {
+  const result = await pool.query(
+    `SELECT panel_orders.id, panel_orders.total_amount, panel_orders.platform_fee,
+            panel_orders.razorpay_payment_id, panel_orders.paid_claimed_at,
+            panels.name AS panel_name, vendors.name AS vendor_name, users.name AS buyer_name
+     FROM panel_orders
+     JOIN panels ON panels.id = panel_orders.panel_id
+     JOIN vendors ON vendors.id = panels.vendor_id
+     JOIN users ON users.id = panel_orders.buyer_id
+     WHERE panel_orders.status = 'payment_claimed'
+     ORDER BY panel_orders.paid_claimed_at DESC
+     LIMIT 10`
+  );
+  res.json(result.rows);
 }
