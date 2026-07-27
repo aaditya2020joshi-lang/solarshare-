@@ -3,7 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Avatar from '../components/Avatar';
-import { PANEL_IMAGES } from '../lib/panelImages';
+import { PANEL_IMAGE_URL } from '../lib/panelImages';
 import Spinner from '../components/Spinner';
 import { BoltIcon, LocationIcon } from '../components/icons';
 
@@ -65,10 +65,10 @@ export default function PanelDetail() {
 
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm overflow-hidden mt-4">
         <img
-          src={PANEL_IMAGES[panel.panel_type]}
-          alt={panel.panel_type}
+          src={PANEL_IMAGE_URL}
+          alt="Solar panel"
           loading="lazy"
-          className="h-56 w-full object-cover bg-gray-100 dark:bg-gray-800"
+          className="h-56 w-full object-contain p-6 bg-gray-100 dark:bg-gray-800"
         />
 
         <div className="p-6">

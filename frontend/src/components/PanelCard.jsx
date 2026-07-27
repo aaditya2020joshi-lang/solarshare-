@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import Avatar from './Avatar';
-import { PANEL_IMAGES } from '../lib/panelImages';
+import { PANEL_IMAGE_URL } from '../lib/panelImages';
 import { BoltIcon, LocationIcon } from './icons';
 
 export default function PanelCard({ panel }) {
@@ -10,10 +10,10 @@ export default function PanelCard({ panel }) {
       className="group block bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1 hover:border-brand-200 dark:hover:border-brand-800 transition-all duration-300"
     >
       <img
-        src={PANEL_IMAGES[panel.panel_type]}
-        alt={panel.panel_type}
+        src={PANEL_IMAGE_URL}
+        alt="Solar panel"
         loading="lazy"
-        className="h-36 w-full object-cover bg-gray-100 dark:bg-gray-800"
+        className="h-36 w-full object-contain p-4 bg-gray-100 dark:bg-gray-800"
       />
 
       <div className="p-5">
