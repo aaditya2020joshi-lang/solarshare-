@@ -3,7 +3,7 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Avatar from '../components/Avatar';
-import { PANEL_IMAGE_URL } from '../lib/panelImages';
+import { getPanelImage } from '../lib/panelImages';
 import Spinner from '../components/Spinner';
 import { BoltIcon, LocationIcon } from '../components/icons';
 
@@ -64,19 +64,25 @@ export default function PanelDetail() {
       </Link>
 
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm overflow-hidden mt-4">
-        <img
-          src={PANEL_IMAGE_URL}
-          alt="Solar panel"
-          loading="lazy"
-          className="h-56 w-full object-contain p-6 bg-gray-100 dark:bg-gray-800"
-        />
+        <div className="relative h-56 bg-gradient-to-br from-brand-50 via-sky-50 to-white dark:from-gray-800 dark:via-gray-900 dark:to-gray-900">
+          <img
+            src={getPanelImage(panel.id)}
+            alt="Solar panel"
+            loading="lazy"
+            className="w-full h-full object-contain p-8"
+          />
+          <span className="absolute top-3 left-3 text-xs font-medium bg-white/85 dark:bg-gray-900/80 backdrop-blur text-gray-800 dark:text-gray-100 px-2.5 py-1 rounded-full shadow-sm">
+            {panel.panel_type}
+          </span>
+          <span className="absolute bottom-3 right-3 text-xs font-medium bg-white/85 dark:bg-gray-900/80 backdrop-blur text-brand-700 dark:text-brand-300 px-2.5 py-1 rounded-full shadow-sm flex items-center gap-1">
+            <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
+            {panel.wattage}W
+          </span>
+        </div>
 
         <div className="p-6">
         <div className="flex justify-between items-start mb-2">
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white">{panel.name}</h1>
-          <span className="text-xs bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 px-2 py-0.5 rounded-full">
-            {panel.panel_type}
-          </span>
         </div>
 
         <div className="flex items-center gap-2 mb-4">
