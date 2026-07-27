@@ -141,7 +141,7 @@ const requestFlowSteps = [
     icon: '💬',
     title: 'You message each other to arrange things',
     description:
-      "Whether it's pending, accepted, or declined, you can message the seller directly from \"My Requests\" to ask questions or work out the practical details — SolarShare doesn't automate delivery, so this is where you coordinate it.",
+      "Whether it's pending, accepted, or declined, you can message the seller directly from \"My Requests\" to ask questions or work out the practical details — SolarShareOne doesn't automate delivery, so this is where you coordinate it.",
   },
   {
     icon: '📊',
@@ -266,13 +266,13 @@ export default function Learn() {
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">Learn</h1>
         <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-          How SolarShare works, in plain terms — plus simple tips on solar panels if you're new to
+          How SolarShareOne works, in plain terms — plus simple tips on solar panels if you're new to
           this.
         </p>
       </div>
 
       <section className="mb-14">
-        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-5">How SolarShare works</h2>
+        <h2 className="text-xl font-bold text-gray-900 dark:text-white mb-5">How SolarShareOne works</h2>
         <div className="grid sm:grid-cols-2 gap-5">
           <StepList title="For Buyers" steps={buyerSteps} accent="text-brand-700 dark:text-brand-400" />
           <StepList title="For Sellers" steps={sellerSteps} accent="text-sky-700 dark:text-sky-400" />

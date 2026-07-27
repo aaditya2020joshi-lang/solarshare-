@@ -32,12 +32,12 @@ const faq = [
   {
     keywords: ['payment', 'pay', 'money', 'transfer'],
     answer:
-      "SolarShare connects buyers and sellers and tracks the agreed price, but payment and energy transfer happen directly between you, outside the app.",
+      "SolarShareOne connects buyers and sellers and tracks the agreed price, but payment and energy transfer happen directly between you, outside the app.",
   },
   {
     keywords: ['sdg', 'mission', 'why', 'about', 'goal'],
     answer:
-      "SolarShare supports UN Sustainable Development Goal 7 — affordable, reliable, clean energy for all. Unlike platforms that optimize purely for trading efficiency, we prioritize energy access for underserved communities through the Community Priority system.",
+      "SolarShareOne supports UN Sustainable Development Goal 7 — affordable, reliable, clean energy for all. Unlike platforms that optimize purely for trading efficiency, we prioritize energy access for underserved communities through the Community Priority system.",
   },
   {
     keywords: ['sign up', 'signup', 'register', 'account', 'login', 'log in'],

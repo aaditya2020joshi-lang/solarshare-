@@ -52,7 +52,7 @@ export default function Checkout() {
       key: order.razorpay_key_id,
       amount: Math.round(Number(order.total_amount) * 100),
       currency: 'INR',
-      name: 'SolarShare',
+      name: 'SolarShareOne',
       description: `${order.panel_name} × ${order.quantity}`,
       order_id: order.razorpay_order_id,
       prefill: {

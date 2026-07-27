@@ -61,7 +61,7 @@ export default function Landing() {
             </span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-            SolarShare connects homes and businesses with surplus solar power to nearby
+            SolarShareOne connects homes and businesses with surplus solar power to nearby
             neighbors who don't have solar access — prioritizing energy affordability and
             access for underserved communities, not just trading efficiency.
           </p>
@@ -109,7 +109,7 @@ export default function Landing() {
           <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why this matters</h2>
           <p className="text-brand-50 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
             SDG 7 calls for affordable, reliable, sustainable, and modern energy for all.
-            Most energy marketplaces optimize purely for trading efficiency. SolarShare
+            Most energy marketplaces optimize purely for trading efficiency. SolarShareOne
             optimizes for access — making sure the households that need affordable clean
             energy the most aren't left behind.
           </p>

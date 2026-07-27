@@ -7,7 +7,7 @@ const FALLBACK =
 export default function FaqChatWidget() {
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { from: 'bot', text: "Hi! I'm the SolarShare FAQ bot. Ask me about pricing, listings, or how requests work." },
+    { from: 'bot', text: "Hi! I'm the SolarShareOne FAQ bot. Ask me about pricing, listings, or how requests work." },
   ]);
   const [input, setInput] = useState('');
 
@@ -32,7 +32,7 @@ export default function FaqChatWidget() {
       {open && (
         <div className="fixed bottom-24 right-5 z-40 w-80 max-w-[calc(100vw-2.5rem)] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl shadow-xl flex flex-col overflow-hidden">
           <div className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-3 flex items-center justify-between">
-            <span className="font-semibold text-sm">SolarShare Help</span>
+            <span className="font-semibold text-sm">SolarShareOne Help</span>
             <button onClick={() => setOpen(false)} aria-label="Close chat" className="p-1">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
