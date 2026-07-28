@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import client from '../api/client';
 import PanelCard from '../components/PanelCard';
+import RooftopScene from '../components/RooftopScene';
 import Spinner from '../components/Spinner';
 import { InboxIcon } from '../components/icons';
 
@@ -36,10 +37,14 @@ export default function Panels() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-10">
+      <div className="rounded-2xl overflow-hidden mb-6 shadow-sm">
+        <RooftopScene className="w-full h-40 sm:h-56" />
+      </div>
+
       <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Solar Panel Marketplace</h1>
       <p className="text-gray-600 dark:text-gray-400 text-sm mb-6">
-        Browse panels from vendors and buy directly. Checkout is secured by Razorpay — pay via UPI,
-        card, netbanking, or wallet.
+        Browse panels from vendors and buy directly — like the ones installed on the rooftop above.
+        Checkout is secured by Razorpay — pay via UPI, card, netbanking, or wallet.
       </p>
 
       <form onSubmit={fetchPanels} className="flex flex-wrap gap-3 mb-8">
