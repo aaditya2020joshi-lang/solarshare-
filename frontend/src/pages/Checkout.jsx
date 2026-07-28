@@ -38,6 +38,10 @@ export default function Checkout() {
     load();
   }, [id]);
 
+  const isEmi = order?.payment_plan === 'emi';
+  const payAmount = isEmi ? Number(order?.current_installment?.amount || 0) : Number(order?.total_amount || 0);
+  const payRazorpayOrderId = isEmi ? order?.current_installment?.razorpay_order_id : order?.razorpay_order_id;
+
   async function handlePayNow() {
     setError('');
     setPaying(true);
@@ -50,11 +54,13 @@ export default function Checkout() {
 
     const rzp = new window.Razorpay({
       key: order.razorpay_key_id,
-      amount: Math.round(Number(order.total_amount) * 100),
+      amount: Math.round(payAmount * 100),
       currency: 'INR',
       name: 'SolarShareOne',
-      description: `${order.panel_name} × ${order.quantity}`,
-      order_id: order.razorpay_order_id,
+      description: isEmi
+        ? `${order.panel_name} — EMI installment ${order.current_installment.installment_number}/${order.emi_months}`
+        : `${order.panel_name} × ${order.quantity}`,
+      order_id: payRazorpayOrderId,
       prefill: {
         name: user?.name,
         email: user?.email,
@@ -90,7 +96,7 @@ export default function Checkout() {
     return <p className="max-w-md mx-auto px-4 py-10 text-red-600 dark:text-red-400">{error}</p>;
   }
 
-  const isPaid = order.status === 'payment_claimed';
+  const isFullyPaid = order.status === 'payment_claimed';
 
   return (
     <div className="max-w-md mx-auto px-4 py-10">
@@ -121,17 +127,55 @@ export default function Checkout() {
             </span>
           </div>
           <div className="flex justify-between pt-2 mt-2 border-t border-gray-200 dark:border-gray-700">
-            <span className="text-gray-700 dark:text-gray-300 font-medium">Total</span>
+            <span className="text-gray-700 dark:text-gray-300 font-medium">
+              {isEmi ? `Total (over ${order.emi_months} months)` : 'Total'}
+            </span>
             <span className="text-gray-900 dark:text-white font-bold">
               ₹{Number(order.total_amount).toLocaleString('en-IN')}
             </span>
           </div>
         </div>
 
-        {isPaid ? (
+        {isEmi && order.installments && (
+          <div className="mb-6">
+            <p className="text-xs font-medium text-gray-500 dark:text-gray-400 mb-2">
+              Installment schedule
+            </p>
+            <div className="space-y-1.5">
+              {order.installments.map((inst) => (
+                <div
+                  key={inst.installment_number}
+                  className={`flex items-center justify-between text-sm rounded-lg px-3 py-2 ${
+                    inst.status === 'paid'
+                      ? 'bg-brand-50 dark:bg-brand-950/40'
+                      : 'bg-gray-50 dark:bg-gray-800'
+                  }`}
+                >
+                  <span className="text-gray-600 dark:text-gray-400">
+                    #{inst.installment_number} · due {new Date(inst.due_date).toLocaleDateString()}
+                  </span>
+                  <span className="flex items-center gap-2">
+                    <span className="text-gray-900 dark:text-white font-medium">
+                      ₹{Number(inst.amount).toLocaleString('en-IN')}
+                    </span>
+                    {inst.status === 'paid' ? (
+                      <span className="text-xs text-brand-700 dark:text-brand-400 font-medium">Paid ✓</span>
+                    ) : (
+                      <span className="text-xs text-gray-400 dark:text-gray-500">Pending</span>
+                    )}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {isFullyPaid ? (
           <div className="text-center py-4">
             <div className="text-4xl mb-3">✅</div>
-            <p className="text-brand-700 dark:text-brand-400 font-semibold mb-1">Payment verified</p>
+            <p className="text-brand-700 dark:text-brand-400 font-semibold mb-1">
+              {isEmi ? 'All installments paid' : 'Payment verified'}
+            </p>
             <p className="text-sm text-gray-500 dark:text-gray-400">
               Your payment to {order.vendor_name} was confirmed via Razorpay. They'll be in touch to
               arrange delivery/installation.
@@ -140,7 +184,9 @@ export default function Checkout() {
         ) : (
           <>
             <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
-              Pay securely via UPI, card, netbanking, or wallet — powered by Razorpay.
+              {isEmi
+                ? `Pay installment ${order.current_installment.installment_number} of ${order.emi_months} securely via UPI, card, netbanking, or wallet.`
+                : 'Pay securely via UPI, card, netbanking, or wallet — powered by Razorpay.'}
             </p>
 
             {error && <p className="text-sm text-red-600 dark:text-red-400 mb-4 text-center">{error}</p>}
@@ -150,7 +196,7 @@ export default function Checkout() {
               disabled={paying}
               className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
             >
-              {paying ? 'Processing…' : `Pay ₹${Number(order.total_amount).toLocaleString('en-IN')}`}
+              {paying ? 'Processing…' : `Pay ₹${payAmount.toLocaleString('en-IN')}`}
             </button>
           </>
         )}

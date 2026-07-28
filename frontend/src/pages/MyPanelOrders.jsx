@@ -6,11 +6,13 @@ import { InboxIcon, BoltIcon } from '../components/icons';
 
 const statusStyles = {
   pending: 'bg-yellow-100 dark:bg-yellow-900/50 text-yellow-700 dark:text-yellow-300',
+  emi_active: 'bg-sky-100 dark:bg-sky-900/40 text-sky-700 dark:text-sky-300',
   payment_claimed: 'bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300',
 };
 
 const statusLabels = {
   pending: 'Awaiting payment',
+  emi_active: 'EMI in progress',
   payment_claimed: 'Payment verified',
 };
 
@@ -52,19 +54,29 @@ export default function MyPanelOrders() {
                   <span className={`text-xs px-2 py-0.5 rounded-full font-medium ${statusStyles[o.status]}`}>
                     {statusLabels[o.status]}
                   </span>
+                  {o.payment_plan === 'emi' && (
+                    <span className="text-xs bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 px-2 py-0.5 rounded-full font-medium">
+                      EMI · {o.emi_months} months
+                    </span>
+                  )}
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-1">
                   <BoltIcon className="w-3.5 h-3.5 text-amber-500" />
                   {o.quantity} × {o.wattage}W ({o.panel_type}) from {o.vendor_name} — ₹
                   {Number(o.total_amount).toLocaleString('en-IN')}
                 </p>
+                {o.emi_progress && (
+                  <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">
+                    {o.emi_progress.paid} of {o.emi_progress.total} installments paid
+                  </p>
+                )}
               </div>
-              {o.status === 'pending' && (
+              {(o.status === 'pending' || o.status === 'emi_active') && (
                 <Link
                   to={`/checkout/${o.id}`}
                   className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm font-medium px-3 py-1.5 rounded-lg transition-colors self-start sm:self-auto"
                 >
-                  Complete payment
+                  {o.status === 'emi_active' ? 'Pay next installment' : 'Complete payment'}
                 </Link>
               )}
             </div>

@@ -73,15 +73,31 @@ CREATE TABLE panel_orders (
     quantity INTEGER NOT NULL CHECK (quantity > 0),
     platform_fee NUMERIC(10, 2) NOT NULL DEFAULT 0,
     total_amount NUMERIC(10, 2) NOT NULL,
-    status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'payment_claimed')),
+    status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'emi_active', 'payment_claimed')),
+    payment_plan TEXT NOT NULL DEFAULT 'full' CHECK (payment_plan IN ('full', 'emi')),
+    emi_months INTEGER,
     razorpay_order_id TEXT,
     razorpay_payment_id TEXT,
     created_at TIMESTAMPTZ NOT NULL DEFAULT now(),
     paid_claimed_at TIMESTAMPTZ
 );
 
+CREATE TABLE emi_installments (
+    id SERIAL PRIMARY KEY,
+    panel_order_id INTEGER NOT NULL REFERENCES panel_orders(id) ON DELETE CASCADE,
+    installment_number INTEGER NOT NULL,
+    amount NUMERIC(10, 2) NOT NULL,
+    due_date DATE NOT NULL,
+    status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'paid')),
+    razorpay_order_id TEXT,
+    razorpay_payment_id TEXT,
+    paid_at TIMESTAMPTZ,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+);
+
 CREATE INDEX idx_panels_vendor ON panels(vendor_id);
 CREATE INDEX idx_panel_orders_buyer ON panel_orders(buyer_id);
+CREATE INDEX idx_emi_installments_order ON emi_installments(panel_order_id);
 CREATE INDEX idx_listings_seller ON listings(seller_id);
 CREATE INDEX idx_listings_status ON listings(status);
 CREATE INDEX idx_requests_listing ON requests(listing_id);
