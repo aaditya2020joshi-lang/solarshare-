@@ -20,6 +20,7 @@ import Checkout from './pages/Checkout';
 import MyPanelOrders from './pages/MyPanelOrders';
 import WhatsAppButton from './components/WhatsAppButton';
 import FaqChatWidget from './components/FaqChatWidget';
+import NotFound from './pages/NotFound';
 
 export default function App() {
   return (
@@ -106,6 +107,7 @@ export default function App() {
             </ProtectedRoute>
           }
         />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <FaqChatWidget />
       <WhatsAppButton />

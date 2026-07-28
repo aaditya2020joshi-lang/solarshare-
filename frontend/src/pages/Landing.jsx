@@ -116,6 +116,37 @@ export default function Landing() {
         </div>
       </section>
 
+      <section className="max-w-5xl mx-auto px-4 py-20">
+        <p className="text-center text-xs font-semibold tracking-wide text-brand-600 dark:text-brand-400 uppercase mb-2">
+          Who we're building for
+        </p>
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-10">
+          Built for households priced out of solar
+        </h2>
+        <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-8 grid sm:grid-cols-[auto_1fr] gap-6 items-start">
+          <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-4xl mx-auto sm:mx-0">
+            🏡
+          </div>
+          <div>
+            <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
+              Picture a family running a small shop in a village in Maharashtra. Grid power is
+              unreliable, and a full rooftop solar installation costs more than they can pay
+              upfront.
+            </p>
+            <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
+              With <span className="font-semibold text-brand-700 dark:text-brand-400">Community Priority</span>,
+              their energy requests are surfaced first and matched to discounted community pricing.
+              With <span className="font-semibold text-brand-700 dark:text-brand-400">EMI</span>, they split
+              a panel purchase into small monthly installments instead of one lump sum — no credit
+              card or bank loan required, just a phone and a bit of savings each month.
+            </p>
+            <p className="text-xs text-gray-400 dark:text-gray-500 italic">
+              An illustrative scenario, not an actual customer account.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <section className="relative max-w-4xl mx-auto px-4 py-16 text-center">
         <Leaf className="hidden sm:block absolute top-4 left-[12%] w-6 h-6 text-brand-400 dark:text-brand-600 animate-leaf-sway" />
         <Leaf
