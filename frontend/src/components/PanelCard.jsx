@@ -11,7 +11,7 @@ export default function PanelCard({ panel }) {
     >
       <div className="relative h-40 overflow-hidden bg-gradient-to-br from-brand-50 via-sky-50 to-white dark:from-gray-800 dark:via-gray-900 dark:to-gray-900">
         <img
-          src={getPanelImage(panel.id)}
+          src={getPanelImage(panel.wattage)}
           alt="Solar panel"
           loading="lazy"
           className="w-full h-full object-contain p-5 transition-transform duration-300 group-hover:scale-105"
