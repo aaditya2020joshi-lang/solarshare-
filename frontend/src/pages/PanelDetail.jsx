@@ -71,12 +71,12 @@ export default function PanelDetail() {
       </Link>
 
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm overflow-hidden mt-4">
-        <div className="relative h-56 bg-gradient-to-br from-brand-50 via-sky-50 to-white dark:from-gray-800 dark:via-gray-900 dark:to-gray-900">
+        <div className="relative h-96 bg-gradient-to-br from-brand-50 via-sky-50 to-white dark:from-gray-800 dark:via-gray-900 dark:to-gray-900">
           <img
             src={getPanelImage(panel.wattage)}
             alt="Solar panel"
             loading="lazy"
-            className="w-full h-full object-contain p-8"
+            className="w-full h-full object-contain p-6"
           />
           <span className="absolute top-3 left-3 text-xs font-medium bg-white/85 dark:bg-gray-900/80 backdrop-blur text-gray-800 dark:text-gray-100 px-2.5 py-1 rounded-full shadow-sm">
             {panel.panel_type}
