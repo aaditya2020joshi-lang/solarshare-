@@ -75,6 +75,9 @@ export default function Navbar() {
         </>
       ) : (
         <>
+          <Link to="/loans" onClick={closeMenu} className={linkClass}>
+            Loans
+          </Link>
           <Link to="/login" onClick={closeMenu} className={linkClass}>
             Log in
           </Link>
