@@ -5,13 +5,13 @@ const AuthContext = createContext(null);
 
 export function AuthProvider({ children }) {
   const [user, setUser] = useState(() => {
-    const stored = localStorage.getItem('solarshare_user');
+    const stored = localStorage.getItem('bfl_user');
     return stored ? JSON.parse(stored) : null;
   });
 
   function persist(token, user) {
-    localStorage.setItem('solarshare_token', token);
-    localStorage.setItem('solarshare_user', JSON.stringify(user));
+    localStorage.setItem('bfl_token', token);
+    localStorage.setItem('bfl_user', JSON.stringify(user));
     setUser(user);
   }
 
@@ -28,13 +28,13 @@ export function AuthProvider({ children }) {
   }
 
   function logout() {
-    localStorage.removeItem('solarshare_token');
-    localStorage.removeItem('solarshare_user');
+    localStorage.removeItem('bfl_token');
+    localStorage.removeItem('bfl_user');
     setUser(null);
   }
 
   function updateUser(nextUser) {
-    localStorage.setItem('solarshare_user', JSON.stringify(nextUser));
+    localStorage.setItem('bfl_user', JSON.stringify(nextUser));
     setUser(nextUser);
   }
 

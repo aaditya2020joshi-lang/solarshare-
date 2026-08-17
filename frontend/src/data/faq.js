@@ -1,53 +1,52 @@
 const faq = [
   {
-    keywords: ['price', 'pricing', 'cost', 'rate', 'kwh cost'],
+    keywords: ['ai financial service', 'ai', 'insights', 'budgeting', 'savings insights'],
     answer:
-      "Sellers set a standard price per kWh, and can optionally offer a discounted \"community price\" for buyers with the Community Priority flag. You'll always see whichever price applies to you before sending a request.",
+      "Our AI Financial Service looks at your spending and saving patterns and gives you personalized insights and budgeting nudges — so you can catch issues and opportunities before they become problems.",
   },
   {
-    keywords: ['community priority', 'priority', 'low income', 'underserved', 'discount'],
+    keywords: ['payment failure', 'failed payment', 'stuck payment', 'support', 'help'],
     answer:
-      "Community Priority is a self-declared flag for buyers from low-income or underserved areas. It surfaces your requests higher in sellers' queues and automatically matches you to any discounted community pricing a seller offers. No verification is required.",
+      "If a payment fails or gets stuck, our Good Payment Failure Support team actively tracks it down and resolves it, instead of leaving you to guess where your money went.",
   },
   {
-    keywords: ['sell', 'seller', 'list energy', 'create listing', 'post listing'],
+    keywords: ['zero friction', 'zero-friction', 'loan', 'instant loan', 'borrow'],
     answer:
-      "Sign up as a Seller, then go to \"New Listing\" to list your available kWh, standard price, an optional community price, your location, and an availability window.",
+      "Zero-Friction Loans need no paperwork and no external credit check — approval happens in under a second, and if you swipe your card short on cash, the loan kicks in automatically to cover it.",
   },
   {
-    keywords: ['buy', 'buyer', 'purchase', 'browse'],
+    keywords: ['no liquidation', 'liquidation', 'sell investments', 'collateral', 'mutual funds', 'digital gold'],
     answer:
-      'Sign up as a Buyer, browse listings, and click "Request Energy" on any listing to send a request to the seller.',
+      "With No Liquidation, you borrow against your existing investments (like mutual funds or digital gold) without selling them. They stay invested, keep earning, and you avoid early-exit penalties and taxes — we simply hold them as collateral until the loan is repaid.",
   },
   {
-    keywords: ['request', 'accept', 'decline', 'pending'],
+    keywords: ['micro loan', 'micro loans', 'small loan', 'low interest', 'interest rate'],
     answer:
-      "After you send a request, the seller can Accept or Decline it from their Requests page. Once accepted, it shows up in both dashboards as a completed transaction. You can cancel a pending request any time before the seller responds.",
+      "Micro loans are small-amount loans, approved fast, designed to help you cover day-to-day needs — and they come with a lower interest rate than a typical personal loan.",
   },
   {
-    keywords: ['message', 'messaging', 'chat', 'contact seller', 'contact buyer', 'talk to'],
+    keywords: ['sign up', 'signup', 'register', 'open account', 'account'],
     answer:
-      "Yes — once a request exists, both sides can click \"Message\" on that request to chat directly and coordinate pickup/delivery details.",
+      'Click "Open an Account" in the top right and fill in your details. Already have an account? Use "Log in" instead.',
   },
   {
-    keywords: ['payment', 'pay', 'money', 'transfer'],
-    answer:
-      "SolarShareOne connects buyers and sellers and tracks the agreed price, but payment and energy transfer happen directly between you, outside the app.",
+    keywords: ['login', 'log in', 'sign in'],
+    answer: 'Click "Log In" in the navigation bar and enter your email and password.',
   },
   {
-    keywords: ['sdg', 'mission', 'why', 'about', 'goal'],
+    keywords: ['dashboard', 'balance', 'statements', 'transfers'],
     answer:
-      "SolarShareOne supports UN Sustainable Development Goal 7 — affordable, reliable, clean energy for all. Unlike platforms that optimize purely for trading efficiency, we prioritize energy access for underserved communities through the Community Priority system.",
+      'Your Dashboard is where your account overview lives. Full account features like balance, transfers, cards, and loans are coming soon to this demo.',
   },
   {
-    keywords: ['sign up', 'signup', 'register', 'account', 'login', 'log in'],
+    keywords: ['security', 'secure', 'safe', 'safety'],
     answer:
-      'Click "Sign up" in the top right, choose Buyer or Seller, and fill in your details. Already have an account? Use "Log in" instead.',
+      'Sahara Bank uses bank-grade security on every transaction, with your account accessible anytime, anywhere.',
   },
   {
-    keywords: ['dashboard', 'earnings', 'spending', 'savings', 'history'],
+    keywords: ['about', 'sahara', 'who are you', 'what is sahara'],
     answer:
-      'Your Dashboard shows total energy sold/bought, earnings/spending, a trend chart over time, and (for buyers) total savings from community pricing.',
+      'Sahara Bank is a demo banking experience built around AI-driven financial insights, fast and honest payment support, and friction-free borrowing against your existing assets.',
   },
 ];
 
@@ -73,10 +72,10 @@ export function findAnswer(message) {
 }
 
 export const suggestedQuestions = [
-  'How does pricing work?',
-  'What is Community Priority?',
-  'How do I sell energy?',
-  'How do I buy energy?',
+  'What is the AI Financial Service?',
+  'What is a Zero-Friction Loan?',
+  'How does No Liquidation work?',
+  'What is a Micro Loan?',
 ];
 
 export default faq;

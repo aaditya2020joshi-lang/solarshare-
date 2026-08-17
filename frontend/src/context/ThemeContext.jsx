@@ -4,14 +4,14 @@ const ThemeContext = createContext(null);
 
 export function ThemeProvider({ children }) {
   const [theme, setTheme] = useState(() => {
-    const stored = localStorage.getItem('solarshare_theme');
+    const stored = localStorage.getItem('bfl_theme');
     if (stored) return stored;
     return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
   });
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark');
-    localStorage.setItem('solarshare_theme', theme);
+    localStorage.setItem('bfl_theme', theme);
   }, [theme]);
 
   function toggleTheme() {

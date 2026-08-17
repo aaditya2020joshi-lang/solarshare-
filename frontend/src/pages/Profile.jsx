@@ -6,7 +6,6 @@ export default function Profile() {
   const { user, updateUser } = useAuth();
   const [name, setName] = useState(user.name);
   const [location, setLocation] = useState(user.location || '');
-  const [communityPriority, setCommunityPriority] = useState(user.communityPriority);
   const [status, setStatus] = useState(null);
   const [saving, setSaving] = useState(false);
 
@@ -15,7 +14,7 @@ export default function Profile() {
     setSaving(true);
     setStatus(null);
     try {
-      const { data } = await client.put('/users/me', { name, location, communityPriority });
+      const { data } = await client.put('/users/me', { name, location });
       updateUser(data);
       setStatus({ ok: true, message: 'Profile updated.' });
     } catch (err) {
@@ -49,26 +48,6 @@ export default function Profile() {
               className={inputClass}
             />
           </div>
-
-          <div>
-            <label className={labelClass}>Role</label>
-            <p className="text-gray-900 dark:text-white capitalize">{user.role}</p>
-          </div>
-
-          {user.role === 'buyer' && (
-            <label className="flex items-start gap-3 bg-brand-50 dark:bg-brand-950/40 border border-brand-200 dark:border-brand-800 rounded-lg p-3 cursor-pointer">
-              <input
-                type="checkbox"
-                checked={communityPriority}
-                onChange={(e) => setCommunityPriority(e.target.checked)}
-                className="mt-1"
-              />
-              <span className="text-sm text-gray-700 dark:text-gray-300">
-                <span className="font-semibold text-brand-700 dark:text-brand-400">Community Priority</span> — I'm
-                from a low-income or underserved area.
-              </span>
-            </label>
-          )}
 
           {status && (
             <p className={`text-sm ${status.ok ? 'text-brand-700 dark:text-brand-400' : 'text-red-600 dark:text-red-400'}`}>

@@ -74,7 +74,7 @@ CREATE TABLE panel_orders (
     platform_fee NUMERIC(10, 2) NOT NULL DEFAULT 0,
     total_amount NUMERIC(10, 2) NOT NULL,
     status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'emi_active', 'payment_claimed')),
-    payment_plan TEXT NOT NULL DEFAULT 'full' CHECK (payment_plan IN ('full', 'emi')),
+    payment_plan TEXT NOT NULL DEFAULT 'full' CHECK (payment_plan IN ('full', 'emi', 'cod')),
     emi_months INTEGER,
     razorpay_order_id TEXT,
     razorpay_payment_id TEXT,

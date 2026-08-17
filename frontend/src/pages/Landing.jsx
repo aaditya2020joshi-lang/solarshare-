@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import TreeLine from '../components/TreeLine';
 import Leaf from '../components/Leaf';
 import Sun from '../components/Sun';
 
@@ -21,6 +20,42 @@ const features = [
     title: 'Secure, always-on banking',
     description:
       'Bank-grade security on every transaction, with your accounts and cards accessible anytime, anywhere.',
+  },
+];
+
+const loanFeatures = [
+  {
+    icon: '⚡',
+    title: 'Zero-Friction Loans',
+    tagline: 'No paperwork. No waiting. No stress.',
+    points: [
+      'No paperwork — no salary slips, tax returns, or bank statements to upload.',
+      'No credit checks — we already know your assets, so we skip the external credit score check.',
+      'Instant approval — decided by an algorithm in under a second.',
+      "Automatic delivery — if you swipe your card short on cash, the loan kicks in automatically to cover it.",
+    ],
+  },
+  {
+    icon: '📈',
+    title: 'No Liquidation',
+    tagline: 'Borrow against your assets without selling them.',
+    points: [
+      'Keep your investments — your mutual funds or digital gold stay exactly where they are.',
+      'Keep earning — since nothing is sold, your assets keep growing and paying dividends.',
+      'Avoid penalties and taxes — no exit loads or capital gains tax from an early sale.',
+      'Your assets as collateral — we simply hold them as a digital guarantee until the loan is repaid.',
+    ],
+  },
+  {
+    icon: '🌱',
+    title: 'Micro Loans',
+    tagline: 'Small loans, lower interest, when you need a hand.',
+    points: [
+      'Small amounts — get approved for a small loan sized to what you actually need.',
+      'Lower interest — micro loans carry a reduced interest rate versus a standard personal loan.',
+      'Built to support you — meant for everyday needs, not big-ticket purchases.',
+      'Fast approval — apply and get a decision without a lengthy underwriting process.',
+    ],
   },
 ];
 
@@ -52,7 +87,7 @@ export default function Landing() {
 
         <div className="relative max-w-5xl mx-auto px-4 py-24 text-center animate-fade-in-up">
           <p className="inline-block bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 text-sm font-semibold px-3 py-1 rounded-full mb-5">
-            BFL Bank — Smarter banking, backed by AI
+            Sahara Bank — Smarter banking, backed by AI
           </p>
           <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 dark:text-white mb-6 tracking-tight">
             Banking that's{' '}
@@ -61,9 +96,9 @@ export default function Landing() {
             </span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-            BFL Bank combines everyday banking with an AI Financial Service that helps you manage
-            your money, and support that actually resolves payment failures instead of leaving
-            you stuck.
+            Sahara Bank combines everyday banking with an AI Financial Service, instant zero-friction
+            loans, and support that actually resolves payment failures instead of leaving you
+            stuck.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
@@ -80,8 +115,6 @@ export default function Landing() {
             </Link>
           </div>
         </div>
-
-        <TreeLine className="relative w-full h-20 sm:h-28" />
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-20 grid sm:grid-cols-3 gap-8">
@@ -100,15 +133,48 @@ export default function Landing() {
         ))}
       </section>
 
+      <section className="max-w-5xl mx-auto px-4 py-20">
+        <p className="text-center text-xs font-semibold tracking-wide text-brand-600 dark:text-brand-400 uppercase mb-2">
+          Borrowing, reimagined
+        </p>
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-10">
+          Loans that don't get in your way
+        </h2>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {loanFeatures.map((f) => (
+            <div
+              key={f.title}
+              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6"
+            >
+              <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-2xl mb-4">
+                {f.icon}
+              </div>
+              <h3 className="font-bold text-lg text-gray-900 dark:text-white mb-1">{f.title}</h3>
+              <p className="text-sm text-brand-600 dark:text-brand-400 font-medium mb-4">
+                {f.tagline}
+              </p>
+              <ul className="space-y-2">
+                {f.points.map((point) => (
+                  <li key={point} className="flex gap-2 text-sm text-gray-600 dark:text-gray-400">
+                    <span className="text-brand-500 dark:text-brand-400 flex-shrink-0">✓</span>
+                    <span>{point}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+
       <section className="relative bg-gradient-to-r from-brand-700 to-sky-700 dark:from-gray-900 dark:to-gray-900 dark:border-y dark:border-gray-800 text-white overflow-hidden">
         <div
           className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_20%_20%,white,transparent_35%)]"
           aria-hidden="true"
         />
         <div className="relative max-w-4xl mx-auto px-4 py-16 text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why BFL Bank is different</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why Sahara Bank is different</h2>
           <p className="text-brand-50 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            Most banks treat you like a transaction. BFL Bank uses AI to actually understand your
+            Most banks treat you like a transaction. Sahara Bank uses AI to actually understand your
             finances, and when a payment fails, our support team tracks it down and fixes it
             instead of pointing you to a call center queue.
           </p>
@@ -132,7 +198,7 @@ export default function Landing() {
               line just tells them to "wait 3-5 business days" with no real update.
             </p>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
-              With BFL Bank's <span className="font-semibold text-brand-700 dark:text-brand-400">AI Financial Service</span>,
+              With Sahara Bank's <span className="font-semibold text-brand-700 dark:text-brand-400">AI Financial Service</span>,
               they get a real-time nudge the moment something looks off. With{' '}
               <span className="font-semibold text-brand-700 dark:text-brand-400">Good Payment Failure Support</span>,
               a real support flow actively chases the failed payment down instead of leaving them
@@ -164,8 +230,6 @@ export default function Landing() {
           Open your account
         </Link>
       </section>
-
-      <TreeLine className="w-full h-16 sm:h-24" />
     </div>
   );
 }

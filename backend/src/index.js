@@ -4,13 +4,8 @@ import dotenv from 'dotenv';
 
 import authRoutes from './routes/auth.routes.js';
 import userRoutes from './routes/users.routes.js';
-import listingRoutes from './routes/listings.routes.js';
-import requestRoutes from './routes/requests.routes.js';
 import dashboardRoutes from './routes/dashboard.routes.js';
 import adminRoutes from './routes/admin.routes.js';
-import messagesRoutes from './routes/messages.routes.js';
-import panelsRoutes from './routes/panels.routes.js';
-import panelOrdersRoutes from './routes/panelOrders.routes.js';
 
 dotenv.config();
 
@@ -23,13 +18,8 @@ app.get('/api/health', (req, res) => res.json({ status: 'ok' }));
 
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
-app.use('/api/listings', listingRoutes);
-app.use('/api/requests', requestRoutes);
-app.use('/api/requests', messagesRoutes);
 app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/admin', adminRoutes);
-app.use('/api', panelsRoutes);
-app.use('/api/panel-orders', panelOrdersRoutes);
 
 app.use((err, req, res, next) => {
   console.error(err);
@@ -37,4 +27,4 @@ app.use((err, req, res, next) => {
 });
 
 const port = process.env.PORT || 4000;
-app.listen(port, () => console.log(`SolarShareOne API listening on port ${port}`));
+app.listen(port, () => console.log(`Sahara Bank API listening on port ${port}`));

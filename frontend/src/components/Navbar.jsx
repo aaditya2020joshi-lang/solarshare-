@@ -44,40 +44,10 @@ export default function Navbar() {
 
   const links = (
     <>
-      <Link to="/listings" onClick={closeMenu} className={linkClass}>
-        Browse Listings
-      </Link>
-      <Link to="/learn" onClick={closeMenu} className={linkClass}>
-        Learn
-      </Link>
-      <Link to="/panels" onClick={closeMenu} className={linkClass}>
-        Panel Marketplace
-      </Link>
-
-      {user?.role === 'seller' && (
-        <>
-          <Link to="/seller/listings" onClick={closeMenu} className={linkClass}>
-            My Listings
-          </Link>
-          <Link to="/seller/requests" onClick={closeMenu} className={linkClass}>
-            Requests
-          </Link>
-        </>
-      )}
-
-      {user?.role === 'buyer' && (
-        <Link to="/buyer/requests" onClick={closeMenu} className={linkClass}>
-          My Requests
-        </Link>
-      )}
-
       {user ? (
         <>
           <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
-          </Link>
-          <Link to="/my-orders" onClick={closeMenu} className={linkClass}>
-            My Orders
           </Link>
           <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile
@@ -119,7 +89,7 @@ export default function Navbar() {
           onClick={closeMenu}
           className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          🏦 BFL Bank
+          🏦 Sahara Bank
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">

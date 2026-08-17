@@ -11,7 +11,6 @@ export default function Signup() {
     password: '',
     role: 'buyer',
     location: '',
-    communityPriority: false,
   });
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
@@ -41,34 +40,9 @@ export default function Signup() {
   return (
     <div className="max-w-md mx-auto px-4 py-12">
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
-        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Create your account</h1>
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Open your account</h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
-          <div className="grid grid-cols-2 gap-3">
-            <button
-              type="button"
-              onClick={() => update('role', 'buyer')}
-              className={`py-2 rounded-lg border font-medium transition-colors ${
-                form.role === 'buyer'
-                  ? 'bg-brand-600 text-white border-brand-600'
-                  : 'bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-700 hover:border-brand-400'
-              }`}
-            >
-              I'm a Buyer
-            </button>
-            <button
-              type="button"
-              onClick={() => update('role', 'seller')}
-              className={`py-2 rounded-lg border font-medium transition-colors ${
-                form.role === 'seller'
-                  ? 'bg-sky-accent text-white border-sky-accent'
-                  : 'bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-700 hover:border-sky-400'
-              }`}
-            >
-              I'm a Seller
-            </button>
-          </div>
-
           <div>
             <label className={labelClass}>Full name</label>
             <input
@@ -113,23 +87,6 @@ export default function Signup() {
             />
           </div>
 
-          {form.role === 'buyer' && (
-            <label className="flex items-start gap-3 bg-brand-50 dark:bg-brand-950/40 border border-brand-200 dark:border-brand-800 rounded-lg p-3 cursor-pointer">
-              <input
-                type="checkbox"
-                checked={form.communityPriority}
-                onChange={(e) => update('communityPriority', e.target.checked)}
-                className="mt-1"
-              />
-              <span className="text-sm text-gray-700 dark:text-gray-300">
-                <span className="font-semibold text-brand-700 dark:text-brand-400">Community Priority: </span>
-                I'm from a low-income or underserved area. This surfaces my requests higher
-                in sellers' queues and may match me to discounted community pricing.
-                No verification required.
-              </span>
-            </label>
-          )}
-
           {error && <p className="text-sm text-red-600 dark:text-red-400">{error}</p>}
 
           <button
@@ -137,7 +94,7 @@ export default function Signup() {
             disabled={loading}
             className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
           >
-            {loading ? 'Creating account…' : 'Sign up'}
+            {loading ? 'Creating account…' : 'Open Account'}
           </button>
         </form>
 
