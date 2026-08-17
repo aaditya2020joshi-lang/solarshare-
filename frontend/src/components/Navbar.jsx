@@ -119,7 +119,7 @@ export default function Navbar() {
           onClick={closeMenu}
           className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          ☀️ SolarShareOne
+          🏦 BFL Bank
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">

@@ -5,22 +5,22 @@ import Sun from '../components/Sun';
 
 const features = [
   {
-    icon: '🔆',
-    title: 'Sell surplus solar',
+    icon: '🤖',
+    title: 'AI Financial Service',
     description:
-      'List your excess kWh with a standard price, plus an optional discounted community rate for households that need it most.',
+      'Get personalized savings, spending, and budgeting insights powered by AI — so your money works smarter, not just harder.',
   },
   {
-    icon: '🤝',
-    title: 'Buy from neighbors',
+    icon: '🛟',
+    title: 'Good Payment Failure Support',
     description:
-      'Browse nearby listings, send a request, and power your home with clean energy at a fair price.',
+      "If a payment fails or gets stuck, our support team actively tracks it down and resolves it — you're never left guessing where your money went.",
   },
   {
-    icon: '⚖️',
-    title: 'Priority for those who need it',
+    icon: '🔒',
+    title: 'Secure, always-on banking',
     description:
-      "Buyers from low-income or underserved areas can self-identify at sign-up so their requests are surfaced first and matched to community pricing.",
+      'Bank-grade security on every transaction, with your accounts and cards accessible anytime, anywhere.',
   },
 ];
 
@@ -52,31 +52,31 @@ export default function Landing() {
 
         <div className="relative max-w-5xl mx-auto px-4 py-24 text-center animate-fade-in-up">
           <p className="inline-block bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 text-sm font-semibold px-3 py-1 rounded-full mb-5">
-            Supporting UN Sustainable Development Goal 7
+            BFL Bank — Smarter banking, backed by AI
           </p>
           <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 dark:text-white mb-6 tracking-tight">
-            Clean energy that's{' '}
+            Banking that's{' '}
             <span className="bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent">
-              actually affordable
+              actually on your side
             </span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-            SolarShareOne connects homes and businesses with surplus solar power to nearby
-            neighbors who don't have solar access — prioritizing energy affordability and
-            access for underserved communities, not just trading efficiency.
+            BFL Bank combines everyday banking with an AI Financial Service that helps you manage
+            your money, and support that actually resolves payment failures instead of leaving
+            you stuck.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
               to="/signup"
               className="bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-7 py-3.5 rounded-full shadow-lg shadow-brand-600/20 hover:shadow-xl hover:-translate-y-0.5 transition-all"
             >
-              Get Started
+              Open an Account
             </Link>
             <Link
-              to="/listings"
+              to="/login"
               className="bg-white dark:bg-gray-800 text-brand-700 dark:text-brand-300 border border-brand-200 dark:border-gray-700 font-semibold px-7 py-3.5 rounded-full hover:bg-brand-50 dark:hover:bg-gray-700 hover:-translate-y-0.5 transition-all"
             >
-              Browse Listings
+              Log In
             </Link>
           </div>
         </div>
@@ -106,12 +106,11 @@ export default function Landing() {
           aria-hidden="true"
         />
         <div className="relative max-w-4xl mx-auto px-4 py-16 text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why this matters</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why BFL Bank is different</h2>
           <p className="text-brand-50 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
-            SDG 7 calls for affordable, reliable, sustainable, and modern energy for all.
-            Most energy marketplaces optimize purely for trading efficiency. SolarShareOne
-            optimizes for access — making sure the households that need affordable clean
-            energy the most aren't left behind.
+            Most banks treat you like a transaction. BFL Bank uses AI to actually understand your
+            finances, and when a payment fails, our support team tracks it down and fixes it
+            instead of pointing you to a call center queue.
           </p>
         </div>
       </section>
@@ -121,24 +120,23 @@ export default function Landing() {
           Who we're building for
         </p>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-10">
-          Built for households priced out of solar
+          Built for people tired of being ignored by their bank
         </h2>
         <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-8 grid sm:grid-cols-[auto_1fr] gap-6 items-start">
           <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-4xl mx-auto sm:mx-0">
-            🏡
+            💳
           </div>
           <div>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
-              Picture a family running a small shop in a village in Maharashtra. Grid power is
-              unreliable, and a full rooftop solar installation costs more than they can pay
-              upfront.
+              Picture someone whose salary transfer fails silently, and their old bank's support
+              line just tells them to "wait 3-5 business days" with no real update.
             </p>
             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
-              With <span className="font-semibold text-brand-700 dark:text-brand-400">Community Priority</span>,
-              their energy requests are surfaced first and matched to discounted community pricing.
-              With <span className="font-semibold text-brand-700 dark:text-brand-400">EMI</span>, they split
-              a panel purchase into small monthly installments instead of one lump sum — no credit
-              card or bank loan required, just a phone and a bit of savings each month.
+              With BFL Bank's <span className="font-semibold text-brand-700 dark:text-brand-400">AI Financial Service</span>,
+              they get a real-time nudge the moment something looks off. With{' '}
+              <span className="font-semibold text-brand-700 dark:text-brand-400">Good Payment Failure Support</span>,
+              a real support flow actively chases the failed payment down instead of leaving them
+              to guess.
             </p>
             <p className="text-xs text-gray-400 dark:text-gray-500 italic">
               An illustrative scenario, not an actual customer account.
@@ -154,16 +152,16 @@ export default function Landing() {
           style={{ animationDelay: '-3s' }}
         />
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-3">
-          Ready to join the grid?
+          Ready to bank smarter?
         </h2>
         <p className="text-gray-600 dark:text-gray-400 mb-8">
-          Whether you have surplus solar to share or need affordable clean energy, it starts here.
+          Open an account in minutes and get AI-backed insights from day one.
         </p>
         <Link
           to="/signup"
           className="inline-block bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-8 py-3.5 rounded-full shadow-lg shadow-brand-600/20 hover:shadow-xl hover:-translate-y-0.5 transition-all"
         >
-          Create your account
+          Open your account
         </Link>
       </section>
 
