@@ -10,14 +10,9 @@ const faq = [
       "If a payment fails or gets stuck, our Good Payment Failure Support team actively tracks it down and resolves it, instead of leaving you to guess where your money went.",
   },
   {
-    keywords: ['zero friction', 'zero-friction', 'loan', 'instant loan', 'borrow'],
+    keywords: ['ai support', 'financial literacy', 'literacy', 'learn about money', 'education'],
     answer:
-      "Zero-Friction Loans need no paperwork and no external credit check — approval happens in under a second, and if you swipe your card short on cash, the loan kicks in automatically to cover it.",
-  },
-  {
-    keywords: ['no liquidation', 'liquidation', 'sell investments', 'collateral', 'mutual funds', 'digital gold'],
-    answer:
-      "With No Liquidation, you borrow against your existing investments (like mutual funds or digital gold) without selling them. They stay invested, keep earning, and you avoid early-exit penalties and taxes — we simply hold them as collateral until the loan is repaid.",
+      "AI Support is our financial literacy feature — ask it anything about budgeting, saving, credit, or loans in plain language, and get personalized lessons based on your own spending patterns, any time.",
   },
   {
     keywords: ['micro loan', 'micro loans', 'small loan', 'low interest', 'interest rate'],
@@ -46,7 +41,7 @@ const faq = [
   {
     keywords: ['about', 'sahara', 'who are you', 'what is sahara'],
     answer:
-      'Sahara Bank is a demo banking experience built around AI-driven financial insights, fast and honest payment support, and friction-free borrowing against your existing assets.',
+      'Sahara Bank is a demo banking experience built around AI-driven financial insights, fast and honest payment support, low-interest micro loans, and AI Support to help raise financial literacy.',
   },
 ];
 
@@ -73,9 +68,9 @@ export function findAnswer(message) {
 
 export const suggestedQuestions = [
   'What is the AI Financial Service?',
-  'What is a Zero-Friction Loan?',
-  'How does No Liquidation work?',
+  'What is AI Support?',
   'What is a Micro Loan?',
+  'What happens if a payment fails?',
 ];
 
 export default faq;

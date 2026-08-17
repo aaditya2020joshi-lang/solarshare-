@@ -8,12 +8,14 @@ const features = [
     title: 'AI Financial Service',
     description:
       'Get personalized savings, spending, and budgeting insights powered by AI — so your money works smarter, not just harder.',
+    to: '/insights',
   },
   {
     icon: '🛟',
     title: 'Good Payment Failure Support',
     description:
       "If a payment fails or gets stuck, our support team actively tracks it down and resolves it — you're never left guessing where your money went.",
+    to: '/support',
   },
   {
     icon: '🔒',
@@ -25,28 +27,6 @@ const features = [
 
 const loanFeatures = [
   {
-    icon: '⚡',
-    title: 'Zero-Friction Loans',
-    tagline: 'No paperwork. No waiting. No stress.',
-    points: [
-      'No paperwork — no salary slips, tax returns, or bank statements to upload.',
-      'No credit checks — we already know your assets, so we skip the external credit score check.',
-      'Instant approval — decided by an algorithm in under a second.',
-      "Automatic delivery — if you swipe your card short on cash, the loan kicks in automatically to cover it.",
-    ],
-  },
-  {
-    icon: '📈',
-    title: 'No Liquidation',
-    tagline: 'Borrow against your assets without selling them.',
-    points: [
-      'Keep your investments — your mutual funds or digital gold stay exactly where they are.',
-      'Keep earning — since nothing is sold, your assets keep growing and paying dividends.',
-      'Avoid penalties and taxes — no exit loads or capital gains tax from an early sale.',
-      'Your assets as collateral — we simply hold them as a digital guarantee until the loan is repaid.',
-    ],
-  },
-  {
     icon: '🌱',
     title: 'Micro Loans',
     tagline: 'Small loans, lower interest, when you need a hand.',
@@ -55,6 +35,18 @@ const loanFeatures = [
       'Lower interest — micro loans carry a reduced interest rate versus a standard personal loan.',
       'Built to support you — meant for everyday needs, not big-ticket purchases.',
       'Fast approval — apply and get a decision without a lengthy underwriting process.',
+    ],
+    cta: { label: 'Apply now', to: '/loans' },
+  },
+  {
+    icon: '🎓',
+    title: 'AI Support',
+    tagline: 'Works for our bank to raise financial literacy.',
+    points: [
+      'Plain-language answers — ask anything about budgeting, saving, credit, or loans and get a clear explanation.',
+      'Personalized lessons — bite-sized tips based on your own spending patterns.',
+      'Available anytime — no waiting for a branch or call center.',
+      'Judgment-free — ask basic questions without feeling embarrassed.',
     ],
   },
 ];
@@ -96,7 +88,7 @@ export default function Landing() {
             </span>
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
-            Sahara Bank combines everyday banking with an AI Financial Service, instant zero-friction
+            Sahara Bank combines everyday banking with an AI Financial Service, low-interest micro
             loans, and support that actually resolves payment failures instead of leaving you
             stuck.
           </p>
@@ -118,33 +110,37 @@ export default function Landing() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-20 grid sm:grid-cols-3 gap-8">
-        {features.map((f, i) => (
-          <div
-            key={f.title}
-            className="text-center bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 animate-fade-in-up"
-            style={{ animationDelay: `${i * 100}ms` }}
-          >
-            <div className="w-14 h-14 mx-auto mb-4 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-3xl">
-              {f.icon}
-            </div>
-            <h2 className="font-semibold text-gray-900 dark:text-white mb-2">{f.title}</h2>
-            <p className="text-gray-600 dark:text-gray-400 text-sm">{f.description}</p>
-          </div>
-        ))}
+        {features.map((f, i) => {
+          const CardTag = f.to ? Link : 'div';
+          return (
+            <CardTag
+              key={f.title}
+              {...(f.to ? { to: f.to } : {})}
+              className="text-center bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 animate-fade-in-up block"
+              style={{ animationDelay: `${i * 100}ms` }}
+            >
+              <div className="w-14 h-14 mx-auto mb-4 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-3xl">
+                {f.icon}
+              </div>
+              <h2 className="font-semibold text-gray-900 dark:text-white mb-2">{f.title}</h2>
+              <p className="text-gray-600 dark:text-gray-400 text-sm">{f.description}</p>
+            </CardTag>
+          );
+        })}
       </section>
 
       <section className="max-w-5xl mx-auto px-4 py-20">
         <p className="text-center text-xs font-semibold tracking-wide text-brand-600 dark:text-brand-400 uppercase mb-2">
-          Borrowing, reimagined
+          Borrowing &amp; financial literacy, reimagined
         </p>
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-10">
-          Loans that don't get in your way
+          More ways we're on your side
         </h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid sm:grid-cols-2 gap-6">
           {loanFeatures.map((f) => (
             <div
               key={f.title}
-              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6"
+              className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 flex flex-col"
             >
               <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-2xl mb-4">
                 {f.icon}
@@ -153,7 +149,7 @@ export default function Landing() {
               <p className="text-sm text-brand-600 dark:text-brand-400 font-medium mb-4">
                 {f.tagline}
               </p>
-              <ul className="space-y-2">
+              <ul className="space-y-2 flex-1">
                 {f.points.map((point) => (
                   <li key={point} className="flex gap-2 text-sm text-gray-600 dark:text-gray-400">
                     <span className="text-brand-500 dark:text-brand-400 flex-shrink-0">✓</span>
@@ -161,6 +157,14 @@ export default function Landing() {
                   </li>
                 ))}
               </ul>
+              {f.cta && (
+                <Link
+                  to={f.cta.to}
+                  className="mt-4 inline-block text-center bg-gradient-to-r from-brand-600 to-sky-accent text-white text-sm font-semibold py-2 rounded-full hover:shadow-md transition-all"
+                >
+                  {f.cta.label}
+                </Link>
+              )}
             </div>
           ))}
         </div>

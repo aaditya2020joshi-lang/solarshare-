@@ -49,6 +49,15 @@ export default function Navbar() {
           <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
           </Link>
+          <Link to="/loans" onClick={closeMenu} className={linkClass}>
+            Loans
+          </Link>
+          <Link to="/insights" onClick={closeMenu} className={linkClass}>
+            AI Insights
+          </Link>
+          <Link to="/support" onClick={closeMenu} className={linkClass}>
+            Support
+          </Link>
           <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile
           </Link>
