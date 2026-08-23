@@ -31,13 +31,13 @@ export default function Dashboard() {
         Ask a question any time and get a clear answer back.
       </p>
 
-      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-8 text-center">
+      <div className="bg-white dark:bg-gray-900 border-2 border-gray-900 dark:border-gray-700 rounded-lg p-8 text-center">
         <p className="text-gray-500 dark:text-gray-400 mb-4">
           Head to the homepage to ask a question, or use the help chat in the corner of any page.
         </p>
         <Link
           to="/"
-          className="inline-block bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-6 py-2.5 rounded-full hover:shadow-md transition-all"
+          className="inline-block bg-gray-900 dark:bg-brand-600 text-white font-bold px-6 py-2.5 rounded-lg hover:bg-brand-600 dark:hover:bg-brand-500 transition-colors"
         >
           Ask a question
         </Link>

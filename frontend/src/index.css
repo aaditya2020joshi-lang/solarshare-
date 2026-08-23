@@ -3,56 +3,73 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --color-brand-50: #f0fdf6;
-  --color-brand-100: #dcfce9;
-  --color-brand-200: #bbf1d0;
-  --color-brand-500: #16a34a;
-  --color-brand-600: #15803d;
-  --color-brand-700: #166534;
-  --color-brand-900: #052e16;
-  --color-sky-accent: #b45309;
+  /* Indigo signal color — swapped in for the old soft green/amber scheme. */
+  --color-brand-50: #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-200: #c7d2fe;
+  --color-brand-300: #a5b4fc;
+  --color-brand-400: #818cf8;
+  --color-brand-500: #6366f1;
+  --color-brand-600: #4f46e5;
+  --color-brand-700: #4338ca;
+  --color-brand-800: #3730a3;
+  --color-brand-900: #312e81;
+  --color-sky-accent: #ea580c;
 
-  /* Warm stone neutrals replace Tailwind's default cool gray scale. */
-  --color-gray-50: #fafaf9;
-  --color-gray-100: #f5f5f4;
-  --color-gray-200: #e7e5e4;
-  --color-gray-300: #d6d3d1;
-  --color-gray-400: #a8a29e;
-  --color-gray-500: #78716c;
-  --color-gray-600: #57534e;
-  --color-gray-700: #44403c;
-  --color-gray-800: #292524;
-  --color-gray-900: #1c1917;
-  --color-gray-950: #0c0a09;
+  /* Cool zinc neutrals in place of the old warm stone scale. */
+  --color-gray-50: #fafafa;
+  --color-gray-100: #f4f4f5;
+  --color-gray-200: #e4e4e7;
+  --color-gray-300: #d4d4d8;
+  --color-gray-400: #a1a1aa;
+  --color-gray-500: #71717a;
+  --color-gray-600: #52525b;
+  --color-gray-700: #3f3f46;
+  --color-gray-800: #27272a;
+  --color-gray-900: #18181b;
+  --color-gray-950: #09090b;
 
-  /* Amber/gold in place of Tailwind's default blue "sky" scale, so existing
-     sky-* accents (banners, blobs, badges) read as sunlit forest, not sky. */
-  --color-sky-50: #fffbeb;
-  --color-sky-100: #fef3c7;
-  --color-sky-200: #fde68a;
-  --color-sky-300: #fcd34d;
-  --color-sky-400: #fbbf24;
-  --color-sky-500: #f59e0b;
-  --color-sky-600: #d97706;
-  --color-sky-700: #b45309;
-  --color-sky-800: #92400e;
-  --color-sky-900: #78350f;
-  --color-sky-950: #451a03;
+  /* Burnt-orange scale for secondary accents, badges, and highlights. */
+  --color-sky-50: #fff7ed;
+  --color-sky-100: #ffedd5;
+  --color-sky-200: #fed7aa;
+  --color-sky-300: #fdba74;
+  --color-sky-400: #fb923c;
+  --color-sky-500: #f97316;
+  --color-sky-600: #ea580c;
+  --color-sky-700: #c2410c;
+  --color-sky-800: #9a3412;
+  --color-sky-900: #7c2d12;
+  --color-sky-950: #431407;
 
-  --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif;
-  --font-display: 'Fraunces', 'Nunito', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Space Grotesk', 'Inter', ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
   margin: 0;
   font-family: var(--font-sans);
-  background-color: #fafaf9;
+  background-color: #fafafa;
 }
 
 h1,
 h2,
 h3 {
   font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(currentColor 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.hard-shadow {
+  box-shadow: 4px 4px 0 0 var(--color-gray-900);
+}
+
+html.dark .hard-shadow {
+  box-shadow: 4px 4px 0 0 var(--color-brand-500);
 }
 
 @keyframes fade-in-up {
@@ -70,64 +87,10 @@ h3 {
   animation: fade-in-up 0.6s ease-out both;
 }
 
-@keyframes blob-float {
-  0%,
-  100% {
-    transform: translate(0, 0) scale(1);
-  }
-  33% {
-    transform: translate(20px, -30px) scale(1.05);
-  }
-  66% {
-    transform: translate(-15px, 15px) scale(0.97);
-  }
-}
-
-.animate-blob {
-  animation: blob-float 12s ease-in-out infinite;
-}
-
-.animate-blob-delay {
-  animation: blob-float 12s ease-in-out infinite;
-  animation-delay: -6s;
-}
-
-@keyframes leaf-sway {
-  0%,
-  100% {
-    transform: translateY(0) rotate(-6deg);
-  }
-  50% {
-    transform: translateY(-10px) rotate(6deg);
-  }
-}
-
-.animate-leaf-sway {
-  animation: leaf-sway 4s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes sun-pulse {
-  0%,
-  100% {
-    transform: scale(1);
-    opacity: 0.9;
-  }
-  50% {
-    transform: scale(1.08);
-    opacity: 1;
-  }
-}
-
-.animate-sun-pulse {
-  animation: sun-pulse 5s ease-in-out infinite;
-  transform-origin: center;
-}
-
 html {
   scroll-behavior: smooth;
 }
 
 html.dark body {
-  background-color: #0c0a09;
+  background-color: #09090b;
 }

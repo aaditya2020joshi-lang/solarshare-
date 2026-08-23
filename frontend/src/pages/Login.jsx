@@ -30,7 +30,7 @@ export default function Login() {
 
   return (
     <div className="max-w-md mx-auto px-4 py-16">
-      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
+      <div className="bg-white dark:bg-gray-900 border-2 border-gray-900 dark:border-gray-700 rounded-lg p-6 sm:p-8">
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Log in</h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
@@ -61,7 +61,7 @@ export default function Login() {
           <button
             type="submit"
             disabled={loading}
-            className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
+            className="w-full bg-gray-900 dark:bg-brand-600 hover:bg-brand-600 dark:hover:bg-brand-500 text-white font-bold py-2.5 rounded-lg transition-colors disabled:opacity-60"
           >
             {loading ? 'Logging in…' : 'Log in'}
           </button>
