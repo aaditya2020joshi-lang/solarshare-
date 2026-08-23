@@ -40,7 +40,7 @@ export default function Signup() {
   return (
     <div className="max-w-md mx-auto px-4 py-12">
       <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
-        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Open your account</h1>
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Create your account</h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
@@ -94,7 +94,7 @@ export default function Signup() {
             disabled={loading}
             className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
           >
-            {loading ? 'Creating account…' : 'Open Account'}
+            {loading ? 'Creating account…' : 'Create Account'}
           </button>
         </form>
 

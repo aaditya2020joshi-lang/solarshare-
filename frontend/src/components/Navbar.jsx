@@ -49,15 +49,6 @@ export default function Navbar() {
           <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
           </Link>
-          <Link to="/loans" onClick={closeMenu} className={linkClass}>
-            Loans
-          </Link>
-          <Link to="/insights" onClick={closeMenu} className={linkClass}>
-            AI Insights
-          </Link>
-          <Link to="/support" onClick={closeMenu} className={linkClass}>
-            Support
-          </Link>
           <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile
           </Link>
@@ -75,9 +66,6 @@ export default function Navbar() {
         </>
       ) : (
         <>
-          <Link to="/loans" onClick={closeMenu} className={linkClass}>
-            Loans
-          </Link>
           <Link to="/login" onClick={closeMenu} className={linkClass}>
             Log in
           </Link>
@@ -101,7 +89,7 @@ export default function Navbar() {
           onClick={closeMenu}
           className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          🏦 Sahara Bank
+          🧭 Human Insights
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">

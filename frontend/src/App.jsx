@@ -5,9 +5,6 @@ import Landing from './pages/Landing';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
-import Loans from './pages/Loans';
-import Insights from './pages/Insights';
-import Support from './pages/Support';
 import Profile from './pages/Profile';
 import Admin from './pages/Admin';
 import WhatsAppButton from './components/WhatsAppButton';
@@ -27,30 +24,6 @@ export default function App() {
           element={
             <ProtectedRoute>
               <Dashboard />
-            </ProtectedRoute>
-          }
-        />
-        <Route
-          path="/loans"
-          element={
-            <ProtectedRoute>
-              <Loans />
-            </ProtectedRoute>
-          }
-        />
-        <Route
-          path="/insights"
-          element={
-            <ProtectedRoute>
-              <Insights />
-            </ProtectedRoute>
-          }
-        />
-        <Route
-          path="/support"
-          element={
-            <ProtectedRoute>
-              <Support />
             </ProtectedRoute>
           }
         />
