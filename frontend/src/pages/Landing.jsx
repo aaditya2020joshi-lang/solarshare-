@@ -12,7 +12,7 @@ export default function Landing() {
 
   function ask(q) {
     if (!q.trim()) return;
-    setAnswer(findAnswer(q) || FALLBACK);
+    setAnswer(findAnswer(q));
     setAskedQuestion(q);
     setQuestion('');
   }
@@ -71,12 +71,27 @@ export default function Landing() {
             ))}
           </div>
 
-          {answer && (
+          {askedQuestion && (
             <div className="text-left bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 border-l-4 border-l-brand-600 rounded-lg p-6 animate-fade-in-up">
               <p className="text-xs font-bold text-brand-600 dark:text-brand-400 uppercase tracking-wide mb-2">
                 {askedQuestion}
               </p>
-              <p className="text-gray-800 dark:text-gray-200 leading-relaxed">{answer}</p>
+              {!answer && (
+                <p className="text-gray-800 dark:text-gray-200 leading-relaxed">{FALLBACK}</p>
+              )}
+              {answer?.type === 'text' && (
+                <p className="text-gray-800 dark:text-gray-200 leading-relaxed">{answer.answer}</p>
+              )}
+              {answer?.type === 'list' && (
+                <ul className="space-y-2">
+                  {answer.items.map((item) => (
+                    <li key={item} className="flex gap-2 text-gray-800 dark:text-gray-200 leading-relaxed">
+                      <span className="text-brand-600 dark:text-brand-400 flex-shrink-0">•</span>
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           )}
 

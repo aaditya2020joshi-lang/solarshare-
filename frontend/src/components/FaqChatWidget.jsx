@@ -7,17 +7,18 @@ const FALLBACK =
 export default function FaqChatWidget() {
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { from: 'bot', text: "Hi! Ask me a question and I'll do my best to answer it." },
+    { from: 'bot', answer: { type: 'text', answer: "Hi! Ask me a question and I'll do my best to answer it." } },
   ]);
   const [input, setInput] = useState('');
 
   function ask(question) {
     if (!question.trim()) return;
-    const answer = findAnswer(question) || FALLBACK;
+    const found = findAnswer(question);
+    const answer = found || { type: 'text', answer: FALLBACK };
     setMessages((prev) => [
       ...prev,
       { from: 'user', text: question },
-      { from: 'bot', text: answer },
+      { from: 'bot', answer },
     ]);
     setInput('');
   }
@@ -48,7 +49,18 @@ export default function FaqChatWidget() {
                     m.from === 'user' ? 'bg-brand-600 text-white' : 'bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200'
                   }`}
                 >
-                  {m.text}
+                  {m.from === 'user' && m.text}
+                  {m.from === 'bot' && m.answer.type === 'text' && m.answer.answer}
+                  {m.from === 'bot' && m.answer.type === 'list' && (
+                    <ul className="space-y-1">
+                      {m.answer.items.map((item) => (
+                        <li key={item} className="flex gap-1.5">
+                          <span className="text-brand-600 dark:text-brand-400 flex-shrink-0">•</span>
+                          <span>{item}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                 </div>
               </div>
             ))}

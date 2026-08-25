@@ -1,57 +1,96 @@
 const faq = [
   {
     keywords: ['what is human insights', 'about', 'what is this', 'purpose'],
+    type: 'text',
     answer:
       'Human Insights is a place to ask questions and get clear, straightforward answers — no digging through pages of documentation.',
   },
   {
     keywords: ['sign up', 'signup', 'register', 'create account', 'account'],
+    type: 'text',
     answer:
       'Click "Sign up" in the top right and fill in your details. Already have an account? Use "Log in" instead.',
   },
   {
     keywords: ['login', 'log in', 'sign in'],
+    type: 'text',
     answer: 'Click "Log in" in the navigation bar and enter your email and password.',
   },
   {
     keywords: ['ask', 'question', 'how does this work', 'how do i ask'],
+    type: 'text',
     answer:
       'Type your question into the box on the homepage (or here in this chat) and press Ask — a matching answer shows up right away.',
   },
   {
     keywords: ['good morning', 'instead of good morning', 'morning text'],
-    answer:
-      'A plain "good morning" is fine, but it lands warmer with one specific, personal touch — try "Hope your coffee\'s stronger than your Monday," "You crossed my mind before my alarm did," or "Hope today treats you well." The goal is a line that couldn\'t be copy-pasted to just anyone.',
+    type: 'list',
+    items: [
+      "Hope your coffee's stronger than your Monday.",
+      'You crossed my mind before my alarm did.',
+      'Hope today treats you well.',
+      'Morning — hope your day starts as good as this text finds you.',
+    ],
   },
   {
     keywords: ['i love you', 'instead of i love you', 'say i love you'],
-    answer:
-      '"I love you" is never wrong, but a more specific version tends to land harder — "You\'re the best part of my day, every day," "I don\'t know how I did any of this without you," or "I\'m grateful for you every time I think about it." Honest and specific beats a line that could apply to anyone.',
+    type: 'list',
+    items: [
+      "You're the best part of my day, every day.",
+      "I don't know how I did any of this without you.",
+      "I'm grateful for you, every time I think about it.",
+      'Every day with you still feels like a good one.',
+    ],
   },
   {
     keywords: ['how are you', 'reply to how are you', 'respond to how are you'],
-    answer:
-      'Instead of a flat "good, you?", give them something real to respond to — "Pretty good, spent the afternoon [doing something], how about you?" or "Honestly better now that you texted." One small detail turns a dead-end question into an actual conversation.',
+    type: 'list',
+    items: [
+      'Pretty good — spent the afternoon [doing something], how about you?',
+      'Honestly better now that you texted.',
+      'Good so far, ask me again after coffee.',
+      "Can't complain. What's going on with you?",
+    ],
   },
   {
-    keywords: ['conversation starter', 'flirty question', 'build chemistry', 'good questions to ask'],
-    answer:
-      'Skip the small talk and ask something that gets a real answer — "What\'s something you\'re weirdly good at?", "What\'s a small thing that instantly makes your day better?", or "What\'s the best thing that\'s happened to you this week?" Specific, slightly personal questions get better replies than generic ones.',
+    keywords: ['conversation starters', 'conversation starter', 'flirty question', 'build chemistry', 'good questions to ask'],
+    type: 'list',
+    items: [
+      "What's something you're weirdly good at?",
+      "What's a small thing that instantly makes your day better?",
+      "What's the best thing that's happened to you this week?",
+      "What's something you've always wanted to try but haven't yet?",
+    ],
   },
   {
     keywords: ['deep question', 'meaningful question', 'get to know someone', 'ask her these', 'ask him these'],
-    answer:
-      'For a conversation to go somewhere real, ask questions that invite a story instead of a fact — "What\'s a moment that changed how you see things?", "What\'s something you wish people understood about you?", or "What do you actually want more of right now?" Then follow up on what they actually say.',
+    type: 'list',
+    items: [
+      "What's a moment that changed how you see things?",
+      "What's something you wish people understood about you?",
+      'What do you actually want more of right now?',
+      "What's a lesson you learned the hard way?",
+    ],
   },
   {
     keywords: ['text with confidence', 'texting confidence', 'texting tips', 'how to text'],
-    answer:
-      'Confident texting comes down to a few habits: be direct instead of vague ("Want to grab coffee Saturday?" beats "We should hang out sometime"), skip the over-explaining or apologizing for texting, and don\'t feel like you owe anyone an instant reply. Clear and calm reads better than eager.',
+    type: 'list',
+    items: [
+      "Be direct instead of vague — 'Want to grab coffee Saturday?' instead of 'We should hang out sometime.'",
+      'Skip the over-explaining or apologizing for texting first.',
+      "Take your time replying — you don't owe anyone an instant response.",
+      'Say what you mean instead of hinting at it.',
+    ],
   },
   {
     keywords: ['texts people like', 'good texts to send', 'what to text'],
-    answer:
-      'People generally respond well to texts that feel specific to them — referencing something they said, asking a genuine follow-up, or sharing something small and real about your day — rather than generic openers like "hey" or "what\'s up." A little specificity goes further than a clever line.',
+    type: 'list',
+    items: [
+      'Reference something they specifically said earlier.',
+      'Ask a genuine follow-up question instead of a generic one.',
+      'Share something small and real about your day.',
+      "Skip \"hey\" and \"what's up\" as openers.",
+    ],
   },
 ];
 
@@ -73,7 +112,7 @@ export function findAnswer(message) {
     }
   }
 
-  return best ? best.answer : null;
+  return best;
 }
 
 export const suggestedQuestions = [
