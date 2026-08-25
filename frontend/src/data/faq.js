@@ -25,6 +25,7 @@ const faq = [
   {
     keywords: ['good morning', 'instead of good morning', 'morning text'],
     type: 'list',
+    title: 'Instead of "Good Morning"',
     items: [
       "Hope your coffee's stronger than your Monday.",
       'You crossed my mind before my alarm did.',
@@ -35,6 +36,7 @@ const faq = [
   {
     keywords: ['i love you', 'instead of i love you', 'say i love you'],
     type: 'list',
+    title: 'Instead of "I Love You"',
     items: [
       "You're the best part of my day, every day.",
       "I don't know how I did any of this without you.",
@@ -45,6 +47,7 @@ const faq = [
   {
     keywords: ['how are you', 'reply to how are you', 'respond to how are you'],
     type: 'list',
+    title: 'Replies to "How Are You?"',
     items: [
       'Pretty good — spent the afternoon [doing something], how about you?',
       'Honestly better now that you texted.',
@@ -55,6 +58,7 @@ const faq = [
   {
     keywords: ['conversation starters', 'conversation starter', 'flirty question', 'build chemistry', 'good questions to ask'],
     type: 'list',
+    title: 'Conversation Starters',
     items: [
       "What's something you're weirdly good at?",
       "What's a small thing that instantly makes your day better?",
@@ -65,6 +69,7 @@ const faq = [
   {
     keywords: ['deep question', 'meaningful question', 'get to know someone', 'ask her these', 'ask him these'],
     type: 'list',
+    title: 'Deep Questions to Build Connection',
     items: [
       "What's a moment that changed how you see things?",
       "What's something you wish people understood about you?",
@@ -75,6 +80,7 @@ const faq = [
   {
     keywords: ['text with confidence', 'texting confidence', 'texting tips', 'how to text'],
     type: 'list',
+    title: 'Texting With Confidence',
     items: [
       "Be direct instead of vague — 'Want to grab coffee Saturday?' instead of 'We should hang out sometime.'",
       'Skip the over-explaining or apologizing for texting first.',
@@ -85,6 +91,7 @@ const faq = [
   {
     keywords: ['texts people like', 'good texts to send', 'what to text'],
     type: 'list',
+    title: 'Texts People Actually Respond To',
     items: [
       'Reference something they specifically said earlier.',
       'Ask a genuine follow-up question instead of a generic one.',
@@ -121,5 +128,7 @@ export const suggestedQuestions = [
   'How do I reply to "how are you"?',
   'How do I sign up?',
 ];
+
+export const topics = faq.filter((entry) => entry.type === 'list');
 
 export default faq;

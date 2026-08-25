@@ -5,6 +5,7 @@ import Landing from './pages/Landing';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
+import Topics from './pages/Topics';
 import Profile from './pages/Profile';
 import Admin from './pages/Admin';
 import WhatsAppButton from './components/WhatsAppButton';
@@ -24,6 +25,14 @@ export default function App() {
           element={
             <ProtectedRoute>
               <Dashboard />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/topics"
+          element={
+            <ProtectedRoute>
+              <Topics />
             </ProtectedRoute>
           }
         />
