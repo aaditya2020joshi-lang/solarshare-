@@ -1,122 +1,173 @@
-import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { findAnswer, suggestedQuestions } from '../data/faq';
+import TreeLine from '../components/TreeLine';
+import Leaf from '../components/Leaf';
+import Sun from '../components/Sun';
 
-const FALLBACK =
-  "I don't have an answer for that yet — more questions and answers are being added soon.";
+const features = [
+  {
+    icon: '🔆',
+    title: 'Sell surplus solar',
+    description:
+      'List your excess kWh with a standard price, plus an optional discounted community rate for households that need it most.',
+  },
+  {
+    icon: '🤝',
+    title: 'Buy from neighbors',
+    description:
+      'Browse nearby listings, send a request, and power your home with clean energy at a fair price.',
+  },
+  {
+    icon: '⚖️',
+    title: 'Priority for those who need it',
+    description:
+      "Buyers from low-income or underserved areas can self-identify at sign-up so their requests are surfaced first and matched to community pricing.",
+  },
+];
 
 export default function Landing() {
-  const [question, setQuestion] = useState('');
-  const [answer, setAnswer] = useState(null);
-  const [askedQuestion, setAskedQuestion] = useState('');
-
-  function ask(q) {
-    if (!q.trim()) return;
-    setAnswer(findAnswer(q));
-    setAskedQuestion(q);
-    setQuestion('');
-  }
-
-  function handleSubmit(e) {
-    e.preventDefault();
-    ask(question);
-  }
-
   return (
     <div className="overflow-hidden">
-      <section className="relative bg-white dark:bg-gray-950 border-b border-gray-200 dark:border-gray-800">
+      <section className="relative bg-gradient-to-br from-brand-50 via-white to-sky-50 dark:from-gray-950 dark:via-gray-950 dark:to-gray-900">
         <div
-          className="absolute inset-0 text-gray-200 dark:text-gray-800 bg-dot-grid opacity-60"
+          className="absolute -top-24 -left-24 w-96 h-96 bg-brand-200 dark:bg-brand-900/40 rounded-full blur-3xl opacity-50 animate-blob"
+          aria-hidden="true"
+        />
+        <div
+          className="absolute top-10 -right-24 w-96 h-96 bg-sky-200 dark:bg-sky-900/30 rounded-full blur-3xl opacity-50 animate-blob-delay"
           aria-hidden="true"
         />
 
-        <div className="relative max-w-3xl mx-auto px-4 py-24 text-center animate-fade-in-up">
-          <p className="inline-block border-2 border-gray-900 dark:border-gray-100 text-gray-900 dark:text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-md mb-6">
-            Human Insights
+        <Leaf className="hidden sm:block absolute top-24 left-[8%] w-8 h-8 text-brand-400 dark:text-brand-600 animate-leaf-sway" />
+        <Leaf
+          className="hidden sm:block absolute top-40 right-[10%] w-6 h-6 text-sky-accent/70 animate-leaf-sway"
+          style={{ animationDelay: '-2s' }}
+        />
+        <Leaf className="hidden md:block absolute bottom-32 left-[18%] w-5 h-5 text-brand-500 dark:text-brand-500 animate-leaf-sway" />
+
+        <div
+          className="hidden sm:block absolute top-6 right-[16%] w-20 h-20 bg-amber-300 rounded-full blur-2xl opacity-40 dark:opacity-25"
+          aria-hidden="true"
+        />
+        <Sun className="hidden sm:block absolute top-8 right-[17%] w-16 h-16 animate-sun-pulse" />
+
+        <div className="relative max-w-5xl mx-auto px-4 py-24 text-center animate-fade-in-up">
+          <p className="inline-block bg-brand-100 dark:bg-brand-900/50 text-brand-700 dark:text-brand-300 text-sm font-semibold px-3 py-1 rounded-full mb-5">
+            Supporting UN Sustainable Development Goal 7
           </p>
-          <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-            Ask a question.
-            <br />
-            <span className="text-brand-600 dark:text-brand-400">Get an answer.</span>
+          <h1 className="text-4xl sm:text-6xl font-bold text-gray-900 dark:text-white mb-6 tracking-tight">
+            Clean energy that's{' '}
+            <span className="bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent">
+              actually affordable
+            </span>
           </h1>
-          <p className="text-lg text-gray-600 dark:text-gray-300 max-w-xl mx-auto mb-10">
-            Type your question below and get a clear, straightforward answer back — no digging
-            around required.
+          <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-10">
+            SolarShareOne connects homes and businesses with surplus solar power to nearby
+            neighbors who don't have solar access — prioritizing energy affordability and
+            access for underserved communities, not just trading efficiency.
           </p>
-
-          <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 mb-4">
-            <input
-              value={question}
-              onChange={(e) => setQuestion(e.target.value)}
-              placeholder="Ask a question…"
-              className="flex-1 border-2 border-gray-900 dark:border-gray-100 bg-white dark:bg-gray-900 text-gray-900 dark:text-white rounded-lg px-5 py-3 focus:outline-none focus:ring-2 focus:ring-brand-500"
-            />
-            <button
-              type="submit"
-              className="bg-gray-900 dark:bg-brand-600 text-white font-bold px-7 py-3 rounded-lg hard-shadow hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none transition-all"
-            >
-              Ask
-            </button>
-          </form>
-
-          <div className="flex flex-wrap justify-center gap-2 mb-10">
-            {suggestedQuestions.map((q) => (
-              <button
-                key={q}
-                onClick={() => ask(q)}
-                className="text-xs font-medium bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300 border border-gray-300 dark:border-gray-700 rounded-md px-3 py-1.5 hover:border-gray-900 dark:hover:border-gray-100 transition-colors"
-              >
-                {q}
-              </button>
-            ))}
-          </div>
-
-          {askedQuestion && (
-            <div className="text-left bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 border-l-4 border-l-brand-600 rounded-lg p-6 animate-fade-in-up">
-              <p className="text-xs font-bold text-brand-600 dark:text-brand-400 uppercase tracking-wide mb-2">
-                {askedQuestion}
-              </p>
-              {!answer && (
-                <p className="text-gray-800 dark:text-gray-200 leading-relaxed">{FALLBACK}</p>
-              )}
-              {answer?.type === 'text' && (
-                <p className="text-gray-800 dark:text-gray-200 leading-relaxed">{answer.answer}</p>
-              )}
-              {answer?.type === 'list' && (
-                <ul className="space-y-2">
-                  {answer.items.map((item) => (
-                    <li key={item} className="flex gap-2 text-gray-800 dark:text-gray-200 leading-relaxed">
-                      <span className="text-brand-600 dark:text-brand-400 flex-shrink-0">•</span>
-                      <span>{item}</span>
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </div>
-          )}
-
-          <div className="flex flex-wrap justify-center gap-3 mt-10">
+          <div className="flex flex-wrap justify-center gap-4">
             <Link
               to="/signup"
-              className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white border-2 border-gray-900 dark:border-gray-100 font-bold px-7 py-3 rounded-lg hover:bg-gray-900 hover:text-white dark:hover:bg-gray-100 dark:hover:text-gray-900 transition-colors"
+              className="bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-7 py-3.5 rounded-full shadow-lg shadow-brand-600/20 hover:shadow-xl hover:-translate-y-0.5 transition-all"
             >
-              Sign up
+              Get Started
             </Link>
             <Link
-              to="/login"
-              className="text-gray-500 dark:text-gray-400 font-bold px-7 py-3 hover:text-gray-900 dark:hover:text-gray-100 transition-colors"
+              to="/listings"
+              className="bg-white dark:bg-gray-800 text-brand-700 dark:text-brand-300 border border-brand-200 dark:border-gray-700 font-semibold px-7 py-3.5 rounded-full hover:bg-brand-50 dark:hover:bg-gray-700 hover:-translate-y-0.5 transition-all"
             >
-              Log in
+              Browse Listings
             </Link>
+          </div>
+        </div>
+
+        <TreeLine className="relative w-full h-20 sm:h-28" />
+      </section>
+
+      <section className="max-w-5xl mx-auto px-4 py-20 grid sm:grid-cols-3 gap-8">
+        {features.map((f, i) => (
+          <div
+            key={f.title}
+            className="text-center bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 animate-fade-in-up"
+            style={{ animationDelay: `${i * 100}ms` }}
+          >
+            <div className="w-14 h-14 mx-auto mb-4 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-3xl">
+              {f.icon}
+            </div>
+            <h2 className="font-semibold text-gray-900 dark:text-white mb-2">{f.title}</h2>
+            <p className="text-gray-600 dark:text-gray-400 text-sm">{f.description}</p>
+          </div>
+        ))}
+      </section>
+
+      <section className="relative bg-gradient-to-r from-brand-700 to-sky-700 dark:from-gray-900 dark:to-gray-900 dark:border-y dark:border-gray-800 text-white overflow-hidden">
+        <div
+          className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_20%_20%,white,transparent_35%)]"
+          aria-hidden="true"
+        />
+        <div className="relative max-w-4xl mx-auto px-4 py-16 text-center">
+          <h2 className="text-2xl sm:text-3xl font-bold mb-4">Why this matters</h2>
+          <p className="text-brand-50 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
+            SDG 7 calls for affordable, reliable, sustainable, and modern energy for all.
+            Most energy marketplaces optimize purely for trading efficiency. SolarShareOne
+            optimizes for access — making sure the households that need affordable clean
+            energy the most aren't left behind.
+          </p>
+        </div>
+      </section>
+
+      <section className="max-w-5xl mx-auto px-4 py-20">
+        <p className="text-center text-xs font-semibold tracking-wide text-brand-600 dark:text-brand-400 uppercase mb-2">
+          Who we're building for
+        </p>
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-10">
+          Built for households priced out of solar
+        </h2>
+        <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-8 grid sm:grid-cols-[auto_1fr] gap-6 items-start">
+          <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-brand-100 to-sky-100 dark:from-brand-900/50 dark:to-sky-900/50 flex items-center justify-center text-4xl mx-auto sm:mx-0">
+            🏡
+          </div>
+          <div>
+            <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
+              Picture a family running a small shop in a village in Maharashtra. Grid power is
+              unreliable, and a full rooftop solar installation costs more than they can pay
+              upfront.
+            </p>
+            <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
+              With <span className="font-semibold text-brand-700 dark:text-brand-400">Community Priority</span>,
+              their energy requests are surfaced first and matched to discounted community pricing.
+              With <span className="font-semibold text-brand-700 dark:text-brand-400">EMI</span>, they split
+              a panel purchase into small monthly installments instead of one lump sum — no credit
+              card or bank loan required, just a phone and a bit of savings each month.
+            </p>
+            <p className="text-xs text-gray-400 dark:text-gray-500 italic">
+              An illustrative scenario, not an actual customer account.
+            </p>
           </div>
         </div>
       </section>
 
-      <section className="max-w-3xl mx-auto px-4 py-16 text-center">
-        <p className="text-xs text-gray-400 dark:text-gray-500">
-          More questions and answers are on the way — this is an early look at Human Insights.
+      <section className="relative max-w-4xl mx-auto px-4 py-16 text-center">
+        <Leaf className="hidden sm:block absolute top-4 left-[12%] w-6 h-6 text-brand-400 dark:text-brand-600 animate-leaf-sway" />
+        <Leaf
+          className="hidden sm:block absolute bottom-4 right-[14%] w-5 h-5 text-sky-accent/60 animate-leaf-sway"
+          style={{ animationDelay: '-3s' }}
+        />
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-3">
+          Ready to join the grid?
+        </h2>
+        <p className="text-gray-600 dark:text-gray-400 mb-8">
+          Whether you have surplus solar to share or need affordable clean energy, it starts here.
         </p>
+        <Link
+          to="/signup"
+          className="inline-block bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-8 py-3.5 rounded-full shadow-lg shadow-brand-600/20 hover:shadow-xl hover:-translate-y-0.5 transition-all"
+        >
+          Create your account
+        </Link>
       </section>
+
+      <TreeLine className="w-full h-16 sm:h-24" />
     </div>
   );
 }

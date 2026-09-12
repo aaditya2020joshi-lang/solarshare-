@@ -44,13 +44,40 @@ export default function Navbar() {
 
   const links = (
     <>
+      <Link to="/listings" onClick={closeMenu} className={linkClass}>
+        Browse Listings
+      </Link>
+      <Link to="/learn" onClick={closeMenu} className={linkClass}>
+        Learn
+      </Link>
+      <Link to="/panels" onClick={closeMenu} className={linkClass}>
+        Panel Marketplace
+      </Link>
+
+      {user?.role === 'seller' && (
+        <>
+          <Link to="/seller/listings" onClick={closeMenu} className={linkClass}>
+            My Listings
+          </Link>
+          <Link to="/seller/requests" onClick={closeMenu} className={linkClass}>
+            Requests
+          </Link>
+        </>
+      )}
+
+      {user?.role === 'buyer' && (
+        <Link to="/buyer/requests" onClick={closeMenu} className={linkClass}>
+          My Requests
+        </Link>
+      )}
+
       {user ? (
         <>
           <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
             Dashboard
           </Link>
-          <Link to="/topics" onClick={closeMenu} className={linkClass}>
-            Topics
+          <Link to="/my-orders" onClick={closeMenu} className={linkClass}>
+            My Orders
           </Link>
           <Link to="/profile" onClick={closeMenu} className={linkClass}>
             Profile
@@ -62,7 +89,7 @@ export default function Navbar() {
           )}
           <button
             onClick={handleLogout}
-            className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 px-4 py-1.5 rounded-md font-semibold transition-colors text-left"
+            className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 px-4 py-1.5 rounded-full transition-colors text-left"
           >
             Log out
           </button>
@@ -75,7 +102,7 @@ export default function Navbar() {
           <Link
             to="/signup"
             onClick={closeMenu}
-            className="bg-gray-900 dark:bg-brand-600 text-white px-4 py-1.5 rounded-md font-bold hover:bg-brand-600 dark:hover:bg-brand-500 transition-colors text-center"
+            className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
           >
             Sign up
           </Link>
@@ -90,9 +117,9 @@ export default function Navbar() {
         <Link
           to="/"
           onClick={closeMenu}
-          className="text-xl font-bold tracking-tight text-gray-900 dark:text-white"
+          className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          🧭 Human Insights
+          ☀️ SolarShareOne
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">

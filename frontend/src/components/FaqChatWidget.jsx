@@ -7,18 +7,17 @@ const FALLBACK =
 export default function FaqChatWidget() {
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { from: 'bot', answer: { type: 'text', answer: "Hi! Ask me a question and I'll do my best to answer it." } },
+    { from: 'bot', text: "Hi! I'm the SolarShareOne FAQ bot. Ask me about pricing, listings, or how requests work." },
   ]);
   const [input, setInput] = useState('');
 
   function ask(question) {
     if (!question.trim()) return;
-    const found = findAnswer(question);
-    const answer = found || { type: 'text', answer: FALLBACK };
+    const answer = findAnswer(question) || FALLBACK;
     setMessages((prev) => [
       ...prev,
       { from: 'user', text: question },
-      { from: 'bot', answer },
+      { from: 'bot', text: answer },
     ]);
     setInput('');
   }
@@ -31,9 +30,9 @@ export default function FaqChatWidget() {
   return (
     <>
       {open && (
-        <div className="fixed bottom-24 right-5 z-40 w-80 max-w-[calc(100vw-2.5rem)] bg-white dark:bg-gray-900 border-2 border-gray-900 dark:border-gray-700 rounded-lg shadow-xl flex flex-col overflow-hidden">
-          <div className="bg-gray-900 dark:bg-brand-600 text-white px-4 py-3 flex items-center justify-between">
-            <span className="font-semibold text-sm">Human Insights Help</span>
+        <div className="fixed bottom-24 right-5 z-40 w-80 max-w-[calc(100vw-2.5rem)] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl shadow-xl flex flex-col overflow-hidden">
+          <div className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-3 flex items-center justify-between">
+            <span className="font-semibold text-sm">SolarShareOne Help</span>
             <button onClick={() => setOpen(false)} aria-label="Close chat" className="p-1">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -49,18 +48,7 @@ export default function FaqChatWidget() {
                     m.from === 'user' ? 'bg-brand-600 text-white' : 'bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200'
                   }`}
                 >
-                  {m.from === 'user' && m.text}
-                  {m.from === 'bot' && m.answer.type === 'text' && m.answer.answer}
-                  {m.from === 'bot' && m.answer.type === 'list' && (
-                    <ul className="space-y-1">
-                      {m.answer.items.map((item) => (
-                        <li key={item} className="flex gap-1.5">
-                          <span className="text-brand-600 dark:text-brand-400 flex-shrink-0">•</span>
-                          <span>{item}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
+                  {m.text}
                 </div>
               </div>
             ))}
@@ -71,7 +59,7 @@ export default function FaqChatWidget() {
                   <button
                     key={q}
                     onClick={() => ask(q)}
-                    className="text-xs bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300 border border-gray-300 dark:border-gray-700 rounded-md px-2.5 py-1 hover:border-gray-900 dark:hover:border-gray-100"
+                    className="text-xs bg-brand-50 dark:bg-brand-950/50 text-brand-700 dark:text-brand-300 border border-brand-200 dark:border-brand-800 rounded-full px-2.5 py-1 hover:bg-brand-100 dark:hover:bg-brand-900/50"
                   >
                     {q}
                   </button>
@@ -100,7 +88,7 @@ export default function FaqChatWidget() {
       <button
         onClick={() => setOpen((o) => !o)}
         aria-label="Open help chat"
-        className="fixed bottom-5 right-[92px] z-40 w-14 h-14 rounded-full bg-gray-900 dark:bg-brand-600 hover:bg-brand-600 dark:hover:bg-brand-500 shadow-lg flex items-center justify-center transition-colors text-white"
+        className="fixed bottom-5 right-[92px] z-40 w-14 h-14 rounded-full bg-brand-600 hover:bg-brand-700 shadow-lg flex items-center justify-center transition text-white"
       >
         {open ? (
           <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
