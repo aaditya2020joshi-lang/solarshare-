@@ -1,8 +1,8 @@
-import { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useState } from 'react';
+import { useSearchParams, Link } from 'react-router-dom';
 import client from '../api/client';
-import { useAuth } from '../context/AuthContext';
-import Spinner from '../components/Spinner';
+
+const UNIT_PRICE = 799;
 
 function loadRazorpayScript() {
   if (window.Razorpay) return Promise.resolve(true);
@@ -16,31 +16,38 @@ function loadRazorpayScript() {
 }
 
 export default function Checkout() {
-  const { id } = useParams();
-  const { user } = useAuth();
-  const [order, setOrder] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const [searchParams] = useSearchParams();
+  const [form, setForm] = useState({
+    customerName: '',
+    email: '',
+    phone: '',
+    address: '',
+    city: '',
+    pincode: '',
+    quantity: Number(searchParams.get('quantity')) || 1,
+  });
   const [error, setError] = useState('');
+  const [placing, setPlacing] = useState(false);
   const [paying, setPaying] = useState(false);
+  const [order, setOrder] = useState(null);
 
-  async function load() {
-    try {
-      const { data } = await client.get(`/panel-orders/${id}`);
-      setOrder(data);
-    } catch (err) {
-      setError(err.response?.data?.error || 'Could not load this order');
-    } finally {
-      setLoading(false);
-    }
+  function update(field, value) {
+    setForm((prev) => ({ ...prev, [field]: value }));
   }
 
-  useEffect(() => {
-    load();
-  }, [id]);
-
-  const isEmi = order?.payment_plan === 'emi';
-  const payAmount = isEmi ? Number(order?.current_installment?.amount || 0) : Number(order?.total_amount || 0);
-  const payRazorpayOrderId = isEmi ? order?.current_installment?.razorpay_order_id : order?.razorpay_order_id;
+  async function handlePlaceOrder(e) {
+    e.preventDefault();
+    setError('');
+    setPlacing(true);
+    try {
+      const { data } = await client.post('/orders', form);
+      setOrder(data);
+    } catch (err) {
+      setError(err.response?.data?.error || 'Could not place order. Please try again.');
+    } finally {
+      setPlacing(false);
+    }
+  }
 
   async function handlePayNow() {
     setError('');
@@ -54,25 +61,24 @@ export default function Checkout() {
 
     const rzp = new window.Razorpay({
       key: order.razorpay_key_id,
-      amount: Math.round(payAmount * 100),
+      amount: Math.round(Number(order.total_amount) * 100),
       currency: 'INR',
-      name: 'SolarShareOne',
-      description: isEmi
-        ? `${order.panel_name} — EMI installment ${order.current_installment.installment_number}/${order.emi_months}`
-        : `${order.panel_name} × ${order.quantity}`,
-      order_id: payRazorpayOrderId,
+      name: 'PowerGlove',
+      description: `PowerGlove × ${order.quantity}`,
+      order_id: order.razorpay_order_id,
       prefill: {
-        name: user?.name,
-        email: user?.email,
+        name: order.customer_name,
+        email: order.email,
+        contact: order.phone,
       },
       handler: async (response) => {
         try {
-          await client.post(`/panel-orders/${id}/verify-payment`, {
+          const { data } = await client.post(`/orders/${order.id}/verify-payment`, {
             razorpay_order_id: response.razorpay_order_id,
             razorpay_payment_id: response.razorpay_payment_id,
             razorpay_signature: response.razorpay_signature,
           });
-          await load();
+          setOrder(data);
         } catch (err) {
           setError(err.response?.data?.error || 'Payment succeeded but verification failed. Contact support.');
         } finally {
@@ -82,7 +88,7 @@ export default function Checkout() {
       modal: {
         ondismiss: () => setPaying(false),
       },
-      theme: { color: '#16a34a' },
+      theme: { color: '#ea580c' },
     });
     rzp.on('payment.failed', (response) => {
       setError(response.error?.description || 'Payment failed');
@@ -91,115 +97,165 @@ export default function Checkout() {
     rzp.open();
   }
 
-  if (loading) return <div className="max-w-md mx-auto px-4 py-10"><Spinner label="Loading checkout…" /></div>;
-  if (error && !order) {
-    return <p className="max-w-md mx-auto px-4 py-10 text-red-600 dark:text-red-400">{error}</p>;
+  const inputClass =
+    'w-full border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-brand-500';
+  const labelClass = 'block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1';
+
+  if (order?.status === 'paid') {
+    return (
+      <div className="max-w-md mx-auto px-4 py-16 text-center">
+        <div className="text-5xl mb-4">✅</div>
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Order confirmed!</h1>
+        <p className="text-gray-600 dark:text-gray-400 mb-6">
+          Thanks, {order.customer_name} — your PowerGlove order #{order.id} is on its way. A
+          confirmation has been sent to {order.email}.
+        </p>
+        <Link
+          to="/"
+          className="inline-block bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-6 py-2.5 rounded-full hover:shadow-md transition-all"
+        >
+          Back to home
+        </Link>
+      </div>
+    );
   }
 
-  const isFullyPaid = order.status === 'payment_claimed';
+  if (order) {
+    return (
+      <div className="max-w-md mx-auto px-4 py-12">
+        <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
+          <h1 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Confirm payment</h1>
 
-  return (
-    <div className="max-w-md mx-auto px-4 py-10">
-      <Link to="/panels" className="text-sm text-brand-600 dark:text-brand-400 hover:underline">
-        ← Back to marketplace
-      </Link>
-
-      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 mt-4">
-        <h1 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Checkout</h1>
-
-        <div className="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 mb-6 text-sm">
-          <div className="flex justify-between mb-1">
-            <span className="text-gray-500 dark:text-gray-400">Item</span>
-            <span className="text-gray-900 dark:text-white font-medium">{order.panel_name}</span>
-          </div>
-          <div className="flex justify-between mb-1">
-            <span className="text-gray-500 dark:text-gray-400">Vendor</span>
-            <span className="text-gray-900 dark:text-white">{order.vendor_name}</span>
-          </div>
-          <div className="flex justify-between mb-1">
-            <span className="text-gray-500 dark:text-gray-400">Quantity</span>
-            <span className="text-gray-900 dark:text-white">{order.quantity}</span>
-          </div>
-          <div className="flex justify-between mb-1">
-            <span className="text-gray-500 dark:text-gray-400">Platform fee</span>
-            <span className="text-gray-900 dark:text-white">
-              ₹{Number(order.platform_fee).toLocaleString('en-IN')}
-            </span>
-          </div>
-          <div className="flex justify-between pt-2 mt-2 border-t border-gray-200 dark:border-gray-700">
-            <span className="text-gray-700 dark:text-gray-300 font-medium">
-              {isEmi ? `Total (over ${order.emi_months} months)` : 'Total'}
-            </span>
-            <span className="text-gray-900 dark:text-white font-bold">
-              ₹{Number(order.total_amount).toLocaleString('en-IN')}
-            </span>
-          </div>
-        </div>
-
-        {isEmi && order.installments && (
-          <div className="mb-6">
-            <p className="text-xs font-medium text-gray-500 dark:text-gray-400 mb-2">
-              Installment schedule
-            </p>
-            <div className="space-y-1.5">
-              {order.installments.map((inst) => (
-                <div
-                  key={inst.installment_number}
-                  className={`flex items-center justify-between text-sm rounded-lg px-3 py-2 ${
-                    inst.status === 'paid'
-                      ? 'bg-brand-50 dark:bg-brand-950/40'
-                      : 'bg-gray-50 dark:bg-gray-800'
-                  }`}
-                >
-                  <span className="text-gray-600 dark:text-gray-400">
-                    #{inst.installment_number} · due {new Date(inst.due_date).toLocaleDateString()}
-                  </span>
-                  <span className="flex items-center gap-2">
-                    <span className="text-gray-900 dark:text-white font-medium">
-                      ₹{Number(inst.amount).toLocaleString('en-IN')}
-                    </span>
-                    {inst.status === 'paid' ? (
-                      <span className="text-xs text-brand-700 dark:text-brand-400 font-medium">Paid ✓</span>
-                    ) : (
-                      <span className="text-xs text-gray-400 dark:text-gray-500">Pending</span>
-                    )}
-                  </span>
-                </div>
-              ))}
+          <div className="bg-gray-50 dark:bg-gray-800 rounded-xl p-4 mb-6 text-sm">
+            <div className="flex justify-between mb-1">
+              <span className="text-gray-500 dark:text-gray-400">Quantity</span>
+              <span className="text-gray-900 dark:text-white font-medium">{order.quantity}</span>
+            </div>
+            <div className="flex justify-between mb-1">
+              <span className="text-gray-500 dark:text-gray-400">Unit price</span>
+              <span className="text-gray-900 dark:text-white">₹{Number(order.unit_price).toLocaleString('en-IN')}</span>
+            </div>
+            <div className="flex justify-between pt-2 mt-2 border-t border-gray-200 dark:border-gray-700">
+              <span className="text-gray-700 dark:text-gray-300 font-medium">Total</span>
+              <span className="text-gray-900 dark:text-white font-bold">
+                ₹{Number(order.total_amount).toLocaleString('en-IN')}
+              </span>
             </div>
           </div>
-        )}
 
-        {isFullyPaid ? (
-          <div className="text-center py-4">
-            <div className="text-4xl mb-3">✅</div>
-            <p className="text-brand-700 dark:text-brand-400 font-semibold mb-1">
-              {isEmi ? 'All installments paid' : 'Payment verified'}
-            </p>
-            <p className="text-sm text-gray-500 dark:text-gray-400">
-              Your payment to {order.vendor_name} was confirmed via Razorpay. They'll be in touch to
-              arrange delivery/installation.
-            </p>
+          <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
+            Pay securely via UPI, card, netbanking, or wallet — powered by Razorpay.
+          </p>
+
+          {error && <p className="text-sm text-red-600 dark:text-red-400 mb-4 text-center">{error}</p>}
+
+          <button
+            onClick={handlePayNow}
+            disabled={paying}
+            className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
+          >
+            {paying ? 'Processing…' : `Pay ₹${Number(order.total_amount).toLocaleString('en-IN')}`}
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="max-w-md mx-auto px-4 py-12">
+      <div className="bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-2xl shadow-sm p-6 sm:p-8">
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Checkout</h1>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mb-6">
+          {form.quantity} × PowerGlove — ₹{(UNIT_PRICE * form.quantity).toLocaleString('en-IN')}
+        </p>
+
+        <form onSubmit={handlePlaceOrder} className="space-y-4">
+          <div>
+            <label className={labelClass}>Full name</label>
+            <input
+              required
+              value={form.customerName}
+              onChange={(e) => update('customerName', e.target.value)}
+              className={inputClass}
+            />
           </div>
-        ) : (
-          <>
-            <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
-              {isEmi
-                ? `Pay installment ${order.current_installment.installment_number} of ${order.emi_months} securely via UPI, card, netbanking, or wallet.`
-                : 'Pay securely via UPI, card, netbanking, or wallet — powered by Razorpay.'}
-            </p>
 
-            {error && <p className="text-sm text-red-600 dark:text-red-400 mb-4 text-center">{error}</p>}
+          <div>
+            <label className={labelClass}>Email</label>
+            <input
+              required
+              type="email"
+              value={form.email}
+              onChange={(e) => update('email', e.target.value)}
+              className={inputClass}
+            />
+          </div>
 
-            <button
-              onClick={handlePayNow}
-              disabled={paying}
-              className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
-            >
-              {paying ? 'Processing…' : `Pay ₹${payAmount.toLocaleString('en-IN')}`}
-            </button>
-          </>
-        )}
+          <div>
+            <label className={labelClass}>Phone</label>
+            <input
+              required
+              type="tel"
+              value={form.phone}
+              onChange={(e) => update('phone', e.target.value)}
+              className={inputClass}
+            />
+          </div>
+
+          <div>
+            <label className={labelClass}>Address</label>
+            <textarea
+              required
+              rows={2}
+              value={form.address}
+              onChange={(e) => update('address', e.target.value)}
+              className={inputClass}
+            />
+          </div>
+
+          <div className="grid grid-cols-2 gap-3">
+            <div>
+              <label className={labelClass}>City</label>
+              <input
+                required
+                value={form.city}
+                onChange={(e) => update('city', e.target.value)}
+                className={inputClass}
+              />
+            </div>
+            <div>
+              <label className={labelClass}>Pincode</label>
+              <input
+                required
+                value={form.pincode}
+                onChange={(e) => update('pincode', e.target.value)}
+                className={inputClass}
+              />
+            </div>
+          </div>
+
+          <div>
+            <label className={labelClass}>Quantity</label>
+            <input
+              required
+              type="number"
+              min="1"
+              value={form.quantity}
+              onChange={(e) => update('quantity', Number(e.target.value))}
+              className={inputClass}
+            />
+          </div>
+
+          {error && <p className="text-sm text-red-600 dark:text-red-400">{error}</p>}
+
+          <button
+            type="submit"
+            disabled={placing}
+            className="w-full bg-gradient-to-r from-brand-600 to-sky-accent hover:shadow-md text-white font-semibold py-2.5 rounded-full transition-all disabled:opacity-60"
+          >
+            {placing ? 'Placing order…' : `Continue to Payment — ₹${(UNIT_PRICE * form.quantity).toLocaleString('en-IN')}`}
+          </button>
+        </form>
       </div>
     </div>
   );

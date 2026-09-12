@@ -1,5 +1,5 @@
 const PHONE = '917019489945';
-const MESSAGE = "Hi SolarShareOne, I'd like some help.";
+const MESSAGE = "Hi PowerGlove, I have a question about the gloves.";
 
 export default function WhatsAppButton() {
   const href = `https://wa.me/${PHONE}?text=${encodeURIComponent(MESSAGE)}`;

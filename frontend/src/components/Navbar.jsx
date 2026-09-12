@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { useAuth } from '../context/AuthContext';
+import { Link } from 'react-router-dom';
 import { useTheme } from '../context/ThemeContext';
 
 function SunIcon({ className = 'w-5 h-5' }) {
@@ -24,16 +23,8 @@ function MoonIcon({ className = 'w-5 h-5' }) {
 }
 
 export default function Navbar() {
-  const { user, logout } = useAuth();
   const { theme, toggleTheme } = useTheme();
-  const navigate = useNavigate();
   const [menuOpen, setMenuOpen] = useState(false);
-
-  function handleLogout() {
-    logout();
-    setMenuOpen(false);
-    navigate('/');
-  }
 
   function closeMenu() {
     setMenuOpen(false);
@@ -44,70 +35,19 @@ export default function Navbar() {
 
   const links = (
     <>
-      <Link to="/listings" onClick={closeMenu} className={linkClass}>
-        Browse Listings
+      <Link to="/#features" onClick={closeMenu} className={linkClass}>
+        Features
       </Link>
-      <Link to="/learn" onClick={closeMenu} className={linkClass}>
-        Learn
+      <Link to="/#faq" onClick={closeMenu} className={linkClass}>
+        FAQ
       </Link>
-      <Link to="/panels" onClick={closeMenu} className={linkClass}>
-        Panel Marketplace
+      <Link
+        to="/checkout"
+        onClick={closeMenu}
+        className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
+      >
+        Get Yours Now
       </Link>
-
-      {user?.role === 'seller' && (
-        <>
-          <Link to="/seller/listings" onClick={closeMenu} className={linkClass}>
-            My Listings
-          </Link>
-          <Link to="/seller/requests" onClick={closeMenu} className={linkClass}>
-            Requests
-          </Link>
-        </>
-      )}
-
-      {user?.role === 'buyer' && (
-        <Link to="/buyer/requests" onClick={closeMenu} className={linkClass}>
-          My Requests
-        </Link>
-      )}
-
-      {user ? (
-        <>
-          <Link to="/dashboard" onClick={closeMenu} className={linkClass}>
-            Dashboard
-          </Link>
-          <Link to="/my-orders" onClick={closeMenu} className={linkClass}>
-            My Orders
-          </Link>
-          <Link to="/profile" onClick={closeMenu} className={linkClass}>
-            Profile
-          </Link>
-          {user.isAdmin && (
-            <Link to="/admin" onClick={closeMenu} className={linkClass}>
-              Admin
-            </Link>
-          )}
-          <button
-            onClick={handleLogout}
-            className="bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 px-4 py-1.5 rounded-full transition-colors text-left"
-          >
-            Log out
-          </button>
-        </>
-      ) : (
-        <>
-          <Link to="/login" onClick={closeMenu} className={linkClass}>
-            Log in
-          </Link>
-          <Link
-            to="/signup"
-            onClick={closeMenu}
-            className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
-          >
-            Sign up
-          </Link>
-        </>
-      )}
     </>
   );
 
@@ -119,7 +59,7 @@ export default function Navbar() {
           onClick={closeMenu}
           className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          ☀️ SolarShareOne
+          🧤 PowerGlove
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">

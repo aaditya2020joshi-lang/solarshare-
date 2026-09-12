@@ -3,41 +3,38 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --color-brand-50: #f0fdf6;
-  --color-brand-100: #dcfce9;
-  --color-brand-200: #bbf1d0;
-  --color-brand-500: #16a34a;
-  --color-brand-600: #15803d;
-  --color-brand-700: #166534;
-  --color-brand-900: #052e16;
-  --color-sky-accent: #b45309;
+  --color-brand-50: #fff3ec;
+  --color-brand-100: #ffe2cf;
+  --color-brand-200: #ffc199;
+  --color-brand-500: #f97316;
+  --color-brand-600: #ea580c;
+  --color-brand-700: #c2410c;
+  --color-brand-900: #7c2d12;
+  --color-sky-accent: #dc2626;
 
-  /* Warm stone neutrals replace Tailwind's default cool gray scale. */
-  --color-gray-50: #fafaf9;
-  --color-gray-100: #f5f5f4;
-  --color-gray-200: #e7e5e4;
-  --color-gray-300: #d6d3d1;
-  --color-gray-400: #a8a29e;
-  --color-gray-500: #78716c;
-  --color-gray-600: #57534e;
-  --color-gray-700: #44403c;
-  --color-gray-800: #292524;
-  --color-gray-900: #1c1917;
-  --color-gray-950: #0c0a09;
+  --color-gray-50: #fafafa;
+  --color-gray-100: #f4f4f5;
+  --color-gray-200: #e4e4e7;
+  --color-gray-300: #d4d4d8;
+  --color-gray-400: #a1a1aa;
+  --color-gray-500: #71717a;
+  --color-gray-600: #52525b;
+  --color-gray-700: #3f3f46;
+  --color-gray-800: #27272a;
+  --color-gray-900: #18181b;
+  --color-gray-950: #09090b;
 
-  /* Amber/gold in place of Tailwind's default blue "sky" scale, so existing
-     sky-* accents (banners, blobs, badges) read as sunlit forest, not sky. */
-  --color-sky-50: #fffbeb;
-  --color-sky-100: #fef3c7;
-  --color-sky-200: #fde68a;
-  --color-sky-300: #fcd34d;
-  --color-sky-400: #fbbf24;
-  --color-sky-500: #f59e0b;
-  --color-sky-600: #d97706;
-  --color-sky-700: #b45309;
-  --color-sky-800: #92400e;
-  --color-sky-900: #78350f;
-  --color-sky-950: #451a03;
+  --color-sky-50: #fef2f2;
+  --color-sky-100: #fee2e2;
+  --color-sky-200: #fecaca;
+  --color-sky-300: #fca5a5;
+  --color-sky-400: #f87171;
+  --color-sky-500: #ef4444;
+  --color-sky-600: #dc2626;
+  --color-sky-700: #b91c1c;
+  --color-sky-800: #991b1b;
+  --color-sky-900: #7f1d1d;
+  --color-sky-950: #450a0a;
 
   --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif;
   --font-display: 'Fraunces', 'Nunito', ui-sans-serif, system-ui, sans-serif;
@@ -46,7 +43,7 @@
 body {
   margin: 0;
   font-family: var(--font-sans);
-  background-color: #fafaf9;
+  background-color: #fafafa;
 }
 
 h1,
@@ -70,58 +67,18 @@ h3 {
   animation: fade-in-up 0.6s ease-out both;
 }
 
-@keyframes blob-float {
-  0%,
-  100% {
-    transform: translate(0, 0) scale(1);
-  }
-  33% {
-    transform: translate(20px, -30px) scale(1.05);
-  }
-  66% {
-    transform: translate(-15px, 15px) scale(0.97);
-  }
-}
-
-.animate-blob {
-  animation: blob-float 12s ease-in-out infinite;
-}
-
-.animate-blob-delay {
-  animation: blob-float 12s ease-in-out infinite;
-  animation-delay: -6s;
-}
-
-@keyframes leaf-sway {
-  0%,
-  100% {
-    transform: translateY(0) rotate(-6deg);
-  }
-  50% {
-    transform: translateY(-10px) rotate(6deg);
-  }
-}
-
-.animate-leaf-sway {
-  animation: leaf-sway 4s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes sun-pulse {
+@keyframes pulse-scale {
   0%,
   100% {
     transform: scale(1);
-    opacity: 0.9;
   }
   50% {
-    transform: scale(1.08);
-    opacity: 1;
+    transform: scale(1.05);
   }
 }
 
-.animate-sun-pulse {
-  animation: sun-pulse 5s ease-in-out infinite;
-  transform-origin: center;
+.animate-pulse-scale {
+  animation: pulse-scale 2s ease-in-out infinite;
 }
 
 html {
@@ -129,5 +86,5 @@ html {
 }
 
 html.dark body {
-  background-color: #0c0a09;
+  background-color: #09090b;
 }
