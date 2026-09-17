@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 export default function NotFound() {
   return (
     <div className="max-w-md mx-auto px-4 py-24 text-center">
-      <div className="text-6xl mb-6">🧤</div>
+      <div className="text-6xl mb-6">📚</div>
       <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Page not found</h1>
       <p className="text-gray-600 dark:text-gray-400 mb-8">
         This page doesn't exist — it may have moved, or the link might be off.

@@ -1,6 +1,8 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { useTheme } from '../context/ThemeContext';
+import { useAuth } from '../context/AuthContext';
+import { BookIcon } from './icons';
 
 function SunIcon({ className = 'w-5 h-5' }) {
   return (
@@ -24,29 +26,57 @@ function MoonIcon({ className = 'w-5 h-5' }) {
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme();
+  const { user, logout } = useAuth();
   const [menuOpen, setMenuOpen] = useState(false);
+  const navigate = useNavigate();
 
   function closeMenu() {
     setMenuOpen(false);
   }
 
-  const linkClass =
-    'relative text-gray-600 dark:text-gray-300 hover:text-brand-600 dark:hover:text-brand-400 transition-colors';
+  function handleLogout() {
+    logout();
+    closeMenu();
+    navigate('/login');
+  }
 
-  const links = (
+  const linkClass =
+    'text-gray-600 dark:text-gray-300 hover:text-brand-600 dark:hover:text-brand-400 transition-colors';
+
+  const links = user ? (
     <>
-      <Link to="/#features" onClick={closeMenu} className={linkClass}>
-        Features
+      <Link to="/" onClick={closeMenu} className={linkClass}>
+        Dashboard
       </Link>
-      <Link to="/#faq" onClick={closeMenu} className={linkClass}>
-        FAQ
+      <Link to="/subjects" onClick={closeMenu} className={linkClass}>
+        Subjects
+      </Link>
+      <Link to="/reminders" onClick={closeMenu} className={linkClass}>
+        Reminders
+      </Link>
+      {user.role === 'admin' && (
+        <Link to="/admin" onClick={closeMenu} className={linkClass}>
+          Admin
+        </Link>
+      )}
+      <button
+        onClick={handleLogout}
+        className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
+      >
+        Log out
+      </button>
+    </>
+  ) : (
+    <>
+      <Link to="/login" onClick={closeMenu} className={linkClass}>
+        Log in
       </Link>
       <Link
-        to="/checkout"
+        to="/signup"
         onClick={closeMenu}
         className="bg-gradient-to-r from-brand-600 to-sky-accent text-white px-4 py-1.5 rounded-full font-semibold shadow-sm hover:shadow-md hover:-translate-y-px transition-all text-center"
       >
-        Get Yours Now
+        Sign up
       </Link>
     </>
   );
@@ -55,11 +85,12 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-100 dark:border-gray-800">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link
-          to="/"
+          to={user ? '/' : '/login'}
           onClick={closeMenu}
-          className="text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
+          className="flex items-center gap-2 text-xl font-bold tracking-tight bg-gradient-to-r from-brand-600 to-sky-accent bg-clip-text text-transparent"
         >
-          🧤 PowerGlove
+          <BookIcon className="w-6 h-6 text-brand-600" />
+          StudyHub
         </Link>
 
         <div className="hidden md:flex items-center gap-5 text-sm font-medium">
