@@ -13,7 +13,9 @@ const insertUser = db.prepare(
   'INSERT INTO users (name, email, password_hash, role, approved) VALUES (?, ?, ?, ?, ?)'
 );
 const findById = db.prepare('SELECT id, name, email, role, approved, created_at FROM users WHERE id = ?');
+const findFullById = db.prepare('SELECT * FROM users WHERE id = ?');
 const updateProfile = db.prepare('UPDATE users SET name = ?, email = ? WHERE id = ?');
+const updatePassword = db.prepare('UPDATE users SET password_hash = ? WHERE id = ?');
 
 function issueToken(userId) {
   return jwt.sign({ userId }, process.env.JWT_SECRET, { expiresIn: '30d' });
@@ -107,6 +109,21 @@ router.patch(
     }
 
     updateProfile.run(name, email, req.userId);
+
+    if (req.body.password) {
+      if (!req.body.current_password) {
+        return res.status(400).json({ error: 'Current password is required to set a new password.' });
+      }
+      const full = findFullById.get(req.userId);
+      const valid = await bcrypt.compare(req.body.current_password, full.password_hash);
+      if (!valid) return res.status(401).json({ error: 'Current password is incorrect.' });
+      if (req.body.password.length < 6) {
+        return res.status(400).json({ error: 'New password must be at least 6 characters.' });
+      }
+      const newHash = await bcrypt.hash(req.body.password, 10);
+      updatePassword.run(newHash, req.userId);
+    }
+
     res.json({ user: findById.get(req.userId) });
   })
 );

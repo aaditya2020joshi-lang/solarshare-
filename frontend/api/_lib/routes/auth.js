@@ -106,6 +106,21 @@ router.patch(
     }
 
     await pool.query('UPDATE users SET name = $1, email = $2 WHERE id = $3', [name, email, req.userId]);
+
+    if (req.body.password) {
+      if (!req.body.current_password) {
+        return res.status(400).json({ error: 'Current password is required to set a new password.' });
+      }
+      const { rows: fullRows } = await pool.query('SELECT password_hash FROM users WHERE id = $1', [req.userId]);
+      const valid = await bcrypt.compare(req.body.current_password, fullRows[0].password_hash);
+      if (!valid) return res.status(401).json({ error: 'Current password is incorrect.' });
+      if (req.body.password.length < 6) {
+        return res.status(400).json({ error: 'New password must be at least 6 characters.' });
+      }
+      const newHash = await bcrypt.hash(req.body.password, 10);
+      await pool.query('UPDATE users SET password_hash = $1 WHERE id = $2', [newHash, req.userId]);
+    }
+
     const { rows } = await pool.query(`SELECT ${USER_FIELDS} FROM users WHERE id = $1`, [req.userId]);
     res.json({ user: rows[0] });
   })
