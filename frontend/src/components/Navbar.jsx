@@ -51,8 +51,14 @@ export default function Navbar() {
       <Link to="/subjects" onClick={closeMenu} className={linkClass}>
         Subjects
       </Link>
+      <Link to="/flashcards" onClick={closeMenu} className={linkClass}>
+        Flash Cards
+      </Link>
       <Link to="/reminders" onClick={closeMenu} className={linkClass}>
         Reminders
+      </Link>
+      <Link to="/search" onClick={closeMenu} className={linkClass}>
+        Search
       </Link>
       {user.role === 'admin' && (
         <Link to="/admin" onClick={closeMenu} className={linkClass}>

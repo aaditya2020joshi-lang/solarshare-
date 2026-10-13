@@ -69,3 +69,27 @@ export function ClockIcon({ className = 'w-4 h-4' }) {
     </svg>
   );
 }
+
+export function CardsIcon({ className = 'w-5 h-5' }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M6 7.5h12a2 2 0 012 2V18a2 2 0 01-2 2H6a2 2 0 01-2-2V9.5a2 2 0 012-2zM8 4.5h8"
+      />
+    </svg>
+  );
+}
+
+export function SearchIcon({ className = 'w-5 h-5' }) {
+  return (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"
+      />
+    </svg>
+  );
+}

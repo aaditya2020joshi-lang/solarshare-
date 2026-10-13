@@ -11,6 +11,9 @@ import TestBuilder from './pages/TestBuilder';
 import TakeTest from './pages/TakeTest';
 import TestResult from './pages/TestResult';
 import Reminders from './pages/Reminders';
+import Flashcards from './pages/Flashcards';
+import FlashcardDeck from './pages/FlashcardDeck';
+import Search from './pages/Search';
 import Admin from './pages/Admin';
 import NotFound from './pages/NotFound';
 
@@ -66,6 +69,30 @@ export default function App() {
           element={
             <ProtectedRoute>
               <TestResult />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/flashcards"
+          element={
+            <ProtectedRoute>
+              <Flashcards />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/flashcards/:subjectId"
+          element={
+            <ProtectedRoute>
+              <FlashcardDeck />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/search"
+          element={
+            <ProtectedRoute>
+              <Search />
             </ProtectedRoute>
           }
         />

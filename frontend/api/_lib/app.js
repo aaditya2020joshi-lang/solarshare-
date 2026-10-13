@@ -8,6 +8,9 @@ import attemptsRoutes from './routes/attempts.js';
 import remindersRoutes from './routes/reminders.js';
 import pushRoutes from './routes/push.js';
 import adminRoutes from './routes/admin.js';
+import flashcardsRoutes from './routes/flashcards.js';
+import searchRoutes from './routes/search.js';
+import askRoutes from './routes/ask.js';
 
 export const app = express();
 
@@ -23,6 +26,9 @@ app.use('/api/attempts', attemptsRoutes);
 app.use('/api/reminders', remindersRoutes);
 app.use('/api/push', pushRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api/flashcards', flashcardsRoutes);
+app.use('/api/search', searchRoutes);
+app.use('/api/ask', askRoutes);
 
 app.use((err, req, res, next) => {
   console.error(err);

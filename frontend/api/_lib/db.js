@@ -80,6 +80,15 @@ export function ensureSchema() {
         auth TEXT NOT NULL,
         created_at TIMESTAMPTZ NOT NULL DEFAULT now()
       );
+
+      CREATE TABLE IF NOT EXISTS flashcards (
+        id SERIAL PRIMARY KEY,
+        subject_id INTEGER NOT NULL REFERENCES subjects(id) ON DELETE CASCADE,
+        user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        front TEXT NOT NULL,
+        back TEXT NOT NULL,
+        created_at TIMESTAMPTZ NOT NULL DEFAULT now()
+      );
     `).then(() => true);
   }
   return schemaReady;

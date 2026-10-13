@@ -9,6 +9,7 @@
     "generate-vapid-keys": "node src/scripts/generateVapidKeys.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^11.3.0",
     "cors": "^2.8.5",
