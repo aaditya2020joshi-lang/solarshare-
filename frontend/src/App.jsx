@@ -14,6 +14,8 @@ import Reminders from './pages/Reminders';
 import Flashcards from './pages/Flashcards';
 import FlashcardDeck from './pages/FlashcardDeck';
 import Search from './pages/Search';
+import Notes from './pages/Notes';
+import NotesSubject from './pages/NotesSubject';
 import Admin from './pages/Admin';
 import NotFound from './pages/NotFound';
 
@@ -85,6 +87,22 @@ export default function App() {
           element={
             <ProtectedRoute>
               <FlashcardDeck />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/notes"
+          element={
+            <ProtectedRoute>
+              <Notes />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/notes/:subjectId"
+          element={
+            <ProtectedRoute>
+              <NotesSubject />
             </ProtectedRoute>
           }
         />

@@ -10,6 +10,7 @@ import remindersRoutes from './routes/reminders.routes.js';
 import pushRoutes from './routes/push.routes.js';
 import adminRoutes from './routes/admin.routes.js';
 import flashcardsRoutes from './routes/flashcards.routes.js';
+import notesRoutes from './routes/notes.routes.js';
 import searchRoutes from './routes/search.routes.js';
 import askRoutes from './routes/ask.routes.js';
 import { startReminderScheduler } from './services/reminderScheduler.js';
@@ -31,6 +32,7 @@ app.use('/api/reminders', remindersRoutes);
 app.use('/api/push', pushRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/flashcards', flashcardsRoutes);
+app.use('/api/notes', notesRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/ask', askRoutes);
 

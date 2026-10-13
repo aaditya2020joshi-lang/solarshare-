@@ -51,6 +51,9 @@ export default function Navbar() {
       <Link to="/subjects" onClick={closeMenu} className={linkClass}>
         Subjects
       </Link>
+      <Link to="/notes" onClick={closeMenu} className={linkClass}>
+        Notes
+      </Link>
       <Link to="/flashcards" onClick={closeMenu} className={linkClass}>
         Flash Cards
       </Link>
