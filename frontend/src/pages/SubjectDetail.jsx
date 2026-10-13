@@ -14,6 +14,11 @@ export default function SubjectDetail() {
   const [duration, setDuration] = useState(30);
   const [error, setError] = useState('');
   const [submitting, setSubmitting] = useState(false);
+  const [showImport, setShowImport] = useState(false);
+  const [importText, setImportText] = useState('');
+  const [importing, setImporting] = useState(false);
+  const [importError, setImportError] = useState('');
+  const [importResult, setImportResult] = useState(null);
 
   function load() {
     return client.get(`/subjects/${id}`).then((res) => {
@@ -40,6 +45,41 @@ export default function SubjectDetail() {
       setError(err.response?.data?.error || 'Could not create test.');
     } finally {
       setSubmitting(false);
+    }
+  }
+
+  async function loadRectificationSample() {
+    setImportError('');
+    try {
+      const res = await fetch('/sample-tests/rectification-of-errors.json');
+      if (!res.ok) throw new Error();
+      setImportText(await res.text());
+    } catch {
+      setImportError('Could not load the sample tests.');
+    }
+  }
+
+  async function handleImport(e) {
+    e.preventDefault();
+    setImportError('');
+    setImportResult(null);
+    let payload;
+    try {
+      payload = JSON.parse(importText);
+    } catch {
+      setImportError('That is not valid JSON. Check for a missing bracket, quote or comma.');
+      return;
+    }
+    setImporting(true);
+    try {
+      const res = await client.post(`/subjects/${id}/import-tests`, payload);
+      setImportResult(res.data);
+      setImportText('');
+      await load();
+    } catch (err) {
+      setImportError(err.response?.data?.error || 'Could not import tests.');
+    } finally {
+      setImporting(false);
     }
   }
 
@@ -92,6 +132,56 @@ export default function SubjectDetail() {
         </button>
       </form>
       {error && <p className="text-sm text-red-600 -mt-6 mb-6">{error}</p>}
+
+      <div className="mb-8 -mt-4">
+        <button
+          type="button"
+          onClick={() => setShowImport((v) => !v)}
+          className="text-sm font-medium text-brand-600 dark:text-brand-400"
+        >
+          {showImport ? 'Hide import' : 'Import tests'}
+        </button>
+
+        {showImport && (
+          <form
+            onSubmit={handleImport}
+            className="mt-3 rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-4 flex flex-col gap-3"
+          >
+            <p className="text-sm text-gray-600 dark:text-gray-400">
+              Paste tests as JSON: <code>{'{ "tests": [ { "title", "duration_minutes", "questions": [ { "question_text", "options", "correct_index", "explanation" } ] } ] } '}</code>
+              . <code>correct_index</code> starts at 0. Tests whose title already exists in this subject are skipped.
+            </p>
+            <button
+              type="button"
+              onClick={loadRectificationSample}
+              className="self-start text-sm font-medium text-brand-600 dark:text-brand-400"
+            >
+              Fill with the Rectification of Errors tests
+            </button>
+            <textarea
+              value={importText}
+              onChange={(e) => setImportText(e.target.value)}
+              rows={8}
+              placeholder="Paste JSON here"
+              className="w-full rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 px-3 py-2 text-xs font-mono text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-brand-500"
+            />
+            {importError && <p className="text-sm text-red-600">{importError}</p>}
+            {importResult && (
+              <p className="text-sm text-green-600">
+                Imported {importResult.created.length} {importResult.created.length === 1 ? 'test' : 'tests'}
+                {importResult.skipped.length > 0 && `, skipped ${importResult.skipped.length} that already existed`}.
+              </p>
+            )}
+            <button
+              type="submit"
+              disabled={importing || !importText.trim()}
+              className="self-start bg-gradient-to-r from-brand-600 to-sky-accent text-white font-semibold px-4 py-2 rounded-lg shadow-sm hover:shadow-md transition-all disabled:opacity-60"
+            >
+              {importing ? 'Importing…' : 'Import'}
+            </button>
+          </form>
+        )}
+      </div>
 
       {tests.length === 0 ? (
         <p className="text-sm text-gray-500">No tests yet — create one above, then add questions to it.</p>
