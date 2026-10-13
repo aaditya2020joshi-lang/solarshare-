@@ -50,7 +50,6 @@ export default function Subjects() {
           type="text"
           value={name}
           onChange={(e) => setName(e.target.value)}
-          placeholder="e.g. Organic Chemistry"
           className="flex-1 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 px-3 py-2 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-brand-500"
         />
         <button
