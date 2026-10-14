@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 6: Cost and Revenue Analysis – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A cost function shows:",
+     "options": [
+      "The relationship between price and demand",
+      "The relationship between cost and output",
+      "Income and savings",
+      "Revenue and profit"
+     ],
+     "correct_index": 1,
+     "explanation": "C = f(Q, technology, input prices)."
+    },
+    {
+     "question_text": "Money cost differs from real cost in that money cost is:",
+     "options": [
+      "Opportunity cost only",
+      "Hidden cost",
+      "Expenses measured in money; real cost is the efforts and sacrifices involved",
+      "Efforts of workers"
+     ],
+     "correct_index": 2,
+     "explanation": "Real costs include the pain and sacrifice of labour and saving."
+    },
+    {
+     "question_text": "Opportunity cost is:",
+     "options": [
+      "The money spent",
+      "Marginal cost",
+      "The value of the next best alternative forgone",
+      "Fixed cost"
+     ],
+     "correct_index": 2,
+     "explanation": "The cost of any choice is the best alternative given up."
+    },
+    {
+     "question_text": "Implicit costs are:",
+     "options": [
+      "Payments made to outsiders",
+      "Rent paid",
+      "Imputed costs of self-owned resources, e.g., owner's own labour",
+      "Wages paid"
+     ],
+     "correct_index": 2,
+     "explanation": "Explicit costs are actual payments to outsiders."
+    },
+    {
+     "question_text": "Economic cost differs from accounting cost in that economic cost includes:",
+     "options": [
+      "Only explicit costs",
+      "Only fixed costs",
+      "Only taxes",
+      "Both explicit and implicit costs"
+     ],
+     "correct_index": 3,
+     "explanation": "Accounting cost includes only explicit costs."
+    },
+    {
+     "question_text": "Normal profit is part of cost because:",
+     "options": [
+      "It is a loss",
+      "It is extra profit",
+      "It is a tax",
+      "It is the minimum reward needed to keep the entrepreneur in the business"
+     ],
+     "correct_index": 3,
+     "explanation": "Without it, the entrepreneur would leave."
+    },
+    {
+     "question_text": "Fixed costs differ from variable costs in that fixed costs:",
+     "options": [
+      "Change with output",
+      "Are always explicit",
+      "Do not change with output in the short run",
+      "Are zero"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., rent versus raw materials."
+    },
+    {
+     "question_text": "Prime cost consists of:",
+     "options": [
+      "Fixed costs",
+      "Rent",
+      "Interest",
+      "Variable costs such as raw materials and direct labour"
+     ],
+     "correct_index": 3,
+     "explanation": "Supplementary cost consists of fixed overheads."
+    },
+    {
+     "question_text": "A sunk cost is:",
+     "options": [
+      "Recoverable",
+      "Opportunity cost",
+      "Future cost",
+      "Already incurred and cannot be recovered, so it is ignored in future decisions"
+     ],
+     "correct_index": 3,
+     "explanation": "Past costs do not affect forward-looking choices."
+    },
+    {
+     "question_text": "Incremental cost is:",
+     "options": [
+      "Change in total cost due to a decision, such as adding a product line",
+      "Total cost",
+      "Fixed cost",
+      "Average cost"
+     ],
+     "correct_index": 0,
+     "explanation": "It is relevant for decision making."
+    },
+    {
+     "question_text": "Social cost differs from private cost in that social cost includes:",
+     "options": [
+      "Only labour",
+      "Private costs plus external costs imposed on society",
+      "Only the firm's costs",
+      "Only taxes"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., pollution damage."
+    },
+    {
+     "question_text": "Replacement cost is:",
+     "options": [
+      "Fixed cost",
+      "The original purchase cost",
+      "Zero",
+      "The cost of replacing an asset at current prices"
+     ],
+     "correct_index": 3,
+     "explanation": "Historical cost is the original price paid."
+    },
+    {
+     "question_text": "TC equals:",
+     "options": [
+      "TFC + TVC",
+      "AC + MC",
+      "TFC × TVC",
+      "TFC − TVC"
+     ],
+     "correct_index": 0,
+     "explanation": "Total cost is the sum of fixed and variable costs."
+    },
+    {
+     "question_text": "AFC, AVC, AC and MC are:",
+     "options": [
+      "TFC×Q etc.",
+      "TC/Q, TVC/Q, TFC/Q, TC×Q",
+      "Q/TFC, Q/TVC, Q/TC, Q/ΔTC",
+      "TFC/Q, TVC/Q, TC/Q, ΔTC/ΔQ"
+     ],
+     "correct_index": 3,
+     "explanation": "AC = AFC + AVC."
+    },
+    {
+     "question_text": "The AFC curve is a rectangular hyperbola because:",
+     "options": [
+      "AFC is zero",
+      "AFC is constant",
+      "AFC × Q = constant (TFC)",
+      "AFC rises with Q"
+     ],
+     "correct_index": 2,
+     "explanation": "TFC is fixed, so AFC falls as Q rises."
+    },
+    {
+     "question_text": "The AVC curve is U-shaped because of:",
+     "options": [
+      "Constant returns",
+      "Initially increasing returns and then diminishing returns of the variable factor",
+      "Taxes",
+      "Fixed cost"
+     ],
+     "correct_index": 1,
+     "explanation": "Efficiency first rises and then falls."
+    },
+    {
+     "question_text": "The AC curve is U-shaped because it combines:",
+     "options": [
+      "Falling AFC and U-shaped AVC",
+      "Rising AFC",
+      "Constant AVC",
+      "Falling AVC only"
+     ],
+     "correct_index": 0,
+     "explanation": "At first both fall; later AVC rises faster than AFC falls."
+    },
+    {
+     "question_text": "The MC curve is U-shaped because of:",
+     "options": [
+      "Law of variable proportions",
+      "Constant returns",
+      "Fixed cost",
+      "Taxes"
+     ],
+     "correct_index": 0,
+     "explanation": "MC initially falls, then rises."
+    },
+    {
+     "question_text": "MC is unaffected by fixed cost because:",
+     "options": [
+      "Fixed cost is revenue",
+      "Fixed cost is variable",
+      "Fixed cost is zero",
+      "Fixed cost does not change when output changes"
+     ],
+     "correct_index": 3,
+     "explanation": "MC depends only on the change in variable cost."
+    },
+    {
+     "question_text": "TFC = 60 and TVC = 30, 50, 66, 88 for Q = 1–4. AC at Q = 3 is:",
+     "options": [
+      "20",
+      "42",
+      "22",
+      "30"
+     ],
+     "correct_index": 1,
+     "explanation": "TC3 = 126, AC = 126/3 = 42."
+    },
+    {
+     "question_text": "TC = 90, 110, 126, 148, 180 for Q = 1–5. MC of the 5th unit is:",
+     "options": [
+      "22",
+      "20",
+      "32",
+      "36"
+     ],
+     "correct_index": 2,
+     "explanation": "180 − 148 = 32."
+    },
+    {
+     "question_text": "TC = 150 and TFC = 40. TVC is:",
+     "options": [
+      "150",
+      "190",
+      "110",
+      "40"
+     ],
+     "correct_index": 2,
+     "explanation": "TVC = TC − TFC."
+    },
+    {
+     "question_text": "TC for 4 units = 148, for 5 units = 180. MC of 5th unit is:",
+     "options": [
+      "20",
+      "32",
+      "36",
+      "148"
+     ],
+     "correct_index": 1,
+     "explanation": "ΔTC/ΔQ = 32/1."
+    },
+    {
+     "question_text": "TC = 500, Q = 20. AC is:",
+     "options": [
+      "20",
+      "100",
+      "25",
+      "10"
+     ],
+     "correct_index": 2,
+     "explanation": "500/20 = 25."
+    },
+    {
+     "question_text": "AFC = 5, TFC = 100. Output is:",
+     "options": [
+      "500",
+      "5",
+      "20",
+      "95"
+     ],
+     "correct_index": 2,
+     "explanation": "Q = TFC/AFC = 100/5."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Cost and Revenue Analysis – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "AVC = 22 and AFC = 15 at 4 units. AC is:",
+     "options": [
+      "37",
+      "15",
+      "7",
+      "330"
+     ],
+     "correct_index": 0,
+     "explanation": "AC = AFC + AVC = 37."
+    },
+    {
+     "question_text": "When MC is below AC, AC:",
+     "options": [
+      "Is zero",
+      "Is constant",
+      "Falls",
+      "Rises"
+     ],
+     "correct_index": 2,
+     "explanation": "When MC is above AC, AC rises."
+    },
+    {
+     "question_text": "MC cuts AVC and AC at their minimum points because:",
+     "options": [
+      "MC is constant",
+      "Marginal values pull averages down when below and up when above them",
+      "AC is zero",
+      "MC is always above AC"
+     ],
+     "correct_index": 1,
+     "explanation": "At the crossing, MC = AC."
+    },
+    {
+     "question_text": "Minimum AC is at a higher output than minimum AVC because:",
+     "options": [
+      "AFC rises",
+      "MC falls",
+      "AC is lower",
+      "AFC keeps falling after AVC begins to rise"
+     ],
+     "correct_index": 3,
+     "explanation": "AC continues to fall as long as the AFC fall exceeds the AVC rise."
+    },
+    {
+     "question_text": "The gap between AC and AVC narrows as output expands because:",
+     "options": [
+      "MC is constant",
+      "AVC falls",
+      "AFC rises",
+      "AFC (the gap) gets smaller as output rises"
+     ],
+     "correct_index": 3,
+     "explanation": "AC − AVC = AFC."
+    },
+    {
+     "question_text": "The law of variable proportions explains the U-shaped SAC because:",
+     "options": [
+      "Fixed cost rises",
+      "Initially increasing returns lower costs, later diminishing returns raise them",
+      "Costs are constant",
+      "Prices rise"
+     ],
+     "correct_index": 1,
+     "explanation": "Efficiency of the variable factor first rises and then falls."
+    },
+    {
+     "question_text": "In the short-run diagram, MC cuts:",
+     "options": [
+      "The X-axis",
+      "AVC and AC at their minimum points",
+      "AFC at its minimum",
+      "TC"
+     ],
+     "correct_index": 1,
+     "explanation": "MC passes through the minimum of both AVC and AC."
+    },
+    {
+     "question_text": "There are no fixed costs in the long run because:",
+     "options": [
+      "All factors can be varied",
+      "Output is zero",
+      "Prices are fixed",
+      "Costs are zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Even plant size can be changed."
+    },
+    {
+     "question_text": "The long-run average cost (LAC) curve shows:",
+     "options": [
+      "Cost of one plant",
+      "Fixed cost",
+      "Short-run cost",
+      "The minimum cost of producing each output when all factors are variable"
+     ],
+     "correct_index": 3,
+     "explanation": "It is derived from many SAC curves."
+    },
+    {
+     "question_text": "LAC is called an envelope curve because:",
+     "options": [
+      "It cuts SACs",
+      "It is horizontal",
+      "It lies above SACs",
+      "It envelops (is tangent to) all the short-run average cost curves from below"
+     ],
+     "correct_index": 3,
+     "explanation": "Each SAC touches LAC at one point."
+    },
+    {
+     "question_text": "LAC is called a planning curve because:",
+     "options": [
+      "It sets prices",
+      "It shows revenue",
+      "A firm uses it to choose the best plant size for planned output",
+      "It is fixed"
+     ],
+     "correct_index": 2,
+     "explanation": "It helps in long-run decisions on plant size."
+    },
+    {
+     "question_text": "LAC is flatter than SAC because:",
+     "options": [
+      "It is steeper",
+      "All factors are variable in the long run, giving more flexibility",
+      "It has fixed costs",
+      "It is zero"
+     ],
+     "correct_index": 1,
+     "explanation": "Firms can adjust plant size and avoid sharp cost rises."
+    },
+    {
+     "question_text": "LAC is U-shaped due to:",
+     "options": [
+      "Taxes",
+      "Economies and diseconomies of scale, unlike SAC which is due to variable proportions",
+      "Prices",
+      "Fixed cost"
+     ],
+     "correct_index": 1,
+     "explanation": "Returns to scale explain LAC."
+    },
+    {
+     "question_text": "Long-run marginal cost (LMC) is:",
+     "options": [
+      "Short-run MC",
+      "Fixed cost",
+      "The addition to long-run total cost from producing one more unit when all factors are variable",
+      "Average cost"
+     ],
+     "correct_index": 2,
+     "explanation": "LMC cuts LAC at its minimum."
+    },
+    {
+     "question_text": "Minimum efficient scale is the:",
+     "options": [
+      "Largest output",
+      "Smallest output at which LAC is at its minimum",
+      "Highest cost",
+      "Zero output"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the lowest scale giving full cost advantage."
+    },
+    {
+     "question_text": "Economies of scale are:",
+     "options": [
+      "Taxes",
+      "Cost disadvantages",
+      "Price rises",
+      "Cost advantages as output expands"
+     ],
+     "correct_index": 3,
+     "explanation": "Average cost falls as scale increases."
+    },
+    {
+     "question_text": "Internal economies differ from external economies in that internal economies arise:",
+     "options": [
+      "From taxes",
+      "From foreign trade",
+      "From the firm's own growth, external from industry growth",
+      "From industry, external from firm"
+     ],
+     "correct_index": 2,
+     "explanation": "Internal depend on the firm; external on the industry."
+    },
+    {
+     "question_text": "Which is an internal economy of scale?",
+     "options": [
+      "Better transport in the area",
+      "Skilled labour pool in the area",
+      "Government subsidy to the industry",
+      "Technical economies"
+     ],
+     "correct_index": 3,
+     "explanation": "Others: managerial, marketing, financial, risk-bearing."
+    },
+    {
+     "question_text": "Technical economies arise from:",
+     "options": [
+      "Low taxes",
+      "Advertising",
+      "Cheap loans",
+      "Using large, efficient machines and better techniques"
+     ],
+     "correct_index": 3,
+     "explanation": "Large plants use advanced technology."
+    },
+    {
+     "question_text": "Managerial economies arise from:",
+     "options": [
+      "Loans",
+      "Specialised managers and departments",
+      "Machines",
+      "Advertising"
+     ],
+     "correct_index": 1,
+     "explanation": "Large firms can hire specialists."
+    },
+    {
+     "question_text": "Marketing economies arise from:",
+     "options": [
+      "Machines",
+      "Management",
+      "Bulk buying, advertising and distribution",
+      "Loans"
+     ],
+     "correct_index": 2,
+     "explanation": "Large firms spread selling costs."
+    },
+    {
+     "question_text": "Financial economies arise from:",
+     "options": [
+      "Marketing",
+      "Technology",
+      "Easier and cheaper access to credit",
+      "Labour"
+     ],
+     "correct_index": 2,
+     "explanation": "Large firms can borrow at lower interest rates."
+    },
+    {
+     "question_text": "Risk-bearing economies arise from:",
+     "options": [
+      "Machines",
+      "Single product",
+      "Diversification of products and markets",
+      "Loans"
+     ],
+     "correct_index": 2,
+     "explanation": "Spreading risk reduces average cost."
+    },
+    {
+     "question_text": "An external economy is:",
+     "options": [
+      "Benefits from the growth of the industry, e.g., a skilled labour pool or better transport",
+      "A loan",
+      "A tax",
+      "Benefit to one firm"
+     ],
+     "correct_index": 0,
+     "explanation": "All firms in the industry share them."
+    },
+    {
+     "question_text": "Diseconomies of scale arise from:",
+     "options": [
+      "Specialisation",
+      "Managerial inefficiency and coordination problems in very large firms",
+      "Technology",
+      "Bulk buying"
+     ],
+     "correct_index": 1,
+     "explanation": "Average cost rises beyond optimal scale."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Cost and Revenue Analysis – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "External diseconomies include:",
+     "options": [
+      "Subsidy",
+      "Better roads",
+      "Traffic congestion and higher input prices as the industry grows",
+      "Skilled labour pool"
+     ],
+     "correct_index": 2,
+     "explanation": "Industry growth raises costs for all firms."
+    },
+    {
+     "question_text": "Economies of scope arise when:",
+     "options": [
+      "Prices fall",
+      "Producing one product",
+      "Producing several products together is cheaper than separately",
+      "Output is zero"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., a bank offering multiple services."
+    },
+    {
+     "question_text": "Economies of scale differ from economies of scope in that scale relates to:",
+     "options": [
+      "Taxes",
+      "Size of output of one product; scope to the variety of products",
+      "Prices",
+      "Variety; size"
+     ],
+     "correct_index": 1,
+     "explanation": "Scale = bigger; scope = broader."
+    },
+    {
+     "question_text": "TR, AR and MR respectively mean:",
+     "options": [
+      "Q/P; P/Q; ΔQ/ΔP",
+      "P + Q; P − Q; Q − P",
+      "P × Q; TR/Q; ΔTR/ΔQ",
+      "TC/Q; Q/TC; ΔQ/ΔTC"
+     ],
+     "correct_index": 2,
+     "explanation": "AR is revenue per unit; MR is the change in TR from one more unit."
+    },
+    {
+     "question_text": "AR equals the demand curve because:",
+     "options": [
+      "AR rises with Q",
+      "AR equals price at each quantity",
+      "AR is zero",
+      "AR is cost"
+     ],
+     "correct_index": 1,
+     "explanation": "AR = TR/Q = P."
+    },
+    {
+     "question_text": "Under perfect competition AR and MR curves are:",
+     "options": [
+      "Upward sloping",
+      "Same horizontal line",
+      "Downward sloping and different",
+      "Vertical"
+     ],
+     "correct_index": 1,
+     "explanation": "Price is constant."
+    },
+    {
+     "question_text": "MR = AR under perfect competition because:",
+     "options": [
+      "Price is constant for all units sold",
+      "Supply is fixed",
+      "Demand is inelastic",
+      "Price falls"
+     ],
+     "correct_index": 0,
+     "explanation": "Each extra unit adds exactly the price to TR."
+    },
+    {
+     "question_text": "Under monopoly, AR and MR curves are:",
+     "options": [
+      "Horizontal",
+      "Both downward sloping, with MR below AR",
+      "Upward sloping",
+      "The same"
+     ],
+     "correct_index": 1,
+     "explanation": "A monopolist must cut price to sell more."
+    },
+    {
+     "question_text": "MR is below AR under imperfect competition because:",
+     "options": [
+      "Price is constant",
+      "Costs fall",
+      "Demand is perfectly elastic",
+      "To sell more the firm must cut price on all units"
+     ],
+     "correct_index": 3,
+     "explanation": "The price cut applies to earlier units as well."
+    },
+    {
+     "question_text": "For a straight-line demand curve, MR curve:",
+     "options": [
+      "Is above AR",
+      "Is the same",
+      "Is horizontal",
+      "Lies below AR and bisects the distance from the Y-axis to AR"
+     ],
+     "correct_index": 3,
+     "explanation": "MR has twice the slope of AR."
+    },
+    {
+     "question_text": "TR is maximum when:",
+     "options": [
+      "MR is highest",
+      "AR is highest",
+      "MR = 0",
+      "AR is zero"
+     ],
+     "correct_index": 2,
+     "explanation": "After that, TR falls (MR negative)."
+    },
+    {
+     "question_text": "The relationship between MR, AR and elasticity is:",
+     "options": [
+      "MR = AR × e",
+      "MR = AR(1 − 1/e)",
+      "MR = AR + e",
+      "MR = AR/e"
+     ],
+     "correct_index": 1,
+     "explanation": "MR = 0 when e = 1."
+    },
+    {
+     "question_text": "AR = 20 and e = 4. MR is:",
+     "options": [
+      "15",
+      "5",
+      "16",
+      "80"
+     ],
+     "correct_index": 0,
+     "explanation": "MR = 20 × (1 − 1/4)."
+    },
+    {
+     "question_text": "AR = 30 and MR = 20. Elasticity is:",
+     "options": [
+      "3",
+      "2",
+      "0.5",
+      "1.5"
+     ],
+     "correct_index": 0,
+     "explanation": "20 = 30 × (1 − 1/e), so 1/e = 1/3."
+    },
+    {
+     "question_text": "P = 10, 9, 8, 7 for Q = 1, 2, 3, 4. MR of the 3rd unit is:",
+     "options": [
+      "2",
+      "8",
+      "24",
+      "6"
+     ],
+     "correct_index": 3,
+     "explanation": "TR3 = 24, TR2 = 18; MR = 6."
+    },
+    {
+     "question_text": "Normal profit is:",
+     "options": [
+      "Extra profit",
+      "Tax",
+      "The minimum profit to keep the entrepreneur in business (TR = TC including implicit costs)",
+      "Loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Zero economic profit."
+    },
+    {
+     "question_text": "Supernormal profit exists when:",
+     "options": [
+      "TC = 0",
+      "TR > TC (including normal profit)",
+      "TR < TC",
+      "TR = TC"
+     ],
+     "correct_index": 1,
+     "explanation": "It is profit above normal."
+    },
+    {
+     "question_text": "A firm earns a loss when:",
+     "options": [
+      "MR = MC",
+      "TR = TC",
+      "TR > TC",
+      "TR < TC"
+     ],
+     "correct_index": 3,
+     "explanation": "Price is below average cost."
+    },
+    {
+     "question_text": "The break-even point is where:",
+     "options": [
+      "TR < TC",
+      "MC = 0",
+      "TR > TC",
+      "TR = TC (price = AC)"
+     ],
+     "correct_index": 3,
+     "explanation": "The firm earns normal profit."
+    },
+    {
+     "question_text": "The shutdown point is where:",
+     "options": [
+      "Price = AFC",
+      "Price = MC",
+      "Price = minimum AVC",
+      "Price = AC"
+     ],
+     "correct_index": 2,
+     "explanation": "Below it the firm cannot cover variable costs."
+    },
+    {
+     "question_text": "When price lies between AVC and AC, a firm continues to produce in the short run because:",
+     "options": [
+      "Fixed costs are zero",
+      "It avoids tax",
+      "It covers all variable costs and part of fixed costs",
+      "It makes profit"
+     ],
+     "correct_index": 2,
+     "explanation": "Shutting down would lose the whole fixed cost."
+    },
+    {
+     "question_text": "By the TR–TC approach, profit is maximum where:",
+     "options": [
+      "The vertical gap between TR and TC is greatest",
+      "TR is lowest",
+      "TC is highest",
+      "TR = TC"
+     ],
+     "correct_index": 0,
+     "explanation": "Profit = TR − TC."
+    },
+    {
+     "question_text": "By the MR–MC approach, profit is maximum where:",
+     "options": [
+      "MR = 0",
+      "MR = MC",
+      "MR < MC",
+      "MR > MC"
+     ],
+     "correct_index": 1,
+     "explanation": "Output where MC cuts MR from below."
+    },
+    {
+     "question_text": "MC must cut MR from below because:",
+     "options": [
+      "Beyond that output, MC > MR so extra units reduce profit",
+      "Profit is zero",
+      "MR rises",
+      "MC falls"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the second-order condition."
+    },
+    {
+     "question_text": "MR = MC alone is not sufficient because:",
+     "options": [
+      "MR must fall",
+      "Cost must be zero",
+      "Revenue is fixed",
+      "MC must be rising (cut MR from below) for profit maximum"
+     ],
+     "correct_index": 3,
+     "explanation": "Otherwise it could be a minimum profit point."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Cost and Revenue Analysis – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "TR = 100Q − 2Q², TC = 20 + 10Q. Profit-maximising output is:",
+     "options": [
+      "20",
+      "25",
+      "22.5",
+      "10"
+     ],
+     "correct_index": 2,
+     "explanation": "MR = 100 − 4Q = MC = 10 gives Q = 22.5."
+    },
+    {
+     "question_text": "P = 20 and MC = 2Q. The equilibrium output is:",
+     "options": [
+      "10",
+      "40",
+      "20",
+      "5"
+     ],
+     "correct_index": 0,
+     "explanation": "P = MC: 20 = 2Q."
+    },
+    {
+     "question_text": "P = 50 − Q and MC = 10. A monopolist's profit-maximising output is:",
+     "options": [
+      "20",
+      "40",
+      "25",
+      "10"
+     ],
+     "correct_index": 0,
+     "explanation": "MR = 50 − 2Q = 10 gives Q = 20."
+    },
+    {
+     "question_text": "Baumol's sales maximisation theory states that firms aim to:",
+     "options": [
+      "Maximise sales revenue subject to a minimum profit constraint",
+      "Maximise profit",
+      "Minimise cost",
+      "Maximise employment"
+     ],
+     "correct_index": 0,
+     "explanation": "Managers value size and sales."
+    },
+    {
+     "question_text": "Alternative objectives of a firm include:",
+     "options": [
+      "Sales maximisation, growth, and satisficing",
+      "Only profit",
+      "Only taxes",
+      "Only costs"
+     ],
+     "correct_index": 0,
+     "explanation": "Firms may pursue goals other than profit maximisation."
+    },
+    {
+     "question_text": "An isocost line shows:",
+     "options": [
+      "Combinations of two inputs that cost the same total",
+      "Same output",
+      "Same utility",
+      "Same revenue"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the producer's budget line."
+    },
+    {
+     "question_text": "The isocost line equation is:",
+     "options": [
+      "C = wL + rK",
+      "C = w/r",
+      "C = L/K",
+      "C = L + K"
+     ],
+     "correct_index": 0,
+     "explanation": "Total cost equals wage bill plus capital cost."
+    },
+    {
+     "question_text": "TC = 1000, w = 20, r = 50. The labour and capital intercepts are:",
+     "options": [
+      "1000 and 1000",
+      "50 and 20",
+      "20 and 50",
+      "10 and 5"
+     ],
+     "correct_index": 1,
+     "explanation": "1000/20 = 50 of labour; 1000/50 = 20 of capital."
+    },
+    {
+     "question_text": "The slope of the isocost line is:",
+     "options": [
+      "−w/r",
+      "0",
+      "r/w",
+      "w × r"
+     ],
+     "correct_index": 0,
+     "explanation": "Relative factor price ratio."
+    },
+    {
+     "question_text": "If the wage rises, the isocost line:",
+     "options": [
+      "Pivots inward on the labour axis",
+      "Does not change",
+      "Pivots outward",
+      "Shifts outward"
+     ],
+     "correct_index": 0,
+     "explanation": "The labour intercept falls."
+    },
+    {
+     "question_text": "If the outlay rises, the isocost line:",
+     "options": [
+      "Pivots",
+      "Does not change",
+      "Shifts parallel outward",
+      "Shifts parallel inward"
+     ],
+     "correct_index": 2,
+     "explanation": "Both intercepts increase."
+    },
+    {
+     "question_text": "The budget line differs from the isocost line in that the budget line relates to:",
+     "options": [
+      "Producer; consumer",
+      "Prices",
+      "Consumer's income and goods; isocost to producer's outlay and inputs",
+      "Taxes"
+     ],
+     "correct_index": 2,
+     "explanation": "Isocost deals with inputs."
+    },
+    {
+     "question_text": "Producer's equilibrium is the situation where:",
+     "options": [
+      "Output is maximised for a given cost or cost is minimised for a given output",
+      "Cost is maximum",
+      "Price is zero",
+      "Output is zero"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the least-cost combination."
+    },
+    {
+     "question_text": "The conditions for producer's equilibrium are:",
+     "options": [
+      "w = r",
+      "Output = cost",
+      "Isoquant tangent to isocost; MRTS = w/r; isoquant convex",
+      "MRTS = 0"
+     ],
+     "correct_index": 2,
+     "explanation": "First-order and second-order conditions."
+    },
+    {
+     "question_text": "Maximising output subject to a cost constraint means choosing:",
+     "options": [
+      "The isocost line",
+      "The highest isoquant that touches the isocost line",
+      "The lowest isoquant",
+      "Any isoquant"
+     ],
+     "correct_index": 1,
+     "explanation": "It is reached at the tangency."
+    },
+    {
+     "question_text": "Minimising cost for a given output means choosing:",
+     "options": [
+      "Any isocost",
+      "The lowest isocost line that touches the isoquant",
+      "Any isoquant",
+      "The highest isocost"
+     ],
+     "correct_index": 1,
+     "explanation": "It is also reached at the tangency."
+    },
+    {
+     "question_text": "The expansion path is the locus of:",
+     "options": [
+      "Isoquants",
+      "Budget lines",
+      "Isocosts",
+      "Tangency points as the outlay increases with constant factor prices"
+     ],
+     "correct_index": 3,
+     "explanation": "It shows least-cost combinations at different output levels."
+    },
+    {
+     "question_text": "If wages rise relative to the price of capital, the firm will:",
+     "options": [
+      "Increase labour",
+      "Substitute capital for labour",
+      "Substitute labour for capital",
+      "Stop production"
+     ],
+     "correct_index": 1,
+     "explanation": "It moves to a more capital-intensive technique."
+    },
+    {
+     "question_text": "The consumer's equilibrium differs from the producer's in that the consumer maximises:",
+     "options": [
+      "Utility; the producer maximises output or minimises cost",
+      "Cost",
+      "Revenue",
+      "Output"
+     ],
+     "correct_index": 0,
+     "explanation": "Satisfaction cannot be measured, output can."
+    },
+    {
+     "question_text": "MPL/w = MPK/r means:",
+     "options": [
+      "MPL = MPK",
+      "The marginal product per rupee is equal for all factors",
+      "w = r",
+      "Output = cost"
+     ],
+     "correct_index": 1,
+     "explanation": "At the least-cost combination."
+    },
+    {
+     "question_text": "The least-cost combination of factors is where:",
+     "options": [
+      "w = 0",
+      "Cost of producing a given output is minimum",
+      "Output is zero",
+      "Cost is maximum"
+     ],
+     "correct_index": 1,
+     "explanation": "It is at tangency."
+    },
+    {
+     "question_text": "A point other than tangency is not an equilibrium because:",
+     "options": [
+      "Output is fixed",
+      "It is optimum",
+      "The firm can reach a higher output or lower cost by moving",
+      "Costs are zero"
+     ],
+     "correct_index": 2,
+     "explanation": "Moving along the isocost increases output."
+    },
+    {
+     "question_text": "MRTS = 3 and w/r = 2. The firm should:",
+     "options": [
+      "Use more capital and less labour",
+      "Use more labour and less capital",
+      "Stop production",
+      "Do nothing"
+     ],
+     "correct_index": 1,
+     "explanation": "MPL/MPK exceeds w/r; labour is relatively more productive per rupee."
+    },
+    {
+     "question_text": "At the point of tangency, LAC and SAC:",
+     "options": [
+      "Have the same value and slope",
+      "Are unrelated",
+      "Are parallel",
+      "Intersect"
+     ],
+     "correct_index": 0,
+     "explanation": "The SAC touches LAC from above."
+    },
+    {
+     "question_text": "The shutdown point depends on AVC because:",
+     "options": [
+      "AVC is irrelevant",
+      "AFC is variable",
+      "Fixed costs must be paid whether or not the firm produces",
+      "Price is fixed"
+     ],
+     "correct_index": 2,
+     "explanation": "Only variable costs are avoidable."
+    }
+   ]
+  }
+ ]
+}

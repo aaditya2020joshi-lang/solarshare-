@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 3: Demand Analysis – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Demand in economics means the quantity of a good a consumer is:",
+     "options": [
+      "Willing to buy only",
+      "Able and willing to buy at a given price in a given period",
+      "Wishes to own",
+      "Needs at any price"
+     ],
+     "correct_index": 1,
+     "explanation": "Demand needs desire, ability to pay (purchasing power) and willingness, at a price and over a period."
+    },
+    {
+     "question_text": "The difference between desire and demand is that demand is:",
+     "options": [
+      "Desire backed by purchasing power and willingness to pay",
+      "Unrelated to price",
+      "Supply from sellers",
+      "Simply a wish"
+     ],
+     "correct_index": 0,
+     "explanation": "A desire without the ability to pay is not effective demand."
+    },
+    {
+     "question_text": "The demand function is written as:",
+     "options": [
+      "Dx = Px + Y",
+      "Dx = f(Px, Pr, Y, T, E)",
+      "Dx = Sx",
+      "Dx = TC/Q"
+     ],
+     "correct_index": 1,
+     "explanation": "Quantity demanded depends on own price, related prices, income, tastes and expectations."
+    },
+    {
+     "question_text": "Which is NOT a determinant of demand?",
+     "options": [
+      "Price of related goods",
+      "Income of consumers",
+      "Tastes and preferences",
+      "Cost of production of the seller"
+     ],
+     "correct_index": 3,
+     "explanation": "Cost of production is a supply-side factor."
+    },
+    {
+     "question_text": "If the price of tea (a substitute) rises, demand for coffee:",
+     "options": [
+      "Becomes zero",
+      "Stays the same",
+      "Rises",
+      "Falls"
+     ],
+     "correct_index": 2,
+     "explanation": "Consumers shift to the cheaper substitute."
+    },
+    {
+     "question_text": "If the price of cars (complement of petrol) rises sharply, demand for petrol:",
+     "options": [
+      "Doubles",
+      "Falls",
+      "Is unchanged",
+      "Rises"
+     ],
+     "correct_index": 1,
+     "explanation": "Complements are used together; demand moves in the opposite direction to the other's price."
+    },
+    {
+     "question_text": "Normal goods are those whose demand:",
+     "options": [
+      "Falls as income rises",
+      "Is zero",
+      "Rises as income rises",
+      "Is constant"
+     ],
+     "correct_index": 2,
+     "explanation": "Examples: clothes, fruits, smartphones."
+    },
+    {
+     "question_text": "Inferior goods are those whose demand:",
+     "options": [
+      "Is infinite",
+      "Rises as income rises",
+      "Falls as income rises",
+      "Is constant"
+     ],
+     "correct_index": 2,
+     "explanation": "Examples: coarse cereals, low-quality bus travel."
+    },
+    {
+     "question_text": "As income rises, demand for luxuries:",
+     "options": [
+      "Rises proportionately more than income",
+      "Falls",
+      "Is constant",
+      "Rises less than income"
+     ],
+     "correct_index": 0,
+     "explanation": "Necessities rise by a smaller proportion."
+    },
+    {
+     "question_text": "A favourable change in fashion for a product will:",
+     "options": [
+      "Increase demand",
+      "Decrease demand",
+      "Reduce supply",
+      "Have no effect"
+     ],
+     "correct_index": 0,
+     "explanation": "Tastes and fashions shift the demand curve."
+    },
+    {
+     "question_text": "If consumers expect prices to rise in future, current demand will:",
+     "options": [
+      "Be zero",
+      "Fall",
+      "Remain unchanged",
+      "Rise"
+     ],
+     "correct_index": 3,
+     "explanation": "People buy now to avoid higher future prices."
+    },
+    {
+     "question_text": "An increase in population generally:",
+     "options": [
+      "Reduces income",
+      "Increases market demand",
+      "Decreases market demand",
+      "Has no effect"
+     ],
+     "correct_index": 1,
+     "explanation": "More consumers mean larger total demand."
+    },
+    {
+     "question_text": "If income is redistributed from rich to poor, demand for necessities generally:",
+     "options": [
+      "Rises",
+      "Falls",
+      "Is unchanged",
+      "Becomes zero"
+     ],
+     "correct_index": 0,
+     "explanation": "The poor spend a larger share of extra income on necessities."
+    },
+    {
+     "question_text": "Derived demand is demand for a good because of:",
+     "options": [
+      "Its use in producing another good (e.g., demand for steel)",
+      "Fashion",
+      "Its price",
+      "Its direct use"
+     ],
+     "correct_index": 0,
+     "explanation": "Direct demand is for final consumption, e.g., demand for rice."
+    },
+    {
+     "question_text": "Composite demand exists when a good has:",
+     "options": [
+      "More than one use (e.g., steel, milk)",
+      "Free supply",
+      "One use only",
+      "No use"
+     ],
+     "correct_index": 0,
+     "explanation": "Demand is the sum of demand for each use."
+    },
+    {
+     "question_text": "Joint demand is the demand for goods:",
+     "options": [
+      "Never used together",
+      "That are substitutes",
+      "Used together (e.g., car and petrol)",
+      "Of the same price"
+     ],
+     "correct_index": 2,
+     "explanation": "They complement each other."
+    },
+    {
+     "question_text": "Market demand is:",
+     "options": [
+      "The sum of individual demands at each price",
+      "Demand by the government only",
+      "Demand of one consumer",
+      "Same as supply"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the horizontal sum of individual demand curves."
+    },
+    {
+     "question_text": "A demand schedule is:",
+     "options": [
+      "A list of costs",
+      "A graph of income",
+      "A table showing quantities demanded at various prices",
+      "A price list of sellers"
+     ],
+     "correct_index": 2,
+     "explanation": "It is the tabular form of demand."
+    },
+    {
+     "question_text": "If three consumers demand 2, 3 and 5 units at a price, market demand at that price is:",
+     "options": [
+      "5",
+      "2",
+      "10",
+      "3"
+     ],
+     "correct_index": 2,
+     "explanation": "2 + 3 + 5 = 10 units."
+    },
+    {
+     "question_text": "A demand curve is:",
+     "options": [
+      "A graph of price against quantity demanded",
+      "A graph of income against savings",
+      "A graph of cost against output",
+      "A supply graph"
+     ],
+     "correct_index": 0,
+     "explanation": "It plots the demand schedule."
+    },
+    {
+     "question_text": "The demand curve slopes downward mainly because of:",
+     "options": [
+      "Diminishing marginal utility, income and substitution effects",
+      "Rising costs",
+      "Fixed supply",
+      "Rising MU"
+     ],
+     "correct_index": 0,
+     "explanation": "Lower prices raise quantity demanded."
+    },
+    {
+     "question_text": "To derive an individual demand curve, one:",
+     "options": [
+      "Plots income vs. price",
+      "Plots cost vs. output",
+      "Plots price on the Y-axis and quantity on the X-axis from the schedule",
+      "Plots MU vs. TU"
+     ],
+     "correct_index": 2,
+     "explanation": "Join the plotted points."
+    },
+    {
+     "question_text": "The market demand curve is obtained by:",
+     "options": [
+      "Vertical addition of individual curves",
+      "Horizontal summation of individual demand curves",
+      "Averaging prices",
+      "Subtracting curves"
+     ],
+     "correct_index": 1,
+     "explanation": "Add quantities at each price."
+    },
+    {
+     "question_text": "The market demand curve is flatter than individual curves because:",
+     "options": [
+      "Supply is fixed",
+      "Quantities are added at each price, making the curve more responsive",
+      "Income is lower",
+      "Prices are higher"
+     ],
+     "correct_index": 1,
+     "explanation": "Summing quantities spreads the curve horizontally."
+    },
+    {
+     "question_text": "The demand curve is derived from the MU curve because:",
+     "options": [
+      "MU is zero",
+      "MU is constant",
+      "TU equals price",
+      "MU equals the price the consumer is willing to pay"
+     ],
+     "correct_index": 3,
+     "explanation": "Willingness to pay for each unit measures MU, so the MU curve shows demand."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Demand Analysis – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The Law of Demand states that, other things constant, as price falls:",
+     "options": [
+      "Quantity demanded falls",
+      "Supply rises",
+      "Demand is unchanged",
+      "Quantity demanded rises"
+     ],
+     "correct_index": 3,
+     "explanation": "Price and quantity demanded are inversely related."
+    },
+    {
+     "question_text": "The law of demand is associated with:",
+     "options": [
+      "Alfred Marshall",
+      "Hicks only",
+      "Keynes",
+      "Robbins"
+     ],
+     "correct_index": 0,
+     "explanation": "Marshall formally stated the law of demand."
+    },
+    {
+     "question_text": "An assumption of the law of demand is:",
+     "options": [
+      "Price of substitutes changes",
+      "Fashion changes",
+      "Tastes and incomes remain constant",
+      "Income keeps changing"
+     ],
+     "correct_index": 2,
+     "explanation": "Other things (ceteris paribus) remain unchanged."
+    },
+    {
+     "question_text": "A schedule where price rises Rs. 10, 8, 6 and quantity is 10, 20, 30 shows:",
+     "options": [
+      "Perfect elasticity",
+      "Giffen behaviour",
+      "A direct relation",
+      "An inverse relation between price and quantity (law of demand)"
+     ],
+     "correct_index": 3,
+     "explanation": "Lower price, higher quantity."
+    },
+    {
+     "question_text": "The income effect in the law of demand is that a fall in price:",
+     "options": [
+      "Reduces demand",
+      "Raises real income, enabling more purchases",
+      "Has no effect",
+      "Reduces real income"
+     ],
+     "correct_index": 1,
+     "explanation": "A lower price raises purchasing power."
+    },
+    {
+     "question_text": "The substitution effect means that when a good's price falls, consumers:",
+     "options": [
+      "Stop buying",
+      "Buy less of it",
+      "Substitute it for relatively costlier goods",
+      "Buy only substitutes"
+     ],
+     "correct_index": 2,
+     "explanation": "The cheaper good replaces others."
+    },
+    {
+     "question_text": "DMU explains the law of demand because:",
+     "options": [
+      "Price is constant",
+      "TU falls",
+      "Consumers pay less for additional units as MU falls",
+      "MU rises"
+     ],
+     "correct_index": 2,
+     "explanation": "They buy more only when the price falls to match falling MU."
+    },
+    {
+     "question_text": "A fall in price attracts new consumers because:",
+     "options": [
+      "Income falls",
+      "The good becomes affordable to those previously unable to buy",
+      "Tastes change",
+      "It becomes scarce"
+     ],
+     "correct_index": 1,
+     "explanation": "Lower prices widen the market."
+    },
+    {
+     "question_text": "Which is an exception to the law of demand?",
+     "options": [
+      "Complements",
+      "Normal goods",
+      "Giffen goods",
+      "Substitutes"
+     ],
+     "correct_index": 2,
+     "explanation": "Others: Veblen goods, expectations of price rise, speculation."
+    },
+    {
+     "question_text": "Giffen goods are an exception because:",
+     "options": [
+      "They are free",
+      "Demand rises when price rises, as strong negative income effect dominates",
+      "Their demand always falls",
+      "They are luxuries"
+     ],
+     "correct_index": 1,
+     "explanation": "They are inferior goods; e.g., staple food for the very poor."
+    },
+    {
+     "question_text": "Veblen goods are:",
+     "options": [
+      "Prestige goods bought more when their price is higher",
+      "Necessities",
+      "Inferior goods",
+      "Free goods"
+     ],
+     "correct_index": 0,
+     "explanation": "Their high price gives status."
+    },
+    {
+     "question_text": "Conspicuous consumption was propounded by:",
+     "options": [
+      "Marshall",
+      "Smith",
+      "Thorstein Veblen",
+      "Keynes"
+     ],
+     "correct_index": 2,
+     "explanation": "It describes buying for show."
+    },
+    {
+     "question_text": "If consumers expect prices to rise further, they:",
+     "options": [
+      "Reduce income",
+      "Stop buying",
+      "Buy more now even at higher prices, violating the law of demand",
+      "Buy less"
+     ],
+     "correct_index": 2,
+     "explanation": "Expectation of a price rise increases current demand."
+    },
+    {
+     "question_text": "Speculative markets violate the law of demand because:",
+     "options": [
+      "Supply is constant",
+      "Prices are fixed",
+      "Demand is zero",
+      "Buyers purchase more when prices are rising, expecting further gains"
+     ],
+     "correct_index": 3,
+     "explanation": "Speculators chase rising prices."
+    },
+    {
+     "question_text": "Demand for necessities:",
+     "options": [
+      "Is unrelated to price",
+      "Is always zero",
+      "Is a perfect exception",
+      "Is not an exception; demand responds only slightly to price"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity demanded still moves inversely with price, though only a little."
+    },
+    {
+     "question_text": "Giffen goods differ from Veblen goods because Giffen goods are:",
+     "options": [
+      "Free",
+      "Luxuries",
+      "Always substitutes",
+      "Inferior goods of the poor, while Veblen goods are prestige goods of the rich"
+     ],
+     "correct_index": 3,
+     "explanation": "The reasons for the upward-sloping demand differ."
+    },
+    {
+     "question_text": "Extension of demand means:",
+     "options": [
+      "Shift of curve rightward",
+      "Fall in quantity due to a rise in price",
+      "Rise in quantity demanded due to fall in price",
+      "Shift leftward"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a downward movement along the same demand curve."
+    },
+    {
+     "question_text": "Contraction of demand means:",
+     "options": [
+      "Shift rightward",
+      "Fall in quantity demanded due to a rise in price",
+      "Rise in quantity due to a price fall",
+      "Shift leftward"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an upward movement along the curve."
+    },
+    {
+     "question_text": "An increase in demand means:",
+     "options": [
+      "Downward movement along the curve",
+      "Rightward shift of the demand curve",
+      "Leftward shift",
+      "Upward movement"
+     ],
+     "correct_index": 1,
+     "explanation": "More is demanded at each price."
+    },
+    {
+     "question_text": "A decrease in demand means:",
+     "options": [
+      "Rightward shift",
+      "Leftward shift of the demand curve",
+      "Upward movement along the curve",
+      "Downward movement along the curve"
+     ],
+     "correct_index": 1,
+     "explanation": "Less is demanded at each price because of non-price factors."
+    },
+    {
+     "question_text": "A change in quantity demanded is caused by a change in:",
+     "options": [
+      "Tastes",
+      "Population",
+      "Own price of the good",
+      "Income"
+     ],
+     "correct_index": 2,
+     "explanation": "A change in demand is caused by other factors."
+    },
+    {
+     "question_text": "A change in quantity demanded is shown by:",
+     "options": [
+      "Movement along the same demand curve",
+      "Shift of the curve",
+      "New axes",
+      "Change in slope only"
+     ],
+     "correct_index": 0,
+     "explanation": "Extension or contraction."
+    },
+    {
+     "question_text": "A change in demand is shown by:",
+     "options": [
+      "Change in axis",
+      "Movement along the curve",
+      "No change",
+      "A shift of the demand curve"
+     ],
+     "correct_index": 3,
+     "explanation": "Increase = right shift; decrease = left shift."
+    },
+    {
+     "question_text": "Which causes an increase in demand?",
+     "options": [
+      "Fall in consumer income (normal good)",
+      "Rise in income of consumers (normal good)",
+      "Fall in price of a substitute",
+      "Rise in price of a complement"
+     ],
+     "correct_index": 1,
+     "explanation": "A rise in income of buyers of normal goods raises demand."
+    },
+    {
+     "question_text": "Which causes a decrease in demand?",
+     "options": [
+      "Favourable change in tastes",
+      "Rise in price of a complement",
+      "Expected future price rise",
+      "Rise in income (normal good)"
+     ],
+     "correct_index": 1,
+     "explanation": "A higher price of a complement lowers demand for the good."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Demand Analysis – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "If the price of tea rises, demand for coffee:",
+     "options": [
+      "Falls",
+      "Is zero",
+      "Is unchanged",
+      "Rises"
+     ],
+     "correct_index": 3,
+     "explanation": "Tea and coffee are substitutes."
+    },
+    {
+     "question_text": "If the price of petrol rises sharply, demand for cars:",
+     "options": [
+      "Falls",
+      "Is unchanged",
+      "Doubles",
+      "Rises"
+     ],
+     "correct_index": 0,
+     "explanation": "Petrol and cars are complements."
+    },
+    {
+     "question_text": "If income rises, demand for an inferior good:",
+     "options": [
+      "Is unchanged",
+      "Falls",
+      "Rises",
+      "Is infinite"
+     ],
+     "correct_index": 1,
+     "explanation": "People switch to superior goods."
+    },
+    {
+     "question_text": "A fall in the price of apples raising apple purchases is:",
+     "options": [
+      "Neither",
+      "Shift of the demand curve",
+      "Both",
+      "Movement along the demand curve"
+     ],
+     "correct_index": 3,
+     "explanation": "It is an extension of demand."
+    },
+    {
+     "question_text": "A rise in income raising demand for smartphones is:",
+     "options": [
+      "Extension",
+      "Movement along the curve",
+      "Contraction",
+      "Shift of the demand curve"
+     ],
+     "correct_index": 3,
+     "explanation": "Non-price factor changes demand."
+    },
+    {
+     "question_text": "Elasticity of demand measures:",
+     "options": [
+      "Change in supply",
+      "Change in profits",
+      "Responsiveness of quantity demanded to a change in a determinant",
+      "Change in cost"
+     ],
+     "correct_index": 2,
+     "explanation": "It is the degree of responsiveness."
+    },
+    {
+     "question_text": "The concept of elasticity was introduced by:",
+     "options": [
+      "Alfred Marshall",
+      "Adam Smith",
+      "Ricardo",
+      "Keynes"
+     ],
+     "correct_index": 0,
+     "explanation": "Marshall introduced it in Principles of Economics."
+    },
+    {
+     "question_text": "The types of elasticity of demand are:",
+     "options": [
+      "Price, income and cross elasticity",
+      "Only price",
+      "Cost and profit",
+      "Tax and subsidy"
+     ],
+     "correct_index": 0,
+     "explanation": "Based on price, income and price of related goods."
+    },
+    {
+     "question_text": "Price elasticity of demand is:",
+     "options": [
+      "Income ÷ price",
+      "Change in price ÷ change in quantity",
+      "Price ÷ quantity",
+      "% change in quantity demanded ÷ % change in price"
+     ],
+     "correct_index": 3,
+     "explanation": "Ed = %ΔQ / %ΔP (in absolute value)."
+    },
+    {
+     "question_text": "The five degrees of price elasticity are:",
+     "options": [
+      "Positive and negative",
+      "Perfect and zero",
+      "Perfectly elastic, highly elastic, unitary, less elastic, perfectly inelastic",
+      "Only high and low"
+     ],
+     "correct_index": 2,
+     "explanation": "Ed = ∞, > 1, = 1, < 1, = 0."
+    },
+    {
+     "question_text": "Perfectly elastic demand has Ed equal to:",
+     "options": [
+      "Less than one",
+      "Zero",
+      "Infinity",
+      "One"
+     ],
+     "correct_index": 2,
+     "explanation": "The demand curve is horizontal."
+    },
+    {
+     "question_text": "Perfectly inelastic demand has Ed equal to:",
+     "options": [
+      "Zero",
+      "One",
+      "Infinity",
+      "Greater than one"
+     ],
+     "correct_index": 0,
+     "explanation": "The demand curve is vertical."
+    },
+    {
+     "question_text": "Unitary elastic demand means Ed equals:",
+     "options": [
+      "2",
+      "1",
+      "0",
+      "∞"
+     ],
+     "correct_index": 1,
+     "explanation": "Percentage change in quantity equals percentage change in price."
+    },
+    {
+     "question_text": "Relatively elastic demand means Ed is:",
+     "options": [
+      "Zero",
+      "Equal to 1",
+      "Greater than 1",
+      "Less than 1"
+     ],
+     "correct_index": 2,
+     "explanation": "Quantity changes proportionately more than price."
+    },
+    {
+     "question_text": "Relatively inelastic demand means Ed is:",
+     "options": [
+      "Between 0 and 1",
+      "Equal to 1",
+      "Infinite",
+      "Greater than 1"
+     ],
+     "correct_index": 0,
+     "explanation": "Quantity changes proportionately less than price."
+    },
+    {
+     "question_text": "In the percentage method, Ed equals:",
+     "options": [
+      "P × Q",
+      "%ΔQ ÷ %ΔP",
+      "Q ÷ P",
+      "ΔP ÷ ΔQ"
+     ],
+     "correct_index": 1,
+     "explanation": "Compare the percentage changes in quantity and price."
+    },
+    {
+     "question_text": "In the total outlay method, if price falls and total expenditure rises, demand is:",
+     "options": [
+      "Inelastic",
+      "Perfectly inelastic",
+      "Unitary elastic",
+      "Elastic"
+     ],
+     "correct_index": 3,
+     "explanation": "Expenditure moves opposite to price when demand is elastic."
+    },
+    {
+     "question_text": "Elasticity at a point on a straight-line demand curve equals:",
+     "options": [
+      "Price",
+      "Lower segment ÷ upper segment",
+      "Upper segment ÷ lower segment",
+      "Slope"
+     ],
+     "correct_index": 1,
+     "explanation": "Ed = lower segment / upper segment at that point."
+    },
+    {
+     "question_text": "On a straight-line demand curve, Ed = 1 at the:",
+     "options": [
+      "X-intercept",
+      "Origin",
+      "Midpoint",
+      "Y-intercept"
+     ],
+     "correct_index": 2,
+     "explanation": "Upper and lower segments are equal."
+    },
+    {
+     "question_text": "On a linear demand curve, Ed is _____ at the Y-intercept and _____ at the X-intercept:",
+     "options": [
+      "Zero; infinity",
+      "Infinity; zero",
+      "Zero; zero",
+      "One; one"
+     ],
+     "correct_index": 1,
+     "explanation": "Ed falls as one moves down the curve."
+    },
+    {
+     "question_text": "The arc elasticity formula uses:",
+     "options": [
+      "Final price only",
+      "Income",
+      "Average (midpoint) price and quantity",
+      "Initial price and quantity only"
+     ],
+     "correct_index": 2,
+     "explanation": "Ed = (ΔQ/ΔP) × (P1+P2)/(Q1+Q2)."
+    },
+    {
+     "question_text": "Price falls from Rs. 10 to Rs. 8; quantity rises from 100 to 120. Ed (percentage method) is:",
+     "options": [
+      "1.5",
+      "0.5",
+      "2",
+      "1"
+     ],
+     "correct_index": 3,
+     "explanation": "%ΔQ = 20%, %ΔP = 20%."
+    },
+    {
+     "question_text": "Price rises from Rs. 20 to Rs. 25; quantity falls from 80 to 60. Ed is:",
+     "options": [
+      "0.25",
+      "2",
+      "0.5",
+      "1"
+     ],
+     "correct_index": 3,
+     "explanation": "%ΔQ = 25%, %ΔP = 25%."
+    },
+    {
+     "question_text": "Price falls from Rs. 5 to Rs. 4; quantity rises from 50 to 80. Ed is:",
+     "options": [
+      "0.33 (inelastic)",
+      "0.6 (inelastic)",
+      "3 (elastic)",
+      "1 (unitary)"
+     ],
+     "correct_index": 2,
+     "explanation": "%ΔQ = 60%, %ΔP = 20%, so Ed = 3."
+    },
+    {
+     "question_text": "Price Rs. 50, quantity 100; price rises to Rs. 55 and quantity falls to 95. Ed is:",
+     "options": [
+      "2",
+      "0.5",
+      "5",
+      "1"
+     ],
+     "correct_index": 1,
+     "explanation": "%ΔP = 10%, %ΔQ = 5%, so Ed = 0.5."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Demand Analysis – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A 10% rise in price causes a 25% fall in demand. Ed is:",
+     "options": [
+      "2.5, elastic",
+      "25, perfectly elastic",
+      "0.4, inelastic",
+      "1, unitary"
+     ],
+     "correct_index": 0,
+     "explanation": "25/10 = 2.5 > 1."
+    },
+    {
+     "question_text": "If Ed = 2 and price falls by 5%, quantity demanded rises by:",
+     "options": [
+      "2.5%",
+      "7%",
+      "10%",
+      "5%"
+     ],
+     "correct_index": 2,
+     "explanation": "%ΔQ = Ed × %ΔP = 2 × 5%."
+    },
+    {
+     "question_text": "If total expenditure rises when price falls, Ed is:",
+     "options": [
+      "Zero",
+      "Equal to 1",
+      "Greater than 1",
+      "Less than 1"
+     ],
+     "correct_index": 2,
+     "explanation": "Demand is elastic."
+    },
+    {
+     "question_text": "If total expenditure is unchanged when price rises, Ed is:",
+     "options": [
+      "Less than 1",
+      "Zero",
+      "Greater than 1",
+      "Equal to 1"
+     ],
+     "correct_index": 3,
+     "explanation": "Demand is unitary elastic."
+    },
+    {
+     "question_text": "Using the arc method with P1 = 10, Q1 = 40, P2 = 8, Q2 = 50, Ed is:",
+     "options": [
+      "1",
+      "0.5",
+      "2",
+      "1.25"
+     ],
+     "correct_index": 0,
+     "explanation": "(10/2) × (18/90) = 1."
+    },
+    {
+     "question_text": "Which factor affects price elasticity of demand?",
+     "options": [
+      "Wages of workers",
+      "Production cost",
+      "Interest rate on loans",
+      "Availability of substitutes"
+     ],
+     "correct_index": 3,
+     "explanation": "Others: nature of good, income share, time period."
+    },
+    {
+     "question_text": "Demand for salt is inelastic because it is:",
+     "options": [
+      "A necessity with no close substitute and a small share of income",
+      "Easily substituted",
+      "Very expensive",
+      "A luxury"
+     ],
+     "correct_index": 0,
+     "explanation": "Price changes hardly alter consumption."
+    },
+    {
+     "question_text": "Demand for luxury cars is elastic because:",
+     "options": [
+      "They are necessities",
+      "They are costly with many substitutes and can be postponed",
+      "They have no substitutes",
+      "They are cheap"
+     ],
+     "correct_index": 1,
+     "explanation": "Buyers respond strongly to price changes."
+    },
+    {
+     "question_text": "Over a longer time period, demand generally becomes:",
+     "options": [
+      "Unchanged",
+      "Perfectly inelastic",
+      "Less elastic",
+      "More elastic"
+     ],
+     "correct_index": 3,
+     "explanation": "Consumers have time to find substitutes."
+    },
+    {
+     "question_text": "The more substitutes a good has, the _____ its demand:",
+     "options": [
+      "More elastic",
+      "More fixed",
+      "Unitary",
+      "Less elastic"
+     ],
+     "correct_index": 0,
+     "explanation": "Consumers can easily switch."
+    },
+    {
+     "question_text": "Goods taking a large share of income have _____ demand:",
+     "options": [
+      "Zero",
+      "Unitary",
+      "More elastic",
+      "Less elastic"
+     ],
+     "correct_index": 2,
+     "explanation": "Price changes noticeably affect budgets."
+    },
+    {
+     "question_text": "Income elasticity of demand is:",
+     "options": [
+      "%ΔIncome ÷ %ΔQ",
+      "%ΔQ ÷ %ΔPrice",
+      "ΔQ ÷ Q",
+      "%ΔQ ÷ %ΔIncome"
+     ],
+     "correct_index": 3,
+     "explanation": "Ey = %ΔQ / %ΔY."
+    },
+    {
+     "question_text": "A good is a luxury if Ey is:",
+     "options": [
+      "Zero",
+      "Less than 1",
+      "Greater than 1",
+      "Negative"
+     ],
+     "correct_index": 2,
+     "explanation": "Necessities have Ey between 0 and 1."
+    },
+    {
+     "question_text": "Income rises 10% and quantity rises 15%. Ey is:",
+     "options": [
+      "15",
+      "0.67",
+      "0.15",
+      "1.5"
+     ],
+     "correct_index": 3,
+     "explanation": "15/10 = 1.5, a luxury."
+    },
+    {
+     "question_text": "Cross elasticity of demand measures:",
+     "options": [
+      "Income elasticity",
+      "Price elasticity",
+      "Responsiveness of demand for X to a change in the price of Y",
+      "Supply elasticity"
+     ],
+     "correct_index": 2,
+     "explanation": "Ec = %ΔQx / %ΔPy."
+    },
+    {
+     "question_text": "Cross elasticity is positive for _____ and negative for _____:",
+     "options": [
+      "Luxuries; necessities",
+      "Substitutes; complements",
+      "Normal goods; inferior goods",
+      "Complements; substitutes"
+     ],
+     "correct_index": 1,
+     "explanation": "A rise in the price of a substitute increases demand."
+    },
+    {
+     "question_text": "Price of tea rises 20%, demand for coffee rises 10%. Ec is:",
+     "options": [
+      "+2",
+      "−0.5",
+      "−2",
+      "+0.5"
+     ],
+     "correct_index": 3,
+     "explanation": "10/20 = 0.5, positive, so they are substitutes."
+    },
+    {
+     "question_text": "When demand is elastic (Ed > 1), a price cut:",
+     "options": [
+      "Lowers TR",
+      "Leaves TR unchanged",
+      "Raises TR and MR is positive",
+      "Makes MR negative"
+     ],
+     "correct_index": 2,
+     "explanation": "Elastic demand means MR > 0 and TR rises as price falls."
+    },
+    {
+     "question_text": "MR = P(1 − 1/Ed). If Ed = 2 and P = 10, MR is:",
+     "options": [
+      "5",
+      "10",
+      "20",
+      "0"
+     ],
+     "correct_index": 0,
+     "explanation": "10 × (1 − 0.5) = 5."
+    },
+    {
+     "question_text": "A monopolist never operates on the inelastic part of demand because there:",
+     "options": [
+      "TR rises when output rises",
+      "MR is positive",
+      "MR is negative",
+      "Profit is highest"
+     ],
+     "correct_index": 2,
+     "explanation": "With Ed < 1, MR < 0, which cannot equal positive MC."
+    },
+    {
+     "question_text": "Elasticity helps the government in taxation because:",
+     "options": [
+      "It controls prices",
+      "It fixes income",
+      "It sets wages",
+      "It shows which goods yield more revenue when taxed (inelastic goods)"
+     ],
+     "correct_index": 3,
+     "explanation": "Taxing inelastic goods raises revenue with little fall in sales."
+    },
+    {
+     "question_text": "A producer facing elastic demand should:",
+     "options": [
+      "Cut price to increase revenue",
+      "Raise price to increase revenue",
+      "Keep price unchanged",
+      "Stop production"
+     ],
+     "correct_index": 0,
+     "explanation": "TR rises when price falls under elastic demand."
+    },
+    {
+     "question_text": "The paradox of poverty states that:",
+     "options": [
+      "Poverty raises income",
+      "Bumper crops always raise revenue",
+      "Larger crops may fetch lower total revenue for farmers because demand for farm produce is inelastic",
+      "Prices never fall"
+     ],
+     "correct_index": 2,
+     "explanation": "Price falls proportionately more than the quantity sold rises."
+    },
+    {
+     "question_text": "The Marshall–Lerner condition states that devaluation improves the trade balance if:",
+     "options": [
+      "Imports are zero",
+      "Sum equals zero",
+      "Elasticities are below 1",
+      "Sum of export and import demand elasticities exceeds 1"
+     ],
+     "correct_index": 3,
+     "explanation": "Ed(x) + Ed(m) > 1."
+    },
+    {
+     "question_text": "The incidence of a tax falls more on the side of the market that is:",
+     "options": [
+      "Less elastic",
+      "More elastic",
+      "Equally elastic",
+      "Neither"
+     ],
+     "correct_index": 0,
+     "explanation": "The less elastic side cannot easily avoid the tax and bears more of it."
+    }
+   ]
+  }
+ ]
+}

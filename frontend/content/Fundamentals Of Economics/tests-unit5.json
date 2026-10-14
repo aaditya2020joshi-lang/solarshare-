@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 5: Production Analysis – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Production in economics means:",
+     "options": [
+      "Creation of matter",
+      "Creation of utility",
+      "Only manufacturing",
+      "Destruction of goods"
+     ],
+     "correct_index": 1,
+     "explanation": "Man cannot create matter; he creates utility by changing form, place, time or possession."
+    },
+    {
+     "question_text": "The four factors of production and their rewards are:",
+     "options": [
+      "Land–wages, labour–rent, capital–profit, entrepreneur–interest",
+      "Land–profit, labour–interest, capital–wages, entrepreneur–rent",
+      "Land–rent, labour–wages, capital–interest, entrepreneur–profit",
+      "Land–interest, labour–profit, capital–rent, entrepreneur–wages"
+     ],
+     "correct_index": 2,
+     "explanation": "Each factor earns its own reward."
+    },
+    {
+     "question_text": "Which is a feature of land?",
+     "options": [
+      "It is man-made",
+      "It is perishable",
+      "Its supply is perfectly elastic",
+      "It is a free gift of nature with fixed supply"
+     ],
+     "correct_index": 3,
+     "explanation": "Land is also immobile geographically and has differing fertility."
+    },
+    {
+     "question_text": "Which is a feature of labour?",
+     "options": [
+      "It is inseparable from the labourer and perishable",
+      "It is man-made",
+      "It can be stored",
+      "It is passive"
+     ],
+     "correct_index": 0,
+     "explanation": "Labour is active, cannot be stored and varies in efficiency."
+    },
+    {
+     "question_text": "Capital is:",
+     "options": [
+      "Land only",
+      "Human effort",
+      "Free gift of nature",
+      "Man-made produced means of production"
+     ],
+     "correct_index": 3,
+     "explanation": "It is wealth used for further production."
+    },
+    {
+     "question_text": "Fixed capital differs from circulating capital in that fixed capital:",
+     "options": [
+      "Is human",
+      "Is used up in one use",
+      "Is a gift of nature",
+      "Can be used repeatedly (e.g., machinery), while circulating capital is used once (e.g., raw materials)"
+     ],
+     "correct_index": 3,
+     "explanation": "Raw materials and fuel are circulating capital."
+    },
+    {
+     "question_text": "Human capital refers to:",
+     "options": [
+      "Machinery",
+      "Natural resources",
+      "Money",
+      "Knowledge, skills and health of people acquired through education and training"
+     ],
+     "correct_index": 3,
+     "explanation": "Investment in education and health raises productivity."
+    },
+    {
+     "question_text": "An entrepreneur's functions include:",
+     "options": [
+      "Organising production, bearing risk and innovating",
+      "Only supplying land",
+      "Only lending money",
+      "Only working under orders"
+     ],
+     "correct_index": 0,
+     "explanation": "The entrepreneur combines factors and takes the risks."
+    },
+    {
+     "question_text": "The entrepreneur's reward is called profit because it is:",
+     "options": [
+      "The residual left after paying all other factors, and is uncertain",
+      "Fixed in advance",
+      "Equal to rent",
+      "Paid first"
+     ],
+     "correct_index": 0,
+     "explanation": "Profit can be positive or negative."
+    },
+    {
+     "question_text": "A major advantage of division of labour is:",
+     "options": [
+      "Unemployment",
+      "Monotony of work",
+      "Greater skill and higher output through specialisation",
+      "Dependence on others"
+     ],
+     "correct_index": 2,
+     "explanation": "Limitations include monotony and loss of overall skill."
+    },
+    {
+     "question_text": "Capital formation is:",
+     "options": [
+      "Printing money",
+      "Spending on consumption",
+      "Importing goods",
+      "Creation of new capital assets by saving and investment"
+     ],
+     "correct_index": 3,
+     "explanation": "It increases the productive capacity of the economy."
+    },
+    {
+     "question_text": "An input is:",
+     "options": [
+      "A resource used in producing goods",
+      "The price",
+      "The profit",
+      "The goods produced"
+     ],
+     "correct_index": 0,
+     "explanation": "Output is the goods or services produced."
+    },
+    {
+     "question_text": "A production function shows:",
+     "options": [
+      "The technical relationship between inputs and the maximum output",
+      "Costs and prices",
+      "Income and savings",
+      "Demand and supply"
+     ],
+     "correct_index": 0,
+     "explanation": "Output = f(inputs) for a given technology."
+    },
+    {
+     "question_text": "The general form of the production function is:",
+     "options": [
+      "Q = TC/AC",
+      "Q = Y + C",
+      "Q = f(L, K, N, ...)",
+      "Q = P × Q"
+     ],
+     "correct_index": 2,
+     "explanation": "Output depends on labour, capital, land, etc."
+    },
+    {
+     "question_text": "A feature of the production function is that it:",
+     "options": [
+      "Includes prices",
+      "Is related to a given period and technology",
+      "Ignores inputs",
+      "Has no technical basis"
+     ],
+     "correct_index": 1,
+     "explanation": "It also represents the maximum output from given inputs."
+    },
+    {
+     "question_text": "The short run in production is a period in which:",
+     "options": [
+      "All factors are variable",
+      "Technology changes",
+      "No factor is variable",
+      "At least one factor is fixed"
+     ],
+     "correct_index": 3,
+     "explanation": "In the long run all factors are variable."
+    },
+    {
+     "question_text": "The very long run is a period in which:",
+     "options": [
+      "Only one factor changes",
+      "Only labour changes",
+      "Technology and tastes can change along with all factors",
+      "Nothing can change"
+     ],
+     "correct_index": 2,
+     "explanation": "It allows technological change."
+    },
+    {
+     "question_text": "In Cobb–Douglas Q = A·L^α·K^β, α and β represent:",
+     "options": [
+      "Output elasticities of labour and capital",
+      "Wages",
+      "Costs",
+      "Prices"
+     ],
+     "correct_index": 0,
+     "explanation": "They show the percentage change in output for a 1% change in each input."
+    },
+    {
+     "question_text": "If α + β = 1 in a Cobb–Douglas function, returns to scale are:",
+     "options": [
+      "Negative",
+      "Increasing",
+      "Decreasing",
+      "Constant"
+     ],
+     "correct_index": 3,
+     "explanation": "Doubling inputs doubles output."
+    },
+    {
+     "question_text": "A Leontief production function has inputs used in:",
+     "options": [
+      "Variable proportions",
+      "Fixed proportions",
+      "Perfect substitution",
+      "Zero proportion"
+     ],
+     "correct_index": 1,
+     "explanation": "It has L-shaped isoquants with no substitution."
+    },
+    {
+     "question_text": "Total product (TP), average product (AP) and marginal product (MP) respectively mean:",
+     "options": [
+      "Cost; revenue; profit",
+      "Total output; output per unit of variable input; addition to TP from one more unit of input",
+      "Income; savings; investment",
+      "Price; quantity; value"
+     ],
+     "correct_index": 1,
+     "explanation": "They describe output at different levels of input."
+    },
+    {
+     "question_text": "The formulae are:",
+     "options": [
+      "AP = TP/L; MP = ΔTP/ΔL",
+      "AP = MP/L",
+      "AP = TP × L; MP = TP − L",
+      "AP = ΔTP/ΔL; MP = TP/L"
+     ],
+     "correct_index": 0,
+     "explanation": "AP is total divided by units; MP is the change per extra unit."
+    },
+    {
+     "question_text": "The Law of Variable Proportions states that as more of a variable factor is added to fixed factors:",
+     "options": [
+      "MP first rises, then falls, and eventually becomes negative",
+      "MP is always constant",
+      "MP always rises",
+      "TP always rises"
+     ],
+     "correct_index": 0,
+     "explanation": "The returns pass through increasing, diminishing and negative stages."
+    },
+    {
+     "question_text": "The Law of Variable Proportions is also called the Law of Diminishing Returns because:",
+     "options": [
+      "Its main focus is the stage where MP falls",
+      "MP rises forever",
+      "It has no other stage",
+      "TP falls from the start"
+     ],
+     "correct_index": 0,
+     "explanation": "Diminishing returns are its most important result."
+    },
+    {
+     "question_text": "An assumption of the law is:",
+     "options": [
+      "Factors are perfect substitutes",
+      "All factors are variable",
+      "Technology is given and constant",
+      "Technology improves"
+     ],
+     "correct_index": 2,
+     "explanation": "At least one factor is fixed and units of variable factor are homogeneous."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Production Analysis – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A schedule with MP = 8, 12, 10, 6, 0, −4 for successive workers shows:",
+     "options": [
+      "Only increasing returns",
+      "Only negative returns",
+      "Constant returns",
+      "Increasing, diminishing and then negative returns"
+     ],
+     "correct_index": 3,
+     "explanation": "MP rises, then falls, reaches zero, then turns negative."
+    },
+    {
+     "question_text": "In the diagram of the law, the MP curve is:",
+     "options": [
+      "Always rising",
+      "Always falling",
+      "Horizontal",
+      "Inverted U-shaped and cuts the AP curve at its maximum"
+     ],
+     "correct_index": 3,
+     "explanation": "MP rises, then falls, and passes through AP's peak."
+    },
+    {
+     "question_text": "Stage I of production is where AP is:",
+     "options": [
+      "Negative",
+      "Zero",
+      "Rising up to its maximum",
+      "Falling"
+     ],
+     "correct_index": 2,
+     "explanation": "Stage II is from maximum AP to zero MP; Stage III is where MP is negative."
+    },
+    {
+     "question_text": "Stage II is the rational stage because:",
+     "options": [
+      "TP rises at a diminishing rate and MP is positive but falling, with efficient use of factors",
+      "MP is negative",
+      "Factors are idle",
+      "TP is falling"
+     ],
+     "correct_index": 0,
+     "explanation": "A producer operates here to maximise output efficiently."
+    },
+    {
+     "question_text": "A rational producer never operates in Stage III because:",
+     "options": [
+      "AP is rising",
+      "MP is negative, so adding labour reduces TP",
+      "MP is highest",
+      "TP is maximum"
+     ],
+     "correct_index": 1,
+     "explanation": "Reducing the variable input would raise output."
+    },
+    {
+     "question_text": "A producer does not stop in Stage I because:",
+     "options": [
+      "TP is falling",
+      "MP is negative",
+      "AP is still rising, so more input improves efficiency",
+      "Cost is high"
+     ],
+     "correct_index": 2,
+     "explanation": "The fixed factor is not yet fully utilised."
+    },
+    {
+     "question_text": "A cause of increasing returns is:",
+     "options": [
+      "Better utilisation of fixed factors and specialisation",
+      "Poor management",
+      "Diminishing fertility",
+      "Over-crowding"
+     ],
+     "correct_index": 0,
+     "explanation": "Initially the fixed factor is underused."
+    },
+    {
+     "question_text": "A cause of diminishing returns is:",
+     "options": [
+      "Imperfect substitutability of factors and overuse of the fixed factor",
+      "Underuse of the fixed factor",
+      "Indivisibility",
+      "Specialisation"
+     ],
+     "correct_index": 0,
+     "explanation": "The fixed factor becomes over-crowded relative to the variable factor."
+    },
+    {
+     "question_text": "A cause of negative returns is:",
+     "options": [
+      "Greater skill",
+      "Specialisation",
+      "Over-crowding and poor coordination of too many workers",
+      "Better technology"
+     ],
+     "correct_index": 2,
+     "explanation": "Extra workers get in each other's way."
+    },
+    {
+     "question_text": "When MP is positive, TP:",
+     "options": [
+      "Is constant",
+      "Is zero",
+      "Rises",
+      "Falls"
+     ],
+     "correct_index": 2,
+     "explanation": "TP rises as long as MP is positive."
+    },
+    {
+     "question_text": "TP is maximum when:",
+     "options": [
+      "MP is maximum",
+      "AP is maximum",
+      "MP is negative",
+      "MP = 0"
+     ],
+     "correct_index": 3,
+     "explanation": "After that TP falls."
+    },
+    {
+     "question_text": "When MP is above AP, AP:",
+     "options": [
+      "Is constant",
+      "Falls",
+      "Is zero",
+      "Rises"
+     ],
+     "correct_index": 3,
+     "explanation": "When MP is below AP, AP falls."
+    },
+    {
+     "question_text": "MP cuts AP at AP's maximum because:",
+     "options": [
+      "MP is zero",
+      "AP is constant",
+      "MP is always less than AP",
+      "Marginal values pull the average up when above and down when below it"
+     ],
+     "correct_index": 3,
+     "explanation": "At the crossing MP = AP."
+    },
+    {
+     "question_text": "L = 1–5, TP = 8, 20, 36, 48, 54. The MP for the 3rd worker and AP for 4 workers are:",
+     "options": [
+      "12 and 16",
+      "8 and 10",
+      "20 and 8",
+      "16 and 12"
+     ],
+     "correct_index": 3,
+     "explanation": "MP3 = 36 − 20 = 16; AP4 = 48/4 = 12."
+    },
+    {
+     "question_text": "L = 1–4, MP = 10, 14, 12, 8. TP at 3 workers and AP at 4 workers are:",
+     "options": [
+      "36 and 12",
+      "44 and 9",
+      "24 and 11",
+      "36 and 11"
+     ],
+     "correct_index": 3,
+     "explanation": "TP3 = 10 + 14 + 12 = 36; TP4 = 44, AP4 = 11."
+    },
+    {
+     "question_text": "MP = 5, 9, 12, 10, 6. Diminishing returns begin at labour unit:",
+     "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+     ],
+     "correct_index": 3,
+     "explanation": "MP peaks at the 3rd unit and falls from the 4th."
+    },
+    {
+     "question_text": "MP = 12, 8, 4, 0, −3. TP is maximum at:",
+     "options": [
+      "1st unit",
+      "3rd unit",
+      "5th unit",
+      "4th unit"
+     ],
+     "correct_index": 3,
+     "explanation": "TP is maximum where MP = 0, i.e., after the 4th unit."
+    },
+    {
+     "question_text": "The law of variable proportions applies to agriculture because:",
+     "options": [
+      "Nature gives unlimited land",
+      "Land is fixed and extra labour/capital has diminishing returns",
+      "Land can be increased",
+      "Land is variable"
+     ],
+     "correct_index": 1,
+     "explanation": "Intensive cultivation hits diminishing returns."
+    },
+    {
+     "question_text": "About the law in industry:",
+     "options": [
+      "It does not apply",
+      "Industry has unlimited factors",
+      "It applies only in the long run",
+      "It applies when at least one factor (e.g., plant size) is fixed in the short run"
+     ],
+     "correct_index": 3,
+     "explanation": "Any production with a fixed factor shows these stages."
+    },
+    {
+     "question_text": "Technological improvement:",
+     "options": [
+      "Eliminates all stages",
+      "Has no effect",
+      "Hastens diminishing returns",
+      "Delays diminishing returns by raising productivity"
+     ],
+     "correct_index": 3,
+     "explanation": "It shifts the production function upward."
+    },
+    {
+     "question_text": "The Law of Variable Proportions differs from Returns to Scale in that it:",
+     "options": [
+      "Applies in the long run",
+      "Changes one input keeping others fixed",
+      "Applies to firms only",
+      "Changes all inputs in same proportion"
+     ],
+     "correct_index": 1,
+     "explanation": "Returns to scale are long-run changes in all inputs."
+    },
+    {
+     "question_text": "Returns to scale refer to:",
+     "options": [
+      "Change in output when all inputs change in the same proportion",
+      "Change in price",
+      "Change in cost",
+      "Change in output when one input changes"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a long-run concept."
+    },
+    {
+     "question_text": "The three types of returns to scale are:",
+     "options": [
+      "Positive, negative and zero",
+      "Increasing, constant and decreasing",
+      "High, low and medium",
+      "Fixed, variable and marginal"
+     ],
+     "correct_index": 1,
+     "explanation": "Output rises more than, equal to, or less than proportionately."
+    },
+    {
+     "question_text": "Increasing returns to scale occur when:",
+     "options": [
+      "Output falls",
+      "Doubling inputs less than doubles output",
+      "Doubling inputs doubles output",
+      "Doubling inputs more than doubles output"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., large factories gain from specialisation."
+    },
+    {
+     "question_text": "Constant returns to scale occur when:",
+     "options": [
+      "Output less than doubles",
+      "Output more than doubles",
+      "Output halves",
+      "Doubling inputs doubles output"
+     ],
+     "correct_index": 3,
+     "explanation": "Output changes in the same proportion as inputs."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Production Analysis – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Decreasing returns to scale occur when:",
+     "options": [
+      "Output is constant",
+      "Doubling inputs less than doubles output",
+      "Doubling inputs more than doubles output",
+      "Doubling inputs doubles output"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., management problems in a huge firm."
+    },
+    {
+     "question_text": "A cause of increasing returns to scale is:",
+     "options": [
+      "Over-crowding",
+      "Indivisibility of factors and specialisation",
+      "Managerial difficulties",
+      "Resource depletion"
+     ],
+     "correct_index": 1,
+     "explanation": "Large scale allows better division of labour."
+    },
+    {
+     "question_text": "A cause of decreasing returns to scale is:",
+     "options": [
+      "Managerial diseconomies and coordination problems",
+      "Division of labour",
+      "Indivisibility",
+      "Specialisation"
+     ],
+     "correct_index": 0,
+     "explanation": "Very large firms are hard to manage."
+    },
+    {
+     "question_text": "A cause of constant returns to scale is:",
+     "options": [
+      "Balance between internal economies and diseconomies",
+      "Only management problems",
+      "Zero output",
+      "Only specialisation"
+     ],
+     "correct_index": 0,
+     "explanation": "Increasing and decreasing effects offset each other."
+    },
+    {
+     "question_text": "Inputs double and output rises by 120%. Returns to scale are:",
+     "options": [
+      "Negative",
+      "Constant",
+      "Increasing",
+      "Decreasing"
+     ],
+     "correct_index": 2,
+     "explanation": "Output more than doubles (+120% > +100%)."
+    },
+    {
+     "question_text": "Inputs double and output doubles. Returns to scale are:",
+     "options": [
+      "Constant",
+      "Increasing",
+      "Decreasing",
+      "Negative"
+     ],
+     "correct_index": 0,
+     "explanation": "Output rises in the same proportion."
+    },
+    {
+     "question_text": "Inputs rise by 50% and output rises by 30%. Returns to scale are:",
+     "options": [
+      "Increasing",
+      "Constant",
+      "Decreasing",
+      "Infinite"
+     ],
+     "correct_index": 2,
+     "explanation": "Output rises less than proportionately."
+    },
+    {
+     "question_text": "In Q = L^0.6·K^0.6, the sum of exponents is 1.2, so returns to scale are:",
+     "options": [
+      "Constant",
+      "Increasing",
+      "Zero",
+      "Decreasing"
+     ],
+     "correct_index": 1,
+     "explanation": "Sum > 1 means increasing returns."
+    },
+    {
+     "question_text": "In Q = L^0.3·K^0.4, the sum is 0.7, so returns to scale are:",
+     "options": [
+      "Increasing",
+      "Constant",
+      "Infinite",
+      "Decreasing"
+     ],
+     "correct_index": 3,
+     "explanation": "Sum < 1 means decreasing returns."
+    },
+    {
+     "question_text": "The typical sequence of returns to scale as a firm grows is:",
+     "options": [
+      "Increasing, then constant, then decreasing",
+      "Constant, increasing, decreasing",
+      "Only constant",
+      "Decreasing, constant, increasing"
+     ],
+     "correct_index": 0,
+     "explanation": "Economies are exhausted as size increases."
+    },
+    {
+     "question_text": "Returns to scale differ from returns to a factor in that returns to scale:",
+     "options": [
+      "Vary all factors in proportion (long run)",
+      "Apply in the short run",
+      "Vary one factor",
+      "Apply to labour only"
+     ],
+     "correct_index": 0,
+     "explanation": "Returns to a factor change one input while others stay fixed."
+    },
+    {
+     "question_text": "An isoquant is a curve showing:",
+     "options": [
+      "Combinations of two inputs that produce the same output",
+      "Combinations of two goods giving equal satisfaction",
+      "Equal costs",
+      "Equal revenues"
+     ],
+     "correct_index": 0,
+     "explanation": "Also called an equal-product curve."
+    },
+    {
+     "question_text": "An isoquant map is:",
+     "options": [
+      "A budget line",
+      "A single isoquant",
+      "A cost curve",
+      "A set of isoquants, with higher ones showing greater output"
+     ],
+     "correct_index": 3,
+     "explanation": "It represents different output levels."
+    },
+    {
+     "question_text": "An isoquant schedule with 5 combinations of labour and capital shows:",
+     "options": [
+      "Rising costs",
+      "Different outputs",
+      "Different inputs yielding the same output",
+      "Rising prices"
+     ],
+     "correct_index": 2,
+     "explanation": "Plot the combinations and join them."
+    },
+    {
+     "question_text": "MRTS is the rate at which one input can be substituted for another:",
+     "options": [
+      "Keeping utility constant",
+      "Keeping cost constant",
+      "Keeping output constant",
+      "Keeping price constant"
+     ],
+     "correct_index": 2,
+     "explanation": "MRTS = −ΔK/ΔL."
+    },
+    {
+     "question_text": "MRTS diminishes because:",
+     "options": [
+      "Inputs are perfect substitutes",
+      "Output falls",
+      "Prices rise",
+      "Inputs are imperfect substitutes; as more of one is used, it replaces less of the other"
+     ],
+     "correct_index": 3,
+     "explanation": "This gives convex isoquants."
+    },
+    {
+     "question_text": "MRTS of L for K equals:",
+     "options": [
+      "MPL / MPK",
+      "TP / L",
+      "PL × PK",
+      "MPK / MPL"
+     ],
+     "correct_index": 0,
+     "explanation": "The ratio of marginal products."
+    },
+    {
+     "question_text": "A property of isoquants is that they:",
+     "options": [
+      "Slope downward and are convex to the origin",
+      "Intersect",
+      "Slope upward",
+      "Touch axes"
+     ],
+     "correct_index": 0,
+     "explanation": "Also, higher isoquants mean more output."
+    },
+    {
+     "question_text": "The isoquant is convex because of:",
+     "options": [
+      "Zero MRTS",
+      "Increasing MRTS",
+      "Constant MRTS",
+      "Diminishing MRTS"
+     ],
+     "correct_index": 3,
+     "explanation": "Inputs are not perfectly substitutable."
+    },
+    {
+     "question_text": "Two isoquants cannot intersect because:",
+     "options": [
+      "Costs would be zero",
+      "One point would show two different output levels",
+      "Output would be the same",
+      "Prices would change"
+     ],
+     "correct_index": 1,
+     "explanation": "Each isoquant represents a unique output."
+    },
+    {
+     "question_text": "The isoquant slopes downward because:",
+     "options": [
+      "More of one input requires less of the other to keep output constant",
+      "Both inputs increase",
+      "Costs fall",
+      "Output falls"
+     ],
+     "correct_index": 0,
+     "explanation": "Substitution of inputs."
+    },
+    {
+     "question_text": "Isoquants for perfect substitutes are:",
+     "options": [
+      "Vertical",
+      "Straight lines",
+      "Convex",
+      "L-shaped"
+     ],
+     "correct_index": 1,
+     "explanation": "MRTS is constant."
+    },
+    {
+     "question_text": "Isoquants for perfect complements are:",
+     "options": [
+      "Concave",
+      "Convex",
+      "L-shaped, e.g., a taxi and a driver",
+      "Straight lines"
+     ],
+     "correct_index": 2,
+     "explanation": "Inputs are used in fixed proportion."
+    },
+    {
+     "question_text": "Ridge lines are:",
+     "options": [
+      "Budget lines",
+      "Lines that separate the economic region from the uneconomic regions of isoquants",
+      "Lines joining equal outputs",
+      "Cost curves"
+     ],
+     "correct_index": 1,
+     "explanation": "Beyond them isoquants slope upward."
+    },
+    {
+     "question_text": "The economic region of production is where:",
+     "options": [
+      "Isoquants slope downward, between the ridge lines",
+      "Isoquants intersect",
+      "MP is negative",
+      "Isoquants slope upward"
+     ],
+     "correct_index": 0,
+     "explanation": "The producer uses both inputs positively."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Production Analysis – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Isoquants slope upward outside ridge lines because:",
+     "options": [
+      "Inputs are free",
+      "MP of one input is negative there",
+      "MP is high",
+      "Prices are low"
+     ],
+     "correct_index": 1,
+     "explanation": "More of both inputs would be needed to keep output constant."
+    },
+    {
+     "question_text": "An isoquant differs from an indifference curve in that an isoquant measures:",
+     "options": [
+      "Prices",
+      "Satisfaction ordinally",
+      "Income",
+      "Output cardinally"
+     ],
+     "correct_index": 3,
+     "explanation": "Output can be measured; satisfaction cannot."
+    },
+    {
+     "question_text": "MRS differs from MRTS in that MRS relates to:",
+     "options": [
+      "Goods in consumption; MRTS to inputs in production",
+      "Production; consumption",
+      "Prices",
+      "Costs"
+     ],
+     "correct_index": 0,
+     "explanation": "MRS compares utility; MRTS compares output."
+    },
+    {
+     "question_text": "Capital falls from 12 to 8 when labour rises from 1 to 2. MRTS is:",
+     "options": [
+      "0.25",
+      "2",
+      "8",
+      "4"
+     ],
+     "correct_index": 3,
+     "explanation": "4 units of capital are given up for 1 unit of labour."
+    },
+    {
+     "question_text": "An isoquant for fixed-proportion labour and machines is:",
+     "options": [
+      "Straight",
+      "Concave",
+      "Convex",
+      "L-shaped"
+     ],
+     "correct_index": 3,
+     "explanation": "No substitution between inputs is possible."
+    },
+    {
+     "question_text": "Output can be labelled on an isoquant but not on an indifference curve because:",
+     "options": [
+      "Output is measurable, utility is not",
+      "Cost is fixed",
+      "Output is ordinal",
+      "Utility is cardinal"
+     ],
+     "correct_index": 0,
+     "explanation": "Output is physical; utility is subjective."
+    },
+    {
+     "question_text": "The law of variable proportions is a short-run law because:",
+     "options": [
+      "At least one factor is fixed",
+      "Technology changes",
+      "All factors are variable",
+      "Prices change"
+     ],
+     "correct_index": 0,
+     "explanation": "In the long run, all factors can change."
+    },
+    {
+     "question_text": "The point of inflection on the TP curve is where:",
+     "options": [
+      "MP is zero",
+      "AP is zero",
+      "MP is maximum",
+      "TP is zero"
+     ],
+     "correct_index": 2,
+     "explanation": "TP changes from increasing to decreasing rate."
+    },
+    {
+     "question_text": "The point where AP is maximum marks:",
+     "options": [
+      "The start of production",
+      "The end of Stage II",
+      "The start of Stage III",
+      "The end of Stage I"
+     ],
+     "correct_index": 3,
+     "explanation": "At this point MP = AP."
+    },
+    {
+     "question_text": "In Stage I TP rises at an increasing rate, in Stage II it:",
+     "options": [
+      "Rises at a diminishing rate",
+      "Is constant",
+      "Falls",
+      "Is zero"
+     ],
+     "correct_index": 0,
+     "explanation": "In Stage III, TP falls."
+    },
+    {
+     "question_text": "The production function is mainly a:",
+     "options": [
+      "Price relationship",
+      "Income relationship",
+      "Technical relationship between inputs and output",
+      "Tax relationship"
+     ],
+     "correct_index": 2,
+     "explanation": "But which techniques are chosen is an economic decision."
+    },
+    {
+     "question_text": "The production function changes with technology because:",
+     "options": [
+      "Better technology gives more output from the same inputs",
+      "It reduces output",
+      "It fixes inputs",
+      "It has no effect"
+     ],
+     "correct_index": 0,
+     "explanation": "The function shifts upward."
+    },
+    {
+     "question_text": "A labour-intensive technique:",
+     "options": [
+      "Uses no labour",
+      "Uses more capital relative to labour",
+      "Uses more labour relative to capital",
+      "Uses no capital"
+     ],
+     "correct_index": 2,
+     "explanation": "Capital-intensive uses more machines."
+    },
+    {
+     "question_text": "A firm chooses between techniques by comparing:",
+     "options": [
+      "Tax rates",
+      "Relative factor prices and productivity",
+      "Exchange rates",
+      "Consumer tastes"
+     ],
+     "correct_index": 1,
+     "explanation": "It picks the least-cost combination."
+    },
+    {
+     "question_text": "A limitation of the production function concept is that it:",
+     "options": [
+      "Includes prices",
+      "Assumes given technology and ignores some qualitative aspects",
+      "Is always dynamic",
+      "Ignores inputs"
+     ],
+     "correct_index": 1,
+     "explanation": "Real production is more complex."
+    },
+    {
+     "question_text": "An example of diminishing returns is:",
+     "options": [
+      "Larger factories",
+      "Technological progress",
+      "Adding more workers to a fixed-size kitchen eventually reduces extra output",
+      "Specialisation"
+     ],
+     "correct_index": 2,
+     "explanation": "Crowding limits additional output."
+    },
+    {
+     "question_text": "An example of increasing returns is:",
+     "options": [
+      "Exhausted soil",
+      "Hiring specialists for a small team so extra output rises more than proportionately",
+      "Lack of coordination",
+      "Over-crowded workers"
+     ],
+     "correct_index": 1,
+     "explanation": "Better use of fixed factors."
+    },
+    {
+     "question_text": "Indivisibility of factors causes increasing returns to scale because:",
+     "options": [
+      "Machines can be divided",
+      "Inputs are small",
+      "Large machines can be used fully only at larger output",
+      "Labour is divisible"
+     ],
+     "correct_index": 2,
+     "explanation": "Large-scale production spreads fixed inputs."
+    },
+    {
+     "question_text": "Managerial diseconomies cause decreasing returns to scale because:",
+     "options": [
+      "Costs fall",
+      "Coordination and control become difficult in very large firms",
+      "Workers specialise",
+      "Management improves"
+     ],
+     "correct_index": 1,
+     "explanation": "Efficiency of management falls."
+    },
+    {
+     "question_text": "A production function differs from a cost function in that the production function relates:",
+     "options": [
+      "Price to demand",
+      "Revenue to profit",
+      "Output to price",
+      "Inputs to output; cost function relates output to costs"
+     ],
+     "correct_index": 3,
+     "explanation": "Cost depends on input prices and production function."
+    },
+    {
+     "question_text": "The economic region is where a producer operates because:",
+     "options": [
+      "MPs of both inputs are positive",
+      "Isoquants slope upward",
+      "MPs are negative",
+      "Costs are zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Outside it, extra input reduces output."
+    },
+    {
+     "question_text": "The marginal product of labour is illustrated when:",
+     "options": [
+      "Price of goods",
+      "Extra output from hiring one more worker in a shop",
+      "Total output of the shop",
+      "Profit"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the change in output per extra worker."
+    },
+    {
+     "question_text": "The optimum factor combination is where:",
+     "options": [
+      "Output is zero",
+      "Costs are maximum",
+      "Prices are highest",
+      "Cost of producing a given output is minimum"
+     ],
+     "correct_index": 3,
+     "explanation": "It is where MRTS = PL/PK."
+    },
+    {
+     "question_text": "The production function is for a given technology because:",
+     "options": [
+      "It is unaffected by technology",
+      "The input-output relationship depends on technical knowledge",
+      "Prices change",
+      "Costs fall"
+     ],
+     "correct_index": 1,
+     "explanation": "A new technique requires a new function."
+    },
+    {
+     "question_text": "Fixed factors are those that:",
+     "options": [
+      "Cannot be changed in the short run (e.g., plant), while variable factors can (e.g., raw materials)",
+      "Are free",
+      "Are land only",
+      "Can always be changed"
+     ],
+     "correct_index": 0,
+     "explanation": "Variable factors change with output."
+    }
+   ]
+  }
+ ]
+}

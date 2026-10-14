@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 7: Analysis of Market Structure – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "In economics, a market refers to:",
+     "options": [
+      "A fair",
+      "Any arrangement where buyers and sellers are in contact to exchange a good",
+      "A shop",
+      "A physical place only"
+     ],
+     "correct_index": 1,
+     "explanation": "It need not be a fixed place."
+    },
+    {
+     "question_text": "According to Cournot, a market is:",
+     "options": [
+      "A shopping mall",
+      "The entire region in which buyers and sellers are in such free intercourse that prices tend to equality",
+      "A fair",
+      "A particular place"
+     ],
+     "correct_index": 1,
+     "explanation": "The key idea is one price for the same good."
+    },
+    {
+     "question_text": "Which is an essential of a market?",
+     "options": [
+      "Fixed prices",
+      "A building",
+      "Government",
+      "A commodity, buyers and sellers, and contact between them"
+     ],
+     "correct_index": 3,
+     "explanation": "Also a price for the commodity."
+    },
+    {
+     "question_text": "A market is always a physical place:",
+     "options": [
+      "True for stocks",
+      "True",
+      "True only for farm goods",
+      "False; markets can be online or by telephone"
+     ],
+     "correct_index": 3,
+     "explanation": "Contact between buyers and sellers is enough."
+    },
+    {
+     "question_text": "Markets based on area are:",
+     "options": [
+      "Local, regional, national and international",
+      "Short-run and long-run",
+      "Perfect and imperfect",
+      "Spot and future"
+     ],
+     "correct_index": 0,
+     "explanation": "Classification is by geographical extent."
+    },
+    {
+     "question_text": "Marshall classified markets by time into:",
+     "options": [
+      "Retail, wholesale",
+      "Local, national",
+      "Very short period, short period, long period and secular period",
+      "Spot, future"
+     ],
+     "correct_index": 2,
+     "explanation": "Time determines how supply can adjust."
+    },
+    {
+     "question_text": "On the basis of competition, markets are:",
+     "options": [
+      "Wholesale and retail",
+      "Perfect and imperfect",
+      "Local and global",
+      "Spot and future"
+     ],
+     "correct_index": 1,
+     "explanation": "Imperfect includes monopoly, monopolistic competition and oligopoly."
+    },
+    {
+     "question_text": "Wholesale markets differ from retail markets in that wholesale deals in:",
+     "options": [
+      "Large quantities with traders; retail sells small quantities to consumers",
+      "Small quantities",
+      "Only farm goods",
+      "Only foreign goods"
+     ],
+     "correct_index": 0,
+     "explanation": "Retailers are the final link to consumers."
+    },
+    {
+     "question_text": "Spot markets differ from future markets in that spot market transactions are:",
+     "options": [
+      "Settled immediately; futures are for delivery at a later date",
+      "Local",
+      "Delayed; immediate",
+      "Illegal"
+     ],
+     "correct_index": 0,
+     "explanation": "Futures fix prices in advance."
+    },
+    {
+     "question_text": "Which factor determines market structure?",
+     "options": [
+      "Currency",
+      "Weather",
+      "Taxes",
+      "Number of buyers and sellers, product type and entry barriers"
+     ],
+     "correct_index": 3,
+     "explanation": "These define the degree of competition."
+    },
+    {
+     "question_text": "Which market structure has a single seller?",
+     "options": [
+      "Monopoly",
+      "Perfect competition",
+      "Monopolistic competition",
+      "Oligopoly"
+     ],
+     "correct_index": 0,
+     "explanation": "Others have many or few sellers."
+    },
+    {
+     "question_text": "Perfect competition is a market with:",
+     "options": [
+      "A single seller",
+      "Few sellers",
+      "Many buyers and sellers selling a homogeneous product, with free entry and exit",
+      "Differentiated products"
+     ],
+     "correct_index": 2,
+     "explanation": "No individual can influence price."
+    },
+    {
+     "question_text": "Which is a feature of perfect competition?",
+     "options": [
+      "Product differentiation",
+      "Price making by firms",
+      "Barriers to entry",
+      "Perfect knowledge of the market"
+     ],
+     "correct_index": 3,
+     "explanation": "Also many sellers and homogeneous products."
+    },
+    {
+     "question_text": "Products must be homogeneous in perfect competition so that:",
+     "options": [
+      "Prices differ",
+      "Firms can price discriminate",
+      "Sellers have brands",
+      "Buyers do not prefer one seller, giving a single price"
+     ],
+     "correct_index": 3,
+     "explanation": "Identical products must sell at the same price."
+    },
+    {
+     "question_text": "Free entry and exit is essential because:",
+     "options": [
+      "It restricts competition",
+      "It ensures only normal profit in the long run",
+      "It raises prices",
+      "It creates monopolies"
+     ],
+     "correct_index": 1,
+     "explanation": "Supernormal profit attracts entrants."
+    },
+    {
+     "question_text": "A firm is a price taker in perfect competition because:",
+     "options": [
+      "It sets the price",
+      "It has no competitors",
+      "It is a monopolist",
+      "Its output is a tiny share of the market"
+     ],
+     "correct_index": 3,
+     "explanation": "It must accept the market price."
+    },
+    {
+     "question_text": "The demand curve for a competitive firm is horizontal because:",
+     "options": [
+      "Demand is inelastic",
+      "Price falls with output",
+      "It can sell any quantity at the market price",
+      "Price rises"
+     ],
+     "correct_index": 2,
+     "explanation": "It is perfectly elastic at that price."
+    },
+    {
+     "question_text": "AR = MR = P under perfect competition because:",
+     "options": [
+      "Price falls",
+      "Price is constant for all units",
+      "Demand is inelastic",
+      "Cost is constant"
+     ],
+     "correct_index": 1,
+     "explanation": "Each unit sells at the same price."
+    },
+    {
+     "question_text": "Pure competition differs from perfect competition in that pure competition lacks:",
+     "options": [
+      "Free entry",
+      "Homogeneous products",
+      "Many sellers",
+      "Perfect knowledge and perfect mobility"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a narrower concept."
+    },
+    {
+     "question_text": "Under perfect competition, price is determined by:",
+     "options": [
+      "The firm",
+      "The government",
+      "Foreign producers",
+      "Industry demand and supply"
+     ],
+     "correct_index": 3,
+     "explanation": "The firm takes the price."
+    },
+    {
+     "question_text": "Price is determined by the industry and not the firm because:",
+     "options": [
+      "Firms collude",
+      "The firm's output is negligible relative to the market",
+      "The firm is large",
+      "Costs are zero"
+     ],
+     "correct_index": 1,
+     "explanation": "No single firm can change market supply."
+    },
+    {
+     "question_text": "Short-run equilibrium of a competitive firm requires:",
+     "options": [
+      "P = AVC",
+      "MC = 0",
+      "MR = AC",
+      "MR = MC and MC rising at that output"
+     ],
+     "correct_index": 3,
+     "explanation": "Price = MC at equilibrium."
+    },
+    {
+     "question_text": "Supernormal profit in the short run is when:",
+     "options": [
+      "Price > AC at equilibrium output",
+      "Price = AC",
+      "Price = AVC",
+      "Price < AC"
+     ],
+     "correct_index": 0,
+     "explanation": "AR is above AC."
+    },
+    {
+     "question_text": "Normal profit in the short run is when:",
+     "options": [
+      "Price > AC",
+      "Price < AC",
+      "Price = AC",
+      "Price = 0"
+     ],
+     "correct_index": 2,
+     "explanation": "AR just covers AC."
+    },
+    {
+     "question_text": "A loss-making firm continues producing in the short run if:",
+     "options": [
+      "Price < AFC",
+      "Price = 0",
+      "Price > AVC",
+      "Price < AVC"
+     ],
+     "correct_index": 2,
+     "explanation": "It covers variable costs and part of fixed costs."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Analysis of Market Structure – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A competitive firm shuts down when:",
+     "options": [
+      "Price < minimum AVC",
+      "Price = MC",
+      "Price > AC",
+      "Price = AC"
+     ],
+     "correct_index": 0,
+     "explanation": "It cannot cover variable costs."
+    },
+    {
+     "question_text": "The firm's supply curve in perfect competition is:",
+     "options": [
+      "The whole MC curve",
+      "The part of the MC curve above minimum AVC",
+      "The AC curve",
+      "The AFC curve"
+     ],
+     "correct_index": 1,
+     "explanation": "The firm supplies where P = MC."
+    },
+    {
+     "question_text": "Long-run equilibrium of a competitive firm requires:",
+     "options": [
+      "P < AC",
+      "P > AC",
+      "P = MR = MC = minimum LAC",
+      "MC = 0"
+     ],
+     "correct_index": 2,
+     "explanation": "It earns only normal profit."
+    },
+    {
+     "question_text": "Firms earn only normal profit in the long run because:",
+     "options": [
+      "Demand is zero",
+      "Entry and exit eliminate supernormal profit or loss",
+      "Prices are fixed",
+      "Costs are zero"
+     ],
+     "correct_index": 1,
+     "explanation": "Entry competes profit away."
+    },
+    {
+     "question_text": "If there are supernormal profits in the industry:",
+     "options": [
+      "Price rises",
+      "New firms enter, increasing supply and reducing price",
+      "Output falls",
+      "Firms exit"
+     ],
+     "correct_index": 1,
+     "explanation": "Profit falls until normal."
+    },
+    {
+     "question_text": "If firms are making losses in the industry:",
+     "options": [
+      "New firms enter",
+      "Output rises",
+      "Some firms exit, reducing supply and raising price",
+      "Price falls"
+     ],
+     "correct_index": 2,
+     "explanation": "Exit continues until losses disappear."
+    },
+    {
+     "question_text": "Perfect competition is efficient because:",
+     "options": [
+      "Price exceeds MC",
+      "Price equals MC and output is at minimum AC",
+      "Costs are high",
+      "Output is limited"
+     ],
+     "correct_index": 1,
+     "explanation": "Both allocative and productive efficiency are achieved."
+    },
+    {
+     "question_text": "A merit of perfect competition is:",
+     "options": [
+      "Large profits",
+      "Product variety",
+      "Optimum use of resources and low prices",
+      "High prices"
+     ],
+     "correct_index": 2,
+     "explanation": "It benefits consumers."
+    },
+    {
+     "question_text": "A demerit of perfect competition is:",
+     "options": [
+      "Waste of resources",
+      "No product variety and little incentive for innovation",
+      "Price above MC",
+      "Barriers to entry"
+     ],
+     "correct_index": 1,
+     "explanation": "All products are identical."
+    },
+    {
+     "question_text": "A constant-cost industry is one in which:",
+     "options": [
+      "Output is fixed",
+      "Long-run costs remain the same as the industry expands",
+      "Costs rise",
+      "Costs fall"
+     ],
+     "correct_index": 1,
+     "explanation": "An increasing-cost industry has rising costs; a decreasing-cost industry has falling costs."
+    },
+    {
+     "question_text": "Perfect competition is:",
+     "options": [
+      "Rare in reality; agriculture and stock markets come close",
+      "Impossible",
+      "Very common",
+      "Common in oligopoly"
+     ],
+     "correct_index": 0,
+     "explanation": "Most markets are imperfect."
+    },
+    {
+     "question_text": "Imperfect competition arises because of:",
+     "options": [
+      "Free mobility",
+      "Perfect knowledge",
+      "Homogeneous goods",
+      "Product differentiation, few sellers or barriers to entry"
+     ],
+     "correct_index": 3,
+     "explanation": "These give firms market power."
+    },
+    {
+     "question_text": "Monopoly is a market with:",
+     "options": [
+      "Few sellers",
+      "Many sellers",
+      "A single seller of a product with no close substitutes",
+      "Two sellers"
+     ],
+     "correct_index": 2,
+     "explanation": "The seller is the industry."
+    },
+    {
+     "question_text": "Which is a feature of monopoly?",
+     "options": [
+      "Free entry",
+      "Many sellers",
+      "Homogeneous products",
+      "Single seller and barriers to entry"
+     ],
+     "correct_index": 3,
+     "explanation": "The monopolist is a price maker."
+    },
+    {
+     "question_text": "A source of monopoly power is:",
+     "options": [
+      "Perfect knowledge",
+      "Many firms",
+      "Free entry",
+      "Patents and legal rights"
+     ],
+     "correct_index": 3,
+     "explanation": "Others: control of raw materials, economies of scale."
+    },
+    {
+     "question_text": "Patents and copyrights create monopoly by:",
+     "options": [
+      "Allowing free copying",
+      "Increasing competition",
+      "Giving exclusive rights to produce or sell an invention or work",
+      "Lowering prices"
+     ],
+     "correct_index": 2,
+     "explanation": "They bar others from using the invention."
+    },
+    {
+     "question_text": "A natural monopoly arises when:",
+     "options": [
+      "Barriers are absent",
+      "Costs are rising",
+      "Many firms exist",
+      "Economies of scale make a single firm the cheapest supplier, e.g., electricity distribution"
+     ],
+     "correct_index": 3,
+     "explanation": "It is cheaper for one firm to serve the market."
+    },
+    {
+     "question_text": "Under monopoly, the AR and MR curves are:",
+     "options": [
+      "Horizontal",
+      "Upward sloping",
+      "Identical",
+      "Downward sloping, with MR below AR"
+     ],
+     "correct_index": 3,
+     "explanation": "MR lies below AR."
+    },
+    {
+     "question_text": "The monopolist's equilibrium condition is:",
+     "options": [
+      "MR = AR",
+      "P = MC",
+      "MR = MC with MC cutting MR from below",
+      "AR = AC"
+     ],
+     "correct_index": 2,
+     "explanation": "He charges the price on the demand curve at that output."
+    },
+    {
+     "question_text": "A monopolist earns supernormal profit when:",
+     "options": [
+      "MR = 0",
+      "AR < AC",
+      "AR = AC",
+      "AR > AC at equilibrium output"
+     ],
+     "correct_index": 3,
+     "explanation": "The profit area is the rectangle between AR and AC."
+    },
+    {
+     "question_text": "A monopolist:",
+     "options": [
+      "Never incurs losses",
+      "Has no costs",
+      "Can incur losses if AR < AC at every output",
+      "Always makes supernormal profit"
+     ],
+     "correct_index": 2,
+     "explanation": "Demand may be too weak to cover cost."
+    },
+    {
+     "question_text": "A monopolist operates in the elastic portion of demand because:",
+     "options": [
+      "MR is negative there",
+      "Costs are zero",
+      "Demand is inelastic",
+      "MR is positive only where Ed > 1, which is needed for MR = MC"
+     ],
+     "correct_index": 3,
+     "explanation": "MC is positive."
+    },
+    {
+     "question_text": "A monopolist has no supply curve because:",
+     "options": [
+      "Price is fixed",
+      "MC is zero",
+      "Output and price are decided together from the demand curve",
+      "Output is infinite"
+     ],
+     "correct_index": 2,
+     "explanation": "There is no unique price–quantity relationship."
+    },
+    {
+     "question_text": "Price discrimination is:",
+     "options": [
+      "Fixing a maximum price",
+      "Charging different prices for the same product to different buyers",
+      "Selling below cost",
+      "Charging one price"
+     ],
+     "correct_index": 1,
+     "explanation": "The price differences are not based on cost."
+    },
+    {
+     "question_text": "A condition for price discrimination is:",
+     "options": [
+      "Markets are linked",
+      "Markets can be separated and elasticities differ",
+      "Resale is easy",
+      "Elasticities are equal"
+     ],
+     "correct_index": 1,
+     "explanation": "Resale must be prevented."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Analysis of Market Structure – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Third-degree price discrimination means:",
+     "options": [
+      "Different prices for each unit",
+      "No price differences",
+      "Different prices for different groups of buyers/markets",
+      "Perfect discrimination for each buyer"
+     ],
+     "correct_index": 2,
+     "explanation": "First-degree is perfect discrimination; second-degree depends on quantity."
+    },
+    {
+     "question_text": "An example of price discrimination in India is:",
+     "options": [
+      "One price for all",
+      "Different cinema ticket prices for different groups or times",
+      "Fixed prices for all",
+      "Free supply"
+     ],
+     "correct_index": 1,
+     "explanation": "Railways and electricity tariffs also discriminate."
+    },
+    {
+     "question_text": "A discriminating monopolist decides prices by equating:",
+     "options": [
+      "AR in each market",
+      "MC with the MR in each market",
+      "Price in both markets",
+      "AC in each market"
+     ],
+     "correct_index": 1,
+     "explanation": "Total MR = MC, and each market's MR equals MC."
+    },
+    {
+     "question_text": "A higher price is charged in the market with:",
+     "options": [
+      "Zero demand",
+      "More elastic demand",
+      "Less elastic demand",
+      "Unit elasticity"
+     ],
+     "correct_index": 2,
+     "explanation": "Buyers there are less sensitive to price."
+    },
+    {
+     "question_text": "A merit of monopoly is:",
+     "options": [
+      "Economies of scale and resources for research",
+      "Lower output",
+      "Waste",
+      "High prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Large size may lower costs."
+    },
+    {
+     "question_text": "A demerit of monopoly is:",
+     "options": [
+      "Higher price, lower output and exploitation of consumers",
+      "Efficiency",
+      "Wide choice",
+      "Low prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Monopoly restricts output."
+    },
+    {
+     "question_text": "Deadweight loss under monopoly is:",
+     "options": [
+      "Revenue",
+      "Profit",
+      "The welfare loss because output is below the competitive level",
+      "Tax"
+     ],
+     "correct_index": 2,
+     "explanation": "Gains from trade are lost."
+    },
+    {
+     "question_text": "The government can regulate monopoly through:",
+     "options": [
+      "Free entry",
+      "Ignoring it",
+      "Subsidy",
+      "Price controls, antitrust laws and taxation"
+     ],
+     "correct_index": 3,
+     "explanation": "It can also nationalise the monopoly."
+    },
+    {
+     "question_text": "The Competition Commission of India:",
+     "options": [
+      "Prevents anti-competitive practices and promotes competition",
+      "Sets taxes",
+      "Prints money",
+      "Controls inflation"
+     ],
+     "correct_index": 0,
+     "explanation": "It enforces the Competition Act, 2002."
+    },
+    {
+     "question_text": "Compared with perfect competition, monopoly has:",
+     "options": [
+      "Horizontal demand",
+      "Price = MC",
+      "A downward-sloping demand curve and price above MC",
+      "Free entry"
+     ],
+     "correct_index": 2,
+     "explanation": "Price-taker versus price-maker."
+    },
+    {
+     "question_text": "Price is higher and output lower in monopoly because:",
+     "options": [
+      "Competition is intense",
+      "Demand is horizontal",
+      "The monopolist restricts output to raise price where MR = MC",
+      "Costs are lower"
+     ],
+     "correct_index": 2,
+     "explanation": "MR is below price."
+    },
+    {
+     "question_text": "Monopolistic competition is a market with:",
+     "options": [
+      "A single seller",
+      "Few sellers",
+      "Identical products",
+      "Many sellers selling differentiated products"
+     ],
+     "correct_index": 3,
+     "explanation": "Firms have some control over price."
+    },
+    {
+     "question_text": "The theory of monopolistic competition was developed by:",
+     "options": [
+      "Marshall",
+      "Smith",
+      "Keynes",
+      "Edward Chamberlin (and Joan Robinson on imperfect competition)"
+     ],
+     "correct_index": 3,
+     "explanation": "Both published in 1933."
+    },
+    {
+     "question_text": "A feature of monopolistic competition is:",
+     "options": [
+      "Single seller",
+      "Homogeneous products",
+      "Product differentiation and selling costs",
+      "Barriers to entry"
+     ],
+     "correct_index": 2,
+     "explanation": "Entry and exit are free."
+    },
+    {
+     "question_text": "Product differentiation means:",
+     "options": [
+      "Making similar products appear different through brand, quality or packaging",
+      "Selling identical products",
+      "Having one seller",
+      "Setting one price"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., toothpaste, soaps."
+    },
+    {
+     "question_text": "Selling costs differ from production costs in that selling costs:",
+     "options": [
+      "Create or increase demand (e.g., advertising), while production costs create utility",
+      "Are zero",
+      "Make the product",
+      "Are fixed"
+     ],
+     "correct_index": 0,
+     "explanation": "They shift the demand curve."
+    },
+    {
+     "question_text": "Demand under monopolistic competition is more elastic than under monopoly because:",
+     "options": [
+      "Close substitutes are available",
+      "There are no substitutes",
+      "Prices are fixed",
+      "There is one seller"
+     ],
+     "correct_index": 0,
+     "explanation": "Buyers can switch brands."
+    },
+    {
+     "question_text": "Non-price competition includes:",
+     "options": [
+      "Price cuts",
+      "Advertising, packaging and after-sales service",
+      "Taxes",
+      "Price wars"
+     ],
+     "correct_index": 1,
+     "explanation": "Firms compete on features other than price."
+    },
+    {
+     "question_text": "Short-run equilibrium under monopolistic competition is at:",
+     "options": [
+      "MR = MC, with supernormal profit, normal profit or loss possible",
+      "AR = AC always",
+      "MR = AR",
+      "P = MC"
+     ],
+     "correct_index": 0,
+     "explanation": "The firm acts like a monopolist in the short run."
+    },
+    {
+     "question_text": "Long-run equilibrium under monopolistic competition has:",
+     "options": [
+      "P > AC",
+      "P = AC (normal profit) with the demand curve tangent to the AC curve",
+      "P = MC",
+      "P < AC"
+     ],
+     "correct_index": 1,
+     "explanation": "Entry removes supernormal profit."
+    },
+    {
+     "question_text": "Excess capacity arises because the firm produces:",
+     "options": [
+      "Less than the output at minimum AC (optimum scale)",
+      "At maximum output",
+      "Zero output",
+      "More than minimum AC"
+     ],
+     "correct_index": 0,
+     "explanation": "Tangency occurs on the falling part of AC."
+    },
+    {
+     "question_text": "The tangency solution means that in the long run:",
+     "options": [
+      "Demand equals supply",
+      "MC is zero",
+      "AR cuts AC",
+      "The demand curve is tangent to the AC curve"
+     ],
+     "correct_index": 3,
+     "explanation": "Profit is normal."
+    },
+    {
+     "question_text": "A \"group\" in monopolistic competition means:",
+     "options": [
+      "A set of firms producing close substitutes",
+      "A monopoly",
+      "A cartel",
+      "A single firm"
+     ],
+     "correct_index": 0,
+     "explanation": "Chamberlin used the group instead of the industry."
+    },
+    {
+     "question_text": "Compared with perfect competition, monopolistic competition has:",
+     "options": [
+      "Homogeneous products",
+      "Price = MC",
+      "Product differentiation and excess capacity",
+      "Horizontal demand"
+     ],
+     "correct_index": 2,
+     "explanation": "Price is higher and output is lower."
+    },
+    {
+     "question_text": "Compared with monopoly, monopolistic competition has:",
+     "options": [
+      "Many sellers and free entry",
+      "No substitutes",
+      "One seller",
+      "Barriers"
+     ],
+     "correct_index": 0,
+     "explanation": "Demand is more elastic."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Analysis of Market Structure – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Oligopoly is a market with:",
+     "options": [
+      "A few large sellers",
+      "No sellers",
+      "Many sellers",
+      "One seller"
+     ],
+     "correct_index": 0,
+     "explanation": "Firms are interdependent."
+    },
+    {
+     "question_text": "A feature of oligopoly is:",
+     "options": [
+      "Independence",
+      "Free entry",
+      "Many firms",
+      "Interdependence among firms"
+     ],
+     "correct_index": 3,
+     "explanation": "Each firm considers rivals' reactions."
+    },
+    {
+     "question_text": "Types of oligopoly include:",
+     "options": [
+      "Spot and future",
+      "Local and global",
+      "Perfect and imperfect",
+      "Pure/differentiated, collusive/non-collusive"
+     ],
+     "correct_index": 3,
+     "explanation": "Based on product type and cooperation."
+    },
+    {
+     "question_text": "Interdependence in oligopoly means:",
+     "options": [
+      "Firms ignore rivals",
+      "Prices are fixed",
+      "A firm's decisions depend on its rivals' reactions",
+      "Firms act independently"
+     ],
+     "correct_index": 2,
+     "explanation": "Each firm's output and price affect others."
+    },
+    {
+     "question_text": "Demand is indeterminate under oligopoly because:",
+     "options": [
+      "There are no rivals",
+      "Rivals' reactions are uncertain",
+      "Demand is fixed",
+      "Price is fixed"
+     ],
+     "correct_index": 1,
+     "explanation": "The firm cannot predict its demand curve."
+    },
+    {
+     "question_text": "Prices are rigid in oligopoly because:",
+     "options": [
+      "Firms fear price wars and avoid changing prices",
+      "Demand is fixed",
+      "Costs are fixed",
+      "Government fixes prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Price changes may trigger retaliation."
+    },
+    {
+     "question_text": "The kinked demand curve shows that rivals:",
+     "options": [
+      "Match price cuts but not price rises",
+      "Match both",
+      "Ignore both",
+      "Match price rises but not cuts"
+     ],
+     "correct_index": 0,
+     "explanation": "Demand is elastic above the kink and inelastic below it."
+    },
+    {
+     "question_text": "The kinked demand curve model was proposed by:",
+     "options": [
+      "Paul Sweezy",
+      "Chamberlin",
+      "Marshall",
+      "Cournot"
+     ],
+     "correct_index": 0,
+     "explanation": "Sweezy (1939)."
+    },
+    {
+     "question_text": "There is a gap in the MR curve of the kinked model because:",
+     "options": [
+      "The two segments of demand have different slopes at the kink",
+      "MR is zero",
+      "Price is zero",
+      "Demand is vertical"
+     ],
+     "correct_index": 0,
+     "explanation": "MR is discontinuous at the kinked output."
+    },
+    {
+     "question_text": "The kinked demand curve explains price rigidity because:",
+     "options": [
+      "Price changes frequently",
+      "MC can change within the gap without changing price or output",
+      "MC is zero",
+      "Demand is fixed"
+     ],
+     "correct_index": 1,
+     "explanation": "Equilibrium stays at the kink."
+    },
+    {
+     "question_text": "A limitation of the kinked demand model is that it:",
+     "options": [
+      "Does not explain how the original price is determined",
+      "Ignores rigidity",
+      "Explains everything",
+      "Explains price changes"
+     ],
+     "correct_index": 0,
+     "explanation": "It only explains rigidity."
+    },
+    {
+     "question_text": "A cartel is:",
+     "options": [
+      "A tax",
+      "A formal agreement among firms to fix price/output, e.g., OPEC",
+      "A competition",
+      "A merger"
+     ],
+     "correct_index": 1,
+     "explanation": "It acts like a monopoly."
+    },
+    {
+     "question_text": "Cartels are unstable because:",
+     "options": [
+      "Prices are fixed",
+      "Demand is fixed",
+      "Members never cheat",
+      "Members have an incentive to cheat by producing more"
+     ],
+     "correct_index": 3,
+     "explanation": "Cheating undermines agreed quotas."
+    },
+    {
+     "question_text": "Price leadership is when:",
+     "options": [
+      "One firm sets the price and others follow",
+      "Firms compete on price",
+      "Government fixes price",
+      "Price is zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Types include dominant, barometric and low-cost leadership."
+    },
+    {
+     "question_text": "Collusive oligopoly is where:",
+     "options": [
+      "Firms cooperate to fix price or output",
+      "There are no firms",
+      "Government controls prices",
+      "Firms compete"
+     ],
+     "correct_index": 0,
+     "explanation": "It can be formal (cartel) or informal."
+    },
+    {
+     "question_text": "Non-collusive oligopoly is where:",
+     "options": [
+      "There is one firm",
+      "Firms merge",
+      "Firms collude",
+      "Firms act independently, considering rivals' reactions"
+     ],
+     "correct_index": 3,
+     "explanation": "The kinked demand model is an example."
+    },
+    {
+     "question_text": "In the prisoner's dilemma, each player's dominant strategy leads to:",
+     "options": [
+      "A monopoly",
+      "The best outcome for both",
+      "An outcome worse for both than cooperating",
+      "No outcome"
+     ],
+     "correct_index": 2,
+     "explanation": "Both confess even though both would be better off staying silent."
+    },
+    {
+     "question_text": "A Nash equilibrium is:",
+     "options": [
+      "A monopoly",
+      "A position of cooperation",
+      "A position where no player can gain by changing strategy alone",
+      "A loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Each strategy is the best response to the other's."
+    },
+    {
+     "question_text": "In Cournot's duopoly model, each firm:",
+     "options": [
+      "Colludes",
+      "Assumes the rival's output remains constant",
+      "Is a monopolist",
+      "Assumes rival's price remains constant"
+     ],
+     "correct_index": 1,
+     "explanation": "Each chooses output given rival's output."
+    },
+    {
+     "question_text": "A duopoly is a market with:",
+     "options": [
+      "One seller",
+      "Many sellers",
+      "Two sellers",
+      "Two buyers"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a special case of oligopoly."
+    },
+    {
+     "question_text": "Monopsony is a market with:",
+     "options": [
+      "A single buyer, e.g., a sugar mill buying cane from farmers",
+      "A single seller",
+      "Two buyers",
+      "Many buyers"
+     ],
+     "correct_index": 0,
+     "explanation": "The buyer has power over the price paid."
+    },
+    {
+     "question_text": "Bilateral monopoly is where:",
+     "options": [
+      "There are many sellers",
+      "There are two sellers",
+      "There are many buyers",
+      "A single seller faces a single buyer"
+     ],
+     "correct_index": 3,
+     "explanation": "Price depends on bargaining power."
+    },
+    {
+     "question_text": "Advertising is important in oligopoly because:",
+     "options": [
+      "Prices are free",
+      "Products are identical",
+      "There is no rivalry",
+      "Firms use non-price competition to avoid price wars"
+     ],
+     "correct_index": 3,
+     "explanation": "It builds brand loyalty."
+    },
+    {
+     "question_text": "Oligopoly differs from monopolistic competition in that oligopoly has:",
+     "options": [
+      "Few firms with interdependence",
+      "Free entry",
+      "Many firms",
+      "Independent firms"
+     ],
+     "correct_index": 0,
+     "explanation": "Barriers to entry are usually higher."
+    },
+    {
+     "question_text": "The market structure most commonly found in the real world is:",
+     "options": [
+      "Perfect competition",
+      "Imperfect competition (monopolistic competition and oligopoly)",
+      "Pure monopoly",
+      "Pure monopsony"
+     ],
+     "correct_index": 1,
+     "explanation": "Most real markets have differentiated products and some market power."
+    }
+   ]
+  }
+ ]
+}

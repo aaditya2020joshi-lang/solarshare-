@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Introduction to Economics – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Who is regarded as the Father of Economics, and which book did he write?",
+     "options": [
+      "Adam Smith – The Wealth of Nations",
+      "J.M. Keynes – General Theory",
+      "Lionel Robbins – Nature and Significance of Economic Science",
+      "Alfred Marshall – Principles of Economics"
+     ],
+     "correct_index": 0,
+     "explanation": "Adam Smith wrote An Inquiry into the Nature and Causes of the Wealth of Nations (1776)."
+    },
+    {
+     "question_text": "The word \"economics\" comes from the Greek words oikos and nomos, which literally mean:",
+     "options": [
+      "Wealth and growth",
+      "Household and management",
+      "Money and trade",
+      "Market and exchange"
+     ],
+     "correct_index": 1,
+     "explanation": "Oikos means household and nomos means management or rules, so literally \"household management\"."
+    },
+    {
+     "question_text": "Adam Smith's wealth definition treats economics as the study of:",
+     "options": [
+      "Human welfare",
+      "Scarcity and choice",
+      "Wealth – its production and distribution",
+      "Growth of the economy"
+     ],
+     "correct_index": 2,
+     "explanation": "Smith defined economics as an inquiry into the nature and causes of the wealth of nations."
+    },
+    {
+     "question_text": "Which is a criticism of the wealth definition?",
+     "options": [
+      "It gives too much importance to wealth and neglects human welfare",
+      "It treats economics as a normative science only",
+      "It ignores scarcity",
+      "It ignores the role of production"
+     ],
+     "correct_index": 0,
+     "explanation": "Critics said it made wealth the end and man the means, neglecting human welfare."
+    },
+    {
+     "question_text": "Carlyle called economics the \"dismal science\" mainly because:",
+     "options": [
+      "It uses too much mathematics",
+      "It could not be tested by experiments",
+      "It was seen as focusing on selfish wealth-getting while ignoring human welfare",
+      "It only studied poor countries"
+     ],
+     "correct_index": 2,
+     "explanation": "The wealth definition made economics seem cold and materialistic, so Carlyle called it dismal."
+    },
+    {
+     "question_text": "Marshall defined economics as a study of mankind in the ordinary business of life that examines:",
+     "options": [
+      "How to maximise national income",
+      "Government policy for growth",
+      "Only scarce means with alternative uses",
+      "How individuals and society use material requisites of well-being"
+     ],
+     "correct_index": 3,
+     "explanation": "Marshall's welfare definition links economics to the attainment of material welfare."
+    },
+    {
+     "question_text": "Which is a main feature of Marshall's welfare definition?",
+     "options": [
+      "It excludes social behaviour",
+      "It is value free",
+      "It considers non-material welfare as central",
+      "It makes man the centre and wealth only a means to welfare"
+     ],
+     "correct_index": 3,
+     "explanation": "Marshall stressed that wealth is a means to human welfare, not an end."
+    },
+    {
+     "question_text": "Which is a criticism of Marshall's definition?",
+     "options": [
+      "It ignores social aspects",
+      "It ignores human beings",
+      "It restricts economics to material welfare and ignores services",
+      "It is too general"
+     ],
+     "correct_index": 2,
+     "explanation": "Critics said it wrongly excluded non-material welfare such as the services of doctors and teachers."
+    },
+    {
+     "question_text": "The distinction between material and non-material welfare is considered artificial because:",
+     "options": [
+      "Welfare is a unified feeling and cannot be split clearly",
+      "Non-material goods cost nothing",
+      "Material goods give no welfare",
+      "All welfare is non-material"
+     ],
+     "correct_index": 0,
+     "explanation": "Both kinds of goods contribute to one overall satisfaction, so the split is arbitrary."
+    },
+    {
+     "question_text": "Robbins defined economics as the science that studies human behaviour as a relationship between:",
+     "options": [
+      "Supply and demand",
+      "Wealth and welfare",
+      "Income and employment",
+      "Ends and scarce means which have alternative uses"
+     ],
+     "correct_index": 3,
+     "explanation": "This is the scarcity definition from An Essay on the Nature and Significance of Economic Science (1932)."
+    },
+    {
+     "question_text": "Which is NOT an element of Robbins' definition?",
+     "options": [
+      "Material welfare only",
+      "Unlimited wants",
+      "Scarce means",
+      "Alternative uses of means"
+     ],
+     "correct_index": 0,
+     "explanation": "Robbins' elements are unlimited ends, scarce means, alternative uses and the need to choose."
+    },
+    {
+     "question_text": "\"Economics is neutral between ends\" means economics:",
+     "options": [
+      "Studies only means and not the morality of ends",
+      "Ignores scarcity",
+      "Judges whether ends are good or bad",
+      "Opposes all wants"
+     ],
+     "correct_index": 0,
+     "explanation": "Economics does not say whether wants are desirable; it only studies how scarce means are allocated."
+    },
+    {
+     "question_text": "Which is a criticism of Robbins' definition?",
+     "options": [
+      "It focuses on welfare only",
+      "It ignores scarcity",
+      "It ignores economic growth and development",
+      "It ignores choice"
+     ],
+     "correct_index": 2,
+     "explanation": "The definition is static and does not deal with growth, employment or development."
+    },
+    {
+     "question_text": "Robbins' definition makes economics a purely positive science because it:",
+     "options": [
+      "Prescribes ends",
+      "Is silent on what ought to be and only explains what is",
+      "Focuses on welfare",
+      "Ignores means"
+     ],
+     "correct_index": 1,
+     "explanation": "By staying neutral between ends, it avoids value judgements."
+    },
+    {
+     "question_text": "Samuelson's growth definition emphasises:",
+     "options": [
+      "Government control",
+      "Choice over time with scarce resources to produce goods and distribute them for growth",
+      "Welfare only",
+      "Wealth only"
+     ],
+     "correct_index": 1,
+     "explanation": "It adds the dynamic element of time and economic growth to the scarcity idea."
+    },
+    {
+     "question_text": "Samuelson's definition improves on Robbins' by:",
+     "options": [
+      "Ignoring scarcity",
+      "Adding the dynamic dimension of growth and time",
+      "Focusing on wealth",
+      "Removing choice"
+     ],
+     "correct_index": 1,
+     "explanation": "It covers growth and dynamic problems, which the static scarcity definition left out."
+    },
+    {
+     "question_text": "Which pairing of definition and economist is correct?",
+     "options": [
+      "Wealth – Marshall",
+      "Welfare – Smith",
+      "Scarcity – Robbins",
+      "Growth – Marshall"
+     ],
+     "correct_index": 2,
+     "explanation": "Wealth: Smith; Welfare: Marshall; Scarcity: Robbins; Growth: Samuelson."
+    },
+    {
+     "question_text": "Which definition is the most widely accepted today?",
+     "options": [
+      "Wealth definition",
+      "Welfare definition",
+      "Scarcity definition",
+      "None of them"
+     ],
+     "correct_index": 2,
+     "explanation": "Robbins' scarcity definition is the most widely accepted because it is analytical and universal."
+    },
+    {
+     "question_text": "Scarcity differs from shortage because scarcity:",
+     "options": [
+      "Occurs only in poor countries",
+      "Occurs only for necessities",
+      "Is a universal condition of limited resources relative to wants, while shortage is a temporary supply gap at a price",
+      "Is temporary"
+     ],
+     "correct_index": 2,
+     "explanation": "Scarcity exists for all resources always; shortage is a temporary market imbalance."
+    },
+    {
+     "question_text": "The basic economic problem arises from:",
+     "options": [
+      "Limited wants and limited means",
+      "Unlimited wants and limited means",
+      "Unlimited wants and unlimited means",
+      "Unlimited means and limited wants"
+     ],
+     "correct_index": 1,
+     "explanation": "Wants are endless but resources are limited, forcing choice."
+    },
+    {
+     "question_text": "Which is a characteristic of human wants?",
+     "options": [
+      "They cannot be influenced by advertising",
+      "They are limited in number",
+      "They are unlimited and recurring",
+      "They are all equally urgent"
+     ],
+     "correct_index": 2,
+     "explanation": "Wants are unlimited, recur, differ in intensity and can be satisfied in part."
+    },
+    {
+     "question_text": "\"Alternative uses of resources\" means resources:",
+     "options": [
+      "Can be used in more than one way",
+      "Have only one use",
+      "Are free goods",
+      "Are unlimited"
+     ],
+     "correct_index": 0,
+     "explanation": "Land, labour and capital can produce different goods, so using them for one forgoes another."
+    },
+    {
+     "question_text": "The scope of economics includes:",
+     "options": [
+      "Only consumption",
+      "Only production",
+      "Both the subject matter and the nature (science/art, positive/normative)",
+      "Only government finance"
+     ],
+     "correct_index": 2,
+     "explanation": "Scope covers what economics studies and what kind of discipline it is."
+    },
+    {
+     "question_text": "The subject matter of economics is:",
+     "options": [
+      "Only production methods",
+      "Only the study of government",
+      "How individuals, firms and society make choices about scarce resources",
+      "The study of money only"
+     ],
+     "correct_index": 2,
+     "explanation": "It deals with consumption, production, exchange and distribution of scarce resources."
+    },
+    {
+     "question_text": "Which is NOT a traditional division of economics?",
+     "options": [
+      "Inspiration",
+      "Exchange",
+      "Consumption",
+      "Production"
+     ],
+     "correct_index": 0,
+     "explanation": "The four divisions are consumption, production, exchange and distribution."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Economics – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Economics is called a science because it:",
+     "options": [
+      "Has no value judgements",
+      "Gives exact predictions always",
+      "Systematically studies cause-and-effect relationships and formulates laws",
+      "Uses controlled laboratory experiments"
+     ],
+     "correct_index": 2,
+     "explanation": "It collects facts, analyses them and formulates generalisations, though its laws are less exact."
+    },
+    {
+     "question_text": "Economics is also called an art because it:",
+     "options": [
+      "Gives practical guidance for solving economic problems",
+      "Has no principles",
+      "Is only descriptive",
+      "Is purely theoretical"
+     ],
+     "correct_index": 0,
+     "explanation": "Art means applying knowledge for practical ends, such as policy making."
+    },
+    {
+     "question_text": "Economic laws are called tendencies because:",
+     "options": [
+      "They hold exactly in every case",
+      "They hold only on average or under given conditions, as human behaviour varies",
+      "They are mathematical",
+      "They are imposed by government"
+     ],
+     "correct_index": 1,
+     "explanation": "Human behaviour is not uniform, so laws state what generally tends to happen."
+    },
+    {
+     "question_text": "\"Ceteris paribus\" means:",
+     "options": [
+      "Other things remaining constant",
+      "All things change together",
+      "Demand equals supply",
+      "Prices are fixed"
+     ],
+     "correct_index": 0,
+     "explanation": "It isolates the effect of one variable by holding others constant."
+    },
+    {
+     "question_text": "Controlled experimentation is difficult in economics because:",
+     "options": [
+      "Data are always accurate",
+      "Prices never change",
+      "Human behaviour and social conditions cannot be controlled like laboratory conditions",
+      "Economists lack mathematical tools"
+     ],
+     "correct_index": 2,
+     "explanation": "Economic agents are people and conditions keep changing."
+    },
+    {
+     "question_text": "The relationship between economics and political science is close because:",
+     "options": [
+      "They study unrelated subjects",
+      "Government policies on taxes, spending and regulation depend on both",
+      "Politics has no economic effect",
+      "Both ignore government"
+     ],
+     "correct_index": 1,
+     "explanation": "Policy decisions combine political choices with economic analysis."
+    },
+    {
+     "question_text": "Economics is related to sociology because:",
+     "options": [
+      "Social customs and class structure affect consumption and savings",
+      "They are the same subject",
+      "Society has no effect on markets",
+      "Sociology studies prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Social norms, habits and institutions influence economic behaviour."
+    },
+    {
+     "question_text": "Mathematics and statistics help economics by:",
+     "options": [
+      "Replacing economic theory",
+      "Setting prices",
+      "Making economics non-scientific",
+      "Providing tools to build models, measure and test relationships"
+     ],
+     "correct_index": 3,
+     "explanation": "Equations, graphs and data analysis give precision to economic analysis."
+    },
+    {
+     "question_text": "Economics is related to psychology because:",
+     "options": [
+      "Both study prices",
+      "Wants are unrelated to the mind",
+      "Psychology sets budgets",
+      "Consumer tastes, motives and expectations influence economic decisions"
+     ],
+     "correct_index": 3,
+     "explanation": "Understanding behaviour is central to demand analysis."
+    },
+    {
+     "question_text": "Which is a reason for studying economics?",
+     "options": [
+      "It removes scarcity",
+      "It guarantees profits",
+      "It helps in rational decision making about scarce resources",
+      "It eliminates the need for government"
+     ],
+     "correct_index": 2,
+     "explanation": "Economics trains one to weigh costs and benefits and understand the economy."
+    },
+    {
+     "question_text": "Economics helps consumers mainly by:",
+     "options": [
+      "Guiding them to spend income to get maximum satisfaction",
+      "Fixing their income",
+      "Removing prices",
+      "Increasing wants"
+     ],
+     "correct_index": 0,
+     "explanation": "Consumer theory shows how to allocate income across goods."
+    },
+    {
+     "question_text": "Economics helps producers by:",
+     "options": [
+      "Removing competition",
+      "Fixing consumer incomes",
+      "Helping them decide what, how and how much to produce at least cost",
+      "Telling them which goods to ban"
+     ],
+     "correct_index": 2,
+     "explanation": "Cost, demand and market analysis guide production decisions."
+    },
+    {
+     "question_text": "Economics helps the government by:",
+     "options": [
+      "Controlling consumer tastes",
+      "Eliminating all taxes",
+      "Setting wants",
+      "Guiding taxation, spending, planning and stabilisation policies"
+     ],
+     "correct_index": 3,
+     "explanation": "Economic analysis informs fiscal and monetary policy."
+    },
+    {
+     "question_text": "Economics helps in understanding international issues such as:",
+     "options": [
+      "Family budgets only",
+      "School admissions",
+      "Trade, exchange rates and balance of payments",
+      "Local weather"
+     ],
+     "correct_index": 2,
+     "explanation": "It explains trade patterns, tariffs and currency movements."
+    },
+    {
+     "question_text": "Economics is important to a business student because it:",
+     "options": [
+      "Provides understanding of markets, costs, demand and the business environment",
+      "Removes risk",
+      "Replaces accounting",
+      "Guarantees success"
+     ],
+     "correct_index": 0,
+     "explanation": "Business decisions depend on economic conditions and analysis."
+    },
+    {
+     "question_text": "Which is an example of a positive economic statement?",
+     "options": [
+      "Petrol is too costly",
+      "India's GDP grew by 7% last year",
+      "The rich should pay higher taxes",
+      "The government must reduce poverty"
+     ],
+     "correct_index": 1,
+     "explanation": "Positive statements describe facts that can be verified."
+    },
+    {
+     "question_text": "Which is an example of a normative economic statement?",
+     "options": [
+      "The government should provide free healthcare",
+      "Wheat output was 100 million tonnes",
+      "Unemployment was 6% in 2020",
+      "Prices rose by 4%"
+     ],
+     "correct_index": 0,
+     "explanation": "Normative statements express value judgements about what ought to be."
+    },
+    {
+     "question_text": "The key difference between positive and normative economics is that positive economics:",
+     "options": [
+      "Deals with what ought to be",
+      "Cannot use data",
+      "Deals with what is and can be tested",
+      "Is based on opinions"
+     ],
+     "correct_index": 2,
+     "explanation": "Positive is fact-based and testable; normative is value-based."
+    },
+    {
+     "question_text": "\"India's inflation was 5% last year\" is a:",
+     "options": [
+      "Normative statement",
+      "Value judgement",
+      "Policy recommendation",
+      "Positive statement"
+     ],
+     "correct_index": 3,
+     "explanation": "It states a verifiable fact."
+    },
+    {
+     "question_text": "\"The government should provide free education\" is a:",
+     "options": [
+      "Scientific law",
+      "Normative statement",
+      "Statistical fact",
+      "Positive statement"
+     ],
+     "correct_index": 1,
+     "explanation": "It contains the word \"should\", expressing a value judgement."
+    },
+    {
+     "question_text": "\"A rise in income increases demand for normal goods\" is:",
+     "options": [
+      "Positive",
+      "Normative",
+      "Neither",
+      "Both"
+     ],
+     "correct_index": 0,
+     "explanation": "It states a cause-and-effect relationship that can be tested."
+    },
+    {
+     "question_text": "\"Petrol should be taxed more\" is:",
+     "options": [
+      "A law of demand",
+      "A statistic",
+      "Normative",
+      "Positive"
+     ],
+     "correct_index": 2,
+     "explanation": "It states what ought to be done."
+    },
+    {
+     "question_text": "A positive statement:",
+     "options": [
+      "Is always a policy",
+      "Cannot be wrong",
+      "Can be wrong if evidence does not support it, yet it is still positive",
+      "Is always a value judgement"
+     ],
+     "correct_index": 2,
+     "explanation": "Positive means testable; a false factual claim is still positive."
+    },
+    {
+     "question_text": "Positive and normative economics are interdependent because:",
+     "options": [
+      "They never overlap",
+      "Normative is based on experiments",
+      "Policy (normative) needs facts (positive) and facts guide choices",
+      "Positive ignores facts"
+     ],
+     "correct_index": 2,
+     "explanation": "Good policy advice requires accurate analysis of what is."
+    },
+    {
+     "question_text": "The deductive method of reasoning proceeds from:",
+     "options": [
+      "Particular to general",
+      "General to particular",
+      "Opinion to fact",
+      "Data to data"
+     ],
+     "correct_index": 1,
+     "explanation": "It starts from general assumptions and derives specific conclusions."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Economics – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The inductive method proceeds from:",
+     "options": [
+      "Particular facts to general conclusions",
+      "Assumptions to deductions",
+      "Theory to theory",
+      "General principles to cases"
+     ],
+     "correct_index": 0,
+     "explanation": "It collects observed data and generalises from them."
+    },
+    {
+     "question_text": "Which statement about the two methods is most accurate?",
+     "options": [
+      "Neither is used in economics",
+      "Only deduction is valid",
+      "Both are complementary and are usually used together",
+      "Only induction is valid"
+     ],
+     "correct_index": 2,
+     "explanation": "Each has strengths; theories from deduction need testing by induction."
+    },
+    {
+     "question_text": "Who coined the terms micro and macro economics (1933)?",
+     "options": [
+      "Adam Smith",
+      "Alfred Marshall",
+      "Ragnar Frisch",
+      "J.M. Keynes"
+     ],
+     "correct_index": 2,
+     "explanation": "Ragnar Frisch of Norway used them in 1933."
+    },
+    {
+     "question_text": "Microeconomics studies:",
+     "options": [
+      "Individual units such as a consumer, firm or market",
+      "Only inflation",
+      "National income only",
+      "The economy as a whole"
+     ],
+     "correct_index": 0,
+     "explanation": "Examples: demand for a good, a firm's costs, price in a market."
+    },
+    {
+     "question_text": "Macroeconomics studies:",
+     "options": [
+      "Only one firm",
+      "Aggregates like national income, employment and general price level",
+      "Only one product price",
+      "A single consumer"
+     ],
+     "correct_index": 1,
+     "explanation": "It deals with the economy as a whole."
+    },
+    {
+     "question_text": "Microeconomics is called price theory because it:",
+     "options": [
+      "Studies only inflation",
+      "Mainly explains how prices of goods and factors are determined",
+      "Studies national income",
+      "Ignores prices"
+     ],
+     "correct_index": 1,
+     "explanation": "Price determination is its central concern."
+    },
+    {
+     "question_text": "Macroeconomics is called income and employment theory because it:",
+     "options": [
+      "Studies firm prices",
+      "Studies one market",
+      "Ignores unemployment",
+      "Explains the levels of national income and employment"
+     ],
+     "correct_index": 3,
+     "explanation": "Its focus is determination of aggregate income, output and jobs."
+    },
+    {
+     "question_text": "Which is a topic of macroeconomics?",
+     "options": [
+      "A firm's profit",
+      "Price of tea",
+      "Demand for a single brand",
+      "Rate of inflation in the economy"
+     ],
+     "correct_index": 3,
+     "explanation": "Inflation is an economy-wide aggregate."
+    },
+    {
+     "question_text": "Macroeconomics is mostly associated with which economist and book?",
+     "options": [
+      "Keynes – General Theory of Employment, Interest and Money",
+      "Smith – Wealth of Nations",
+      "Robbins – Essay",
+      "Marshall – Principles"
+     ],
+     "correct_index": 0,
+     "explanation": "Keynes's 1936 book founded modern macroeconomics."
+    },
+    {
+     "question_text": "Partial equilibrium analysis studies:",
+     "options": [
+      "Only labour",
+      "Only the money market",
+      "The whole economy at once",
+      "One market or variable, keeping others constant"
+     ],
+     "correct_index": 3,
+     "explanation": "Developed by Marshall; uses ceteris paribus for other markets."
+    },
+    {
+     "question_text": "General equilibrium analysis studies:",
+     "options": [
+      "Only the government",
+      "Only one market",
+      "Simultaneous equilibrium in all markets and their interdependence",
+      "Only consumers"
+     ],
+     "correct_index": 2,
+     "explanation": "Associated with Walras; it considers how all markets interact."
+    },
+    {
+     "question_text": "The fallacy of composition says that:",
+     "options": [
+      "Economics has no fallacies",
+      "What is true for an individual may not be true for the whole economy",
+      "The whole equals the parts",
+      "What is true for the individual is always true for the whole"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g. one person gains by saving more, but if all save more, total demand falls."
+    },
+    {
+     "question_text": "The paradox of thrift states that:",
+     "options": [
+      "Thrift is always harmful",
+      "Saving equals zero",
+      "Saving always raises income",
+      "If everybody saves more, total income and saving may fall"
+     ],
+     "correct_index": 3,
+     "explanation": "Higher saving reduces demand and income, so total saving may not rise."
+    },
+    {
+     "question_text": "Micro and macroeconomics are:",
+     "options": [
+      "Unrelated",
+      "Competitive",
+      "Identical",
+      "Complementary"
+     ],
+     "correct_index": 3,
+     "explanation": "Both are needed; micro behaviour sums to macro outcomes and vice versa."
+    },
+    {
+     "question_text": "A limitation of microeconomics is that it:",
+     "options": [
+      "Ignores prices",
+      "Has no assumptions",
+      "Studies aggregates",
+      "Studies the individual only and cannot explain the economy as a whole"
+     ],
+     "correct_index": 3,
+     "explanation": "Aggregating micro results can give misleading conclusions (fallacy of composition)."
+    },
+    {
+     "question_text": "A limitation of macroeconomics is that it:",
+     "options": [
+      "Ignores aggregates",
+      "May hide important differences among individual units",
+      "Studies only prices",
+      "Is always accurate"
+     ],
+     "correct_index": 1,
+     "explanation": "Aggregates can conceal variations among sectors or individuals."
+    },
+    {
+     "question_text": "\"Price of tea in a city\" is a:",
+     "options": [
+      "Both",
+      "Neither",
+      "Microeconomic topic",
+      "Macroeconomic topic"
+     ],
+     "correct_index": 2,
+     "explanation": "It concerns one product in one market."
+    },
+    {
+     "question_text": "\"National unemployment rate\" is a:",
+     "options": [
+      "Firm-level topic",
+      "Microeconomic topic",
+      "Macroeconomic topic",
+      "Consumer-level topic"
+     ],
+     "correct_index": 2,
+     "explanation": "It is an economy-wide aggregate."
+    },
+    {
+     "question_text": "\"General price level\" is a:",
+     "options": [
+      "Macroeconomic topic",
+      "Microeconomic topic",
+      "Firm cost topic",
+      "Individual demand topic"
+     ],
+     "correct_index": 0,
+     "explanation": "The overall price level is an aggregate."
+    },
+    {
+     "question_text": "An economic problem arises because of:",
+     "options": [
+      "Scarcity of resources relative to wants",
+      "Abundance of resources",
+      "Excess supply of all goods",
+      "Absence of wants"
+     ],
+     "correct_index": 0,
+     "explanation": "Scarcity forces choice among competing uses."
+    },
+    {
+     "question_text": "The three central problems of an economy are:",
+     "options": [
+      "Tax, spend, borrow",
+      "Rent, wages, profit",
+      "Saving, investment, consumption",
+      "What, how and for whom to produce"
+     ],
+     "correct_index": 3,
+     "explanation": "These choices arise from scarcity in every economy."
+    },
+    {
+     "question_text": "\"What to produce\" involves deciding:",
+     "options": [
+      "Who will receive goods",
+      "Which techniques to use",
+      "Which goods and services and in what quantities to produce",
+      "Tax rates"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g. wheat vs. cars, consumer vs. capital goods."
+    },
+    {
+     "question_text": "\"How to produce\" involves the choice between:",
+     "options": [
+      "Techniques – labour-intensive vs. capital-intensive",
+      "Goods",
+      "Prices",
+      "Consumers"
+     ],
+     "correct_index": 0,
+     "explanation": "It means selecting the combination of inputs, i.e. method of production."
+    },
+    {
+     "question_text": "\"For whom to produce\" concerns:",
+     "options": [
+      "Quantity of output",
+      "Production methods",
+      "Distribution of output among members of society",
+      "Choice of goods"
+     ],
+     "correct_index": 2,
+     "explanation": "It depends on income distribution."
+    },
+    {
+     "question_text": "The problem of full employment of resources is concerned with:",
+     "options": [
+      "Reducing wants",
+      "Distribution only",
+      "Using all available resources fully instead of leaving them idle",
+      "Changing technology"
+     ],
+     "correct_index": 2,
+     "explanation": "Idle resources mean output is below potential."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Economics – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The problem of economic growth concerns:",
+     "options": [
+      "Expanding productive capacity over time",
+      "Fixing prices",
+      "Reducing the present output",
+      "Reducing population"
+     ],
+     "correct_index": 0,
+     "explanation": "It involves how much to save and invest for future output."
+    },
+    {
+     "question_text": "In a capitalist economy the central problems are solved mainly by:",
+     "options": [
+      "Religious rules",
+      "The price mechanism (market forces)",
+      "Customs",
+      "Central planning"
+     ],
+     "correct_index": 1,
+     "explanation": "Prices guided by demand and supply allocate resources."
+    },
+    {
+     "question_text": "In a socialist economy the central problems are solved mainly by:",
+     "options": [
+      "Tradition",
+      "Price mechanism only",
+      "Foreign trade",
+      "Central planning authority"
+     ],
+     "correct_index": 3,
+     "explanation": "The state decides what, how and for whom."
+    },
+    {
+     "question_text": "A mixed economy, such as India, solves the central problems through:",
+     "options": [
+      "Only the state",
+      "Both the market mechanism and government planning/regulation",
+      "Only the market",
+      "Barter"
+     ],
+     "correct_index": 1,
+     "explanation": "Public and private sectors coexist."
+    },
+    {
+     "question_text": "Pareto efficiency is a situation where:",
+     "options": [
+      "Everyone is equally rich",
+      "No one can be made better off without making someone else worse off",
+      "Output is maximum",
+      "Prices are zero"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an allocation with no costless improvement possible."
+    },
+    {
+     "question_text": "Productive efficiency means:",
+     "options": [
+      "Distributing goods fairly",
+      "Producing the right goods",
+      "Producing at the lowest possible cost using resources fully",
+      "Maximising consumer choice"
+     ],
+     "correct_index": 2,
+     "explanation": "Allocative efficiency is producing the goods society wants (P = MC)."
+    },
+    {
+     "question_text": "Allocative efficiency is achieved when:",
+     "options": [
+      "Output is zero",
+      "Cost is minimum",
+      "Profit is zero",
+      "Resources are allocated to produce goods in the combination that society most values"
+     ],
+     "correct_index": 3,
+     "explanation": "Resources are distributed according to consumer preferences."
+    },
+    {
+     "question_text": "Opportunity cost is:",
+     "options": [
+      "The money cost of a good",
+      "The sunk cost",
+      "The total cost",
+      "The value of the next best alternative forgone"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g. the cost of studying is the income you could have earned working."
+    },
+    {
+     "question_text": "The opportunity cost of a free good is zero because:",
+     "options": [
+      "It is scarce",
+      "It is available in unlimited quantity so using it forgoes nothing",
+      "It has high prices",
+      "It has no uses"
+     ],
+     "correct_index": 1,
+     "explanation": "No alternative is sacrificed when a good is not scarce."
+    },
+    {
+     "question_text": "Opportunity cost:",
+     "options": [
+      "Can be in terms of time, goods or satisfaction forgone",
+      "Is always in money terms",
+      "Is always zero",
+      "Is never measurable"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the value of the best alternative, not necessarily money."
+    },
+    {
+     "question_text": "For a student, the opportunity cost of attending college includes:",
+     "options": [
+      "Only fees",
+      "Only books",
+      "Fees plus the earnings forgone by not working",
+      "Nothing"
+     ],
+     "correct_index": 2,
+     "explanation": "Income given up is part of the opportunity cost."
+    },
+    {
+     "question_text": "A farmer can grow 100 quintals of wheat or 150 quintals of rice. The opportunity cost of 1 quintal of wheat is:",
+     "options": [
+      "1 quintal of rice",
+      "150 quintals of rice",
+      "0.67 quintal of rice",
+      "1.5 quintals of rice"
+     ],
+     "correct_index": 3,
+     "explanation": "150 rice / 100 wheat = 1.5 quintals of rice per quintal of wheat."
+    },
+    {
+     "question_text": "The Production Possibility Curve shows:",
+     "options": [
+      "Combinations of two goods that can be produced with given resources and technology",
+      "Prices of goods",
+      "Demand for goods",
+      "Consumer equilibrium"
+     ],
+     "correct_index": 0,
+     "explanation": "It shows maximum output combinations with full and efficient use of resources."
+    },
+    {
+     "question_text": "An assumption of the PPC is:",
+     "options": [
+      "Resources are unlimited",
+      "More than two goods are produced",
+      "Resources and technology are given and fully employed",
+      "Technology keeps improving"
+     ],
+     "correct_index": 2,
+     "explanation": "Fixed resources, fixed technology, full employment and two goods."
+    },
+    {
+     "question_text": "The PPC is concave to the origin because of:",
+     "options": [
+      "Decreasing opportunity cost",
+      "Increasing opportunity cost (law of increasing costs)",
+      "Constant opportunity cost",
+      "Zero opportunity cost"
+     ],
+     "correct_index": 1,
+     "explanation": "Resources are not equally suited to all uses, so each extra unit costs more."
+    },
+    {
+     "question_text": "Marginal Rate of Transformation (MRT) is:",
+     "options": [
+      "Price ratio",
+      "The rate at which one good must be given up to produce one more unit of another",
+      "The slope of the demand curve",
+      "Rate of substitution of consumers"
+     ],
+     "correct_index": 1,
+     "explanation": "It equals the slope of the PPC and shows the opportunity cost."
+    },
+    {
+     "question_text": "If shifting from combination A (0 X, 20 Y) to B (1 X, 18 Y), the opportunity cost of the first unit of X is:",
+     "options": [
+      "18 Y",
+      "1 Y",
+      "2 Y",
+      "20 Y"
+     ],
+     "correct_index": 2,
+     "explanation": "20 − 18 = 2 units of Y forgone."
+    },
+    {
+     "question_text": "A point inside the PPC indicates:",
+     "options": [
+      "Full employment",
+      "Unemployment or inefficient use of resources",
+      "Economic growth",
+      "Unattainable output"
+     ],
+     "correct_index": 1,
+     "explanation": "Resources are underused, so output is below its potential."
+    },
+    {
+     "question_text": "A point outside the PPC indicates:",
+     "options": [
+      "Attainable output with present resources",
+      "Unattainable output with current resources and technology",
+      "Efficient production",
+      "Unemployment"
+     ],
+     "correct_index": 1,
+     "explanation": "It requires more resources or better technology."
+    },
+    {
+     "question_text": "Which will shift the PPC outward?",
+     "options": [
+      "Fall in labour force",
+      "Natural disaster",
+      "War destruction",
+      "Improved technology"
+     ],
+     "correct_index": 3,
+     "explanation": "Growth in resources or technology expands capacity."
+    },
+    {
+     "question_text": "Which will shift the PPC inward?",
+     "options": [
+      "Better technology",
+      "Destruction of capital in a war",
+      "Discovery of new resources",
+      "Increase in labour"
+     ],
+     "correct_index": 1,
+     "explanation": "Loss of resources reduces productive capacity."
+    },
+    {
+     "question_text": "A straight-line PPC implies:",
+     "options": [
+      "Decreasing opportunity cost",
+      "Constant opportunity cost",
+      "Zero opportunity cost",
+      "Increasing opportunity cost"
+     ],
+     "correct_index": 1,
+     "explanation": "Resources are equally productive in both uses."
+    },
+    {
+     "question_text": "A pivotal rotation of the PPC shows:",
+     "options": [
+      "Equal change in capacity of both goods",
+      "Fall in employment",
+      "Fall in prices",
+      "Change in productive capacity for only one good"
+     ],
+     "correct_index": 3,
+     "explanation": "Technology improved for only one of the two goods."
+    },
+    {
+     "question_text": "Movement along the PPC differs from a shift of the PPC because movement:",
+     "options": [
+      "Reallocates resources between goods with the same capacity",
+      "Changes technology",
+      "Shows growth",
+      "Shows unemployment"
+     ],
+     "correct_index": 0,
+     "explanation": "A shift changes capacity; movement trades one good for the other."
+    },
+    {
+     "question_text": "The PPC illustrates scarcity, choice and opportunity cost together because:",
+     "options": [
+      "It shows the limit of output (scarcity), the choice between goods and the trade-off (opportunity cost)",
+      "It shows only growth",
+      "It shows prices",
+      "It has no limits"
+     ],
+     "correct_index": 0,
+     "explanation": "Limited frontier = scarcity; points on it = choice; slope = opportunity cost."
+    }
+   ]
+  }
+ ]
+}
