@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Introduction to Accounting – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Accounting is best defined as the process of:",
+     "options": [
+      "Preparing tax returns only",
+      "Auditing accounts",
+      "Only keeping cash records",
+      "Identifying, recording, classifying, summarising and interpreting financial transactions"
+     ],
+     "correct_index": 3,
+     "explanation": "It covers recording through to interpretation of financial information."
+    },
+    {
+     "question_text": "The AICPA (1941) defined accounting as the art of:",
+     "options": [
+      "Only auditing",
+      "Recording, classifying and summarising in a significant manner and in terms of money transactions of a financial character, and interpreting the results",
+      "Only costing",
+      "Only budgeting"
+     ],
+     "correct_index": 1,
+     "explanation": "It includes interpretation of the results."
+    },
+    {
+     "question_text": "The American Accounting Association defines accounting as the process of:",
+     "options": [
+      "Identifying, measuring and communicating economic information to permit informed judgements and decisions",
+      "Only taxation",
+      "Only recording",
+      "Only summarising"
+     ],
+     "correct_index": 0,
+     "explanation": "The emphasis is on communicating information to users."
+    },
+    {
+     "question_text": "Book-keeping differs from accounting in that book-keeping is:",
+     "options": [
+      "Interpretation of results",
+      "Only recording of transactions, while accounting also analyses and interprets",
+      "Preparation of budgets",
+      "Auditing"
+     ],
+     "correct_index": 1,
+     "explanation": "Book-keeping is the clerical base of accounting."
+    },
+    {
+     "question_text": "Which is a feature of accounting?",
+     "options": [
+      "Records all non-financial events",
+      "Needs no rules",
+      "Records only financial transactions measured in money",
+      "Is always done by the owner"
+     ],
+     "correct_index": 2,
+     "explanation": "Accounting records events that can be measured in monetary terms."
+    },
+    {
+     "question_text": "Accounting is needed because it:",
+     "options": [
+      "Replaces management",
+      "Makes profit certain",
+      "Eliminates the need for taxes",
+      "Provides information about profit, financial position and helps decision making"
+     ],
+     "correct_index": 3,
+     "explanation": "Memory cannot record all transactions reliably."
+    },
+    {
+     "question_text": "Which is an objective of accounting?",
+     "options": [
+      "Eliminating competition",
+      "Setting prices of the market",
+      "Printing money",
+      "Ascertaining profit or loss and the financial position"
+     ],
+     "correct_index": 3,
+     "explanation": "Others: systematic records, providing information to users."
+    },
+    {
+     "question_text": "The main branches of accounting are:",
+     "options": [
+      "Financial, cost and management accounting",
+      "Only financial",
+      "Tax and audit only",
+      "Only cost"
+     ],
+     "correct_index": 0,
+     "explanation": "Each serves different needs."
+    },
+    {
+     "question_text": "Cost accounting differs from financial accounting in that cost accounting:",
+     "options": [
+      "Is only done by auditors",
+      "Ascertains and controls the cost of products and services",
+      "Records only cash",
+      "Prepares statutory final accounts for outsiders"
+     ],
+     "correct_index": 1,
+     "explanation": "Management accounting helps managers in planning and control."
+    },
+    {
+     "question_text": "Which is an internal user of accounting information?",
+     "options": [
+      "Government",
+      "Investors",
+      "Creditors",
+      "Management"
+     ],
+     "correct_index": 3,
+     "explanation": "Owners and employees are also internal users."
+    },
+    {
+     "question_text": "Which is an external user of accounting information?",
+     "options": [
+      "Directors",
+      "Bankers and creditors",
+      "Managers",
+      "Employees of the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Government, investors and tax authorities are also external users."
+    },
+    {
+     "question_text": "A creditor mainly needs information about the firm's:",
+     "options": [
+      "Employee skills",
+      "Ability to pay dues (liquidity and solvency)",
+      "Product design",
+      "Advertising plans"
+     ],
+     "correct_index": 1,
+     "explanation": "They want to know whether the business can repay."
+    },
+    {
+     "question_text": "Investors mainly need information about:",
+     "options": [
+      "Office location",
+      "Competitor prices",
+      "Profitability and the prospects of returns on investment",
+      "Staff salaries only"
+     ],
+     "correct_index": 2,
+     "explanation": "They decide to invest, hold or sell."
+    },
+    {
+     "question_text": "A function of accounting is:",
+     "options": [
+      "Keeping systematic records of transactions",
+      "Producing goods",
+      "Hiring staff",
+      "Making sales"
+     ],
+     "correct_index": 0,
+     "explanation": "Others: determining results, communicating information."
+    },
+    {
+     "question_text": "An advantage of accounting is that it:",
+     "options": [
+      "Helps in ascertaining profit and provides evidence in legal matters",
+      "Makes decisions for management",
+      "Ensures profit",
+      "Eliminates all errors"
+     ],
+     "correct_index": 0,
+     "explanation": "Records are accepted as evidence."
+    },
+    {
+     "question_text": "A limitation of accounting is that it:",
+     "options": [
+      "Needs no estimates",
+      "Records only monetary transactions and may be affected by personal judgement",
+      "Is always exact",
+      "Records all events"
+     ],
+     "correct_index": 1,
+     "explanation": "Some figures rest on estimates."
+    },
+    {
+     "question_text": "Accounting cannot record employee skill because it:",
+     "options": [
+      "Is unimportant",
+      "Cannot be measured objectively in money",
+      "Is too costly",
+      "Is illegal"
+     ],
+     "correct_index": 1,
+     "explanation": "The money measurement concept restricts what can be recorded."
+    },
+    {
+     "question_text": "Accounting concepts are:",
+     "options": [
+      "Audit reports",
+      "Basic assumptions on which accounting is based",
+      "Tax rules",
+      "Legal rules only"
+     ],
+     "correct_index": 1,
+     "explanation": "They form the foundation of accounting practice."
+    },
+    {
+     "question_text": "Accounting conventions are:",
+     "options": [
+      "Court orders",
+      "Laws",
+      "Customs or traditions followed to ensure uniformity and comparability",
+      "Tax rules"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., consistency, conservatism, materiality."
+    },
+    {
+     "question_text": "Concepts differ from conventions in that concepts are:",
+     "options": [
+      "Customs",
+      "Taxes",
+      "Legal",
+      "Fundamental assumptions, while conventions are practices that arise from usage"
+     ],
+     "correct_index": 3,
+     "explanation": "Concepts are more basic."
+    },
+    {
+     "question_text": "The fundamental accounting assumptions are:",
+     "options": [
+      "Cost, revenue, profit",
+      "Assets, liabilities, capital",
+      "Going concern, consistency and accrual",
+      "Debit, credit, balance"
+     ],
+     "correct_index": 2,
+     "explanation": "As per AS 1."
+    },
+    {
+     "question_text": "Under the business entity concept, the business and its owner are:",
+     "options": [
+      "Both taxed together",
+      "Not recorded",
+      "The same",
+      "Treated as separate entities"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., the owner's personal expenses are not business expenses."
+    },
+    {
+     "question_text": "Drawings reduce capital because:",
+     "options": [
+      "The owner withdraws from the business, a separate entity, which owes capital to him",
+      "They increase assets",
+      "They are expenses",
+      "They are income"
+     ],
+     "correct_index": 0,
+     "explanation": "They are treated as a reduction in the owner's claim."
+    },
+    {
+     "question_text": "The money measurement concept records only transactions that can be:",
+     "options": [
+      "Heard",
+      "Expressed in money, which is its limitation as it ignores non-monetary facts",
+      "Counted",
+      "Seen"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., morale or skill is ignored."
+    },
+    {
+     "question_text": "The going concern concept assumes the business will:",
+     "options": [
+      "Be sold next year",
+      "Be sold at once",
+      "Continue for the foreseeable future",
+      "Close soon"
+     ],
+     "correct_index": 2,
+     "explanation": "Assets are valued on that basis."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Accounting – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Because of the going concern concept, fixed assets are shown at:",
+     "options": [
+      "Liquidation value",
+      "Cost less depreciation rather than at forced-sale value",
+      "Zero",
+      "Market value"
+     ],
+     "correct_index": 1,
+     "explanation": "The business is not expected to sell them soon."
+    },
+    {
+     "question_text": "The accounting period concept divides the life of a business into:",
+     "options": [
+      "Decades",
+      "Months only",
+      "Periods (usually a year) to measure profit and financial position",
+      "Weeks"
+     ],
+     "correct_index": 2,
+     "explanation": "It enables periodic reporting."
+    },
+    {
+     "question_text": "The cost concept states that assets are recorded at:",
+     "options": [
+      "Expected selling price",
+      "Current market value",
+      "Replacement cost",
+      "Their original purchase cost"
+     ],
+     "correct_index": 3,
+     "explanation": "It supports objectivity."
+    },
+    {
+     "question_text": "The dual aspect concept states that every transaction has:",
+     "options": [
+      "No aspect",
+      "Two equal aspects: debit and credit",
+      "Three aspects",
+      "One aspect"
+     ],
+     "correct_index": 1,
+     "explanation": "The basis of the accounting equation."
+    },
+    {
+     "question_text": "The revenue recognition concept says revenue is recognised when:",
+     "options": [
+      "Cash is received",
+      "It is earned, regardless of when cash is received",
+      "Goods are ordered",
+      "The year ends"
+     ],
+     "correct_index": 1,
+     "explanation": "AS 9 deals with it."
+    },
+    {
+     "question_text": "For credit sales, revenue is recognised when:",
+     "options": [
+      "Cash is received later",
+      "Goods are sold and delivered (risk and ownership pass)",
+      "Invoice is paid",
+      "Order is placed"
+     ],
+     "correct_index": 1,
+     "explanation": "Not when cash is collected."
+    },
+    {
+     "question_text": "The matching concept requires that:",
+     "options": [
+      "Revenue equals cash",
+      "Expenses of a period are matched with the revenues of the same period",
+      "Assets equal liabilities",
+      "Purchases equal sales"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives a true profit figure."
+    },
+    {
+     "question_text": "The accrual concept means:",
+     "options": [
+      "Cost only",
+      "Revenue and costs are recognised when they occur, not when cash is paid or received",
+      "No accounting",
+      "Cash basis only"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the basis of mercantile accounting."
+    },
+    {
+     "question_text": "Under the cash basis, transactions are recorded when:",
+     "options": [
+      "They are invoiced",
+      "They are earned",
+      "Cash is received or paid",
+      "They are agreed"
+     ],
+     "correct_index": 2,
+     "explanation": "Accrual records when earned or incurred."
+    },
+    {
+     "question_text": "The objectivity concept means that accounts should be based on:",
+     "options": [
+      "Verifiable documents and evidence",
+      "Guess",
+      "Opinions",
+      "Estimates only"
+     ],
+     "correct_index": 0,
+     "explanation": "Bills and vouchers support entries."
+    },
+    {
+     "question_text": "The consistency convention requires:",
+     "options": [
+      "The same accounting methods to be used from period to period",
+      "Different methods for each asset",
+      "Frequent changes of method",
+      "No methods"
+     ],
+     "correct_index": 0,
+     "explanation": "It allows comparison across periods."
+    },
+    {
+     "question_text": "The conservatism convention means:",
+     "options": [
+      "Anticipate no profit but provide for all possible losses",
+      "Anticipate profits",
+      "Ignore losses",
+      "Ignore provisions"
+     ],
+     "correct_index": 0,
+     "explanation": "Example: provision for doubtful debts."
+    },
+    {
+     "question_text": "Stock is valued at cost or market price, whichever is lower, because of:",
+     "options": [
+      "Consistency",
+      "Conservatism",
+      "Objectivity",
+      "Materiality"
+     ],
+     "correct_index": 1,
+     "explanation": "Anticipated losses are recognised but not anticipated gains."
+    },
+    {
+     "question_text": "The materiality convention says that:",
+     "options": [
+      "Only significant items need separate disclosure; trivial items can be ignored",
+      "Nothing is material",
+      "Only large firms apply it",
+      "All items are equally important"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., small stationery may be expensed."
+    },
+    {
+     "question_text": "Full disclosure means:",
+     "options": [
+      "All material information should be disclosed in financial statements",
+      "Disclose nothing",
+      "Disclose only profits",
+      "Hide losses"
+     ],
+     "correct_index": 0,
+     "explanation": "Users should not be misled."
+    },
+    {
+     "question_text": "The accounting equation is:",
+     "options": [
+      "Assets + Liabilities = Capital",
+      "Assets = Capital − Liabilities",
+      "Capital = Assets + Liabilities",
+      "Assets = Liabilities + Capital"
+     ],
+     "correct_index": 3,
+     "explanation": "Capital = Assets − Liabilities."
+    },
+    {
+     "question_text": "Assets are:",
+     "options": [
+      "Resources owned by the business with future economic benefit",
+      "Owner's investments",
+      "Amounts owed",
+      "Expenses"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., cash, building, stock."
+    },
+    {
+     "question_text": "Fixed assets differ from current assets in that fixed assets are:",
+     "options": [
+      "Debts",
+      "Liabilities",
+      "Held for long-term use, while current assets are converted into cash within a year",
+      "Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., land versus debtors."
+    },
+    {
+     "question_text": "Goodwill and patents are examples of:",
+     "options": [
+      "Tangible assets",
+      "Current liabilities",
+      "Fictitious assets",
+      "Intangible assets"
+     ],
+     "correct_index": 3,
+     "explanation": "They have no physical existence."
+    },
+    {
+     "question_text": "Fictitious assets are:",
+     "options": [
+      "Cash",
+      "Stock",
+      "Land",
+      "Expenses not yet written off, shown as assets (e.g., preliminary expenses)"
+     ],
+     "correct_index": 3,
+     "explanation": "They have no real value."
+    },
+    {
+     "question_text": "Liabilities are classified into:",
+     "options": [
+      "Current and long-term (non-current)",
+      "Tangible and intangible",
+      "Real and nominal",
+      "Fixed and current"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., creditors versus debentures."
+    },
+    {
+     "question_text": "Capital is the amount:",
+     "options": [
+      "Earned as profit",
+      "Invested by the owner in the business",
+      "Withdrawn",
+      "Owed to outsiders"
+     ],
+     "correct_index": 1,
+     "explanation": "Drawings are amounts withdrawn by the owner."
+    },
+    {
+     "question_text": "Purchase of machinery is:",
+     "options": [
+      "Revenue receipt",
+      "Capital expenditure",
+      "Revenue expenditure",
+      "Loss"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives benefit over several years."
+    },
+    {
+     "question_text": "Deferred revenue expenditure is:",
+     "options": [
+      "Normal expense",
+      "Income",
+      "Revenue expenditure whose benefit extends over several years, e.g., heavy advertising",
+      "Capital"
+     ],
+     "correct_index": 2,
+     "explanation": "It is written off over more than one period."
+    },
+    {
+     "question_text": "The sale of old machinery is a:",
+     "options": [
+      "Loss",
+      "Capital receipt",
+      "Expense",
+      "Revenue receipt"
+     ],
+     "correct_index": 1,
+     "explanation": "Sale of goods is a revenue receipt."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Accounting – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Debtors are persons who:",
+     "options": [
+      "Work in the firm",
+      "The business owes money",
+      "Owe money to the business",
+      "Invest capital"
+     ],
+     "correct_index": 2,
+     "explanation": "Creditors are those to whom the business owes."
+    },
+    {
+     "question_text": "Trade discount differs from cash discount in that trade discount is:",
+     "options": [
+      "Never allowed",
+      "Recorded in books",
+      "For prompt payment",
+      "Allowed on the list price and not recorded in books; cash discount is for prompt payment and recorded"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash discount is shown in the books."
+    },
+    {
+     "question_text": "A bad debt is:",
+     "options": [
+      "Income received",
+      "Expense paid",
+      "An amount due from a debtor that cannot be recovered",
+      "Asset purchased"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a loss to the business."
+    },
+    {
+     "question_text": "Started business with cash Rs 1,00,000. Effect:",
+     "options": [
+      "Assets +1,00,000 and capital +1,00,000",
+      "Assets − 1,00,000",
+      "Assets +1,00,000 and liabilities +1,00,000",
+      "No effect"
+     ],
+     "correct_index": 0,
+     "explanation": "Cash and capital both increase."
+    },
+    {
+     "question_text": "Purchased furniture for cash Rs 20,000. Effect:",
+     "options": [
+      "Liabilities +20,000",
+      "Assets +20,000",
+      "One asset +20,000 and another asset −20,000, so total assets unchanged",
+      "Capital −20,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Furniture increases and cash decreases."
+    },
+    {
+     "question_text": "Purchased goods on credit Rs 30,000. Effect:",
+     "options": [
+      "Assets (stock) +30,000 and liabilities (creditors) +30,000",
+      "No effect",
+      "Assets −30,000",
+      "Capital +30,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Both sides rise by 30,000."
+    },
+    {
+     "question_text": "Paid creditors Rs 10,000. Effect:",
+     "options": [
+      "No effect",
+      "Assets (cash) −10,000 and liabilities −10,000",
+      "Assets +10,000",
+      "Capital −10,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Both fall by 10,000."
+    },
+    {
+     "question_text": "Paid rent Rs 2,000. Effect:",
+     "options": [
+      "Liabilities −2,000",
+      "Assets −2,000 and capital −2,000",
+      "No effect",
+      "Assets +2,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Rent is an expense that reduces capital."
+    },
+    {
+     "question_text": "The owner withdrew Rs 5,000. Effect:",
+     "options": [
+      "Liabilities +5,000",
+      "Assets +5,000",
+      "Assets −5,000 and capital −5,000",
+      "No effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Drawings reduce capital."
+    },
+    {
+     "question_text": "Took a bank loan Rs 50,000. Effect:",
+     "options": [
+      "No effect",
+      "Assets +50,000 and liabilities +50,000",
+      "Assets −50,000",
+      "Capital +50,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash and loan both rise."
+    },
+    {
+     "question_text": "Sold goods costing Rs 8,000 for Rs 10,000 on credit. Effect:",
+     "options": [
+      "Assets +10,000 only",
+      "Assets +2,000 and capital +2,000",
+      "Liabilities +10,000",
+      "Capital −2,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Debtors +10,000, stock −8,000, profit Rs 2,000 adds to capital."
+    },
+    {
+     "question_text": "Assets Rs 5,00,000 and outside liabilities Rs 1,50,000. Capital is:",
+     "options": [
+      "Rs 1,50,000",
+      "Rs 6,50,000",
+      "Rs 5,00,000",
+      "Rs 3,50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Capital = Assets − Liabilities."
+    },
+    {
+     "question_text": "Capital Rs 3,00,000 and liabilities Rs 80,000. Total assets are:",
+     "options": [
+      "Rs 3,80,000",
+      "Rs 2,20,000",
+      "Rs 3,00,000",
+      "Rs 80,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets = Liabilities + Capital."
+    },
+    {
+     "question_text": "Assets Rs 2,40,000 and capital Rs 1,60,000. Liabilities are:",
+     "options": [
+      "Rs 1,60,000",
+      "Rs 80,000",
+      "Rs 4,00,000",
+      "Rs 2,40,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Liabilities = Assets − Capital."
+    },
+    {
+     "question_text": "Opening capital Rs 1,00,000; profit Rs 40,000; drawings Rs 10,000. Closing capital is:",
+     "options": [
+      "Rs 1,40,000",
+      "Rs 90,000",
+      "Rs 1,50,000",
+      "Rs 1,30,000"
+     ],
+     "correct_index": 3,
+     "explanation": "1,00,000 + 40,000 − 10,000."
+    },
+    {
+     "question_text": "The extended accounting equation is:",
+     "options": [
+      "Assets = Liabilities + Capital + Revenue − Expenses − Drawings",
+      "Assets + Capital = Liabilities",
+      "Assets = Liabilities − Capital",
+      "Assets = Capital"
+     ],
+     "correct_index": 0,
+     "explanation": "It includes profit and drawings."
+    },
+    {
+     "question_text": "The single entry system is:",
+     "options": [
+      "An incomplete system that does not record the dual aspect of every transaction",
+      "A computerised system",
+      "A full double entry system",
+      "A cost system"
+     ],
+     "correct_index": 0,
+     "explanation": "Mainly personal accounts and cash book are kept."
+    },
+    {
+     "question_text": "The double entry system records:",
+     "options": [
+      "Only cash",
+      "Only credit",
+      "Only one aspect",
+      "Both the debit and credit aspects of every transaction"
+     ],
+     "correct_index": 3,
+     "explanation": "Every debit has an equal credit."
+    },
+    {
+     "question_text": "The father of double entry (1494) is:",
+     "options": [
+      "Luca Pacioli",
+      "Karl Marx",
+      "Adam Smith",
+      "Alfred Marshall"
+     ],
+     "correct_index": 0,
+     "explanation": "He is an Italian mathematician."
+    },
+    {
+     "question_text": "A feature of double entry is that:",
+     "options": [
+      "It is incomplete",
+      "It needs no ledger",
+      "It uses one account",
+      "Every transaction has two aspects, debit and credit"
+     ],
+     "correct_index": 3,
+     "explanation": "It ensures a complete record."
+    },
+    {
+     "question_text": "An advantage of double entry is that it:",
+     "options": [
+      "Eliminates all fraud",
+      "Allows preparation of a trial balance and checks arithmetical accuracy",
+      "Needs no records",
+      "Is always cheaper"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives a complete record."
+    },
+    {
+     "question_text": "A limitation of double entry is that it:",
+     "options": [
+      "Needs no skill",
+      "Is incomplete",
+      "Detects all errors",
+      "Cannot detect errors of principle or compensating errors"
+     ],
+     "correct_index": 3,
+     "explanation": "The trial balance may still agree."
+    },
+    {
+     "question_text": "The difference between single and double entry is that double entry:",
+     "options": [
+      "Has one aspect",
+      "Has no ledger",
+      "Is a complete system with two aspects, single entry is incomplete",
+      "Is incomplete"
+     ],
+     "correct_index": 2,
+     "explanation": "Double entry is scientific."
+    },
+    {
+     "question_text": "A trial balance is not possible in single entry because:",
+     "options": [
+      "There are no assets",
+      "There is no cash",
+      "There is no ledger",
+      "Only one aspect is recorded, so debits and credits cannot be compared"
+     ],
+     "correct_index": 3,
+     "explanation": "There are no equal totals to compare."
+    },
+    {
+     "question_text": "Profit under single entry is ascertained by:",
+     "options": [
+      "Journal",
+      "Statement of affairs method (comparing capital at two dates)",
+      "Trial balance",
+      "Ledger"
+     ],
+     "correct_index": 1,
+     "explanation": "Profit = closing capital − opening capital + drawings."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Accounting – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Accounts are classified into:",
+     "options": [
+      "Debit and credit",
+      "Asset and liability",
+      "Fixed and current",
+      "Personal, real and nominal"
+     ],
+     "correct_index": 3,
+     "explanation": "The basis of the golden rules."
+    },
+    {
+     "question_text": "Of Cash A/c, Rent A/c, Ram's A/c, Capital A/c, Furniture A/c, Commission Received A/c, the nominal accounts are:",
+     "options": [
+      "Ram's and Capital",
+      "Rent and Commission Received",
+      "Capital and Rent",
+      "Cash and Furniture"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash and Furniture are real; Ram's and Capital are personal."
+    },
+    {
+     "question_text": "The accounting process starts with:",
+     "options": [
+      "Identifying and recording transactions in the journal",
+      "Auditing",
+      "Preparing the balance sheet",
+      "Calculating tax"
+     ],
+     "correct_index": 0,
+     "explanation": "Then ledger, trial balance and final accounts."
+    },
+    {
+     "question_text": "The correct order of the accounting cycle is:",
+     "options": [
+      "Final accounts → Journal",
+      "Ledger → Journal",
+      "Trial balance → Journal",
+      "Journal → Ledger → Trial balance → Final accounts"
+     ],
+     "correct_index": 3,
+     "explanation": "Recording, classifying, summarising."
+    },
+    {
+     "question_text": "A voucher is:",
+     "options": [
+      "A document that is evidence of a transaction",
+      "A report",
+      "An account",
+      "A ledger"
+     ],
+     "correct_index": 0,
+     "explanation": "Examples: receipt, invoice."
+    },
+    {
+     "question_text": "Source documents include:",
+     "options": [
+      "Balance sheet",
+      "Ledger",
+      "Invoices, cash memos and bank statements",
+      "Trial balance"
+     ],
+     "correct_index": 2,
+     "explanation": "They support entries."
+    },
+    {
+     "question_text": "GAAP stands for:",
+     "options": [
+      "Generally Accepted Auditing Practice",
+      "General Audit and Accounting Policy",
+      "Generally Accepted Accounting Principles",
+      "Government Accounting and Audit Procedure"
+     ],
+     "correct_index": 2,
+     "explanation": "The rules followed in preparing accounts."
+    },
+    {
+     "question_text": "The main source of GAAP in India is:",
+     "options": [
+      "Accounting standards issued by ICAI, the Companies Act and other laws",
+      "Only tax law",
+      "Foreign laws",
+      "Only court cases"
+     ],
+     "correct_index": 0,
+     "explanation": "Also guidance notes."
+    },
+    {
+     "question_text": "The role of ICAI is to:",
+     "options": [
+      "Issue accounting standards and regulate the profession",
+      "Set interest rates",
+      "Collect taxes",
+      "Print money"
+     ],
+     "correct_index": 0,
+     "explanation": "The Institute of Chartered Accountants of India."
+    },
+    {
+     "question_text": "Ind AS differs from AS in that Ind AS are:",
+     "options": [
+      "Older standards",
+      "Converged with IFRS and apply to specified companies",
+      "Optional for all",
+      "Tax rules"
+     ],
+     "correct_index": 1,
+     "explanation": "AS are the earlier Indian standards."
+    },
+    {
+     "question_text": "IFRS stands for:",
+     "options": [
+      "International Financial Reporting Standards",
+      "International Fiscal Rules",
+      "International Fund Rules",
+      "Indian Financial Reporting System"
+     ],
+     "correct_index": 0,
+     "explanation": "Issued by the IASB."
+    },
+    {
+     "question_text": "The Companies Act, 2013 requires companies to:",
+     "options": [
+      "Not file returns",
+      "Skip audit",
+      "Avoid tax",
+      "Maintain books of account and prepare financial statements in prescribed form"
+     ],
+     "correct_index": 3,
+     "explanation": "Section 128 deals with books of account."
+    },
+    {
+     "question_text": "NFRA is:",
+     "options": [
+      "National Fund Regulation Agency",
+      "National Fiscal Reserve Authority",
+      "National Financial Reporting Authority",
+      "National Finance Revenue Agency"
+     ],
+     "correct_index": 2,
+     "explanation": "It oversees auditing and accounting standards."
+    },
+    {
+     "question_text": "AS 2 deals with:",
+     "options": [
+      "Cash flow",
+      "Valuation of inventories",
+      "Revenue recognition",
+      "Depreciation"
+     ],
+     "correct_index": 1,
+     "explanation": "Inventories are valued at lower of cost and net realisable value."
+    },
+    {
+     "question_text": "AS 6 deals with:",
+     "options": [
+      "Leases",
+      "Revenue",
+      "Depreciation accounting",
+      "Inventories"
+     ],
+     "correct_index": 2,
+     "explanation": "It covers allocation of depreciable amount over useful life."
+    },
+    {
+     "question_text": "AS 9 deals with:",
+     "options": [
+      "Borrowing costs",
+      "Inventories",
+      "Revenue recognition",
+      "Depreciation"
+     ],
+     "correct_index": 2,
+     "explanation": "It prescribes when revenue is recognised."
+    },
+    {
+     "question_text": "Financial statements include:",
+     "options": [
+      "Journal and ledger",
+      "Voucher",
+      "Income statement and balance sheet",
+      "Trial balance only"
+     ],
+     "correct_index": 2,
+     "explanation": "They show results and position."
+    },
+    {
+     "question_text": "ICDS stands for:",
+     "options": [
+      "Income Computation and Disclosure Standards",
+      "International Commerce and Disclosure Standards",
+      "Income and Cost Disclosure System",
+      "Indian Cost and Disclosure Standards"
+     ],
+     "correct_index": 0,
+     "explanation": "They are used for computing taxable income."
+    },
+    {
+     "question_text": "\"Substance over form\" means:",
+     "options": [
+      "Follow customs only",
+      "Only legal form matters",
+      "Ignore economics",
+      "Transactions are accounted for by their economic reality, not legal form"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., a finance lease treated as purchase."
+    },
+    {
+     "question_text": "The financial year in India runs from:",
+     "options": [
+      "1 July to 30 June",
+      "1 April to 31 March",
+      "1 January to 31 December",
+      "1 October to 30 September"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the accounting year for most businesses."
+    },
+    {
+     "question_text": "Window dressing is:",
+     "options": [
+      "Showcasing goods",
+      "Auditing",
+      "Preparing accounts",
+      "Manipulating accounts to show a better financial position than the true one"
+     ],
+     "correct_index": 3,
+     "explanation": "It is unethical."
+    },
+    {
+     "question_text": "Accounting policies are disclosed so that:",
+     "options": [
+      "Nothing changes",
+      "Taxes fall",
+      "Users can understand how figures were prepared and compare them",
+      "Profits increase"
+     ],
+     "correct_index": 2,
+     "explanation": "AS 1 requires disclosure."
+    },
+    {
+     "question_text": "Profit differs from cash in that profit is:",
+     "options": [
+      "The same",
+      "Revenue less expenses on accrual basis, while cash is actual money available",
+      "Bank balance",
+      "Cash balance"
+     ],
+     "correct_index": 1,
+     "explanation": "A business can be profitable but short of cash."
+    },
+    {
+     "question_text": "Cash basis for companies is:",
+     "options": [
+      "Optional",
+      "Preferred",
+      "Always permitted",
+      "Not permitted; companies must follow the accrual basis"
+     ],
+     "correct_index": 3,
+     "explanation": "The Companies Act requires accrual accounting."
+    },
+    {
+     "question_text": "Which is an example of capital expenditure?",
+     "options": [
+      "Payment of rent",
+      "Purchase of machinery",
+      "Payment of wages",
+      "Payment of salary"
+     ],
+     "correct_index": 1,
+     "explanation": "Revenue expenditure: wages, rent, salaries."
+    }
+   ]
+  }
+ ]
+}

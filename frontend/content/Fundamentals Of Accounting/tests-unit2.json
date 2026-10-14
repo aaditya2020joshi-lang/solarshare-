@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 2: Book-Keeping – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Book-keeping is the art of:",
+     "options": [
+      "Auditing accounts",
+      "Interpreting results",
+      "Recording business transactions systematically in books of account",
+      "Preparing budgets"
+     ],
+     "correct_index": 2,
+     "explanation": "It is the recording base of accounting."
+    },
+    {
+     "question_text": "R.N. Carter defined book-keeping as the science and art of correctly recording in books of account all those business transactions that result in:",
+     "options": [
+      "Only profit",
+      "Only cash receipts",
+      "The transfer of money or money's worth",
+      "Only loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Transfer of money or money's worth is the key idea."
+    },
+    {
+     "question_text": "An objective of book-keeping is:",
+     "options": [
+      "To maintain systematic and permanent records of transactions",
+      "To fix prices",
+      "To eliminate competition",
+      "To raise capital"
+     ],
+     "correct_index": 0,
+     "explanation": "It also helps in finding profit and the financial position."
+    },
+    {
+     "question_text": "A feature of book-keeping is that it:",
+     "options": [
+      "Interprets data",
+      "Records only financial transactions in chronological order",
+      "Analyses results",
+      "Records non-financial events"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a clerical process."
+    },
+    {
+     "question_text": "The two systems of book-keeping are:",
+     "options": [
+      "Cash and credit",
+      "Single entry and double entry",
+      "Journal and ledger",
+      "English and American"
+     ],
+     "correct_index": 1,
+     "explanation": "Double entry is the complete system."
+    },
+    {
+     "question_text": "The double entry principle states that:",
+     "options": [
+      "Only debits are recorded",
+      "Every debit has an equal and corresponding credit",
+      "Transactions are recorded once",
+      "Credits exceed debits"
+     ],
+     "correct_index": 1,
+     "explanation": "Both aspects of each transaction are recorded."
+    },
+    {
+     "question_text": "In accounting, debit and credit are:",
+     "options": [
+      "The left side (Dr) and the right side (Cr) of an account",
+      "Profit and loss",
+      "Assets and liabilities",
+      "Increase and decrease respectively always"
+     ],
+     "correct_index": 0,
+     "explanation": "They are positions, not necessarily increase or decrease."
+    },
+    {
+     "question_text": "A debit entry:",
+     "options": [
+      "Does not always mean an increase; it increases assets and expenses but decreases liabilities and capital",
+      "Always increases",
+      "Always decreases",
+      "Has no effect"
+     ],
+     "correct_index": 0,
+     "explanation": "The effect depends on the type of account."
+    },
+    {
+     "question_text": "The Italian system of book-keeping is another name for:",
+     "options": [
+      "Single entry",
+      "Cameral system",
+      "Double entry system",
+      "American system"
+     ],
+     "correct_index": 2,
+     "explanation": "Luca Pacioli described it in 1494."
+    },
+    {
+     "question_text": "The Cameral system is used for:",
+     "options": [
+      "Partnership firms",
+      "Government accounting",
+      "Small shops",
+      "Banks"
+     ],
+     "correct_index": 1,
+     "explanation": "It was developed for government accounting in Europe."
+    },
+    {
+     "question_text": "The three types of accounts are:",
+     "options": [
+      "Cash, bank and ledger",
+      "Personal, real and nominal",
+      "Debit, credit and balance",
+      "Asset, liability and capital"
+     ],
+     "correct_index": 1,
+     "explanation": "Based on the English approach."
+    },
+    {
+     "question_text": "Personal accounts are classified into:",
+     "options": [
+      "Tangible and intangible",
+      "Real and nominal",
+      "Natural, artificial and representative",
+      "Fixed and current"
+     ],
+     "correct_index": 2,
+     "explanation": "They relate to persons."
+    },
+    {
+     "question_text": "A natural person's account (e.g., Ram's A/c) is a:",
+     "options": [
+      "Real account",
+      "Natural personal account",
+      "Artificial personal account",
+      "Nominal account"
+     ],
+     "correct_index": 1,
+     "explanation": "Artificial persons include firms and companies."
+    },
+    {
+     "question_text": "Representative personal accounts are accounts that:",
+     "options": [
+      "Represent cash",
+      "Represent persons, e.g., outstanding rent and prepaid insurance",
+      "Represent assets",
+      "Represent income"
+     ],
+     "correct_index": 1,
+     "explanation": "They represent persons to whom money is owed or from whom it is due."
+    },
+    {
+     "question_text": "Real accounts relate to:",
+     "options": [
+      "Persons",
+      "Expenses",
+      "Incomes",
+      "Assets and properties, e.g., cash, building"
+     ],
+     "correct_index": 3,
+     "explanation": "They can be tangible or intangible."
+    },
+    {
+     "question_text": "Goodwill is a:",
+     "options": [
+      "Intangible real account",
+      "Tangible real account",
+      "Nominal account",
+      "Personal account"
+     ],
+     "correct_index": 0,
+     "explanation": "Tangible assets can be touched, e.g., furniture."
+    },
+    {
+     "question_text": "Nominal accounts relate to:",
+     "options": [
+      "Capital",
+      "Expenses, losses, incomes and gains",
+      "Persons",
+      "Assets"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., rent, salary, commission received."
+    },
+    {
+     "question_text": "Nominal accounts are called fictitious because:",
+     "options": [
+      "They are permanent",
+      "They have no physical existence and are closed at year end",
+      "They are persons",
+      "They are assets"
+     ],
+     "correct_index": 1,
+     "explanation": "They are transferred to the profit and loss account."
+    },
+    {
+     "question_text": "The golden rule for personal accounts is:",
+     "options": [
+      "Debit the giver, credit the receiver",
+      "Debit the receiver, credit the giver",
+      "Debit what comes in, credit what goes out",
+      "Debit expenses and losses, credit incomes and gains"
+     ],
+     "correct_index": 1,
+     "explanation": "The receiver of the benefit is debited."
+    },
+    {
+     "question_text": "The golden rule for real accounts is:",
+     "options": [
+      "Debit what comes in, credit what goes out",
+      "Debit incomes, credit expenses",
+      "Debit the receiver, credit the giver",
+      "Debit what goes out"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets coming in are debited."
+    },
+    {
+     "question_text": "The golden rule for nominal accounts is:",
+     "options": [
+      "Debit what comes in, credit what goes out",
+      "Debit the receiver, credit the giver",
+      "Credit expenses",
+      "Debit all expenses and losses, credit all incomes and gains"
+     ],
+     "correct_index": 3,
+     "explanation": "Expenses and losses are debited."
+    },
+    {
+     "question_text": "Under the American (accounting equation) approach, assets and expenses are _____ when they increase:",
+     "options": [
+      "Credited",
+      "Closed",
+      "Debited",
+      "Ignored"
+     ],
+     "correct_index": 2,
+     "explanation": "Liabilities, capital and incomes are credited when they increase."
+    },
+    {
+     "question_text": "An increase in assets is recorded by:",
+     "options": [
+      "Debit",
+      "Both",
+      "No entry",
+      "Credit"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets have debit balances."
+    },
+    {
+     "question_text": "An increase in liabilities is recorded by:",
+     "options": [
+      "Credit",
+      "Debit",
+      "Both",
+      "No entry"
+     ],
+     "correct_index": 0,
+     "explanation": "Liabilities have credit balances."
+    },
+    {
+     "question_text": "An increase in capital is recorded by:",
+     "options": [
+      "Credit",
+      "Both",
+      "Debit",
+      "No entry"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital has a credit balance."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Book-Keeping – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An increase in expenses is recorded by:",
+     "options": [
+      "Both",
+      "No entry",
+      "Credit",
+      "Debit"
+     ],
+     "correct_index": 3,
+     "explanation": "Expenses have debit balances."
+    },
+    {
+     "question_text": "An increase in income is recorded by:",
+     "options": [
+      "No entry",
+      "Credit",
+      "Both",
+      "Debit"
+     ],
+     "correct_index": 1,
+     "explanation": "Incomes have credit balances."
+    },
+    {
+     "question_text": "A decrease in assets is recorded by:",
+     "options": [
+      "Debit",
+      "Both",
+      "Credit",
+      "No entry"
+     ],
+     "correct_index": 2,
+     "explanation": "The opposite side from the increase."
+    },
+    {
+     "question_text": "A decrease in liabilities is recorded by:",
+     "options": [
+      "Credit",
+      "No entry",
+      "Debit",
+      "Both"
+     ],
+     "correct_index": 2,
+     "explanation": "The opposite side from the increase."
+    },
+    {
+     "question_text": "Drawings are recorded by:",
+     "options": [
+      "Debiting capital in the ledger always",
+      "Debiting the drawings account (reduces capital)",
+      "No entry",
+      "Crediting drawings"
+     ],
+     "correct_index": 1,
+     "explanation": "Drawings account is debited and closed to capital."
+    },
+    {
+     "question_text": "The English system differs from the American system in that the English system uses:",
+     "options": [
+      "Personal, real and nominal accounts and golden rules",
+      "No rules",
+      "The accounting equation",
+      "Single entry"
+     ],
+     "correct_index": 0,
+     "explanation": "The American system uses the accounting equation."
+    },
+    {
+     "question_text": "Both systems give the same result because:",
+     "options": [
+      "One ignores credit",
+      "One ignores debit",
+      "Each transaction affects debit and credit equally under either approach",
+      "They differ in results"
+     ],
+     "correct_index": 2,
+     "explanation": "They are two ways of reaching the same entry."
+    },
+    {
+     "question_text": "Commenced business with cash: Cash A/c is _____, Capital A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash is real (comes in); capital is personal (giver)."
+    },
+    {
+     "question_text": "Purchased furniture for cash: Furniture A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Furniture comes in; cash goes out."
+    },
+    {
+     "question_text": "Purchased goods on credit from Ram: Purchases A/c is _____, Ram's A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; debited",
+      "Debited; credited",
+      "Credited; credited"
+     ],
+     "correct_index": 2,
+     "explanation": "Goods (expense of trade) come in; Ram is the giver."
+    },
+    {
+     "question_text": "Sold goods on credit to Shyam: Shyam's A/c is _____, Sales A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Shyam is the receiver; sales is income."
+    },
+    {
+     "question_text": "Paid rent in cash: Rent A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Rent is an expense; cash goes out."
+    },
+    {
+     "question_text": "Received commission: Cash A/c is _____, Commission Received A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Commission received is income."
+    },
+    {
+     "question_text": "Withdrew cash for personal use: Drawings A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Drawings reduce capital."
+    },
+    {
+     "question_text": "Paid outstanding wages: Outstanding Wages A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "The liability is cleared."
+    },
+    {
+     "question_text": "Received interest from the bank: Bank A/c is _____, Interest Received A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Interest received is income."
+    },
+    {
+     "question_text": "Depreciation on machinery: Depreciation A/c is _____, Machinery A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "Depreciation is an expense that reduces the asset."
+    },
+    {
+     "question_text": "Bad debts written off: Bad Debts A/c is _____, Debtor's A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Bad debts is a loss."
+    },
+    {
+     "question_text": "Discount allowed to a customer: Discount Allowed A/c is _____, Customer's A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Discount allowed is a loss."
+    },
+    {
+     "question_text": "Discount received from a supplier: Supplier's A/c is _____, Discount Received A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "Discount received is a gain."
+    },
+    {
+     "question_text": "Goods returned to the supplier: Supplier's A/c is _____, Purchases Returns A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; credited",
+      "Credited; credited",
+      "Debited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "The supplier is the receiver of goods."
+    },
+    {
+     "question_text": "Goods returned by a customer: Sales Returns A/c is _____, Customer's A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; credited"
+     ],
+     "correct_index": 2,
+     "explanation": "The customer is the giver of goods."
+    },
+    {
+     "question_text": "Paid insurance premium in advance: Prepaid Insurance A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited",
+      "Debited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Prepaid insurance is an asset."
+    },
+    {
+     "question_text": "Received cash from the debtor: Cash A/c is _____, Debtor's A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Debtor is the giver."
+    },
+    {
+     "question_text": "Paid salary by cheque: Salary A/c is _____, Bank A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; credited",
+      "Debited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Salary is an expense."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Book-Keeping – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Bought a machine on credit: Machinery A/c is _____, Supplier's A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 1,
+     "explanation": "Machine comes in; supplier is the giver."
+    },
+    {
+     "question_text": "Deposited cash into the bank: Bank A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 1,
+     "explanation": "Bank balance increases."
+    },
+    {
+     "question_text": "Withdrew cash from the bank for office use: Cash A/c is _____, Bank A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; credited",
+      "Debited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash comes in; bank goes out."
+    },
+    {
+     "question_text": "Owner introduced additional capital in cash: Cash A/c is _____, Capital A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Capital increases."
+    },
+    {
+     "question_text": "Goods lost by fire: Loss by Fire A/c is _____, Purchases (Stock) A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; debited",
+      "Debited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "Loss is debited; goods go out."
+    },
+    {
+     "question_text": "Goods distributed as free samples: Advertisement A/c is _____, Purchases A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "It is an advertising expense."
+    },
+    {
+     "question_text": "Interest charged on drawings: Drawings A/c is _____, Interest on Drawings A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest on drawings is an income of the business."
+    },
+    {
+     "question_text": "Interest allowed on capital: Interest on Capital A/c is _____, Capital A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; credited",
+      "Debited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Interest on capital is an expense."
+    },
+    {
+     "question_text": "Rent received in advance: Cash A/c is _____, Rent Received in Advance A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a liability to the business."
+    },
+    {
+     "question_text": "Loan taken from a bank: Cash/Bank A/c is _____, Loan A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Cash comes in; the bank is the giver."
+    },
+    {
+     "question_text": "Paid interest on the loan: Interest A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Interest paid is an expense."
+    },
+    {
+     "question_text": "Sold old furniture for cash: Cash A/c is _____, Furniture A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash comes in; furniture goes out."
+    },
+    {
+     "question_text": "Goods taken by the owner for personal use: Drawings A/c is _____, Purchases A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a drawing."
+    },
+    {
+     "question_text": "Cash stolen: Loss by Theft A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; debited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Theft is a loss."
+    },
+    {
+     "question_text": "Sold goods for cash: Cash A/c is _____, Sales A/c is _____:",
+     "options": [
+      "Credited; debited",
+      "Debited; credited",
+      "Credited; credited",
+      "Debited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Sales is income."
+    },
+    {
+     "question_text": "Purchased goods for cash: Purchases A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Purchases come in."
+    },
+    {
+     "question_text": "Paid commission to an agent: Commission A/c is _____, Cash A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Commission paid is an expense."
+    },
+    {
+     "question_text": "Received dividend: Cash A/c is _____, Dividend Received A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Credited; credited",
+      "Debited; debited",
+      "Credited; debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Dividend is income."
+    },
+    {
+     "question_text": "Accrued income: Accrued Income A/c is _____, Income A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Accrued income is an asset."
+    },
+    {
+     "question_text": "Provision for doubtful debts created: Profit and Loss A/c (Bad Debts) is _____, Provision for Doubtful Debts A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "The provision is a charge against profit."
+    },
+    {
+     "question_text": "Bad debts recovered: Cash A/c is _____, Bad Debts Recovered A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a gain."
+    },
+    {
+     "question_text": "A debit note is issued by:",
+     "options": [
+      "The seller to the buyer",
+      "The government",
+      "The buyer to the seller for goods returned or for a correction",
+      "The bank"
+     ],
+     "correct_index": 2,
+     "explanation": "The buyer debits the seller's account."
+    },
+    {
+     "question_text": "A credit note is issued by:",
+     "options": [
+      "The buyer to the seller",
+      "The bank",
+      "The government",
+      "The seller to the buyer for goods returned or overcharge"
+     ],
+     "correct_index": 3,
+     "explanation": "The seller credits the buyer's account."
+    },
+    {
+     "question_text": "Which is NOT a source document?",
+     "options": [
+      "Pay-in-slip",
+      "Cash memo",
+      "Invoice",
+      "Trial balance"
+     ],
+     "correct_index": 3,
+     "explanation": "The trial balance is a statement from the ledger."
+    },
+    {
+     "question_text": "A cash memo is:",
+     "options": [
+      "A ledger",
+      "A credit note",
+      "A document prepared for a cash sale",
+      "A trial balance"
+     ],
+     "correct_index": 2,
+     "explanation": "It is the evidence of a cash transaction."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Book-Keeping – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An invoice differs from a bill in that an invoice is:",
+     "options": [
+      "A document listing goods sold with quantity, price and terms",
+      "A cheque",
+      "A balance sheet",
+      "A trial balance"
+     ],
+     "correct_index": 0,
+     "explanation": "Often used interchangeably, an invoice is for goods, a bill for services."
+    },
+    {
+     "question_text": "A pay-in-slip is used for:",
+     "options": [
+      "Paying tax",
+      "Withdrawing cash",
+      "Paying wages",
+      "Depositing cash or cheques in the bank"
+     ],
+     "correct_index": 3,
+     "explanation": "The bank gives a receipt."
+    },
+    {
+     "question_text": "Vouchers in book-keeping:",
+     "options": [
+      "Eliminate entries",
+      "Are optional",
+      "Replace ledgers",
+      "Serve as evidence of transactions"
+     ],
+     "correct_index": 3,
+     "explanation": "They support entries for audit."
+    },
+    {
+     "question_text": "The capital account is a personal account because:",
+     "options": [
+      "It is income",
+      "It is an expense",
+      "It represents the owner, to whom the business owes the capital",
+      "It is an asset"
+     ],
+     "correct_index": 2,
+     "explanation": "The business is a separate entity."
+    },
+    {
+     "question_text": "The drawings account is a personal account because:",
+     "options": [
+      "It relates to expenses",
+      "It relates to the owner",
+      "It relates to income",
+      "It relates to assets"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a part of the proprietor's capital."
+    },
+    {
+     "question_text": "Goodwill is a real account because:",
+     "options": [
+      "It is an expense",
+      "It is an asset (intangible property)",
+      "It is income",
+      "It is a person"
+     ],
+     "correct_index": 1,
+     "explanation": "It has value but no physical form."
+    },
+    {
+     "question_text": "A debit note differs from a credit note in that the debit note is issued by the:",
+     "options": [
+      "Buyer; credit note by the seller",
+      "Seller; credit note by the buyer",
+      "Bank; credit note by the government",
+      "Auditor; credit note by owner"
+     ],
+     "correct_index": 0,
+     "explanation": "Both adjust the other party's account."
+    },
+    {
+     "question_text": "Capital increases are credited because:",
+     "options": [
+      "Assets = Liabilities + Capital, and the credit side represents capital",
+      "Capital is a debit",
+      "Capital is an asset",
+      "Capital is an expense"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital is on the right side of the equation."
+    },
+    {
+     "question_text": "Assets are shown on the:",
+     "options": [
+      "Both sides",
+      "Credit side (right)",
+      "Neither side",
+      "Debit side (left)"
+     ],
+     "correct_index": 3,
+     "explanation": "Assets have debit balances."
+    },
+    {
+     "question_text": "Liabilities are shown on the:",
+     "options": [
+      "Neither",
+      "Credit side (right)",
+      "Debit side",
+      "Both sides"
+     ],
+     "correct_index": 1,
+     "explanation": "Liabilities have credit balances."
+    },
+    {
+     "question_text": "The sum of debits equals the sum of credits because:",
+     "options": [
+      "Every transaction has equal debit and credit aspects",
+      "Credits are larger",
+      "Random",
+      "Debits are larger"
+     ],
+     "correct_index": 0,
+     "explanation": "Double entry ensures this."
+    },
+    {
+     "question_text": "Bought goods on credit and sold on credit: the accounts affected are:",
+     "options": [
+      "Purchases, supplier, customer and sales",
+      "Furniture only",
+      "Cash only",
+      "Capital only"
+     ],
+     "correct_index": 0,
+     "explanation": "Two entries: purchase and sale."
+    },
+    {
+     "question_text": "Examples of real, personal and nominal accounts respectively are:",
+     "options": [
+      "Ram, Rent, Cash",
+      "Cash, Rent, Ram",
+      "Cash, Ram, Rent",
+      "Rent, Cash, Ram"
+     ],
+     "correct_index": 2,
+     "explanation": "Real: cash; personal: Ram; nominal: rent."
+    },
+    {
+     "question_text": "If only assets are involved in a transaction, the total of assets:",
+     "options": [
+      "Increases",
+      "Remains unchanged",
+      "Decreases",
+      "Doubles"
+     ],
+     "correct_index": 1,
+     "explanation": "One asset increases and another decreases."
+    },
+    {
+     "question_text": "Paying a creditor:",
+     "options": [
+      "Decreases assets and liabilities equally",
+      "Increases capital",
+      "Increases liabilities",
+      "Increases assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Cash and creditors both fall."
+    },
+    {
+     "question_text": "An outstanding expense account shows:",
+     "options": [
+      "Income",
+      "An expense paid",
+      "An expense incurred but not yet paid (a liability)",
+      "An asset"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., outstanding rent."
+    },
+    {
+     "question_text": "A prepaid expense account shows:",
+     "options": [
+      "An outstanding liability",
+      "Income",
+      "An expense paid in advance for a future period (an asset)",
+      "Loss"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., prepaid insurance."
+    },
+    {
+     "question_text": "An accrued income account shows:",
+     "options": [
+      "Loss",
+      "Expense",
+      "Income earned but not yet received (an asset)",
+      "Income received in advance"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., interest receivable."
+    },
+    {
+     "question_text": "Income received in advance is:",
+     "options": [
+      "A liability (income of a future period)",
+      "An expense",
+      "An asset",
+      "Capital"
+     ],
+     "correct_index": 0,
+     "explanation": "It will be earned later."
+    },
+    {
+     "question_text": "Cash discount is a nominal account because it:",
+     "options": [
+      "Represents a loss or gain (an expense or income)",
+      "Is an asset",
+      "Is capital",
+      "Is a person"
+     ],
+     "correct_index": 0,
+     "explanation": "Discount allowed is a loss; discount received is a gain."
+    },
+    {
+     "question_text": "Trade discount is not recorded in the books because:",
+     "options": [
+      "It is capital",
+      "It is a tax",
+      "It is illegal",
+      "It is deducted from the list price on the invoice and only the net amount is recorded"
+     ],
+     "correct_index": 3,
+     "explanation": "Only the net price enters the books."
+    },
+    {
+     "question_text": "\"Debit the receiver, credit the giver\" applies to:",
+     "options": [
+      "Real accounts",
+      "Nominal accounts",
+      "Personal accounts",
+      "All accounts"
+     ],
+     "correct_index": 2,
+     "explanation": "Real and nominal accounts have their own rules."
+    },
+    {
+     "question_text": "An account can have a debit balance and a credit balance at the same time:",
+     "options": [
+      "No; the net balance is either debit or credit",
+      "Yes, always",
+      "Only for expenses",
+      "Only for assets"
+     ],
+     "correct_index": 0,
+     "explanation": "The balance is the difference between the two sides."
+    },
+    {
+     "question_text": "A debit entry on an expense account:",
+     "options": [
+      "Has no effect",
+      "Decreases the expense",
+      "Increases the expense",
+      "Increases income"
+     ],
+     "correct_index": 2,
+     "explanation": "Expenses have debit balances."
+    },
+    {
+     "question_text": "A credit entry on a liability account:",
+     "options": [
+      "Decreases capital",
+      "Decreases the liability",
+      "Has no effect",
+      "Increases the liability"
+     ],
+     "correct_index": 3,
+     "explanation": "Liabilities have credit balances."
+    }
+   ]
+  }
+ ]
+}

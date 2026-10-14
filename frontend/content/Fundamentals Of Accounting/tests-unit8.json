@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 8: Final Accounts of a Sole Proprietorship – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Final accounts are:",
+     "options": [
+      "Journal entries",
+      "Ledger accounts",
+      "Statements prepared at the end of the period to find profit or loss and the financial position",
+      "Daily records"
+     ],
+     "correct_index": 2,
+     "explanation": "They include trading, P&L and balance sheet."
+    },
+    {
+     "question_text": "The components of final accounts are:",
+     "options": [
+      "Journal, ledger and trial balance",
+      "Cash book, bank book and petty cash",
+      "Trading account, profit and loss account and balance sheet",
+      "Sales and purchases books"
+     ],
+     "correct_index": 2,
+     "explanation": "Each serves a purpose."
+    },
+    {
+     "question_text": "An objective of preparing final accounts is to:",
+     "options": [
+      "Prepare a ledger",
+      "Record daily transactions",
+      "Calculate tax only",
+      "Ascertain profit or loss and the financial position"
+     ],
+     "correct_index": 3,
+     "explanation": "They also help users take decisions."
+    },
+    {
+     "question_text": "The trading account is prepared to find:",
+     "options": [
+      "Cash balance",
+      "Financial position",
+      "Net profit",
+      "Gross profit or gross loss"
+     ],
+     "correct_index": 3,
+     "explanation": "It shows the result of buying and selling goods."
+    },
+    {
+     "question_text": "The trading account has on its debit side:",
+     "options": [
+      "Indirect expenses",
+      "Opening stock, purchases and direct expenses",
+      "Sales",
+      "Closing stock"
+     ],
+     "correct_index": 1,
+     "explanation": "Sales and closing stock are on the credit side."
+    },
+    {
+     "question_text": "The formula for gross profit is:",
+     "options": [
+      "Net sales − cost of goods sold",
+      "Purchases − sales",
+      "Sales − expenses",
+      "Net profit + expenses"
+     ],
+     "correct_index": 0,
+     "explanation": "Gross profit appears when credits exceed debits."
+    },
+    {
+     "question_text": "Cost of goods sold =",
+     "options": [
+      "Purchases + sales",
+      "Opening stock − closing stock",
+      "Sales − purchases",
+      "Opening stock + net purchases + direct expenses − closing stock"
+     ],
+     "correct_index": 3,
+     "explanation": "It is the direct cost of goods sold."
+    },
+    {
+     "question_text": "Direct expenses include:",
+     "options": [
+      "Wages, carriage inwards and freight inwards",
+      "Rent of office",
+      "Salaries",
+      "Advertising"
+     ],
+     "correct_index": 0,
+     "explanation": "They are incurred up to bringing goods to a saleable condition."
+    },
+    {
+     "question_text": "Indirect expenses include:",
+     "options": [
+      "Carriage inwards",
+      "Wages",
+      "Salaries, rent and advertising",
+      "Freight inwards"
+     ],
+     "correct_index": 2,
+     "explanation": "They are shown in the P&L account."
+    },
+    {
+     "question_text": "In the trading account, purchases returns are:",
+     "options": [
+      "Ignored",
+      "Deducted from purchases and sales returns from sales",
+      "Added to purchases",
+      "Added to sales"
+     ],
+     "correct_index": 1,
+     "explanation": "They give net purchases and net sales."
+    },
+    {
+     "question_text": "Closing stock is shown on the:",
+     "options": [
+      "Liabilities side",
+      "Credit side of the trading account and the asset side of the balance sheet",
+      "Debit side of the trading account",
+      "P&L account"
+     ],
+     "correct_index": 1,
+     "explanation": "It reduces the cost of goods sold."
+    },
+    {
+     "question_text": "Opening stock is shown on the:",
+     "options": [
+      "Credit side of the trading account",
+      "P&L account",
+      "Debit side of the trading account",
+      "Balance sheet only"
+     ],
+     "correct_index": 2,
+     "explanation": "It adds to the cost of goods sold."
+    },
+    {
+     "question_text": "Closing entries for the trading account transfer:",
+     "options": [
+      "Capital",
+      "Personal accounts",
+      "Real accounts",
+      "Nominal accounts (opening stock, purchases, sales, direct expenses) to the trading account"
+     ],
+     "correct_index": 3,
+     "explanation": "The balance is the gross profit or loss."
+    },
+    {
+     "question_text": "Gross loss arises when:",
+     "options": [
+      "Sales exceed cost",
+      "Net profit is positive",
+      "Credit side exceeds debit side",
+      "Debit side of the trading account exceeds the credit side"
+     ],
+     "correct_index": 3,
+     "explanation": "Cost of goods sold exceeds sales."
+    },
+    {
+     "question_text": "The gross profit ratio is:",
+     "options": [
+      "(Sales ÷ GP) × 100",
+      "(Purchases ÷ sales) × 100",
+      "(Gross profit ÷ net sales) × 100",
+      "(Net profit ÷ sales) × 100"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows gross margin."
+    },
+    {
+     "question_text": "A profit and loss account is prepared to find:",
+     "options": [
+      "Gross profit",
+      "Capital",
+      "Cash balance",
+      "Net profit or net loss"
+     ],
+     "correct_index": 3,
+     "explanation": "It starts with gross profit from the trading account."
+    },
+    {
+     "question_text": "The P&L account begins with:",
+     "options": [
+      "Gross profit (credit side) or gross loss (debit side)",
+      "Capital",
+      "Sales",
+      "Net profit"
+     ],
+     "correct_index": 0,
+     "explanation": "Then indirect expenses and incomes."
+    },
+    {
+     "question_text": "The debit side of the P&L includes:",
+     "options": [
+      "Indirect expenses and losses",
+      "Incomes",
+      "Gross profit",
+      "Gains"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., salaries, rent, depreciation."
+    },
+    {
+     "question_text": "The credit side of the P&L includes:",
+     "options": [
+      "Losses",
+      "Expenses",
+      "Drawings",
+      "Gross profit, other incomes and gains"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., commission received, discount received."
+    },
+    {
+     "question_text": "Selling and distribution expenses include:",
+     "options": [
+      "Depreciation of office equipment",
+      "Interest",
+      "Office rent",
+      "Advertising, carriage outwards and salesmen's salary"
+     ],
+     "correct_index": 3,
+     "explanation": "They are related to selling."
+    },
+    {
+     "question_text": "Administrative expenses include:",
+     "options": [
+      "Carriage outwards",
+      "Office rent, salaries and stationery",
+      "Advertising",
+      "Interest"
+     ],
+     "correct_index": 1,
+     "explanation": "They are incurred in running the office."
+    },
+    {
+     "question_text": "Financial expenses include:",
+     "options": [
+      "Rent",
+      "Wages",
+      "Salaries",
+      "Interest on loans and bank charges"
+     ],
+     "correct_index": 3,
+     "explanation": "They relate to finance."
+    },
+    {
+     "question_text": "Net profit =",
+     "options": [
+      "Sales − purchases",
+      "Gross profit + other incomes − indirect expenses",
+      "Gross profit + expenses",
+      "Gross profit − sales"
+     ],
+     "correct_index": 1,
+     "explanation": "After all expenses."
+    },
+    {
+     "question_text": "Net profit is transferred to:",
+     "options": [
+      "Cash account",
+      "Capital account",
+      "Drawings",
+      "Sales account"
+     ],
+     "correct_index": 1,
+     "explanation": "It increases the owner's capital."
+    },
+    {
+     "question_text": "Drawings are:",
+     "options": [
+      "Not shown in the P&L; deducted from capital in the balance sheet",
+      "Shown in the trading account",
+      "Shown in the P&L",
+      "An expense"
+     ],
+     "correct_index": 0,
+     "explanation": "Drawings reduce capital."
+    }
+   ]
+  },
+  {
+   "title": "Unit 8: Final Accounts of a Sole Proprietorship – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Interest on capital is:",
+     "options": [
+      "An income",
+      "Deducted from capital",
+      "An expense (debited to P&L) and added to capital",
+      "Ignored"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a charge against profit."
+    },
+    {
+     "question_text": "Interest on drawings is:",
+     "options": [
+      "An income (credited to P&L) and added to drawings",
+      "Ignored",
+      "An expense",
+      "Deducted from drawings"
+     ],
+     "correct_index": 0,
+     "explanation": "It is charged to the proprietor."
+    },
+    {
+     "question_text": "The net profit ratio is:",
+     "options": [
+      "(Gross profit ÷ net sales) × 100",
+      "(Expenses ÷ sales) × 100",
+      "(Net profit ÷ net sales) × 100",
+      "(Sales ÷ net profit) × 100"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows overall profitability."
+    },
+    {
+     "question_text": "A balance sheet is:",
+     "options": [
+      "A journal",
+      "A summary of profit",
+      "A statement of assets, liabilities and capital at a given date",
+      "An account"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows financial position."
+    },
+    {
+     "question_text": "A balance sheet is:",
+     "options": [
+      "A journal",
+      "A ledger",
+      "An account",
+      "A statement, not an account"
+     ],
+     "correct_index": 3,
+     "explanation": "It is not part of the double entry."
+    },
+    {
+     "question_text": "Marshalling is:",
+     "options": [
+      "Valuing stock",
+      "Arranging assets and liabilities in a particular order",
+      "Closing accounts",
+      "Posting entries"
+     ],
+     "correct_index": 1,
+     "explanation": "Two orders are used: liquidity and permanence."
+    },
+    {
+     "question_text": "The liquidity order shows:",
+     "options": [
+      "Liabilities first",
+      "Fixed assets first",
+      "Cash last",
+      "Most liquid assets first (cash), the permanence order shows fixed assets first"
+     ],
+     "correct_index": 3,
+     "explanation": "Banks use liquidity order; companies use permanence order."
+    },
+    {
+     "question_text": "Assets are classified in the balance sheet as:",
+     "options": [
+      "Income and expense",
+      "Real and nominal",
+      "Debit and credit",
+      "Fixed, current, intangible and fictitious"
+     ],
+     "correct_index": 3,
+     "explanation": "Liabilities: long-term, current."
+    },
+    {
+     "question_text": "The trial balance differs from the balance sheet in that the trial balance:",
+     "options": [
+      "Lists only liabilities",
+      "Lists only assets",
+      "Is a final account",
+      "Lists all ledger balances, the balance sheet only assets, liabilities and capital"
+     ],
+     "correct_index": 3,
+     "explanation": "The balance sheet is prepared after the P&L."
+    },
+    {
+     "question_text": "The trading account differs from the P&L account in that the trading account shows:",
+     "options": [
+      "Net profit",
+      "Financial position",
+      "Gross profit, the P&L shows net profit",
+      "Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Trading deals with direct items."
+    },
+    {
+     "question_text": "Closing capital =",
+     "options": [
+      "Net profit only",
+      "Capital + drawings",
+      "Opening capital + net profit + additional capital − drawings",
+      "Opening capital − profit"
+     ],
+     "correct_index": 2,
+     "explanation": "It appears on the liabilities side."
+    },
+    {
+     "question_text": "Adjusting entries are entries:",
+     "options": [
+      "Passed for sales",
+      "Passed daily",
+      "Passed in the ledger",
+      "Passed at the year-end to record items not yet recorded, e.g., outstanding expenses and depreciation"
+     ],
+     "correct_index": 3,
+     "explanation": "They follow the accrual concept."
+    },
+    {
+     "question_text": "Adjustments are required to:",
+     "options": [
+      "Increase cash",
+      "Delete errors",
+      "Ensure all incomes and expenses of the year are recorded (matching concept)",
+      "Reduce tax"
+     ],
+     "correct_index": 2,
+     "explanation": "They give a true profit."
+    },
+    {
+     "question_text": "The double effect of adjustments means they:",
+     "options": [
+      "Affect only the balance sheet",
+      "Affect nothing",
+      "Affect both the P&L (or trading) account and the balance sheet",
+      "Affect only P&L"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., outstanding rent is an expense and a liability."
+    },
+    {
+     "question_text": "An adjustment has only a single effect when:",
+     "options": [
+      "It is prepaid insurance",
+      "It is outstanding rent",
+      "It is depreciation",
+      "It is already deducted in the trial balance or affects only one statement"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., closing stock given in the trial balance."
+    },
+    {
+     "question_text": "Closing stock given in the adjustment is shown:",
+     "options": [
+      "Nowhere",
+      "Only in the balance sheet",
+      "On the credit side of the trading account and as an asset in the balance sheet",
+      "Only in the trading account"
+     ],
+     "correct_index": 2,
+     "explanation": "Both places."
+    },
+    {
+     "question_text": "Closing stock given in the trial balance is shown:",
+     "options": [
+      "On the liabilities side",
+      "Nowhere",
+      "On the credit of the trading account",
+      "Only in the balance sheet as an asset"
+     ],
+     "correct_index": 3,
+     "explanation": "It has already been adjusted in purchases."
+    },
+    {
+     "question_text": "Outstanding expenses are:",
+     "options": [
+      "Ignored",
+      "Added to the expense in the P&L and shown as a liability in the balance sheet",
+      "Shown as an asset",
+      "Deducted from expense"
+     ],
+     "correct_index": 1,
+     "explanation": "They are payable."
+    },
+    {
+     "question_text": "Prepaid expenses are:",
+     "options": [
+      "Added to expense",
+      "Ignored",
+      "Shown as a liability",
+      "Deducted from the expense in the P&L and shown as an asset"
+     ],
+     "correct_index": 3,
+     "explanation": "They are benefit of a future period."
+    },
+    {
+     "question_text": "Accrued income is:",
+     "options": [
+      "Deducted from income",
+      "Added to the income in the P&L and shown as an asset",
+      "Shown as a liability",
+      "Ignored"
+     ],
+     "correct_index": 1,
+     "explanation": "It is receivable."
+    },
+    {
+     "question_text": "Income received in advance is:",
+     "options": [
+      "Ignored",
+      "Shown as an asset",
+      "Added to income",
+      "Deducted from income in the P&L and shown as a liability"
+     ],
+     "correct_index": 3,
+     "explanation": "It belongs to a future period."
+    },
+    {
+     "question_text": "Depreciation is:",
+     "options": [
+      "Debited to P&L and deducted from the asset in the balance sheet",
+      "Credited to P&L",
+      "Added to the asset",
+      "Ignored"
+     ],
+     "correct_index": 0,
+     "explanation": "It spreads the cost over life."
+    },
+    {
+     "question_text": "Further bad debts are:",
+     "options": [
+      "Ignored",
+      "Debited to P&L and deducted from debtors in the balance sheet",
+      "Added to debtors",
+      "Credited to P&L"
+     ],
+     "correct_index": 1,
+     "explanation": "They are losses."
+    },
+    {
+     "question_text": "A provision for doubtful debts is:",
+     "options": [
+      "Shown as an asset",
+      "Ignored",
+      "Charged to the P&L and deducted from debtors in the balance sheet",
+      "Added to debtors"
+     ],
+     "correct_index": 2,
+     "explanation": "It anticipates future bad debts."
+    },
+    {
+     "question_text": "A provision for discount on debtors is:",
+     "options": [
+      "Added to debtors",
+      "Credited to P&L",
+      "Charged to the P&L and deducted from debtors",
+      "Ignored"
+     ],
+     "correct_index": 2,
+     "explanation": "It anticipates discount to be allowed."
+    }
+   ]
+  },
+  {
+   "title": "Unit 8: Final Accounts of a Sole Proprietorship – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A provision for discount is calculated on:",
+     "options": [
+      "Total sales",
+      "Total debtors",
+      "Debtors after deducting bad debts and provision for doubtful debts",
+      "Total purchases"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a percentage of good debtors."
+    },
+    {
+     "question_text": "A reserve differs from a provision in that a reserve is:",
+     "options": [
+      "A liability",
+      "A charge against profit",
+      "An appropriation of profit, while a provision is a charge against profit",
+      "A loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Reserves strengthen the financial position."
+    },
+    {
+     "question_text": "Goods taken by the proprietor are:",
+     "options": [
+      "Added to sales",
+      "Added to purchases",
+      "Deducted from purchases and debited to drawings",
+      "Ignored"
+     ],
+     "correct_index": 2,
+     "explanation": "They are drawings."
+    },
+    {
+     "question_text": "When insured goods are destroyed by fire:",
+     "options": [
+      "The insurance claim admitted is shown as an asset and only the net loss is charged to P&L",
+      "The claim is income",
+      "No entry",
+      "The whole loss is charged"
+     ],
+     "correct_index": 0,
+     "explanation": "The claim is receivable."
+    },
+    {
+     "question_text": "Outstanding interest on loan is:",
+     "options": [
+      "Deducted from interest",
+      "Added to interest in the P&L and shown as a liability",
+      "Shown as an asset",
+      "Ignored"
+     ],
+     "correct_index": 1,
+     "explanation": "It is payable."
+    },
+    {
+     "question_text": "Outstanding wages Rs 3,000: Wages A/c is _____, Outstanding Wages A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited",
+      "Debited; debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Expense and liability."
+    },
+    {
+     "question_text": "Prepaid insurance Rs 1,000: Prepaid Insurance A/c is _____, Insurance A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; credited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Asset created and expense reduced."
+    },
+    {
+     "question_text": "Depreciation Rs 6,000: Depreciation A/c is _____, Asset A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 1,
+     "explanation": "Expense and reduction in asset."
+    },
+    {
+     "question_text": "Accrued commission Rs 2,000: Accrued Commission A/c is _____, Commission Received A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Credited; debited",
+      "Debited; debited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Asset and income."
+    },
+    {
+     "question_text": "Interest on capital Rs 5,000: Interest on Capital A/c is _____, Capital A/c is _____:",
+     "options": [
+      "Debited; credited",
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited"
+     ],
+     "correct_index": 0,
+     "explanation": "Expense and increase in capital."
+    },
+    {
+     "question_text": "Interest on drawings Rs 600: Drawings A/c is _____, Interest on Drawings A/c is _____:",
+     "options": [
+      "Debited; debited",
+      "Credited; debited",
+      "Credited; credited",
+      "Debited; credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Income and increase in drawings."
+    },
+    {
+     "question_text": "Provision for doubtful debts Rs 1,950: P&L A/c is _____, Provision A/c is _____:",
+     "options": [
+      "Credited; credited",
+      "Debited; debited",
+      "Debited; credited",
+      "Credited; debited"
+     ],
+     "correct_index": 2,
+     "explanation": "Charge against profit."
+    },
+    {
+     "question_text": "The closing entry to transfer net profit Rs 48,050 to the capital is:",
+     "options": [
+      "Drawings Dr to Capital",
+      "Capital Dr to Profit and Loss",
+      "Cash Dr to Capital",
+      "Profit and Loss A/c Dr to Capital A/c"
+     ],
+     "correct_index": 3,
+     "explanation": "Profit increases capital."
+    },
+    {
+     "question_text": "Opening stock 20,000; purchases 1,40,000; direct expenses 23,000; closing stock 35,000. The cost of goods sold is:",
+     "options": [
+      "Rs 1,35,000",
+      "Rs 1,48,000",
+      "Rs 1,63,000",
+      "Rs 1,83,000"
+     ],
+     "correct_index": 1,
+     "explanation": "20,000 + 1,40,000 + 23,000 − 35,000."
+    },
+    {
+     "question_text": "Net sales 2,55,000 and COGS 1,48,000. The gross profit is:",
+     "options": [
+      "Rs 2,55,000",
+      "Rs 4,03,000",
+      "Rs 1,07,000",
+      "Rs 1,48,000"
+     ],
+     "correct_index": 2,
+     "explanation": "2,55,000 − 1,48,000."
+    },
+    {
+     "question_text": "Purchases 1,50,000; returns 10,000. Net purchases are:",
+     "options": [
+      "Rs 1,40,000",
+      "Rs 10,000",
+      "Rs 1,50,000",
+      "Rs 1,60,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Purchases − returns."
+    },
+    {
+     "question_text": "Sales 2,60,000; returns 5,000. Net sales are:",
+     "options": [
+      "Rs 2,60,000",
+      "Rs 2,55,000",
+      "Rs 2,65,000",
+      "Rs 5,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Sales − returns."
+    },
+    {
+     "question_text": "Gross profit 1,07,000; expenses 59,000; other income 50. The net profit is:",
+     "options": [
+      "Rs 48,050",
+      "Rs 1,66,050",
+      "Rs 47,950",
+      "Rs 59,050"
+     ],
+     "correct_index": 0,
+     "explanation": "1,07,000 − 59,000 + 50."
+    },
+    {
+     "question_text": "Gross profit 1,07,000; net sales 2,55,000. Gross profit ratio is approximately:",
+     "options": [
+      "41.96%",
+      "35%",
+      "58.04%",
+      "50%"
+     ],
+     "correct_index": 0,
+     "explanation": "1,07,000/2,55,000 × 100."
+    },
+    {
+     "question_text": "Net profit 48,050; net sales 2,55,000. Net profit ratio is approximately:",
+     "options": [
+      "12%",
+      "18.84%",
+      "41.96%",
+      "25%"
+     ],
+     "correct_index": 1,
+     "explanation": "48,050/2,55,000 × 100."
+    },
+    {
+     "question_text": "Opening stock 10,000; purchases 80,000; returns 5,000; wages 8,000; carriage 2,000; sales 1,40,000; sales returns 4,000; closing stock 15,000. The gross profit is:",
+     "options": [
+      "Rs 56,000",
+      "Rs 41,000",
+      "Rs 66,000",
+      "Rs 36,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Cr: 1,36,000 + 15,000 = 1,51,000; Dr: 10,000 + 75,000 + 8,000 + 2,000 = 95,000."
+    },
+    {
+     "question_text": "GP 40,000; salaries 12,000; rent 6,000; commission received 3,000; depreciation 4,000. The net profit is:",
+     "options": [
+      "Rs 21,000",
+      "Rs 25,000",
+      "Rs 18,000",
+      "Rs 28,000"
+     ],
+     "correct_index": 0,
+     "explanation": "40,000 + 3,000 − 22,000."
+    },
+    {
+     "question_text": "GP 60,000; salaries 15,000; rent 8,000; interest paid 2,000; discount allowed 1,000; discount received 1,500; commission earned 4,000. The net profit is:",
+     "options": [
+      "Rs 35,500",
+      "Rs 37,500",
+      "Rs 41,500",
+      "Rs 39,500"
+     ],
+     "correct_index": 3,
+     "explanation": "60,000 + 1,500 + 4,000 − 26,000."
+    },
+    {
+     "question_text": "Capital 1,20,000; net profit 30,000; drawings 10,000. The closing capital is:",
+     "options": [
+      "Rs 1,50,000",
+      "Rs 1,60,000",
+      "Rs 1,40,000",
+      "Rs 1,30,000"
+     ],
+     "correct_index": 2,
+     "explanation": "1,20,000 + 30,000 − 10,000."
+    },
+    {
+     "question_text": "In final accounts prepared from a trial balance, the total of the balance sheet must:",
+     "options": [
+      "Be zero",
+      "Be greater on liabilities",
+      "Be greater on assets",
+      "Agree on both sides (assets = liabilities + capital)"
+     ],
+     "correct_index": 3,
+     "explanation": "Verify the totals."
+    }
+   ]
+  },
+  {
+   "title": "Unit 8: Final Accounts of a Sole Proprietorship – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Opening stock 8,000; purchases 60,000; sales 95,000; wages 4,000; closing stock 12,000; rent 6,000 (plus outstanding 1,000); salaries 9,000. The net profit is:",
+     "options": [
+      "Rs 20,000",
+      "Rs 35,000",
+      "Rs 19,000",
+      "Rs 26,000"
+     ],
+     "correct_index": 2,
+     "explanation": "GP 35,000 − (7,000 + 9,000)."
+    },
+    {
+     "question_text": "Depreciation on furniture of Rs 20,000 at 10% is:",
+     "options": [
+      "Rs 4,000",
+      "Rs 2,000",
+      "Rs 200",
+      "Rs 20,000"
+     ],
+     "correct_index": 1,
+     "explanation": "10% of 20,000."
+    },
+    {
+     "question_text": "Closing capital 2,10,000; net profit 50,000; drawings 20,000; additional capital 10,000. The opening capital is:",
+     "options": [
+      "Rs 1,70,000",
+      "Rs 2,50,000",
+      "Rs 1,50,000",
+      "Rs 2,30,000"
+     ],
+     "correct_index": 0,
+     "explanation": "2,10,000 − 50,000 + 20,000 − 10,000."
+    },
+    {
+     "question_text": "A net loss is shown in the capital account:",
+     "options": [
+      "On the credit side",
+      "In the P&L only",
+      "On the debit side (reducing capital)",
+      "Nowhere"
+     ],
+     "correct_index": 2,
+     "explanation": "Loss reduces capital."
+    },
+    {
+     "question_text": "Omission of closing stock:",
+     "options": [
+      "Understates gross profit",
+      "Doubles gross profit",
+      "Has no effect",
+      "Overstates gross profit"
+     ],
+     "correct_index": 0,
+     "explanation": "COGS is overstated."
+    },
+    {
+     "question_text": "Unrecorded outstanding expenses:",
+     "options": [
+      "Have no effect",
+      "Understate net profit",
+      "Overstate net profit",
+      "Double net profit"
+     ],
+     "correct_index": 2,
+     "explanation": "Expenses are understated."
+    },
+    {
+     "question_text": "Prepaid expenses not accounted for:",
+     "options": [
+      "Have no effect",
+      "Understate net profit",
+      "Double profit",
+      "Overstate net profit"
+     ],
+     "correct_index": 1,
+     "explanation": "Expenses are overstated."
+    },
+    {
+     "question_text": "Overvalued closing stock:",
+     "options": [
+      "Doubles profit",
+      "Has no effect",
+      "Understates net profit",
+      "Overstates net profit"
+     ],
+     "correct_index": 3,
+     "explanation": "COGS is understated."
+    },
+    {
+     "question_text": "Capital in the balance sheet differs from the opening capital because of:",
+     "options": [
+      "Profit, additional capital and drawings during the year",
+      "Tax",
+      "Nothing",
+      "Inflation only"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the closing capital."
+    },
+    {
+     "question_text": "The balance sheet is important to lenders because it:",
+     "options": [
+      "Shows the assets, liabilities and solvency of the business",
+      "Shows daily cash",
+      "Shows tax",
+      "Shows sales"
+     ],
+     "correct_index": 0,
+     "explanation": "It shows ability to repay."
+    },
+    {
+     "question_text": "Final accounts are significant to tax authorities because:",
+     "options": [
+      "They set capital",
+      "They set wages",
+      "Income tax is computed on the profit shown",
+      "They set sales"
+     ],
+     "correct_index": 2,
+     "explanation": "Profit determines tax."
+    },
+    {
+     "question_text": "Final accounts help in comparison with competitors by:",
+     "options": [
+      "Increasing cost",
+      "Providing data for ratio analysis",
+      "Reducing sales",
+      "Hiding data"
+     ],
+     "correct_index": 1,
+     "explanation": "They allow benchmarking."
+    },
+    {
+     "question_text": "A limitation of final accounts is that they:",
+     "options": [
+      "Show current values",
+      "Are based on historical cost and estimates and ignore non-monetary factors",
+      "Show all factors",
+      "Are always exact"
+     ],
+     "correct_index": 1,
+     "explanation": "They are not completely accurate."
+    },
+    {
+     "question_text": "The accounting period concept in final accounts means:",
+     "options": [
+      "Profit is measured daily",
+      "Profit is never measured",
+      "Profit is measured over a defined period, usually one year",
+      "Profit is measured over 10 years"
+     ],
+     "correct_index": 2,
+     "explanation": "It allows periodic reporting."
+    },
+    {
+     "question_text": "The profit of a manufacturing concern differs because it prepares:",
+     "options": [
+      "Only a balance sheet",
+      "Only a P&L account",
+      "No accounts",
+      "A manufacturing account before the trading account"
+     ],
+     "correct_index": 3,
+     "explanation": "It shows the cost of production."
+    },
+    {
+     "question_text": "The manufacturing account is prepared to find:",
+     "options": [
+      "Net profit",
+      "The cost of goods manufactured",
+      "Cash balance",
+      "Capital"
+     ],
+     "correct_index": 1,
+     "explanation": "It includes materials, labour and factory overheads."
+    },
+    {
+     "question_text": "The vertical format of the balance sheet:",
+     "options": [
+      "Lists side by side",
+      "Lists assets and liabilities one below the other",
+      "Is a T-account",
+      "Lists only assets"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the format used by companies."
+    },
+    {
+     "question_text": "Opening stock 12,000; purchases 90,000; purchases returns 4,000; sales 1,45,000; sales returns 5,000; carriage inwards 3,000; wages 7,000; closing stock 18,000. The gross profit is:",
+     "options": [
+      "Rs 62,000",
+      "Rs 40,000",
+      "Rs 58,000",
+      "Rs 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Credit 1,58,000 − debit 1,08,000."
+    },
+    {
+     "question_text": "GP 55,000; salaries 14,000; rent 6,000; advertising 4,000; discount received 1,200; interest received 800; depreciation 3,000. The net profit is:",
+     "options": [
+      "Rs 25,000",
+      "Rs 30,000",
+      "Rs 28,000",
+      "Rs 32,000"
+     ],
+     "correct_index": 1,
+     "explanation": "55,000 + 2,000 − 27,000."
+    },
+    {
+     "question_text": "Capital 1,00,000; net profit 28,000; drawings 8,000; creditors 22,000; bills payable 5,000. The balance sheet total is:",
+     "options": [
+      "Rs 1,27,000",
+      "Rs 1,47,000",
+      "Rs 1,42,000",
+      "Rs 1,55,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Capital 1,20,000 + 22,000 + 5,000."
+    },
+    {
+     "question_text": "Opening stock 10,000; purchases 70,000; sales 1,10,000; wages 5,000; salaries 12,000 (outstanding 2,000); rent 6,000 (prepaid 500); closing stock 15,000; depreciation 10% on Rs 30,000. The net profit is:",
+     "options": [
+      "Rs 20,500",
+      "Rs 17,500",
+      "Rs 12,500",
+      "Rs 22,500"
+     ],
+     "correct_index": 1,
+     "explanation": "GP 40,000 − (14,000 + 5,500 + 3,000)."
+    },
+    {
+     "question_text": "Opening capital 80,000; net profit 22,000; drawings 9,000; interest on capital 4,000; interest on drawings 500. The closing capital is:",
+     "options": [
+      "Rs 1,05,500",
+      "Rs 97,500",
+      "Rs 92,500",
+      "Rs 96,500"
+     ],
+     "correct_index": 3,
+     "explanation": "80,000 + 22,000 + 4,000 − 9,000 − 500."
+    },
+    {
+     "question_text": "Debtors 60,000; further bad debts 2,000; provision for doubtful debts 5%. The provision is:",
+     "options": [
+      "Rs 2,900",
+      "Rs 3,000",
+      "Rs 3,100",
+      "Rs 2,000"
+     ],
+     "correct_index": 0,
+     "explanation": "5% of 58,000."
+    },
+    {
+     "question_text": "Debtors 50,000; bad debts 2,000; provision for doubtful debts 5%; provision for discount 2%. The provision for discount is:",
+     "options": [
+      "Rs 912",
+      "Rs 960",
+      "Rs 1,000",
+      "Rs 900"
+     ],
+     "correct_index": 0,
+     "explanation": "Debtors 48,000 − 2,400 = 45,600; 2% = 912."
+    },
+    {
+     "question_text": "Old provision 3,000; new provision 3,500; bad debts 1,200. The amount charged to P&L is:",
+     "options": [
+      "Rs 4,700",
+      "Rs 500",
+      "Rs 1,700",
+      "Rs 700"
+     ],
+     "correct_index": 2,
+     "explanation": "1,200 + (3,500 − 3,000)."
+    }
+   ]
+  }
+ ]
+}

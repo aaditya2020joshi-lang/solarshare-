@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 9: Depreciation Accounting – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Depreciation is:",
+     "options": [
+      "The permanent and gradual decrease in the value of a fixed asset due to use, time or obsolescence",
+      "An increase in asset value",
+      "A temporary fall in market value",
+      "A cash expense"
+     ],
+     "correct_index": 0,
+     "explanation": "The cost of the asset is spread over its life."
+    },
+    {
+     "question_text": "Under AS 6, depreciation is a measure of:",
+     "options": [
+      "The wearing out, consumption or other loss of value of a depreciable asset",
+      "The profit",
+      "The market price",
+      "The cash outflow"
+     ],
+     "correct_index": 0,
+     "explanation": "Arising from use, effluxion of time or obsolescence."
+    },
+    {
+     "question_text": "A feature of depreciation is that it:",
+     "options": [
+      "Is a cash payment",
+      "Increases asset value",
+      "Is a non-cash charge spread over the asset's useful life",
+      "Applies to all assets"
+     ],
+     "correct_index": 2,
+     "explanation": "It is charged every year."
+    },
+    {
+     "question_text": "Land is not depreciated because:",
+     "options": [
+      "It generally has an unlimited life and does not wear out",
+      "It is cheap",
+      "It is movable",
+      "It is intangible"
+     ],
+     "correct_index": 0,
+     "explanation": "Its value normally does not decline through use."
+    },
+    {
+     "question_text": "Depreciation is:",
+     "options": [
+      "A cash expense",
+      "A cash receipt",
+      "A non-cash expense",
+      "A tax payment"
+     ],
+     "correct_index": 2,
+     "explanation": "No cash leaves the business when it is charged."
+    },
+    {
+     "question_text": "Scrap (residual) value is:",
+     "options": [
+      "The estimated value of an asset at the end of its useful life",
+      "The cost of the asset",
+      "Zero always",
+      "The market value today"
+     ],
+     "correct_index": 0,
+     "explanation": "It is estimated at the time of purchase."
+    },
+    {
+     "question_text": "Useful life is:",
+     "options": [
+      "Its physical life",
+      "Its guarantee",
+      "Its age",
+      "The period over which an asset is expected to be used by the business"
+     ],
+     "correct_index": 3,
+     "explanation": "It may be shorter than its physical life."
+    },
+    {
+     "question_text": "The depreciable amount is:",
+     "options": [
+      "Scrap value only",
+      "Cost plus scrap value",
+      "Book value",
+      "Cost less scrap value"
+     ],
+     "correct_index": 3,
+     "explanation": "The amount to be written off."
+    },
+    {
+     "question_text": "Book value (written down value) is:",
+     "options": [
+      "Cost plus depreciation",
+      "Cost less accumulated depreciation",
+      "Scrap value",
+      "Market value"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the carrying amount."
+    },
+    {
+     "question_text": "The cost of an asset for depreciation includes:",
+     "options": [
+      "Purchase price plus freight, installation and other costs to bring it into use",
+      "Only installation",
+      "Only freight",
+      "Only the purchase price"
+     ],
+     "correct_index": 0,
+     "explanation": "All costs incurred to make it ready for use."
+    },
+    {
+     "question_text": "Depletion is:",
+     "options": [
+      "Wear and tear of machinery",
+      "Fall in the value of patents",
+      "Fall in market value",
+      "The exhaustion of a natural resource by extraction, e.g., a mine"
+     ],
+     "correct_index": 3,
+     "explanation": "It applies to wasting assets."
+    },
+    {
+     "question_text": "Amortisation is:",
+     "options": [
+      "Depletion of mines",
+      "Revaluation of stock",
+      "The writing off of an intangible asset over its useful life, e.g., patents",
+      "Depreciation of machinery"
+     ],
+     "correct_index": 2,
+     "explanation": "It applies to intangible assets."
+    },
+    {
+     "question_text": "Fluctuation differs from depreciation in that fluctuation is:",
+     "options": [
+      "A temporary change in market value and is not recorded in the books",
+      "A cash expense",
+      "A tax",
+      "A permanent fall in value"
+     ],
+     "correct_index": 0,
+     "explanation": "Depreciation is permanent and recorded."
+    },
+    {
+     "question_text": "Obsolescence means:",
+     "options": [
+      "Loss of usefulness of an asset because of new technology or changes in demand",
+      "Passage of time",
+      "Loss by fire",
+      "Normal wear and tear"
+     ],
+     "correct_index": 0,
+     "explanation": "The asset becomes out of date."
+    },
+    {
+     "question_text": "Depreciation applies to tangible fixed assets, depletion to _____, and amortisation to _____:",
+     "options": [
+      "Current assets; fixed assets",
+      "Wasting natural resources; intangible assets",
+      "Intangible assets; natural resources",
+      "Buildings; machinery"
+     ],
+     "correct_index": 1,
+     "explanation": "Each term is for a different type of asset."
+    },
+    {
+     "question_text": "Depreciation is necessary to:",
+     "options": [
+      "Reduce tax only",
+      "Increase assets",
+      "Increase profit",
+      "Ascertain the true profit and show assets at a fair value"
+     ],
+     "correct_index": 3,
+     "explanation": "Ignoring it overstates profit."
+    },
+    {
+     "question_text": "Depreciation relates to the matching concept because it:",
+     "options": [
+      "Is a tax",
+      "Ignores revenues",
+      "Is a cash flow",
+      "Allocates the cost of the asset to the periods benefiting from its use"
+     ],
+     "correct_index": 3,
+     "explanation": "Cost is matched with revenue."
+    },
+    {
+     "question_text": "Depreciation:",
+     "options": [
+      "Does not itself provide funds, but retaining profit equal to it conserves funds for replacement",
+      "Provides cash automatically",
+      "Increases cash",
+      "Is paid to the bank"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a non-cash charge."
+    },
+    {
+     "question_text": "Causes of depreciation include:",
+     "options": [
+      "Purchases",
+      "Wear and tear, efflux of time, obsolescence, exhaustion and accident",
+      "Sales",
+      "Profit"
+     ],
+     "correct_index": 1,
+     "explanation": "Both physical and economic causes."
+    },
+    {
+     "question_text": "Wear and tear as a cause means:",
+     "options": [
+      "Technology",
+      "Accident",
+      "The passage of time",
+      "The decline in value because of use of the asset"
+     ],
+     "correct_index": 3,
+     "explanation": "Machines wear out with use."
+    },
+    {
+     "question_text": "Efflux of time as a cause means:",
+     "options": [
+      "Accident only",
+      "Use only",
+      "Value rises",
+      "Value falls with the passage of time even if the asset is not used"
+     ],
+     "correct_index": 3,
+     "explanation": "Examples: leases and patents."
+    },
+    {
+     "question_text": "Obsolescence as a cause means:",
+     "options": [
+      "Loss of value due to changes in technology or fashion",
+      "Passage of time",
+      "Normal use",
+      "Accident"
+     ],
+     "correct_index": 0,
+     "explanation": "A newer model makes the asset out of date."
+    },
+    {
+     "question_text": "Exhaustion as a cause means:",
+     "options": [
+      "The asset's contents are used up, e.g., mines and quarries",
+      "Fashion",
+      "Fire",
+      "Wear and tear"
+     ],
+     "correct_index": 0,
+     "explanation": "The deposit is extracted."
+    },
+    {
+     "question_text": "Accident as a cause means:",
+     "options": [
+      "Fashion",
+      "Normal use",
+      "Sudden loss of value through fire, flood or breakdown",
+      "Time"
+     ],
+     "correct_index": 2,
+     "explanation": "It causes unexpected damage."
+    },
+    {
+     "question_text": "Factors affecting the amount of depreciation include:",
+     "options": [
+      "Purchases",
+      "Cost, estimated scrap value and estimated useful life",
+      "Sales",
+      "Capital"
+     ],
+     "correct_index": 1,
+     "explanation": "Plus the method adopted."
+    }
+   ]
+  },
+  {
+   "title": "Unit 9: Depreciation Accounting – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The straight line method charges:",
+     "options": [
+      "A declining amount",
+      "Nothing",
+      "A rising amount",
+      "An equal amount every year = (Cost − scrap) ÷ life"
+     ],
+     "correct_index": 3,
+     "explanation": "The rate on cost is constant."
+    },
+    {
+     "question_text": "The WDV method charges depreciation:",
+     "options": [
+      "On scrap value",
+      "At a fixed amount",
+      "On original cost",
+      "At a fixed percentage on the book value each year"
+     ],
+     "correct_index": 3,
+     "explanation": "The charge falls each year."
+    },
+    {
+     "question_text": "A merit of the straight line method is that it is:",
+     "options": [
+      "Simple and can write off the asset to scrap value",
+      "Never writes off the asset",
+      "Charges a decreasing amount",
+      "Complex"
+     ],
+     "correct_index": 0,
+     "explanation": "It is easy to understand."
+    },
+    {
+     "question_text": "A demerit of the straight line method is that it:",
+     "options": [
+      "Is complex",
+      "Writes off the asset too fast",
+      "Needs no estimates",
+      "Ignores the fact that repair costs rise as the asset ages, making the total charge uneven"
+     ],
+     "correct_index": 3,
+     "explanation": "Total charge (depreciation + repairs) is higher in later years."
+    },
+    {
+     "question_text": "A merit of the WDV method is that it:",
+     "options": [
+      "Charges the same each year",
+      "Is simple",
+      "Charges more in early years when the asset is most efficient and evens out depreciation plus repairs",
+      "Writes the asset off fully"
+     ],
+     "correct_index": 2,
+     "explanation": "Repairs rise while depreciation falls."
+    },
+    {
+     "question_text": "A demerit of the WDV method is that it:",
+     "options": [
+      "Never writes the asset off to zero and is more complex",
+      "Charges the same each year",
+      "Writes the asset off to zero",
+      "Is simple"
+     ],
+     "correct_index": 0,
+     "explanation": "Book value never reaches zero."
+    },
+    {
+     "question_text": "SLM is suitable for assets like:",
+     "options": [
+      "Vehicles",
+      "Mines",
+      "Machinery with high repairs",
+      "Patents, leases and buildings, which lose value evenly over time"
+     ],
+     "correct_index": 3,
+     "explanation": "Where usage is uniform."
+    },
+    {
+     "question_text": "WDV is suitable for assets like:",
+     "options": [
+      "Patents",
+      "Land",
+      "Leases",
+      "Machinery and vehicles with rising repairs and rapid early fall in value"
+     ],
+     "correct_index": 3,
+     "explanation": "Their efficiency is highest in early years."
+    },
+    {
+     "question_text": "SLM differs from WDV in that SLM charges depreciation on:",
+     "options": [
+      "Book value",
+      "Sales",
+      "Scrap value",
+      "Original cost (equal amounts), WDV on book value (declining amounts)"
+     ],
+     "correct_index": 3,
+     "explanation": "SLM gives a straight line; WDV gives a declining charge."
+    },
+    {
+     "question_text": "The WDV method never writes off an asset to zero because:",
+     "options": [
+      "Time is infinite",
+      "Scrap value is zero",
+      "Assets are valuable",
+      "Depreciation is a percentage of a reducing balance, which never reaches zero"
+     ],
+     "correct_index": 3,
+     "explanation": "Each year a percentage remains."
+    },
+    {
+     "question_text": "The total charge (depreciation + repairs) is more even under WDV because:",
+     "options": [
+      "Repairs are fixed",
+      "Depreciation falls as repairs rise",
+      "Both fall",
+      "Both rise"
+     ],
+     "correct_index": 1,
+     "explanation": "Their sum is more stable."
+    },
+    {
+     "question_text": "The sum of years' digits method charges:",
+     "options": [
+      "An equal amount",
+      "Nothing",
+      "An increasing amount",
+      "A decreasing amount each year based on the remaining life over the sum of the digits"
+     ],
+     "correct_index": 3,
+     "explanation": "It is an accelerated method."
+    },
+    {
+     "question_text": "The units of production method charges depreciation based on:",
+     "options": [
+      "Time",
+      "Sales",
+      "The number of units produced or hours used",
+      "Cost"
+     ],
+     "correct_index": 2,
+     "explanation": "(Cost − scrap) ÷ total expected output."
+    },
+    {
+     "question_text": "The annuity method treats the asset's cost as:",
+     "options": [
+      "An investment earning interest, with depreciation computed so that the interest and depreciation total a fixed annuity",
+      "An expense",
+      "Capital",
+      "Scrap"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest on the investment is also considered."
+    },
+    {
+     "question_text": "The depreciation fund method:",
+     "options": [
+      "Records no asset",
+      "Sells the asset",
+      "Charges nothing",
+      "Sets aside an amount each year and invests it to buy a replacement asset"
+     ],
+     "correct_index": 3,
+     "explanation": "Also called the sinking fund method."
+    },
+    {
+     "question_text": "The insurance policy method:",
+     "options": [
+      "Sells the asset",
+      "Charges nothing",
+      "Takes a policy to provide funds for replacing the asset",
+      "Insures the profit"
+     ],
+     "correct_index": 2,
+     "explanation": "The premium is paid each year."
+    },
+    {
+     "question_text": "The revaluation method:",
+     "options": [
+      "Records scrap",
+      "Records time",
+      "Values the asset at the end of the year, and the fall in value is depreciation",
+      "Ignores the asset"
+     ],
+     "correct_index": 2,
+     "explanation": "It is used for small items like livestock and loose tools."
+    },
+    {
+     "question_text": "The rate of depreciation under SLM is:",
+     "options": [
+      "(Scrap ÷ cost) × 100",
+      "Annual depreciation × life",
+      "(Annual depreciation ÷ cost) × 100",
+      "(Cost ÷ life) × 100"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a percentage of cost."
+    },
+    {
+     "question_text": "Cost Rs 1,00,000; scrap Rs 10,000; life 5 years. The SLM depreciation is:",
+     "options": [
+      "Rs 20,000",
+      "Rs 16,000",
+      "Rs 18,000",
+      "Rs 22,000"
+     ],
+     "correct_index": 2,
+     "explanation": "(1,00,000 − 10,000) ÷ 5."
+    },
+    {
+     "question_text": "Cost Rs 2,50,000; scrap Rs 25,000; life 9 years. The SLM depreciation is:",
+     "options": [
+      "Rs 25,000",
+      "Rs 22,500",
+      "Rs 30,000",
+      "Rs 27,778"
+     ],
+     "correct_index": 0,
+     "explanation": "(2,50,000 − 25,000) ÷ 9."
+    },
+    {
+     "question_text": "Cost Rs 80,000; scrap nil; life 8 years. The SLM depreciation is:",
+     "options": [
+      "Rs 12,000",
+      "Rs 8,000",
+      "Rs 10,000",
+      "Rs 6,400"
+     ],
+     "correct_index": 2,
+     "explanation": "80,000 ÷ 8."
+    },
+    {
+     "question_text": "Cost Rs 1,20,000; scrap Rs 20,000; life 10 years. The SLM rate on cost is about:",
+     "options": [
+      "9.5%",
+      "12%",
+      "10%",
+      "8.33%"
+     ],
+     "correct_index": 3,
+     "explanation": "Depreciation 10,000 ÷ 1,20,000."
+    },
+    {
+     "question_text": "Cost Rs 1,00,000; WDV @20%. The depreciation in the 3rd year is:",
+     "options": [
+      "Rs 16,000",
+      "Rs 12,800",
+      "Rs 10,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Year 1: 20,000; year 2: 16,000; year 3: 20% of 64,000."
+    },
+    {
+     "question_text": "Cost Rs 50,000; WDV @10%. The book value after 3 years is:",
+     "options": [
+      "Rs 45,000",
+      "Rs 35,000",
+      "Rs 40,500",
+      "Rs 36,450"
+     ],
+     "correct_index": 3,
+     "explanation": "45,000 → 40,500 → 36,450."
+    },
+    {
+     "question_text": "Cost Rs 2,00,000; WDV @15%. The depreciation in the 2nd year is:",
+     "options": [
+      "Rs 30,000",
+      "Rs 22,500",
+      "Rs 28,500",
+      "Rs 25,500"
+     ],
+     "correct_index": 3,
+     "explanation": "15% of 1,70,000."
+    }
+   ]
+  },
+  {
+   "title": "Unit 9: Depreciation Accounting – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Cost Rs 1,00,000; scrap Rs 10,000; life 5 years (SLM). Book value after 3 years is:",
+     "options": [
+      "Rs 40,000",
+      "Rs 54,000",
+      "Rs 46,000",
+      "Rs 70,000"
+     ],
+     "correct_index": 2,
+     "explanation": "1,00,000 − 3 × 18,000."
+    },
+    {
+     "question_text": "Cost Rs 1,00,000; WDV @20%. Book value after 3 years is:",
+     "options": [
+      "Rs 40,000",
+      "Rs 60,000",
+      "Rs 48,800",
+      "Rs 51,200"
+     ],
+     "correct_index": 3,
+     "explanation": "1,00,000 → 80,000 → 64,000 → 51,200."
+    },
+    {
+     "question_text": "Machinery Rs 60,000; installation Rs 10,000; scrap Rs 5,000; life 10 years. The SLM depreciation is:",
+     "options": [
+      "Rs 6,500",
+      "Rs 6,000",
+      "Rs 7,000",
+      "Rs 5,500"
+     ],
+     "correct_index": 0,
+     "explanation": "(70,000 − 5,000) ÷ 10."
+    },
+    {
+     "question_text": "Cost Rs 1,00,000; 10% SLM; purchased on 1 October; year ends on 31 March. Depreciation is:",
+     "options": [
+      "Rs 2,500",
+      "Rs 7,500",
+      "Rs 5,000",
+      "Rs 10,000"
+     ],
+     "correct_index": 2,
+     "explanation": "6 months out of 12."
+    },
+    {
+     "question_text": "Vehicle purchased on 1 January for Rs 4,00,000; WDV 15%; year ends on 31 March. Depreciation is:",
+     "options": [
+      "Rs 15,000",
+      "Rs 20,000",
+      "Rs 30,000",
+      "Rs 60,000"
+     ],
+     "correct_index": 0,
+     "explanation": "4,00,000 × 15% × 3/12."
+    },
+    {
+     "question_text": "Machine bought on 1 July 2024 for Rs 60,000; SLM 10%; year ends on 31 March 2025. Depreciation is:",
+     "options": [
+      "Rs 4,500",
+      "Rs 6,000",
+      "Rs 3,000",
+      "Rs 5,000"
+     ],
+     "correct_index": 0,
+     "explanation": "60,000 × 10% × 9/12."
+    },
+    {
+     "question_text": "Cost 1,10,000; scrap 10,000; output 1,00,000 units; this year 15,000 units. Depreciation is:",
+     "options": [
+      "Rs 11,000",
+      "Rs 16,500",
+      "Rs 10,000",
+      "Rs 15,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Rate = Re 1 per unit."
+    },
+    {
+     "question_text": "Building Rs 10,00,000; life 50 years; scrap Rs 50,000. Annual depreciation is:",
+     "options": [
+      "Rs 20,000",
+      "Rs 19,000",
+      "Rs 18,000",
+      "Rs 21,000"
+     ],
+     "correct_index": 1,
+     "explanation": "(10,00,000 − 50,000) ÷ 50."
+    },
+    {
+     "question_text": "A machine of Rs 1,00,000 depreciates @10% WDV. Book value after 2 years is:",
+     "options": [
+      "Rs 82,000",
+      "Rs 80,000",
+      "Rs 90,000",
+      "Rs 81,000"
+     ],
+     "correct_index": 3,
+     "explanation": "1,00,000 → 90,000 → 81,000."
+    },
+    {
+     "question_text": "A machine's book value after 2 years under SLM is Rs 80,000; cost Rs 1,00,000; scrap nil. The life is:",
+     "options": [
+      "5 years",
+      "20 years",
+      "10 years",
+      "8 years"
+     ],
+     "correct_index": 2,
+     "explanation": "Annual depreciation 10,000."
+    },
+    {
+     "question_text": "Method 1 of charging depreciation:",
+     "options": [
+      "Debit asset, credit depreciation",
+      "No entry",
+      "Debit Provision, credit asset",
+      "Debit Depreciation A/c, credit Asset A/c (asset shown at reduced value)"
+     ],
+     "correct_index": 3,
+     "explanation": "The asset account is reduced directly."
+    },
+    {
+     "question_text": "Method 2 of charging depreciation:",
+     "options": [
+      "Debit Depreciation A/c, credit Provision for Depreciation A/c (asset shown at cost)",
+      "No entry",
+      "Credit asset",
+      "Debit asset"
+     ],
+     "correct_index": 0,
+     "explanation": "The asset remains at original cost."
+    },
+    {
+     "question_text": "Under the provision method, the asset is shown in the balance sheet:",
+     "options": [
+      "At market value",
+      "At scrap value",
+      "At original cost only",
+      "At cost less accumulated provision for depreciation"
+     ],
+     "correct_index": 3,
+     "explanation": "The deduction is shown."
+    },
+    {
+     "question_text": "Method 1 differs from method 2 in that in method 1 the asset account is:",
+     "options": [
+      "Unchanged",
+      "Credited directly, while method 2 keeps it at cost and credits a provision account",
+      "Closed",
+      "Debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Method 2 shows the total depreciation."
+    },
+    {
+     "question_text": "Machinery Rs 1,00,000; SLM 10%. The balance in the machinery account after 3 years (method 1) is:",
+     "options": [
+      "Rs 70,000",
+      "Rs 1,00,000",
+      "Rs 90,000",
+      "Rs 80,000"
+     ],
+     "correct_index": 0,
+     "explanation": "1,00,000 − 3 × 10,000."
+    },
+    {
+     "question_text": "Machinery Rs 1,00,000; SLM 10% with a provision account. After 3 years, the provision for depreciation is:",
+     "options": [
+      "Rs 70,000",
+      "Rs 20,000",
+      "Rs 30,000",
+      "Rs 10,000"
+     ],
+     "correct_index": 2,
+     "explanation": "3 × 10,000; the machinery account stays at 1,00,000."
+    },
+    {
+     "question_text": "Machinery Rs 1,00,000; WDV 20%. The balance after 3 years is:",
+     "options": [
+      "Rs 60,000",
+      "Rs 48,800",
+      "Rs 40,000",
+      "Rs 51,200"
+     ],
+     "correct_index": 3,
+     "explanation": "Book value after three years."
+    },
+    {
+     "question_text": "Opening machinery 1,00,000; addition 60,000 on 1 October; SLM 10%. Total depreciation for the year is:",
+     "options": [
+      "Rs 15,000",
+      "Rs 13,000",
+      "Rs 16,000",
+      "Rs 10,000"
+     ],
+     "correct_index": 1,
+     "explanation": "10,000 + 6,000 × 6/12 = 13,000."
+    },
+    {
+     "question_text": "A machine of book value Rs 40,000 sold for Rs 38,000 gives:",
+     "options": [
+      "A loss of Rs 38,000",
+      "No profit or loss",
+      "A profit of Rs 2,000",
+      "A loss of Rs 2,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Book value − sale price."
+    },
+    {
+     "question_text": "A machine of book value Rs 51,200 sold for Rs 55,000. The profit on sale is:",
+     "options": [
+      "Rs 3,000",
+      "Rs 51,200",
+      "Rs 4,200",
+      "Rs 3,800"
+     ],
+     "correct_index": 3,
+     "explanation": "55,000 − 51,200."
+    },
+    {
+     "question_text": "A machine of book value Rs 46,000 sold for Rs 40,000. The loss on sale is:",
+     "options": [
+      "Rs 46,000",
+      "Rs 6,000",
+      "Rs 40,000",
+      "Rs 86,000"
+     ],
+     "correct_index": 1,
+     "explanation": "46,000 − 40,000."
+    },
+    {
+     "question_text": "Cost 1,00,000; accumulated depreciation 54,000; sold for 40,000. The disposal account shows:",
+     "options": [
+      "A profit of Rs 40,000",
+      "A loss of Rs 14,000",
+      "A loss of Rs 6,000",
+      "A profit of Rs 6,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Book value 46,000 − sale 40,000."
+    },
+    {
+     "question_text": "Cost 2,00,000; accumulated depreciation 1,20,000; sold for 90,000. The disposal account shows:",
+     "options": [
+      "A profit of Rs 90,000",
+      "A profit of Rs 10,000",
+      "A loss of Rs 80,000",
+      "A loss of Rs 10,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Book value 80,000; sale 90,000."
+    },
+    {
+     "question_text": "Furniture cost 50,000; accumulated depreciation 20,000; sold for 35,000. The result is:",
+     "options": [
+      "Profit of Rs 5,000",
+      "Profit of Rs 15,000",
+      "Loss of Rs 5,000",
+      "Loss of Rs 15,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Book value 30,000; sale 35,000."
+    },
+    {
+     "question_text": "The effect of depreciation on net profit is that it:",
+     "options": [
+      "Reduces net profit",
+      "Doubles profit",
+      "Increases net profit",
+      "Has no effect"
+     ],
+     "correct_index": 0,
+     "explanation": "It is an expense."
+    }
+   ]
+  },
+  {
+   "title": "Unit 9: Depreciation Accounting – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The effect of depreciation on the balance sheet is that it:",
+     "options": [
+      "Increases them",
+      "Increases cash",
+      "Reduces the book value of fixed assets",
+      "Has no effect"
+     ],
+     "correct_index": 2,
+     "explanation": "The asset is shown net."
+    },
+    {
+     "question_text": "Depreciation affects tax because:",
+     "options": [
+      "It is a tax",
+      "It is not allowed",
+      "It increases tax",
+      "It is an allowable deduction that reduces taxable profit"
+     ],
+     "correct_index": 3,
+     "explanation": "Income tax rules prescribe rates."
+    },
+    {
+     "question_text": "A change in the method of depreciation is allowed:",
+     "options": [
+      "Never",
+      "Every year",
+      "At the owner's whim",
+      "Only when required by law or when it gives a more appropriate presentation"
+     ],
+     "correct_index": 3,
+     "explanation": "Consistency is expected."
+    },
+    {
+     "question_text": "A change of method is accounted for by:",
+     "options": [
+      "Treating it as profit",
+      "Writing off the asset",
+      "Recalculating depreciation under the new method from the date of use and adjusting the difference",
+      "Ignoring it"
+     ],
+     "correct_index": 2,
+     "explanation": "The effect is disclosed."
+    },
+    {
+     "question_text": "Schedule II of the Companies Act, 2013 specifies:",
+     "options": [
+      "Interest rates",
+      "The useful lives of assets for depreciation",
+      "Tax rates",
+      "Wage rates"
+     ],
+     "correct_index": 1,
+     "explanation": "It governs depreciation of companies."
+    },
+    {
+     "question_text": "Under Schedule II, useful lives are specified for:",
+     "options": [
+      "Buildings, plant and machinery, computers and other assets",
+      "Stock",
+      "Goodwill only",
+      "Land only"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., computers: 3 years; buildings: 30–60 years."
+    },
+    {
+     "question_text": "Under Schedule II, the residual value is generally not more than:",
+     "options": [
+      "50%",
+      "1%",
+      "20%",
+      "5% of the original cost"
+     ],
+     "correct_index": 3,
+     "explanation": "Otherwise, it must be disclosed."
+    },
+    {
+     "question_text": "A block of assets for income tax depreciation is:",
+     "options": [
+      "A single building",
+      "A group of assets with the same rate of depreciation, treated together",
+      "All assets",
+      "One machine"
+     ],
+     "correct_index": 1,
+     "explanation": "Depreciation is calculated on the block's WDV."
+    },
+    {
+     "question_text": "Ind AS 16 deals with:",
+     "options": [
+      "Leases",
+      "Inventories",
+      "Property, plant and equipment",
+      "Revenue"
+     ],
+     "correct_index": 2,
+     "explanation": "It covers recognition, measurement and depreciation."
+    },
+    {
+     "question_text": "The cost model carries an asset at:",
+     "options": [
+      "Zero",
+      "Fair value",
+      "Cost less accumulated depreciation, while the revaluation model uses fair value",
+      "Market price only"
+     ],
+     "correct_index": 2,
+     "explanation": "The revaluation model needs regular revaluations."
+    },
+    {
+     "question_text": "Depreciation begins when:",
+     "options": [
+      "The asset is ordered",
+      "The asset is available for use",
+      "The asset is paid for",
+      "The asset is sold"
+     ],
+     "correct_index": 1,
+     "explanation": "It continues until derecognition."
+    },
+    {
+     "question_text": "The useful life should be reviewed:",
+     "options": [
+      "At least at the end of each financial year",
+      "Only on sale",
+      "Every ten years",
+      "Never"
+     ],
+     "correct_index": 0,
+     "explanation": "Changes are accounted for prospectively."
+    },
+    {
+     "question_text": "Depreciation differs from repairs in that depreciation is:",
+     "options": [
+      "A gradual write-off of the cost of an asset, whereas repairs maintain the asset's efficiency",
+      "A cash item",
+      "A capital item",
+      "The same"
+     ],
+     "correct_index": 0,
+     "explanation": "Repairs are revenue expenses."
+    },
+    {
+     "question_text": "Depreciation is also called a provision for replacement because:",
+     "options": [
+      "It buys new assets",
+      "It spreads the cost so that profits are retained to replace the asset",
+      "It pays for new assets",
+      "It is a tax"
+     ],
+     "correct_index": 1,
+     "explanation": "It does not provide cash by itself."
+    },
+    {
+     "question_text": "Ignoring depreciation:",
+     "options": [
+      "Understates profit",
+      "Overstates profit and the book value of assets, and hence capital",
+      "Understates assets",
+      "Has no effect"
+     ],
+     "correct_index": 1,
+     "explanation": "The accounts do not show a true position."
+    },
+    {
+     "question_text": "A machine costs Rs 1,00,000; depreciation 20% for 3 years: the charge under SLM is _____ each year, and under WDV the charge in year 1 is:",
+     "options": [
+      "Rs 12,800 each; Rs 20,000",
+      "Rs 20,000 each; Rs 20,000",
+      "Rs 16,000 each; Rs 20,000",
+      "Rs 20,000 each; Rs 16,000"
+     ],
+     "correct_index": 1,
+     "explanation": "WDV charges fall in later years (20,000, 16,000, 12,800)."
+    },
+    {
+     "question_text": "Under the cost concept, inflation causes depreciation to be:",
+     "options": [
+      "Understated relative to the replacement cost of the asset",
+      "Overstated",
+      "Unchanged",
+      "Zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Funds are insufficient to replace the asset."
+    },
+    {
+     "question_text": "For a leased asset:",
+     "options": [
+      "Always the lessor",
+      "Never",
+      "No depreciation is charged",
+      "The lessee depreciates a finance-leased asset, while an operating lease is not depreciated by the lessee"
+     ],
+     "correct_index": 3,
+     "explanation": "Depreciation follows ownership/control."
+    },
+    {
+     "question_text": "In a year with a loss, depreciation is:",
+     "options": [
+      "Not charged",
+      "Reduced to zero",
+      "Still charged, as it is not dependent on profit",
+      "Added to the loss"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a charge irrespective of profit."
+    },
+    {
+     "question_text": "Depreciation differs from a sinking fund in that depreciation is:",
+     "options": [
+      "The same",
+      "A write-off of the asset's cost, while a sinking fund is a cash investment to replace the asset",
+      "A tax",
+      "An investment"
+     ],
+     "correct_index": 1,
+     "explanation": "The sinking fund method combines both."
+    },
+    {
+     "question_text": "Cost 3,60,000; scrap 60,000; life 6 years. The SLM depreciation is Rs 50,000; the book value after 4 years is:",
+     "options": [
+      "Rs 1,10,000",
+      "Rs 2,00,000",
+      "Rs 1,60,000",
+      "Rs 1,00,000"
+     ],
+     "correct_index": 2,
+     "explanation": "3,60,000 − 4 × 50,000."
+    },
+    {
+     "question_text": "Cost Rs 80,000; WDV @25%. The book value after 3 years is:",
+     "options": [
+      "Rs 33,750",
+      "Rs 40,000",
+      "Rs 20,000",
+      "Rs 45,000"
+     ],
+     "correct_index": 0,
+     "explanation": "80,000 → 60,000 → 45,000 → 33,750."
+    },
+    {
+     "question_text": "A machine of Rs 1,00,000 bought on 1 January 2025; SLM 10%; year ends 31 March 2025. Depreciation is:",
+     "options": [
+      "Rs 10,000",
+      "Rs 7,500",
+      "Rs 5,000",
+      "Rs 2,500"
+     ],
+     "correct_index": 3,
+     "explanation": "10,000 × 3/12."
+    },
+    {
+     "question_text": "To charge depreciation of Rs 10,000 under the provision method:",
+     "options": [
+      "Asset Dr to Depreciation",
+      "Depreciation A/c Dr to Provision for Depreciation A/c, then P&L A/c Dr to Depreciation A/c",
+      "Provision Dr to Depreciation",
+      "P&L Dr to Asset"
+     ],
+     "correct_index": 1,
+     "explanation": "The depreciation account is closed to P&L."
+    },
+    {
+     "question_text": "If depreciation is omitted by mistake, net profit is:",
+     "options": [
+      "Zero",
+      "Unchanged",
+      "Overstated",
+      "Understated"
+     ],
+     "correct_index": 2,
+     "explanation": "An expense is missing."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 3: Book of Prime Entry – Journal – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The journal is:",
+     "options": [
+      "A statement of profit",
+      "A list of assets",
+      "A summary of accounts",
+      "The book in which transactions are first recorded in chronological order"
+     ],
+     "correct_index": 3,
+     "explanation": "It is also called the book of original entry."
+    },
+    {
+     "question_text": "The journal is called the book of original entry because:",
+     "options": [
+      "It is a final account",
+      "Every transaction is first recorded in it before posting to the ledger",
+      "It is the last book",
+      "It records balances"
+     ],
+     "correct_index": 1,
+     "explanation": "Ledger posting comes later."
+    },
+    {
+     "question_text": "Journalising means:",
+     "options": [
+      "Auditing",
+      "Posting to ledger",
+      "Preparing balance sheet",
+      "Recording transactions in the journal"
+     ],
+     "correct_index": 3,
+     "explanation": "Each record is a journal entry."
+    },
+    {
+     "question_text": "The word \"journal\" literally means:",
+     "options": [
+      "A cash record",
+      "A yearly summary",
+      "A final account",
+      "A daily record (from the French \"jour\", day)"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a day-to-day record."
+    },
+    {
+     "question_text": "A feature of the journal is that it records transactions:",
+     "options": [
+      "Only cash",
+      "In chronological order with debit and credit aspects and narration",
+      "By accounts",
+      "Only credit"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives the date, accounts, amounts and narration."
+    },
+    {
+     "question_text": "An objective of the journal is to:",
+     "options": [
+      "Prepare the balance sheet",
+      "Calculate profit",
+      "Record every transaction in date order with its explanation",
+      "Compute tax"
+     ],
+     "correct_index": 2,
+     "explanation": "It provides a permanent record."
+    },
+    {
+     "question_text": "An advantage of the journal is that it:",
+     "options": [
+      "Helps in finding errors and gives a complete record with narration",
+      "Eliminates the ledger",
+      "Eliminates the trial balance",
+      "Is the final account"
+     ],
+     "correct_index": 0,
+     "explanation": "Each entry is explained."
+    },
+    {
+     "question_text": "A disadvantage of the journal is that it:",
+     "options": [
+      "Is optional",
+      "Has no narration",
+      "Is incomplete",
+      "Is time consuming and not suited for large businesses"
+     ],
+     "correct_index": 3,
+     "explanation": "Subsidiary books are used for large volumes."
+    },
+    {
+     "question_text": "The standard journal format has columns for:",
+     "options": [
+      "Cost and price",
+      "Name and address",
+      "Date, particulars, L.F., debit amount and credit amount",
+      "Debtors and creditors"
+     ],
+     "correct_index": 2,
+     "explanation": "Narration is written below the entry."
+    },
+    {
+     "question_text": "L.F. stands for:",
+     "options": [
+      "Ledger Folio",
+      "Last Figure",
+      "Legal Form",
+      "Large Figure"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the page reference in the ledger."
+    },
+    {
+     "question_text": "Narration is:",
+     "options": [
+      "A brief explanation of the entry written below it",
+      "The amount",
+      "A date",
+      "A signature"
+     ],
+     "correct_index": 0,
+     "explanation": "It explains why the entry was made."
+    },
+    {
+     "question_text": "Rules for journalising are based on:",
+     "options": [
+      "Audit rules",
+      "The golden rules of accounting for personal, real and nominal accounts",
+      "Court rules",
+      "Tax rules"
+     ],
+     "correct_index": 1,
+     "explanation": "Identify accounts, their type, and debit or credit."
+    },
+    {
+     "question_text": "A simple journal entry is one that:",
+     "options": [
+      "Has one debit and one credit",
+      "Has several debits",
+      "Has several credits",
+      "Has no amounts"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., Furniture Dr to Cash."
+    },
+    {
+     "question_text": "A compound journal entry is one that:",
+     "options": [
+      "Has no credit",
+      "Has more than one debit or more than one credit",
+      "Has one debit and one credit only",
+      "Has no debit"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., purchase of goods and furniture on credit."
+    },
+    {
+     "question_text": "An opening entry is passed to:",
+     "options": [
+      "Record the opening balances of assets and liabilities at the start of a year",
+      "Close accounts",
+      "Correct errors",
+      "Record depreciation"
+     ],
+     "correct_index": 0,
+     "explanation": "It starts a new year's books."
+    },
+    {
+     "question_text": "Closing entries are passed to:",
+     "options": [
+      "Record purchases",
+      "Transfer nominal accounts to the trading and profit and loss accounts",
+      "Open accounts",
+      "Record sales"
+     ],
+     "correct_index": 1,
+     "explanation": "They close the nominal accounts at the year-end."
+    },
+    {
+     "question_text": "Adjusting entries are passed to:",
+     "options": [
+      "Record cash",
+      "Close books",
+      "Open books",
+      "Record items such as outstanding and prepaid expenses and depreciation at the year-end"
+     ],
+     "correct_index": 3,
+     "explanation": "They ensure the matching concept is followed."
+    },
+    {
+     "question_text": "Transfer entries are passed to:",
+     "options": [
+      "Record cash",
+      "Correct profit",
+      "Transfer an item from one account to another",
+      "Open books"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., transferring drawings to capital."
+    },
+    {
+     "question_text": "Rectification entries are passed to:",
+     "options": [
+      "Record capital",
+      "Record purchases",
+      "Correct errors found in the books",
+      "Record sales"
+     ],
+     "correct_index": 2,
+     "explanation": "They fix errors of omission, commission or principle."
+    },
+    {
+     "question_text": "Trade discount differs from cash discount in that trade discount is:",
+     "options": [
+      "Recorded in books",
+      "Given at payment",
+      "Never allowed",
+      "Given on list price at the time of sale, while cash discount is given on prompt payment"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash discount is shown in the books."
+    },
+    {
+     "question_text": "Trade discount is not recorded in the journal because:",
+     "options": [
+      "It is a loss",
+      "It is capital",
+      "It is a tax",
+      "Only the net amount after discount is recorded"
+     ],
+     "correct_index": 3,
+     "explanation": "It reduces the invoice price."
+    },
+    {
+     "question_text": "Commenced business with cash Rs 1,00,000. The entry is:",
+     "options": [
+      "Cash A/c Dr to Sales A/c",
+      "Capital A/c Dr 1,00,000 to Cash A/c 1,00,000",
+      "Cash A/c Dr 1,00,000 to Capital A/c 1,00,000",
+      "Bank A/c Dr to Cash A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash comes in; capital is the giver."
+    },
+    {
+     "question_text": "Bought furniture for cash Rs 20,000. The entry is:",
+     "options": [
+      "Furniture A/c Dr to Capital A/c",
+      "Cash A/c Dr 20,000 to Furniture A/c 20,000",
+      "Purchases A/c Dr to Cash A/c",
+      "Furniture A/c Dr 20,000 to Cash A/c 20,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Furniture comes in; cash goes out."
+    },
+    {
+     "question_text": "Purchased goods from Ram on credit Rs 30,000. The entry is:",
+     "options": [
+      "Ram Dr 30,000 to Purchases A/c 30,000",
+      "Cash A/c Dr to Purchases A/c",
+      "Purchases A/c Dr 30,000 to Ram 30,000",
+      "Ram Dr to Cash A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "Ram is the giver."
+    },
+    {
+     "question_text": "Sold goods to Shyam on credit Rs 25,000. The entry is:",
+     "options": [
+      "Cash A/c Dr to Sales A/c",
+      "Shyam Dr 25,000 to Sales A/c 25,000",
+      "Shyam Dr to Cash A/c",
+      "Sales A/c Dr 25,000 to Shyam 25,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Shyam is the receiver."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Book of Prime Entry – Journal – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Paid rent Rs 2,000. The entry is:",
+     "options": [
+      "Cash A/c Dr 2,000 to Rent A/c 2,000",
+      "Rent A/c Dr to Capital",
+      "Rent A/c Dr 2,000 to Cash A/c 2,000",
+      "Cash A/c Dr to Capital"
+     ],
+     "correct_index": 2,
+     "explanation": "Rent is an expense."
+    },
+    {
+     "question_text": "Received Rs 24,000 from Shyam in full settlement of Rs 25,000. The entry is:",
+     "options": [
+      "Cash Dr 25,000 to Shyam 25,000",
+      "Cash 24,000 and Discount Allowed 1,000 Dr to Shyam 25,000",
+      "Shyam Dr 25,000 to Cash 24,000 and Discount Received 1,000",
+      "Cash 24,000 Dr to Shyam 24,000"
+     ],
+     "correct_index": 1,
+     "explanation": "The 1,000 shortfall is discount allowed (a loss)."
+    },
+    {
+     "question_text": "Paid Rs 29,000 to Ram in full settlement of Rs 30,000. The entry is:",
+     "options": [
+      "Ram Dr 30,000 to Cash 30,000",
+      "Ram Dr 30,000 to Cash 29,000 and Discount Received 1,000",
+      "Cash and Discount Allowed Dr to Ram",
+      "Ram Dr 29,000 to Cash 29,000"
+     ],
+     "correct_index": 1,
+     "explanation": "The 1,000 saved is discount received (a gain)."
+    },
+    {
+     "question_text": "Withdrew cash Rs 5,000 for personal use. The entry is:",
+     "options": [
+      "Capital A/c Dr to Cash A/c in the books always",
+      "Salary A/c Dr to Cash A/c",
+      "Drawings A/c Dr 5,000 to Cash A/c 5,000",
+      "Cash A/c Dr to Drawings A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "Drawings reduce capital."
+    },
+    {
+     "question_text": "Goods costing Rs 3,000 taken by the proprietor. The entry is:",
+     "options": [
+      "Purchases Dr to Drawings",
+      "Cash Dr to Drawings",
+      "Sales Dr to Drawings",
+      "Drawings A/c Dr 3,000 to Purchases A/c 3,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Goods leave the business at cost."
+    },
+    {
+     "question_text": "Salary outstanding Rs 4,000. The entry is:",
+     "options": [
+      "Cash Dr to Salary",
+      "Salary A/c Dr 4,000 to Outstanding Salary A/c 4,000",
+      "Outstanding Salary Dr to Salary",
+      "Salary Dr to Cash"
+     ],
+     "correct_index": 1,
+     "explanation": "The expense is recorded and a liability created."
+    },
+    {
+     "question_text": "Paid wages Rs 5,000 and rent Rs 3,000 together. The entry is:",
+     "options": [
+      "Wages Dr 5,000 and Rent Dr 3,000 to Cash 8,000",
+      "Cash Dr 8,000 to Wages and Rent",
+      "Wages Dr 8,000 to Cash 5,000",
+      "Rent Dr 5,000 to Cash 3,000"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a compound entry with two debits."
+    },
+    {
+     "question_text": "Bought goods for Rs 10,000 less 10% trade discount, on credit. Purchases is debited by:",
+     "options": [
+      "Rs 11,000",
+      "Rs 9,000",
+      "Rs 1,000",
+      "Rs 10,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Only the net amount is recorded."
+    },
+    {
+     "question_text": "Sold goods listed at Rs 20,000 less 20% trade discount for cash. Cash is debited by:",
+     "options": [
+      "Rs 16,000",
+      "Rs 4,000",
+      "Rs 24,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 0,
+     "explanation": "20,000 − 4,000."
+    },
+    {
+     "question_text": "Goods returned to supplier worth Rs 2,000. The entry is:",
+     "options": [
+      "Purchases Returns Dr to Supplier",
+      "Cash Dr to Purchases Returns",
+      "Supplier Dr 2,000 to Purchases Returns 2,000",
+      "Supplier Dr to Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "The supplier receives the goods."
+    },
+    {
+     "question_text": "Goods returned by customer worth Rs 1,500. The entry is:",
+     "options": [
+      "Sales Returns Dr 1,500 to Customer 1,500",
+      "Sales Dr to Customer",
+      "Customer Dr to Sales Returns",
+      "Cash Dr to Sales Returns"
+     ],
+     "correct_index": 0,
+     "explanation": "The customer gives the goods back."
+    },
+    {
+     "question_text": "Bad debts written off Rs 800. The entry is:",
+     "options": [
+      "Bad Debts Dr to Cash",
+      "Debtor Dr 800 to Bad Debts",
+      "Cash Dr to Bad Debts",
+      "Bad Debts A/c Dr 800 to Debtor 800"
+     ],
+     "correct_index": 3,
+     "explanation": "Bad debt is a loss."
+    },
+    {
+     "question_text": "Bad debts recovered Rs 500. The entry is:",
+     "options": [
+      "Cash Dr to Debtor",
+      "Bad Debts Recovered Dr to Cash",
+      "Bad Debts Dr to Cash",
+      "Cash A/c Dr 500 to Bad Debts Recovered A/c 500"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a gain."
+    },
+    {
+     "question_text": "Goods worth Rs 4,000 destroyed by fire (uninsured). The entry is:",
+     "options": [
+      "Purchases Dr to Loss by Fire",
+      "Loss by Fire Dr to Cash",
+      "Cash Dr to Loss by Fire",
+      "Loss by Fire A/c Dr 4,000 to Purchases A/c 4,000"
+     ],
+     "correct_index": 3,
+     "explanation": "The goods go out; a loss arises."
+    },
+    {
+     "question_text": "Goods worth Rs 4,000 destroyed by fire; insurance admits a claim of Rs 3,000. The entry is:",
+     "options": [
+      "Insurance Claim Dr 4,000",
+      "Loss by Fire Dr 4,000 to Insurance Claim 3,000",
+      "Loss by Fire Dr 3,000 and Insurance Claim Dr 1,000 to Purchases",
+      "Insurance Claim A/c Dr 3,000 and Loss by Fire A/c Dr 1,000 to Purchases A/c 4,000"
+     ],
+     "correct_index": 3,
+     "explanation": "The unrecoverable part is the loss."
+    },
+    {
+     "question_text": "Goods worth Rs 1,000 distributed as free samples. The entry is:",
+     "options": [
+      "Drawings Dr to Purchases",
+      "Purchases Dr to Advertisement",
+      "Advertisement A/c Dr 1,000 to Purchases A/c 1,000",
+      "Cash Dr to Advertisement"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a promotional expense."
+    },
+    {
+     "question_text": "Machinery bought on credit from Alfa for Rs 50,000. The entry is:",
+     "options": [
+      "Purchases Dr to Alfa",
+      "Machinery Dr to Cash",
+      "Alfa Dr to Machinery",
+      "Machinery A/c Dr 50,000 to Alfa 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Capital purchase on credit."
+    },
+    {
+     "question_text": "Depreciation charged on machinery Rs 5,000. The entry is:",
+     "options": [
+      "Machinery Dr to Depreciation",
+      "Depreciation A/c Dr 5,000 to Machinery A/c 5,000",
+      "Cash Dr to Depreciation",
+      "Depreciation Dr to Cash"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an expense that reduces the asset."
+    },
+    {
+     "question_text": "Old furniture (book value Rs 10,000) sold for Rs 8,000 cash. The entry is:",
+     "options": [
+      "Cash Dr 8,000 and Loss on Sale Dr 2,000 to Furniture 10,000",
+      "Cash Dr 8,000 to Furniture 8,000",
+      "Furniture Dr 8,000 to Cash 8,000",
+      "Cash Dr 10,000 to Furniture 8,000"
+     ],
+     "correct_index": 0,
+     "explanation": "It is sold at a loss of 2,000."
+    },
+    {
+     "question_text": "Old furniture (book value Rs 10,000) sold for Rs 12,000 cash. The entry is:",
+     "options": [
+      "Cash Dr 12,000 to Furniture 12,000",
+      "Furniture Dr 12,000 to Cash 12,000",
+      "Cash Dr 10,000 to Furniture 12,000",
+      "Cash Dr 12,000 to Furniture 10,000 and Profit on Sale 2,000"
+     ],
+     "correct_index": 3,
+     "explanation": "There is a gain of 2,000."
+    },
+    {
+     "question_text": "Interest on capital Rs 6,000 allowed to the proprietor. The entry is:",
+     "options": [
+      "Interest on Capital Dr to Cash",
+      "Interest on Capital A/c Dr 6,000 to Capital A/c 6,000",
+      "Capital Dr to Interest on Capital",
+      "Cash Dr to Interest on Capital"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an expense and adds to capital."
+    },
+    {
+     "question_text": "Interest on drawings Rs 1,200 charged. The entry is:",
+     "options": [
+      "Interest on Drawings Dr to Drawings",
+      "Drawings A/c Dr 1,200 to Interest on Drawings A/c 1,200",
+      "Cash Dr to Interest on Drawings",
+      "Drawings Dr to Cash"
+     ],
+     "correct_index": 1,
+     "explanation": "It is income of the business."
+    },
+    {
+     "question_text": "Cash deposited into the bank Rs 20,000. The entry is:",
+     "options": [
+      "Cash Dr 20,000 to Bank 20,000",
+      "Bank A/c Dr 20,000 to Cash A/c 20,000",
+      "Bank Dr to Capital",
+      "Cash Dr to Capital"
+     ],
+     "correct_index": 1,
+     "explanation": "Bank balance increases."
+    },
+    {
+     "question_text": "Cheque issued to a creditor Rs 15,000. The entry is:",
+     "options": [
+      "Cash Dr to Creditor",
+      "Creditor Dr to Cash",
+      "Creditor Dr 15,000 to Bank A/c 15,000",
+      "Bank Dr to Creditor"
+     ],
+     "correct_index": 2,
+     "explanation": "Bank balance decreases."
+    },
+    {
+     "question_text": "Cheque received from a debtor Rs 12,000 and deposited. The entry is:",
+     "options": [
+      "Debtor Dr to Bank",
+      "Cash Dr to Debtor",
+      "Bank Dr 12,000 to Debtor 12,000",
+      "Bank Dr to Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Debtor is the giver."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Book of Prime Entry – Journal – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Cheque received from a debtor is dishonoured, Rs 12,000. The entry is:",
+     "options": [
+      "Bank Dr 12,000 to Debtor 12,000",
+      "Cash Dr to Debtor",
+      "Debtor Dr to Cash",
+      "Debtor Dr 12,000 to Bank 12,000"
+     ],
+     "correct_index": 3,
+     "explanation": "The debtor's account is revived."
+    },
+    {
+     "question_text": "Loan taken from a bank Rs 1,00,000. The entry is:",
+     "options": [
+      "Bank Loan Dr to Cash",
+      "Cash/Bank Dr 1,00,000 to Bank Loan 1,00,000",
+      "Cash Dr to Capital",
+      "Loan Dr to Capital"
+     ],
+     "correct_index": 1,
+     "explanation": "Loan is a liability."
+    },
+    {
+     "question_text": "Interest paid on the loan Rs 6,000. The entry is:",
+     "options": [
+      "Interest A/c Dr 6,000 to Cash A/c 6,000",
+      "Loan Dr to Interest",
+      "Interest Dr to Loan",
+      "Cash Dr to Interest"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest is an expense."
+    },
+    {
+     "question_text": "Insurance premium paid in advance Rs 2,400. The entry is:",
+     "options": [
+      "Prepaid Insurance A/c Dr 2,400 to Cash A/c 2,400",
+      "Cash Dr to Prepaid Insurance",
+      "Insurance Dr to Prepaid Insurance",
+      "Prepaid Insurance Dr to Insurance Payable"
+     ],
+     "correct_index": 0,
+     "explanation": "Prepaid insurance is an asset."
+    },
+    {
+     "question_text": "Rent received in advance Rs 3,000. The entry is:",
+     "options": [
+      "Rent Dr to Cash",
+      "Cash Dr 3,000 to Rent Received in Advance 3,000",
+      "Cash Dr to Rent Expense",
+      "Rent Received in Advance Dr to Cash"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a liability for a future period."
+    },
+    {
+     "question_text": "Commission earned but not yet received Rs 1,500. The entry is:",
+     "options": [
+      "Commission Earned Dr to Accrued Commission",
+      "Cash Dr to Commission",
+      "Accrued Commission A/c Dr 1,500 to Commission Earned A/c 1,500",
+      "Commission Dr to Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Accrued income is an asset."
+    },
+    {
+     "question_text": "Proprietor introduced additional capital Rs 50,000 in cash. The entry is:",
+     "options": [
+      "Cash Dr 50,000 to Capital 50,000",
+      "Drawings Dr to Capital",
+      "Capital Dr to Cash",
+      "Cash Dr to Drawings"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital increases."
+    },
+    {
+     "question_text": "Goods purchased for Rs 25,000; 30% paid in cash, rest due. Cash credited is:",
+     "options": [
+      "Rs 17,500",
+      "Rs 7,500",
+      "Rs 25,000",
+      "Rs 30,000"
+     ],
+     "correct_index": 1,
+     "explanation": "30% of 25,000 = 7,500; Rs 17,500 is due."
+    },
+    {
+     "question_text": "Goods worth Rs 5,000 given to a charity. The entry is:",
+     "options": [
+      "Purchases Dr to Charity",
+      "Charity Dr to Cash",
+      "Cash Dr to Charity",
+      "Charity A/c (or Drawings A/c) Dr 5,000 to Purchases A/c 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Goods leave the business."
+    },
+    {
+     "question_text": "Cash stolen Rs 2,000. The entry is:",
+     "options": [
+      "Loss by Theft A/c Dr 2,000 to Cash A/c 2,000",
+      "Loss by Theft Dr to Capital",
+      "Cash Dr to Loss by Theft",
+      "Cash Dr to Capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Theft is a loss."
+    },
+    {
+     "question_text": "Provision for doubtful debts created Rs 3,000. The entry is:",
+     "options": [
+      "Profit and Loss A/c Dr 3,000 to Provision for Doubtful Debts 3,000",
+      "Bad Debts Dr to Cash",
+      "Debtors Dr to Provision",
+      "Provision Dr to P&L"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a charge against profit."
+    },
+    {
+     "question_text": "Paid a creditor Rs 10,000 and received discount Rs 500. The cash credited is:",
+     "options": [
+      "Rs 500",
+      "Rs 10,500",
+      "Rs 10,000 (creditor Dr 10,500)",
+      "Rs 9,500"
+     ],
+     "correct_index": 2,
+     "explanation": "Creditor Dr 10,500, Cash Cr 10,000, Discount Received Cr 500."
+    },
+    {
+     "question_text": "Received Rs 9,500 from a debtor in full settlement of Rs 10,000. The discount allowed is:",
+     "options": [
+      "Rs 0",
+      "Rs 10,000",
+      "Rs 500",
+      "Rs 9,500"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash 9,500 + Discount Allowed 500 = Debtor 10,000."
+    },
+    {
+     "question_text": "Paid salaries Rs 12,000 by cheque. The entry is:",
+     "options": [
+      "Bank Dr to Salaries",
+      "Cash Dr to Salaries",
+      "Salaries A/c Dr 12,000 to Bank A/c 12,000",
+      "Salaries Dr to Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Salaries are an expense paid from bank."
+    },
+    {
+     "question_text": "Credit sales Rs 50,000 to Beta with 10% trade discount; cash discount of 2% was allowed on payment. The discount allowed is:",
+     "options": [
+      "Rs 5,000",
+      "Rs 450",
+      "Rs 1,000",
+      "Rs 900"
+     ],
+     "correct_index": 3,
+     "explanation": "Net sale 45,000; 2% of 45,000 = 900."
+    },
+    {
+     "question_text": "Paid Rs 5,000 for the repair of the machine. The entry is:",
+     "options": [
+      "Machinery Dr to Cash",
+      "Cash Dr to Repairs",
+      "Capital Dr to Cash",
+      "Repairs A/c Dr 5,000 to Cash A/c 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Repairs are revenue expenditure."
+    },
+    {
+     "question_text": "Paid Rs 8,000 as installation charges of a new machine. The entry is:",
+     "options": [
+      "Machinery A/c Dr 8,000 to Cash A/c 8,000",
+      "Cash Dr to Machinery",
+      "Installation Expense Dr to Cash",
+      "Repairs Dr to Cash"
+     ],
+     "correct_index": 0,
+     "explanation": "Installation is capitalised."
+    },
+    {
+     "question_text": "Purchased a computer for Rs 40,000 and paid Rs 2,000 carriage. Computer is debited by:",
+     "options": [
+      "Rs 40,000",
+      "Rs 38,000",
+      "Rs 42,000",
+      "Rs 2,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Carriage inwards on fixed assets is capitalised."
+    },
+    {
+     "question_text": "Rs 6,000 paid for the proprietor's personal insurance from business cash. The entry is:",
+     "options": [
+      "Insurance Dr to Cash",
+      "Cash Dr to Drawings",
+      "Drawings A/c Dr 6,000 to Cash A/c 6,000",
+      "Capital Dr to Insurance"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a drawing."
+    },
+    {
+     "question_text": "Withdrew Rs 3,000 from the bank for office use. The entry is:",
+     "options": [
+      "Drawings Dr to Bank",
+      "Bank Dr to Cash",
+      "Office Expense Dr to Bank",
+      "Cash A/c Dr 3,000 to Bank A/c 3,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash comes in; bank goes out."
+    },
+    {
+     "question_text": "Goods sold on credit to X for Rs 10,000; X returned goods worth Rs 1,000; paid the balance with 2% discount. Cash received is:",
+     "options": [
+      "Rs 9,800",
+      "Rs 9,000",
+      "Rs 8,820",
+      "Rs 9,180"
+     ],
+     "correct_index": 2,
+     "explanation": "Balance 9,000; 2% discount = 180; cash 8,820."
+    },
+    {
+     "question_text": "Opening entry: Cash 15,000; Stock 40,000; Debtors 25,000; Furniture 20,000; Creditors 30,000; Loan 20,000. Capital is:",
+     "options": [
+      "Rs 50,000",
+      "Rs 70,000",
+      "Rs 1,00,000",
+      "Rs 30,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets 1,00,000 − liabilities 50,000."
+    },
+    {
+     "question_text": "Cash 10,000; Stock 30,000; Building 80,000; Creditors 20,000; Bills payable 10,000. Capital is:",
+     "options": [
+      "Rs 90,000",
+      "Rs 1,50,000",
+      "Rs 30,000",
+      "Rs 1,20,000"
+     ],
+     "correct_index": 0,
+     "explanation": "1,20,000 − 30,000."
+    },
+    {
+     "question_text": "In the opening entry for the above, the total debit is:",
+     "options": [
+      "Rs 90,000",
+      "Rs 1,20,000 (assets) and credit Rs 1,20,000 (liabilities + capital)",
+      "Rs 30,000",
+      "Rs 1,50,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Assets debited; liabilities and capital credited."
+    },
+    {
+     "question_text": "Closing entry to transfer sales Rs 2,00,000 to the trading account is:",
+     "options": [
+      "Trading A/c Dr to Sales A/c",
+      "Sales A/c Dr to Capital",
+      "Sales A/c Dr to Trading A/c",
+      "Cash Dr to Sales"
+     ],
+     "correct_index": 2,
+     "explanation": "Sales (income) is closed by debiting it."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Book of Prime Entry – Journal – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Closing entry to transfer purchases Rs 1,40,000 to the trading account is:",
+     "options": [
+      "Cash Dr to Purchases",
+      "Purchases A/c Dr to Trading A/c",
+      "Capital Dr to Purchases",
+      "Trading A/c Dr to Purchases A/c"
+     ],
+     "correct_index": 3,
+     "explanation": "Purchases (expense) is closed by crediting it."
+    },
+    {
+     "question_text": "Closing entry to transfer net profit Rs 30,000 to capital is:",
+     "options": [
+      "Cash Dr to Capital",
+      "Drawings Dr to Capital",
+      "Profit and Loss A/c Dr to Capital A/c",
+      "Capital Dr to Profit and Loss A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "Profit increases capital."
+    },
+    {
+     "question_text": "Closing entry to transfer drawings Rs 12,000 to capital is:",
+     "options": [
+      "Cash Dr to Drawings",
+      "Profit and Loss Dr to Drawings",
+      "Drawings Dr to Capital",
+      "Capital A/c Dr to Drawings A/c"
+     ],
+     "correct_index": 3,
+     "explanation": "Drawings reduce capital."
+    },
+    {
+     "question_text": "Net loss of Rs 8,000 is transferred to capital by:",
+     "options": [
+      "Capital A/c Dr to Profit and Loss A/c",
+      "Profit and Loss Dr to Capital",
+      "Cash Dr to Profit and Loss",
+      "Drawings Dr to Capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Loss reduces capital."
+    },
+    {
+     "question_text": "A bill accepted by a customer Rs 10,000. The entry is:",
+     "options": [
+      "Bills Receivable A/c Dr to Customer",
+      "Bills Payable Dr to Customer",
+      "Cash Dr to Bills Receivable",
+      "Customer Dr to Bills Receivable"
+     ],
+     "correct_index": 0,
+     "explanation": "Bills receivable is an asset."
+    },
+    {
+     "question_text": "A bill receivable honoured on due date. The entry is:",
+     "options": [
+      "Bills Receivable Dr to Cash",
+      "Customer Dr to Cash",
+      "Cash A/c Dr to Bills Receivable A/c",
+      "Cash Dr to Customer"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash comes in; the bill is discharged."
+    },
+    {
+     "question_text": "For goods sent on approval, until approved by the customer:",
+     "options": [
+      "No sale is recorded (memorandum entry only)",
+      "Purchases is debited",
+      "Customer is debited",
+      "Sales is credited"
+     ],
+     "correct_index": 0,
+     "explanation": "A sale takes place only on approval."
+    },
+    {
+     "question_text": "Outstanding rent Rs 2,500. The entry is:",
+     "options": [
+      "Cash Dr to Rent",
+      "Rent Dr to Cash",
+      "Outstanding Rent Dr to Rent",
+      "Rent A/c Dr to Outstanding Rent A/c"
+     ],
+     "correct_index": 3,
+     "explanation": "Expense incurred and a liability created."
+    },
+    {
+     "question_text": "The proprietor's house electricity bill Rs 1,800 paid by the business is debited to:",
+     "options": [
+      "Electricity A/c",
+      "Capital A/c",
+      "Drawings A/c",
+      "Office Expenses A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a personal expense."
+    },
+    {
+     "question_text": "Purchase of land Rs 3,00,000 by cheque. The entry is:",
+     "options": [
+      "Land A/c Dr to Bank A/c",
+      "Purchases Dr to Bank",
+      "Land Dr to Cash",
+      "Bank Dr to Land"
+     ],
+     "correct_index": 0,
+     "explanation": "Land comes in; bank goes out."
+    },
+    {
+     "question_text": "Lawyer's fees Rs 5,000 for the purchase of property are debited to:",
+     "options": [
+      "Property/Land A/c (capitalised)",
+      "Drawings A/c",
+      "Legal Expenses A/c (revenue)",
+      "Purchases A/c"
+     ],
+     "correct_index": 0,
+     "explanation": "Costs of acquiring an asset are capitalised."
+    },
+    {
+     "question_text": "Rs 400 paid for stationery for the business. The entry is:",
+     "options": [
+      "Capital Dr to Stationery",
+      "Stationery A/c Dr to Cash A/c",
+      "Drawings Dr to Cash",
+      "Cash Dr to Stationery"
+     ],
+     "correct_index": 1,
+     "explanation": "Stationery is an expense."
+    },
+    {
+     "question_text": "Rs 2,000 commission paid to an agent. The entry is:",
+     "options": [
+      "Commission Received Dr to Cash",
+      "Agent Dr to Commission",
+      "Commission A/c Dr to Cash A/c",
+      "Cash Dr to Commission"
+     ],
+     "correct_index": 2,
+     "explanation": "Commission paid is an expense."
+    },
+    {
+     "question_text": "Rs 100 interest received on a savings account. The entry is:",
+     "options": [
+      "Bank A/c Dr to Interest Received A/c",
+      "Cash Dr to Bank",
+      "Interest Received Dr to Bank",
+      "Interest Paid Dr to Bank"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest received is income."
+    },
+    {
+     "question_text": "Mr X, a debtor, was declared insolvent and paid 50 paise per rupee on Rs 4,000. Bad debts is:",
+     "options": [
+      "Rs 2,000",
+      "Rs 1,000",
+      "Rs 0",
+      "Rs 4,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Received Rs 2,000; the balance is a bad debt."
+    },
+    {
+     "question_text": "The proprietor paid Rs 5,000 from private funds into the business bank account. The entry is:",
+     "options": [
+      "Drawings Dr to Capital",
+      "Bank A/c Dr to Capital A/c",
+      "Capital Dr to Bank",
+      "Cash Dr to Bank"
+     ],
+     "correct_index": 1,
+     "explanation": "Capital increases."
+    },
+    {
+     "question_text": "Goods Rs 8,000, furniture Rs 5,000 and stationery Rs 500 purchased from the same supplier on credit. The supplier is credited by:",
+     "options": [
+      "Rs 5,500",
+      "Rs 5,000",
+      "Rs 8,000",
+      "Rs 13,500"
+     ],
+     "correct_index": 3,
+     "explanation": "8,000 + 5,000 + 500; each item debited to its own account."
+    },
+    {
+     "question_text": "Goods sold for Rs 20,000; 60% received by cheque and rest on credit. Customer is debited by:",
+     "options": [
+      "Rs 20,000",
+      "Rs 6,000",
+      "Rs 12,000",
+      "Rs 8,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Bank Dr 12,000; Customer Dr 8,000; Sales Cr 20,000."
+    },
+    {
+     "question_text": "Subsidiary books are preferred to a journal for large businesses because:",
+     "options": [
+      "They avoid ledgers",
+      "They are less accurate",
+      "Similar transactions are recorded together, saving time and labour",
+      "They are costlier"
+     ],
+     "correct_index": 2,
+     "explanation": "The journal would be too bulky."
+    },
+    {
+     "question_text": "A journal entry begins with the debit account because:",
+     "options": [
+      "It is a law",
+      "It is cheaper",
+      "By convention the debited account is written first",
+      "It is easier"
+     ],
+     "correct_index": 2,
+     "explanation": "The credit account is written below with \"To\"."
+    },
+    {
+     "question_text": "A transaction with one debit and two credits is:",
+     "options": [
+      "Cash received from a debtor",
+      "Sold goods for cash Rs 10,000",
+      "Cash deposit into the bank",
+      "Purchase of goods Rs 25,000, cash Rs 10,000 and balance on credit"
+     ],
+     "correct_index": 3,
+     "explanation": "Purchases Dr 25,000; Cash Cr 10,000; Creditor Cr 15,000."
+    },
+    {
+     "question_text": "A transaction with two debits and one credit is:",
+     "options": [
+      "Withdrew cash from bank",
+      "Deposited cash into bank",
+      "Paid wages and rent together by cash",
+      "Sold goods for cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Wages Dr, Rent Dr, Cash Cr."
+    },
+    {
+     "question_text": "Errors can be detected through the journal because:",
+     "options": [
+      "Each entry has a narration and equal debit and credit totals to verify",
+      "It has no entries",
+      "It has no totals",
+      "It is not reviewed"
+     ],
+     "correct_index": 0,
+     "explanation": "Debit should equal credit for each entry."
+    },
+    {
+     "question_text": "Narration is written below each entry to:",
+     "options": [
+      "Hide the entry",
+      "Calculate profit",
+      "Increase length",
+      "Explain the transaction and make the entry self-explanatory"
+     ],
+     "correct_index": 3,
+     "explanation": "It aids verification and audit."
+    },
+    {
+     "question_text": "Goods Rs 60,000 purchased: paid by cheque Rs 20,000, balance on a bill of exchange. The bill payable is:",
+     "options": [
+      "Rs 40,000",
+      "Rs 20,000",
+      "Rs 60,000",
+      "Rs 80,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Purchases Dr 60,000; Bank Cr 20,000; Bills Payable Cr 40,000."
+    }
+   ]
+  }
+ ]
+}

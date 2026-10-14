@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 7: Bank Reconciliation Statement – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A bank reconciliation statement (BRS) is:",
+     "options": [
+      "An account in the ledger",
+      "A trial balance",
+      "A bank loan application",
+      "A statement reconciling the cash book bank balance with the pass book balance"
+     ],
+     "correct_index": 3,
+     "explanation": "It explains why the two balances differ."
+    },
+    {
+     "question_text": "A BRS is prepared to:",
+     "options": [
+      "Calculate profit",
+      "Pay tax",
+      "Raise capital",
+      "Find the reasons for the difference between the cash book and pass book balances and detect errors"
+     ],
+     "correct_index": 3,
+     "explanation": "It also helps control cash."
+    },
+    {
+     "question_text": "The BRS is prepared by:",
+     "options": [
+      "The business (the account holder)",
+      "The government",
+      "The bank",
+      "The auditor only"
+     ],
+     "correct_index": 0,
+     "explanation": "The bank issues the pass book/statement."
+    },
+    {
+     "question_text": "A BRS is:",
+     "options": [
+      "A statement, not an account",
+      "A journal",
+      "A final account",
+      "An account in the ledger"
+     ],
+     "correct_index": 0,
+     "explanation": "It is not a part of the double entry system."
+    },
+    {
+     "question_text": "A pass book is:",
+     "options": [
+      "A copy of the customer's account in the bank's books",
+      "A journal",
+      "The firm's cash book",
+      "A ledger"
+     ],
+     "correct_index": 0,
+     "explanation": "It is supplied by the bank."
+    },
+    {
+     "question_text": "A bank statement is:",
+     "options": [
+      "A periodic statement of the account issued by the bank",
+      "A voucher",
+      "The firm's cash book",
+      "A trial balance"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the modern form of the pass book."
+    },
+    {
+     "question_text": "The cash book differs from the pass book in that the cash book is:",
+     "options": [
+      "The same",
+      "Maintained by the business, the pass book by the bank",
+      "Issued by the court",
+      "Maintained by the bank"
+     ],
+     "correct_index": 1,
+     "explanation": "They record the same transactions from different viewpoints."
+    },
+    {
+     "question_text": "A debit balance in the cash book (bank column) shows:",
+     "options": [
+      "Money in the bank (favourable balance)",
+      "A liability",
+      "A loss",
+      "An overdraft"
+     ],
+     "correct_index": 0,
+     "explanation": "The business has an asset."
+    },
+    {
+     "question_text": "A credit balance in the cash book (bank column) shows:",
+     "options": [
+      "Profit",
+      "An overdraft",
+      "Cash in the bank",
+      "An asset"
+     ],
+     "correct_index": 1,
+     "explanation": "The firm owes the bank."
+    },
+    {
+     "question_text": "A debit balance in the pass book shows:",
+     "options": [
+      "Profit",
+      "An overdraft",
+      "Capital",
+      "A deposit"
+     ],
+     "correct_index": 1,
+     "explanation": "The bank's record is the opposite of the firm's."
+    },
+    {
+     "question_text": "A credit balance in the pass book shows:",
+     "options": [
+      "A liability of the customer",
+      "A loss",
+      "Money available with the bank in favour of the customer",
+      "An overdraft"
+     ],
+     "correct_index": 2,
+     "explanation": "The bank owes the customer."
+    },
+    {
+     "question_text": "The bank records deposits as _____ and withdrawals as _____ in its books for the customer's account:",
+     "options": [
+      "Debit; debit",
+      "Credit; credit",
+      "Debit; credit",
+      "Credit; debit"
+     ],
+     "correct_index": 3,
+     "explanation": "The bank is the debtor to the customer."
+    },
+    {
+     "question_text": "Reasons for differences between the cash book and pass book include:",
+     "options": [
+      "Timing differences, items not recorded by one party, and errors",
+      "Only timing",
+      "Only errors",
+      "Nothing"
+     ],
+     "correct_index": 0,
+     "explanation": "They can be cleared by a BRS."
+    },
+    {
+     "question_text": "Outstanding (unpresented) cheques are:",
+     "options": [
+      "Cheques issued by the firm but not yet presented to the bank for payment",
+      "Bounced cheques",
+      "Cheques received",
+      "Cheques deposited"
+     ],
+     "correct_index": 0,
+     "explanation": "The bank has not yet debited them."
+    },
+    {
+     "question_text": "Uncleared cheques are:",
+     "options": [
+      "Cheques deposited by the firm but not yet credited by the bank",
+      "Old cheques",
+      "Cancelled cheques",
+      "Cheques issued"
+     ],
+     "correct_index": 0,
+     "explanation": "The bank has not yet collected the proceeds."
+    },
+    {
+     "question_text": "A post-dated cheque is:",
+     "options": [
+      "A cancelled cheque",
+      "A cheque dated in the future and not payable until that date, so not credited earlier",
+      "A bearer cheque",
+      "A cheque dated in the past"
+     ],
+     "correct_index": 1,
+     "explanation": "It is not considered in the BRS until the date."
+    },
+    {
+     "question_text": "Bank charges create a difference because:",
+     "options": [
+      "The bank debits them to the account, and the firm records them later",
+      "They are not charged",
+      "They are income",
+      "The firm records them first"
+     ],
+     "correct_index": 0,
+     "explanation": "The cash book is adjusted afterwards."
+    },
+    {
+     "question_text": "Bank interest creates a difference because:",
+     "options": [
+      "The firm records it earlier",
+      "The bank credits it to the account and the firm records it later",
+      "It is cancelled",
+      "It is an expense"
+     ],
+     "correct_index": 1,
+     "explanation": "The cash book is adjusted afterwards."
+    },
+    {
+     "question_text": "A direct deposit by a customer creates a difference because:",
+     "options": [
+      "The firm records it first",
+      "It is cancelled",
+      "It is an expense",
+      "The bank credits it but the firm learns about it later"
+     ],
+     "correct_index": 3,
+     "explanation": "It appears in the pass book first."
+    },
+    {
+     "question_text": "Standing instructions (e.g., insurance, loan EMI) paid by the bank:",
+     "options": [
+      "Are income",
+      "Are not recorded",
+      "Appear in the cash book first",
+      "Appear in the pass book but not yet in the cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "The cash book needs adjustment."
+    },
+    {
+     "question_text": "A dishonoured cheque creates a difference because:",
+     "options": [
+      "It is income",
+      "The firm records it first",
+      "It is cancelled",
+      "The bank debits the customer, while the firm still shows the deposit in its cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "The firm learns of dishonour later."
+    },
+    {
+     "question_text": "Timing differences are:",
+     "options": [
+      "Differences caused by cheques recorded in one book earlier than in the other",
+      "Errors of principle",
+      "Fraud",
+      "Compensating errors"
+     ],
+     "correct_index": 0,
+     "explanation": "They reverse in the next period."
+    },
+    {
+     "question_text": "Errors create a difference when:",
+     "options": [
+      "Everything is correct",
+      "The cheque is cleared",
+      "Either the firm or the bank records a wrong amount",
+      "The cheque is dishonoured"
+     ],
+     "correct_index": 2,
+     "explanation": "Errors need correction."
+    },
+    {
+     "question_text": "When the starting balance is an overdraft, items that were added with a favourable balance are:",
+     "options": [
+      "Ignored",
+      "Doubled",
+      "Added",
+      "Deducted, and those deducted are added (signs are reversed)"
+     ],
+     "correct_index": 3,
+     "explanation": "An overdraft is a negative balance."
+    },
+    {
+     "question_text": "Starting with a favourable cash book balance, the items to add are:",
+     "options": [
+      "Bank charges",
+      "Dishonoured cheques",
+      "Cheques issued not presented, interest and direct deposits credited by the bank",
+      "Cheques deposited not collected"
+     ],
+     "correct_index": 2,
+     "explanation": "These increase the pass book balance."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Bank Reconciliation Statement – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Starting with a favourable cash book balance, the items to deduct are:",
+     "options": [
+      "Cheques issued not presented",
+      "Interest credited",
+      "Direct deposits",
+      "Cheques deposited not collected, bank charges and dishonoured cheques"
+     ],
+     "correct_index": 3,
+     "explanation": "These reduce the pass book balance."
+    },
+    {
+     "question_text": "Starting with a favourable pass book balance, the items to add are:",
+     "options": [
+      "Cheques issued not presented",
+      "Interest",
+      "Cheques deposited but not yet collected",
+      "Direct deposits"
+     ],
+     "correct_index": 2,
+     "explanation": "These are already in the cash book."
+    },
+    {
+     "question_text": "Starting with a favourable pass book balance, the items to deduct are:",
+     "options": [
+      "Cheques deposited not collected",
+      "Direct deposits",
+      "Cheques issued but not yet presented",
+      "Interest credited"
+     ],
+     "correct_index": 2,
+     "explanation": "These are already in the cash book."
+    },
+    {
+     "question_text": "An adjusted cash book is:",
+     "options": [
+      "A ledger",
+      "A cash book updated for items found in the pass book before preparing the BRS",
+      "A pass book",
+      "A journal"
+     ],
+     "correct_index": 1,
+     "explanation": "It shows the corrected balance."
+    },
+    {
+     "question_text": "The adjustment entry for bank charges Rs 200 is:",
+     "options": [
+      "Cash Dr to Bank Charges",
+      "Bank Charges Dr to Cash",
+      "Bank Dr to Bank Charges",
+      "Bank Charges A/c Dr to Bank A/c"
+     ],
+     "correct_index": 3,
+     "explanation": "It is an expense."
+    },
+    {
+     "question_text": "The adjustment entry for interest credited by the bank Rs 500 is:",
+     "options": [
+      "Bank Dr to Interest Paid",
+      "Cash Dr to Interest",
+      "Bank A/c Dr to Interest Received A/c",
+      "Interest Received Dr to Bank"
+     ],
+     "correct_index": 2,
+     "explanation": "It is income."
+    },
+    {
+     "question_text": "The adjustment entry for a direct deposit Rs 1,500 is:",
+     "options": [
+      "Bank A/c Dr to Customer's A/c",
+      "Bank Dr to Sales",
+      "Cash Dr to Bank",
+      "Customer Dr to Bank"
+     ],
+     "correct_index": 0,
+     "explanation": "The customer's account is credited."
+    },
+    {
+     "question_text": "The adjustment entry for a dishonoured cheque Rs 2,000 is:",
+     "options": [
+      "Customer's A/c Dr to Bank A/c",
+      "Bank Dr to Customer",
+      "Bank Dr to Cash",
+      "Cash Dr to Customer"
+     ],
+     "correct_index": 0,
+     "explanation": "The debtor's account is revived."
+    },
+    {
+     "question_text": "The adjustment entry for insurance premium paid by the bank Rs 4,000 is:",
+     "options": [
+      "Insurance A/c Dr to Bank A/c",
+      "Cash Dr to Insurance",
+      "Bank Dr to Insurance",
+      "Insurance Dr to Cash"
+     ],
+     "correct_index": 0,
+     "explanation": "It is an expense."
+    },
+    {
+     "question_text": "The first step in preparing a BRS is to:",
+     "options": [
+      "Compare the cash book and pass book entries and note the differences",
+      "Close the books",
+      "Pay the bank",
+      "Prepare the trial balance"
+     ],
+     "correct_index": 0,
+     "explanation": "Then list the unmatched items."
+    },
+    {
+     "question_text": "CB balance Rs 12,000; cheques issued not presented Rs 3,000; cheques deposited not collected Rs 2,000. The pass book balance is:",
+     "options": [
+      "Rs 7,000",
+      "Rs 11,000",
+      "Rs 13,000",
+      "Rs 17,000"
+     ],
+     "correct_index": 2,
+     "explanation": "12,000 + 3,000 − 2,000."
+    },
+    {
+     "question_text": "PB balance Rs 30,000; cheques issued not presented Rs 4,000; cheques deposited not collected Rs 6,000. The cash book balance is:",
+     "options": [
+      "Rs 32,000",
+      "Rs 28,000",
+      "Rs 40,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 0,
+     "explanation": "30,000 + 6,000 − 4,000."
+    },
+    {
+     "question_text": "CB balance Rs 40,000; bank charges 150; interest credited 600; cheque issued not presented 5,000. The pass book balance is:",
+     "options": [
+      "Rs 44,550",
+      "Rs 46,350",
+      "Rs 34,450",
+      "Rs 45,450"
+     ],
+     "correct_index": 3,
+     "explanation": "40,000 − 150 + 600 + 5,000."
+    },
+    {
+     "question_text": "PB balance Rs 55,000; cheque deposited not collected 10,000; cheque issued not presented 7,000; bank charges 300 not recorded in the cash book. The cash book balance is:",
+     "options": [
+      "Rs 62,000",
+      "Rs 58,300",
+      "Rs 52,000",
+      "Rs 57,700"
+     ],
+     "correct_index": 1,
+     "explanation": "55,000 + 10,000 − 7,000 + 300."
+    },
+    {
+     "question_text": "CB overdraft Rs 8,000; cheque issued not presented 2,000; cheque deposited not collected 1,000. The pass book shows an overdraft of:",
+     "options": [
+      "Rs 9,000",
+      "Rs 11,000",
+      "Rs 7,000",
+      "Rs 5,000"
+     ],
+     "correct_index": 2,
+     "explanation": "−8,000 + 2,000 − 1,000 = −7,000."
+    },
+    {
+     "question_text": "PB overdraft Rs 15,000; cheques deposited not collected 4,000; cheques issued not presented 6,000. The cash book overdraft is:",
+     "options": [
+      "Rs 17,000",
+      "Rs 13,000",
+      "Rs 25,000",
+      "Rs 5,000"
+     ],
+     "correct_index": 0,
+     "explanation": "−15,000 + 4,000 − 6,000 = −17,000."
+    },
+    {
+     "question_text": "CB balance Rs 22,000; dividend collected by the bank 1,000; EMI paid by the bank 2,500; cheque dishonoured 1,200. The adjusted cash book balance is:",
+     "options": [
+      "Rs 19,300",
+      "Rs 21,200",
+      "Rs 26,700",
+      "Rs 17,500"
+     ],
+     "correct_index": 0,
+     "explanation": "22,000 + 1,000 − 2,500 − 1,200."
+    },
+    {
+     "question_text": "CB balance Rs 60,000; customer's direct deposit 5,000; cheques deposited not credited 8,000; bank charges 100; cheques issued not presented 9,000. The pass book balance is:",
+     "options": [
+      "Rs 64,900",
+      "Rs 58,900",
+      "Rs 65,900",
+      "Rs 72,900"
+     ],
+     "correct_index": 2,
+     "explanation": "Adjusted CB 64,900 + 9,000 − 8,000."
+    },
+    {
+     "question_text": "A cheque of Rs 5,000 was recorded as Rs 500 in the cash book (payment). The cash book balance is overstated by:",
+     "options": [
+      "Rs 5,500",
+      "Rs 500",
+      "Rs 5,000",
+      "Rs 4,500"
+     ],
+     "correct_index": 3,
+     "explanation": "Credit should have been 5,000 but was 500."
+    },
+    {
+     "question_text": "PB balance Rs 70,000; wrong credit by the bank Rs 4,000; cheques deposited not credited Rs 6,000. The cash book balance is:",
+     "options": [
+      "Rs 72,000",
+      "Rs 80,000",
+      "Rs 68,000",
+      "Rs 76,000"
+     ],
+     "correct_index": 0,
+     "explanation": "70,000 − 4,000 + 6,000."
+    },
+    {
+     "question_text": "CB balance Rs 15,000; cheque issued to X Rs 2,000 not recorded in the cash book; bank interest Rs 300. The adjusted cash book balance is:",
+     "options": [
+      "Rs 12,700",
+      "Rs 17,300",
+      "Rs 13,300",
+      "Rs 16,700"
+     ],
+     "correct_index": 2,
+     "explanation": "15,000 − 2,000 + 300."
+    },
+    {
+     "question_text": "CB balance Rs 33,500; dishonoured cheque 1,500; bill collected by the bank 6,000; bank charges 250. The adjusted cash book balance is:",
+     "options": [
+      "Rs 28,250",
+      "Rs 37,750",
+      "Rs 41,250",
+      "Rs 38,250"
+     ],
+     "correct_index": 1,
+     "explanation": "33,500 − 1,500 + 6,000 − 250."
+    },
+    {
+     "question_text": "A PB overdraft of Rs 20,000 is shown on the bank statement; the overdraft interest Rs 800 has been charged. In the cash book the interest is:",
+     "options": [
+      "Ignored",
+      "Already recorded",
+      "Not yet recorded and should be debited to Interest A/c and credited to Bank A/c",
+      "Income"
+     ],
+     "correct_index": 2,
+     "explanation": "The cash book needs adjustment."
+    },
+    {
+     "question_text": "CB balance Rs 10,000; bank interest 200; standing instruction 1,000; cheque deposited not collected 4,000; cheque issued not presented 2,500. The pass book balance is:",
+     "options": [
+      "Rs 11,700",
+      "Rs 5,700",
+      "Rs 9,200",
+      "Rs 7,700"
+     ],
+     "correct_index": 3,
+     "explanation": "Adjusted CB 9,200 − 4,000 + 2,500 = 7,700."
+    },
+    {
+     "question_text": "PB balance Rs 28,800; cheques issued not presented 5,000; cheques deposited not collected 3,000; interest 500; direct deposit 1,500; bank charges 200. The cash book balance (before adjustment) is:",
+     "options": [
+      "Rs 22,000",
+      "Rs 28,800",
+      "Rs 32,600",
+      "Rs 25,000"
+     ],
+     "correct_index": 3,
+     "explanation": "28,800 + 3,000 − 5,000 − 500 − 1,500 + 200."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Bank Reconciliation Statement – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "CB balance Rs 9,000; cheques issued Rs 1,000 not presented. The pass book balance is:",
+     "options": [
+      "Rs 9,000",
+      "Rs 8,000",
+      "Rs 1,000",
+      "Rs 10,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Add unpresented cheques."
+    },
+    {
+     "question_text": "PB balance Rs 14,000; cheque issued not presented Rs 3,000; cheque deposited not collected Rs 2,000. The cash book balance is:",
+     "options": [
+      "Rs 19,000",
+      "Rs 9,000",
+      "Rs 13,000",
+      "Rs 15,000"
+     ],
+     "correct_index": 2,
+     "explanation": "14,000 + 2,000 − 3,000."
+    },
+    {
+     "question_text": "PB Rs 50,000; CB Rs 46,000; the only difference is unpresented cheques, which total:",
+     "options": [
+      "Rs 96,000",
+      "Rs 8,000",
+      "Rs 4,000",
+      "Rs 2,000"
+     ],
+     "correct_index": 2,
+     "explanation": "50,000 − 46,000."
+    },
+    {
+     "question_text": "CB overdraft Rs 10,000 and unpresented cheques Rs 3,000. The pass book shows an overdraft of:",
+     "options": [
+      "Rs 13,000",
+      "Rs 3,000",
+      "Rs 10,000",
+      "Rs 7,000"
+     ],
+     "correct_index": 3,
+     "explanation": "−10,000 + 3,000."
+    },
+    {
+     "question_text": "Outstanding cheques are added to the cash book balance to reach the pass book balance because:",
+     "options": [
+      "They are income",
+      "The cash book has already deducted them but the bank has not yet",
+      "The bank has already deducted them",
+      "They are errors"
+     ],
+     "correct_index": 1,
+     "explanation": "The bank balance is still higher."
+    },
+    {
+     "question_text": "Uncleared cheques are deducted from the cash book balance because:",
+     "options": [
+      "They are expenses",
+      "The cash book has recorded the deposit but the bank has not yet credited it",
+      "They are errors",
+      "The bank has credited it"
+     ],
+     "correct_index": 1,
+     "explanation": "The bank balance is still lower."
+    },
+    {
+     "question_text": "Bank charges are deducted from a favourable cash book balance because:",
+     "options": [
+      "They are errors",
+      "The bank has debited them but the cash book has not",
+      "The cash book has deducted them",
+      "They are income"
+     ],
+     "correct_index": 1,
+     "explanation": "The pass book balance is lower."
+    },
+    {
+     "question_text": "A dishonoured cheque does not appear in the cash book initially because:",
+     "options": [
+      "It is an expense",
+      "The firm learns of dishonour only after the bank informs it",
+      "The bank does not record it",
+      "It is an error"
+     ],
+     "correct_index": 1,
+     "explanation": "The cash book still shows the deposit."
+    },
+    {
+     "question_text": "A BRS and updating the cash book:",
+     "options": [
+      "Are both optional",
+      "Serve different purposes: BRS explains differences, updating corrects the cash book",
+      "Are unrelated",
+      "Are identical"
+     ],
+     "correct_index": 1,
+     "explanation": "Both are done in practice."
+    },
+    {
+     "question_text": "The effect of a BRS on the balance sheet's bank balance is that it:",
+     "options": [
+      "Changes the pass book",
+      "Confirms the correct (adjusted cash book) balance to be shown",
+      "Has no purpose",
+      "Is shown as a liability"
+     ],
+     "correct_index": 1,
+     "explanation": "The balance sheet uses the adjusted cash book balance."
+    },
+    {
+     "question_text": "The balance sheet shows the:",
+     "options": [
+      "Adjusted cash book balance",
+      "Pass book balance",
+      "Both",
+      "Neither"
+     ],
+     "correct_index": 0,
+     "explanation": "It reflects the firm's own records."
+    },
+    {
+     "question_text": "A BRS helps detect fraud because:",
+     "options": [
+      "It eliminates fraud",
+      "It hides entries",
+      "Unmatched items and unusual differences can be investigated",
+      "It creates entries"
+     ],
+     "correct_index": 2,
+     "explanation": "Regular reconciliation exposes irregularities."
+    },
+    {
+     "question_text": "A BRS should be prepared:",
+     "options": [
+      "Every ten years",
+      "Only at year end",
+      "Regularly (e.g., monthly)",
+      "Never"
+     ],
+     "correct_index": 2,
+     "explanation": "Frequent reconciliation improves control."
+    },
+    {
+     "question_text": "A limitation of a BRS is that it:",
+     "options": [
+      "Does not prove all errors have been detected",
+      "Is a legal document",
+      "Needs no records",
+      "Detects all errors"
+     ],
+     "correct_index": 0,
+     "explanation": "It only reconciles balances."
+    },
+    {
+     "question_text": "A bank error found in a BRS is:",
+     "options": [
+      "Reported to the bank for correction, and shown as a reconciling item",
+      "Recorded as profit",
+      "Ignored",
+      "Recorded as drawings"
+     ],
+     "correct_index": 0,
+     "explanation": "The cash book is not adjusted."
+    },
+    {
+     "question_text": "A cheque dishonoured due to insufficient funds is treated by:",
+     "options": [
+      "Debiting the customer's account and crediting bank in the cash book",
+      "Crediting the customer",
+      "Ignoring it",
+      "Debiting bank"
+     ],
+     "correct_index": 0,
+     "explanation": "The sale is revived."
+    },
+    {
+     "question_text": "NEFT/RTGS receipts not recorded in the cash book cause:",
+     "options": [
+      "A difference, as the bank has credited the amount and the cash book needs to record it",
+      "A loss",
+      "No difference",
+      "A profit"
+     ],
+     "correct_index": 0,
+     "explanation": "Adjust the cash book."
+    },
+    {
+     "question_text": "An internal-control benefit of a BRS is that it:",
+     "options": [
+      "Increases cash",
+      "Eliminates audits",
+      "Ensures bank records match the books and prevents misuse",
+      "Reduces tax"
+     ],
+     "correct_index": 2,
+     "explanation": "Independent verification."
+    },
+    {
+     "question_text": "The BRS does not change the cash book balance unless:",
+     "options": [
+      "Tax is paid",
+      "The BRS is prepared",
+      "The bank closes",
+      "Adjustments are made in the cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "It only reconciles."
+    },
+    {
+     "question_text": "The BRS does not change the pass book balance because:",
+     "options": [
+      "It is a law",
+      "It is the firm's record",
+      "It is a tax",
+      "It is the bank's record"
+     ],
+     "correct_index": 3,
+     "explanation": "The bank maintains it."
+    },
+    {
+     "question_text": "A cheque of Rs 5,000 deposited on 30 March and credited by the bank on 2 April appears on 31 March:",
+     "options": [
+      "In both",
+      "In the cash book but not in the pass book (deducted from the CB balance in BRS)",
+      "In neither",
+      "In the pass book but not in the cash book"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an uncleared cheque."
+    },
+    {
+     "question_text": "A cheque issued on 28 March and presented on 3 April appears on 31 March:",
+     "options": [
+      "In the cash book but not in the pass book (added to the CB balance in BRS)",
+      "In neither",
+      "In the pass book only",
+      "In both"
+     ],
+     "correct_index": 0,
+     "explanation": "It is an unpresented cheque."
+    },
+    {
+     "question_text": "The date of presentation matters because:",
+     "options": [
+      "It changes the cash book",
+      "The bank debits or credits the account only on that date",
+      "It is irrelevant",
+      "It changes tax"
+     ],
+     "correct_index": 1,
+     "explanation": "It determines timing differences."
+    },
+    {
+     "question_text": "A stale cheque is:",
+     "options": [
+      "A cheque not presented within its validity of three months",
+      "A cheque presented early",
+      "A cancelled cheque",
+      "A post-dated cheque"
+     ],
+     "correct_index": 0,
+     "explanation": "The bank will not honour it."
+    },
+    {
+     "question_text": "An account-payee cheque differs from a bearer cheque in that it:",
+     "options": [
+      "Is cancelled",
+      "Is payable to the holder",
+      "Can only be credited to the payee's account, while a bearer cheque is payable to the holder",
+      "Is cash"
+     ],
+     "correct_index": 2,
+     "explanation": "It is safer."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Bank Reconciliation Statement – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A stop-payment instruction to the bank:",
+     "options": [
+      "Increases payments",
+      "Increases cash",
+      "Increases profit",
+      "Prevents payment of a cheque issued, which is added back in the cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "The cash book is adjusted."
+    },
+    {
+     "question_text": "Documents needed to prepare a BRS include:",
+     "options": [
+      "Journal only",
+      "Cash book (bank column) and the pass book/bank statement",
+      "Trial balance",
+      "Ledger only"
+     ],
+     "correct_index": 1,
+     "explanation": "Plus cheque details."
+    },
+    {
+     "question_text": "A BRS is prepared for:",
+     "options": [
+      "Savings account only",
+      "Current account only",
+      "Any bank account (current, savings, overdraft, etc.)",
+      "Loans only"
+     ],
+     "correct_index": 2,
+     "explanation": "Wherever the cash book and bank records exist."
+    },
+    {
+     "question_text": "A standing instruction for loan EMI is:",
+     "options": [
+      "Not recorded",
+      "Income",
+      "Recorded in the cash book first",
+      "Recorded by the bank first and later recorded in the cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "It reduces the bank balance."
+    },
+    {
+     "question_text": "Interest on fixed deposit credited by the bank is:",
+     "options": [
+      "Ignored",
+      "Income, recorded in the cash book after being seen in the pass book",
+      "A liability",
+      "An expense"
+     ],
+     "correct_index": 1,
+     "explanation": "It increases the bank balance."
+    },
+    {
+     "question_text": "A mandate is:",
+     "options": [
+      "A tax",
+      "A receipt",
+      "An instruction by the customer to the bank to pay amounts, which appears in the pass book",
+      "A cheque"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., ECS mandates."
+    },
+    {
+     "question_text": "At year end, an uncleared cheque is:",
+     "options": [
+      "Shown in the cash book as a deposit and appears in the BRS as a reconciling item",
+      "Treated as profit",
+      "Cancelled",
+      "Ignored"
+     ],
+     "correct_index": 0,
+     "explanation": "The balance sheet shows the cash book balance."
+    },
+    {
+     "question_text": "In a BRS for an account with an overdraft limit, the overdraft is treated:",
+     "options": [
+      "As positive",
+      "As profit",
+      "Ignored",
+      "As a negative balance with signs reversed"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a liability."
+    },
+    {
+     "question_text": "Window dressing with cheques means:",
+     "options": [
+      "Preparing accounts",
+      "Auditing",
+      "Cleaning windows",
+      "Showing higher bank balances by recording cheques as received/not issued at year-end; the BRS detects it by comparing with the bank statement"
+     ],
+     "correct_index": 3,
+     "explanation": "Unusual reconciling items reveal it."
+    },
+    {
+     "question_text": "A practical BRS case: a firm's cash book shows Rs 50,000 but the bank statement shows Rs 55,000. The difference may be due to:",
+     "options": [
+      "Profit",
+      "Cheques issued not yet presented, etc.",
+      "Fraud always",
+      "Tax"
+     ],
+     "correct_index": 1,
+     "explanation": "Investigate each reconciling item."
+    },
+    {
+     "question_text": "A cheque issued on 31 March and presented on 5 April means the bank statement balance on 31 March is:",
+     "options": [
+      "Lower than the cash book balance",
+      "Higher than the cash book balance",
+      "The same",
+      "Zero"
+     ],
+     "correct_index": 1,
+     "explanation": "The bank has not yet debited it."
+    },
+    {
+     "question_text": "A BRS is needed even when both the cash book and pass book are correct because:",
+     "options": [
+      "It is a law",
+      "It is not needed",
+      "Both are always equal",
+      "Timing differences still occur"
+     ],
+     "correct_index": 3,
+     "explanation": "Cheques are in transit."
+    },
+    {
+     "question_text": "If there are uncleared cheques, the bank balance shown in the balance sheet is:",
+     "options": [
+      "The adjusted cash book balance",
+      "Zero",
+      "The average of both",
+      "The pass book balance"
+     ],
+     "correct_index": 0,
+     "explanation": "The firm's own books."
+    },
+    {
+     "question_text": "CB balance Rs 18,000; cheques issued not presented 6,000; deposited not credited 4,500; bank charges 120. The pass book balance is:",
+     "options": [
+      "Rs 7,620",
+      "Rs 19,620",
+      "Rs 29,500",
+      "Rs 19,380"
+     ],
+     "correct_index": 3,
+     "explanation": "18,000 − 120 + 6,000 − 4,500."
+    },
+    {
+     "question_text": "PB balance Rs 42,000; cheques deposited not credited 9,000; cheques issued not presented 3,000; interest 400 not in the cash book. The cash book balance is:",
+     "options": [
+      "Rs 36,400",
+      "Rs 42,400",
+      "Rs 48,400",
+      "Rs 47,600"
+     ],
+     "correct_index": 3,
+     "explanation": "42,000 + 9,000 − 3,000 − 400."
+    },
+    {
+     "question_text": "PB balance Rs 36,500; cheques issued not presented 8,000; dishonoured cheque 1,000 not in the cash book. The cash book balance is:",
+     "options": [
+      "Rs 45,500",
+      "Rs 27,500",
+      "Rs 29,500",
+      "Rs 43,500"
+     ],
+     "correct_index": 2,
+     "explanation": "36,500 − 8,000 + 1,000."
+    },
+    {
+     "question_text": "CB balance Rs 5,000; cheques deposited not credited 2,000; insurance paid by the bank 600; interest 150. The pass book balance is:",
+     "options": [
+      "Rs 4,550",
+      "Rs 7,450",
+      "Rs 2,550",
+      "Rs 6,550"
+     ],
+     "correct_index": 2,
+     "explanation": "Adjusted CB 5,000 − 600 + 150 = 4,550; minus 2,000."
+    },
+    {
+     "question_text": "CB overdraft Rs 12,000; cheques issued not presented 4,000; interest on overdraft 300 not recorded. The pass book overdraft is:",
+     "options": [
+      "Rs 11,700",
+      "Rs 8,300",
+      "Rs 7,700",
+      "Rs 16,300"
+     ],
+     "correct_index": 1,
+     "explanation": "−12,000 − 300 + 4,000 = −8,300."
+    },
+    {
+     "question_text": "PB balance Rs 64,000; cheque deposited not credited 5,000; cheque issued not presented 9,000; deposit of Rs 3,500 entered as Rs 5,300 in the cash book. The correct cash book balance is:",
+     "options": [
+      "Rs 58,200",
+      "Rs 56,400",
+      "Rs 61,800",
+      "Rs 60,000"
+     ],
+     "correct_index": 0,
+     "explanation": "64,000 + 5,000 − 9,000 = 60,000; less excess 1,800."
+    },
+    {
+     "question_text": "PB balance Rs 20,000; cheques issued not presented 4,000; deposited not credited 6,000; bank charges 100; interest 250. The cash book balance (before adjustment) is:",
+     "options": [
+      "Rs 22,000",
+      "Rs 22,150",
+      "Rs 18,150",
+      "Rs 21,850"
+     ],
+     "correct_index": 3,
+     "explanation": "20,000 − 4,000 + 6,000 + 100 − 250."
+    },
+    {
+     "question_text": "CB balance Rs 37,000; cheques issued not presented 7,000; deposited not credited 5,000; interest credited 300. The pass book balance is:",
+     "options": [
+      "Rs 38,700",
+      "Rs 39,300",
+      "Rs 29,300",
+      "Rs 44,300"
+     ],
+     "correct_index": 1,
+     "explanation": "37,000 + 300 + 7,000 − 5,000."
+    },
+    {
+     "question_text": "A post-dated cheque received but not yet deposited is:",
+     "options": [
+      "Added to the cash book",
+      "Not considered in the BRS until its date arrives",
+      "Deducted from the cash book",
+      "Treated as income"
+     ],
+     "correct_index": 1,
+     "explanation": "It has no effect on the bank balance until presented."
+    },
+    {
+     "question_text": "The bank statement should be matched regularly with the cash book to:",
+     "options": [
+      "Detect errors and fraud early and keep records accurate",
+      "Reduce sales",
+      "Increase tax",
+      "Close accounts"
+     ],
+     "correct_index": 0,
+     "explanation": "Regular reconciliation is good practice."
+    },
+    {
+     "question_text": "A bank reconciliation differs from a bank statement in that the bank statement is:",
+     "options": [
+      "A journal",
+      "A ledger",
+      "Prepared by the firm",
+      "Issued by the bank, while the reconciliation is prepared by the firm to explain differences"
+     ],
+     "correct_index": 3,
+     "explanation": "They serve different purposes."
+    },
+    {
+     "question_text": "NEFT/UPI credits in reconciliation are:",
+     "options": [
+      "Treated as errors",
+      "Treated as expenses",
+      "Matched with the cash book; those not recorded in the cash book are adjusted",
+      "Ignored"
+     ],
+     "correct_index": 2,
+     "explanation": "Check each credit against sales or receipts."
+    }
+   ]
+  }
+ ]
+}
