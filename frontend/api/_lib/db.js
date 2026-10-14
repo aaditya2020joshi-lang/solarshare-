@@ -100,6 +100,12 @@ export function ensureSchema() {
         order_index INTEGER NOT NULL DEFAULT 0,
         created_at TIMESTAMPTZ NOT NULL DEFAULT now()
       );
+
+      CREATE TABLE IF NOT EXISTS seeded_content (
+        user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        item_key TEXT NOT NULL,
+        PRIMARY KEY (user_id, item_key)
+      );
     `).then(() => true);
   }
   return schemaReady;

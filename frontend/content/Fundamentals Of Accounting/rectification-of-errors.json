@@ -1,0 +1,638 @@
+{
+  "tests": [
+    {
+      "title": "Rectification of Errors – Practice Test",
+      "duration_minutes": 30,
+      "questions": [
+        {
+          "question_text": "Which of the following errors will NOT stop the trial balance from agreeing?",
+          "options": [
+            "Leaving out the total of the purchases book when posting to the ledger",
+            "Entering a credit sale in the sales book at the wrong amount, then posting that same amount to both accounts",
+            "Posting an amount to the wrong side of an account",
+            "Wrongly balancing the cash account"
+          ],
+          "correct_index": 1,
+          "explanation": "A wrong amount in the subsidiary book is carried equally to both the customer and the sales account, so debits and credits stay equal. The other three leave only one side affected."
+        },
+        {
+          "question_text": "A computer bought for ₹40,000 was debited to Office Expenses. This is an error of:",
+          "options": [
+            "Omission",
+            "Commission",
+            "Principle",
+            "Compensation"
+          ],
+          "correct_index": 2,
+          "explanation": "A capital item was treated as a revenue expense, which goes against accounting principles. The amount is on the correct side, so the trial balance still agrees."
+        },
+        {
+          "question_text": "A computer bought for ₹40,000 is wrongly debited to Office Expenses. Ignoring depreciation, what is the effect on profit?",
+          "options": [
+            "Net profit is overstated by ₹40,000",
+            "Net profit is understated by ₹40,000",
+            "Gross profit is understated by ₹40,000",
+            "There is no effect on profit"
+          ],
+          "correct_index": 1,
+          "explanation": "Expenses are overstated by ₹40,000, so net profit is understated by the same amount. Assets are also understated."
+        },
+        {
+          "question_text": "Two errors of equal amount, one on the debit side and one on the credit side, cancel each other out. Such errors are called:",
+          "options": [
+            "Errors of principle",
+            "Compensating errors",
+            "Errors of omission",
+            "One-sided errors"
+          ],
+          "correct_index": 1,
+          "explanation": "Compensating errors offset each other, so the trial balance agrees even though both mistakes exist."
+        },
+        {
+          "question_text": "A credit sale to Ravi was never entered in any book. This is:",
+          "options": [
+            "A complete error of omission, which does not affect the trial balance",
+            "An error of commission, which makes the trial balance disagree",
+            "An error of principle",
+            "A compensating error"
+          ],
+          "correct_index": 0,
+          "explanation": "Leaving a transaction out completely means neither the debit nor the credit is recorded, so the trial balance still agrees."
+        },
+        {
+          "question_text": "Goods sold on credit to Ravi for ₹3,000 were debited to the account of Rani. The trial balance:",
+          "options": [
+            "Will show debits higher by ₹3,000",
+            "Will show credits higher by ₹3,000",
+            "Will still agree",
+            "Will show a difference of ₹6,000"
+          ],
+          "correct_index": 2,
+          "explanation": "The amount is on the right side, but in the wrong personal account. This is an error of commission that the trial balance does not reveal."
+        },
+        {
+          "question_text": "The purchases book for a month was undercast by ₹500. How is the Purchases Account corrected?",
+          "options": [
+            "Credited with ₹500",
+            "Debited with ₹500",
+            "Debited with ₹1,000",
+            "No correction is needed because the supplier accounts are right"
+          ],
+          "correct_index": 1,
+          "explanation": "The total posted to Purchases was ₹500 too low, so it needs another debit of ₹500. Supplier accounts were posted from individual entries and are unaffected."
+        },
+        {
+          "question_text": "Cash of ₹800 received from Mohan was posted to the debit of his account. The cash book is correct. His account should now be:",
+          "options": [
+            "Credited with ₹800",
+            "Credited with ₹1,600",
+            "Debited with ₹800",
+            "Debited with ₹1,600"
+          ],
+          "correct_index": 1,
+          "explanation": "The wrong debit of ₹800 must be cancelled and the correct credit of ₹800 given, so the net correction is a credit of ₹1,600."
+        },
+        {
+          "question_text": "Why is a suspense account opened?",
+          "options": [
+            "To record the owner’s drawings",
+            "To temporarily hold the difference when a trial balance does not agree",
+            "To record suspicious transactions",
+            "To replace the profit and loss account"
+          ],
+          "correct_index": 1,
+          "explanation": "The suspense account carries the trial balance difference so the trial balance can be drawn up while the errors are still being traced."
+        },
+        {
+          "question_text": "The debit total of a trial balance exceeds the credit total by ₹2,000, and the difference is put into a suspense account. The suspense account will be shown on the:",
+          "options": [
+            "Debit side",
+            "Credit side",
+            "Either side, as the accountant prefers",
+            "It will not appear in the trial balance"
+          ],
+          "correct_index": 1,
+          "explanation": "The credit side is short, so the suspense account is credited to make the totals equal."
+        },
+        {
+          "question_text": "Salaries of ₹4,500 were correctly credited to Cash but posted to the Salaries Account as ₹5,400. The difference went to suspense. The rectifying entry is:",
+          "options": [
+            "Debit Salaries ₹900, credit Suspense ₹900",
+            "Debit Suspense ₹900, credit Salaries ₹900",
+            "Debit Cash ₹900, credit Salaries ₹900",
+            "Debit Suspense ₹5,400, credit Salaries ₹5,400"
+          ],
+          "correct_index": 1,
+          "explanation": "Salaries is over-debited by ₹900, which put the debit side ahead and created a credit suspense balance of ₹900. Debiting Suspense clears it and crediting Salaries removes the excess."
+        },
+        {
+          "question_text": "Which of these is a two-sided error that can be rectified with a complete journal entry?",
+          "options": [
+            "Undercasting of the sales book",
+            "Omitting to post a discount to a personal account",
+            "Machinery bought on credit and debited to the Purchases Account",
+            "Posting the wrong amount to a single account"
+          ],
+          "correct_index": 2,
+          "explanation": "The supplier is credited correctly, but the debit went to the wrong account. The fix is: Debit Machinery, Credit Purchases."
+        },
+        {
+          "question_text": "₹1,500 spent on repairs to machinery was debited to the Machinery Account. The rectifying entry is:",
+          "options": [
+            "Debit Repairs, credit Machinery",
+            "Debit Machinery, credit Repairs",
+            "Debit Repairs, credit Cash",
+            "Debit Suspense, credit Machinery"
+          ],
+          "correct_index": 0,
+          "explanation": "Repairs are a revenue expense. Move the amount out of the asset account into Repairs."
+        },
+        {
+          "question_text": "Wages of ₹2,000 paid for installing a new machine were debited to Wages Account. The rectifying entry is:",
+          "options": [
+            "Debit Wages, credit Machinery",
+            "Debit Machinery, credit Wages",
+            "Debit Machinery, credit Cash",
+            "No entry, because wages are always an expense"
+          ],
+          "correct_index": 1,
+          "explanation": "Installation cost is part of the cost of the asset, so it is capitalised. Debit Machinery and credit Wages."
+        },
+        {
+          "question_text": "Furniture of ₹10,000 purchased for the office was entered in the Purchases Account. Ignoring depreciation, the effect is that:",
+          "options": [
+            "Gross profit is overstated by ₹10,000",
+            "Gross profit is understated by ₹10,000",
+            "Gross profit is unaffected",
+            "Net profit is overstated by ₹10,000"
+          ],
+          "correct_index": 1,
+          "explanation": "Purchases are overstated by ₹10,000, which raises the cost of goods sold, so gross profit is understated. Furniture is also missing from the assets."
+        },
+        {
+          "question_text": "What is the correct way to fix an error found in the books?",
+          "options": [
+            "Overwrite the wrong figure",
+            "Pass a rectifying entry or a correcting note",
+            "Tear out the page and rewrite it",
+            "Leave it until the audit"
+          ],
+          "correct_index": 1,
+          "explanation": "Books must not be altered by overwriting. Corrections are made by a separate rectifying entry, which keeps the audit trail."
+        },
+        {
+          "question_text": "When an error of the previous year that affected a nominal account is rectified in the current year, which account replaces that nominal account in the rectifying entry?",
+          "options": [
+            "Capital Account",
+            "Suspense Account",
+            "Profit and Loss Adjustment Account",
+            "Drawings Account"
+          ],
+          "correct_index": 2,
+          "explanation": "The previous year’s accounts are closed, so the nominal account cannot be used again. The effect on profit is routed through the Profit and Loss Adjustment Account."
+        },
+        {
+          "question_text": "A trial balance is out by ₹1,000. Which wrong-column balance could fully explain the difference?",
+          "options": [
+            "A balance of ₹250",
+            "A balance of ₹500",
+            "A balance of ₹1,000",
+            "A balance of ₹2,000"
+          ],
+          "correct_index": 1,
+          "explanation": "A balance shown in the wrong column changes the difference by twice its value, so the amount is half the difference: ₹500."
+        },
+        {
+          "question_text": "A credit of ₹250 to Gopal’s account was mistakenly posted to his debit side. By how much will the trial balance differ?",
+          "options": [
+            "₹250",
+            "₹500",
+            "₹125",
+            "It will still agree"
+          ],
+          "correct_index": 1,
+          "explanation": "The debit side is ₹250 too high and the credit side ₹250 too low, so the difference is ₹500."
+        },
+        {
+          "question_text": "Goods purchased from Anil for ₹7,000 were wrongly passed through the sales book. After rectification, Anil’s account should be credited with a total of:",
+          "options": [
+            "₹7,000",
+            "₹14,000",
+            "₹3,500",
+            "₹0"
+          ],
+          "correct_index": 1,
+          "explanation": "The wrong entry debited Anil by ₹7,000, so that has to be reversed and the correct ₹7,000 credit given. That is ₹14,000 credited in all, with Purchases and Sales each debited ₹7,000."
+        },
+        {
+          "question_text": "A credit purchase of ₹10,000 from Arun was entered twice in the purchases book. The rectifying entry is:",
+          "options": [
+            "Debit Purchases ₹10,000, credit Arun ₹10,000",
+            "Debit Arun ₹10,000, credit Purchases ₹10,000",
+            "Debit Arun ₹20,000, credit Purchases ₹20,000",
+            "Debit Suspense ₹10,000, credit Arun ₹10,000"
+          ],
+          "correct_index": 1,
+          "explanation": "The duplicate entry overstated both Purchases and Arun’s credit by ₹10,000. Reverse the extra amount: Debit Arun and credit Purchases."
+        },
+        {
+          "question_text": "Which of the following is an error of principle?",
+          "options": [
+            "Wrongly adding up the cash book",
+            "Posting a debit of ₹500 to the wrong customer account",
+            "Crediting the sale of old machinery to the Sales Account",
+            "Leaving out an entry from the journal"
+          ],
+          "correct_index": 2,
+          "explanation": "The sale of a fixed asset is a capital receipt, not an ordinary sale of trading goods. Treating it as revenue goes against accounting principles."
+        },
+        {
+          "question_text": "Once all the errors behind a suspense account balance have been found and rectified, the suspense account should show:",
+          "options": [
+            "A debit balance of the original difference",
+            "A credit balance of the original difference",
+            "A nil balance",
+            "A balance equal to the largest error"
+          ],
+          "correct_index": 2,
+          "explanation": "The suspense account exists only to hold the unexplained difference. When every error is corrected, the account is cleared to zero."
+        },
+        {
+          "question_text": "Which statement about one-sided errors is correct?",
+          "options": [
+            "They affect only one account and always need a suspense account if found after the trial balance is drawn up",
+            "They can never be found before the trial balance is prepared",
+            "They do not change the trial balance",
+            "They are always compensated by another error"
+          ],
+          "correct_index": 0,
+          "explanation": "A one-sided error disturbs the trial balance, and once the trial balance has been drawn up with a suspense account, rectification goes through that account."
+        },
+        {
+          "question_text": "Which step is useful when a trial balance does not agree?",
+          "options": [
+            "Close the books and ignore the difference",
+            "Re-total the trial balance, check that cash and bank balances are included, and look for postings equal to the difference or half of it",
+            "Adjust the capital account to match",
+            "Delete the most recent entry"
+          ],
+          "correct_index": 1,
+          "explanation": "Re-adding, checking for omitted balances, and checking for amounts equal to the difference or half of it are the standard first steps. The other options hide errors instead of finding them."
+        }
+      ]
+    },
+    {
+      "title": "Rectifying Entries and Suspense Account",
+      "duration_minutes": 25,
+      "questions": [
+        {
+          "question_text": "The sale of old furniture for ₹5,000 was credited to the Sales Account. The buyer’s account was debited correctly. The rectifying entry is:",
+          "options": [
+            "Debit Furniture ₹5,000, credit Sales ₹5,000",
+            "Debit Sales ₹5,000, credit Furniture ₹5,000",
+            "Debit Buyer ₹5,000, credit Furniture ₹5,000",
+            "Debit Sales ₹5,000, credit Profit on Sale of Asset ₹5,000"
+          ],
+          "correct_index": 1,
+          "explanation": "The credit belongs in the Furniture Account, not Sales. Debit Sales to remove it and credit Furniture."
+        },
+        {
+          "question_text": "Cash of ₹600 paid to Suresh was debited to Mahesh’s account. The rectifying entry is:",
+          "options": [
+            "Debit Mahesh ₹600, credit Suresh ₹600",
+            "Debit Suresh ₹600, credit Mahesh ₹600",
+            "Debit Cash ₹600, credit Suresh ₹600",
+            "Debit Suspense ₹600, credit Mahesh ₹600"
+          ],
+          "correct_index": 1,
+          "explanation": "Suresh should have been debited and Mahesh should not. Debit Suresh and credit Mahesh to cancel the wrong debit."
+        },
+        {
+          "question_text": "Goods worth ₹2,000 taken by the owner for personal use were not recorded at all. The rectifying entry is:",
+          "options": [
+            "Debit Sales ₹2,000, credit Drawings ₹2,000",
+            "Debit Drawings ₹2,000, credit Purchases ₹2,000",
+            "Debit Purchases ₹2,000, credit Drawings ₹2,000",
+            "Debit Capital ₹2,000, credit Sales ₹2,000"
+          ],
+          "correct_index": 1,
+          "explanation": "Goods taken by the owner reduce stock and increase drawings. Debit Drawings and credit Purchases."
+        },
+        {
+          "question_text": "The sales book for March was overcast by ₹1,000, so the Sales Account was credited ₹1,000 too much. Before the trial balance is drawn up, the Sales Account should be:",
+          "options": [
+            "Credited with ₹1,000",
+            "Debited with ₹1,000",
+            "Debited with ₹2,000",
+            "Left alone and corrected in the next year"
+          ],
+          "correct_index": 1,
+          "explanation": "The excess credit is removed by a debit of ₹1,000 in the Sales Account."
+        },
+        {
+          "question_text": "A bad debt of ₹800 was credited to the debtor’s account but never debited to the Bad Debts Account. The difference went to suspense. The rectifying entry is:",
+          "options": [
+            "Debit Suspense ₹800, credit Bad Debts ₹800",
+            "Debit Bad Debts ₹800, credit Suspense ₹800",
+            "Debit Debtor ₹800, credit Bad Debts ₹800",
+            "Debit Bad Debts ₹800, credit Cash ₹800"
+          ],
+          "correct_index": 1,
+          "explanation": "Credits exceeded debits by ₹800, so suspense was debited. Debiting Bad Debts supplies the missing debit and credit to Suspense clears it."
+        },
+        {
+          "question_text": "In the trial balance the credit total exceeds the debit total by ₹800. The suspense account will carry a:",
+          "options": [
+            "Credit balance of ₹800",
+            "Debit balance of ₹800",
+            "Debit balance of ₹1,600",
+            "Nil balance"
+          ],
+          "correct_index": 1,
+          "explanation": "A debit of ₹800 is needed to match the totals, so the suspense account is debited."
+        },
+        {
+          "question_text": "Depreciation of ₹2,000 was debited to the Depreciation Account but not credited to the Machinery Account. The difference was placed in suspense. The rectifying entry is:",
+          "options": [
+            "Debit Machinery ₹2,000, credit Suspense ₹2,000",
+            "Debit Suspense ₹2,000, credit Machinery ₹2,000",
+            "Debit Depreciation ₹2,000, credit Suspense ₹2,000",
+            "Debit Suspense ₹2,000, credit Depreciation ₹2,000"
+          ],
+          "correct_index": 1,
+          "explanation": "Debits exceeded credits by ₹2,000 so suspense was credited. Debit Suspense to clear it and credit Machinery to reduce the asset."
+        },
+        {
+          "question_text": "Discount of ₹300 received from a supplier was wrongly debited to Discount Allowed, while the supplier’s account was debited correctly. The difference was put into suspense. The rectifying entry is:",
+          "options": [
+            "Debit Discount Received ₹300, credit Discount Allowed ₹300",
+            "Debit Suspense ₹600, credit Discount Allowed ₹300 and Discount Received ₹300",
+            "Debit Discount Allowed ₹600, credit Suspense ₹600",
+            "Debit Suspense ₹300, credit Discount Received ₹300"
+          ],
+          "correct_index": 1,
+          "explanation": "Discount Allowed carries a wrong debit of ₹300 and Discount Received is missing a credit of ₹300, so the effect is ₹600. Suspense was credited ₹600, so it is debited ₹600 to clear it."
+        },
+        {
+          "question_text": "A credit sale of ₹4,000 to Dev was entered in his account as ₹400, with the Sales Account correct. The difference went to suspense. The rectifying entry is:",
+          "options": [
+            "Debit Suspense ₹3,600, credit Dev ₹3,600",
+            "Debit Dev ₹3,600, credit Suspense ₹3,600",
+            "Debit Dev ₹4,000, credit Sales ₹4,000",
+            "Debit Sales ₹3,600, credit Dev ₹3,600"
+          ],
+          "correct_index": 1,
+          "explanation": "Dev was debited ₹3,600 too little, so the credit side exceeded the debit side and suspense was debited. Debit Dev and credit Suspense."
+        },
+        {
+          "question_text": "Salaries of ₹5,000 were paid in cash and debited to Wages Account instead. The rectifying entry is:",
+          "options": [
+            "Debit Wages ₹5,000, credit Salaries ₹5,000",
+            "Debit Salaries ₹5,000, credit Wages ₹5,000",
+            "Debit Salaries ₹5,000, credit Cash ₹5,000",
+            "Debit Cash ₹5,000, credit Wages ₹5,000"
+          ],
+          "correct_index": 1,
+          "explanation": "The expense belongs in Salaries. Debit Salaries and credit Wages to move it."
+        },
+        {
+          "question_text": "Which rectification method is used for an error that affects only one account and is found before the trial balance is drawn up?",
+          "options": [
+            "A journal entry through the Suspense Account",
+            "A direct correction in that account, such as \"To omission of posting\"",
+            "Overwriting the original figure",
+            "Adjusting the capital account"
+          ],
+          "correct_index": 1,
+          "explanation": "One-sided errors found before the trial balance are corrected right in the affected account with a short descriptive entry on the right side."
+        },
+        {
+          "question_text": "Purchase returns of ₹1,200 were posted to the credit of Sales Returns instead of Purchase Returns. The rectifying entry is:",
+          "options": [
+            "Debit Sales Returns ₹1,200, credit Purchase Returns ₹1,200",
+            "Debit Purchase Returns ₹1,200, credit Sales Returns ₹1,200",
+            "Debit Purchases ₹1,200, credit Sales Returns ₹1,200",
+            "Debit Suspense ₹1,200, credit Purchase Returns ₹1,200"
+          ],
+          "correct_index": 0,
+          "explanation": "The credit went to the wrong returns account. Debit Sales Returns to cancel it and credit Purchase Returns where it belongs."
+        },
+        {
+          "question_text": "Which of these errors would be rectified through the suspense account when found after the trial balance has been drawn up with a difference?",
+          "options": [
+            "Credit purchase of furniture debited to Purchases Account",
+            "Amount of ₹250 credited to a personal account but not posted to the corresponding expense account",
+            "Sale of goods debited to the wrong customer",
+            "Machinery repairs debited to Machinery Account"
+          ],
+          "correct_index": 1,
+          "explanation": "Only an error that left the totals unequal needs the suspense account. The other three have both sides recorded and do not disturb the trial balance."
+        },
+        {
+          "question_text": "Which of the following correctly describes a rectifying entry?",
+          "options": [
+            "It repeats the original wrong entry",
+            "It cancels the effect of the wrong entry and gives effect to the correct one",
+            "It is made only at the end of the year",
+            "It must always involve the Cash Account"
+          ],
+          "correct_index": 1,
+          "explanation": "A rectifying entry corrects the books by cancelling the wrong effect and recording the right one, without altering earlier entries."
+        },
+        {
+          "question_text": "Rent paid ₹3,000 was debited to the landlord’s personal account instead of the Rent Account. No suspense account exists. The rectifying entry is:",
+          "options": [
+            "Debit Rent ₹3,000, credit Landlord ₹3,000",
+            "Debit Landlord ₹3,000, credit Rent ₹3,000",
+            "Debit Rent ₹3,000, credit Cash ₹3,000",
+            "No entry is needed because the trial balance still agrees"
+          ],
+          "correct_index": 0,
+          "explanation": "Rent is an expense. Remove the wrong debit from the landlord’s account and debit Rent."
+        }
+      ]
+    },
+    {
+      "title": "Types of Errors and Their Effects",
+      "duration_minutes": 20,
+      "questions": [
+        {
+          "question_text": "A purchase of ₹5,430 was entered in the purchases book as ₹5,340. This is an error of:",
+          "options": [
+            "Principle",
+            "Commission",
+            "Complete omission",
+            "Compensation"
+          ],
+          "correct_index": 1,
+          "explanation": "Entering the wrong amount is a clerical error of commission. The wrong amount carries to both accounts, so the trial balance agrees."
+        },
+        {
+          "question_text": "A trial balance difference of ₹180 most likely suggests:",
+          "options": [
+            "A transposition of digits",
+            "A compensating error",
+            "An error of principle",
+            "Complete omission of an entry"
+          ],
+          "correct_index": 0,
+          "explanation": "Transposing two digits produces a difference that is divisible by 9, and 180 is divisible by 9."
+        },
+        {
+          "question_text": "A credit purchase of ₹5,000 was never recorded in any book by the buyer. The trial balance:",
+          "options": [
+            "Will not agree by ₹5,000",
+            "Will not agree by ₹10,000",
+            "Will still agree",
+            "Cannot be prepared"
+          ],
+          "correct_index": 2,
+          "explanation": "Both the purchase and the supplier’s credit are missing, so the trial balance stays balanced. The purchases and creditors are understated."
+        },
+        {
+          "question_text": "Which of these can occur at the stage of recording transactions in the journal?",
+          "options": [
+            "Error of principle",
+            "Error of omission",
+            "Error of commission",
+            "All of the above"
+          ],
+          "correct_index": 3,
+          "explanation": "At journal stage any of the three can happen. Wrong casting and wrong balancing come later."
+        },
+        {
+          "question_text": "A balance of ₹7,000 was shown on the wrong side of the trial balance. The difference in the totals will be:",
+          "options": [
+            "₹3,500",
+            "₹7,000",
+            "₹14,000",
+            "Nil"
+          ],
+          "correct_index": 2,
+          "explanation": "The balance is missing from one side and added to the other, so the difference is twice the amount."
+        },
+        {
+          "question_text": "A sale of ₹2,000 was entered in the sales book as ₹200. What is the effect on gross profit?",
+          "options": [
+            "Overstated by ₹1,800",
+            "Understated by ₹1,800",
+            "Understated by ₹2,000",
+            "No effect"
+          ],
+          "correct_index": 1,
+          "explanation": "Sales are ₹1,800 lower than they should be, so gross profit is understated by that amount."
+        },
+        {
+          "question_text": "The sales account was overcast by ₹100 and the purchases account was overcast by ₹100. These errors:",
+          "options": [
+            "Will disturb the trial balance",
+            "Compensate each other in the trial balance",
+            "Are errors of principle",
+            "Have no effect on any account"
+          ],
+          "correct_index": 1,
+          "explanation": "The excess credit in Sales and the excess debit in Purchases cancel each other, so the trial balance agrees. The two accounts are still individually wrong."
+        },
+        {
+          "question_text": "Which statement is correct?",
+          "options": [
+            "All errors are shown by the trial balance",
+            "Some errors do not affect the trial balance",
+            "The trial balance proves the books are free from error",
+            "Errors of principle always cause a difference"
+          ],
+          "correct_index": 1,
+          "explanation": "The trial balance only checks that debits equal credits. Errors of principle, complete omissions and compensating errors can all hide."
+        },
+        {
+          "question_text": "Treating capital expenditure as revenue expenditure:",
+          "options": [
+            "Overstates net profit and overstates assets",
+            "Understates net profit and understates assets",
+            "Overstates net profit and understates assets",
+            "Has no effect on net profit"
+          ],
+          "correct_index": 1,
+          "explanation": "An asset is expensed straight away, which lowers current profit and leaves the asset off the balance sheet."
+        },
+        {
+          "question_text": "Treating revenue expenditure as capital expenditure:",
+          "options": [
+            "Understates net profit",
+            "Overstates net profit",
+            "Overstates only the gross profit",
+            "Does not change profit"
+          ],
+          "correct_index": 1,
+          "explanation": "An expense is added to an asset instead of being charged against income, so current profit is overstated."
+        },
+        {
+          "question_text": "The owner’s personal holiday expense of ₹5,000 was debited to Travelling Expenses. This is an error of:",
+          "options": [
+            "Omission",
+            "Commission",
+            "Principle",
+            "Casting"
+          ],
+          "correct_index": 2,
+          "explanation": "Personal expenses of the owner should be treated as drawings, not as a business expense. This also understates net profit."
+        },
+        {
+          "question_text": "Goods returned by a customer, ₹600, were not recorded anywhere. This is an error of:",
+          "options": [
+            "Commission, and the trial balance will disagree",
+            "Omission, and the trial balance will agree",
+            "Principle, and the trial balance will disagree",
+            "Compensation"
+          ],
+          "correct_index": 1,
+          "explanation": "A transaction missing entirely from the books leaves debits equal to credits. The customer’s account and sales returns are both wrong."
+        },
+        {
+          "question_text": "At which stage can \"taking a balance to the wrong side\" occur?",
+          "options": [
+            "Recording in the journal",
+            "Posting to the ledger",
+            "Preparing the trial balance",
+            "Preparing the balance sheet only"
+          ],
+          "correct_index": 2,
+          "explanation": "Putting a balance in the wrong column happens when the trial balance is being drawn up."
+        },
+        {
+          "question_text": "Which of the following errors is certain to make the trial balance disagree?",
+          "options": [
+            "Posting an amount to the wrong customer’s account",
+            "Omitting to post one side of an entry",
+            "Debiting wages to the Machinery Account",
+            "Passing a complete journal entry twice"
+          ],
+          "correct_index": 1,
+          "explanation": "Leaving out only one side of an entry means debits and credits no longer match. The others keep both sides equal."
+        },
+        {
+          "question_text": "Which of the following is a useful step when searching for the cause of a trial balance difference?",
+          "options": [
+            "Check whether the difference, or half of it, appears as a posting somewhere",
+            "Increase the capital account by the difference",
+            "Delete the largest balance",
+            "Wait until the next year"
+          ],
+          "correct_index": 0,
+          "explanation": "A missing balance equals the difference, and a wrong-side posting equals half of it. Checking for both is standard practice."
+        },
+        {
+          "question_text": "Wrong casting of the cash book bank column is best described as an error that:",
+          "options": [
+            "Affects only the bank balance carried forward and usually shows up in the bank reconciliation",
+            "Never needs correction",
+            "Affects only the cash column",
+            "Is an error of principle"
+          ],
+          "correct_index": 0,
+          "explanation": "A wrong total in the bank column changes the balance carried down, and the difference is usually found when the bank statement is reconciled."
+        }
+      ]
+    }
+  ]
+}

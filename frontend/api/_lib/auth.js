@@ -1,5 +1,6 @@
 import jwt from 'jsonwebtoken';
 import { pool, ensureSchema } from './db.js';
+import { seedUserContent } from './seed.js';
 
 export function issueToken(userId) {
   return jwt.sign({ userId }, process.env.JWT_SECRET, { expiresIn: '30d' });
@@ -18,6 +19,7 @@ export async function requireAuth(req, res, next) {
     if (!user.approved) {
       return res.status(403).json({ error: 'Your account is awaiting admin approval.' });
     }
+    await seedUserContent(user.id);
     req.userId = user.id;
     req.userRole = user.role;
     next();
