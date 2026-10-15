@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 7: Contemporary Management – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Agile management is:",
+     "options": [
+      "A hierarchical approach",
+      "An iterative, flexible approach that delivers work in small increments with continuous feedback",
+      "A one-time delivery",
+      "A rigid plan-driven approach"
+     ],
+     "correct_index": 1,
+     "explanation": "It responds quickly to change."
+    },
+    {
+     "question_text": "The Agile Manifesto was written in:",
+     "options": [
+      "1991 in London",
+      "2011 in Tokyo",
+      "2001 at Snowbird, Utah, USA",
+      "1981 in Paris"
+     ],
+     "correct_index": 2,
+     "explanation": "Seventeen software developers wrote it."
+    },
+    {
+     "question_text": "The four values of the Agile Manifesto favour:",
+     "options": [
+      "Individuals and interactions, working software, customer collaboration and responding to change",
+      "Processes, documentation, contracts and plans",
+      "Cost, speed, quality, scope",
+      "Rules, tools, plans, reports"
+     ],
+     "correct_index": 0,
+     "explanation": "Items on the right still have value, but those on the left are valued more."
+    },
+    {
+     "question_text": "A principle of agile is:",
+     "options": [
+      "Deliver working results frequently and welcome changing requirements",
+      "Avoid customer feedback",
+      "Fix requirements early",
+      "Avoid teamwork"
+     ],
+     "correct_index": 0,
+     "explanation": "Simplicity and self-organising teams are also principles."
+    },
+    {
+     "question_text": "Scrum is:",
+     "options": [
+      "A waterfall model",
+      "A leadership style",
+      "An agile framework in which work is done in short time-boxed iterations called sprints",
+      "A costing method"
+     ],
+     "correct_index": 2,
+     "explanation": "It emphasises teamwork."
+    },
+    {
+     "question_text": "The roles in Scrum are:",
+     "options": [
+      "Planner, doer, checker",
+      "CEO, CFO, COO",
+      "Manager, supervisor, worker",
+      "Product Owner, Scrum Master and Development Team"
+     ],
+     "correct_index": 3,
+     "explanation": "Each has a distinct responsibility."
+    },
+    {
+     "question_text": "The events in Scrum include:",
+     "options": [
+      "Sprint planning, daily scrum, sprint review and retrospective",
+      "Annual meeting",
+      "Budget meeting",
+      "Audit meeting"
+     ],
+     "correct_index": 0,
+     "explanation": "They provide a regular rhythm."
+    },
+    {
+     "question_text": "The artefacts of Scrum are:",
+     "options": [
+      "Charts, tables, graphs",
+      "Plan, order, check",
+      "Product backlog, sprint backlog and increment",
+      "Budget, ledger, report"
+     ],
+     "correct_index": 2,
+     "explanation": "They make work visible."
+    },
+    {
+     "question_text": "A sprint is:",
+     "options": [
+      "A daily task",
+      "A fixed short period (usually 1–4 weeks) in which a usable increment is created",
+      "A meeting",
+      "A one-year project"
+     ],
+     "correct_index": 1,
+     "explanation": "It is time-boxed."
+    },
+    {
+     "question_text": "Kanban uses a WIP limit to:",
+     "options": [
+      "Add meetings",
+      "Increase tasks",
+      "Restrict the number of tasks in progress and thus avoid overload",
+      "Remove tasks"
+     ],
+     "correct_index": 2,
+     "explanation": "WIP means work in progress."
+    },
+    {
+     "question_text": "Agile differs from waterfall in that agile is:",
+     "options": [
+      "Plan-driven",
+      "Rigid",
+      "Sequential",
+      "Iterative and flexible, while waterfall is sequential and plan-driven"
+     ],
+     "correct_index": 3,
+     "explanation": "Waterfall completes each phase before the next."
+    },
+    {
+     "question_text": "A benefit of agile is:",
+     "options": [
+      "Less feedback",
+      "Slower delivery",
+      "Rigid plans",
+      "Faster delivery, flexibility and customer satisfaction"
+     ],
+     "correct_index": 3,
+     "explanation": "It also improves team morale."
+    },
+    {
+     "question_text": "A challenge of agile is:",
+     "options": [
+      "Is rigid",
+      "Needs no involvement",
+      "Removes teamwork",
+      "Needs active customer involvement and cultural change"
+     ],
+     "correct_index": 3,
+     "explanation": "Scope can also creep."
+    },
+    {
+     "question_text": "Agile leadership means:",
+     "options": [
+      "Avoiding teams",
+      "Avoiding change",
+      "Empowering teams, removing obstacles and encouraging learning",
+      "Controlling every action"
+     ],
+     "correct_index": 2,
+     "explanation": "The leader serves the team."
+    },
+    {
+     "question_text": "Agile can be applied outside software in:",
+     "options": [
+      "Only IT",
+      "Nowhere",
+      "Marketing, HR, manufacturing and education",
+      "Only banking"
+     ],
+     "correct_index": 2,
+     "explanation": "Any project with uncertainty benefits."
+    },
+    {
+     "question_text": "CSR stands for:",
+     "options": [
+      "Company Sales Revenue",
+      "Customer Service Rating",
+      "Corporate Share Reserve",
+      "Corporate Social Responsibility"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a company's obligation to society."
+    },
+    {
+     "question_text": "The father of CSR is considered to be:",
+     "options": [
+      "Henri Fayol",
+      "Howard Bowen",
+      "Milton Friedman",
+      "F.W. Taylor"
+     ],
+     "correct_index": 1,
+     "explanation": "He wrote Social Responsibilities of the Businessman (1953)."
+    },
+    {
+     "question_text": "An argument for CSR is that:",
+     "options": [
+      "It is illegal",
+      "It builds reputation, trust and long-term sustainability",
+      "It reduces trust",
+      "It reduces reputation"
+     ],
+     "correct_index": 1,
+     "explanation": "It also helps avoid regulation."
+    },
+    {
+     "question_text": "An argument against CSR is that:",
+     "options": [
+      "It is free",
+      "It diverts resources from profit and the main business of the firm",
+      "It increases profit",
+      "It is mandatory always"
+     ],
+     "correct_index": 1,
+     "explanation": "Shareholders may object."
+    },
+    {
+     "question_text": "Milton Friedman's view was that:",
+     "options": [
+      "Business should avoid profit",
+      "The social responsibility of business is to increase its profits within the rules of the game",
+      "Business must serve all stakeholders",
+      "Profit is unethical"
+     ],
+     "correct_index": 1,
+     "explanation": "He opposed spending on social causes."
+    },
+    {
+     "question_text": "Carroll's pyramid of CSR has the layers:",
+     "options": [
+      "Social, political, cultural",
+      "Economic, legal, ethical and philanthropic responsibilities",
+      "Reward, coercion, expertise",
+      "Planning, organising, staffing, directing"
+     ],
+     "correct_index": 1,
+     "explanation": "Economic is the base."
+    },
+    {
+     "question_text": "Stakeholders of a company include:",
+     "options": [
+      "Shareholders only",
+      "Shareholders, employees, customers, suppliers and the community",
+      "Customers only",
+      "Employees only"
+     ],
+     "correct_index": 1,
+     "explanation": "Anyone affected by the firm's actions."
+    },
+    {
+     "question_text": "Areas of CSR include:",
+     "options": [
+      "Education, health, environment and rural development",
+      "Only profit",
+      "Only dividends",
+      "Only advertising"
+     ],
+     "correct_index": 0,
+     "explanation": "Schedule VII lists activities."
+    },
+    {
+     "question_text": "The triple bottom line refers to:",
+     "options": [
+      "Profit, price, product",
+      "Planning, people, profit",
+      "People, planet and profit",
+      "Cost, quality, time"
+     ],
+     "correct_index": 2,
+     "explanation": "It measures social, environmental and financial performance."
+    },
+    {
+     "question_text": "Section 135 of the Companies Act, 2013 requires:",
+     "options": [
+      "Companies to avoid CSR",
+      "Companies to hire more staff",
+      "Specified companies to spend a part of their profit on CSR activities",
+      "All companies to pay dividends"
+     ],
+     "correct_index": 2,
+     "explanation": "India was among the first to mandate CSR."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Contemporary Management – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The CSR provisions apply to companies with:",
+     "options": [
+      "Net worth of Rs 500 crore or more, or turnover of Rs 1,000 crore or more, or net profit of Rs 5 crore or more",
+      "Any profit",
+      "No criteria",
+      "Any turnover"
+     ],
+     "correct_index": 0,
+     "explanation": "Any one of the three conditions is enough."
+    },
+    {
+     "question_text": "A qualifying company must spend on CSR at least:",
+     "options": [
+      "2% of the average net profit of the preceding three years",
+      "5% of turnover",
+      "10% of profit",
+      "1% of net worth"
+     ],
+     "correct_index": 0,
+     "explanation": "The amount is calculated on the three-year average."
+    },
+    {
+     "question_text": "The CSR committee:",
+     "options": [
+      "Formulates the CSR policy, recommends the amount to be spent and monitors the activities",
+      "Sets prices",
+      "Prepares accounts",
+      "Audits accounts"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a board committee."
+    },
+    {
+     "question_text": "The CSR committee should have:",
+     "options": [
+      "At least three directors, including an independent director (where applicable)",
+      "Only shareholders",
+      "One director",
+      "Only employees"
+     ],
+     "correct_index": 0,
+     "explanation": "It is formed by the Board."
+    },
+    {
+     "question_text": "Unspent CSR funds:",
+     "options": [
+      "Are distributed",
+      "Are kept as profit",
+      "Must be transferred to a special account (or specified fund) in accordance with the rules",
+      "Are lost"
+     ],
+     "correct_index": 2,
+     "explanation": "They must be spent within the prescribed time."
+    },
+    {
+     "question_text": "The Unspent CSR Account is:",
+     "options": [
+      "A dividend account",
+      "A profit account",
+      "A tax account",
+      "A special bank account into which unspent CSR amounts for ongoing projects are transferred within 30 days of the financial year end"
+     ],
+     "correct_index": 3,
+     "explanation": "The money should be spent within three years."
+    },
+    {
+     "question_text": "Schedule VII activities include:",
+     "options": [
+      "Advertising",
+      "Paying dividends",
+      "Lobbying",
+      "Eradicating hunger, promoting education, gender equality and environmental sustainability"
+     ],
+     "correct_index": 3,
+     "explanation": "They define eligible CSR areas."
+    },
+    {
+     "question_text": "India is considered a pioneer in mandatory CSR because:",
+     "options": [
+      "It had no CSR",
+      "It was among the first countries to legally require CSR spending",
+      "It did not regulate CSR",
+      "It banned CSR"
+     ],
+     "correct_index": 1,
+     "explanation": "Section 135 came into force in 2014."
+    },
+    {
+     "question_text": "An example of CSR by an Indian company is:",
+     "options": [
+      "Tata Group's education and healthcare initiatives",
+      "Cutting wages",
+      "Fixing prices",
+      "Closing plants"
+     ],
+     "correct_index": 0,
+     "explanation": "Many firms run community programmes."
+    },
+    {
+     "question_text": "A criticism of CSR is that:",
+     "options": [
+      "It has no cost",
+      "It may be used as a public relations exercise and may be spent without impact",
+      "It always works",
+      "It is perfect"
+     ],
+     "correct_index": 1,
+     "explanation": "It may be a tick-box compliance."
+    },
+    {
+     "question_text": "Average net profit for 3 years is Rs 50 crore. The CSR obligation is:",
+     "options": [
+      "Rs 1 crore",
+      "Rs 2 crore",
+      "Rs 5 crore",
+      "Rs 10 crore"
+     ],
+     "correct_index": 0,
+     "explanation": "2% of 50 crore."
+    },
+    {
+     "question_text": "Profits of Rs 40, 60 and 80 crore. The CSR obligation is:",
+     "options": [
+      "Rs 3.6 crore",
+      "Rs 1.8 crore",
+      "Rs 1.2 crore",
+      "Rs 2.4 crore"
+     ],
+     "correct_index": 2,
+     "explanation": "Average 60 crore × 2%."
+    },
+    {
+     "question_text": "A company with net worth Rs 600 crore:",
+     "options": [
+      "Does not fall",
+      "Is exempt",
+      "Cannot spend",
+      "Falls under the CSR criteria"
+     ],
+     "correct_index": 3,
+     "explanation": "Net worth of Rs 500 crore or more qualifies."
+    },
+    {
+     "question_text": "A company with net profit Rs 4 crore and turnover Rs 800 crore (and net worth below Rs 500 crore):",
+     "options": [
+      "Meets the criteria",
+      "Does not meet any of the criteria",
+      "Pays double",
+      "Is exempt"
+     ],
+     "correct_index": 1,
+     "explanation": "None of the three thresholds is met."
+    },
+    {
+     "question_text": "Ethics is:",
+     "options": [
+      "The study of profits",
+      "The study of laws",
+      "The study of moral principles that distinguish right from wrong",
+      "The study of costs"
+     ],
+     "correct_index": 2,
+     "explanation": "It guides behaviour."
+    },
+    {
+     "question_text": "Business ethics is:",
+     "options": [
+      "A tax rule",
+      "A cost rule",
+      "A legal code",
+      "The application of moral principles to business conduct"
+     ],
+     "correct_index": 3,
+     "explanation": "It guides decisions in business."
+    },
+    {
+     "question_text": "A feature of business ethics is that it:",
+     "options": [
+      "Is a tax",
+      "Is based on moral values and goes beyond legal compliance",
+      "Is optional",
+      "Is based on law only"
+     ],
+     "correct_index": 1,
+     "explanation": "It involves honesty and fairness."
+    },
+    {
+     "question_text": "Business ethics is important because it:",
+     "options": [
+      "Increases scandals",
+      "Reduces profit always",
+      "Builds trust, reputation and long-term success",
+      "Reduces trust"
+     ],
+     "correct_index": 2,
+     "explanation": "It also reduces legal risks."
+    },
+    {
+     "question_text": "A principle of business ethics is:",
+     "options": [
+      "Honesty, fairness and transparency",
+      "Secrecy",
+      "Bias",
+      "Deception"
+     ],
+     "correct_index": 0,
+     "explanation": "Also accountability and respect."
+    },
+    {
+     "question_text": "An ethical issue in business is:",
+     "options": [
+      "Honest advertising",
+      "Transparency",
+      "Fair pay",
+      "Bribery, insider trading and misleading advertising"
+     ],
+     "correct_index": 3,
+     "explanation": "Also harassment and environmental harm."
+    },
+    {
+     "question_text": "An ethical dilemma is:",
+     "options": [
+      "A legal rule",
+      "A cost",
+      "An easy choice",
+      "A situation where a choice must be made between two or more conflicting values, e.g., exposing a firm's wrongdoing versus loyalty"
+     ],
+     "correct_index": 3,
+     "explanation": "There is no clear right option."
+    },
+    {
+     "question_text": "Whistle-blowing is:",
+     "options": [
+      "Committing fraud",
+      "Reporting wrongdoing within an organisation to authorities or the public",
+      "Hiding wrongdoing",
+      "Praising the company"
+     ],
+     "correct_index": 1,
+     "explanation": "It needs legal protection."
+    },
+    {
+     "question_text": "A code of ethics is:",
+     "options": [
+      "A law",
+      "A written set of principles and rules to guide the behaviour of employees",
+      "A tax",
+      "A budget"
+     ],
+     "correct_index": 1,
+     "explanation": "It states acceptable conduct."
+    },
+    {
+     "question_text": "Corporate governance is:",
+     "options": [
+      "An audit",
+      "A budget",
+      "A tax",
+      "The system by which companies are directed and controlled"
+     ],
+     "correct_index": 3,
+     "explanation": "It balances the interests of stakeholders."
+    },
+    {
+     "question_text": "Utilitarianism holds that an action is right if it:",
+     "options": [
+      "Produces the greatest good for the greatest number",
+      "Is virtuous",
+      "Is legal",
+      "Follows rules"
+     ],
+     "correct_index": 0,
+     "explanation": "It focuses on outcomes."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Contemporary Management – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Deontological ethics holds that actions are right if they:",
+     "options": [
+      "Are profitable",
+      "Produce good outcomes",
+      "Are virtuous",
+      "Follow duties and rules regardless of consequences"
+     ],
+     "correct_index": 3,
+     "explanation": "Kant is associated with it."
+    },
+    {
+     "question_text": "Virtue ethics focuses on:",
+     "options": [
+      "Outcomes",
+      "Profits",
+      "Rules",
+      "The character and moral qualities of the person"
+     ],
+     "correct_index": 3,
+     "explanation": "Aristotle is associated with it."
+    },
+    {
+     "question_text": "Justice theory holds that:",
+     "options": [
+      "Rules are optional",
+      "Profit is all that matters",
+      "Benefits and burdens should be distributed fairly",
+      "Fairness is irrelevant"
+     ],
+     "correct_index": 2,
+     "explanation": "Rawls developed a theory of justice."
+    },
+    {
+     "question_text": "Stakeholder theory states that a firm should:",
+     "options": [
+      "Serve only shareholders",
+      "Serve only managers",
+      "Consider the interests of all stakeholders, not just shareholders",
+      "Serve only owners"
+     ],
+     "correct_index": 2,
+     "explanation": "Freeman developed it."
+    },
+    {
+     "question_text": "Shareholder theory states that:",
+     "options": [
+      "The firm should avoid profit",
+      "The main responsibility of a firm is to maximise shareholders' wealth",
+      "The firm has no duties",
+      "The firm serves all stakeholders"
+     ],
+     "correct_index": 1,
+     "explanation": "Friedman supports it."
+    },
+    {
+     "question_text": "A lesson from Enron is that:",
+     "options": [
+      "Fraudulent accounting and weak governance can destroy a company",
+      "Governance is irrelevant",
+      "Auditors are always right",
+      "Fraud is profitable"
+     ],
+     "correct_index": 0,
+     "explanation": "It led to the Sarbanes–Oxley Act."
+    },
+    {
+     "question_text": "A lesson from Satyam is that:",
+     "options": [
+      "Boards are unnecessary",
+      "Fraud pays",
+      "Audits are not needed",
+      "Falsifying accounts and weak board oversight harm stakeholders and trust"
+     ],
+     "correct_index": 3,
+     "explanation": "It was a major Indian accounting scandal (2009)."
+    },
+    {
+     "question_text": "A lesson from the Volkswagen emissions scandal is that:",
+     "options": [
+      "Cheating pays",
+      "Cheating on regulations damages reputation and brings heavy penalties",
+      "Fines are small",
+      "Regulations are optional"
+     ],
+     "correct_index": 1,
+     "explanation": "Software was used to evade emission tests."
+    },
+    {
+     "question_text": "Managers can promote ethical behaviour by:",
+     "options": [
+      "Ignoring ethics",
+      "Setting an example, framing a code of ethics and training staff",
+      "Rewarding unethical conduct",
+      "Hiding wrongdoing"
+     ],
+     "correct_index": 1,
+     "explanation": "Also protecting whistle-blowers."
+    },
+    {
+     "question_text": "Ethics differs from law and CSR in that ethics:",
+     "options": [
+      "Relates to moral values, law is enforceable by the state, and CSR is the firm's social obligation",
+      "Is a tax",
+      "Is enforceable by state",
+      "Is the same as law"
+     ],
+     "correct_index": 0,
+     "explanation": "Ethics goes beyond legal compliance."
+    },
+    {
+     "question_text": "Ethical leadership is:",
+     "options": [
+      "Leading without values",
+      "Leading by deceit",
+      "Leading by force",
+      "Leading with integrity, fairness and respect while setting the right example"
+     ],
+     "correct_index": 3,
+     "explanation": "It builds trust."
+    },
+    {
+     "question_text": "An ethical concern about AI use in business is:",
+     "options": [
+      "Faster work",
+      "Lower cost",
+      "Bias, privacy and transparency of decisions",
+      "Higher profits"
+     ],
+     "correct_index": 2,
+     "explanation": "Accountability for AI decisions is also an issue."
+    },
+    {
+     "question_text": "Green management is:",
+     "options": [
+      "Ignoring the environment",
+      "Managing an organisation's activities to minimise harm to the environment",
+      "Painting buildings green",
+      "Planting trees only"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an integral part of strategy."
+    },
+    {
+     "question_text": "Green management is important because:",
+     "options": [
+      "It is illegal",
+      "It increases pollution",
+      "It wastes resources",
+      "It conserves resources, reduces pollution and improves reputation"
+     ],
+     "correct_index": 3,
+     "explanation": "It also meets regulations."
+    },
+    {
+     "question_text": "A driver of green management is:",
+     "options": [
+      "Ignorance",
+      "Wastefulness",
+      "Regulation, consumer awareness and cost savings",
+      "Apathy"
+     ],
+     "correct_index": 2,
+     "explanation": "Investors increasingly demand it."
+    },
+    {
+     "question_text": "Components of green management include:",
+     "options": [
+      "Only finance",
+      "Green marketing, green HRM and green production",
+      "Only HR",
+      "Only marketing"
+     ],
+     "correct_index": 1,
+     "explanation": "They cover the whole value chain."
+    },
+    {
+     "question_text": "Green marketing is:",
+     "options": [
+      "Hiding environmental impact",
+      "Promoting products on the basis of environmental benefits",
+      "Ignoring consumers",
+      "Selling green paint"
+     ],
+     "correct_index": 1,
+     "explanation": "It requires honest claims to avoid greenwashing."
+    },
+    {
+     "question_text": "Green HRM is:",
+     "options": [
+      "Reducing staff",
+      "Using HR practices to encourage environmentally friendly behaviour among employees",
+      "Ignoring HR",
+      "Hiring green people"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., green recruitment and training."
+    },
+    {
+     "question_text": "A circular economy is:",
+     "options": [
+      "A bank system",
+      "A tax system",
+      "A linear take-make-dispose system",
+      "An economic system that reuses, repairs and recycles resources to minimise waste"
+     ],
+     "correct_index": 3,
+     "explanation": "It keeps materials in use."
+    },
+    {
+     "question_text": "The 3Rs are:",
+     "options": [
+      "Read, write, record",
+      "Reduce, reuse and recycle",
+      "Rent, run, repair",
+      "Report, review, revise"
+     ],
+     "correct_index": 1,
+     "explanation": "They minimise waste."
+    },
+    {
+     "question_text": "Life cycle assessment evaluates:",
+     "options": [
+      "Only production",
+      "Only costs",
+      "Only sales",
+      "The environmental impact of a product from raw material to disposal"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a cradle-to-grave analysis."
+    },
+    {
+     "question_text": "A carbon footprint is:",
+     "options": [
+      "A cost",
+      "The total greenhouse gas emissions caused by an activity or product",
+      "A tax",
+      "A footprint on carbon"
+     ],
+     "correct_index": 1,
+     "explanation": "It is measured in CO2 equivalents."
+    },
+    {
+     "question_text": "Carbon credits are:",
+     "options": [
+      "Loans",
+      "Tradable permits representing the right to emit one tonne of CO2 or its equivalent",
+      "Dividends",
+      "Taxes"
+     ],
+     "correct_index": 1,
+     "explanation": "They fund emission reductions."
+    },
+    {
+     "question_text": "ISO 14001 is:",
+     "options": [
+      "An international standard for environmental management systems",
+      "A health standard",
+      "A financial standard",
+      "A quality standard"
+     ],
+     "correct_index": 0,
+     "explanation": "ISO 9001 is for quality."
+    },
+    {
+     "question_text": "An eco-label is:",
+     "options": [
+      "A tax stamp",
+      "A label showing that a product is environmentally friendly; the Indian eco-mark is \"Ecomark\"",
+      "A price tag",
+      "A brand"
+     ],
+     "correct_index": 1,
+     "explanation": "It guides consumer choice."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Contemporary Management – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Extended producer responsibility means:",
+     "options": [
+      "The government is responsible",
+      "Consumers alone are responsible",
+      "No one is responsible",
+      "Producers are responsible for the product throughout its life including disposal"
+     ],
+     "correct_index": 3,
+     "explanation": "It applies to e-waste and plastics."
+    },
+    {
+     "question_text": "ESG stands for:",
+     "options": [
+      "Environmental, Social and Governance",
+      "Economic, Social and Government",
+      "Energy, Safety and Growth",
+      "Environment, Sales and Growth"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used by investors to assess sustainability."
+    },
+    {
+     "question_text": "BRSR is:",
+     "options": [
+      "A tax return",
+      "The Business Responsibility and Sustainability Report required by SEBI from top listed companies",
+      "A balance sheet",
+      "An audit report"
+     ],
+     "correct_index": 1,
+     "explanation": "It discloses ESG performance."
+    },
+    {
+     "question_text": "The UN SDGs are:",
+     "options": [
+      "5 goals by 2025",
+      "17 Sustainable Development Goals to be achieved by 2030",
+      "10 goals by 2020",
+      "20 goals by 2040"
+     ],
+     "correct_index": 1,
+     "explanation": "They cover poverty, health, climate and more."
+    },
+    {
+     "question_text": "A benefit of green management is:",
+     "options": [
+      "Higher waste",
+      "Lower reputation",
+      "Higher pollution",
+      "Cost savings, brand reputation and regulatory compliance"
+     ],
+     "correct_index": 3,
+     "explanation": "It supports long-term growth."
+    },
+    {
+     "question_text": "A challenge of green management is:",
+     "options": [
+      "High initial cost and lack of awareness",
+      "No cost",
+      "Full awareness",
+      "No regulation"
+     ],
+     "correct_index": 0,
+     "explanation": "Technology is also a barrier."
+    },
+    {
+     "question_text": "An example of a green initiative by an Indian company is:",
+     "options": [
+      "Cutting trees",
+      "Dumping waste",
+      "ITC's carbon-positive and water-positive initiatives",
+      "Ignoring emissions"
+     ],
+     "correct_index": 2,
+     "explanation": "Many firms use renewable energy."
+    },
+    {
+     "question_text": "According to Schein, organisational culture is:",
+     "options": [
+      "A pattern of shared basic assumptions learned by a group as it solved problems",
+      "A policy",
+      "A building",
+      "A set of rules"
+     ],
+     "correct_index": 0,
+     "explanation": "It is passed on to new members."
+    },
+    {
+     "question_text": "A characteristic of organisational culture is that it is:",
+     "options": [
+      "Individual",
+      "Visible only",
+      "Unlearned",
+      "Shared, learned, stable and often invisible"
+     ],
+     "correct_index": 3,
+     "explanation": "It distinguishes one organisation from others."
+    },
+    {
+     "question_text": "Schein's three levels of culture are:",
+     "options": [
+      "Heroes, symbols, rituals",
+      "Artefacts, espoused values and basic assumptions",
+      "Rules, rewards, rituals",
+      "Plans, policies, procedures"
+     ],
+     "correct_index": 1,
+     "explanation": "From the visible to the deepest."
+    },
+    {
+     "question_text": "Artefacts are:",
+     "options": [
+      "The visible elements of culture such as dress, office layout and logos",
+      "Hidden beliefs",
+      "Basic assumptions",
+      "Values"
+     ],
+     "correct_index": 0,
+     "explanation": "They are easy to see but hard to interpret."
+    },
+    {
+     "question_text": "Espoused values are:",
+     "options": [
+      "Rules",
+      "The stated values and goals of an organisation, such as mission statements",
+      "Visible items",
+      "Hidden assumptions"
+     ],
+     "correct_index": 1,
+     "explanation": "They are what the firm says it believes."
+    },
+    {
+     "question_text": "Basic assumptions are:",
+     "options": [
+      "Visible items",
+      "Slogans",
+      "Deep, unconscious beliefs that guide behaviour and are taken for granted",
+      "Stated values"
+     ],
+     "correct_index": 2,
+     "explanation": "They are the essence of culture."
+    },
+    {
+     "question_text": "A function of organisational culture is to:",
+     "options": [
+      "Reduce identity",
+      "Remove rules",
+      "Hide goals",
+      "Give members identity and guide behaviour"
+     ],
+     "correct_index": 3,
+     "explanation": "It also fosters commitment."
+    },
+    {
+     "question_text": "A strong culture has the merit of _____ and the demerit of _____:",
+     "options": [
+      "Cohesion and commitment; resistance to change",
+      "Resistance; cohesion",
+      "Change; stability",
+      "Weakness; strength"
+     ],
+     "correct_index": 0,
+     "explanation": "Shared values bind but may block adaptation."
+    },
+    {
+     "question_text": "Handy's four culture types are:",
+     "options": [
+      "Strong, weak, soft, hard",
+      "Power, role, task and person cultures",
+      "Open, closed, mixed, free",
+      "Clan, adhocracy, market, hierarchy"
+     ],
+     "correct_index": 1,
+     "explanation": "They describe the structure and control."
+    },
+    {
+     "question_text": "Cameron and Quinn's four culture types are:",
+     "options": [
+      "Strong, weak, hard, soft",
+      "Power, role, task, person",
+      "Clan, adhocracy, market and hierarchy",
+      "Open, closed, social, formal"
+     ],
+     "correct_index": 2,
+     "explanation": "Based on the Competing Values Framework."
+    },
+    {
+     "question_text": "Hofstede's model measures cultures along dimensions such as:",
+     "options": [
+      "Profit, loss, cost",
+      "Planning, organising, directing",
+      "Power distance, individualism, masculinity and uncertainty avoidance",
+      "Price, product, place"
+     ],
+     "correct_index": 2,
+     "explanation": "National cultures differ on them."
+    },
+    {
+     "question_text": "Culture is created and sustained by:",
+     "options": [
+      "Machines",
+      "Founders, selection, top management behaviour and socialisation",
+      "Prices",
+      "Taxes"
+     ],
+     "correct_index": 1,
+     "explanation": "Leaders' actions shape values."
+    },
+    {
+     "question_text": "Socialisation helps culture by:",
+     "options": [
+      "Removing norms",
+      "Teaching new employees the values, norms and behaviours of the organisation",
+      "Reducing culture",
+      "Ignoring newcomers"
+     ],
+     "correct_index": 1,
+     "explanation": "It transmits culture."
+    },
+    {
+     "question_text": "Culture can be changed by:",
+     "options": [
+      "Clear vision, leadership commitment, new rewards and training over time",
+      "Overnight",
+      "Ignoring staff",
+      "Orders alone"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a slow process."
+    },
+    {
+     "question_text": "Culture differs from climate in that culture is:",
+     "options": [
+      "Short-term",
+      "Perceptions",
+      "Deep-rooted shared beliefs and values, while climate is the shorter-term perception of the work environment",
+      "The same"
+     ],
+     "correct_index": 2,
+     "explanation": "Climate is more easily changed."
+    },
+    {
+     "question_text": "Culture affects performance because:",
+     "options": [
+      "It reduces performance always",
+      "It is irrelevant",
+      "Shared values influence motivation, cooperation and behaviour",
+      "It does not"
+     ],
+     "correct_index": 2,
+     "explanation": "A good fit between strategy and culture helps."
+    },
+    {
+     "question_text": "An example of a toxic culture is:",
+     "options": [
+      "One with openness",
+      "One with respect",
+      "One with fear, blame and lack of respect",
+      "One with trust"
+     ],
+     "correct_index": 2,
+     "explanation": "A good culture has trust and openness."
+    },
+    {
+     "question_text": "Culture affects ethics because:",
+     "options": [
+      "Culture removes ethics",
+      "Employees follow the norms and behaviours they see rewarded",
+      "Culture ignores values",
+      "Ethics is unrelated"
+     ],
+     "correct_index": 1,
+     "explanation": "A strong ethical culture discourages wrongdoing."
+    }
+   ]
+  }
+ ]
+}

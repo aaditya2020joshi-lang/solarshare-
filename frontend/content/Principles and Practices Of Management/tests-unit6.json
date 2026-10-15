@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 6: Controlling – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Controlling is the management function of:",
+     "options": [
+      "Setting goals",
+      "Measuring actual performance against standards and taking corrective action",
+      "Motivating staff",
+      "Hiring staff"
+     ],
+     "correct_index": 1,
+     "explanation": "It ensures that plans are achieved."
+    },
+    {
+     "question_text": "Koontz defined controlling as:",
+     "options": [
+      "The measurement and correction of the performance of subordinates to ensure that enterprise objectives and plans are accomplished",
+      "Directing",
+      "Staffing",
+      "Setting objectives"
+     ],
+     "correct_index": 0,
+     "explanation": "It includes both measurement and correction."
+    },
+    {
+     "question_text": "Fayol defined control as:",
+     "options": [
+      "Verifying whether everything occurs in conformity with the plan adopted, instructions issued and principles established",
+      "Motivating",
+      "Setting plans",
+      "Hiring"
+     ],
+     "correct_index": 0,
+     "explanation": "Its aim is to point out weaknesses and errors to rectify them."
+    },
+    {
+     "question_text": "A feature of controlling is that it:",
+     "options": [
+      "Is for top levels only",
+      "Is goal-oriented, pervasive, continuous and both forward and backward-looking",
+      "Is unrelated to planning",
+      "Is done once"
+     ],
+     "correct_index": 1,
+     "explanation": "It also involves comparison and correction."
+    },
+    {
+     "question_text": "Controlling is a pervasive function because it:",
+     "options": [
+      "Is a function of one department",
+      "Is needed at all levels and in all departments",
+      "Is not needed",
+      "Is done by top managers only"
+     ],
+     "correct_index": 1,
+     "explanation": "Every manager controls."
+    },
+    {
+     "question_text": "Controlling is a continuous function because:",
+     "options": [
+      "It is done once",
+      "It ends after planning",
+      "Performance is monitored on an ongoing basis",
+      "It is occasional"
+     ],
+     "correct_index": 2,
+     "explanation": "It never stops."
+    },
+    {
+     "question_text": "Controlling is both forward and backward-looking because:",
+     "options": [
+      "It looks only at the future",
+      "It looks only at the past",
+      "It ignores plans",
+      "It learns from past deviations to improve future plans"
+     ],
+     "correct_index": 3,
+     "explanation": "Past performance informs future standards."
+    },
+    {
+     "question_text": "The importance of controlling includes:",
+     "options": [
+      "Increasing waste",
+      "Reducing motivation",
+      "Eliminating plans",
+      "Accomplishing goals, improving efficiency and ensuring order and discipline"
+     ],
+     "correct_index": 3,
+     "explanation": "It also helps in coordination."
+    },
+    {
+     "question_text": "The relationship between planning and controlling is that:",
+     "options": [
+      "Control precedes planning",
+      "Planning is control",
+      "Planning sets standards and controlling measures performance against them",
+      "They are unrelated"
+     ],
+     "correct_index": 2,
+     "explanation": "Each depends on the other."
+    },
+    {
+     "question_text": "Planning and controlling are called \"inseparable twins\" because:",
+     "options": [
+      "Planning gives standards for control, and control gives data for future planning",
+      "They are independent",
+      "They are the same",
+      "They are unrelated"
+     ],
+     "correct_index": 0,
+     "explanation": "They are interdependent."
+    },
+    {
+     "question_text": "A limitation of controlling is that it:",
+     "options": [
+      "Is costless",
+      "May be costly and difficult to apply to qualitative standards",
+      "Is always accurate",
+      "Is easy"
+     ],
+     "correct_index": 1,
+     "explanation": "Employees may resist it."
+    },
+    {
+     "question_text": "Resistance to control can be overcome by:",
+     "options": [
+      "Ignoring resistance",
+      "Involving employees, explaining the purpose and using fair standards",
+      "Reducing communication",
+      "Using force"
+     ],
+     "correct_index": 1,
+     "explanation": "Participation reduces resistance."
+    },
+    {
+     "question_text": "The first step in the controlling process is:",
+     "options": [
+      "Setting performance standards",
+      "Taking corrective action",
+      "Analysing deviations",
+      "Measuring performance"
+     ],
+     "correct_index": 0,
+     "explanation": "Then measure, compare, analyse and correct."
+    },
+    {
+     "question_text": "Standards are:",
+     "options": [
+      "Targets only",
+      "Penalties",
+      "Rewards",
+      "Criteria against which actual performance is measured; they are set on the basis of past performance, benchmarks and plans"
+     ],
+     "correct_index": 3,
+     "explanation": "They should be clear and achievable."
+    },
+    {
+     "question_text": "Quantitative standards can be _____, and qualitative standards _____:",
+     "options": [
+      "Measured",
+      "Not measured",
+      "Measured in numbers; are hard to measure (e.g., customer satisfaction)",
+      "Not set"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are used in practice."
+    },
+    {
+     "question_text": "Critical points are:",
+     "options": [
+      "Final points",
+      "Minor areas",
+      "Unimportant areas",
+      "Key areas where deviations would most seriously affect results, e.g., cost of raw materials"
+     ],
+     "correct_index": 3,
+     "explanation": "Control focuses on them."
+    },
+    {
+     "question_text": "Key result areas are:",
+     "options": [
+      "The areas in which an organisation must perform well to survive and succeed",
+      "Costs only",
+      "Minor areas",
+      "Unimportant areas"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., profitability, market share."
+    },
+    {
+     "question_text": "Actual performance is measured through:",
+     "options": [
+      "Guesses",
+      "Personal observation, reports, sample checks and statistical data",
+      "Opinions only",
+      "Rumours"
+     ],
+     "correct_index": 1,
+     "explanation": "Measurement should be objective."
+    },
+    {
+     "question_text": "Comparing actual performance with standards:",
+     "options": [
+      "Takes corrective action",
+      "Sets the standard",
+      "Reveals the deviation, if any",
+      "Selects staff"
+     ],
+     "correct_index": 2,
+     "explanation": "It is the third step."
+    },
+    {
+     "question_text": "The range of tolerance is:",
+     "options": [
+      "The highest standard",
+      "Zero tolerance",
+      "The permissible variation from the standard that need not be corrected",
+      "A penalty"
+     ],
+     "correct_index": 2,
+     "explanation": "Deviations within it are ignored."
+    },
+    {
+     "question_text": "Deviation analysis is:",
+     "options": [
+      "Finding the extent and causes of deviations from standards",
+      "Appraising staff",
+      "Hiring staff",
+      "Setting standards"
+     ],
+     "correct_index": 0,
+     "explanation": "It identifies who is responsible."
+    },
+    {
+     "question_text": "Controllable deviations are those:",
+     "options": [
+      "That the manager can correct, while uncontrollable ones arise from external factors",
+      "External only",
+      "Beyond control",
+      "Always favourable"
+     ],
+     "correct_index": 0,
+     "explanation": "Corrective action targets controllable causes."
+    },
+    {
+     "question_text": "Corrective actions include:",
+     "options": [
+      "Doing nothing",
+      "Changing standards, retraining staff, improving methods or reorganising",
+      "Ignoring deviations",
+      "Hiring randomly"
+     ],
+     "correct_index": 1,
+     "explanation": "They bring performance back on track."
+    },
+    {
+     "question_text": "Standards are revised when:",
+     "options": [
+      "They prove unrealistic or conditions change",
+      "They are met",
+      "Never",
+      "They are exceeded"
+     ],
+     "correct_index": 0,
+     "explanation": "Standards should be flexible."
+    },
+    {
+     "question_text": "The role of feedback in controlling is to:",
+     "options": [
+      "Provide information about performance to correct future actions",
+      "Reward staff",
+      "Hire staff",
+      "Set standards"
+     ],
+     "correct_index": 0,
+     "explanation": "It closes the control loop."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Controlling – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An essential of a sound control system is:",
+     "options": [
+      "High cost",
+      "Complexity",
+      "Suitability, simplicity, economy, flexibility and timeliness",
+      "Delay"
+     ],
+     "correct_index": 2,
+     "explanation": "Also objectivity and acceptability."
+    },
+    {
+     "question_text": "Suitability and simplicity in control mean that:",
+     "options": [
+      "It should be complex",
+      "It should be hidden",
+      "It should be unsuitable",
+      "The control system should fit the activity and be easy to understand"
+     ],
+     "correct_index": 3,
+     "explanation": "It must serve the needs of the organisation."
+    },
+    {
+     "question_text": "Economy in control means that:",
+     "options": [
+      "The cost of control should be less than its benefits",
+      "Control should be expensive",
+      "It should cost more",
+      "It is free"
+     ],
+     "correct_index": 0,
+     "explanation": "Controls must be cost-effective."
+    },
+    {
+     "question_text": "Flexibility in control means that:",
+     "options": [
+      "It is rigid",
+      "It ignores plans",
+      "The system can adapt to changes in plans and environment",
+      "It never changes"
+     ],
+     "correct_index": 2,
+     "explanation": "Plans may change."
+    },
+    {
+     "question_text": "Timeliness in control means that:",
+     "options": [
+      "It is irrelevant",
+      "Information is delayed",
+      "Information is late",
+      "Information on deviations is provided quickly so that action can be taken in time"
+     ],
+     "correct_index": 3,
+     "explanation": "Late information is useless."
+    },
+    {
+     "question_text": "Objectivity and accuracy in control mean:",
+     "options": [
+      "Guesswork",
+      "Personal bias",
+      "Standards and measurements should be factual and free of bias",
+      "Opinions are enough"
+     ],
+     "correct_index": 2,
+     "explanation": "Reliable data improves decisions."
+    },
+    {
+     "question_text": "Focus on critical points means:",
+     "options": [
+      "Controlling minor issues",
+      "Ignoring key areas",
+      "Controlling key areas where deviations matter most",
+      "Controlling everything"
+     ],
+     "correct_index": 2,
+     "explanation": "It saves time and cost."
+    },
+    {
+     "question_text": "Management by exception helps control by:",
+     "options": [
+      "Delegating nothing",
+      "Ignoring deviations",
+      "Concentrating on significant deviations and leaving routine matters to subordinates",
+      "Controlling every detail"
+     ],
+     "correct_index": 2,
+     "explanation": "It saves the manager's time."
+    },
+    {
+     "question_text": "Acceptability in control means that:",
+     "options": [
+      "It is imposed",
+      "It is secret",
+      "Employees ignore it",
+      "Employees should accept the control system as fair and reasonable"
+     ],
+     "correct_index": 3,
+     "explanation": "Acceptance reduces resistance."
+    },
+    {
+     "question_text": "Types of control include:",
+     "options": [
+      "Planning, organising, staffing",
+      "Reward, coercion",
+      "Line, staff",
+      "Feedforward, concurrent and feedback"
+     ],
+     "correct_index": 3,
+     "explanation": "Classified by timing."
+    },
+    {
+     "question_text": "Feedforward control is:",
+     "options": [
+      "Control after the event",
+      "Preventive control that anticipates problems before they occur, e.g., inspecting raw materials",
+      "Corrective control",
+      "Control during the event"
+     ],
+     "correct_index": 1,
+     "explanation": "It acts on inputs."
+    },
+    {
+     "question_text": "Concurrent control is:",
+     "options": [
+      "Control by audit",
+      "Control before the activity",
+      "Control after the activity",
+      "Control exercised while the activity is in progress, e.g., supervision"
+     ],
+     "correct_index": 3,
+     "explanation": "It deals with the process."
+    },
+    {
+     "question_text": "Feedback control is:",
+     "options": [
+      "Preventive control",
+      "Control before the activity",
+      "Control during the activity",
+      "Control after the activity is completed, e.g., a quality check of finished goods"
+     ],
+     "correct_index": 3,
+     "explanation": "It uses results to improve future work."
+    },
+    {
+     "question_text": "Feedforward differs from feedback control in that feedforward acts _____ and feedback acts _____:",
+     "options": [
+      "After; before",
+      "Before the activity; after the activity",
+      "During; after",
+      "Before; during"
+     ],
+     "correct_index": 1,
+     "explanation": "Concurrent control acts during."
+    },
+    {
+     "question_text": "Strategic controls are for _____, tactical for _____, and operational for _____:",
+     "options": [
+      "All the same",
+      "Long-term goals of the organisation; departmental goals; daily activities",
+      "Daily; departmental; long-term",
+      "Departmental; daily; long-term"
+     ],
+     "correct_index": 1,
+     "explanation": "They correspond to the levels of management."
+    },
+    {
+     "question_text": "Preventive controls aim to:",
+     "options": [
+      "Fix problems",
+      "Avoid goals",
+      "Cause problems",
+      "Prevent problems before they occur, while corrective controls fix them after"
+     ],
+     "correct_index": 3,
+     "explanation": "Both are needed."
+    },
+    {
+     "question_text": "Bureaucratic control is:",
+     "options": [
+      "Control through market",
+      "Control through self",
+      "Control through culture",
+      "Control through rules, regulations, hierarchy and procedures"
+     ],
+     "correct_index": 3,
+     "explanation": "It is formal and impersonal."
+    },
+    {
+     "question_text": "Clan control is:",
+     "options": [
+      "Control through audits",
+      "Control through shared values, culture and norms among employees",
+      "Control through rules",
+      "Control through budgets"
+     ],
+     "correct_index": 1,
+     "explanation": "It relies on commitment."
+    },
+    {
+     "question_text": "Financial control uses:",
+     "options": [
+      "Inspection",
+      "Quality tests",
+      "Budgets, ratios and audit to monitor financial performance",
+      "Time study"
+     ],
+     "correct_index": 2,
+     "explanation": "It ensures financial health."
+    },
+    {
+     "question_text": "Quality control is:",
+     "options": [
+      "Inventory control",
+      "The process of ensuring products meet specified quality standards",
+      "Budgeting",
+      "Cost control"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses inspection and statistical methods."
+    },
+    {
+     "question_text": "Inventory control is:",
+     "options": [
+      "Sales control",
+      "Wage control",
+      "Maintaining the optimum level of stock to balance cost and availability",
+      "Cost control"
+     ],
+     "correct_index": 2,
+     "explanation": "Techniques include EOQ and ABC analysis."
+    },
+    {
+     "question_text": "Cost control is:",
+     "options": [
+      "Ignoring costs",
+      "Maximising costs",
+      "Keeping costs within set limits through standard costing and budgets",
+      "Increasing costs"
+     ],
+     "correct_index": 2,
+     "explanation": "It improves profitability."
+    },
+    {
+     "question_text": "Techniques of control include:",
+     "options": [
+      "Coercion",
+      "Reward",
+      "Budgetary control, ratio analysis, break-even analysis, PERT/CPM and MIS",
+      "Selection"
+     ],
+     "correct_index": 2,
+     "explanation": "Traditional and modern techniques."
+    },
+    {
+     "question_text": "Personal observation as a technique:",
+     "options": [
+      "Is costless",
+      "Gives first-hand information about performance but is time-consuming",
+      "Is automatic",
+      "Is quick"
+     ],
+     "correct_index": 1,
+     "explanation": "It is useful at lower levels."
+    },
+    {
+     "question_text": "Statistical reports are:",
+     "options": [
+      "Opinions",
+      "Interviews",
+      "Rumours",
+      "Reports presenting data in the form of tables, charts and averages for analysis"
+     ],
+     "correct_index": 3,
+     "explanation": "They help in control."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Controlling – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Budgetary control:",
+     "options": [
+      "Is costless",
+      "Is flexible always",
+      "Uses budgets as standards to compare actual performance; a benefit is cost control, a limitation is rigidity",
+      "Does not use budgets"
+     ],
+     "correct_index": 2,
+     "explanation": "It coordinates activities."
+    },
+    {
+     "question_text": "Types of budgets include:",
+     "options": [
+      "Sales, production, cash, capital and master budgets",
+      "Only cash",
+      "Only sales",
+      "Only master"
+     ],
+     "correct_index": 0,
+     "explanation": "Also fixed and flexible budgets."
+    },
+    {
+     "question_text": "A flexible budget is:",
+     "options": [
+      "A budget that never changes",
+      "A yearly budget only",
+      "A budget that adjusts to different levels of activity",
+      "A fixed budget"
+     ],
+     "correct_index": 2,
+     "explanation": "It suits uncertain conditions."
+    },
+    {
+     "question_text": "Zero-based budgeting means:",
+     "options": [
+      "Ignoring costs",
+      "Preparing the budget from scratch, justifying every expense for each period",
+      "Using last year's budget",
+      "Adding to last year"
+     ],
+     "correct_index": 1,
+     "explanation": "It avoids automatic increments."
+    },
+    {
+     "question_text": "Standard costing is:",
+     "options": [
+      "A system that sets pre-determined costs and compares them with actual costs",
+      "Ignoring costs",
+      "Using actual costs only",
+      "Setting prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Differences are variances."
+    },
+    {
+     "question_text": "Variance analysis compares:",
+     "options": [
+      "Standards with standards",
+      "Plans with plans",
+      "Actual with actual",
+      "Actual with standard; favourable variance means actual cost is below standard, adverse means above"
+     ],
+     "correct_index": 3,
+     "explanation": "It points to areas needing action."
+    },
+    {
+     "question_text": "Standard cost Rs 10 × 1,000 units; actual cost Rs 11,500. The material variance is:",
+     "options": [
+      "Rs 1,500 adverse",
+      "Rs 1,500 favourable",
+      "Rs 10,000",
+      "Rs 11,500 adverse"
+     ],
+     "correct_index": 0,
+     "explanation": "11,500 − 10,000."
+    },
+    {
+     "question_text": "Standard 500 hours at Rs 20; actual 520 hours at Rs 22. The labour cost variance is:",
+     "options": [
+      "Rs 440 adverse",
+      "Rs 1,000 adverse",
+      "Rs 1,440 adverse",
+      "Rs 1,440 favourable"
+     ],
+     "correct_index": 2,
+     "explanation": "Actual 11,440 − standard 10,000."
+    },
+    {
+     "question_text": "Break-even analysis determines:",
+     "options": [
+      "The profit",
+      "The cost of capital",
+      "The level of sales at which total revenue equals total cost (no profit, no loss)",
+      "The loss"
+     ],
+     "correct_index": 2,
+     "explanation": "It is used in planning and control."
+    },
+    {
+     "question_text": "The break-even point in units is:",
+     "options": [
+      "Price ÷ cost",
+      "Variable cost ÷ fixed cost",
+      "Fixed cost ÷ (selling price − variable cost per unit)",
+      "Fixed cost × price"
+     ],
+     "correct_index": 2,
+     "explanation": "The denominator is the contribution per unit."
+    },
+    {
+     "question_text": "FC Rs 60,000; SP Rs 50; VC Rs 30. The BEP is:",
+     "options": [
+      "6,000 units",
+      "3,000 units",
+      "2,000 units",
+      "1,200 units"
+     ],
+     "correct_index": 1,
+     "explanation": "60,000 ÷ 20."
+    },
+    {
+     "question_text": "FC Rs 1,20,000; P/V ratio 40%. The BEP in value is:",
+     "options": [
+      "Rs 48,000",
+      "Rs 4,80,000",
+      "Rs 1,20,000",
+      "Rs 3,00,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Fixed cost ÷ P/V ratio."
+    },
+    {
+     "question_text": "For a target profit of Rs 20,000 with FC Rs 60,000, SP Rs 50 and VC Rs 30, units needed are:",
+     "options": [
+      "5,000",
+      "4,000",
+      "2,000",
+      "3,000"
+     ],
+     "correct_index": 1,
+     "explanation": "(60,000 + 20,000) ÷ 20."
+    },
+    {
+     "question_text": "Actual sales Rs 2,00,000; BEP sales Rs 1,50,000. The margin of safety is:",
+     "options": [
+      "Rs 1,50,000",
+      "Rs 3,50,000",
+      "Rs 25,000",
+      "Rs 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Actual sales − BEP sales."
+    },
+    {
+     "question_text": "The margin of safety ratio is:",
+     "options": [
+      "Profit ÷ sales",
+      "(Margin of safety ÷ actual sales) × 100",
+      "(BEP ÷ sales) × 100",
+      "Cost ÷ sales"
+     ],
+     "correct_index": 1,
+     "explanation": "In the example above it is 25%."
+    },
+    {
+     "question_text": "SP Rs 50 and VC Rs 30. The P/V ratio is:",
+     "options": [
+      "40%",
+      "30%",
+      "20%",
+      "60%"
+     ],
+     "correct_index": 0,
+     "explanation": "(50 − 30) ÷ 50."
+    },
+    {
+     "question_text": "Ratio analysis is:",
+     "options": [
+      "Budgeting",
+      "The analysis of financial statements through ratios such as liquidity, profitability and turnover",
+      "Auditing",
+      "Counting stock"
+     ],
+     "correct_index": 1,
+     "explanation": "It helps in control."
+    },
+    {
+     "question_text": "Current assets Rs 3,00,000; current liabilities Rs 1,50,000. The current ratio is:",
+     "options": [
+      "2 : 1",
+      "1 : 1",
+      "3 : 1",
+      "1 : 2"
+     ],
+     "correct_index": 0,
+     "explanation": "3,00,000 ÷ 1,50,000."
+    },
+    {
+     "question_text": "Current assets 3,00,000; stock 1,00,000; current liabilities 1,50,000. The quick ratio is:",
+     "options": [
+      "2 : 1",
+      "1.33 : 1",
+      "0.67 : 1",
+      "1 : 1"
+     ],
+     "correct_index": 1,
+     "explanation": "(3,00,000 − 1,00,000) ÷ 1,50,000."
+    },
+    {
+     "question_text": "Net profit Rs 60,000; capital employed Rs 5,00,000. The ROI is:",
+     "options": [
+      "20%",
+      "8.33%",
+      "12%",
+      "10%"
+     ],
+     "correct_index": 2,
+     "explanation": "60,000 ÷ 5,00,000 × 100."
+    },
+    {
+     "question_text": "The inventory turnover ratio is:",
+     "options": [
+      "Cost of goods sold ÷ average inventory",
+      "Sales ÷ debtors",
+      "Debt ÷ equity",
+      "Profit ÷ capital"
+     ],
+     "correct_index": 0,
+     "explanation": "It shows how fast stock is sold."
+    },
+    {
+     "question_text": "The debtors turnover ratio is:",
+     "options": [
+      "Debt ÷ equity",
+      "Profit ÷ capital",
+      "Net credit sales ÷ average debtors",
+      "Cost ÷ stock"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows the speed of collection."
+    },
+    {
+     "question_text": "The debt–equity ratio is:",
+     "options": [
+      "Long-term debt ÷ shareholders' equity",
+      "Profit ÷ sales",
+      "Cost ÷ stock",
+      "Current assets ÷ liabilities"
+     ],
+     "correct_index": 0,
+     "explanation": "It measures financial leverage."
+    },
+    {
+     "question_text": "An internal audit is:",
+     "options": [
+      "A tax audit",
+      "A court audit",
+      "A review of the organisation's operations and controls by its own staff",
+      "An external audit"
+     ],
+     "correct_index": 2,
+     "explanation": "It helps management control."
+    },
+    {
+     "question_text": "A management audit is:",
+     "options": [
+      "A cost audit",
+      "A systematic evaluation of the effectiveness of management and its policies",
+      "A tax audit",
+      "A statutory audit"
+     ],
+     "correct_index": 1,
+     "explanation": "It evaluates managerial performance."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Controlling – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "PERT and CPM are:",
+     "options": [
+      "Audit methods",
+      "Selection methods",
+      "Network techniques for planning and controlling projects",
+      "Costing methods"
+     ],
+     "correct_index": 2,
+     "explanation": "PERT = Programme Evaluation and Review Technique; CPM = Critical Path Method."
+    },
+    {
+     "question_text": "PERT differs from CPM in that PERT uses:",
+     "options": [
+      "Cost only",
+      "Deterministic time",
+      "Probabilistic time estimates for new projects, while CPM uses deterministic time for routine projects",
+      "One estimate"
+     ],
+     "correct_index": 2,
+     "explanation": "CPM also considers time–cost trade-off."
+    },
+    {
+     "question_text": "The critical path is:",
+     "options": [
+      "The shortest path",
+      "Any path",
+      "The cheapest path",
+      "The longest path through the network, determining the project duration"
+     ],
+     "correct_index": 3,
+     "explanation": "Delays on it delay the project."
+    },
+    {
+     "question_text": "Slack or float is:",
+     "options": [
+      "The cost",
+      "The delay",
+      "The shortest time",
+      "The amount of time an activity can be delayed without delaying the project"
+     ],
+     "correct_index": 3,
+     "explanation": "Critical activities have zero slack."
+    },
+    {
+     "question_text": "PERT expected time with a = 4, m = 6, b = 14 is:",
+     "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+     ],
+     "correct_index": 0,
+     "explanation": "(a + 4m + b) ÷ 6 = (4 + 24 + 14) ÷ 6."
+    },
+    {
+     "question_text": "PERT expected time with a = 2, m = 5, b = 8 is:",
+     "options": [
+      "7",
+      "5",
+      "6",
+      "4"
+     ],
+     "correct_index": 1,
+     "explanation": "(2 + 20 + 8) ÷ 6."
+    },
+    {
+     "question_text": "A Gantt chart is:",
+     "options": [
+      "A flow chart",
+      "A pie chart",
+      "A budget",
+      "A bar chart showing the schedule of activities against time"
+     ],
+     "correct_index": 3,
+     "explanation": "It is used to monitor progress."
+    },
+    {
+     "question_text": "MIS is:",
+     "options": [
+      "Managerial Investment Scheme",
+      "Management Information System that provides timely information for planning and control",
+      "Market Information Service",
+      "Management Inspection System"
+     ],
+     "correct_index": 1,
+     "explanation": "It supports decisions."
+    },
+    {
+     "question_text": "TQM is:",
+     "options": [
+      "Total Quality Management, a system of continuous improvement involving all employees",
+      "Test Quality Method",
+      "Total Quantity Management",
+      "Time Quality Model"
+     ],
+     "correct_index": 0,
+     "explanation": "It focuses on customer satisfaction."
+    },
+    {
+     "question_text": "Six Sigma is:",
+     "options": [
+      "A budget method",
+      "A data-driven approach to reduce defects to 3.4 per million opportunities",
+      "A pay system",
+      "A leadership style"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses DMAIC."
+    },
+    {
+     "question_text": "Kaizen means:",
+     "options": [
+      "Continuous incremental improvement",
+      "Cost cutting only",
+      "Big sudden change",
+      "Layoffs"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a Japanese approach."
+    },
+    {
+     "question_text": "JIT (Just-in-Time) means:",
+     "options": [
+      "Large stocks",
+      "Ordering in bulk",
+      "Producing and delivering only what is needed, when it is needed, to minimise inventory",
+      "Slow delivery"
+     ],
+     "correct_index": 2,
+     "explanation": "It reduces waste."
+    },
+    {
+     "question_text": "Statistical quality control uses:",
+     "options": [
+      "Guesses",
+      "Statistical methods such as sampling and control charts to monitor quality",
+      "Opinions",
+      "Rumours"
+     ],
+     "correct_index": 1,
+     "explanation": "It is used in production."
+    },
+    {
+     "question_text": "The balanced scorecard is:",
+     "options": [
+      "A cash report",
+      "A tool that measures performance across financial and non-financial perspectives",
+      "A budget",
+      "A ledger"
+     ],
+     "correct_index": 1,
+     "explanation": "Developed by Kaplan and Norton."
+    },
+    {
+     "question_text": "The four perspectives of the balanced scorecard are:",
+     "options": [
+      "Financial, customer, internal business process and learning and growth",
+      "Price, product, place, promotion",
+      "Planning, organising, staffing, controlling",
+      "Input, process, output, outcome"
+     ],
+     "correct_index": 0,
+     "explanation": "They link strategy to action."
+    },
+    {
+     "question_text": "Benchmarking is:",
+     "options": [
+      "A budgeting method",
+      "Comparing one's performance with the best in the industry to find improvements",
+      "Copying prices",
+      "A leadership style"
+     ],
+     "correct_index": 1,
+     "explanation": "It identifies best practices."
+    },
+    {
+     "question_text": "Responsibility accounting is:",
+     "options": [
+      "An audit",
+      "A tax method",
+      "Assigning accountability for costs and revenues to managers who control them",
+      "Budgeting only"
+     ],
+     "correct_index": 2,
+     "explanation": "It supports decentralised control."
+    },
+    {
+     "question_text": "KPIs are:",
+     "options": [
+      "Key Performance Indicators used to measure progress toward objectives",
+      "Key Product Items",
+      "Key Price Indicators",
+      "Knowledge Programme Indices"
+     ],
+     "correct_index": 0,
+     "explanation": "They are quantifiable measures."
+    },
+    {
+     "question_text": "OKRs are:",
+     "options": [
+      "Organisational Knowledge Records",
+      "Output Key Reports",
+      "Objectives and Key Results, a goal-setting framework",
+      "Operating Key Rates"
+     ],
+     "correct_index": 2,
+     "explanation": "They align goals across the organisation."
+    },
+    {
+     "question_text": "A behavioural implication of control is that:",
+     "options": [
+      "Employees may resist control or manipulate data if it feels unfair",
+      "Control has no effects",
+      "Employees always welcome it",
+      "It removes resistance"
+     ],
+     "correct_index": 0,
+     "explanation": "Acceptance depends on perceived fairness."
+    },
+    {
+     "question_text": "Self-control is:",
+     "options": [
+      "Control by audit",
+      "Control by managers",
+      "Control by government",
+      "Employees monitoring and correcting their own performance"
+     ],
+     "correct_index": 3,
+     "explanation": "It relies on motivation."
+    },
+    {
+     "question_text": "A social audit is:",
+     "options": [
+      "A cost audit",
+      "An evaluation of an organisation's social performance and its impact on society",
+      "A tax audit",
+      "A financial audit"
+     ],
+     "correct_index": 1,
+     "explanation": "It measures CSR activities."
+    },
+    {
+     "question_text": "A control chart is:",
+     "options": [
+      "A budget",
+      "A graph showing process variation over time with control limits",
+      "A ledger",
+      "A balance sheet"
+     ],
+     "correct_index": 1,
+     "explanation": "It flags processes out of control."
+    },
+    {
+     "question_text": "IT improves control by:",
+     "options": [
+      "Providing real-time data, automating monitoring and enabling faster corrective action",
+      "Removing data",
+      "Increasing errors",
+      "Delaying data"
+     ],
+     "correct_index": 0,
+     "explanation": "It improves speed and accuracy."
+    },
+    {
+     "question_text": "Timely information is essential for control because:",
+     "options": [
+      "Delays are harmless",
+      "Information is unimportant",
+      "Corrections are not needed",
+      "Delays allow deviations to grow and make corrective action ineffective"
+     ],
+     "correct_index": 3,
+     "explanation": "Early action is cheaper."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 3: Organising – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Organising is the function of:",
+     "options": [
+      "Setting objectives",
+      "Motivating workers",
+      "Checking results",
+      "Arranging tasks, authority and resources and establishing relationships to achieve objectives"
+     ],
+     "correct_index": 3,
+     "explanation": "It follows planning."
+    },
+    {
+     "question_text": "According to Koontz, organising involves:",
+     "options": [
+      "Hiring staff",
+      "Setting goals",
+      "Leading people",
+      "Establishing an intentional structure of roles and arranging them to accomplish objectives"
+     ],
+     "correct_index": 3,
+     "explanation": "It identifies and groups activities and defines authority relationships."
+    },
+    {
+     "question_text": "Organisation differs from organising in that organisation is:",
+     "options": [
+      "A person",
+      "A process, while organising is a structure",
+      "A structure, while organising is a process",
+      "A place"
+     ],
+     "correct_index": 2,
+     "explanation": "One is the result; the other is the activity."
+    },
+    {
+     "question_text": "A feature of organising is that it:",
+     "options": [
+      "Evaluates performance",
+      "Hires people",
+      "Sets goals",
+      "Divides work, assigns duties and establishes relationships"
+     ],
+     "correct_index": 3,
+     "explanation": "It also coordinates activities."
+    },
+    {
+     "question_text": "The importance of organising includes:",
+     "options": [
+      "Increasing confusion",
+      "Benefits of specialisation, clarity of roles and optimum use of resources",
+      "Removing coordination",
+      "Ending hierarchy"
+     ],
+     "correct_index": 1,
+     "explanation": "It also facilitates growth."
+    },
+    {
+     "question_text": "The process of organising begins with:",
+     "options": [
+      "Identifying and dividing the work",
+      "Departmentalisation",
+      "Coordination",
+      "Delegating authority"
+     ],
+     "correct_index": 0,
+     "explanation": "Then grouping jobs, assigning duties and establishing reporting relationships."
+    },
+    {
+     "question_text": "Departmentalisation is:",
+     "options": [
+      "Controlling activities",
+      "Delegating authority",
+      "Dividing authority",
+      "Grouping similar activities into departments; bases include function, product, territory and customer"
+     ],
+     "correct_index": 3,
+     "explanation": "It enables specialisation."
+    },
+    {
+     "question_text": "Functional departmentalisation groups activities by:",
+     "options": [
+      "Customer",
+      "Functions such as production, marketing and finance",
+      "Product",
+      "Region"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes specialisation."
+    },
+    {
+     "question_text": "Product departmentalisation groups activities by:",
+     "options": [
+      "Function",
+      "Product lines, each with its own department",
+      "Region",
+      "Customer"
+     ],
+     "correct_index": 1,
+     "explanation": "Suitable for diversified products."
+    },
+    {
+     "question_text": "Territorial departmentalisation groups activities by:",
+     "options": [
+      "Product",
+      "Geographical areas",
+      "Function",
+      "Customer"
+     ],
+     "correct_index": 1,
+     "explanation": "Suitable for firms operating over wide areas."
+    },
+    {
+     "question_text": "Customer departmentalisation groups activities by:",
+     "options": [
+      "Function",
+      "Region",
+      "Types of customers (e.g., retail, wholesale)",
+      "Product"
+     ],
+     "correct_index": 2,
+     "explanation": "It meets customer-specific needs."
+    },
+    {
+     "question_text": "A principle of organising is:",
+     "options": [
+      "Maximise confusion",
+      "Overlapping authority",
+      "Unity of objective, unity of command, scalar chain and span of control",
+      "No hierarchy"
+     ],
+     "correct_index": 2,
+     "explanation": "They guide effective structure design."
+    },
+    {
+     "question_text": "A formal organisation is:",
+     "options": [
+      "A group of friends",
+      "A social club",
+      "A spontaneous group",
+      "A deliberately designed structure with defined authority, roles and rules"
+     ],
+     "correct_index": 3,
+     "explanation": "It is created by management."
+    },
+    {
+     "question_text": "An informal organisation is:",
+     "options": [
+      "A designed structure",
+      "A network of social relationships arising spontaneously among employees",
+      "A hierarchy",
+      "A committee"
+     ],
+     "correct_index": 1,
+     "explanation": "It is not shown on the chart."
+    },
+    {
+     "question_text": "Formal differs from informal organisation in that the formal organisation:",
+     "options": [
+      "Is deliberately created with official rules, while the informal arises naturally from social interaction",
+      "Has no rules",
+      "Is secret",
+      "Arises naturally"
+     ],
+     "correct_index": 0,
+     "explanation": "Both exist in practice."
+    },
+    {
+     "question_text": "The grapevine is:",
+     "options": [
+      "The informal communication network in an organisation",
+      "The formal channel",
+      "An official chart",
+      "A report"
+     ],
+     "correct_index": 0,
+     "explanation": "It spreads quickly but may spread rumours."
+    },
+    {
+     "question_text": "An informal organisation can help management by:",
+     "options": [
+      "Delaying work",
+      "Providing social satisfaction, quick communication and cooperation",
+      "Ignoring objectives",
+      "Creating conflict"
+     ],
+     "correct_index": 1,
+     "explanation": "It supplements the formal structure."
+    },
+    {
+     "question_text": "An informal organisation can harm management by:",
+     "options": [
+      "Providing satisfaction",
+      "Providing cooperation",
+      "Spreading rumours and resisting change",
+      "Improving communication"
+     ],
+     "correct_index": 2,
+     "explanation": "It may also hold back output."
+    },
+    {
+     "question_text": "A line organisation is:",
+     "options": [
+      "The simplest structure where authority flows directly from top to bottom; merit is simplicity and demerit is overload on top",
+      "Based on committees",
+      "Complex",
+      "Specialised"
+     ],
+     "correct_index": 0,
+     "explanation": "Suitable for small firms."
+    },
+    {
+     "question_text": "A functional organisation is:",
+     "options": [
+      "One boss",
+      "A structure based on specialisation where each specialist supervises their function; merit is expertise, demerit is violation of unity of command",
+      "Simple",
+      "Without experts"
+     ],
+     "correct_index": 1,
+     "explanation": "Taylor's functional foremanship is an example."
+    },
+    {
+     "question_text": "A line and staff organisation:",
+     "options": [
+      "Has only line managers",
+      "Has no advice",
+      "Has no experts",
+      "Adds specialist staff who advise line managers; merit is expert advice, demerit is line-staff conflict"
+     ],
+     "correct_index": 3,
+     "explanation": "Line has authority; staff gives advice."
+    },
+    {
+     "question_text": "Types of staff include:",
+     "options": [
+      "Personal staff, specialised staff and general staff",
+      "Workers",
+      "Line staff",
+      "Executive staff only"
+     ],
+     "correct_index": 0,
+     "explanation": "They support the line."
+    },
+    {
+     "question_text": "Line differs from staff in that line managers:",
+     "options": [
+      "Have authority to command and contribute directly to objectives, while staff advise and support",
+      "Support only",
+      "Have no authority",
+      "Advise"
+     ],
+     "correct_index": 0,
+     "explanation": "Line authority is direct."
+    },
+    {
+     "question_text": "A divisional organisation is:",
+     "options": [
+      "Single-unit",
+      "Based on function",
+      "A structure based on products, markets or regions with each division semi-autonomous; merit is accountability, demerit is duplication",
+      "Without divisions"
+     ],
+     "correct_index": 2,
+     "explanation": "Large diversified firms use it."
+    },
+    {
+     "question_text": "A matrix organisation combines:",
+     "options": [
+      "No structure",
+      "Only product",
+      "Functional and project/product structures, so employees have two bosses; merit is flexibility, demerit is confusion",
+      "Only function"
+     ],
+     "correct_index": 2,
+     "explanation": "It violates unity of command."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Organising – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A project organisation is:",
+     "options": [
+      "A permanent structure",
+      "A line structure",
+      "A temporary structure formed for a specific project that is disbanded afterwards",
+      "A committee"
+     ],
+     "correct_index": 2,
+     "explanation": "Examples: building a bridge."
+    },
+    {
+     "question_text": "A committee is:",
+     "options": [
+      "A single manager",
+      "A department",
+      "One person",
+      "A group of persons assigned to consider and decide on a particular matter; types include standing, ad hoc, line and staff"
+     ],
+     "correct_index": 3,
+     "explanation": "It is used for group decisions."
+    },
+    {
+     "question_text": "A merit of a committee is _____, and a demerit is _____:",
+     "options": [
+      "Speed; unity",
+      "Unity; delay",
+      "Delay; wisdom",
+      "Group wisdom and coordination; delay and divided responsibility"
+     ],
+     "correct_index": 3,
+     "explanation": "Committees are slow but pool experience."
+    },
+    {
+     "question_text": "A network organisation:",
+     "options": [
+      "Relies on outside firms for many functions and coordinates through contracts",
+      "Has a hierarchy only",
+      "Does everything in-house",
+      "Has no partners"
+     ],
+     "correct_index": 0,
+     "explanation": "It is flexible and lean."
+    },
+    {
+     "question_text": "A virtual organisation:",
+     "options": [
+      "Is a large physical firm",
+      "Is a family business",
+      "Is a temporary network of independent firms linked through information technology",
+      "Has no technology"
+     ],
+     "correct_index": 2,
+     "explanation": "Members join to exploit opportunities."
+    },
+    {
+     "question_text": "A team-based structure is:",
+     "options": [
+      "Based on rigid levels",
+      "Based on one manager",
+      "An organisation built around self-managed teams and cross-functional groups",
+      "Based on committees"
+     ],
+     "correct_index": 2,
+     "explanation": "It encourages empowerment."
+    },
+    {
+     "question_text": "A boundaryless organisation:",
+     "options": [
+      "Has no employees",
+      "Has many rigid boundaries",
+      "Has many levels",
+      "Removes vertical, horizontal and external boundaries to improve flexibility"
+     ],
+     "correct_index": 3,
+     "explanation": "Used by firms like GE."
+    },
+    {
+     "question_text": "A tall structure has _____ levels and _____ span of control, while a flat structure has _____ levels and _____ span:",
+     "options": [
+      "Many; wide; few; narrow",
+      "Few; wide; many; narrow",
+      "Many; narrow; few; wide",
+      "Few; narrow; many; wide"
+     ],
+     "correct_index": 2,
+     "explanation": "Tall structures slow communication."
+    },
+    {
+     "question_text": "The structure that suits a small firm is:",
+     "options": [
+      "Line, because it is simple, quick and economical",
+      "Network",
+      "Matrix",
+      "Divisional"
+     ],
+     "correct_index": 0,
+     "explanation": "Few employees and simple tasks."
+    },
+    {
+     "question_text": "The structure that suits a diversified firm is:",
+     "options": [
+      "Divisional, because each product or market is managed separately",
+      "Functional",
+      "Committee",
+      "Line"
+     ],
+     "correct_index": 0,
+     "explanation": "It allows accountability for each division."
+    },
+    {
+     "question_text": "Authority is:",
+     "options": [
+      "The ability to influence",
+      "The legitimate right to give orders and take decisions",
+      "The duty to perform",
+      "The responsibility"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the right to command."
+    },
+    {
+     "question_text": "Authority differs from power in that authority is:",
+     "options": [
+      "Informal",
+      "Without legitimacy",
+      "Formal and legitimate, while power is the ability to influence regardless of position",
+      "Without hierarchy"
+     ],
+     "correct_index": 2,
+     "explanation": "Power can come from expertise."
+    },
+    {
+     "question_text": "Responsibility is:",
+     "options": [
+      "A reward",
+      "The right to command",
+      "The power to punish",
+      "The obligation to perform an assigned duty"
+     ],
+     "correct_index": 3,
+     "explanation": "It flows upward."
+    },
+    {
+     "question_text": "Accountability is:",
+     "options": [
+      "A reward",
+      "A duty",
+      "The answerability for the outcome of the duty assigned",
+      "The right to order"
+     ],
+     "correct_index": 2,
+     "explanation": "It cannot be delegated."
+    },
+    {
+     "question_text": "Authority flows _____, responsibility flows _____, and accountability _____:",
+     "options": [
+      "Downward; downward; is delegated",
+      "Upward; upward; is nil",
+      "Upward; downward; can be delegated",
+      "Downward; upward; is for results and cannot be delegated"
+     ],
+     "correct_index": 3,
+     "explanation": "Each concept has a distinct direction."
+    },
+    {
+     "question_text": "Accountability cannot be delegated because:",
+     "options": [
+      "The superior remains answerable for results even after delegating the work",
+      "The superior has no duty",
+      "It is a right",
+      "It is a power"
+     ],
+     "correct_index": 0,
+     "explanation": "He can only delegate the task and authority."
+    },
+    {
+     "question_text": "Line authority is the:",
+     "options": [
+      "Direct authority over subordinates, staff authority is the right to advise, and functional authority is control over a specific function in other departments",
+      "Authority of a staff",
+      "None",
+      "Authority to advise"
+     ],
+     "correct_index": 0,
+     "explanation": "Functional authority is limited to specified matters."
+    },
+    {
+     "question_text": "French and Raven's five bases of power are:",
+     "options": [
+      "Planning, organising, staffing, directing, controlling",
+      "Money, materials, men, machines, methods",
+      "Reward, coercive, legitimate, expert and referent",
+      "Line, staff, functional, matrix, project"
+     ],
+     "correct_index": 2,
+     "explanation": "Legitimate power comes from position."
+    },
+    {
+     "question_text": "Delegation is:",
+     "options": [
+      "Entrusting authority to a subordinate to perform tasks",
+      "Controlling the subordinate",
+      "Centralising authority",
+      "Giving up responsibility"
+     ],
+     "correct_index": 0,
+     "explanation": "Responsibility is shared and accountability remains."
+    },
+    {
+     "question_text": "The elements of delegation are:",
+     "options": [
+      "Reward, coercion, expertise",
+      "Line, staff, function",
+      "Planning, directing, controlling",
+      "Authority, responsibility and accountability"
+     ],
+     "correct_index": 3,
+     "explanation": "All three should be matched."
+    },
+    {
+     "question_text": "The first step in the process of delegation is:",
+     "options": [
+      "Controlling",
+      "Departmentalisation",
+      "Assigning duties to the subordinate",
+      "Rewarding"
+     ],
+     "correct_index": 2,
+     "explanation": "Then grant authority and create accountability."
+    },
+    {
+     "question_text": "Delegation is important because it:",
+     "options": [
+      "Reduces the manager's workload and develops subordinates",
+      "Removes accountability",
+      "Reduces motivation",
+      "Increases workload"
+     ],
+     "correct_index": 0,
+     "explanation": "It also speeds decision making."
+    },
+    {
+     "question_text": "A principle of delegation is:",
+     "options": [
+      "Authority should match responsibility",
+      "Responsibility without authority",
+      "Authority should be unlimited",
+      "Delegation of accountability"
+     ],
+     "correct_index": 0,
+     "explanation": "Also unity of command and clear definition of tasks."
+    },
+    {
+     "question_text": "A barrier to delegation is:",
+     "options": [
+      "Training",
+      "Fear of losing control and lack of trust in subordinates",
+      "Clear goals",
+      "Trust"
+     ],
+     "correct_index": 1,
+     "explanation": "Managers may also fear being outshone."
+    },
+    {
+     "question_text": "Delegation differs from decentralisation in that delegation is:",
+     "options": [
+      "Organisation-wide",
+      "Systematic dispersal",
+      "A process of assigning authority to individuals, while decentralisation is a policy of systematic dispersal of authority",
+      "A policy"
+     ],
+     "correct_index": 2,
+     "explanation": "Delegation is necessary for decentralisation."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Organising – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Which is correct?",
+     "options": [
+      "Delegation is a process and a compulsion; decentralisation is a policy and a choice",
+      "Decentralisation is a process",
+      "Delegation is a policy",
+      "Both are the same"
+     ],
+     "correct_index": 0,
+     "explanation": "Decentralisation is an organisation-wide approach."
+    },
+    {
+     "question_text": "Centralisation is:",
+     "options": [
+      "Concentration of decision-making authority at the top",
+      "No authority",
+      "Delegation of every task",
+      "Dispersal of authority"
+     ],
+     "correct_index": 0,
+     "explanation": "Few decisions are taken at lower levels."
+    },
+    {
+     "question_text": "Decentralisation is:",
+     "options": [
+      "No authority",
+      "Systematic dispersal of authority to lower levels",
+      "Concentration at the top",
+      "Abolition of authority"
+     ],
+     "correct_index": 1,
+     "explanation": "Decision making is shared."
+    },
+    {
+     "question_text": "Centralisation differs from decentralisation in that centralisation:",
+     "options": [
+      "Delegates all",
+      "Is a policy of delegation",
+      "Spreads decisions",
+      "Keeps decisions at the top, while decentralisation spreads them to lower levels"
+     ],
+     "correct_index": 3,
+     "explanation": "Both are matters of degree."
+    },
+    {
+     "question_text": "An advantage of centralisation is:",
+     "options": [
+      "Motivated staff",
+      "Training of managers",
+      "Quick local decisions",
+      "Uniformity of policy and strong control"
+     ],
+     "correct_index": 3,
+     "explanation": "It reduces duplication."
+    },
+    {
+     "question_text": "An advantage of decentralisation is:",
+     "options": [
+      "Tighter control",
+      "Less delegation",
+      "Faster decisions and development of managers",
+      "Uniformity"
+     ],
+     "correct_index": 2,
+     "explanation": "It reduces burden on top managers."
+    },
+    {
+     "question_text": "A disadvantage of decentralisation is:",
+     "options": [
+      "Quick decisions",
+      "Motivation",
+      "Difficulty in coordination and risk of lack of uniformity",
+      "Training"
+     ],
+     "correct_index": 2,
+     "explanation": "Control becomes harder."
+    },
+    {
+     "question_text": "The degree of decentralisation depends on:",
+     "options": [
+      "Price",
+      "Size of the firm, nature of work and the quality of managers",
+      "Tax rates only",
+      "Colour of walls"
+     ],
+     "correct_index": 1,
+     "explanation": "Also the importance of decisions."
+    },
+    {
+     "question_text": "The span of control is:",
+     "options": [
+      "The length of a project",
+      "The number of departments",
+      "The number of subordinates a manager can effectively supervise",
+      "The number of levels"
+     ],
+     "correct_index": 2,
+     "explanation": "It affects structure."
+    },
+    {
+     "question_text": "A narrow span means _____ and a wide span means _____:",
+     "options": [
+      "Few subordinates, tall structure; many subordinates, flat structure",
+      "Many subordinates; few",
+      "Few levels; many levels",
+      "Flat; tall"
+     ],
+     "correct_index": 0,
+     "explanation": "Narrow span means closer supervision."
+    },
+    {
+     "question_text": "The wider the span of control, the _____ the number of organisational levels:",
+     "options": [
+      "Same",
+      "Infinite",
+      "More",
+      "Fewer"
+     ],
+     "correct_index": 3,
+     "explanation": "They are inversely related."
+    },
+    {
+     "question_text": "Graicunas' formula for the number of relationships is:",
+     "options": [
+      "R = n[2^(n−1) + (n−1)]",
+      "R = n²",
+      "R = 2n",
+      "R = n(n−1)"
+     ],
+     "correct_index": 0,
+     "explanation": "n is the number of subordinates."
+    },
+    {
+     "question_text": "For n = 3, Graicunas' relationships are:",
+     "options": [
+      "9",
+      "18",
+      "12",
+      "24"
+     ],
+     "correct_index": 1,
+     "explanation": "3 × (4 + 2) = 18."
+    },
+    {
+     "question_text": "For n = 4, Graicunas' relationships are:",
+     "options": [
+      "32",
+      "16",
+      "44",
+      "24"
+     ],
+     "correct_index": 2,
+     "explanation": "4 × (8 + 3) = 44."
+    },
+    {
+     "question_text": "For n = 5, Graicunas' relationships are:",
+     "options": [
+      "25",
+      "75",
+      "100",
+      "50"
+     ],
+     "correct_index": 2,
+     "explanation": "5 × (16 + 4) = 100."
+    },
+    {
+     "question_text": "For n = 6, Graicunas' relationships are:",
+     "options": [
+      "222",
+      "180",
+      "36",
+      "100"
+     ],
+     "correct_index": 0,
+     "explanation": "6 × (32 + 5) = 222."
+    },
+    {
+     "question_text": "The Graicunas relationships include:",
+     "options": [
+      "Upward and downward",
+      "Direct single, direct group and cross relationships",
+      "Formal and informal",
+      "Line, staff and function"
+     ],
+     "correct_index": 1,
+     "explanation": "They grow rapidly as subordinates increase."
+    },
+    {
+     "question_text": "Factors affecting the span of control include:",
+     "options": [
+      "Tax",
+      "Nature of work, ability of the manager and subordinates, and the degree of delegation",
+      "Weather",
+      "Colour of the building"
+     ],
+     "correct_index": 1,
+     "explanation": "Also the clarity of plans and communication."
+    },
+    {
+     "question_text": "Delegation _____ the span of control:",
+     "options": [
+      "Does not affect",
+      "Eliminates",
+      "Narrows",
+      "Widens (increases it)"
+     ],
+     "correct_index": 3,
+     "explanation": "Delegated tasks free the manager's time."
+    },
+    {
+     "question_text": "The optimum span of control:",
+     "options": [
+      "Is always 2",
+      "Is always 1",
+      "Is always 100",
+      "Depends on the situation; there is no single ideal number (often about 5 to 8 at top levels)"
+     ],
+     "correct_index": 3,
+     "explanation": "It differs by level and work type."
+    },
+    {
+     "question_text": "MBO is:",
+     "options": [
+      "Management by Orders",
+      "Management by Operations",
+      "Management by Objectives, a system where managers and subordinates jointly set objectives and review progress",
+      "Management by Observation"
+     ],
+     "correct_index": 2,
+     "explanation": "It focuses on results."
+    },
+    {
+     "question_text": "MBO was popularised by:",
+     "options": [
+      "Henri Fayol",
+      "F.W. Taylor",
+      "Max Weber",
+      "Peter Drucker"
+     ],
+     "correct_index": 3,
+     "explanation": "In The Practice of Management (1954)."
+    },
+    {
+     "question_text": "A feature of MBO is:",
+     "options": [
+      "No goals",
+      "Orders from the top only",
+      "Joint goal setting, participation and periodic review",
+      "No review"
+     ],
+     "correct_index": 2,
+     "explanation": "It links objectives to individual performance."
+    },
+    {
+     "question_text": "The first step of MBO is:",
+     "options": [
+      "Setting organisational objectives",
+      "Reviewing results",
+      "Rewarding",
+      "Appraising"
+     ],
+     "correct_index": 0,
+     "explanation": "Then set individual goals, monitor, evaluate and reward."
+    },
+    {
+     "question_text": "A benefit of MBO is:",
+     "options": [
+      "No evaluation",
+      "Less coordination",
+      "Improved motivation and clarity of goals",
+      "More confusion"
+     ],
+     "correct_index": 2,
+     "explanation": "It also improves communication."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Organising – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A limitation of MBO is:",
+     "options": [
+      "It is quick",
+      "It ignores goals",
+      "It is time-consuming and may focus on short-term quantifiable goals",
+      "It is costless"
+     ],
+     "correct_index": 2,
+     "explanation": "Goals may be difficult to set."
+    },
+    {
+     "question_text": "MBE is:",
+     "options": [
+      "Management by Objectives",
+      "Management by Experts",
+      "Management by Exception, where managers deal only with significant deviations from plan",
+      "Management by Examples"
+     ],
+     "correct_index": 2,
+     "explanation": "Routine matters are left to subordinates."
+    },
+    {
+     "question_text": "The exception principle was developed by:",
+     "options": [
+      "Fayol",
+      "Mayo",
+      "Peter Drucker",
+      "F.W. Taylor"
+     ],
+     "correct_index": 3,
+     "explanation": "It is one of Taylor's principles."
+    },
+    {
+     "question_text": "The steps in MBE include:",
+     "options": [
+      "Ignoring deviations",
+      "Planning only",
+      "Rewarding all",
+      "Setting standards and tolerance limits, measuring performance and acting on significant deviations"
+     ],
+     "correct_index": 3,
+     "explanation": "Only exceptions are reported."
+    },
+    {
+     "question_text": "A benefit of MBE is _____, and a limitation is _____:",
+     "options": [
+      "Wasting time; clarity",
+      "Delay; speed",
+      "Saving the manager's time; difficulty of defining exceptions",
+      "Cost; benefit"
+     ],
+     "correct_index": 2,
+     "explanation": "Ignoring minor issues may let them grow."
+    },
+    {
+     "question_text": "MBO differs from MBE in that MBO focuses on:",
+     "options": [
+      "Hiring",
+      "Deviations",
+      "Goal setting and results, while MBE focuses on deviations",
+      "Rewards"
+     ],
+     "correct_index": 2,
+     "explanation": "MBE is a control technique."
+    },
+    {
+     "question_text": "MBE is related to controlling because:",
+     "options": [
+      "It is planning",
+      "It is organising",
+      "It is staffing",
+      "It is a control technique that acts on deviations from standards"
+     ],
+     "correct_index": 3,
+     "explanation": "Only significant variances need attention."
+    },
+    {
+     "question_text": "MBO improves motivation because:",
+     "options": [
+      "Goals are secret",
+      "Orders are imposed",
+      "Goals are not reviewed",
+      "Employees participate in setting goals and know what is expected"
+     ],
+     "correct_index": 3,
+     "explanation": "They feel ownership of goals."
+    },
+    {
+     "question_text": "MBE saves the manager's time by:",
+     "options": [
+      "Doing all work",
+      "Handling everything",
+      "Letting subordinates handle routine matters while the manager handles exceptions",
+      "Ignoring all tasks"
+     ],
+     "correct_index": 2,
+     "explanation": "Managers focus on key issues."
+    },
+    {
+     "question_text": "Accountability in MBO is ensured by:",
+     "options": [
+      "Not reviewing",
+      "Ignoring results",
+      "Not setting goals",
+      "Linking results to the objectives agreed and reviewing them"
+     ],
+     "correct_index": 3,
+     "explanation": "Subordinates answer for their goals."
+    },
+    {
+     "question_text": "A company that uses a divisional structure is, for example:",
+     "options": [
+      "A club",
+      "A school",
+      "A single-shop firm",
+      "A conglomerate with separate divisions for each product line"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., Tata Group, Reliance."
+    },
+    {
+     "question_text": "A matrix structure is used, for example, in:",
+     "options": [
+      "A tea stall",
+      "Engineering and aerospace firms managing multiple projects",
+      "A small shop",
+      "A family business"
+     ],
+     "correct_index": 1,
+     "explanation": "Employees report to project and functional heads."
+    },
+    {
+     "question_text": "An example of departmentalisation by function is:",
+     "options": [
+      "Departments for each product",
+      "Production, marketing, finance and HR departments",
+      "Departments for each customer",
+      "Departments for each city"
+     ],
+     "correct_index": 1,
+     "explanation": "It groups similar activities."
+    },
+    {
+     "question_text": "The line structure suits the military because:",
+     "options": [
+      "Clear chain of command and discipline are required",
+      "Flexibility is needed",
+      "Teamwork is needed",
+      "Committees are needed"
+     ],
+     "correct_index": 0,
+     "explanation": "Orders must flow quickly from top to bottom."
+    },
+    {
+     "question_text": "The functional structure violates unity of command because:",
+     "options": [
+      "A subordinate receives orders from several specialists",
+      "There is one boss",
+      "There is no authority",
+      "There is no boss"
+     ],
+     "correct_index": 0,
+     "explanation": "Confusion may arise."
+    },
+    {
+     "question_text": "Staff specialists help line managers by:",
+     "options": [
+      "Providing expert advice, research and services",
+      "Replacing the line",
+      "Operating machines",
+      "Commanding workers"
+     ],
+     "correct_index": 0,
+     "explanation": "They have no direct command."
+    },
+    {
+     "question_text": "Line and staff conflict is caused by:",
+     "options": [
+      "Common goals",
+      "Differences in authority, background and perceptions of each other",
+      "Cooperation",
+      "Same authority"
+     ],
+     "correct_index": 1,
+     "explanation": "Staff may feel line ignores advice."
+    },
+    {
+     "question_text": "Line and staff conflict can be resolved by:",
+     "options": [
+      "Abolishing line",
+      "Clear definition of roles, giving staff responsibility for advice and involving line in planning",
+      "Ignoring conflict",
+      "Abolishing staff"
+     ],
+     "correct_index": 1,
+     "explanation": "Communication helps."
+    },
+    {
+     "question_text": "The role of an organisation chart is to:",
+     "options": [
+      "Show the structure, authority relationships and the flow of reporting",
+      "Show sales",
+      "Show costs",
+      "Show profit"
+     ],
+     "correct_index": 0,
+     "explanation": "It clarifies who reports to whom."
+    },
+    {
+     "question_text": "The scalar chain is used in organising to:",
+     "options": [
+      "Set prices",
+      "Fix wages",
+      "Create departments",
+      "Define the line of authority from top to bottom for communication and command"
+     ],
+     "correct_index": 3,
+     "explanation": "Fayol's principle."
+    },
+    {
+     "question_text": "The principle of parity of authority and responsibility means:",
+     "options": [
+      "Responsibility exceeds authority",
+      "Authority exceeds responsibility",
+      "They are unrelated",
+      "Authority should be equal to responsibility"
+     ],
+     "correct_index": 3,
+     "explanation": "Otherwise misuse or ineffectiveness results."
+    },
+    {
+     "question_text": "The principle of unity of command in organising means:",
+     "options": [
+      "Boss for each function",
+      "No boss",
+      "One person has many bosses",
+      "Each person should report to one superior"
+     ],
+     "correct_index": 3,
+     "explanation": "It avoids conflicting orders."
+    },
+    {
+     "question_text": "The principle of exception states that:",
+     "options": [
+      "Managers should concentrate on exceptional matters and leave routine to subordinates",
+      "Delegate everything",
+      "Handle all matters",
+      "Ignore all matters"
+     ],
+     "correct_index": 0,
+     "explanation": "It supports delegation."
+    },
+    {
+     "question_text": "Organising is important for coordination because:",
+     "options": [
+      "It removes duties",
+      "It ignores objectives",
+      "It separates activities",
+      "It defines roles and links activities so that efforts are integrated"
+     ],
+     "correct_index": 3,
+     "explanation": "Structure channels coordination."
+    },
+    {
+     "question_text": "The organisation structure affects communication because:",
+     "options": [
+      "It eliminates communication",
+      "It does not affect",
+      "It makes everyone equal",
+      "It determines the channels, levels and speed of communication"
+     ],
+     "correct_index": 3,
+     "explanation": "Tall structures slow it; flat ones speed it."
+    }
+   ]
+  }
+ ]
+}

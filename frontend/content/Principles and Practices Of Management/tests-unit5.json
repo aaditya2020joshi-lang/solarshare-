@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 5: Directing – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Directing is the management function of:",
+     "options": [
+      "Selecting staff",
+      "Preparing budgets",
+      "Instructing, guiding, motivating and leading people to achieve organisational objectives",
+      "Setting goals"
+     ],
+     "correct_index": 2,
+     "explanation": "It initiates action in the organisation."
+    },
+    {
+     "question_text": "Directing is called the heart of management because:",
+     "options": [
+      "It is optional",
+      "It is the last function",
+      "It is the first function",
+      "It initiates action and brings plans to life"
+     ],
+     "correct_index": 3,
+     "explanation": "Other functions are meaningless without it."
+    },
+    {
+     "question_text": "A feature of directing is that it:",
+     "options": [
+      "Is only for top managers",
+      "Initiates action, operates at every level and is a continuous process",
+      "Is done once",
+      "Ends at planning"
+     ],
+     "correct_index": 1,
+     "explanation": "It flows from top to bottom."
+    },
+    {
+     "question_text": "The elements of directing are:",
+     "options": [
+      "Reward, coercion, expertise",
+      "Planning, organising, staffing",
+      "Policy, rule, procedure",
+      "Supervision, motivation, leadership and communication"
+     ],
+     "correct_index": 3,
+     "explanation": "Each helps guide employee behaviour."
+    },
+    {
+     "question_text": "A principle of directing is:",
+     "options": [
+      "Harmony of objectives, unity of command and maximum individual contribution",
+      "No communication",
+      "Maximum conflict",
+      "Many commands"
+     ],
+     "correct_index": 0,
+     "explanation": "Also appropriateness of direction techniques."
+    },
+    {
+     "question_text": "The importance of directing lies in that it:",
+     "options": [
+      "Removes leadership",
+      "Initiates action, integrates efforts and provides stability",
+      "Removes motivation",
+      "Hinders work"
+     ],
+     "correct_index": 1,
+     "explanation": "It helps employees give their best."
+    },
+    {
+     "question_text": "Leadership is:",
+     "options": [
+      "The process of influencing people to willingly work for group goals",
+      "Controlling costs",
+      "Giving orders",
+      "Hiring staff"
+     ],
+     "correct_index": 0,
+     "explanation": "It is based on influence."
+    },
+    {
+     "question_text": "A feature of leadership is that it:",
+     "options": [
+      "Needs no followers",
+      "Is fixed",
+      "Is only formal",
+      "Is based on influence, involves followers and is situational"
+     ],
+     "correct_index": 3,
+     "explanation": "It also involves common goals."
+    },
+    {
+     "question_text": "Leadership is important because it:",
+     "options": [
+      "Motivates, guides and builds morale and team spirit",
+      "Reduces motivation",
+      "Divides groups",
+      "Removes goals"
+     ],
+     "correct_index": 0,
+     "explanation": "It helps manage change."
+    },
+    {
+     "question_text": "A quality of a good leader is:",
+     "options": [
+      "Lack of vision",
+      "Indecision",
+      "Dishonesty",
+      "Integrity, vision, communication skills and decisiveness"
+     ],
+     "correct_index": 3,
+     "explanation": "Also emotional stability and empathy."
+    },
+    {
+     "question_text": "Managers differ from leaders in that managers:",
+     "options": [
+      "Lead only",
+      "Have no authority",
+      "Are appointed with formal authority and focus on tasks, while leaders influence people and focus on vision",
+      "Never manage"
+     ],
+     "correct_index": 2,
+     "explanation": "Both roles can overlap."
+    },
+    {
+     "question_text": "A manager can also be a leader if they:",
+     "options": [
+      "Avoid vision",
+      "Avoid people",
+      "Influence and inspire their team beyond formal authority",
+      "Use only orders"
+     ],
+     "correct_index": 2,
+     "explanation": "Ideal managers do both."
+    },
+    {
+     "question_text": "An autocratic leader:",
+     "options": [
+      "Takes decisions alone and expects obedience; merit is speed, demerit is low morale",
+      "Gives total freedom",
+      "Cares for people only",
+      "Shares decisions"
+     ],
+     "correct_index": 0,
+     "explanation": "Suitable in crises."
+    },
+    {
+     "question_text": "A democratic leader:",
+     "options": [
+      "Involves subordinates in decision making; merit is high morale, demerit is slow decisions",
+      "Gives total freedom",
+      "Decides alone",
+      "Is dictatorial"
+     ],
+     "correct_index": 0,
+     "explanation": "Also called participative."
+    },
+    {
+     "question_text": "A laissez-faire leader:",
+     "options": [
+      "Decides alone",
+      "Gives complete freedom to subordinates; merit is creativity, demerit is lack of direction",
+      "Is democratic",
+      "Is paternalistic"
+     ],
+     "correct_index": 1,
+     "explanation": "It suits highly skilled and motivated groups."
+    },
+    {
+     "question_text": "A paternalistic leader:",
+     "options": [
+      "Acts like a father, caring for and protecting subordinates while expecting loyalty",
+      "Is a dictator",
+      "Ignores people",
+      "Gives full freedom"
+     ],
+     "correct_index": 0,
+     "explanation": "Decisions are still made by the leader."
+    },
+    {
+     "question_text": "In a comparison of styles, the leader's control is:",
+     "options": [
+      "Equal in all",
+      "Highest in autocratic, lowest in laissez-faire",
+      "Absent in autocratic",
+      "Highest in laissez-faire"
+     ],
+     "correct_index": 1,
+     "explanation": "Democratic is in between."
+    },
+    {
+     "question_text": "The style best suited to a crisis is:",
+     "options": [
+      "Democratic",
+      "Laissez-faire",
+      "Paternalistic",
+      "Autocratic"
+     ],
+     "correct_index": 3,
+     "explanation": "Quick decisions are needed."
+    },
+    {
+     "question_text": "The style that suits a team of experts is:",
+     "options": [
+      "Paternalistic",
+      "Dictatorial",
+      "Autocratic",
+      "Laissez-faire (or democratic)"
+     ],
+     "correct_index": 3,
+     "explanation": "Experts need freedom."
+    },
+    {
+     "question_text": "Transformational leadership:",
+     "options": [
+      "Uses only punishment",
+      "Uses only rewards",
+      "Is autocratic",
+      "Inspires followers to transcend self-interest and achieve a shared vision"
+     ],
+     "correct_index": 3,
+     "explanation": "It brings change."
+    },
+    {
+     "question_text": "Transactional leadership:",
+     "options": [
+      "Is inspirational only",
+      "Is laissez-faire",
+      "Is based on exchange: rewards for performance and punishment for failure",
+      "Is paternalistic"
+     ],
+     "correct_index": 2,
+     "explanation": "It focuses on routine tasks."
+    },
+    {
+     "question_text": "Charismatic leadership relies on:",
+     "options": [
+      "Position",
+      "Rules",
+      "The leader's personal appeal and ability to inspire",
+      "Rewards"
+     ],
+     "correct_index": 2,
+     "explanation": "Followers identify with the leader."
+    },
+    {
+     "question_text": "Servant leadership puts:",
+     "options": [
+      "The leader first",
+      "Profit first",
+      "The needs of followers and the community first",
+      "Rules first"
+     ],
+     "correct_index": 2,
+     "explanation": "The leader serves the team."
+    },
+    {
+     "question_text": "The choice of leadership style depends on:",
+     "options": [
+      "The weather",
+      "Only the leader",
+      "The colour",
+      "The leader, the followers and the situation"
+     ],
+     "correct_index": 3,
+     "explanation": "No single style is best."
+    },
+    {
+     "question_text": "The trait theory of leadership holds that:",
+     "options": [
+      "Traits are irrelevant",
+      "Leaders are made",
+      "Situation decides",
+      "Leaders are born with certain traits; a limitation is that traits alone do not guarantee leadership"
+     ],
+     "correct_index": 3,
+     "explanation": "It ignores situational factors."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Directing – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The Great Man theory says that:",
+     "options": [
+      "Leadership is situational",
+      "Anyone can lead",
+      "Leaders are born, not made, with exceptional qualities",
+      "Leaders are made"
+     ],
+     "correct_index": 2,
+     "explanation": "It is an early theory."
+    },
+    {
+     "question_text": "The Ohio State studies identified two dimensions:",
+     "options": [
+      "Reward and coercion",
+      "Initiating structure and consideration",
+      "Power and politics",
+      "Task and relationship"
+     ],
+     "correct_index": 1,
+     "explanation": "They explained leader behaviour."
+    },
+    {
+     "question_text": "The University of Michigan studies identified:",
+     "options": [
+      "Employee-oriented and production-oriented leaders",
+      "Autocratic and democratic leaders",
+      "Task and goals",
+      "Directive and supportive"
+     ],
+     "correct_index": 0,
+     "explanation": "Employee-oriented leaders were more effective."
+    },
+    {
+     "question_text": "Lewin's classification of leaders is:",
+     "options": [
+      "Directive, supportive",
+      "Transformational, transactional",
+      "Autocratic, democratic and laissez-faire",
+      "Task, relationship"
+     ],
+     "correct_index": 2,
+     "explanation": "Based on leader behaviour toward decision making."
+    },
+    {
+     "question_text": "Blake and Mouton's Managerial Grid plots:",
+     "options": [
+      "Position and expertise",
+      "Concern for people and concern for production on 1–9 scales",
+      "Reward and power",
+      "Task and structure"
+     ],
+     "correct_index": 1,
+     "explanation": "It identifies five main styles."
+    },
+    {
+     "question_text": "The 9,9 style is:",
+     "options": [
+      "Impoverished",
+      "Authority-compliance",
+      "Team management, with high concern for both people and production",
+      "Country club"
+     ],
+     "correct_index": 2,
+     "explanation": "It is considered the best style."
+    },
+    {
+     "question_text": "The 1,1 style is _____, 9,1 is _____, and 1,9 is _____:",
+     "options": [
+      "Impoverished; authority-compliance (task); country club",
+      "Middle; task; team",
+      "Team; impoverished; middle",
+      "Country club; task; team"
+     ],
+     "correct_index": 0,
+     "explanation": "These are the extreme styles of the grid."
+    },
+    {
+     "question_text": "Likert's four systems are:",
+     "options": [
+      "Task, relationship",
+      "Exploitative-authoritative, benevolent-authoritative, consultative and participative",
+      "Directive, supportive",
+      "Autocratic, democratic"
+     ],
+     "correct_index": 1,
+     "explanation": "System 4 is considered the best."
+    },
+    {
+     "question_text": "Fiedler's contingency model states that leadership effectiveness depends on:",
+     "options": [
+      "Followers alone",
+      "Pay",
+      "The leader's traits alone",
+      "The match between the leader's style and the situation"
+     ],
+     "correct_index": 3,
+     "explanation": "He used the LPC scale."
+    },
+    {
+     "question_text": "The LPC (Least Preferred Co-worker) scale measures:",
+     "options": [
+      "Age",
+      "Skills",
+      "The leader's style: task-oriented or relationship-oriented",
+      "Intelligence"
+     ],
+     "correct_index": 2,
+     "explanation": "A high LPC means a relationship orientation."
+    },
+    {
+     "question_text": "The situational variables in Fiedler's model are:",
+     "options": [
+      "Leader–member relations, task structure and position power",
+      "Age, sex, height",
+      "Pay, perks, bonus",
+      "Reward, coercion, expertise"
+     ],
+     "correct_index": 0,
+     "explanation": "They determine situation favourableness."
+    },
+    {
+     "question_text": "Hersey–Blanchard's situational leadership says the leader's style should match:",
+     "options": [
+      "The maturity (readiness) of the followers: telling, selling, participating, delegating",
+      "The market",
+      "The leader's traits",
+      "The firm's size"
+     ],
+     "correct_index": 0,
+     "explanation": "Four styles for four levels of readiness."
+    },
+    {
+     "question_text": "House's path–goal theory states that a leader:",
+     "options": [
+      "Sets pay",
+      "Sets prices",
+      "Clears the path to goals by providing direction, support, participation or achievement orientation",
+      "Fires staff"
+     ],
+     "correct_index": 2,
+     "explanation": "The style depends on the situation."
+    },
+    {
+     "question_text": "The leader–member exchange (LMX) theory focuses on:",
+     "options": [
+      "The organisation structure",
+      "The quality of the relationship between leader and each individual follower",
+      "Task design",
+      "Pay"
+     ],
+     "correct_index": 1,
+     "explanation": "Leaders form in-groups and out-groups."
+    },
+    {
+     "question_text": "Emotional intelligence is important for a leader because it:",
+     "options": [
+      "Replaces IQ",
+      "Is irrelevant",
+      "Helps them understand their own and others' emotions and manage relationships",
+      "Removes the need for skills"
+     ],
+     "correct_index": 2,
+     "explanation": "Goleman identified self-awareness, self-regulation, motivation, empathy and social skills."
+    },
+    {
+     "question_text": "Motivation is:",
+     "options": [
+      "Controlling",
+      "Selecting",
+      "The process of stimulating people to act to achieve goals",
+      "Planning"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a psychological process."
+    },
+    {
+     "question_text": "A motive differs from motivation in that a motive is:",
+     "options": [
+      "An incentive",
+      "A reward",
+      "An inner drive, while motivation is the process of arousing it",
+      "The process"
+     ],
+     "correct_index": 2,
+     "explanation": "Motives are the reasons for behaviour."
+    },
+    {
+     "question_text": "A feature of motivation is that it:",
+     "options": [
+      "Is one-time",
+      "Is imposed",
+      "Is a psychological, continuous and goal-directed process",
+      "Is a physical process"
+     ],
+     "correct_index": 2,
+     "explanation": "It cannot be forced."
+    },
+    {
+     "question_text": "The importance of motivation includes:",
+     "options": [
+      "Improved performance, reduced turnover and better morale",
+      "Increased conflict",
+      "Increased absenteeism",
+      "Reduced output"
+     ],
+     "correct_index": 0,
+     "explanation": "It helps achieve goals."
+    },
+    {
+     "question_text": "The motivation process starts with:",
+     "options": [
+      "An unsatisfied need",
+      "Reward",
+      "Satisfaction",
+      "Goal achievement"
+     ],
+     "correct_index": 0,
+     "explanation": "Then tension, drive, search behaviour and satisfaction."
+    },
+    {
+     "question_text": "Intrinsic motivation differs from extrinsic in that it comes from:",
+     "options": [
+      "Within the person (interest, achievement), while extrinsic comes from external rewards",
+      "Punishment",
+      "External rewards",
+      "Pay"
+     ],
+     "correct_index": 0,
+     "explanation": "Extrinsic includes pay and promotion."
+    },
+    {
+     "question_text": "Positive motivation uses _____, and negative motivation uses _____:",
+     "options": [
+      "Rewards and incentives; fear and punishment",
+      "Praise; pay",
+      "Fear; rewards",
+      "Pay; bonus"
+     ],
+     "correct_index": 0,
+     "explanation": "Positive is usually more effective."
+    },
+    {
+     "question_text": "Financial incentives include:",
+     "options": [
+      "Pay, bonus, profit sharing and stock options",
+      "Job security",
+      "Recognition",
+      "Praise"
+     ],
+     "correct_index": 0,
+     "explanation": "They are monetary rewards."
+    },
+    {
+     "question_text": "Non-financial incentives include:",
+     "options": [
+      "Pay",
+      "Stock options",
+      "Bonus",
+      "Recognition, job security and participation"
+     ],
+     "correct_index": 3,
+     "explanation": "They satisfy higher-order needs."
+    },
+    {
+     "question_text": "Maslow's hierarchy of needs consists of:",
+     "options": [
+      "Achievement, power, affiliation",
+      "Existence, relatedness, growth",
+      "Physiological, safety, social, esteem and self-actualisation needs",
+      "Hygiene and motivators"
+     ],
+     "correct_index": 2,
+     "explanation": "Lower needs must be satisfied first."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Directing – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "At the workplace, a pay raise satisfies mainly the _____ needs, and recognition satisfies _____:",
+     "options": [
+      "Physiological/safety; esteem",
+      "Safety; social",
+      "Social; safety",
+      "Esteem; physiological"
+     ],
+     "correct_index": 0,
+     "explanation": "Pyramid levels match needs."
+    },
+    {
+     "question_text": "An assumption of Maslow's theory is that:",
+     "options": [
+      "All needs are equal",
+      "Needs are fixed",
+      "Only one need exists",
+      "A satisfied need no longer motivates and people move up the hierarchy"
+     ],
+     "correct_index": 3,
+     "explanation": "Needs are arranged in order of importance."
+    },
+    {
+     "question_text": "A criticism of Maslow's theory is that:",
+     "options": [
+      "It is perfectly proven",
+      "It is simple",
+      "It has no levels",
+      "The hierarchy is not rigid and lacks empirical support"
+     ],
+     "correct_index": 3,
+     "explanation": "People differ in the order of needs."
+    },
+    {
+     "question_text": "Managers can apply Maslow's theory by:",
+     "options": [
+      "Identifying employees' unsatisfied needs and providing suitable incentives",
+      "Ignoring needs",
+      "Giving the same reward to all",
+      "Removing incentives"
+     ],
+     "correct_index": 0,
+     "explanation": "The reward must match the need."
+    },
+    {
+     "question_text": "Physiological needs at the workplace are met by:",
+     "options": [
+      "Adequate pay, rest breaks and good working conditions",
+      "Recognition",
+      "Promotion",
+      "Participation"
+     ],
+     "correct_index": 0,
+     "explanation": "They are the basic needs."
+    },
+    {
+     "question_text": "Safety needs at the workplace are met by:",
+     "options": [
+      "Pay only",
+      "Praise",
+      "Job security, pension and safe working conditions",
+      "Promotion"
+     ],
+     "correct_index": 2,
+     "explanation": "They relate to security."
+    },
+    {
+     "question_text": "Social needs at the workplace are met by:",
+     "options": [
+      "Promotion",
+      "Safety",
+      "Teamwork, friendly relations and social events",
+      "Pay"
+     ],
+     "correct_index": 2,
+     "explanation": "They relate to belonging."
+    },
+    {
+     "question_text": "Esteem needs at the workplace are met by:",
+     "options": [
+      "Safety",
+      "Recognition, status, promotion and titles",
+      "Rest",
+      "Pay"
+     ],
+     "correct_index": 1,
+     "explanation": "They relate to respect."
+    },
+    {
+     "question_text": "Self-actualisation needs are met by:",
+     "options": [
+      "Rest",
+      "Pay",
+      "Safety",
+      "Challenging work, growth opportunities and creativity"
+     ],
+     "correct_index": 3,
+     "explanation": "They represent realising one's potential."
+    },
+    {
+     "question_text": "McGregor's Theory X assumes that people:",
+     "options": [
+      "Are self-directed",
+      "Enjoy work",
+      "Dislike work, avoid responsibility and need close control",
+      "Seek responsibility"
+     ],
+     "correct_index": 2,
+     "explanation": "It supports autocratic management."
+    },
+    {
+     "question_text": "McGregor's Theory Y assumes that people:",
+     "options": [
+      "Need close control",
+      "Enjoy work, seek responsibility and are self-directed",
+      "Avoid responsibility",
+      "Dislike work"
+     ],
+     "correct_index": 1,
+     "explanation": "It supports participative management."
+    },
+    {
+     "question_text": "Theory X differs from Theory Y in that Theory X is:",
+     "options": [
+      "Optimistic",
+      "Based on self-direction",
+      "The same",
+      "Pessimistic and based on control, Theory Y is optimistic and based on self-direction"
+     ],
+     "correct_index": 3,
+     "explanation": "The theories reflect two views of human nature."
+    },
+    {
+     "question_text": "Theory Y suits:",
+     "options": [
+      "Skilled professionals",
+      "Only children",
+      "No one",
+      "Unskilled workers only"
+     ],
+     "correct_index": 0,
+     "explanation": "They need freedom and responsibility."
+    },
+    {
+     "question_text": "Theory Z is:",
+     "options": [
+      "Ouchi's theory of Japanese-style management based on trust, lifetime employment and participation",
+      "Herzberg's theory",
+      "Maslow's theory",
+      "McGregor's theory"
+     ],
+     "correct_index": 0,
+     "explanation": "It stresses commitment and collective decision making."
+    },
+    {
+     "question_text": "The two-factor theory was propounded by:",
+     "options": [
+      "Maslow in 1943",
+      "Vroom in 1964",
+      "McGregor in 1960",
+      "Frederick Herzberg in 1959"
+     ],
+     "correct_index": 3,
+     "explanation": "It was based on interviews with accountants and engineers."
+    },
+    {
+     "question_text": "Herzberg's two-factor theory distinguishes:",
+     "options": [
+      "Hygiene factors and motivators",
+      "Needs and wants",
+      "Theory X and Y",
+      "Valence and expectancy"
+     ],
+     "correct_index": 0,
+     "explanation": "They affect satisfaction differently."
+    },
+    {
+     "question_text": "Hygiene factors are:",
+     "options": [
+      "Factors of recognition",
+      "Factors like salary, working conditions and supervision whose absence causes dissatisfaction",
+      "Factors of achievement",
+      "Factors that motivate"
+     ],
+     "correct_index": 1,
+     "explanation": "Their presence prevents dissatisfaction."
+    },
+    {
+     "question_text": "Motivators are:",
+     "options": [
+      "Factors like achievement, recognition and responsibility that create satisfaction",
+      "Pay",
+      "Supervision",
+      "Working conditions"
+     ],
+     "correct_index": 0,
+     "explanation": "They are intrinsic to the job."
+    },
+    {
+     "question_text": "Hygiene factors are not motivators because:",
+     "options": [
+      "Their presence only prevents dissatisfaction and does not create motivation",
+      "They are rewards",
+      "They motivate strongly",
+      "They are intrinsic"
+     ],
+     "correct_index": 0,
+     "explanation": "They maintain, not motivate."
+    },
+    {
+     "question_text": "Hygiene factors differ from motivators in that hygiene factors are:",
+     "options": [
+      "The same",
+      "Intrinsic",
+      "Content",
+      "Extrinsic (context), while motivators are intrinsic (content)"
+     ],
+     "correct_index": 3,
+     "explanation": "The first concern the job environment."
+    },
+    {
+     "question_text": "Job enrichment is:",
+     "options": [
+      "Reducing tasks",
+      "Rotating jobs",
+      "Adding similar tasks",
+      "Making a job more meaningful by adding responsibility and autonomy"
+     ],
+     "correct_index": 3,
+     "explanation": "It is vertical loading."
+    },
+    {
+     "question_text": "Job enlargement is:",
+     "options": [
+      "Adding more similar tasks to a job (horizontal expansion)",
+      "Rotating jobs",
+      "Adding responsibility",
+      "Reducing tasks"
+     ],
+     "correct_index": 0,
+     "explanation": "It increases variety but not responsibility."
+    },
+    {
+     "question_text": "A criticism of Herzberg's theory is that it:",
+     "options": [
+      "Has no factors",
+      "Is limited to professionals and relies on self-reporting bias",
+      "Ignores satisfaction",
+      "Is universally proven"
+     ],
+     "correct_index": 1,
+     "explanation": "Individuals may attribute success to themselves and failure to others."
+    },
+    {
+     "question_text": "Maslow's and Herzberg's theories are similar in that:",
+     "options": [
+      "Hygiene factors correspond to lower-order needs and motivators to higher-order needs",
+      "Both are process theories",
+      "They are unrelated",
+      "Both deal with pay only"
+     ],
+     "correct_index": 0,
+     "explanation": "Both are content theories."
+    },
+    {
+     "question_text": "Vroom's expectancy theory says that motivation depends on:",
+     "options": [
+      "Pay only",
+      "Hygiene factors",
+      "Needs only",
+      "Expectancy, instrumentality and valence"
+     ],
+     "correct_index": 3,
+     "explanation": "People act if they expect rewards they value."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Directing – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Valence is:",
+     "options": [
+      "The belief that performance leads to reward",
+      "The belief that effort leads to performance",
+      "The value a person places on a reward",
+      "The pay"
+     ],
+     "correct_index": 2,
+     "explanation": "Expectancy is effort → performance; instrumentality is performance → reward."
+    },
+    {
+     "question_text": "The expectancy formula is:",
+     "options": [
+      "Motivation = V/E",
+      "Motivation = E − I",
+      "Motivation = E + I + V",
+      "Motivation = Expectancy × Instrumentality × Valence"
+     ],
+     "correct_index": 3,
+     "explanation": "The multiplicative form means zero in any term yields zero."
+    },
+    {
+     "question_text": "Expectancy 0.8, instrumentality 0.5, valence 10. The motivational force is:",
+     "options": [
+      "0.4",
+      "18.3",
+      "40",
+      "4"
+     ],
+     "correct_index": 3,
+     "explanation": "0.8 × 0.5 × 10."
+    },
+    {
+     "question_text": "If any one of the three components is zero, motivation is:",
+     "options": [
+      "Half",
+      "Unchanged",
+      "Maximum",
+      "Zero"
+     ],
+     "correct_index": 3,
+     "explanation": "Because they are multiplied."
+    },
+    {
+     "question_text": "Managers can apply Vroom's theory by:",
+     "options": [
+      "Ignoring rewards",
+      "Giving equal pay",
+      "Removing goals",
+      "Linking rewards to performance and ensuring rewards are valued"
+     ],
+     "correct_index": 3,
+     "explanation": "Also making goals attainable."
+    },
+    {
+     "question_text": "A criticism of Vroom's theory is that:",
+     "options": [
+      "It is simple",
+      "It ignores effort",
+      "It is complex and assumes people are rational calculators",
+      "It ignores rewards"
+     ],
+     "correct_index": 2,
+     "explanation": "It is hard to measure the variables."
+    },
+    {
+     "question_text": "Alderfer's ERG theory has _____ needs:",
+     "options": [
+      "Existence, relatedness and growth",
+      "Hygiene, motivators",
+      "Achievement, power, affiliation",
+      "Physiological, safety, social, esteem, self-actualisation"
+     ],
+     "correct_index": 0,
+     "explanation": "Multiple needs may operate at once."
+    },
+    {
+     "question_text": "McClelland's theory focuses on the needs for:",
+     "options": [
+      "Existence, relatedness, growth",
+      "Hygiene, motivators",
+      "Achievement, power and affiliation",
+      "Safety, security, belonging"
+     ],
+     "correct_index": 2,
+     "explanation": "They are learned needs."
+    },
+    {
+     "question_text": "Adams' equity theory states that employees compare:",
+     "options": [
+      "Pay with profit",
+      "Their input–output ratio with that of others and are motivated to remove perceived inequity",
+      "Output with cost",
+      "Pay with budget"
+     ],
+     "correct_index": 1,
+     "explanation": "Perceived unfairness reduces motivation."
+    },
+    {
+     "question_text": "Skinner's reinforcement theory states that:",
+     "options": [
+      "Goals drive behaviour",
+      "Behaviour is random",
+      "Behaviour followed by a reward is repeated, while behaviour followed by punishment is not",
+      "Needs drive behaviour"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a behaviour modification approach."
+    },
+    {
+     "question_text": "Locke's goal-setting theory states that:",
+     "options": [
+      "Specific and challenging goals lead to higher performance",
+      "No goals are needed",
+      "Vague goals are best",
+      "Easy goals are best"
+     ],
+     "correct_index": 0,
+     "explanation": "Feedback and commitment also matter."
+    },
+    {
+     "question_text": "The job characteristics model (Hackman and Oldham) includes:",
+     "options": [
+      "Skill variety, task identity, task significance, autonomy and feedback",
+      "Valence and expectancy",
+      "Hygiene and motivators",
+      "Needs hierarchy"
+     ],
+     "correct_index": 0,
+     "explanation": "They make jobs motivating."
+    },
+    {
+     "question_text": "Motivation techniques used in organisations include:",
+     "options": [
+      "Control only",
+      "Ignoring staff",
+      "Punishment only",
+      "Incentives, job enrichment, participation and recognition"
+     ],
+     "correct_index": 3,
+     "explanation": "They suit different needs."
+    },
+    {
+     "question_text": "Communication is:",
+     "options": [
+      "Speaking",
+      "The exchange of information and understanding between sender and receiver",
+      "Writing",
+      "Giving orders"
+     ],
+     "correct_index": 1,
+     "explanation": "The process includes sender, message, channel, receiver and feedback."
+    },
+    {
+     "question_text": "Barriers to communication include:",
+     "options": [
+      "Trust",
+      "Feedback",
+      "Clear channels",
+      "Noise, language differences, status differences and information overload"
+     ],
+     "correct_index": 3,
+     "explanation": "They distort messages."
+    },
+    {
+     "question_text": "Communication barriers can be overcome by:",
+     "options": [
+      "Complex language",
+      "Clear messages, feedback, active listening and the right medium",
+      "More noise",
+      "Ignoring them"
+     ],
+     "correct_index": 1,
+     "explanation": "Reducing distortion helps."
+    },
+    {
+     "question_text": "Formal communication follows:",
+     "options": [
+      "Social links",
+      "The official chain of command, while informal communication arises from social relationships",
+      "The grapevine",
+      "Rumours"
+     ],
+     "correct_index": 1,
+     "explanation": "Both co-exist."
+    },
+    {
+     "question_text": "The grapevine is:",
+     "options": [
+      "The informal network through which information spreads quickly in an organisation",
+      "An official report",
+      "The formal channel",
+      "A notice board"
+     ],
+     "correct_index": 0,
+     "explanation": "It can carry rumours."
+    },
+    {
+     "question_text": "A supervisor's role includes:",
+     "options": [
+      "Appointing directors",
+      "Auditing accounts",
+      "Setting company policy",
+      "Guiding workers, maintaining discipline and being a link between management and workers"
+     ],
+     "correct_index": 3,
+     "explanation": "Supervision is the first-line direction."
+    },
+    {
+     "question_text": "The relationship between leadership and motivation is that:",
+     "options": [
+      "Leadership prevents motivation",
+      "They are unrelated",
+      "A good leader motivates followers and their motivation influences performance",
+      "Motivation prevents leadership"
+     ],
+     "correct_index": 2,
+     "explanation": "Leadership helps create motivating conditions."
+    },
+    {
+     "question_text": "Communication is an element of directing because:",
+     "options": [
+      "It is optional",
+      "It prevents action",
+      "Instructions and feedback must be conveyed for direction to work",
+      "It is not needed"
+     ],
+     "correct_index": 2,
+     "explanation": "Without communication, there is no direction."
+    },
+    {
+     "question_text": "A real-life example of Theory X is:",
+     "options": [
+      "A shop",
+      "A club",
+      "A school",
+      "A factory with strict supervision and fixed quotas; Theory Y: a creative firm with autonomy"
+     ],
+     "correct_index": 3,
+     "explanation": "Management style reflects assumptions about workers."
+    },
+    {
+     "question_text": "Hygiene factors must be maintained because:",
+     "options": [
+      "They are optional",
+      "Their absence causes dissatisfaction even though they do not motivate",
+      "They are motivators",
+      "They are unimportant"
+     ],
+     "correct_index": 1,
+     "explanation": "They prevent dissatisfaction."
+    },
+    {
+     "question_text": "A leadership style affects motivation because:",
+     "options": [
+      "Styles do not matter",
+      "It does not",
+      "Employees ignore leaders",
+      "Employees respond to the way leaders treat and involve them"
+     ],
+     "correct_index": 3,
+     "explanation": "Participative styles often improve motivation."
+    },
+    {
+     "question_text": "A supervisor can motivate workers by:",
+     "options": [
+      "Avoiding contact",
+      "Ignoring them",
+      "Punishing all",
+      "Recognising good work, communicating well and addressing their needs"
+     ],
+     "correct_index": 3,
+     "explanation": "The supervisor is closest to workers."
+    }
+   ]
+  }
+ ]
+}

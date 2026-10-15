@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Introduction to Management – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Management is best described as the process of:",
+     "options": [
+      "Planning, organising, staffing, directing and controlling resources to achieve organisational goals efficiently and effectively",
+      "Only keeping accounts",
+      "Only making profits",
+      "Only supervising workers"
+     ],
+     "correct_index": 0,
+     "explanation": "It coordinates human, financial, physical and informational resources."
+    },
+    {
+     "question_text": "Mary Parker Follett defined management as:",
+     "options": [
+      "The art of getting things done through people",
+      "A multi-purpose organ",
+      "Knowing exactly what you want men to do",
+      "Forecasting and planning only"
+     ],
+     "correct_index": 0,
+     "explanation": "Her definition stresses working through people."
+    },
+    {
+     "question_text": "\"To manage is to forecast and plan, to organise, to command, to coordinate and to control\" is the definition of:",
+     "options": [
+      "Harold Koontz",
+      "F.W. Taylor",
+      "Peter Drucker",
+      "Henri Fayol"
+     ],
+     "correct_index": 3,
+     "explanation": "Fayol gave five elements of management."
+    },
+    {
+     "question_text": "Koontz defined management as the art of getting things done:",
+     "options": [
+      "Through and with people in formally organised groups",
+      "Only through money",
+      "Only through machines",
+      "Alone"
+     ],
+     "correct_index": 0,
+     "explanation": "The key phrase is \"through and with people in formally organised groups\"."
+    },
+    {
+     "question_text": "The three views of management are as a:",
+     "options": [
+      "Input, process and output",
+      "Plan, order and control",
+      "Process, a discipline and a group of people",
+      "Science, art and profession only"
+     ],
+     "correct_index": 2,
+     "explanation": "Management can be seen as functions, a field of study and the managers themselves."
+    },
+    {
+     "question_text": "The \"5 Ms\" of resources managed by management are:",
+     "options": [
+      "Money, markets, motion, motives, matter",
+      "Men, minutes, markets, mind, matter",
+      "Money, machines, motion, motives, management",
+      "Men, money, materials, machines and methods"
+     ],
+     "correct_index": 3,
+     "explanation": "Time and markets are added in some lists."
+    },
+    {
+     "question_text": "Administration differs from management in that administration is mainly:",
+     "options": [
+      "Concerned with workers only",
+      "Not a function at all",
+      "An execution function of lower levels",
+      "A top-level function concerned with determining objectives and broad policies"
+     ],
+     "correct_index": 3,
+     "explanation": "Management executes the policies; today the terms are often used interchangeably."
+    },
+    {
+     "question_text": "Which is a characteristic of management?",
+     "options": [
+      "It is goal-oriented, universal and a continuous process",
+      "It is a one-time activity",
+      "It is tangible",
+      "It is applicable to business only"
+     ],
+     "correct_index": 0,
+     "explanation": "It is also multi-dimensional, dynamic, an intangible force and a group activity."
+    },
+    {
+     "question_text": "Management is called a science because it has:",
+     "options": [
+      "No experiments",
+      "A systematic body of knowledge with principles based on experiments, though not as exact as pure sciences",
+      "Exact laws like physics",
+      "No principles"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a \"soft\" or inexact science."
+    },
+    {
+     "question_text": "Management is called an art because it involves:",
+     "options": [
+      "No skill",
+      "Application of knowledge through personal skill, creativity and practice",
+      "Only theory",
+      "Only rules"
+     ],
+     "correct_index": 1,
+     "explanation": "Leadership skill is individual and improves with experience."
+    },
+    {
+     "question_text": "Management is regarded as an emerging profession because it:",
+     "options": [
+      "Has a legal monopoly",
+      "Has restricted entry",
+      "Has specialised knowledge and representative bodies but lacks restricted entry and a legally enforced code",
+      "Has no knowledge base"
+     ],
+     "correct_index": 2,
+     "explanation": "AIMA and AMA are representative bodies."
+    },
+    {
+     "question_text": "Management is called a \"soft science\" because:",
+     "options": [
+      "It is not studied",
+      "Its principles deal with human behaviour and are flexible, not exact",
+      "It has no principles",
+      "It is easy"
+     ],
+     "correct_index": 1,
+     "explanation": "Behaviour cannot be predicted with certainty."
+    },
+    {
+     "question_text": "Which is an objective of management?",
+     "options": [
+      "Increasing waste",
+      "Only profit maximisation",
+      "Achieving organisational, social and personal objectives",
+      "Reducing wages"
+     ],
+     "correct_index": 2,
+     "explanation": "It balances the objectives of various stakeholders."
+    },
+    {
+     "question_text": "Which shows the importance of management?",
+     "options": [
+      "It guarantees profit",
+      "It reduces all competition",
+      "It removes the need for staff",
+      "It achieves group goals, increases efficiency and creates a dynamic organisation"
+     ],
+     "correct_index": 3,
+     "explanation": "Management helps meet changing environments."
+    },
+    {
+     "question_text": "Efficiency in management means:",
+     "options": [
+      "Choosing goals",
+      "Doing the right task",
+      "Doing the task correctly, i.e., getting the maximum output from minimum input",
+      "Making a profit only"
+     ],
+     "correct_index": 2,
+     "explanation": "It is often described as \"doing things right\"."
+    },
+    {
+     "question_text": "Effectiveness in management means:",
+     "options": [
+      "Achieving the goals set, i.e., doing the right things",
+      "Working fast",
+      "Using minimum resources",
+      "Avoiding cost"
+     ],
+     "correct_index": 0,
+     "explanation": "It is \"doing the right things\"."
+    },
+    {
+     "question_text": "Efficiency differs from effectiveness in that efficiency is concerned with:",
+     "options": [
+      "Cost only",
+      "Ends, effectiveness with means",
+      "Means (resource use), effectiveness with ends (goal achievement)",
+      "Profit, effectiveness with loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Efficiency relates inputs to outputs."
+    },
+    {
+     "question_text": "A manager must be both efficient and effective because:",
+     "options": [
+      "Efficiency without effectiveness wastes resources on the wrong goals, and effectiveness without efficiency is costly",
+      "Neither matters",
+      "Only efficiency matters",
+      "Only effectiveness matters"
+     ],
+     "correct_index": 0,
+     "explanation": "Both are needed for success."
+    },
+    {
+     "question_text": "An example of an efficient but ineffective manager is one who:",
+     "options": [
+      "Achieves goals at low cost",
+      "Produces goods at low cost that nobody wants",
+      "Produces goods people want at high cost",
+      "Produces nothing"
+     ],
+     "correct_index": 1,
+     "explanation": "Resources are used well but the goal is missed."
+    },
+    {
+     "question_text": "Productivity is the:",
+     "options": [
+      "Total profit",
+      "Ratio of output to input",
+      "Number of workers",
+      "Ratio of input to output"
+     ],
+     "correct_index": 1,
+     "explanation": "It measures how well resources are converted into output."
+    },
+    {
+     "question_text": "The levels of management are:",
+     "options": [
+      "Board and employees",
+      "Upper and lower only",
+      "Top, middle and lower (first-line)",
+      "Planning, directing, controlling"
+     ],
+     "correct_index": 2,
+     "explanation": "Each has distinct functions."
+    },
+    {
+     "question_text": "The functions of top-level management include:",
+     "options": [
+      "Operating machines",
+      "Setting objectives, formulating policies and overall strategy",
+      "Assigning daily tasks",
+      "Supervising workers directly"
+     ],
+     "correct_index": 1,
+     "explanation": "It is concerned with the overall direction of the organisation."
+    },
+    {
+     "question_text": "The functions of middle-level management include:",
+     "options": [
+      "Setting overall objectives",
+      "Interpreting policies and coordinating between top and lower levels",
+      "Handling every worker's complaints",
+      "Operating machines"
+     ],
+     "correct_index": 1,
+     "explanation": "They translate top-level plans into departmental plans."
+    },
+    {
+     "question_text": "The functions of lower-level management include:",
+     "options": [
+      "Setting corporate strategy",
+      "Formulating policies",
+      "Mergers",
+      "Supervising workers, assigning tasks and ensuring day-to-day operations"
+     ],
+     "correct_index": 3,
+     "explanation": "Foremen and supervisors work at this level."
+    },
+    {
+     "question_text": "Compared with lower levels, the top-level manager spends more time on:",
+     "options": [
+      "Planning and conceptual work",
+      "Supervision",
+      "Operation of machines",
+      "Routine work"
+     ],
+     "correct_index": 0,
+     "explanation": "Lower levels spend more time on direction and control."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Management – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Katz identified which three managerial skills?",
+     "options": [
+      "Planning, directing, controlling",
+      "Technical, human and conceptual",
+      "Social, financial, legal",
+      "Verbal, written, visual"
+     ],
+     "correct_index": 1,
+     "explanation": "The importance of each varies by level."
+    },
+    {
+     "question_text": "Besides Katz's skills, an important skill today is:",
+     "options": [
+      "Only manual skills",
+      "No new skills",
+      "Only technical skills",
+      "Communication, diagnostic and decision-making skills"
+     ],
+     "correct_index": 3,
+     "explanation": "Others: analytical, digital and interpersonal skills."
+    },
+    {
+     "question_text": "The functions of management include:",
+     "options": [
+      "Planning, organising, staffing, directing and controlling",
+      "Debit and credit",
+      "Hiring only",
+      "Buying, selling and storing"
+     ],
+     "correct_index": 0,
+     "explanation": "These form the management process."
+    },
+    {
+     "question_text": "Fayol's functions of management are:",
+     "options": [
+      "Planning, organising, commanding, coordinating and controlling",
+      "Buying, selling",
+      "Planning, staffing, directing",
+      "Debit, credit, balance"
+     ],
+     "correct_index": 0,
+     "explanation": "He gave five functions."
+    },
+    {
+     "question_text": "Koontz and O'Donnell listed the functions as:",
+     "options": [
+      "Only directing",
+      "Buying and selling",
+      "Planning and control only",
+      "Planning, organising, staffing, directing and controlling"
+     ],
+     "correct_index": 3,
+     "explanation": "They added staffing as a separate function."
+    },
+    {
+     "question_text": "POSDCORB was proposed by:",
+     "options": [
+      "Luther Gulick",
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor"
+     ],
+     "correct_index": 0,
+     "explanation": "It stands for Planning, Organising, Staffing, Directing, Co-ordinating, Reporting, Budgeting."
+    },
+    {
+     "question_text": "Coordination is called the essence of management because:",
+     "options": [
+      "It is only for top managers",
+      "It is not needed",
+      "It is a minor function",
+      "It integrates the efforts of individuals toward common objectives"
+     ],
+     "correct_index": 3,
+     "explanation": "It runs through all functions."
+    },
+    {
+     "question_text": "The functions of management are:",
+     "options": [
+      "Performed by lower levels only",
+      "Interrelated and often performed together",
+      "Independent",
+      "Performed one by one"
+     ],
+     "correct_index": 1,
+     "explanation": "Planning leads to organising, which leads to staffing, and so on."
+    },
+    {
+     "question_text": "Henry Mintzberg is known for:",
+     "options": [
+      "The Hawthorne experiments",
+      "The bureaucracy theory",
+      "Scientific management",
+      "Studying what managers actually do and classifying managerial roles"
+     ],
+     "correct_index": 3,
+     "explanation": "He described ten managerial roles."
+    },
+    {
+     "question_text": "Mintzberg's three categories of roles are:",
+     "options": [
+      "Technical, human, conceptual",
+      "Top, middle, lower",
+      "Interpersonal, informational and decisional",
+      "Planning, organising, controlling"
+     ],
+     "correct_index": 2,
+     "explanation": "There are ten roles in total."
+    },
+    {
+     "question_text": "Which is an interpersonal role?",
+     "options": [
+      "Entrepreneur",
+      "Monitor, disseminator",
+      "Resource allocator",
+      "Figurehead, leader and liaison"
+     ],
+     "correct_index": 3,
+     "explanation": "They arise from the manager's authority."
+    },
+    {
+     "question_text": "Which is an informational role?",
+     "options": [
+      "Leader",
+      "Monitor, disseminator and spokesperson",
+      "Figurehead",
+      "Negotiator"
+     ],
+     "correct_index": 1,
+     "explanation": "The manager receives and transmits information."
+    },
+    {
+     "question_text": "Which is a decisional role?",
+     "options": [
+      "Liaison",
+      "Spokesperson",
+      "Monitor",
+      "Entrepreneur, disturbance handler, resource allocator and negotiator"
+     ],
+     "correct_index": 3,
+     "explanation": "The manager makes significant choices."
+    },
+    {
+     "question_text": "Mintzberg's study revealed that managers' work is:",
+     "options": [
+      "Only about planning",
+      "Fragmented, brief and varied, not a neat set of orderly functions",
+      "Only about controlling",
+      "Highly planned and quiet"
+     ],
+     "correct_index": 1,
+     "explanation": "Managers face constant interruptions."
+    },
+    {
+     "question_text": "The pre-classical contributors to management include:",
+     "options": [
+      "Adam Smith, Robert Owen, Charles Babbage and Kautilya",
+      "Mayo and Maslow",
+      "Fayol and Taylor",
+      "Weber and Barnard"
+     ],
+     "correct_index": 0,
+     "explanation": "They came before the classical period."
+    },
+    {
+     "question_text": "Adam Smith contributed to management through:",
+     "options": [
+      "Time study",
+      "The bureaucracy theory",
+      "Hawthorne studies",
+      "The principle of division of labour (pin factory example)"
+     ],
+     "correct_index": 3,
+     "explanation": "He wrote The Wealth of Nations (1776)."
+    },
+    {
+     "question_text": "Robert Owen is known for:",
+     "options": [
+      "Pioneering concern for workers' welfare and treating them as important resources",
+      "Contingency theory",
+      "Scalar chain",
+      "Time and motion study"
+     ],
+     "correct_index": 0,
+     "explanation": "He is often called the father of personnel management."
+    },
+    {
+     "question_text": "Charles Babbage contributed:",
+     "options": [
+      "Hawthorne effect",
+      "Gantt chart",
+      "The idea of division of mental labour and the analytical engine/computer concept",
+      "Theory X"
+     ],
+     "correct_index": 2,
+     "explanation": "He extended Smith's idea to mental work."
+    },
+    {
+     "question_text": "Kautilya's contribution is:",
+     "options": [
+      "Human relations",
+      "The scalar chain",
+      "His Arthashastra, a treatise on administration, statecraft and economic policy",
+      "Time study"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows early Indian thought on administration."
+    },
+    {
+     "question_text": "The Industrial Revolution created a need for management because:",
+     "options": [
+      "Factories needed coordination of large workforces and machines",
+      "Factories disappeared",
+      "Workers disappeared",
+      "Production fell"
+     ],
+     "correct_index": 0,
+     "explanation": "Large-scale production demanded organisation."
+    },
+    {
+     "question_text": "The father of scientific management is:",
+     "options": [
+      "F.W. Taylor",
+      "Max Weber",
+      "Elton Mayo",
+      "Henri Fayol"
+     ],
+     "correct_index": 0,
+     "explanation": "He developed the scientific approach to work."
+    },
+    {
+     "question_text": "Taylor's two books are:",
+     "options": [
+      "The Functions of the Executive and Industrial Management",
+      "Shop Management and The Principles of Scientific Management",
+      "General and Industrial Management",
+      "The Human Problems of an Industrial Civilization"
+     ],
+     "correct_index": 1,
+     "explanation": "Published in 1903 and 1911."
+    },
+    {
+     "question_text": "Taylor's pig iron experiment at Bethlehem Steel showed that:",
+     "options": [
+      "Scientific selection, training, rest pauses and incentives raised daily output sharply",
+      "Output fell",
+      "Machines were better",
+      "Workers were lazy"
+     ],
+     "correct_index": 0,
+     "explanation": "Output rose from about 12.5 to 47 tons per day."
+    },
+    {
+     "question_text": "The principles of scientific management include:",
+     "options": [
+      "Esprit de corps",
+      "Scalar chain",
+      "Unity of command",
+      "Science not rule of thumb, harmony not discord, cooperation not individualism, maximum output"
+     ],
+     "correct_index": 3,
+     "explanation": "He stressed development of each person to his greatest efficiency."
+    },
+    {
+     "question_text": "The \"mental revolution\" means:",
+     "options": [
+      "A change in technology",
+      "A change in pay",
+      "A change in the attitude of management and workers toward each other, from conflict to cooperation",
+      "A change in hours"
+     ],
+     "correct_index": 2,
+     "explanation": "Both should focus on increasing the surplus."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Management – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Which is a technique of scientific management?",
+     "options": [
+      "Esprit de corps",
+      "Time study, motion study, fatigue study, standardisation and differential piece-rate",
+      "Scalar chain",
+      "Gang plank"
+     ],
+     "correct_index": 1,
+     "explanation": "Also functional foremanship."
+    },
+    {
+     "question_text": "Time study is:",
+     "options": [
+      "Studying leisure",
+      "Studying fatigue",
+      "Determining the standard time to complete a job",
+      "Studying motions"
+     ],
+     "correct_index": 2,
+     "explanation": "It sets a fair day's work."
+    },
+    {
+     "question_text": "Motion study is:",
+     "options": [
+      "Measuring cost",
+      "Measuring fatigue",
+      "Studying the movements in a job to eliminate wasteful ones",
+      "Measuring time"
+     ],
+     "correct_index": 2,
+     "explanation": "It finds the one best way of doing a job."
+    },
+    {
+     "question_text": "Fatigue study determines:",
+     "options": [
+      "Standard time",
+      "Wages",
+      "The amount and frequency of rest needed to overcome tiredness",
+      "Output"
+     ],
+     "correct_index": 2,
+     "explanation": "Rest pauses are scheduled."
+    },
+    {
+     "question_text": "Standardisation means:",
+     "options": [
+      "Setting standards for tools, materials, methods and working conditions",
+      "Ignoring tasks",
+      "Setting individual targets",
+      "Making tasks different"
+     ],
+     "correct_index": 0,
+     "explanation": "It brings uniformity and efficiency."
+    },
+    {
+     "question_text": "In the differential piece-rate system, a worker who produces:",
+     "options": [
+      "Gets a monthly salary",
+      "Gets the same rate always",
+      "Gets no rate",
+      "Above the standard gets a higher rate per piece, and below the standard a lower rate"
+     ],
+     "correct_index": 3,
+     "explanation": "It rewards efficient workers."
+    },
+    {
+     "question_text": "Functional foremanship means:",
+     "options": [
+      "No supervision",
+      "Dividing the supervisor's work among eight specialists, four planning and four in the shop",
+      "One foreman supervising all",
+      "Foremen as owners"
+     ],
+     "correct_index": 1,
+     "explanation": "It violates unity of command."
+    },
+    {
+     "question_text": "The Gilbreths are known for:",
+     "options": [
+      "The Gantt chart",
+      "The Hawthorne effect",
+      "Bureaucracy",
+      "Motion study and the therblig (basic elements of motion)"
+     ],
+     "correct_index": 3,
+     "explanation": "Frank and Lillian Gilbreth analysed motions."
+    },
+    {
+     "question_text": "Henry Gantt contributed:",
+     "options": [
+      "Functional foremanship",
+      "Bureaucracy",
+      "The Gantt chart and the task-and-bonus wage system",
+      "The Hawthorne studies"
+     ],
+     "correct_index": 2,
+     "explanation": "He stressed scheduling and worker training."
+    },
+    {
+     "question_text": "A Gantt chart is:",
+     "options": [
+      "A pie chart",
+      "A bar chart showing planned and actual progress of work against time",
+      "A budget",
+      "An organisation chart"
+     ],
+     "correct_index": 1,
+     "explanation": "It is used in scheduling and control."
+    },
+    {
+     "question_text": "Harrington Emerson contributed:",
+     "options": [
+      "Theory X",
+      "Bureaucracy",
+      "The Hawthorne studies",
+      "Twelve principles of efficiency"
+     ],
+     "correct_index": 3,
+     "explanation": "He emphasised efficiency in industry."
+    },
+    {
+     "question_text": "A criticism of scientific management is that it:",
+     "options": [
+      "Ignores efficiency",
+      "Treats workers as machines and ignores human and social needs",
+      "Ignores output",
+      "Favours workers only"
+     ],
+     "correct_index": 1,
+     "explanation": "Workers and unions resisted it."
+    },
+    {
+     "question_text": "The significance of scientific management lies in:",
+     "options": [
+      "Reduced pay",
+      "Standardisation, scientific selection and training, and higher productivity",
+      "Ending management",
+      "Reduced output"
+     ],
+     "correct_index": 1,
+     "explanation": "It laid the foundation for modern management."
+    },
+    {
+     "question_text": "The father of modern administrative management is:",
+     "options": [
+      "Max Weber",
+      "Henri Fayol",
+      "F.W. Taylor",
+      "Elton Mayo"
+     ],
+     "correct_index": 1,
+     "explanation": "His focus was management at the top level."
+    },
+    {
+     "question_text": "Fayol's book is:",
+     "options": [
+      "The Functions of the Executive",
+      "Scientific Management",
+      "Shop Management",
+      "General and Industrial Management"
+     ],
+     "correct_index": 3,
+     "explanation": "It was published in French in 1916."
+    },
+    {
+     "question_text": "Fayol's six activities of an industrial enterprise are:",
+     "options": [
+      "Debit, credit, balance",
+      "Buying, selling, storing, grading, transport, finance",
+      "Technical, commercial, financial, security, accounting and managerial",
+      "Planning, organising, directing, staffing, controlling, coordinating"
+     ],
+     "correct_index": 2,
+     "explanation": "Managerial is the most important."
+    },
+    {
+     "question_text": "Which is NOT one of Fayol's 14 principles?",
+     "options": [
+      "Mental revolution",
+      "Unity of command",
+      "Division of work",
+      "Esprit de corps"
+     ],
+     "correct_index": 0,
+     "explanation": "Mental revolution is Taylor's."
+    },
+    {
+     "question_text": "Unity of command means:",
+     "options": [
+      "Each employee receives orders from only one superior",
+      "One boss for all",
+      "One plan for the firm",
+      "One plan for a group of activities"
+     ],
+     "correct_index": 0,
+     "explanation": "Unity of direction means one head and one plan for a group of activities with the same objective."
+    },
+    {
+     "question_text": "The scalar chain is:",
+     "options": [
+      "A pay scale",
+      "A supply chain",
+      "The chain of authority from top to bottom, and the gang plank is a direct link between peers to speed communication",
+      "A cost chain"
+     ],
+     "correct_index": 2,
+     "explanation": "Fayol's \"bridge\" allows cross-communication."
+    },
+    {
+     "question_text": "Centralisation means:",
+     "options": [
+      "Abolition of authority",
+      "Dispersal of authority",
+      "Concentration of decision-making authority at the top",
+      "Employee ownership"
+     ],
+     "correct_index": 2,
+     "explanation": "Decentralisation is the opposite."
+    },
+    {
+     "question_text": "Taylor differs from Fayol in that Taylor focused on:",
+     "options": [
+      "Finance",
+      "Marketing",
+      "Top level, Fayol on the shop floor",
+      "Shop-floor (operational) efficiency, Fayol on top-level administration"
+     ],
+     "correct_index": 3,
+     "explanation": "Taylor was an engineer; Fayol was an administrator."
+    },
+    {
+     "question_text": "Gulick and Urwick contributed:",
+     "options": [
+      "The Gantt chart",
+      "Hawthorne studies",
+      "The contingency approach",
+      "POSDCORB and the principles of administration"
+     ],
+     "correct_index": 3,
+     "explanation": "They developed the administrative principles."
+    },
+    {
+     "question_text": "Chester Barnard contributed:",
+     "options": [
+      "Time study",
+      "The Gantt chart",
+      "The acceptance theory of authority and the concept of informal organisation",
+      "Hawthorne studies"
+     ],
+     "correct_index": 2,
+     "explanation": "His book was The Functions of the Executive (1938)."
+    },
+    {
+     "question_text": "The bureaucratic theory was propounded by:",
+     "options": [
+      "Max Weber",
+      "Elton Mayo",
+      "F.W. Taylor",
+      "Henri Fayol"
+     ],
+     "correct_index": 0,
+     "explanation": "He was a German sociologist."
+    },
+    {
+     "question_text": "Weber's three types of authority are:",
+     "options": [
+      "Formal, informal, social",
+      "Top, middle and lower",
+      "Traditional, charismatic and rational-legal",
+      "Line, staff and functional"
+     ],
+     "correct_index": 2,
+     "explanation": "Bureaucracy rests on rational-legal authority."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Management – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A feature of bureaucracy is:",
+     "options": [
+      "Flexibility",
+      "Informal relations",
+      "No rules",
+      "Division of labour, hierarchy, rules and impersonal relations"
+     ],
+     "correct_index": 3,
+     "explanation": "Also promotion on merit and written records."
+    },
+    {
+     "question_text": "A merit of bureaucracy is _____, and a demerit is _____:",
+     "options": [
+      "Predictability and fairness; rigidity and red tape",
+      "Red tape; predictability",
+      "Rigidity; fairness",
+      "Speed; delay"
+     ],
+     "correct_index": 0,
+     "explanation": "Rules ensure consistency but can slow decisions."
+    },
+    {
+     "question_text": "\"Red tape\" refers to:",
+     "options": [
+      "Quick decisions",
+      "Excessive rules and formalities that delay action",
+      "Employee welfare",
+      "Informal practice"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a common criticism of bureaucracy."
+    },
+    {
+     "question_text": "The human relations movement arose because:",
+     "options": [
+      "Machines failed",
+      "Classical approaches ignored workers' social and psychological needs",
+      "Managers wanted less output",
+      "Workers had no needs"
+     ],
+     "correct_index": 1,
+     "explanation": "The Hawthorne studies highlighted these needs."
+    },
+    {
+     "question_text": "The Hawthorne experiments were conducted by:",
+     "options": [
+      "F.W. Taylor at Bethlehem",
+      "Elton Mayo and colleagues at the Western Electric Company",
+      "Henri Fayol",
+      "Max Weber"
+     ],
+     "correct_index": 1,
+     "explanation": "They were conducted from 1924 to 1932."
+    },
+    {
+     "question_text": "The Hawthorne effect is that:",
+     "options": [
+      "Workers work less",
+      "Workers quit",
+      "Workers become tired",
+      "Workers change behaviour when they know they are being observed or receive attention"
+     ],
+     "correct_index": 3,
+     "explanation": "Productivity rose due to attention and social factors."
+    },
+    {
+     "question_text": "A conclusion of the Hawthorne studies is:",
+     "options": [
+      "Only pay matters",
+      "Only lighting matters",
+      "Only machines matter",
+      "Social and psychological factors and informal groups strongly affect productivity"
+     ],
+     "correct_index": 3,
+     "explanation": "Workers are social beings."
+    },
+    {
+     "question_text": "Mary Parker Follett contributed:",
+     "options": [
+      "Her concepts of power with, constructive conflict and coordination (the \"prophet of management\")",
+      "Bureaucracy",
+      "The Gantt chart",
+      "Time study"
+     ],
+     "correct_index": 0,
+     "explanation": "She stressed participation."
+    },
+    {
+     "question_text": "The behavioural approach focuses on:",
+     "options": [
+      "Mathematical models only",
+      "Structures only",
+      "Understanding human behaviour in organisations",
+      "Machines"
+     ],
+     "correct_index": 2,
+     "explanation": "It draws on psychology and sociology."
+    },
+    {
+     "question_text": "Key contributors to the behavioural approach include:",
+     "options": [
+      "Gantt and Gilbreth",
+      "Maslow, McGregor, Herzberg and Likert",
+      "Taylor and Fayol",
+      "Weber and Barnard"
+     ],
+     "correct_index": 1,
+     "explanation": "They studied motivation and leadership."
+    },
+    {
+     "question_text": "A criticism of the human relations approach is that it:",
+     "options": [
+      "Overemphasises human aspects and ignores the structure and technical side",
+      "Favours rules only",
+      "Ignores people",
+      "Ignores motivation"
+     ],
+     "correct_index": 0,
+     "explanation": "It was seen as too narrow."
+    },
+    {
+     "question_text": "The quantitative approach to management uses:",
+     "options": [
+      "Only intuition",
+      "Mathematical and statistical techniques for decision making",
+      "Only experience",
+      "Only rules"
+     ],
+     "correct_index": 1,
+     "explanation": "Also called management science or operations research."
+    },
+    {
+     "question_text": "Tools used in the quantitative approach include:",
+     "options": [
+      "Gantt chart only",
+      "Interviews",
+      "Hawthorne tests",
+      "Linear programming, PERT/CPM, queuing and simulation"
+     ],
+     "correct_index": 3,
+     "explanation": "They help in complex decisions."
+    },
+    {
+     "question_text": "A limitation of the quantitative approach is that it:",
+     "options": [
+      "Needs no data",
+      "Is always right",
+      "Ignores numbers",
+      "Cannot easily deal with human and qualitative factors"
+     ],
+     "correct_index": 3,
+     "explanation": "Models rely on assumptions."
+    },
+    {
+     "question_text": "The systems approach views an organisation as:",
+     "options": [
+      "A set of interrelated parts working together toward a common goal",
+      "A machine only",
+      "A set of unrelated parts",
+      "A single person"
+     ],
+     "correct_index": 0,
+     "explanation": "It considers the environment too."
+    },
+    {
+     "question_text": "An open system differs from a closed system in that an open system:",
+     "options": [
+      "Has no input",
+      "Does not interact",
+      "Has no output",
+      "Interacts with its environment"
+     ],
+     "correct_index": 3,
+     "explanation": "Business organisations are open systems."
+    },
+    {
+     "question_text": "Synergy means:",
+     "options": [
+      "Zero effect",
+      "The parts working separately",
+      "The combined effect of parts working together is greater than the sum of their individual effects",
+      "Loss"
+     ],
+     "correct_index": 2,
+     "explanation": "\"2 + 2 = 5\"."
+    },
+    {
+     "question_text": "Subsystems are:",
+     "options": [
+      "The whole system",
+      "Customers only",
+      "The environment",
+      "Smaller parts of a system, e.g., departments in an organisation"
+     ],
+     "correct_index": 3,
+     "explanation": "They interact to form the whole."
+    },
+    {
+     "question_text": "A merit of the systems approach is that it:",
+     "options": [
+      "Gives a holistic view of the organisation and its environment",
+      "Ignores the environment",
+      "Is simple",
+      "Ignores subsystems"
+     ],
+     "correct_index": 0,
+     "explanation": "A limitation is that it is abstract."
+    },
+    {
+     "question_text": "The contingency approach states that:",
+     "options": [
+      "Only Taylor is right",
+      "There is no single best way of managing; the right approach depends on the situation",
+      "Rules never change",
+      "One best way exists"
+     ],
+     "correct_index": 1,
+     "explanation": "It is also called the situational approach."
+    },
+    {
+     "question_text": "Joan Woodward contributed to contingency theory by showing that:",
+     "options": [
+      "Customers affect structure",
+      "Pay affects structure",
+      "Technology (unit, mass, process production) affects organisational structure",
+      "Taxes affect structure"
+     ],
+     "correct_index": 2,
+     "explanation": "Success depends on fit with technology."
+    },
+    {
+     "question_text": "According to Burns and Stalker, mechanistic organisations suit _____ environments, and organic ones suit _____:",
+     "options": [
+      "Organic; stable",
+      "Changing; stable",
+      "Stable; changing",
+      "Rigid; stable"
+     ],
+     "correct_index": 2,
+     "explanation": "Organic structures are flexible."
+    },
+    {
+     "question_text": "Lawrence and Lorsch proposed that organisations need:",
+     "options": [
+      "Only differentiation",
+      "Differentiation and integration to fit their environment",
+      "No structure",
+      "Only integration"
+     ],
+     "correct_index": 1,
+     "explanation": "Different subunits must also be coordinated."
+    },
+    {
+     "question_text": "A merit of the contingency approach is:",
+     "options": [
+      "One best way",
+      "Ignoring the environment",
+      "Flexibility and realism in matching management to the situation",
+      "Fixed rules"
+     ],
+     "correct_index": 2,
+     "explanation": "A demerit is that it lacks a universal theory."
+    },
+    {
+     "question_text": "Which correctly compares the approaches?",
+     "options": [
+      "Modern on tasks only",
+      "Classical on people only",
+      "Classical focuses on tasks and structure, behavioural on people, and modern on systems and situations",
+      "All are the same"
+     ],
+     "correct_index": 2,
+     "explanation": "They developed in that sequence."
+    }
+   ]
+  }
+ ]
+}
