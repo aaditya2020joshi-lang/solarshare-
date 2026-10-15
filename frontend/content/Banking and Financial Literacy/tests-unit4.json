@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 4: Financial Services from Post Office, Provident and Pension Funds, Tax – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Post office savings schemes are run by the _____ and are very safe because they are _____:",
+     "options": [
+      "Department of Posts; backed by the Government of India (sovereign guarantee)",
+      "IRDAI; insurance backed",
+      "RBI; insured by banks",
+      "SEBI; market linked"
+     ],
+     "correct_index": 0,
+     "explanation": "The government guarantees repayment."
+    },
+    {
+     "question_text": "Small savings interest rates are notified:",
+     "options": [
+      "By the RBI yearly",
+      "By SEBI monthly",
+      "By the Ministry of Finance every quarter",
+      "By banks daily"
+     ],
+     "correct_index": 2,
+     "explanation": "Rates can change each quarter."
+    },
+    {
+     "question_text": "A common feature of post office schemes is:",
+     "options": [
+      "High risk",
+      "Safety, fixed returns, nominal minimum deposits and nomination facility",
+      "Market-linked returns",
+      "No nomination"
+     ],
+     "correct_index": 1,
+     "explanation": "They are accessible in rural areas."
+    },
+    {
+     "question_text": "The Post Office Savings Account has a minimum balance of:",
+     "options": [
+      "Rs 500",
+      "Rs 5,000",
+      "Rs 50",
+      "Rs 1,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest is paid annually and cheque/ATM facility is available."
+    },
+    {
+     "question_text": "The Post Office RD has a tenure of:",
+     "options": [
+      "1 year",
+      "3 years",
+      "5 years, with a minimum of Rs 100 per month",
+      "10 years"
+     ],
+     "correct_index": 2,
+     "explanation": "Interest is compounded quarterly."
+    },
+    {
+     "question_text": "The Post Office TD is available for tenures of:",
+     "options": [
+      "Only 10 years",
+      "Only 1 year",
+      "1, 2, 3 and 5 years (minimum Rs 1,000)",
+      "Only 5 months"
+     ],
+     "correct_index": 2,
+     "explanation": "The 5-year TD qualifies for Section 80C."
+    },
+    {
+     "question_text": "The Monthly Income Scheme has a maximum investment of:",
+     "options": [
+      "No limit",
+      "Rs 9 lakh (single) and Rs 15 lakh (joint)",
+      "Rs 1 lakh",
+      "Rs 5 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a 5-year scheme paying monthly interest."
+    },
+    {
+     "question_text": "Kisan Vikas Patra doubles the investment in about:",
+     "options": [
+      "5 years",
+      "1 year",
+      "9 years 7 months at current rates",
+      "20 years"
+     ],
+     "correct_index": 2,
+     "explanation": "It has no 80C benefit and no TDS."
+    },
+    {
+     "question_text": "NSC VIII issue is a:",
+     "options": [
+      "5-year certificate with Section 80C deduction on the investment",
+      "10-year certificate",
+      "1-year certificate",
+      "Certificate without tax benefit"
+     ],
+     "correct_index": 0,
+     "explanation": "Interest is compounded annually and paid at maturity."
+    },
+    {
+     "question_text": "PPF has a tenure of:",
+     "options": [
+      "5 years",
+      "3 years",
+      "15 years (extendable in blocks of 5 years), with Rs 500 minimum and Rs 1.5 lakh maximum per year",
+      "30 years only"
+     ],
+     "correct_index": 2,
+     "explanation": "It has EEE tax status."
+    },
+    {
+     "question_text": "EEE status means:",
+     "options": [
+      "Excluded, Exempt, Exempt",
+      "Exempt, Exempt, Excluded",
+      "Equity, Earnings, Exit",
+      "Exempt on investment, exempt on interest and exempt on maturity"
+     ],
+     "correct_index": 3,
+     "explanation": "PPF and SSY have it."
+    },
+    {
+     "question_text": "In PPF, loan is available from the:",
+     "options": [
+      "15th year only",
+      "3rd to the 6th year, and partial withdrawal from the 7th year",
+      "1st year",
+      "2nd year only"
+     ],
+     "correct_index": 1,
+     "explanation": "Withdrawal is limited."
+    },
+    {
+     "question_text": "The Senior Citizen Savings Scheme is for:",
+     "options": [
+      "Those aged 60 and above (and retired employees aged 55–60 under conditions)",
+      "Children",
+      "Students",
+      "Those aged 18"
+     ],
+     "correct_index": 0,
+     "explanation": "It pays interest quarterly."
+    },
+    {
+     "question_text": "The maximum investment in SCSS is _____ and the tenure is _____:",
+     "options": [
+      "Rs 1 lakh; 1 year",
+      "Rs 5 lakh; 10 years",
+      "Rs 30 lakh; 5 years (extendable by 3 years)",
+      "Rs 50 lakh; 3 years"
+     ],
+     "correct_index": 2,
+     "explanation": "It has 80C benefit; interest is taxable."
+    },
+    {
+     "question_text": "Sukanya Samriddhi Yojana is:",
+     "options": [
+      "A savings scheme for the girl child",
+      "An insurance scheme",
+      "A scheme for boys",
+      "A loan scheme"
+     ],
+     "correct_index": 0,
+     "explanation": "It was launched in 2015."
+    },
+    {
+     "question_text": "SSY is for a girl below _____, with deposits for _____ and maturity at _____ from opening:",
+     "options": [
+      "10 years; 15 years; 21 years",
+      "18 years; 5 years; 10 years",
+      "21 years; 21 years; 21 years",
+      "5 years; 10 years; 15 years"
+     ],
+     "correct_index": 0,
+     "explanation": "Partial withdrawal of 50% is allowed at 18."
+    },
+    {
+     "question_text": "SSY was launched under the campaign:",
+     "options": [
+      "Make in India",
+      "Beti Bachao Beti Padhao",
+      "Swachh Bharat",
+      "Digital India"
+     ],
+     "correct_index": 1,
+     "explanation": "It supports the girl child."
+    },
+    {
+     "question_text": "The Mahila Samman Savings Certificate was:",
+     "options": [
+      "A scheme for men",
+      "A 10-year scheme",
+      "An insurance scheme",
+      "A 2-year scheme for women and girls, closed for new deposits after 31 March 2025"
+     ],
+     "correct_index": 3,
+     "explanation": "It was introduced in 2023."
+    },
+    {
+     "question_text": "Among PPF, NSC, SCSS and SSY, the one with a 21-year tenure is:",
+     "options": [
+      "SSY",
+      "NSC",
+      "PPF",
+      "SCSS"
+     ],
+     "correct_index": 0,
+     "explanation": "PPF has 15 years; NSC and SCSS have 5."
+    },
+    {
+     "question_text": "India Post Payments Bank (IPPB) was launched in:",
+     "options": [
+      "2000",
+      "2025",
+      "1935",
+      "2018"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a payments bank wholly owned by the government."
+    },
+    {
+     "question_text": "IPPB offers doorstep banking through:",
+     "options": [
+      "Online only",
+      "Agents only",
+      "Branches only",
+      "Postmen and Gramin Dak Sevaks with micro-ATMs"
+     ],
+     "correct_index": 3,
+     "explanation": "It uses Aadhaar-enabled services."
+    },
+    {
+     "question_text": "An e-money order is:",
+     "options": [
+      "The electronic version of the traditional postal money order",
+      "A card",
+      "A loan",
+      "A cheque"
+     ],
+     "correct_index": 0,
+     "explanation": "A money order is a traditional postal remittance."
+    },
+    {
+     "question_text": "India Post's international money transfer service is offered:",
+     "options": [
+      "For cards",
+      "For loans",
+      "For outward only",
+      "For inward remittances via Western Union"
+     ],
+     "correct_index": 3,
+     "explanation": "IPPB also provides remittances."
+    },
+    {
+     "question_text": "AI detects fraud in postal accounts by:",
+     "options": [
+      "Closing accounts",
+      "Ignoring data",
+      "Manual checking only",
+      "Real-time monitoring of unusual transaction patterns"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., sudden withdrawals or dormant account activity."
+    },
+    {
+     "question_text": "Biometrics and OTP secure postal transactions by:",
+     "options": [
+      "Skipping verification",
+      "Verifying that the genuine customer is making the transaction",
+      "Printing receipts",
+      "Removing PINs"
+     ],
+     "correct_index": 1,
+     "explanation": "They add authentication layers."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Financial Services from Post Office, Provident and Pension Funds, Tax – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Jeevan Pramaan is:",
+     "options": [
+      "An insurance",
+      "A card",
+      "A digital life certificate for pensioners, including face authentication",
+      "A loan"
+     ],
+     "correct_index": 2,
+     "explanation": "It saves pensioners a visit to the office."
+    },
+    {
+     "question_text": "A challenge in securing rural postal banking is:",
+     "options": [
+      "High literacy",
+      "No customers",
+      "No data",
+      "Low digital literacy, poor connectivity and legacy systems"
+     ],
+     "correct_index": 3,
+     "explanation": "Privacy is also a concern."
+    },
+    {
+     "question_text": "The types of provident funds include:",
+     "options": [
+      "Only GPF",
+      "Only EPF",
+      "Only PPF",
+      "EPF, GPF, PPF and VPF"
+     ],
+     "correct_index": 3,
+     "explanation": "They differ by coverage."
+    },
+    {
+     "question_text": "The EPF operates under the _____ and is managed by _____:",
+     "options": [
+      "EPF & Miscellaneous Provisions Act, 1952; EPFO",
+      "Companies Act; SEBI",
+      "Banking Regulation Act; RBI",
+      "Insurance Act; IRDAI"
+     ],
+     "correct_index": 0,
+     "explanation": "It applies to establishments with 20 or more employees."
+    },
+    {
+     "question_text": "The EPF contribution rates are:",
+     "options": [
+      "20% each",
+      "8% each",
+      "12% of basic wages plus DA by the employee and 12% by the employer",
+      "5% each"
+     ],
+     "correct_index": 2,
+     "explanation": "Both contribute equally."
+    },
+    {
+     "question_text": "Of the employer's 12%, EPS gets _____ and EPF gets _____:",
+     "options": [
+      "6%; 6%",
+      "3.67%; 8.33%",
+      "12%; 0%",
+      "8.33%; 3.67%"
+     ],
+     "correct_index": 3,
+     "explanation": "EPS is on a wage ceiling of Rs 15,000."
+    },
+    {
+     "question_text": "UAN is:",
+     "options": [
+      "A tax number",
+      "A card",
+      "A bank account",
+      "Universal Account Number that identifies an EPF member"
+     ],
+     "correct_index": 3,
+     "explanation": "It stays constant across jobs."
+    },
+    {
+     "question_text": "The EPF interest rate is declared by:",
+     "options": [
+      "The Central Board of Trustees (approved by the Finance Ministry)",
+      "SEBI",
+      "The RBI",
+      "Banks"
+     ],
+     "correct_index": 0,
+     "explanation": "It is credited annually."
+    },
+    {
+     "question_text": "Full EPF withdrawal is allowed at retirement (58 years) or:",
+     "options": [
+      "After 1 day",
+      "After 5 years",
+      "After 2 months of unemployment",
+      "After 1 week"
+     ],
+     "correct_index": 2,
+     "explanation": "Partial withdrawals are allowed for marriage, education, illness and housing."
+    },
+    {
+     "question_text": "A Voluntary Provident Fund is:",
+     "options": [
+      "A loan",
+      "An extra contribution beyond 12% that earns the same EPF rate",
+      "An insurance",
+      "A card"
+     ],
+     "correct_index": 1,
+     "explanation": "It is optional."
+    },
+    {
+     "question_text": "EPF differs from PPF in that EPF is:",
+     "options": [
+      "Open to all",
+      "For students",
+      "For salaried employees with employer contributions, while PPF is open to all residents",
+      "Without employer contribution"
+     ],
+     "correct_index": 2,
+     "explanation": "Both have tax benefits."
+    },
+    {
+     "question_text": "GPF is:",
+     "options": [
+      "The General Provident Fund for government employees",
+      "For private employees",
+      "For farmers",
+      "For students"
+     ],
+     "correct_index": 0,
+     "explanation": "Those joining after 2004 are under NPS."
+    },
+    {
+     "question_text": "EPFO invests mainly in:",
+     "options": [
+      "Gold only",
+      "Government securities, state development loans, PSU bonds and AAA corporate bonds",
+      "Crypto",
+      "Real estate"
+     ],
+     "correct_index": 1,
+     "explanation": "It also invests in equity ETFs."
+    },
+    {
+     "question_text": "Up to _____ of PF money can be invested in equity ETFs:",
+     "options": [
+      "50%",
+      "1%",
+      "100%",
+      "15%"
+     ],
+     "correct_index": 3,
+     "explanation": "Since 2015, in Nifty/Sensex-based ETFs."
+    },
+    {
+     "question_text": "The growth of PF in India is shown by EPFO having:",
+     "options": [
+      "A small corpus",
+      "Over 7 crore active contributors and a corpus of over Rs 25 lakh crore",
+      "No corpus",
+      "Few contributors"
+     ],
+     "correct_index": 1,
+     "explanation": "Digitisation through UAN and UMANG helped."
+    },
+    {
+     "question_text": "EDLI is:",
+     "options": [
+      "A tax",
+      "A loan",
+      "A card",
+      "The Employees' Deposit Linked Insurance scheme providing life cover to EPF members"
+     ],
+     "correct_index": 3,
+     "explanation": "It pays a lump sum to nominees."
+    },
+    {
+     "question_text": "The EPS is:",
+     "options": [
+      "The Employees' Pension Scheme, which provides pension after retirement from the employer's share",
+      "A tax",
+      "A card",
+      "A loan"
+     ],
+     "correct_index": 0,
+     "explanation": "8.33% of the employer's share goes to it."
+    },
+    {
+     "question_text": "The pillars of the pension system are:",
+     "options": [
+      "Only voluntary",
+      "Only government",
+      "Only mandatory",
+      "Mandatory (EPF/EPS), voluntary (NPS, PPF) and social assistance (NSAP, APY)"
+     ],
+     "correct_index": 3,
+     "explanation": "They cover different groups."
+    },
+    {
+     "question_text": "The NPS is regulated by:",
+     "options": [
+      "PFRDA",
+      "SEBI",
+      "IRDAI",
+      "RBI"
+     ],
+     "correct_index": 0,
+     "explanation": "It was launched in 2004 for government employees and extended to all in 2009."
+    },
+    {
+     "question_text": "NPS Tier I is _____ and Tier II is _____:",
+     "options": [
+      "Both mandatory",
+      "Both voluntary",
+      "Voluntary; mandatory",
+      "Mandatory, locked till 60; voluntary with flexible withdrawal"
+     ],
+     "correct_index": 3,
+     "explanation": "Tier II is like a savings account."
+    },
+    {
+     "question_text": "PRAN is:",
+     "options": [
+      "A bank account",
+      "A PAN",
+      "A card number",
+      "Permanent Retirement Account Number of an NPS subscriber"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a unique 12-digit number."
+    },
+    {
+     "question_text": "The asset classes in NPS are:",
+     "options": [
+      "Only G",
+      "E (equity), C (corporate bonds), G (government securities) and A (alternative)",
+      "Only A",
+      "Only E"
+     ],
+     "correct_index": 1,
+     "explanation": "Subscribers choose the allocation."
+    },
+    {
+     "question_text": "NPS active choice means:",
+     "options": [
+      "No choice",
+      "The fund manager decides",
+      "The subscriber decides the allocation, while auto choice follows a life-cycle fund",
+      "Allocation is fixed"
+     ],
+     "correct_index": 2,
+     "explanation": "Auto choice shifts from equity to debt with age."
+    },
+    {
+     "question_text": "On NPS exit at 60, subscribers:",
+     "options": [
+      "Cannot withdraw",
+      "Use a portion to buy an annuity and take the rest as a lump sum (rules revised from time to time)",
+      "Withdraw everything without conditions",
+      "Lose the money"
+     ],
+     "correct_index": 1,
+     "explanation": "The earlier pattern was 60:40."
+    },
+    {
+     "question_text": "Tax benefits of NPS include:",
+     "options": [
+      "80CCD(1), an additional Rs 50,000 under 80CCD(1B) and employer's contribution under 80CCD(2)",
+      "Only 80D",
+      "Only 80G",
+      "No tax benefit"
+     ],
+     "correct_index": 0,
+     "explanation": "80CCD(2) is also available in the new regime."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Financial Services from Post Office, Provident and Pension Funds, Tax – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The Unified Pension Scheme is:",
+     "options": [
+      "A loan",
+      "A tax",
+      "A card",
+      "An option for government employees from 1 April 2025 alongside NPS, with an assured payout on 25+ years of service"
+     ],
+     "correct_index": 3,
+     "explanation": "It gives assured pension."
+    },
+    {
+     "question_text": "The Atal Pension Yojana is:",
+     "options": [
+      "A scheme for unorganised-sector workers aged 18–40, with a guaranteed monthly pension of Rs 1,000–5,000 from age 60",
+      "A tax",
+      "A card",
+      "A loan"
+     ],
+     "correct_index": 0,
+     "explanation": "It is run by PFRDA."
+    },
+    {
+     "question_text": "The Old Pension Scheme (OPS) is:",
+     "options": [
+      "For private workers",
+      "A loan",
+      "A defined-contribution scheme",
+      "A defined-benefit pension for government employees who joined before 2004"
+     ],
+     "correct_index": 3,
+     "explanation": "The pension is fixed by formula."
+    },
+    {
+     "question_text": "A defined benefit pension differs from a defined contribution pension in that DB:",
+     "options": [
+      "Is NPS",
+      "Is market-linked",
+      "Pays a fixed amount by formula, while DC depends on contributions and returns",
+      "Depends on returns"
+     ],
+     "correct_index": 2,
+     "explanation": "OPS is DB; NPS is DC."
+    },
+    {
+     "question_text": "An annuity is:",
+     "options": [
+      "A card",
+      "A series of regular payments, usually purchased with a lump sum to provide pension",
+      "A loan",
+      "A tax"
+     ],
+     "correct_index": 1,
+     "explanation": "It provides income during retirement."
+    },
+    {
+     "question_text": "Longevity risk is:",
+     "options": [
+      "The risk of outliving one's savings",
+      "The risk of tax",
+      "The risk of early death",
+      "The risk of inflation only"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a key retirement risk."
+    },
+    {
+     "question_text": "AI helps in personalised pension planning by:",
+     "options": [
+      "Ignoring data",
+      "Computing the required corpus, recommending contributions and asset allocation",
+      "Removing risk",
+      "Fixing returns"
+     ],
+     "correct_index": 1,
+     "explanation": "It also sends nudges."
+    },
+    {
+     "question_text": "The retirement corpus is calculated from:",
+     "options": [
+      "Only income",
+      "Only savings",
+      "Only age",
+      "Expenses × inflation × years in retirement (with expected returns)"
+     ],
+     "correct_index": 3,
+     "explanation": "The result is the amount needed at retirement."
+    },
+    {
+     "question_text": "A Monte Carlo simulation in retirement planning:",
+     "options": [
+      "Fixes returns",
+      "Gives one exact answer",
+      "Runs many random scenarios of returns to estimate the chance of meeting goals",
+      "Eliminates risk"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows the probability of success."
+    },
+    {
+     "question_text": "A challenge in pension investments is:",
+     "options": [
+      "Longevity and inflation risks, low contributions and market volatility",
+      "No regulation",
+      "No risk",
+      "Certainty of returns"
+     ],
+     "correct_index": 0,
+     "explanation": "Digital literacy gaps also matter."
+    },
+    {
+     "question_text": "The Income-tax Act, 2025 replaces the 1961 Act:",
+     "options": [
+      "From 1 April 1961",
+      "Never",
+      "From 1 April 2026, with renumbered sections",
+      "From 1 April 2020"
+     ],
+     "correct_index": 2,
+     "explanation": "The notes use the 1961 section numbers."
+    },
+    {
+     "question_text": "The new tax regime is:",
+     "options": [
+      "The default regime with lower slab rates and fewer deductions, while the old regime has higher rates but allows deductions",
+      "The one with deductions",
+      "The only regime",
+      "The old one"
+     ],
+     "correct_index": 0,
+     "explanation": "Taxpayers choose according to benefit."
+    },
+    {
+     "question_text": "Section 80C eligible investments include:",
+     "options": [
+      "Cryptocurrency",
+      "Gold coins",
+      "EPF, PPF, NSC, SSY, tax-saver FD and ELSS",
+      "Cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Also life insurance premium and home-loan principal."
+    },
+    {
+     "question_text": "The limit of Section 80C is:",
+     "options": [
+      "Rs 5 lakh",
+      "No limit",
+      "Rs 1.5 lakh per year (old regime)",
+      "Rs 50,000"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a combined limit."
+    },
+    {
+     "question_text": "The 80C instrument with the shortest lock-in is:",
+     "options": [
+      "PPF",
+      "ELSS",
+      "Tax-saver FD",
+      "NSC"
+     ],
+     "correct_index": 1,
+     "explanation": "It has a 3-year lock-in."
+    },
+    {
+     "question_text": "The lock-in period of ELSS is:",
+     "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "15 years"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the shortest among 80C options."
+    },
+    {
+     "question_text": "Section 80CCD(1B) provides:",
+     "options": [
+      "An additional deduction of up to Rs 50,000 for NPS contributions",
+      "A deduction for education loans",
+      "A deduction for donations",
+      "A deduction for health insurance"
+     ],
+     "correct_index": 0,
+     "explanation": "It is over and above 80C."
+    },
+    {
+     "question_text": "Section 80D allows deduction for:",
+     "options": [
+      "Donations",
+      "Home loan",
+      "Education loan",
+      "Health insurance premium: Rs 25,000 for self, spouse and children plus Rs 25,000 for parents"
+     ],
+     "correct_index": 3,
+     "explanation": "Limits are higher for senior citizens."
+    },
+    {
+     "question_text": "The 80D limit for senior citizens is:",
+     "options": [
+      "Rs 25,000",
+      "Rs 1 lakh",
+      "Rs 5,000",
+      "Rs 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "It applies to self or parents who are senior citizens."
+    },
+    {
+     "question_text": "Section 80G allows deduction for:",
+     "options": [
+      "Donations: 100% or 50% of the amount, with or without a qualifying limit (10% of adjusted gross income)",
+      "Home loan",
+      "Education loan",
+      "Health insurance"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., PM CARES (100%)."
+    },
+    {
+     "question_text": "A cash donation of Rs 5,000 under 80G is:",
+     "options": [
+      "Eligible fully",
+      "Eligible always",
+      "Eligible 50%",
+      "Not eligible, since cash donations above Rs 2,000 are not allowed"
+     ],
+     "correct_index": 3,
+     "explanation": "Donations should be by non-cash modes."
+    },
+    {
+     "question_text": "Section 80E gives deduction for:",
+     "options": [
+      "Interest on education loan, with no upper limit for 8 years",
+      "Health insurance",
+      "Home loan",
+      "Donations"
+     ],
+     "correct_index": 0,
+     "explanation": "It covers higher education loans."
+    },
+    {
+     "question_text": "Section 80TTA allows deduction up to _____ on savings account interest, and 80TTB gives _____ for senior citizens:",
+     "options": [
+      "Rs 1 lakh; Rs 2 lakh",
+      "Rs 50,000; Rs 10,000",
+      "Rs 10,000; Rs 50,000",
+      "Rs 5,000; Rs 10,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are old-regime deductions."
+    },
+    {
+     "question_text": "One must file an ITR if:",
+     "options": [
+      "Income exceeds the basic exemption limit or in other specified cases",
+      "Never",
+      "Income is zero",
+      "Always"
+     ],
+     "correct_index": 0,
+     "explanation": "Also for foreign assets and high deposits."
+    },
+    {
+     "question_text": "The due date for filing ITR for non-audit individuals is:",
+     "options": [
+      "31 December",
+      "31 March",
+      "31 July of the assessment year",
+      "1 April"
+     ],
+     "correct_index": 2,
+     "explanation": "Belated returns are allowed with fees."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Financial Services from Post Office, Provident and Pension Funds, Tax – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "ITR-1 (Sahaj) is for:",
+     "options": [
+      "Companies",
+      "Residents with salary, one house property and other sources up to Rs 50 lakh",
+      "Trusts",
+      "Businesses"
+     ],
+     "correct_index": 1,
+     "explanation": "ITR-2 is for capital gains and ITR-4 for presumptive income."
+    },
+    {
+     "question_text": "Form 16 is:",
+     "options": [
+      "A loan form",
+      "A TDS certificate issued by the employer for salary",
+      "A bank form",
+      "A card form"
+     ],
+     "correct_index": 1,
+     "explanation": "It shows salary and TDS."
+    },
+    {
+     "question_text": "Form 26AS, AIS and TIS show:",
+     "options": [
+      "The taxpayer's tax credits and financial transactions reported to the tax department",
+      "Only loans",
+      "Only cards",
+      "Only savings"
+     ],
+     "correct_index": 0,
+     "explanation": "They are used to verify the return."
+    },
+    {
+     "question_text": "A belated return is:",
+     "options": [
+      "A corrected return",
+      "No return",
+      "A return filed after the due date",
+      "A return filed early"
+     ],
+     "correct_index": 2,
+     "explanation": "A fee is payable."
+    },
+    {
+     "question_text": "A revised return is:",
+     "options": [
+      "No return",
+      "A new return",
+      "A belated return",
+      "A return filed to correct errors in the original return"
+     ],
+     "correct_index": 3,
+     "explanation": "It replaces the earlier return."
+    },
+    {
+     "question_text": "e-Verification of an ITR must be done within:",
+     "options": [
+      "No limit",
+      "30 days of filing",
+      "3 days",
+      "1 year"
+     ],
+     "correct_index": 1,
+     "explanation": "Otherwise the return is invalid."
+    },
+    {
+     "question_text": "Ways of e-verification include:",
+     "options": [
+      "Only post",
+      "Only phone",
+      "Aadhaar OTP, net banking, EVC and DSC",
+      "Only cash"
+     ],
+     "correct_index": 2,
+     "explanation": "One can also send a signed ITR-V to CPC Bengaluru."
+    },
+    {
+     "question_text": "To file ITR using an Excel utility, one first:",
+     "options": [
+      "Prints the form",
+      "Downloads the utility from the e-filing portal for the relevant ITR form and assessment year",
+      "Visits a shop",
+      "Visits the bank"
+     ],
+     "correct_index": 1,
+     "explanation": "Then fill, validate and generate the JSON file."
+    },
+    {
+     "question_text": "The JSON file in e-filing is:",
+     "options": [
+      "A loan file",
+      "A bank file",
+      "The file generated by the utility that is uploaded to the portal to file the return",
+      "A card file"
+     ],
+     "correct_index": 2,
+     "explanation": "It is uploaded in offline mode."
+    },
+    {
+     "question_text": "Taxable income is calculated as:",
+     "options": [
+      "Deductions only",
+      "Income × tax",
+      "Gross total income − deductions",
+      "Gross income + deductions"
+     ],
+     "correct_index": 2,
+     "explanation": "Then slab rates are applied."
+    },
+    {
+     "question_text": "The 4% cess is:",
+     "options": [
+      "Health and education cess added to the tax payable",
+      "A refund",
+      "A rebate",
+      "A subsidy"
+     ],
+     "correct_index": 0,
+     "explanation": "It is levied on tax plus surcharge."
+    },
+    {
+     "question_text": "The Section 87A rebate:",
+     "options": [
+      "Reduces tax payable for resident individuals with income below a specified limit",
+      "Is a loan",
+      "Increases tax",
+      "Is a donation"
+     ],
+     "correct_index": 0,
+     "explanation": "It can bring tax to zero."
+    },
+    {
+     "question_text": "Gross income Rs 8 lakh, 80C Rs 1.5 lakh, 80D Rs 25,000 (old regime). The taxable income is:",
+     "options": [
+      "Rs 8,00,000",
+      "Rs 6,50,000",
+      "Rs 6,25,000",
+      "Rs 5,00,000"
+     ],
+     "correct_index": 2,
+     "explanation": "8,00,000 − 1,50,000 − 25,000."
+    },
+    {
+     "question_text": "One should prefer small savings schemes because they:",
+     "options": [
+      "Are safe and give assured returns, but their limitations are lower returns and limits",
+      "Are risky",
+      "Are unsafe",
+      "Have high returns"
+     ],
+     "correct_index": 0,
+     "explanation": "They are sovereign-guaranteed."
+    },
+    {
+     "question_text": "Three post office schemes with 80C benefit are:",
+     "options": [
+      "RD, MIS, KVP",
+      "NSC, 5-year TD and SSY (or PPF and SCSS)",
+      "KVP, MIS, RD",
+      "Savings account, MIS, KVP"
+     ],
+     "correct_index": 1,
+     "explanation": "KVP, MIS and RD have no 80C benefit."
+    },
+    {
+     "question_text": "KVP differs from NSC in that KVP:",
+     "options": [
+      "Is a bank product",
+      "Doubles the investment in a fixed period with no 80C benefit, while NSC is a 5-year certificate with 80C benefit",
+      "Is for 5 years",
+      "Has 80C benefit"
+     ],
+     "correct_index": 1,
+     "explanation": "Both have a minimum of Rs 1,000."
+    },
+    {
+     "question_text": "MIS differs from SCSS in that MIS:",
+     "options": [
+      "Pays quarterly",
+      "Has 80C benefit",
+      "Pays monthly interest with no age limit, while SCSS pays quarterly interest for seniors with 80C benefit",
+      "Is for seniors"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are 5-year schemes."
+    },
+    {
+     "question_text": "A dormant account is:",
+     "options": [
+      "An active account",
+      "A closed account",
+      "An account with no transactions for a long period; it is reactivated by completing KYC and a transaction",
+      "A loan account"
+     ],
+     "correct_index": 2,
+     "explanation": "Unclaimed balances go to the DEA Fund after 10 years."
+    },
+    {
+     "question_text": "TDS on interest can be avoided if the depositor submits:",
+     "options": [
+      "Form 26AS",
+      "Form 16",
+      "Form 1",
+      "Form 15G (below the taxable limit) or Form 15H (senior citizens)"
+     ],
+     "correct_index": 3,
+     "explanation": "They declare that no tax is payable."
+    },
+    {
+     "question_text": "PPF Rs 1,000 per year for 3 years at 7% (annual compounding, deposits at start of year) matures at about:",
+     "options": [
+      "Rs 3,700",
+      "Rs 3,210",
+      "Rs 3,000",
+      "Rs 3,440"
+     ],
+     "correct_index": 3,
+     "explanation": "1,000 × (1.07³ + 1.07² + 1.07)."
+    },
+    {
+     "question_text": "Form 15G differs from Form 15H in that 15G is for:",
+     "options": [
+      "Seniors",
+      "Companies",
+      "Individuals below 60, and 15H for senior citizens aged 60 and above",
+      "Banks"
+     ],
+     "correct_index": 2,
+     "explanation": "Both request no TDS."
+    },
+    {
+     "question_text": "A pensioner submits a digital life certificate through:",
+     "options": [
+      "Post only",
+      "Jeevan Pramaan using Aadhaar biometrics or face authentication",
+      "Phone call",
+      "A branch visit only"
+     ],
+     "correct_index": 1,
+     "explanation": "It avoids physical visits."
+    },
+    {
+     "question_text": "Section 80C differs from 80CCD(1B) in that 80CCD(1B) gives:",
+     "options": [
+      "The same limit",
+      "An additional Rs 50,000 deduction only for NPS beyond the 80C limit",
+      "A health deduction",
+      "An education loan deduction"
+     ],
+     "correct_index": 1,
+     "explanation": "They can be claimed together."
+    },
+    {
+     "question_text": "Small savings schemes are called sovereign-guaranteed because:",
+     "options": [
+      "They are backed by customers",
+      "They are backed by the Government of India",
+      "They are backed by banks",
+      "They are backed by SEBI"
+     ],
+     "correct_index": 1,
+     "explanation": "Repayment risk is minimal."
+    },
+    {
+     "question_text": "PPF partial withdrawal is allowed:",
+     "options": [
+      "In the 1st year",
+      "Never",
+      "From the 7th year, limited to a prescribed percentage of the balance",
+      "In the 2nd year"
+     ],
+     "correct_index": 2,
+     "explanation": "Full withdrawal is only at maturity."
+    }
+   ]
+  }
+ ]
+}

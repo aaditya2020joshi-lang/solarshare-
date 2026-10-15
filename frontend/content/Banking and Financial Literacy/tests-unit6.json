@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 6: Stock Markets and Mutual Funds – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The securities market is:",
+     "options": [
+      "A bank",
+      "A market where shares, bonds and other securities are issued and traded, providing capital to companies and avenues for investors",
+      "A vegetable market",
+      "A shopping market"
+     ],
+     "correct_index": 1,
+     "explanation": "It is also an indicator of the economy."
+    },
+    {
+     "question_text": "The primary market differs from the secondary market in that the primary market:",
+     "options": [
+      "Is a bank",
+      "Is where new securities are issued to raise funds, while the secondary market is where existing securities are traded",
+      "Is only for bonds",
+      "Trades old securities"
+     ],
+     "correct_index": 1,
+     "explanation": "Companies get funds only in the primary market."
+    },
+    {
+     "question_text": "Methods of raising capital in the primary market include:",
+     "options": [
+      "IPO, FPO, rights issue, private placement and OFS",
+      "Only deposits",
+      "Only loans",
+      "Only bonds"
+     ],
+     "correct_index": 0,
+     "explanation": "Also QIP and preferential allotment."
+    },
+    {
+     "question_text": "An IPO is:",
+     "options": [
+      "A dividend",
+      "A loan",
+      "A bonus",
+      "A company's first offer of shares to the public; the process includes DRHP, SEBI approval, book building, allotment and listing"
+     ],
+     "correct_index": 3,
+     "explanation": "Investors apply through ASBA or UPI."
+    },
+    {
+     "question_text": "Book building is:",
+     "options": [
+      "A method to build books",
+      "A price-discovery method where investors bid within a price band and the final price is decided on demand",
+      "A tax method",
+      "A fixed price method"
+     ],
+     "correct_index": 1,
+     "explanation": "Most IPOs use it."
+    },
+    {
+     "question_text": "ASBA is:",
+     "options": [
+      "A tax",
+      "Application Supported by Blocked Amount, where the bid amount is blocked in the investor's bank account until allotment",
+      "A card",
+      "A loan"
+     ],
+     "correct_index": 1,
+     "explanation": "Money is debited only on allotment."
+    },
+    {
+     "question_text": "A rights issue gives _____, and a bonus issue gives _____:",
+     "options": [
+      "Dividends; loans",
+      "Loans; dividends",
+      "Free shares; the right to buy",
+      "Existing shareholders the right to buy additional shares at a set price; free additional shares"
+     ],
+     "correct_index": 3,
+     "explanation": "Both are offered to existing shareholders."
+    },
+    {
+     "question_text": "OFS is:",
+     "options": [
+      "Order for Shares",
+      "Offer for Sale, a route by which promoters sell their shares to the public through the exchange",
+      "Offer for Savings",
+      "Offer for Stock"
+     ],
+     "correct_index": 1,
+     "explanation": "It is used for disinvestment and reducing promoter holding."
+    },
+    {
+     "question_text": "Instruments traded in the securities market include:",
+     "options": [
+      "Land",
+      "Equity shares, bonds, derivatives, mutual fund units and ETFs",
+      "Cash only",
+      "Gold bars"
+     ],
+     "correct_index": 1,
+     "explanation": "Also G-secs and REITs."
+    },
+    {
+     "question_text": "Participants of the securities market include:",
+     "options": [
+      "Investors, brokers, exchanges, depositories and regulators",
+      "Only SEBI",
+      "Only brokers",
+      "Only investors"
+     ],
+     "correct_index": 0,
+     "explanation": "Also clearing corporations and rating agencies."
+    },
+    {
+     "question_text": "SEBI was set up in _____ and given statutory status in _____:",
+     "options": [
+      "1988; 1992 (SEBI Act)",
+      "1999; 2005",
+      "1992; 1988",
+      "1935; 1949"
+     ],
+     "correct_index": 0,
+     "explanation": "It is headquartered in Mumbai."
+    },
+    {
+     "question_text": "The objectives of SEBI include:",
+     "options": [
+      "Collecting income tax",
+      "Protecting investors, regulating the securities market and promoting its development",
+      "Issuing insurance",
+      "Printing money"
+     ],
+     "correct_index": 1,
+     "explanation": "It has quasi-legislative, judicial and executive powers."
+    },
+    {
+     "question_text": "SCORES and Smart ODR are:",
+     "options": [
+      "Trading apps",
+      "SEBI's online platforms for investor grievance redressal",
+      "Banks",
+      "Stock indices"
+     ],
+     "correct_index": 1,
+     "explanation": "Appeals go to the Securities Appellate Tribunal."
+    },
+    {
+     "question_text": "The BSE was established in:",
+     "options": [
+      "1992",
+      "1956",
+      "1875, Asia's oldest stock exchange",
+      "2000"
+     ],
+     "correct_index": 2,
+     "explanation": "It is located in Mumbai."
+    },
+    {
+     "question_text": "The Sensex is:",
+     "options": [
+      "A bank",
+      "NSE's index",
+      "A fund",
+      "BSE's benchmark index of 30 large companies"
+     ],
+     "correct_index": 3,
+     "explanation": "It is weighted by free-float market capitalisation."
+    },
+    {
+     "question_text": "The NSE started trading in:",
+     "options": [
+      "1875",
+      "1956",
+      "2020",
+      "1994 as the first fully electronic screen-based exchange (set up in 1992)"
+     ],
+     "correct_index": 3,
+     "explanation": "It is based in Mumbai."
+    },
+    {
+     "question_text": "The Nifty 50 is:",
+     "options": [
+      "A bank",
+      "BSE's index",
+      "NSE's benchmark index of 50 companies",
+      "A fund"
+     ],
+     "correct_index": 2,
+     "explanation": "Its base year is 1995 with base value 1000."
+    },
+    {
+     "question_text": "Indices are weighted by free-float market capitalisation, which is:",
+     "options": [
+      "The market value of shares available for public trading",
+      "Total share capital",
+      "Profit",
+      "Sales"
+     ],
+     "correct_index": 0,
+     "explanation": "It excludes promoter holdings."
+    },
+    {
+     "question_text": "The NSE differs from the BSE in that the NSE:",
+     "options": [
+      "Is older",
+      "Was set up in 1992 and is fully electronic with Nifty 50, while the BSE is older (1875) with the Sensex",
+      "Has the Sensex",
+      "Is not in Mumbai"
+     ],
+     "correct_index": 1,
+     "explanation": "Both are in Mumbai."
+    },
+    {
+     "question_text": "Index funds are:",
+     "options": [
+      "Funds that beat the index",
+      "Mutual funds that replicate an index such as the Nifty 50 by holding the same stocks in the same proportion",
+      "Insurance plans",
+      "Bank deposits"
+     ],
+     "correct_index": 1,
+     "explanation": "They are passively managed."
+    },
+    {
+     "question_text": "Passive investing differs from active investing in that passive investing:",
+     "options": [
+      "Tracks an index at low cost, while active investing tries to beat the benchmark at higher cost",
+      "Has higher cost",
+      "Needs more research",
+      "Tries to beat the market"
+     ],
+     "correct_index": 0,
+     "explanation": "Active funds charge higher expense ratios."
+    },
+    {
+     "question_text": "Tracking error is:",
+     "options": [
+      "A fee",
+      "A tax",
+      "A fund's profit",
+      "The deviation of an index fund's returns from the index it tracks"
+     ],
+     "correct_index": 3,
+     "explanation": "A lower tracking error is better."
+    },
+    {
+     "question_text": "An ETF differs from an index fund in that an ETF:",
+     "options": [
+      "Is not traded",
+      "Is an insurance plan",
+      "Is traded on exchanges like a share, while an index fund is bought from the fund house",
+      "Is a bank deposit"
+     ],
+     "correct_index": 2,
+     "explanation": "Both track an index."
+    },
+    {
+     "question_text": "A bull market is _____, and a bear market is _____:",
+     "options": [
+      "Rising; stable",
+      "Falling; rising",
+      "Stable; falling",
+      "Rising; falling"
+     ],
+     "correct_index": 3,
+     "explanation": "Bull markets show optimism."
+    },
+    {
+     "question_text": "Circuit breakers and price bands:",
+     "options": [
+      "Halt or limit price movements to prevent panic",
+      "Set prices",
+      "Remove limits",
+      "Increase panic"
+     ],
+     "correct_index": 0,
+     "explanation": "Market-wide breakers are at 10%, 15% and 20%."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Stock Markets and Mutual Funds – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "SEBI classifies large-cap as:",
+     "options": [
+      "The top 10",
+      "The top 100 companies by market capitalisation (mid-cap 101–250, small-cap 251 onwards)",
+      "Any company",
+      "The top 500"
+     ],
+     "correct_index": 1,
+     "explanation": "The classification is by rank."
+    },
+    {
+     "question_text": "Common frauds in the securities market include:",
+     "options": [
+      "IPOs",
+      "Dividends",
+      "Insider trading, pump and dump, Ponzi schemes and fake advisers",
+      "Honest tips"
+     ],
+     "correct_index": 2,
+     "explanation": "Fake tips come through WhatsApp/Telegram."
+    },
+    {
+     "question_text": "Insider trading is:",
+     "options": [
+      "Normal trading",
+      "Public trading",
+      "Dealing in securities on the basis of unpublished price-sensitive information",
+      "Investing"
+     ],
+     "correct_index": 2,
+     "explanation": "It is illegal."
+    },
+    {
+     "question_text": "UPSI means:",
+     "options": [
+      "Unpublished Price Sensitive Information",
+      "Universal Public Stock Information",
+      "Unlisted Price Share Information",
+      "Unified Price System Index"
+     ],
+     "correct_index": 0,
+     "explanation": "It can affect a share's price if public."
+    },
+    {
+     "question_text": "The penalties for insider trading include:",
+     "options": [
+      "A fine of up to Rs 25 crore or three times the profit, and imprisonment up to 10 years",
+      "No penalty",
+      "A warning only",
+      "A fine of Rs 100"
+     ],
+     "correct_index": 0,
+     "explanation": "SEBI can also bar the person from markets."
+    },
+    {
+     "question_text": "Insider trading is prohibited by:",
+     "options": [
+      "The Motor Vehicles Act",
+      "SEBI (Prohibition of Insider Trading) Regulations, 2015 and the SEBI Act",
+      "The Contract Act",
+      "The Indian Penal Code only"
+     ],
+     "correct_index": 1,
+     "explanation": "Companies close trading windows."
+    },
+    {
+     "question_text": "AI helps detect insider trading by:",
+     "options": [
+      "Analysing order patterns and linked accounts to flag unusual trading before announcements",
+      "Ignoring trades",
+      "Stopping all trading",
+      "Approving all trades"
+     ],
+     "correct_index": 0,
+     "explanation": "It uses anomaly detection and network analysis."
+    },
+    {
+     "question_text": "Anomaly detection in trading surveillance:",
+     "options": [
+      "Identifies abnormal volumes or prices that deviate from normal patterns",
+      "Prints reports",
+      "Opens accounts",
+      "Finds averages"
+     ],
+     "correct_index": 0,
+     "explanation": "It raises alerts for investigation."
+    },
+    {
+     "question_text": "ASM and GSM frameworks are:",
+     "options": [
+      "Trading apps",
+      "Stock indices",
+      "Additional and Graded Surveillance Measures to cool speculative stocks",
+      "Mutual funds"
+     ],
+     "correct_index": 2,
+     "explanation": "They impose trading restrictions."
+    },
+    {
+     "question_text": "An investor can verify a broker or adviser by:",
+     "options": [
+      "Asking a friend",
+      "Believing advertisements",
+      "Trusting WhatsApp",
+      "Checking the SEBI registration database"
+     ],
+     "correct_index": 3,
+     "explanation": "Always use SEBI-registered intermediaries."
+    },
+    {
+     "question_text": "To avoid fake investment tips, an investor should:",
+     "options": [
+      "Avoid tips and guaranteed returns, and not share OTPs",
+      "Follow tips",
+      "Share credentials",
+      "Invest in anything promising high returns"
+     ],
+     "correct_index": 0,
+     "explanation": "Verify through official sources."
+    },
+    {
+     "question_text": "The Investor Protection Fund:",
+     "options": [
+      "Collects tax",
+      "Funds loans",
+      "Compensates investors up to a limit when a broker defaults",
+      "Pays dividends"
+     ],
+     "correct_index": 2,
+     "explanation": "Exchanges maintain it."
+    },
+    {
+     "question_text": "A demat account:",
+     "options": [
+      "Is a savings account",
+      "Holds paper shares",
+      "Is a loan account",
+      "Holds securities in electronic form like a bank account for shares"
+     ],
+     "correct_index": 3,
+     "explanation": "It avoids paper certificates."
+    },
+    {
+     "question_text": "The depository system was introduced by the Depositories Act, 1996, and the two depositories are:",
+     "options": [
+      "SEBI and RBI",
+      "AMFI and IRDAI",
+      "NSDL and CDSL",
+      "NSE and BSE"
+     ],
+     "correct_index": 2,
+     "explanation": "NSDL started in 1996 and CDSL in 1999."
+    },
+    {
+     "question_text": "A depository participant is:",
+     "options": [
+      "A regulator",
+      "An exchange",
+      "An agent of a depository, such as a bank or broker, that opens demat accounts for investors",
+      "A depository"
+     ],
+     "correct_index": 2,
+     "explanation": "Investors deal through DPs."
+    },
+    {
+     "question_text": "A BO ID is:",
+     "options": [
+      "A card number",
+      "A PAN",
+      "The client (Beneficial Owner) ID of a demat account",
+      "A bank ID"
+     ],
+     "correct_index": 2,
+     "explanation": "It identifies the account holder."
+    },
+    {
+     "question_text": "The 3-in-1 account combines:",
+     "options": [
+      "Cash, card, loan",
+      "Share, bond, fund",
+      "Savings, current, FD",
+      "Bank, trading and demat accounts"
+     ],
+     "correct_index": 3,
+     "explanation": "It makes investing convenient."
+    },
+    {
+     "question_text": "A demat account is opened by:",
+     "options": [
+      "Only a visit to SEBI",
+      "Paying tax",
+      "Buying a share first",
+      "Choosing a DP, completing KYC (Aadhaar, PAN, bank proof) and signing the agreement"
+     ],
+     "correct_index": 3,
+     "explanation": "The client gets a BO ID."
+    },
+    {
+     "question_text": "Charges related to a demat account include:",
+     "options": [
+      "Only brokerage",
+      "Account opening, AMC, transaction and DP charges",
+      "No charges",
+      "Only STT"
+     ],
+     "correct_index": 1,
+     "explanation": "Also brokerage, STT and GST."
+    },
+    {
+     "question_text": "A do of investing is:",
+     "options": [
+      "Invest all in one stock",
+      "Follow tips",
+      "Borrow to invest",
+      "Invest through registered intermediaries, research, diversify and invest regularly"
+     ],
+     "correct_index": 3,
+     "explanation": "Keep records and check statements."
+    },
+    {
+     "question_text": "A don't of investing is:",
+     "options": [
+      "Use registered brokers",
+      "Diversify",
+      "Research",
+      "Do not follow tips, rumours or guaranteed-return schemes"
+     ],
+     "correct_index": 3,
+     "explanation": "Do not share OTP or passwords."
+    },
+    {
+     "question_text": "Delivery-based trading means:",
+     "options": [
+      "Shares are bought and sold the same day",
+      "Shares are bought and taken into the demat account for holding",
+      "Shares are borrowed",
+      "Shares are sold short"
+     ],
+     "correct_index": 1,
+     "explanation": "Full payment is required."
+    },
+    {
+     "question_text": "Intraday trading means:",
+     "options": [
+      "Investing in bonds",
+      "Buying and selling the same security on the same day without taking delivery",
+      "Holding long term",
+      "Taking delivery"
+     ],
+     "correct_index": 1,
+     "explanation": "It is high risk."
+    },
+    {
+     "question_text": "Delivery trading differs from intraday trading in that delivery trading involves:",
+     "options": [
+      "Same-day settlement",
+      "No payment",
+      "Margin only",
+      "Taking delivery and holding, with full payment, while intraday involves squaring off the same day"
+     ],
+     "correct_index": 3,
+     "explanation": "Intraday uses leverage."
+    },
+    {
+     "question_text": "Intraday income is taxed as:",
+     "options": [
+      "Tax free",
+      "A gift",
+      "Capital gains at 12.5%",
+      "Speculative business income at slab rates"
+     ],
+     "correct_index": 3,
+     "explanation": "F&O is also business income."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Stock Markets and Mutual Funds – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Margin trading is:",
+     "options": [
+      "A deposit",
+      "Trading by borrowing money from the broker to buy more than your funds allow",
+      "Trading with full cash",
+      "Trading without risk"
+     ],
+     "correct_index": 1,
+     "explanation": "It magnifies gains and losses."
+    },
+    {
+     "question_text": "Futures and options are:",
+     "options": [
+      "Insurance",
+      "Bank deposits",
+      "Derivatives whose value depends on an underlying asset",
+      "Bonds"
+     ],
+     "correct_index": 2,
+     "explanation": "They are used for hedging and speculation."
+    },
+    {
+     "question_text": "Short selling is:",
+     "options": [
+      "Holding",
+      "Selling a security one does not own, hoping to buy it back at a lower price",
+      "Investing",
+      "Buying low"
+     ],
+     "correct_index": 1,
+     "explanation": "It carries high risk."
+    },
+    {
+     "question_text": "The types of orders include:",
+     "options": [
+      "Only limit orders",
+      "None",
+      "Market, limit and stop-loss orders",
+      "Only market orders"
+     ],
+     "correct_index": 2,
+     "explanation": "Also AMO, IOC and GTT."
+    },
+    {
+     "question_text": "A stop-loss order:",
+     "options": [
+      "Cancels orders",
+      "Holds the order",
+      "Automatically sells a security when its price falls to a set level to limit loss",
+      "Buys at a high"
+     ],
+     "correct_index": 2,
+     "explanation": "It limits losses."
+    },
+    {
+     "question_text": "The T+1 settlement cycle means:",
+     "options": [
+      "After 2 days",
+      "Same day",
+      "Trades are settled on the next working day",
+      "After a week"
+     ],
+     "correct_index": 2,
+     "explanation": "T is the trade day."
+    },
+    {
+     "question_text": "Indian exchanges trade between:",
+     "options": [
+      "24 hours",
+      "9:15 am and 3:30 pm",
+      "8 am and 2 pm",
+      "10 am and 5 pm"
+     ],
+     "correct_index": 1,
+     "explanation": "Pre-open is from 9:00 to 9:15."
+    },
+    {
+     "question_text": "STT is:",
+     "options": [
+      "Securities Trading Time",
+      "Share Transfer Tax",
+      "Stock Trading Token",
+      "Securities Transaction Tax levied on trades on exchanges"
+     ],
+     "correct_index": 3,
+     "explanation": "It is charged on buying and selling."
+    },
+    {
+     "question_text": "For listed equity, STCG (held up to 12 months) is taxed at _____, and LTCG at _____ above Rs 1.25 lakh a year:",
+     "options": [
+      "15%; 10%",
+      "10%; 15%",
+      "20%; 12.5%",
+      "12.5%; 20%"
+     ],
+     "correct_index": 2,
+     "explanation": "Rates were changed in July 2024."
+    },
+    {
+     "question_text": "A mutual savings bank is:",
+     "options": [
+      "An institution owned by its depositors, with no shareholders, whose profits go to depositors",
+      "A foreign bank",
+      "A joint stock bank",
+      "A central bank"
+     ],
+     "correct_index": 0,
+     "explanation": "Indian parallels are cooperative banks and credit societies."
+    },
+    {
+     "question_text": "A mutual fund is:",
+     "options": [
+      "A loan",
+      "An insurance",
+      "A pool of money from many investors invested in securities by a professional fund manager",
+      "A bank deposit"
+     ],
+     "correct_index": 2,
+     "explanation": "Investors hold units."
+    },
+    {
+     "question_text": "Mutual funds are regulated by _____, and the industry body is _____:",
+     "options": [
+      "PFRDA; SEBI",
+      "SEBI; AMFI",
+      "RBI; IRDAI",
+      "IRDAI; AMFI"
+     ],
+     "correct_index": 1,
+     "explanation": "SEBI (Mutual Funds) Regulations, 1996."
+    },
+    {
+     "question_text": "India's first mutual fund was:",
+     "options": [
+      "UTI (Unit Trust of India), 1963",
+      "HDFC Mutual Fund",
+      "SBI Mutual Fund",
+      "ICICI Mutual Fund"
+     ],
+     "correct_index": 0,
+     "explanation": "It was set up by the government."
+    },
+    {
+     "question_text": "The three-tier structure of a mutual fund is:",
+     "options": [
+      "Investor, SEBI, RBI",
+      "Insurer, bank, exchange",
+      "Bank, broker, exchange",
+      "Sponsor, Trust (trustees) and Asset Management Company"
+     ],
+     "correct_index": 3,
+     "explanation": "The AMC manages the schemes."
+    },
+    {
+     "question_text": "NAV is:",
+     "options": [
+      "(Market value of assets − liabilities) ÷ number of units outstanding",
+      "Assets × units",
+      "Units × price",
+      "Liabilities ÷ units"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the per-unit value of the fund."
+    },
+    {
+     "question_text": "Assets Rs 120 crore, liabilities Rs 20 crore, units 10 crore give a NAV of:",
+     "options": [
+      "Rs 14",
+      "Rs 8",
+      "Rs 10",
+      "Rs 12"
+     ],
+     "correct_index": 2,
+     "explanation": "(120 − 20) ÷ 10."
+    },
+    {
+     "question_text": "Open-ended funds differ from close-ended funds in that open-ended funds:",
+     "options": [
+      "Have a fixed maturity",
+      "Are only for NFO",
+      "Allow purchase and redemption any time at NAV, while close-ended have a fixed maturity and are traded on the exchange",
+      "Cannot be redeemed"
+     ],
+     "correct_index": 2,
+     "explanation": "Close-ended funds are sold during the NFO."
+    },
+    {
+     "question_text": "An NFO is:",
+     "options": [
+      "Net Fund Order",
+      "New Fixed Offer",
+      "New Fund Offer, the first offer of units of a new mutual fund scheme",
+      "National Fund Option"
+     ],
+     "correct_index": 2,
+     "explanation": "It is like an IPO for funds."
+    },
+    {
+     "question_text": "Types of equity funds include:",
+     "options": [
+      "Overnight",
+      "Large-cap, mid-cap, small-cap, flexi-cap and ELSS",
+      "Liquid and gilt",
+      "Arbitrage only"
+     ],
+     "correct_index": 1,
+     "explanation": "Debt funds hold bonds."
+    },
+    {
+     "question_text": "An ELSS has a lock-in of:",
+     "options": [
+      "10 years",
+      "5 years",
+      "1 year",
+      "3 years, with a Section 80C deduction up to Rs 1.5 lakh (old regime)"
+     ],
+     "correct_index": 3,
+     "explanation": "It has the shortest lock-in among 80C options."
+    },
+    {
+     "question_text": "Types of debt funds include:",
+     "options": [
+      "Small-cap",
+      "Liquid, overnight, short-duration, corporate bond and gilt funds",
+      "Mid-cap",
+      "Large-cap"
+     ],
+     "correct_index": 1,
+     "explanation": "They invest in fixed income securities."
+    },
+    {
+     "question_text": "Hybrid funds invest in:",
+     "options": [
+      "Only debt",
+      "Only equity",
+      "Only gold",
+      "Both equity and debt (and sometimes other assets)"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., balanced advantage and arbitrage funds."
+    },
+    {
+     "question_text": "A direct plan differs from a regular plan in that a direct plan has:",
+     "options": [
+      "A higher expense",
+      "No distributor commission and thus a lower expense ratio",
+      "A distributor commission",
+      "No NAV"
+     ],
+     "correct_index": 1,
+     "explanation": "Regular plans pay a distributor."
+    },
+    {
+     "question_text": "The growth option differs from the IDCW option in that growth:",
+     "options": [
+      "Reinvests profits, while IDCW pays out income distribution",
+      "Has no profit",
+      "Has no NAV",
+      "Pays out income"
+     ],
+     "correct_index": 0,
+     "explanation": "IDCW stands for Income Distribution cum Capital Withdrawal."
+    },
+    {
+     "question_text": "SEBI's categorisation of mutual funds (2017) standardised schemes into:",
+     "options": [
+      "5 categories",
+      "36 categories (equity, debt, hybrid, solution-oriented, other)",
+      "100 categories",
+      "2 categories"
+     ],
+     "correct_index": 1,
+     "explanation": "It makes comparison easier."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Stock Markets and Mutual Funds – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The expense ratio is:",
+     "options": [
+      "The annual fee charged by a fund as a percentage of its assets under management",
+      "The NAV",
+      "The tax",
+      "The entry fee"
+     ],
+     "correct_index": 0,
+     "explanation": "A lower ratio helps investors."
+    },
+    {
+     "question_text": "An exit load is:",
+     "options": [
+      "A fee on buying",
+      "A fee charged on early redemption of units",
+      "A tax",
+      "A dividend"
+     ],
+     "correct_index": 1,
+     "explanation": "It discourages short-term exits."
+    },
+    {
+     "question_text": "An advantage of mutual funds is:",
+     "options": [
+      "No risk",
+      "Guaranteed returns",
+      "Professional management and diversification with small investments",
+      "No charges"
+     ],
+     "correct_index": 2,
+     "explanation": "They also offer liquidity and regulation."
+    },
+    {
+     "question_text": "A risk of mutual funds is:",
+     "options": [
+      "Market, credit, liquidity and interest rate risk",
+      "No risk",
+      "Fixed returns",
+      "Guaranteed profit"
+     ],
+     "correct_index": 0,
+     "explanation": "The Riskometer shows six levels of risk."
+    },
+    {
+     "question_text": "Investing in direct stocks differs from mutual funds in that direct stocks:",
+     "options": [
+      "Have no risk",
+      "Need no research",
+      "Give control but need research and carry concentrated risk, while mutual funds offer diversification",
+      "Offer diversification"
+     ],
+     "correct_index": 2,
+     "explanation": "Mutual funds are professionally managed."
+    },
+    {
+     "question_text": "Equity funds' LTCG (above Rs 1.25 lakh) is taxed at 12.5%, whereas debt funds bought after 1 April 2023 are taxed:",
+     "options": [
+      "At slab rates",
+      "At 20% flat",
+      "At 12.5%",
+      "At 0%"
+     ],
+     "correct_index": 0,
+     "explanation": "Equity STCG is 20%."
+    },
+    {
+     "question_text": "SIP, STP and SWP are:",
+     "options": [
+      "Share Index Plans",
+      "Stock Income Plans",
+      "Systematic Investment, Transfer and Withdrawal Plans",
+      "Single Investment Plans"
+     ],
+     "correct_index": 2,
+     "explanation": "They automate investing, transferring and withdrawing."
+    },
+    {
+     "question_text": "One can invest in mutual funds through:",
+     "options": [
+      "Only the post office",
+      "AMC websites, apps, distributors and platforms after completing KYC",
+      "Only SEBI",
+      "Only banks"
+     ],
+     "correct_index": 1,
+     "explanation": "Direct plans are available online."
+    },
+    {
+     "question_text": "KRA is:",
+     "options": [
+      "A card",
+      "A loan",
+      "A KYC Registration Agency that stores investors' KYC records for mutual funds and markets",
+      "A bank"
+     ],
+     "correct_index": 2,
+     "explanation": "KYC is a one-time process across intermediaries."
+    },
+    {
+     "question_text": "ROI is:",
+     "options": [
+      "Gain × cost",
+      "Cost ÷ gain",
+      "(Gain from investment ÷ cost of investment) × 100",
+      "Gain − cost"
+     ],
+     "correct_index": 2,
+     "explanation": "Gain includes income received."
+    },
+    {
+     "question_text": "Bought at Rs 2,000 and sold at Rs 2,600. The ROI is:",
+     "options": [
+      "26%",
+      "3%",
+      "23%",
+      "30%"
+     ],
+     "correct_index": 3,
+     "explanation": "600 ÷ 2,000 × 100."
+    },
+    {
+     "question_text": "50 shares bought at Rs 400, dividends Rs 500, sold at Rs 460. The ROI is:",
+     "options": [
+      "12%",
+      "15%",
+      "2.5%",
+      "17.5%"
+     ],
+     "correct_index": 3,
+     "explanation": "(3,000 + 500) ÷ 20,000 × 100."
+    },
+    {
+     "question_text": "Rs 10,000 invested at NAV Rs 25 gives:",
+     "options": [
+      "400 units",
+      "40 units",
+      "250 units",
+      "2,500 units"
+     ],
+     "correct_index": 0,
+     "explanation": "10,000 ÷ 25."
+    },
+    {
+     "question_text": "200 units at NAV Rs 32 have a value of:",
+     "options": [
+      "Rs 16,000",
+      "Rs 6,400",
+      "Rs 3,200",
+      "Rs 640"
+     ],
+     "correct_index": 1,
+     "explanation": "200 × 32."
+    },
+    {
+     "question_text": "CAGR is:",
+     "options": [
+      "Final ÷ Initial",
+      "(Final − Initial) ÷ n",
+      "(Initial ÷ Final) × 100",
+      "[(Final value ÷ Initial value)^(1/n) − 1] × 100"
+     ],
+     "correct_index": 3,
+     "explanation": "It is the annualised growth rate."
+    },
+    {
+     "question_text": "Rs 1,00,000 becomes Rs 1,61,051 in 5 years. The CAGR is:",
+     "options": [
+      "12%",
+      "10%",
+      "8%",
+      "61%"
+     ],
+     "correct_index": 1,
+     "explanation": "1.61051^(1/5) = 1.10."
+    },
+    {
+     "question_text": "Absolute return differs from annualised return in that absolute return:",
+     "options": [
+      "Is the total gain ignoring time, while annualised return expresses it per year",
+      "Is compounded",
+      "Considers time",
+      "Is annual"
+     ],
+     "correct_index": 0,
+     "explanation": "Use CAGR to compare different periods."
+    },
+    {
+     "question_text": "A SIP is:",
+     "options": [
+      "A loan",
+      "Investing a fixed amount at regular intervals (usually monthly) in a mutual fund",
+      "A one-time investment",
+      "An insurance"
+     ],
+     "correct_index": 1,
+     "explanation": "It builds discipline."
+    },
+    {
+     "question_text": "A benefit of SIP is:",
+     "options": [
+      "Discipline, rupee-cost averaging and compounding with small amounts",
+      "No risk",
+      "Guaranteed return",
+      "Timing the market"
+     ],
+     "correct_index": 0,
+     "explanation": "You need not time the market."
+    },
+    {
+     "question_text": "In rupee-cost averaging, investing Rs 1,000 a month at NAVs of 10, 8 and 12 gives an average cost per unit of about:",
+     "options": [
+      "Rs 10",
+      "Rs 8",
+      "Rs 9.73",
+      "Rs 12"
+     ],
+     "correct_index": 2,
+     "explanation": "Total 308.33 units for Rs 3,000."
+    },
+    {
+     "question_text": "The future value of a SIP (annuity-due) is:",
+     "options": [
+      "FV = P ÷ i",
+      "FV = P × [((1 + i)^n − 1) ÷ i] × (1 + i)",
+      "FV = P × n",
+      "FV = P + i"
+     ],
+     "correct_index": 1,
+     "explanation": "P is the monthly instalment and i is the monthly rate."
+    },
+    {
+     "question_text": "A SIP of Rs 5,000 per month at 12% p.a. for 5 years matures at about:",
+     "options": [
+      "Rs 3 lakh",
+      "Rs 4.12 lakh",
+      "Rs 5 lakh",
+      "Rs 6 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "Invested Rs 3 lakh; gain about Rs 1.12 lakh."
+    },
+    {
+     "question_text": "A SIP of Rs 10,000 per month at 12% p.a. for 10 years matures at about:",
+     "options": [
+      "Rs 23.2 lakh",
+      "Rs 15 lakh",
+      "Rs 12 lakh",
+      "Rs 30 lakh"
+     ],
+     "correct_index": 0,
+     "explanation": "Invested Rs 12 lakh."
+    },
+    {
+     "question_text": "Online SIP calculators work by:",
+     "options": [
+      "Predicting markets exactly",
+      "Taking the monthly amount, expected return and period and estimating the invested amount and maturity value",
+      "Guaranteeing returns",
+      "Ignoring inputs"
+     ],
+     "correct_index": 1,
+     "explanation": "Results are only estimates."
+    },
+    {
+     "question_text": "Compared with SIP, a lump sum is better when:",
+     "options": [
+      "Never",
+      "Always",
+      "The market is low and the investor has surplus funds, while SIP spreads risk over time",
+      "The market is high"
+     ],
+     "correct_index": 2,
+     "explanation": "SIP averages out the cost."
+    }
+   ]
+  }
+ ]
+}

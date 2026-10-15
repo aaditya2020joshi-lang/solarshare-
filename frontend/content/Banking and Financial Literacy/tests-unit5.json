@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 5: Insurance Services – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Insurance is:",
+     "options": [
+      "A contract in which the insurer agrees to compensate the insured for specified losses in return for a premium",
+      "A tax",
+      "A savings account",
+      "A loan"
+     ],
+     "correct_index": 0,
+     "explanation": "It transfers risk from an individual to a pool."
+    },
+    {
+     "question_text": "The premium is _____, and the sum assured is _____:",
+     "options": [
+      "The tax; the cover",
+      "The amount payable on claim; the price paid",
+      "The loan; the interest",
+      "The price paid for the cover; the amount payable by the insurer on the insured event"
+     ],
+     "correct_index": 3,
+     "explanation": "They are basic terms of a policy."
+    },
+    {
+     "question_text": "The grace period in insurance is:",
+     "options": [
+      "The extra time (30 days for annual premium, 15 for monthly) allowed to pay the premium after the due date without losing cover",
+      "The claim period",
+      "The waiting period",
+      "The time to buy a policy"
+     ],
+     "correct_index": 0,
+     "explanation": "The policy stays in force during it."
+    },
+    {
+     "question_text": "The fundamental principles of insurance include:",
+     "options": [
+      "Planning, control",
+      "Utmost good faith, insurable interest, indemnity, contribution, subrogation and proximate cause",
+      "Profit, loss, tax",
+      "Debit, credit"
+     ],
+     "correct_index": 1,
+     "explanation": "Mitigation of loss is also a principle."
+    },
+    {
+     "question_text": "The principle of utmost good faith requires:",
+     "options": [
+      "No disclosure",
+      "Hiding facts",
+      "Full disclosure of all material facts by both parties",
+      "Disclosure by insurer only"
+     ],
+     "correct_index": 2,
+     "explanation": "It is also called uberrimae fidei."
+    },
+    {
+     "question_text": "Insurable interest must exist _____ in life insurance and _____ in general insurance:",
+     "options": [
+      "Always; never",
+      "Never; always",
+      "At the time of taking the policy; at the time of loss",
+      "At the time of loss; at the time of the policy"
+     ],
+     "correct_index": 2,
+     "explanation": "The insured must stand to suffer financial loss."
+    },
+    {
+     "question_text": "The principle of indemnity means that:",
+     "options": [
+      "Profit is allowed",
+      "Only the actual loss is compensated, and it does not apply to life insurance",
+      "It applies to life insurance",
+      "More than the loss is paid"
+     ],
+     "correct_index": 1,
+     "explanation": "Life insurance pays a fixed sum."
+    },
+    {
+     "question_text": "Contribution means that if a person has several policies on the same risk:",
+     "options": [
+      "The insurers share the loss in proportion",
+      "None pays",
+      "Each pays fully",
+      "Only one pays"
+     ],
+     "correct_index": 0,
+     "explanation": "It prevents profit from the loss."
+    },
+    {
+     "question_text": "Subrogation means that after paying a claim, the insurer:",
+     "options": [
+      "Cancels the policy",
+      "Keeps the premium only",
+      "Steps into the insured's shoes to recover from the responsible third party",
+      "Pays again"
+     ],
+     "correct_index": 2,
+     "explanation": "The insured cannot recover twice."
+    },
+    {
+     "question_text": "Proximate cause is:",
+     "options": [
+      "Any cause",
+      "The remote cause",
+      "The earliest cause",
+      "The nearest effective cause of loss, which must be an insured peril"
+     ],
+     "correct_index": 3,
+     "explanation": "It determines liability."
+    },
+    {
+     "question_text": "Insurance in India is regulated by:",
+     "options": [
+      "SEBI",
+      "IRDAI, created under the IRDA Act, 1999",
+      "RBI",
+      "PFRDA"
+     ],
+     "correct_index": 1,
+     "explanation": "The Insurance Act, 1938 is also in force."
+    },
+    {
+     "question_text": "LIC was established in _____ and general insurance was nationalised in _____:",
+     "options": [
+      "1938; 1999",
+      "1973; 1956",
+      "1999; 2000",
+      "1956; 1973"
+     ],
+     "correct_index": 3,
+     "explanation": "The sector opened to private players in 2000."
+    },
+    {
+     "question_text": "Bima Sugam is:",
+     "options": [
+      "A unified digital insurance marketplace",
+      "A tax",
+      "A bank",
+      "A card"
+     ],
+     "correct_index": 0,
+     "explanation": "It is promoted by IRDAI."
+    },
+    {
+     "question_text": "Insurance is broadly classified into:",
+     "options": [
+      "Large and small",
+      "Life insurance and general (non-life) insurance",
+      "Public and private",
+      "Health and wealth"
+     ],
+     "correct_index": 1,
+     "explanation": "General includes health, motor, property and marine."
+    },
+    {
+     "question_text": "Life insurance:",
+     "options": [
+      "Pays a sum on death or at maturity and is a contract of assurance",
+      "Pays for fire",
+      "Pays for damages",
+      "Pays for theft"
+     ],
+     "correct_index": 0,
+     "explanation": "Insurable interest is needed at inception."
+    },
+    {
+     "question_text": "Term insurance is:",
+     "options": [
+      "A savings plan",
+      "A pension plan",
+      "An investment",
+      "Pure protection with high cover at low premium and no maturity benefit"
+     ],
+     "correct_index": 3,
+     "explanation": "Return-of-premium variants exist."
+    },
+    {
+     "question_text": "Riders are:",
+     "options": [
+      "Additional benefits (e.g., critical illness) added to a policy for extra premium",
+      "Taxes",
+      "Separate policies",
+      "Loans"
+     ],
+     "correct_index": 0,
+     "explanation": "They enhance cover."
+    },
+    {
+     "question_text": "An endowment policy:",
+     "options": [
+      "Has no benefit",
+      "Offers only savings",
+      "Offers only protection",
+      "Combines savings and protection, paying the sum assured on maturity or death"
+     ],
+     "correct_index": 3,
+     "explanation": "It may be with or without profits."
+    },
+    {
+     "question_text": "A money-back policy:",
+     "options": [
+      "Pays only at the end",
+      "Pays only on death",
+      "Pays part of the sum assured at intervals during the term as survival benefits",
+      "Pays nothing"
+     ],
+     "correct_index": 2,
+     "explanation": "It gives periodic liquidity."
+    },
+    {
+     "question_text": "A whole-life policy:",
+     "options": [
+      "Covers 1 year",
+      "Covers 10 years",
+      "Provides cover for the entire life (up to 99/100 years)",
+      "Covers 5 years"
+     ],
+     "correct_index": 2,
+     "explanation": "The sum is paid on death or at 100."
+    },
+    {
+     "question_text": "Deferred annuity differs from immediate annuity in that a deferred annuity:",
+     "options": [
+      "Starts paying after a deferment period, while an immediate annuity starts at once",
+      "Never pays",
+      "Pays nothing",
+      "Starts at once"
+     ],
+     "correct_index": 0,
+     "explanation": "Both provide pension income."
+    },
+    {
+     "question_text": "A ULIP has a lock-in period of:",
+     "options": [
+      "5 years",
+      "3 years",
+      "1 year",
+      "10 years"
+     ],
+     "correct_index": 0,
+     "explanation": "It combines insurance with market-linked investment."
+    },
+    {
+     "question_text": "Charges in a ULIP include:",
+     "options": [
+      "Only one charge",
+      "Premium allocation, fund management, mortality and administration charges",
+      "No charges",
+      "Only tax"
+     ],
+     "correct_index": 1,
+     "explanation": "They reduce returns."
+    },
+    {
+     "question_text": "A ULIP differs from term insurance in that a ULIP:",
+     "options": [
+      "Combines insurance with investment, while term insurance is pure protection",
+      "Has no investment",
+      "Has no charges",
+      "Is pure protection"
+     ],
+     "correct_index": 0,
+     "explanation": "Term is cheaper."
+    },
+    {
+     "question_text": "A ULIP differs from a mutual fund in that a ULIP also provides:",
+     "options": [
+      "No cover",
+      "Life cover along with market-linked investment",
+      "No charges",
+      "No investment"
+     ],
+     "correct_index": 1,
+     "explanation": "ULIPs have a lock-in of 5 years."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Insurance Services – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Micro-insurance is:",
+     "options": [
+      "Insurance for companies",
+      "High-premium insurance",
+      "Insurance for the rich",
+      "Low-premium insurance for low-income people"
+     ],
+     "correct_index": 3,
+     "explanation": "It promotes inclusion."
+    },
+    {
+     "question_text": "The premium in life insurance depends on:",
+     "options": [
+      "Only caste",
+      "Only location of insurer",
+      "Only colour",
+      "Age, health, sum assured, term and lifestyle"
+     ],
+     "correct_index": 3,
+     "explanation": "Mortality tables are used."
+    },
+    {
+     "question_text": "Mortality tables show:",
+     "options": [
+      "The price of gold",
+      "The cost of a house",
+      "Tax rates",
+      "The probability of death at each age"
+     ],
+     "correct_index": 3,
+     "explanation": "They help set premiums."
+    },
+    {
+     "question_text": "Life insurance premium is eligible for Section 80C, and maturity proceeds are exempt under:",
+     "options": [
+      "Section 80G",
+      "Section 24(b)",
+      "Section 10(10D), subject to conditions",
+      "Section 80E"
+     ],
+     "correct_index": 2,
+     "explanation": "Premium limits apply."
+    },
+    {
+     "question_text": "The free-look period after receiving a life policy is:",
+     "options": [
+      "7 days",
+      "1 day",
+      "15 days (30 days for distance marketing)",
+      "90 days"
+     ],
+     "correct_index": 2,
+     "explanation": "The policyholder can return the policy."
+    },
+    {
+     "question_text": "Surrender value is:",
+     "options": [
+      "The sum assured",
+      "The premium",
+      "The amount paid if the policy is terminated early after minimum years, and paid-up value is the reduced sum assured when premiums stop",
+      "The bonus"
+     ],
+     "correct_index": 2,
+     "explanation": "They apply to savings plans."
+    },
+    {
+     "question_text": "The claim process in life insurance is:",
+     "options": [
+      "Only intimation",
+      "No process",
+      "Only payment",
+      "Intimation, submission of documents, verification and settlement"
+     ],
+     "correct_index": 3,
+     "explanation": "Documents include the claim form and death certificate."
+    },
+    {
+     "question_text": "Under Section 45, the contestability period is:",
+     "options": [
+      "10 years",
+      "1 year",
+      "Lifetime",
+      "3 years, after which a policy is generally incontestable"
+     ],
+     "correct_index": 3,
+     "explanation": "The insurer can question it within 3 years."
+    },
+    {
+     "question_text": "The claim settlement ratio is:",
+     "options": [
+      "The tax",
+      "The sum assured",
+      "The percentage of claims settled by an insurer out of those received, an indicator of reliability",
+      "The premium"
+     ],
+     "correct_index": 2,
+     "explanation": "A higher ratio is better."
+    },
+    {
+     "question_text": "Health insurance covers:",
+     "options": [
+      "Motor",
+      "Hospitalisation and medical costs",
+      "Theft",
+      "Fire"
+     ],
+     "correct_index": 1,
+     "explanation": "It may be indemnity or fixed benefit."
+    },
+    {
+     "question_text": "Indemnity health plans differ from fixed-benefit plans in that indemnity plans:",
+     "options": [
+      "Pay the actual expenses up to the sum insured, while fixed-benefit plans pay a fixed sum on diagnosis",
+      "Pay fixed sums",
+      "Pay all expenses",
+      "Pay no expenses"
+     ],
+     "correct_index": 0,
+     "explanation": "Critical illness plans are fixed benefit."
+    },
+    {
+     "question_text": "A family floater is:",
+     "options": [
+      "A pension",
+      "A separate cover for each",
+      "A single sum insured shared among all family members",
+      "A loan"
+     ],
+     "correct_index": 2,
+     "explanation": "It is cheaper than individual plans."
+    },
+    {
+     "question_text": "A top-up or super top-up plan:",
+     "options": [
+      "Is a tax",
+      "Provides extra cover after a deductible is crossed",
+      "Replaces the base policy",
+      "Is a loan"
+     ],
+     "correct_index": 1,
+     "explanation": "It is cost-effective for higher cover."
+    },
+    {
+     "question_text": "Cashless treatment means:",
+     "options": [
+      "The patient pays cash",
+      "The patient pays later",
+      "The insurer pays the hospital directly (through a TPA) at network hospitals",
+      "No payment"
+     ],
+     "correct_index": 2,
+     "explanation": "TPA stands for Third Party Administrator."
+    },
+    {
+     "question_text": "Waiting periods in health insurance include:",
+     "options": [
+      "30 days initially and up to 3 years for pre-existing diseases",
+      "10 years",
+      "No waiting",
+      "1 day"
+     ],
+     "correct_index": 0,
+     "explanation": "Specific illnesses have 1–2 years."
+    },
+    {
+     "question_text": "Co-payment is:",
+     "options": [
+      "A premium",
+      "A percentage of the claim paid by the insured, and a deductible is the amount paid before the insurer pays",
+      "A tax",
+      "Paid by the insurer"
+     ],
+     "correct_index": 1,
+     "explanation": "They reduce the premium."
+    },
+    {
+     "question_text": "A room-rent limit is:",
+     "options": [
+      "A tax",
+      "A bonus",
+      "No cap",
+      "A cap on the room charges payable, and sub-limits cap specific treatments"
+     ],
+     "correct_index": 3,
+     "explanation": "They can reduce claim amounts."
+    },
+    {
+     "question_text": "A no-claim bonus is:",
+     "options": [
+      "A loan",
+      "A penalty",
+      "An increase in sum insured or a discount in premium for a claim-free year",
+      "A tax"
+     ],
+     "correct_index": 2,
+     "explanation": "It rewards claim-free years."
+    },
+    {
+     "question_text": "Portability in health insurance allows:",
+     "options": [
+      "Switching insurers without losing accrued benefits such as waiting-period credits",
+      "Losing benefits",
+      "Paying more",
+      "Cancelling the policy"
+     ],
+     "correct_index": 0,
+     "explanation": "It is governed by IRDAI."
+    },
+    {
+     "question_text": "Typical exclusions in health policies include:",
+     "options": [
+      "Cosmetic surgery and self-inflicted injuries",
+      "Emergencies",
+      "Hospitalisation",
+      "Surgery for illness"
+     ],
+     "correct_index": 0,
+     "explanation": "Read the policy document carefully."
+    },
+    {
+     "question_text": "Ayushman Bharat PM-JAY provides:",
+     "options": [
+      "Rs 50,000 cover",
+      "No cover",
+      "Health cover of Rs 5 lakh per family per year for eligible poor families",
+      "Rs 1 crore cover"
+     ],
+     "correct_index": 2,
+     "explanation": "It is extended to all senior citizens aged 70+."
+    },
+    {
+     "question_text": "PM-JAY is meant for:",
+     "options": [
+      "The rich",
+      "Economically poor and vulnerable families identified by the SECC database (and senior citizens aged 70+)",
+      "Companies",
+      "Government employees"
+     ],
+     "correct_index": 1,
+     "explanation": "It offers cashless treatment."
+    },
+    {
+     "question_text": "CGHS and ESIC are:",
+     "options": [
+      "Banks",
+      "Taxes",
+      "Health schemes for central government employees and for workers (ESIC)",
+      "Cards"
+     ],
+     "correct_index": 2,
+     "explanation": "They provide medical benefits."
+    },
+    {
+     "question_text": "PMJJBY and PMSBY are:",
+     "options": [
+      "Banks",
+      "Taxes",
+      "Government schemes offering life insurance and accident insurance at low premiums",
+      "Loans"
+     ],
+     "correct_index": 2,
+     "explanation": "They promote inclusion."
+    },
+    {
+     "question_text": "While choosing a health insurance policy, one should consider:",
+     "options": [
+      "Only the price",
+      "Only the brand",
+      "Adequate cover, network hospitals, claim settlement ratio and waiting periods",
+      "Only the colour"
+     ],
+     "correct_index": 2,
+     "explanation": "Also lifetime renewability."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Insurance Services – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Property insurance covers:",
+     "options": [
+      "Health",
+      "Travel only",
+      "Loss or damage to physical property",
+      "Life"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., fire, home, marine cargo."
+    },
+    {
+     "question_text": "A fire insurance policy covers:",
+     "options": [
+      "Loss or damage to property by fire and allied perils",
+      "Life",
+      "Theft only",
+      "Health"
+     ],
+     "correct_index": 0,
+     "explanation": "The standard policy is \"Fire and Special Perils\"."
+    },
+    {
+     "question_text": "Allied perils in a fire policy include:",
+     "options": [
+      "Storm, flood, earthquake and riot",
+      "War",
+      "Wear and tear",
+      "Nuclear risk"
+     ],
+     "correct_index": 0,
+     "explanation": "Some perils are excluded."
+    },
+    {
+     "question_text": "Home insurance covers:",
+     "options": [
+      "The structure and contents against perils such as fire, flood and burglary",
+      "Only loans",
+      "Only contents",
+      "Only land"
+     ],
+     "correct_index": 0,
+     "explanation": "It protects the homeowner."
+    },
+    {
+     "question_text": "The average clause:",
+     "options": [
+      "Reduces a claim proportionately if the property is underinsured",
+      "Has no effect",
+      "Increases claims",
+      "Cancels claims"
+     ],
+     "correct_index": 0,
+     "explanation": "It penalises underinsurance."
+    },
+    {
+     "question_text": "Market value differs from reinstatement value in that market value is:",
+     "options": [
+      "The current worth after depreciation, while reinstatement value is the cost of replacing with a new one",
+      "The tax",
+      "The depreciation",
+      "The cost of a new one"
+     ],
+     "correct_index": 0,
+     "explanation": "Insurers may cover either."
+    },
+    {
+     "question_text": "Marine insurance covers:",
+     "options": [
+      "Health",
+      "Crops",
+      "Life",
+      "Loss of ships, cargo and freight at sea"
+     ],
+     "correct_index": 3,
+     "explanation": "It includes hull, cargo and freight."
+    },
+    {
+     "question_text": "Business-interruption insurance covers:",
+     "options": [
+      "Life",
+      "Fire damage only",
+      "Loss of profit and extra costs when a business stops due to an insured event",
+      "Health"
+     ],
+     "correct_index": 2,
+     "explanation": "It is also called consequential loss insurance."
+    },
+    {
+     "question_text": "A surveyor's role is:",
+     "options": [
+      "To assess the cause and extent of loss after a claim",
+      "To audit",
+      "To pay premiums",
+      "To sell policies"
+     ],
+     "correct_index": 0,
+     "explanation": "A licensed surveyor surveys the loss."
+    },
+    {
+     "question_text": "Automated claim processing is:",
+     "options": [
+      "Manual processing",
+      "Rejection of claims",
+      "Delayed processing",
+      "The use of AI and automation to assess and settle claims quickly"
+     ],
+     "correct_index": 3,
+     "explanation": "It reduces cost and time."
+    },
+    {
+     "question_text": "Technologies used in automated claims include:",
+     "options": [
+      "Paper forms",
+      "Letters",
+      "Typewriters",
+      "AI, OCR, RPA and image recognition"
+     ],
+     "correct_index": 3,
+     "explanation": "They extract data and estimate damage."
+    },
+    {
+     "question_text": "A benefit of automated claims is _____, and a risk is _____:",
+     "options": [
+      "Speed; wrongful rejection or bias",
+      "Delay; speed",
+      "Cost; benefit",
+      "Fraud; fairness"
+     ],
+     "correct_index": 0,
+     "explanation": "Explainability and privacy are also concerns."
+    },
+    {
+     "question_text": "Straight-through processing means:",
+     "options": [
+      "A claim is processed end to end automatically without manual intervention",
+      "Manual handling",
+      "Delayed handling",
+      "Rejection"
+     ],
+     "correct_index": 0,
+     "explanation": "Small claims are often settled this way."
+    },
+    {
+     "question_text": "Types of general insurance include:",
+     "options": [
+      "Only life",
+      "Only endowment",
+      "Health, motor, fire, marine, travel and crop insurance",
+      "Only pension"
+     ],
+     "correct_index": 2,
+     "explanation": "They cover non-life risks."
+    },
+    {
+     "question_text": "Motor insurance:",
+     "options": [
+      "Covers life",
+      "Is only for cars",
+      "Is compulsory for third-party liability under the Motor Vehicles Act, 1988",
+      "Is not compulsory"
+     ],
+     "correct_index": 2,
+     "explanation": "Own-damage cover is optional."
+    },
+    {
+     "question_text": "A third-party policy differs from a comprehensive policy in that third-party:",
+     "options": [
+      "Has no cover",
+      "Covers only liability to others, while comprehensive also covers own damage",
+      "Covers theft only",
+      "Covers own damage"
+     ],
+     "correct_index": 1,
+     "explanation": "Comprehensive is wider."
+    },
+    {
+     "question_text": "IDV and NCB mean:",
+     "options": [
+      "Insured Debt Value and Net Claim Benefit",
+      "Insurance Daily Value and No Cash Balance",
+      "Indian Deposit Value and Net Cash Balance",
+      "Insured Declared Value and No Claim Bonus"
+     ],
+     "correct_index": 3,
+     "explanation": "IDV is the vehicle's insured value."
+    },
+    {
+     "question_text": "Add-on covers in motor insurance include:",
+     "options": [
+      "Home cover",
+      "Life cover",
+      "Zero depreciation and engine protect",
+      "Health cover"
+     ],
+     "correct_index": 2,
+     "explanation": "They increase premiums."
+    },
+    {
+     "question_text": "PMFBY is:",
+     "options": [
+      "A savings scheme",
+      "Pradhan Mantri Fasal Bima Yojana (2016), a crop insurance scheme with low premiums for farmers",
+      "A pension scheme",
+      "A loan scheme"
+     ],
+     "correct_index": 1,
+     "explanation": "It covers yield losses from natural calamities."
+    },
+    {
+     "question_text": "Reinsurance is:",
+     "options": [
+      "Insurance of life",
+      "A loan",
+      "A tax",
+      "An insurer transferring part of its risk to another insurer; GIC Re is India's national reinsurer"
+     ],
+     "correct_index": 3,
+     "explanation": "It spreads large risks."
+    },
+    {
+     "question_text": "Postal Life Insurance was started in:",
+     "options": [
+      "1884, the oldest life insurance scheme in India",
+      "2015",
+      "1999",
+      "1956"
+     ],
+     "correct_index": 0,
+     "explanation": "It is run by the Department of Posts."
+    },
+    {
+     "question_text": "Rural Postal Life Insurance (RPLI) was started in:",
+     "options": [
+      "1995 for the rural population",
+      "1956",
+      "2015",
+      "1884"
+     ],
+     "correct_index": 0,
+     "explanation": "It serves rural areas."
+    },
+    {
+     "question_text": "PLI plans include:",
+     "options": [
+      "Only term",
+      "Only health",
+      "Only ULIP",
+      "Suraksha (whole life), Santosh (endowment), Suvidha, Sumangal (money back) and Bal Jeevan Bima"
+     ],
+     "correct_index": 3,
+     "explanation": "They offer high bonus and low premiums."
+    },
+    {
+     "question_text": "PLI is available to:",
+     "options": [
+      "Government and semi-government employees, teachers, bank employees and others in specified categories",
+      "Everyone with no restriction",
+      "Only farmers",
+      "Only children"
+     ],
+     "correct_index": 0,
+     "explanation": "RPLI is for the rural population."
+    },
+    {
+     "question_text": "An advantage of PLI is:",
+     "options": [
+      "No benefits",
+      "High bonus, low premium and Section 80C benefit",
+      "No bonus",
+      "High premium"
+     ],
+     "correct_index": 1,
+     "explanation": "The sum assured limit is Rs 50 lakh."
+    }
+   ]
+  },
+  {
+   "title": "Unit 5: Insurance Services – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A housing loan is:",
+     "options": [
+      "A long-term loan (tenure up to 30 years) secured by mortgage of the property",
+      "A short-term loan",
+      "A personal loan",
+      "An unsecured loan"
+     ],
+     "correct_index": 0,
+     "explanation": "It can be for buying, building or repairing a house."
+    },
+    {
+     "question_text": "LTV is:",
+     "options": [
+      "Loan-to-Value ratio, the loan as a percentage of the property value (up to 75–90% per RBI norms)",
+      "Last Transfer Value",
+      "Loan to Valuation",
+      "Low Tax Value"
+     ],
+     "correct_index": 0,
+     "explanation": "The rest is the down payment."
+    },
+    {
+     "question_text": "Institutions providing housing loans include:",
+     "options": [
+      "Only the government",
+      "Only banks",
+      "Only the post office",
+      "Banks, housing finance companies, NBFCs and HUDCO"
+     ],
+     "correct_index": 3,
+     "explanation": "HFCs include LIC Housing Finance and PNB Housing."
+    },
+    {
+     "question_text": "Housing finance companies are regulated by:",
+     "options": [
+      "PFRDA",
+      "IRDAI",
+      "SEBI",
+      "The RBI (since 2019)"
+     ],
+     "correct_index": 3,
+     "explanation": "NHB handles refinance and development."
+    },
+    {
+     "question_text": "The role of NHB is:",
+     "options": [
+      "To develop the housing finance sector and provide refinance",
+      "To print money",
+      "To regulate banks",
+      "To collect taxes"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the National Housing Bank."
+    },
+    {
+     "question_text": "The tax benefits of a housing loan include:",
+     "options": [
+      "Only principal",
+      "Principal under Section 80C and interest under Section 24(b) up to Rs 2 lakh (old regime, self-occupied)",
+      "Only interest above Rs 10 lakh",
+      "No benefit"
+     ],
+     "correct_index": 1,
+     "explanation": "Both are old-regime benefits."
+    },
+    {
+     "question_text": "A balance transfer is _____ and a top-up loan is _____:",
+     "options": [
+      "Moving the loan to another lender for a lower rate; an additional loan on the existing home loan",
+      "A card; a bank",
+      "Closing the loan; a new loan",
+      "A tax; a refund"
+     ],
+     "correct_index": 0,
+     "explanation": "Both reduce cost or add funds."
+    },
+    {
+     "question_text": "PMAY was launched in June 2015 with the vision of:",
+     "options": [
+      "\"Banks for All\"",
+      "\"Food for All\"",
+      "\"Jobs for All\"",
+      "\"Housing for All\""
+     ],
+     "correct_index": 3,
+     "explanation": "It has urban and rural components."
+    },
+    {
+     "question_text": "The four verticals of PMAY-Urban are:",
+     "options": [
+      "Only slum redevelopment",
+      "Only CLSS",
+      "Credit-Linked Subsidy Scheme, Affordable Housing in Partnership, In-situ Slum Redevelopment and Beneficiary-Led Construction",
+      "Only construction"
+     ],
+     "correct_index": 2,
+     "explanation": "They serve different needs."
+    },
+    {
+     "question_text": "CLSS is:",
+     "options": [
+      "A tax",
+      "A bank",
+      "A card",
+      "The Credit-Linked Subsidy Scheme giving an interest subsidy on home loans to EWS, LIG and MIG buyers"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a PMAY-U vertical."
+    },
+    {
+     "question_text": "PMAY-Gramin provides financial assistance of:",
+     "options": [
+      "Rs 10 lakh",
+      "Rs 10,000",
+      "Rs 1 crore",
+      "Rs 1.2 lakh in plains and Rs 1.3 lakh in hilly or difficult areas to rural homeless households"
+     ],
+     "correct_index": 3,
+     "explanation": "It replaced the Indira Awas Yojana in 2016."
+    },
+    {
+     "question_text": "PMAY beneficiaries are:",
+     "options": [
+      "Only banks",
+      "Only companies",
+      "Only the rich",
+      "Economically weaker sections, low and middle income groups and rural homeless households"
+     ],
+     "correct_index": 3,
+     "explanation": "Eligibility depends on income and house ownership."
+    },
+    {
+     "question_text": "PMAY-U 2.0, launched in September 2024, targets:",
+     "options": [
+      "10 lakh families",
+      "1,000 families",
+      "100 families",
+      "1 crore urban families"
+     ],
+     "correct_index": 3,
+     "explanation": "It continues the housing mission in cities."
+    },
+    {
+     "question_text": "Remote sensing is:",
+     "options": [
+      "Using remote controls",
+      "Using a phone only",
+      "Collecting data about the earth's surface using satellites, drones or aircraft",
+      "Using a TV"
+     ],
+     "correct_index": 2,
+     "explanation": "It provides images without physical visits."
+    },
+    {
+     "question_text": "Remote sensing is used in property insurance to:",
+     "options": [
+      "Assess damage and risk from satellite or drone images after floods or fires",
+      "Print policies",
+      "Collect premiums",
+      "Sell policies"
+     ],
+     "correct_index": 0,
+     "explanation": "It speeds up surveys."
+    },
+    {
+     "question_text": "Remote sensing is used in crop insurance to:",
+     "options": [
+      "Print policies",
+      "Collect taxes",
+      "Estimate crop area and yield loss using satellite data",
+      "Pay claims"
+     ],
+     "correct_index": 2,
+     "explanation": "It reduces manual crop-cutting experiments."
+    },
+    {
+     "question_text": "AI helps in catastrophe modelling by:",
+     "options": [
+      "Avoiding risk",
+      "Analysing large data sets to predict losses from floods, earthquakes and storms",
+      "Setting prices randomly",
+      "Ignoring data"
+     ],
+     "correct_index": 1,
+     "explanation": "Insurers price and manage risk better."
+    },
+    {
+     "question_text": "Parametric insurance:",
+     "options": [
+      "Needs surveys",
+      "Pays actual loss",
+      "Pays a fixed amount when a predefined event (e.g., rainfall level) occurs, without assessing the loss",
+      "Pays nothing"
+     ],
+     "correct_index": 2,
+     "explanation": "It gives fast payouts."
+    },
+    {
+     "question_text": "The role of IoT in insurance is:",
+     "options": [
+      "Using connected devices (telematics, wearables) to collect data for pricing and risk management",
+      "Collecting taxes",
+      "Setting laws",
+      "Printing policies"
+     ],
+     "correct_index": 0,
+     "explanation": "It supports usage-based insurance."
+    },
+    {
+     "question_text": "Emerging trends in insurance include:",
+     "options": [
+      "Insurtech, usage-based and parametric insurance, embedded insurance and AI-driven personalisation",
+      "No change",
+      "Paper only",
+      "No technology"
+     ],
+     "correct_index": 0,
+     "explanation": "They improve access."
+    },
+    {
+     "question_text": "Insurtech refers to:",
+     "options": [
+      "Banks",
+      "Cards",
+      "Old insurers",
+      "Technology-driven insurers and platforms such as Policybazaar, Acko and Digit"
+     ],
+     "correct_index": 3,
+     "explanation": "They digitise insurance."
+    },
+    {
+     "question_text": "Usage-based insurance sets the premium by:",
+     "options": [
+      "Brand",
+      "How much and how safely the vehicle is driven (pay-as-you-drive)",
+      "Colour",
+      "Age only"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses telematics."
+    },
+    {
+     "question_text": "Embedded insurance is:",
+     "options": [
+      "A tax",
+      "A loan",
+      "Insurance in a bank",
+      "Insurance offered within another purchase, e.g., on an e-commerce or travel app"
+     ],
+     "correct_index": 3,
+     "explanation": "It is sold at the point of sale."
+    },
+    {
+     "question_text": "An e-insurance account (EIA) is:",
+     "options": [
+      "A loan",
+      "An account to hold insurance policies electronically in one place",
+      "A card",
+      "A bank account"
+     ],
+     "correct_index": 1,
+     "explanation": "It simplifies policy management."
+    },
+    {
+     "question_text": "\"Insurance for All by 2047\" aims to:",
+     "options": [
+      "Reduce coverage",
+      "Provide universal insurance coverage through initiatives like Bima Sugam, Bima Vistaar and Bima Vahaks",
+      "Remove insurance",
+      "Raise premiums"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a vision for Viksit Bharat."
+    }
+   ]
+  }
+ ]
+}

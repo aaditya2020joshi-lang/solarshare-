@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 3: Digital Payment Mechanism – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A payment system is:",
+     "options": [
+      "A bank branch",
+      "A set of instruments, rules and procedures that enable the transfer of money between parties",
+      "A shop",
+      "A tax"
+     ],
+     "correct_index": 1,
+     "explanation": "It includes clearing and settlement."
+    },
+    {
+     "question_text": "Payment systems in India are governed by:",
+     "options": [
+      "The Payment and Settlement Systems Act, 2007",
+      "The Companies Act",
+      "The Income Tax Act",
+      "The Contract Act"
+     ],
+     "correct_index": 0,
+     "explanation": "The RBI is the regulator."
+    },
+    {
+     "question_text": "NPCI was set up in:",
+     "options": [
+      "2020",
+      "2008 by the RBI and Indian Banks' Association",
+      "1969",
+      "1935"
+     ],
+     "correct_index": 1,
+     "explanation": "It is a not-for-profit umbrella organisation for retail payments."
+    },
+    {
+     "question_text": "Payment instruments include:",
+     "options": [
+      "Cash, cheques, cards, wallets and UPI",
+      "Only cards",
+      "Only cheques",
+      "Only cash"
+     ],
+     "correct_index": 0,
+     "explanation": "They can be paper-based or electronic."
+    },
+    {
+     "question_text": "SWIFT is:",
+     "options": [
+      "A card",
+      "A currency",
+      "A secure messaging network for banks, not a payment system itself",
+      "A bank"
+     ],
+     "correct_index": 2,
+     "explanation": "It carries payment instructions; settlement happens elsewhere."
+    },
+    {
+     "question_text": "Major global card networks include:",
+     "options": [
+      "Visa, Mastercard and American Express",
+      "UPI only",
+      "RuPay only",
+      "Paytm only"
+     ],
+     "correct_index": 0,
+     "explanation": "Others include Diners and JCB."
+    },
+    {
+     "question_text": "Large-value payment systems are, respectively, in the USA, UK, Eurozone and China:",
+     "options": [
+      "CLS, CCIL, NSDL, CDSL",
+      "RTGS, NEFT, IMPS, UPI",
+      "SWIFT, SEPA, PIX, FedNow",
+      "Fedwire/CHIPS, CHAPS, TARGET2 and CNAPS/CIPS"
+     ],
+     "correct_index": 3,
+     "explanation": "Each is the main system for big payments."
+    },
+    {
+     "question_text": "SEPA stands for:",
+     "options": [
+      "Single European Payment Authority",
+      "Secure Electronic Payments Area",
+      "Standard Euro Payment Account",
+      "Single Euro Payments Area"
+     ],
+     "correct_index": 3,
+     "explanation": "It makes euro payments uniform across Europe."
+    },
+    {
+     "question_text": "PIX and FedNow are:",
+     "options": [
+      "Card networks",
+      "Banks",
+      "Digital wallets",
+      "Instant payment systems of Brazil and the USA"
+     ],
+     "correct_index": 3,
+     "explanation": "They enable 24/7 real-time transfers."
+    },
+    {
+     "question_text": "In correspondent banking, a nostro account is:",
+     "options": [
+      "A loan account",
+      "A foreign bank's account with us",
+      "A current account",
+      "A bank's account held abroad in foreign currency (\"our account with you\"), while a vostro is a foreign bank's account with us"
+     ],
+     "correct_index": 3,
+     "explanation": "Vostro means \"your account with us\"."
+    },
+    {
+     "question_text": "CLS Bank is needed to:",
+     "options": [
+      "Print money",
+      "Issue cards",
+      "Settle forex trades simultaneously and remove settlement risk",
+      "Collect tax"
+     ],
+     "correct_index": 2,
+     "explanation": "It reduces Herstatt risk."
+    },
+    {
+     "question_text": "Major international digital wallet providers include:",
+     "options": [
+      "NEFT",
+      "RTGS",
+      "RuPay",
+      "PayPal, Apple Pay, Google Pay and Alipay"
+     ],
+     "correct_index": 3,
+     "explanation": "Wallets store payment credentials digitally."
+    },
+    {
+     "question_text": "CBDCs are:",
+     "options": [
+      "Private cryptocurrencies",
+      "Central Bank Digital Currencies issued by central banks",
+      "Bank loans",
+      "Cheques"
+     ],
+     "correct_index": 1,
+     "explanation": "They are legal tender in digital form."
+    },
+    {
+     "question_text": "India's domestic payment framework includes:",
+     "options": [
+      "Paper-based, electronic and card-based systems regulated by the RBI",
+      "Only UPI",
+      "Only cheques",
+      "Only cash"
+     ],
+     "correct_index": 0,
+     "explanation": "NPCI operates many retail systems."
+    },
+    {
+     "question_text": "Paper-based payment instruments include:",
+     "options": [
+      "RTGS",
+      "NEFT",
+      "UPI",
+      "Cheques, demand drafts and pay orders"
+     ],
+     "correct_index": 3,
+     "explanation": "They require physical documents."
+    },
+    {
+     "question_text": "Electronic payment systems in India include:",
+     "options": [
+      "Pay orders",
+      "RTGS, NEFT, IMPS and UPI",
+      "Cheques",
+      "Demand drafts"
+     ],
+     "correct_index": 1,
+     "explanation": "They allow fast transfers."
+    },
+    {
+     "question_text": "RTGS is:",
+     "options": [
+      "Batch settlement",
+      "Real Time Gross Settlement, used for large-value transfers (minimum Rs 2 lakh), settled individually in real time",
+      "Cheque clearing",
+      "Card payment"
+     ],
+     "correct_index": 1,
+     "explanation": "It is available 24x7."
+    },
+    {
+     "question_text": "NEFT is:",
+     "options": [
+      "Real time",
+      "National Electronic Funds Transfer, settled in batches (deferred net settlement) with no minimum or maximum limit",
+      "Gross",
+      "Cheque"
+     ],
+     "correct_index": 1,
+     "explanation": "It is available 24x7."
+    },
+    {
+     "question_text": "RTGS differs from NEFT in that RTGS is:",
+     "options": [
+      "Not electronic",
+      "For small amounts only",
+      "Real-time gross settlement for large amounts, while NEFT is batch-based",
+      "Batch"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are bank-to-bank transfers."
+    },
+    {
+     "question_text": "IMPS differs from NEFT in that IMPS is:",
+     "options": [
+      "Delayed",
+      "For cheques",
+      "Instant (real time, 24x7) via mobile and other channels, while NEFT settles in batches",
+      "For cash"
+     ],
+     "correct_index": 2,
+     "explanation": "IMPS is for small amounts."
+    },
+    {
+     "question_text": "UPI is:",
+     "options": [
+      "A bank",
+      "A loan",
+      "A card",
+      "Unified Payments Interface, an instant real-time payment system launched by NPCI (2016)"
+     ],
+     "correct_index": 3,
+     "explanation": "It links bank accounts to mobile."
+    },
+    {
+     "question_text": "A VPA is:",
+     "options": [
+      "A card number",
+      "A Virtual Payment Address, such as name@bank, used to send and receive money",
+      "A password",
+      "A bank account"
+     ],
+     "correct_index": 1,
+     "explanation": "It hides account details."
+    },
+    {
+     "question_text": "UPI works with two-factor authentication by:",
+     "options": [
+      "Device binding and the UPI PIN",
+      "Only a card",
+      "Only a signature",
+      "Only a name"
+     ],
+     "correct_index": 0,
+     "explanation": "The PIN authorises each payment."
+    },
+    {
+     "question_text": "UPI Lite, UPI 123PAY and UPI Autopay are:",
+     "options": [
+      "Features for small payments, for feature phones, and for recurring payments respectively",
+      "Cards",
+      "Banks",
+      "Taxes"
+     ],
+     "correct_index": 0,
+     "explanation": "They extend UPI's reach."
+    },
+    {
+     "question_text": "The normal UPI transaction limit is:",
+     "options": [
+      "Rs 100",
+      "Rs 1 lakh per transaction/day for most person-to-person payments, with higher limits for some categories",
+      "Rs 1 crore",
+      "No limit"
+     ],
+     "correct_index": 1,
+     "explanation": "Limits vary by purpose and bank."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Digital Payment Mechanism – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "UPI is used internationally by:",
+     "options": [
+      "Not possible",
+      "Cash",
+      "Linking with payment systems of countries like Singapore and UAE and accepting UPI at partner merchants",
+      "Cheques"
+     ],
+     "correct_index": 2,
+     "explanation": "NPCI International promotes it."
+    },
+    {
+     "question_text": "NUUP (the *99# service) allows:",
+     "options": [
+      "Banking and payments on basic phones via USSD without internet",
+      "Only cheques",
+      "Only internet banking",
+      "Only cards"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the National Unified USSD Platform."
+    },
+    {
+     "question_text": "NACH is:",
+     "options": [
+      "A card",
+      "National Automated Clearing House, which handles bulk credits (e.g., salaries, subsidies) and debits (e.g., EMIs)",
+      "A wallet",
+      "A bank"
+     ],
+     "correct_index": 1,
+     "explanation": "NACH credit pays many; NACH debit collects many."
+    },
+    {
+     "question_text": "Uses of NACH include:",
+     "options": [
+      "Cash withdrawals",
+      "ATM use",
+      "Card swipes",
+      "Salary, dividend and pension payments, and EMI and insurance premium collections"
+     ],
+     "correct_index": 3,
+     "explanation": "It replaces ECS."
+    },
+    {
+     "question_text": "AePS is:",
+     "options": [
+      "Aadhaar Enabled Payment System, where transactions are done using the Aadhaar number and biometrics",
+      "A cheque",
+      "A card",
+      "A wallet"
+     ],
+     "correct_index": 0,
+     "explanation": "It works through business correspondents."
+    },
+    {
+     "question_text": "Micro-ATMs are:",
+     "options": [
+      "Handheld devices used by business correspondents to provide basic banking in remote areas",
+      "Credit cards",
+      "Cheques",
+      "Large ATMs"
+     ],
+     "correct_index": 0,
+     "explanation": "They use biometric authentication."
+    },
+    {
+     "question_text": "A risk of AePS is:",
+     "options": [
+      "No biometrics",
+      "No risk",
+      "Biometric data misuse and fraud through cloned fingerprints",
+      "No fraud"
+     ],
+     "correct_index": 2,
+     "explanation": "Locking Aadhaar biometrics helps."
+    },
+    {
+     "question_text": "NFS is:",
+     "options": [
+      "A wallet",
+      "A bank",
+      "National Financial Switch, which connects ATMs of different banks for interoperable cash withdrawals",
+      "A card"
+     ],
+     "correct_index": 2,
+     "explanation": "It is run by NPCI."
+    },
+    {
+     "question_text": "BBPS is:",
+     "options": [
+      "A bank",
+      "A loan",
+      "Bharat Bill Payment System, a one-stop platform for paying bills",
+      "A card"
+     ],
+     "correct_index": 2,
+     "explanation": "It is interoperable across banks and billers."
+    },
+    {
+     "question_text": "FASTag is:",
+     "options": [
+      "A loan",
+      "A bank",
+      "A card",
+      "An RFID-based electronic toll payment system"
+     ],
+     "correct_index": 3,
+     "explanation": "It deducts toll from a linked account."
+    },
+    {
+     "question_text": "A digital wallet is:",
+     "options": [
+      "A physical wallet",
+      "A bank",
+      "A loan",
+      "An electronic store of money used for online and offline payments"
+     ],
+     "correct_index": 3,
+     "explanation": "It needs to be loaded with money."
+    },
+    {
+     "question_text": "Closed wallets are used only for the issuer's goods and services; semi-closed for multiple merchants without cash withdrawal; open wallets:",
+     "options": [
+      "Allow cash withdrawal and are issued by banks",
+      "Are not regulated",
+      "Allow no payments",
+      "Are issued by merchants"
+     ],
+     "correct_index": 0,
+     "explanation": "The three differ in usage."
+    },
+    {
+     "question_text": "A minimum-KYC wallet has a lower limit (Rs 10,000), while a full-KYC wallet:",
+     "options": [
+      "Has no limit",
+      "Is banned",
+      "Allows higher balances and transactions (up to Rs 2 lakh)",
+      "Has a lower limit"
+     ],
+     "correct_index": 2,
+     "explanation": "Full KYC needs complete verification."
+    },
+    {
+     "question_text": "RuPay was launched in:",
+     "options": [
+      "1935",
+      "2020",
+      "2012 by NPCI",
+      "2000"
+     ],
+     "correct_index": 2,
+     "explanation": "It is an Indian domestic card network."
+    },
+    {
+     "question_text": "An advantage of RuPay is:",
+     "options": [
+      "Foreign processing",
+      "Higher cost",
+      "No acceptance",
+      "Lower transaction cost and domestic processing"
+     ],
+     "correct_index": 3,
+     "explanation": "It supports financial inclusion."
+    },
+    {
+     "question_text": "RuPay Secure is:",
+     "options": [
+      "A bank",
+      "A loan",
+      "An additional authentication feature for secure online card transactions",
+      "A tax"
+     ],
+     "correct_index": 2,
+     "explanation": "It adds a second factor."
+    },
+    {
+     "question_text": "The Jan Dhan RuPay card provides:",
+     "options": [
+      "Accident insurance cover (Rs 1 lakh, Rs 2 lakh for accounts opened after 28 August 2018)",
+      "Health insurance of Rs 10 lakh",
+      "Life insurance of Rs 50 lakh",
+      "No benefit"
+     ],
+     "correct_index": 0,
+     "explanation": "It is linked to the PMJDY account."
+    },
+    {
+     "question_text": "Compared with Visa and Mastercard, RuPay is:",
+     "options": [
+      "An Indian network by NPCI, while Visa and Mastercard are global",
+      "Not used",
+      "A US network",
+      "Global"
+     ],
+     "correct_index": 0,
+     "explanation": "Global networks work internationally."
+    },
+    {
+     "question_text": "e-KYC is:",
+     "options": [
+      "A physical form",
+      "Electronic verification of identity using Aadhaar with consent",
+      "A card",
+      "A loan"
+     ],
+     "correct_index": 1,
+     "explanation": "It is paperless."
+    },
+    {
+     "question_text": "eSign is:",
+     "options": [
+      "A hand signature",
+      "A card",
+      "An online electronic signature service using Aadhaar e-KYC, valid under the Information Technology Act, 2000",
+      "A cheque"
+     ],
+     "correct_index": 2,
+     "explanation": "It enables digital signing of documents."
+    },
+    {
+     "question_text": "eSign differs from a Digital Signature Certificate in that eSign:",
+     "options": [
+      "Needs no ID",
+      "Is a USB token",
+      "Is permanent",
+      "Is a one-time signature through Aadhaar OTP, whereas a DSC is a token-based certificate held by the user"
+     ],
+     "correct_index": 3,
+     "explanation": "Both are legally valid."
+    },
+    {
+     "question_text": "The Cheque Truncation System:",
+     "options": [
+      "Is a bank",
+      "Is a card",
+      "Uses images of cheques instead of physical movement for clearing",
+      "Moves cheques physically"
+     ],
+     "correct_index": 2,
+     "explanation": "It speeds up clearing."
+    },
+    {
+     "question_text": "MICR is:",
+     "options": [
+      "A wallet",
+      "A bank",
+      "A card",
+      "Magnetic Ink Character Recognition, the printed code at the bottom of a cheque"
+     ],
+     "correct_index": 3,
+     "explanation": "It helps in automated processing."
+    },
+    {
+     "question_text": "An advantage of CTS is:",
+     "options": [
+      "Faster clearing and lower cost with less fraud",
+      "Slower clearing",
+      "More cost",
+      "More handling"
+     ],
+     "correct_index": 0,
+     "explanation": "Physical movement is avoided."
+    },
+    {
+     "question_text": "A CTS-2010 compliant cheque:",
+     "options": [
+      "Has standard security features and layout required for image-based clearing",
+      "Is illegal",
+      "Is a draft",
+      "Has no features"
+     ],
+     "correct_index": 0,
+     "explanation": "Non-compliant cheques are not accepted."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Digital Payment Mechanism – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The NFS is run by:",
+     "options": [
+      "SEBI",
+      "IRDAI",
+      "NPCI",
+      "PFRDA"
+     ],
+     "correct_index": 2,
+     "explanation": "It connects ATMs of banks."
+    },
+    {
+     "question_text": "A cheque differs from a demand draft in that a cheque is:",
+     "options": [
+      "Drawn by the account holder and may bounce, while a demand draft is issued by a bank and is guaranteed",
+      "Never bounces",
+      "Issued by a bank",
+      "Guaranteed"
+     ],
+     "correct_index": 0,
+     "explanation": "A DD is prepaid."
+    },
+    {
+     "question_text": "A pay order is:",
+     "options": [
+      "A card",
+      "A wallet",
+      "A cheque",
+      "An instrument issued by a bank on payment of money, payable locally"
+     ],
+     "correct_index": 3,
+     "explanation": "It is used for payments such as tenders."
+    },
+    {
+     "question_text": "A money order is:",
+     "options": [
+      "A bank instrument",
+      "A wallet",
+      "A postal instrument for sending money through the post office",
+      "A card"
+     ],
+     "correct_index": 2,
+     "explanation": "It is an old remittance method."
+    },
+    {
+     "question_text": "An RTGS transaction is processed:",
+     "options": [
+      "Individually in real time between the RBI's books",
+      "By cheque",
+      "By cash",
+      "In batches"
+     ],
+     "correct_index": 0,
+     "explanation": "The funds are final."
+    },
+    {
+     "question_text": "Deferred net settlement means:",
+     "options": [
+      "Transactions are settled in batches on a net basis at specified times",
+      "Settled in real time",
+      "Settled individually",
+      "Not settled"
+     ],
+     "correct_index": 0,
+     "explanation": "NEFT uses this method."
+    },
+    {
+     "question_text": "Real-time gross settlement means:",
+     "options": [
+      "Settled monthly",
+      "Each transaction is settled individually and immediately",
+      "Settled yearly",
+      "Settled in batches"
+     ],
+     "correct_index": 1,
+     "explanation": "There is no netting."
+    },
+    {
+     "question_text": "RTGS is used for large-value transactions because:",
+     "options": [
+      "It is risky",
+      "It is slow",
+      "Settlement is immediate and final, reducing risk",
+      "It is cheap"
+     ],
+     "correct_index": 2,
+     "explanation": "Credit risk is minimal."
+    },
+    {
+     "question_text": "Forex settlement is:",
+     "options": [
+      "The settlement of foreign exchange trades, where two currencies are exchanged",
+      "Card settlement",
+      "Domestic settlement",
+      "Cheque settlement"
+     ],
+     "correct_index": 0,
+     "explanation": "CCIL handles Indian rupee leg settlement."
+    },
+    {
+     "question_text": "The Liberalised Remittance Scheme allows resident individuals to remit up to:",
+     "options": [
+      "USD 2.5 lakh per financial year",
+      "No limit",
+      "Rs 1 lakh",
+      "USD 1 million"
+     ],
+     "correct_index": 0,
+     "explanation": "It is for permitted purposes."
+    },
+    {
+     "question_text": "Herstatt risk is:",
+     "options": [
+      "Tax risk",
+      "The risk that one party delivers a currency but does not receive the other currency in a forex trade",
+      "Interest rate risk",
+      "Credit card risk"
+     ],
+     "correct_index": 1,
+     "explanation": "Named after Bank Herstatt's failure in 1974."
+    },
+    {
+     "question_text": "CCIL is:",
+     "options": [
+      "A card network",
+      "A regulator",
+      "A bank",
+      "Clearing Corporation of India Limited, which clears forex, government securities and money market trades"
+     ],
+     "correct_index": 3,
+     "explanation": "It acts as a central counterparty."
+    },
+    {
+     "question_text": "FEMA is:",
+     "options": [
+      "A bank",
+      "A card",
+      "The Fiscal Economy Act",
+      "The Foreign Exchange Management Act, 1999"
+     ],
+     "correct_index": 3,
+     "explanation": "It regulates foreign exchange."
+    },
+    {
+     "question_text": "FEDAI is:",
+     "options": [
+      "A regulator",
+      "A card",
+      "The Foreign Exchange Dealers' Association of India, setting rules for forex dealers",
+      "A bank"
+     ],
+     "correct_index": 2,
+     "explanation": "It guides authorised dealers."
+    },
+    {
+     "question_text": "Securities settlement is:",
+     "options": [
+      "Opening an account",
+      "Printing shares",
+      "The transfer of securities and money after a trade",
+      "Paying taxes"
+     ],
+     "correct_index": 2,
+     "explanation": "Depositories hold the securities."
+    },
+    {
+     "question_text": "T+1 settlement means:",
+     "options": [
+      "Two days",
+      "Settlement occurs one working day after the trade",
+      "Never",
+      "Same day"
+     ],
+     "correct_index": 1,
+     "explanation": "India moved to T+1 in 2023."
+    },
+    {
+     "question_text": "NSDL and CDSL are:",
+     "options": [
+      "Regulators",
+      "Insurers",
+      "Depositories that hold securities in electronic form",
+      "Banks"
+     ],
+     "correct_index": 2,
+     "explanation": "They hold demat accounts."
+    },
+    {
+     "question_text": "DvP means:",
+     "options": [
+      "Delivery versus Payment, where securities and money are exchanged at the same time",
+      "Debit versus Payment",
+      "Delivery versus Profit",
+      "Deposit versus Payment"
+     ],
+     "correct_index": 0,
+     "explanation": "It eliminates settlement risk."
+    },
+    {
+     "question_text": "Clearing corporations:",
+     "options": [
+      "Print money",
+      "Collect taxes",
+      "Issue cards",
+      "Guarantee and settle trades by acting as a counterparty to both buyer and seller"
+     ],
+     "correct_index": 3,
+     "explanation": "Example: NSE Clearing, CCIL."
+    },
+    {
+     "question_text": "e-Kuber is:",
+     "options": [
+      "The RBI's core banking solution used by the RBI and government for banking operations",
+      "A card",
+      "A bank",
+      "A wallet"
+     ],
+     "correct_index": 0,
+     "explanation": "It provides services to banks."
+    },
+    {
+     "question_text": "Innovative payment systems in India include:",
+     "options": [
+      "Only cash",
+      "UPI, Account Aggregator, ONDC and the e-rupee",
+      "Only cheques",
+      "Only drafts"
+     ],
+     "correct_index": 1,
+     "explanation": "They use digital public infrastructure."
+    },
+    {
+     "question_text": "The Account Aggregator framework:",
+     "options": [
+      "Issues cards",
+      "Collects taxes",
+      "Allows individuals to share their financial data securely with consent",
+      "Prints money"
+     ],
+     "correct_index": 2,
+     "explanation": "It is regulated by the RBI."
+    },
+    {
+     "question_text": "ONDC is:",
+     "options": [
+      "A bank",
+      "A tax",
+      "The Open Network for Digital Commerce, an open platform for e-commerce",
+      "A card"
+     ],
+     "correct_index": 2,
+     "explanation": "It aims to democratise online commerce."
+    },
+    {
+     "question_text": "OCEN is:",
+     "options": [
+      "Open Credit Enablement Network, an open framework for credit delivery",
+      "A tax",
+      "A card",
+      "A bank"
+     ],
+     "correct_index": 0,
+     "explanation": "It helps small borrowers access credit."
+    },
+    {
+     "question_text": "The e-rupee is:",
+     "options": [
+      "A card",
+      "India's central bank digital currency, with retail and wholesale types",
+      "A bank",
+      "A private cryptocurrency"
+     ],
+     "correct_index": 1,
+     "explanation": "It is legal tender issued by the RBI."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Digital Payment Mechanism – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Open banking means:",
+     "options": [
+      "Open branches",
+      "Sharing customer financial data through secure APIs with third parties with the customer's consent",
+      "Free banking",
+      "Closing banks"
+     ],
+     "correct_index": 1,
+     "explanation": "It fosters innovation."
+    },
+    {
+     "question_text": "Contactless/NFC payments:",
+     "options": [
+      "Need PIN always",
+      "Need cash",
+      "Need swiping",
+      "Allow payment by tapping a card or phone near a reader"
+     ],
+     "correct_index": 3,
+     "explanation": "NFC means near-field communication."
+    },
+    {
+     "question_text": "A neo-bank is:",
+     "options": [
+      "A branch bank",
+      "A foreign bank",
+      "A cooperative bank",
+      "A digital-only bank without physical branches (usually partnering with a licensed bank)"
+     ],
+     "correct_index": 3,
+     "explanation": "It offers app-based services."
+    },
+    {
+     "question_text": "Blockchain in payments:",
+     "options": [
+      "Is a bank",
+      "Is a loan",
+      "Provides a secure, transparent, decentralised ledger for transactions",
+      "Is a card"
+     ],
+     "correct_index": 2,
+     "explanation": "It is used in cryptocurrencies."
+    },
+    {
+     "question_text": "A voice payment is:",
+     "options": [
+      "A cheque payment",
+      "A cash payment",
+      "A card swipe",
+      "A payment initiated by voice commands"
+     ],
+     "correct_index": 3,
+     "explanation": "It uses speech recognition."
+    },
+    {
+     "question_text": "AI enables voice payments by:",
+     "options": [
+      "Using cash",
+      "Printing money",
+      "Using speech recognition and natural language understanding to interpret commands",
+      "Ignoring speech"
+     ],
+     "correct_index": 2,
+     "explanation": "It also supports regional languages."
+    },
+    {
+     "question_text": "Hello UPI is:",
+     "options": [
+      "A feature allowing UPI payments through voice commands in multiple languages",
+      "A card",
+      "A bank",
+      "A loan"
+     ],
+     "correct_index": 0,
+     "explanation": "It was introduced by NPCI."
+    },
+    {
+     "question_text": "Biometric authentication is:",
+     "options": [
+      "Using a PIN",
+      "Using a card",
+      "Verifying identity using unique physical traits such as fingerprints, face or iris",
+      "Using a password"
+     ],
+     "correct_index": 2,
+     "explanation": "It is hard to forge."
+    },
+    {
+     "question_text": "Adaptive (risk-based) authentication:",
+     "options": [
+      "Uses a fixed level",
+      "Uses no verification",
+      "Adjusts the level of verification according to the risk of the transaction",
+      "Uses only passwords"
+     ],
+     "correct_index": 2,
+     "explanation": "Riskier transactions need more checks."
+    },
+    {
+     "question_text": "AI helps in anti-spoofing by:",
+     "options": [
+      "Allowing fakes",
+      "Ignoring data",
+      "Detecting fake faces, voices or fingerprints through liveness and pattern analysis",
+      "Using cash"
+     ],
+     "correct_index": 2,
+     "explanation": "It prevents impersonation."
+    },
+    {
+     "question_text": "A concern with voice and biometric payments is:",
+     "options": [
+      "No data",
+      "Cost only",
+      "No risk",
+      "Privacy, spoofing and deepfake risks"
+     ],
+     "correct_index": 3,
+     "explanation": "Biometric data must be protected."
+    },
+    {
+     "question_text": "NLP is:",
+     "options": [
+      "National Language Policy",
+      "New Loan Product",
+      "Network Layer Protocol",
+      "Natural Language Processing, the AI field that helps computers understand human language"
+     ],
+     "correct_index": 3,
+     "explanation": "It powers chatbots."
+    },
+    {
+     "question_text": "NLP is used in digital payment queries to:",
+     "options": [
+      "Print cards",
+      "Collect tax",
+      "Understand customers' questions and give automated answers",
+      "Set rates"
+     ],
+     "correct_index": 2,
+     "explanation": "It improves support."
+    },
+    {
+     "question_text": "A chatbot in banking:",
+     "options": [
+      "Is a tax",
+      "Is a bank",
+      "Answers customer queries and performs simple tasks automatically",
+      "Is a card"
+     ],
+     "correct_index": 2,
+     "explanation": "It is available 24x7."
+    },
+    {
+     "question_text": "Intent classification identifies:",
+     "options": [
+      "The user's name",
+      "The user's income",
+      "The user's age",
+      "What the user wants to do from their message"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., \"check balance\"."
+    },
+    {
+     "question_text": "Sentiment analysis in complaints:",
+     "options": [
+      "Ignores complaints",
+      "Prints complaints",
+      "Closes complaints",
+      "Detects the customer's emotion (positive, negative) to prioritise handling"
+     ],
+     "correct_index": 3,
+     "explanation": "It helps improve service."
+    },
+    {
+     "question_text": "Bhashini is:",
+     "options": [
+      "A loan",
+      "A bank",
+      "India's National Language Translation Mission offering AI-based language services",
+      "A card"
+     ],
+     "correct_index": 2,
+     "explanation": "It supports multilingual access."
+    },
+    {
+     "question_text": "A challenge of NLP in payments is:",
+     "options": [
+      "Having no dialects",
+      "Having one language",
+      "Having no data",
+      "Understanding multiple languages, dialects and code-mixing accurately"
+     ],
+     "correct_index": 3,
+     "explanation": "Errors can cause wrong payments."
+    },
+    {
+     "question_text": "Payment apps use NLP to detect phishing by:",
+     "options": [
+      "Allowing all messages",
+      "Blocking all messages",
+      "Ignoring messages",
+      "Analysing messages for suspicious language and links"
+     ],
+     "correct_index": 3,
+     "explanation": "It protects users."
+    },
+    {
+     "question_text": "Multilingual conversational banking allows:",
+     "options": [
+      "Only Hindi",
+      "Customers to bank in their own language through chat or voice",
+      "Only English",
+      "No language"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes inclusion."
+    },
+    {
+     "question_text": "The role of the PSS Act, 2007 is to:",
+     "options": [
+      "Print notes",
+      "Provide for the regulation and supervision of payment systems in India by the RBI",
+      "Regulate stocks",
+      "Tax payments"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives legal backing to settlement finality."
+    },
+    {
+     "question_text": "A safety rule for digital payments is:",
+     "options": [
+      "Never share your OTP, UPI PIN or CVV with anyone",
+      "Share your PIN",
+      "Click unknown links",
+      "Use any app"
+     ],
+     "correct_index": 0,
+     "explanation": "Check the payee name before paying."
+    },
+    {
+     "question_text": "A UPI collect request fraud occurs when:",
+     "options": [
+      "A fraudster sends a \"collect\" request and the victim approves it, thinking they will receive money",
+      "The victim sends money voluntarily",
+      "No request is sent",
+      "A bank blocks it"
+     ],
+     "correct_index": 0,
+     "explanation": "Receiving money never needs a PIN."
+    },
+    {
+     "question_text": "A QR code scam occurs when:",
+     "options": [
+      "A fraudster sends a QR code claiming it will credit money, but scanning it debits the victim's account",
+      "The QR is blank",
+      "The QR is for a shop",
+      "The QR code is valid"
+     ],
+     "correct_index": 0,
+     "explanation": "Never scan a QR to receive money."
+    },
+    {
+     "question_text": "When money is debited but the transaction fails, one should:",
+     "options": [
+      "Pay again",
+      "Wait for auto-reversal (within the prescribed time), and if not received, complain to the bank",
+      "Do nothing",
+      "Close the account"
+     ],
+     "correct_index": 1,
+     "explanation": "RBI rules provide compensation for delay."
+    }
+   ]
+  }
+ ]
+}

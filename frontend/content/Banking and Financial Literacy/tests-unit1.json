@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Introduction to Financial Literacy – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Financial literacy is the ability to:",
+     "options": [
+      "Earn high income",
+      "Understand and use financial knowledge and skills to make informed money decisions",
+      "Print money",
+      "Avoid all risk"
+     ],
+     "correct_index": 1,
+     "explanation": "It covers budgeting, saving, investing and borrowing."
+    },
+    {
+     "question_text": "The OECD/INFE definition of financial literacy is a combination of:",
+     "options": [
+      "Income and wealth",
+      "Awareness, knowledge, skills, attitudes and behaviours needed to make sound financial decisions",
+      "Bank accounts only",
+      "Savings only"
+     ],
+     "correct_index": 1,
+     "explanation": "The aim is individual financial wellbeing."
+    },
+    {
+     "question_text": "Financial inclusion differs from financial education in that financial inclusion is:",
+     "options": [
+      "A school subject",
+      "Access to affordable financial services, while financial education is imparting knowledge",
+      "A skill",
+      "Knowledge about money"
+     ],
+     "correct_index": 1,
+     "explanation": "Financial literacy is the resulting ability to use them well."
+    },
+    {
+     "question_text": "An importance of financial literacy is that it:",
+     "options": [
+      "Prevents earning",
+      "Increases debt",
+      "Helps people manage money, avoid debt traps and plan for the future",
+      "Avoids all savings"
+     ],
+     "correct_index": 2,
+     "explanation": "It also improves credit behaviour."
+    },
+    {
+     "question_text": "Financial literacy protects against frauds by:",
+     "options": [
+      "Helping people recognise scams and unrealistic returns",
+      "Removing banks",
+      "Hiding information",
+      "Encouraging risk"
+     ],
+     "correct_index": 0,
+     "explanation": "Informed people verify offers before investing."
+    },
+    {
+     "question_text": "Financial literacy helps national development by:",
+     "options": [
+      "Increasing savings and investment and supporting financial inclusion",
+      "Reducing investment",
+      "Reducing savings",
+      "Increasing informal lending"
+     ],
+     "correct_index": 0,
+     "explanation": "It strengthens the financial system."
+    },
+    {
+     "question_text": "The components of financial literacy include:",
+     "options": [
+      "Knowledge, skills, attitudes and behaviour",
+      "Only knowledge",
+      "Only income",
+      "Only savings"
+     ],
+     "correct_index": 0,
+     "explanation": "All four are needed."
+    },
+    {
+     "question_text": "Attitudes and behaviour are important in financial literacy because:",
+     "options": [
+      "Behaviour is irrelevant",
+      "Knowledge alone does not ensure good decisions; habits shape outcomes",
+      "Only knowledge matters",
+      "Attitude is irrelevant"
+     ],
+     "correct_index": 1,
+     "explanation": "Good intentions must lead to action."
+    },
+    {
+     "question_text": "The three basic questions used to test financial literacy concern:",
+     "options": [
+      "Interest compounding, inflation and risk diversification",
+      "Gold, silver, land",
+      "Loans, cards, cheques",
+      "Salary, tax and rent"
+     ],
+     "correct_index": 0,
+     "explanation": "They are the \"Big Three\" of Lusardi and Mitchell."
+    },
+    {
+     "question_text": "The Rule of 72 estimates the number of years to double money as:",
+     "options": [
+      "72 ÷ interest rate (%)",
+      "Interest ÷ 72",
+      "72 − interest rate",
+      "72 × interest rate"
+     ],
+     "correct_index": 0,
+     "explanation": "At 8%, it takes about 9 years."
+    },
+    {
+     "question_text": "Simple interest on Rs 10,000 at 8% for 3 years is:",
+     "options": [
+      "Rs 3,000",
+      "Rs 800",
+      "Rs 2,640",
+      "Rs 2,400"
+     ],
+     "correct_index": 3,
+     "explanation": "10,000 × 8 × 3 ÷ 100."
+    },
+    {
+     "question_text": "Compound interest on Rs 10,000 at 10% for 2 years is:",
+     "options": [
+      "Rs 2,100",
+      "Rs 2,200",
+      "Rs 2,000",
+      "Rs 1,100"
+     ],
+     "correct_index": 0,
+     "explanation": "10,000 × (1.1² − 1)."
+    },
+    {
+     "question_text": "At 6% interest, money doubles in about:",
+     "options": [
+      "72 years",
+      "10 years",
+      "12 years",
+      "6 years"
+     ],
+     "correct_index": 2,
+     "explanation": "72 ÷ 6."
+    },
+    {
+     "question_text": "A financial institution is:",
+     "options": [
+      "A school",
+      "A shop",
+      "A hospital",
+      "An organisation that mobilises savings and provides financial services such as loans and investments"
+     ],
+     "correct_index": 3,
+     "explanation": "It acts as an intermediary."
+    },
+    {
+     "question_text": "The financial system comprises:",
+     "options": [
+      "Only the stock exchange",
+      "Only insurers",
+      "Only banks",
+      "Financial institutions, markets, instruments and services"
+     ],
+     "correct_index": 3,
+     "explanation": "It channels savings into investment."
+    },
+    {
+     "question_text": "Financial institutions are classified as:",
+     "options": [
+      "Banking and non-banking institutions",
+      "Public and private only",
+      "Old and new",
+      "Large and small"
+     ],
+     "correct_index": 0,
+     "explanation": "Banking institutions accept deposits and offer cheques."
+    },
+    {
+     "question_text": "The types of commercial banks in India include:",
+     "options": [
+      "Only foreign banks",
+      "Public sector, private sector and foreign banks",
+      "Only public banks",
+      "Only private banks"
+     ],
+     "correct_index": 1,
+     "explanation": "SBI is public sector; HDFC Bank is private."
+    },
+    {
+     "question_text": "Regional Rural Banks (RRBs) are:",
+     "options": [
+      "Payment banks",
+      "Banks set up to provide credit and banking services in rural areas",
+      "Foreign banks",
+      "Stock exchanges"
+     ],
+     "correct_index": 1,
+     "explanation": "They were established under the RRB Act, 1976."
+    },
+    {
+     "question_text": "Cooperative banks have _____ tiers:",
+     "options": [
+      "Only one",
+      "Only four central",
+      "State cooperative, district central cooperative and primary cooperative banks",
+      "Only two foreign"
+     ],
+     "correct_index": 2,
+     "explanation": "Urban cooperative banks are separate."
+    },
+    {
+     "question_text": "Small Finance Banks mainly serve:",
+     "options": [
+      "Governments",
+      "Small borrowers such as small farmers, micro and small businesses and the unorganised sector",
+      "Foreign firms",
+      "Large corporates"
+     ],
+     "correct_index": 1,
+     "explanation": "Examples: AU, Ujjivan."
+    },
+    {
+     "question_text": "Payments Banks cannot:",
+     "options": [
+      "Issue debit cards",
+      "Accept deposits",
+      "Lend or issue credit cards",
+      "Provide payment services"
+     ],
+     "correct_index": 2,
+     "explanation": "They accept limited deposits and provide payment services."
+    },
+    {
+     "question_text": "NABARD is the apex institution for:",
+     "options": [
+      "Housing",
+      "Industry",
+      "Foreign trade",
+      "Agriculture and rural development"
+     ],
+     "correct_index": 3,
+     "explanation": "It refinances rural credit institutions."
+    },
+    {
+     "question_text": "SIDBI supports _____, and EXIM Bank supports _____:",
+     "options": [
+      "Agriculture; industry",
+      "Foreign trade; small industries",
+      "Small industries; foreign trade",
+      "Housing; agriculture"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are development finance institutions."
+    },
+    {
+     "question_text": "Examples of NBFCs include:",
+     "options": [
+      "Bajaj Finance, Muthoot Finance and Shriram Finance",
+      "HDFC Bank",
+      "SBI",
+      "ICICI Bank"
+     ],
+     "correct_index": 0,
+     "explanation": "NBFCs lend but do not hold a banking licence."
+    },
+    {
+     "question_text": "NBFCs differ from banks in that NBFCs:",
+     "options": [
+      "Are part of the payment system",
+      "Accept demand deposits",
+      "Cannot accept demand deposits or issue cheques",
+      "Issue cheques"
+     ],
+     "correct_index": 2,
+     "explanation": "They are regulated by the RBI."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Financial Literacy – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "NBFC deposits are not covered by DICGC because:",
+     "options": [
+      "NBFCs are not banks",
+      "They are foreign",
+      "They are too small",
+      "They are public"
+     ],
+     "correct_index": 0,
+     "explanation": "Only bank deposits are insured."
+    },
+    {
+     "question_text": "DICGC insures bank deposits up to:",
+     "options": [
+      "Rs 50 lakh",
+      "Rs 5 lakh per depositor per bank",
+      "Rs 1 lakh",
+      "Rs 10 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "It covers savings, current, fixed and recurring deposits."
+    },
+    {
+     "question_text": "Other non-banking financial institutions include:",
+     "options": [
+      "Payments banks",
+      "Insurance companies, mutual funds, housing finance companies and Nidhi companies",
+      "Foreign banks",
+      "Commercial banks"
+     ],
+     "correct_index": 1,
+     "explanation": "They offer varied services."
+    },
+    {
+     "question_text": "A Nidhi company is:",
+     "options": [
+      "A mutual fund",
+      "A bank",
+      "A company that accepts deposits from and lends to its members only",
+      "An insurer"
+     ],
+     "correct_index": 2,
+     "explanation": "It is regulated under the Companies Act."
+    },
+    {
+     "question_text": "A microfinance institution (MFI):",
+     "options": [
+      "Is an insurer",
+      "Provides small loans to low-income borrowers",
+      "Is a stock exchange",
+      "Gives large corporate loans"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes financial inclusion."
+    },
+    {
+     "question_text": "The regulators of banks, securities, insurance and pension are:",
+     "options": [
+      "SEBI, RBI, PFRDA, IRDAI",
+      "RBI, SEBI, IRDAI and PFRDA",
+      "PFRDA, IRDAI, RBI, SEBI",
+      "IRDAI, RBI, SEBI, PFRDA"
+     ],
+     "correct_index": 1,
+     "explanation": "Each regulates its own sector."
+    },
+    {
+     "question_text": "The role of NHB is to:",
+     "options": [
+      "Regulate insurance",
+      "Regulate banks",
+      "Regulate pension",
+      "Develop and regulate the housing finance sector"
+     ],
+     "correct_index": 3,
+     "explanation": "It is the National Housing Bank."
+    },
+    {
+     "question_text": "Post offices contribute to financial inclusion by:",
+     "options": [
+      "Providing savings, insurance and payment services in remote areas",
+      "Closing branches",
+      "Raising prices",
+      "Cutting services"
+     ],
+     "correct_index": 0,
+     "explanation": "India Post Payments Bank has a wide reach."
+    },
+    {
+     "question_text": "Investment is:",
+     "options": [
+      "Gambling",
+      "The commitment of money to assets to earn returns over time",
+      "Spending on consumption",
+      "Borrowing"
+     ],
+     "correct_index": 1,
+     "explanation": "It seeks future income or appreciation."
+    },
+    {
+     "question_text": "Financial investment differs from real investment in that financial investment is in:",
+     "options": [
+      "Machinery",
+      "Gold",
+      "Land",
+      "Financial assets such as shares and bonds, while real investment is in physical assets like land"
+     ],
+     "correct_index": 3,
+     "explanation": "Both aim at returns."
+    },
+    {
+     "question_text": "Investment differs from gambling in that investment:",
+     "options": [
+      "Is based on analysis and expected return, while gambling relies on chance",
+      "Has no risk",
+      "Is illegal",
+      "Relies on chance"
+     ],
+     "correct_index": 0,
+     "explanation": "Gambling has no productive base."
+    },
+    {
+     "question_text": "Speculation differs from investment in that speculation:",
+     "options": [
+      "Seeks short-term gains by taking high risk, while investment is long-term and analytical",
+      "Is safe",
+      "Is long-term",
+      "Is guaranteed"
+     ],
+     "correct_index": 0,
+     "explanation": "Speculators bet on price moves."
+    },
+    {
+     "question_text": "Risk is:",
+     "options": [
+      "A guaranteed profit",
+      "A fixed income",
+      "Certainty of return",
+      "The uncertainty that actual returns will differ from expected returns"
+     ],
+     "correct_index": 3,
+     "explanation": "Return is the reward for investing."
+    },
+    {
+     "question_text": "The risk–return trade-off states that:",
+     "options": [
+      "Higher expected returns involve higher risk",
+      "Risk is always zero",
+      "Higher returns need lower risk",
+      "Risk and return are unrelated"
+     ],
+     "correct_index": 0,
+     "explanation": "Safe assets give low returns."
+    },
+    {
+     "question_text": "Of savings account, equity shares, FD, gold and PPF, the highest risk is:",
+     "options": [
+      "FD",
+      "PPF",
+      "Savings account",
+      "Equity shares"
+     ],
+     "correct_index": 3,
+     "explanation": "The others are comparatively safe."
+    },
+    {
+     "question_text": "Types of investment risk include:",
+     "options": [
+      "Only inflation",
+      "Market, credit, interest rate, inflation and liquidity risks",
+      "Only market",
+      "Only credit"
+     ],
+     "correct_index": 1,
+     "explanation": "They affect returns."
+    },
+    {
+     "question_text": "Systematic risk differs from unsystematic risk in that systematic risk:",
+     "options": [
+      "Can be diversified",
+      "Affects one firm",
+      "Is specific",
+      "Affects the whole market and cannot be diversified away, while unsystematic is specific and can be diversified"
+     ],
+     "correct_index": 3,
+     "explanation": "Unsystematic risk is company-specific."
+    },
+    {
+     "question_text": "Liquidity risk is:",
+     "options": [
+      "The risk of default",
+      "The risk of tax",
+      "The risk of being unable to sell an asset quickly without loss",
+      "The risk of price rise"
+     ],
+     "correct_index": 2,
+     "explanation": "Real estate has high liquidity risk."
+    },
+    {
+     "question_text": "Interest rate risk is:",
+     "options": [
+      "The risk of tax",
+      "The risk of default",
+      "The risk of fraud",
+      "The risk that changes in interest rates affect the value of investments (e.g., bond prices fall when rates rise)"
+     ],
+     "correct_index": 3,
+     "explanation": "Bond prices move inversely to rates."
+    },
+    {
+     "question_text": "A principle of investment is:",
+     "options": [
+      "Zero planning",
+      "Safety, liquidity, returns and diversification",
+      "Maximum risk",
+      "Ignoring tax"
+     ],
+     "correct_index": 1,
+     "explanation": "Match investments to goals and risk."
+    },
+    {
+     "question_text": "Diversification means:",
+     "options": [
+      "Borrowing",
+      "Avoiding investments",
+      "Investing in one asset",
+      "Spreading investments across different assets to reduce risk"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Don't put all eggs in one basket.\""
+    },
+    {
+     "question_text": "The power of compounding means:",
+     "options": [
+      "Losing interest",
+      "Earning interest on both the principal and previously earned interest",
+      "No interest",
+      "Earning interest on principal only"
+     ],
+     "correct_index": 1,
+     "explanation": "It makes money grow faster over time."
+    },
+    {
+     "question_text": "One should start investing early because:",
+     "options": [
+      "Compounding has more time to work",
+      "Interest is lower",
+      "Prices fall",
+      "Risk is higher"
+     ],
+     "correct_index": 0,
+     "explanation": "Even small amounts grow."
+    },
+    {
+     "question_text": "Asset allocation is:",
+     "options": [
+      "Investing in one stock",
+      "Spending money",
+      "Avoiding investing",
+      "Dividing investments among asset classes such as equity, debt and gold according to goals and risk"
+     ],
+     "correct_index": 3,
+     "explanation": "It is the main driver of returns."
+    },
+    {
+     "question_text": "Tax-efficient investing means:",
+     "options": [
+      "Choosing investments that reduce the tax payable on returns",
+      "Paying more tax",
+      "Avoiding investment",
+      "Evading tax"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., ELSS, PPF."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Financial Literacy – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Nominal return differs from real return in that the real return is:",
+     "options": [
+      "Return before charges",
+      "Nominal return",
+      "Nominal return adjusted for inflation",
+      "Return before tax"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows the true gain in purchasing power."
+    },
+    {
+     "question_text": "Nominal return 9% and inflation 5%. The approximate real return is:",
+     "options": [
+      "5%",
+      "14%",
+      "4%",
+      "9%"
+     ],
+     "correct_index": 2,
+     "explanation": "9% − 5%."
+    },
+    {
+     "question_text": "Investment avenues in India include:",
+     "options": [
+      "Bank deposits, PPF, mutual funds, shares, gold and real estate",
+      "Only shares",
+      "Only gold",
+      "Only banks"
+     ],
+     "correct_index": 0,
+     "explanation": "Each carries different risk and return."
+    },
+    {
+     "question_text": "Sovereign Gold Bonds are:",
+     "options": [
+      "Government securities denominated in grams of gold, issued by the RBI on behalf of the government",
+      "Insurance policies",
+      "Shares",
+      "Bank deposits"
+     ],
+     "correct_index": 0,
+     "explanation": "They pay interest and avoid storage issues."
+    },
+    {
+     "question_text": "REITs and InvITs are:",
+     "options": [
+      "Banks",
+      "Trusts that pool money to invest in real estate and infrastructure and give investors income",
+      "Insurance companies",
+      "Pension funds"
+     ],
+     "correct_index": 1,
+     "explanation": "They are traded on stock exchanges."
+    },
+    {
+     "question_text": "Cryptocurrency in India is:",
+     "options": [
+      "Not banned but unregulated as currency; gains on virtual digital assets are taxed at 30% with 1% TDS",
+      "Tax-free",
+      "Banned fully",
+      "Legal tender"
+     ],
+     "correct_index": 0,
+     "explanation": "It is not recognised as legal tender."
+    },
+    {
+     "question_text": "Risk profiling is:",
+     "options": [
+      "Opening an account",
+      "Calculating tax",
+      "Selecting stocks",
+      "Assessing an investor's ability and willingness to take risk"
+     ],
+     "correct_index": 3,
+     "explanation": "It guides suitable investment choices."
+    },
+    {
+     "question_text": "Risk capacity differs from risk tolerance in that risk capacity is:",
+     "options": [
+      "The willingness",
+      "The tax",
+      "The financial ability to bear loss, while risk tolerance is the psychological willingness",
+      "The return"
+     ],
+     "correct_index": 2,
+     "explanation": "Both determine the risk profile."
+    },
+    {
+     "question_text": "AI helps in risk profiling by:",
+     "options": [
+      "Guaranteeing profit",
+      "Analysing data to assess an investor's risk appetite and suggest suitable portfolios",
+      "Removing choice",
+      "Ignoring data"
+     ],
+     "correct_index": 1,
+     "explanation": "It personalises advice."
+    },
+    {
+     "question_text": "A robo-advisor is:",
+     "options": [
+      "A bank",
+      "A robot",
+      "An automated platform giving investment advice and portfolio management using algorithms",
+      "A human adviser"
+     ],
+     "correct_index": 2,
+     "explanation": "It has low fees."
+    },
+    {
+     "question_text": "A benefit of AI in investment profiling is:",
+     "options": [
+      "No personalisation",
+      "Slow advice",
+      "Personalised, low-cost and fast advice",
+      "High cost"
+     ],
+     "correct_index": 2,
+     "explanation": "It is available at scale."
+    },
+    {
+     "question_text": "A concern with AI in risk profiling is:",
+     "options": [
+      "Perfect accuracy",
+      "No risk",
+      "Bias, data privacy and lack of transparency",
+      "Perfect transparency"
+     ],
+     "correct_index": 2,
+     "explanation": "Users may not understand AI decisions."
+    },
+    {
+     "question_text": "Financial planning is:",
+     "options": [
+      "The process of setting financial goals and creating a plan to achieve them",
+      "Avoiding goals",
+      "Borrowing money",
+      "Spending money"
+     ],
+     "correct_index": 0,
+     "explanation": "It covers income, spending, saving and investing."
+    },
+    {
+     "question_text": "The first step of financial planning is:",
+     "options": [
+      "Reviewing",
+      "Selecting investments",
+      "Monitoring",
+      "Setting financial goals"
+     ],
+     "correct_index": 3,
+     "explanation": "Then assess the position, make a plan, implement and review."
+    },
+    {
+     "question_text": "Financial planning is important because it:",
+     "options": [
+      "Ignores goals",
+      "Helps achieve goals and prepare for emergencies and retirement",
+      "Increases debt",
+      "Reduces savings"
+     ],
+     "correct_index": 1,
+     "explanation": "It brings discipline."
+    },
+    {
+     "question_text": "An emergency fund is:",
+     "options": [
+      "Money for shopping",
+      "A loan",
+      "Investment in shares",
+      "Savings kept for unexpected expenses, usually 3 to 6 months' expenses"
+     ],
+     "correct_index": 3,
+     "explanation": "It should be liquid."
+    },
+    {
+     "question_text": "A budget is:",
+     "options": [
+      "A tax",
+      "A loan",
+      "A plan of expected income and expenditure for a period",
+      "A record of past spending only"
+     ],
+     "correct_index": 2,
+     "explanation": "It helps control spending."
+    },
+    {
+     "question_text": "A family budget is:",
+     "options": [
+      "A national budget",
+      "An estimate of a household's income and expenses (food, rent, education, savings)",
+      "A tax return",
+      "A business budget"
+     ],
+     "correct_index": 1,
+     "explanation": "It balances income and needs."
+    },
+    {
+     "question_text": "The 50-30-20 rule suggests:",
+     "options": [
+      "30% needs",
+      "20% needs",
+      "50% wants",
+      "50% needs, 30% wants, 20% savings and debt repayment"
+     ],
+     "correct_index": 3,
+     "explanation": "It is a simple budgeting guide."
+    },
+    {
+     "question_text": "Zero-based budgeting means:",
+     "options": [
+      "Saving nothing",
+      "Allocating every rupee of income to expenses or savings so that income minus expenses is zero",
+      "Spending nothing",
+      "Borrowing"
+     ],
+     "correct_index": 1,
+     "explanation": "Every rupee has a purpose."
+    },
+    {
+     "question_text": "A business budget includes:",
+     "options": [
+      "Only production",
+      "Sales, production, cash and master budgets",
+      "Only master",
+      "Only sales"
+     ],
+     "correct_index": 1,
+     "explanation": "It plans business operations."
+    },
+    {
+     "question_text": "A cash budget is:",
+     "options": [
+      "A production plan",
+      "An estimate of cash receipts and payments over a period",
+      "A sales plan",
+      "A profit report"
+     ],
+     "correct_index": 1,
+     "explanation": "It helps manage liquidity."
+    },
+    {
+     "question_text": "The national budget is presented under:",
+     "options": [
+      "Article 200",
+      "Article 300",
+      "Article 100",
+      "Article 112 of the Constitution as the annual financial statement"
+     ],
+     "correct_index": 3,
+     "explanation": "It is laid before Parliament."
+    },
+    {
+     "question_text": "The Union Budget is presented by:",
+     "options": [
+      "The RBI Governor",
+      "The Prime Minister",
+      "The Finance Minister, usually on 1 February",
+      "The President"
+     ],
+     "correct_index": 2,
+     "explanation": "It covers the coming financial year."
+    },
+    {
+     "question_text": "Revenue receipts differ from capital receipts in that revenue receipts:",
+     "options": [
+      "Do not create liabilities or reduce assets (e.g., tax revenue), while capital receipts do (e.g., borrowings)",
+      "Reduce assets",
+      "Create liabilities",
+      "Are loans"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital receipts include loans and asset sales."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to Financial Literacy – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Revenue expenditure differs from capital expenditure in that revenue expenditure:",
+     "options": [
+      "Does not create assets (e.g., salaries), while capital expenditure creates assets (e.g., roads)",
+      "Is on roads",
+      "Is on machinery",
+      "Creates assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital expenditure builds assets."
+    },
+    {
+     "question_text": "A surplus budget is one where:",
+     "options": [
+      "Expenditure exceeds receipts",
+      "There are no receipts",
+      "Receipts exceed expenditure",
+      "They are equal"
+     ],
+     "correct_index": 2,
+     "explanation": "A balanced budget has them equal; a deficit has expenditure above receipts."
+    },
+    {
+     "question_text": "Revenue deficit is:",
+     "options": [
+      "Total expenditure minus total receipts",
+      "Capital expenditure minus capital receipts",
+      "Revenue expenditure minus revenue receipts",
+      "Interest payments"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows borrowing used for current spending."
+    },
+    {
+     "question_text": "Fiscal deficit is:",
+     "options": [
+      "Capital receipts",
+      "Interest payments",
+      "Revenue expenditure minus revenue receipts",
+      "Total expenditure minus total receipts excluding borrowings"
+     ],
+     "correct_index": 3,
+     "explanation": "It shows total borrowing needs."
+    },
+    {
+     "question_text": "Primary deficit is:",
+     "options": [
+      "Fiscal deficit plus interest",
+      "Revenue deficit",
+      "Capital deficit",
+      "Fiscal deficit minus interest payments"
+     ],
+     "correct_index": 3,
+     "explanation": "It shows borrowing excluding interest burden."
+    },
+    {
+     "question_text": "A fiscal deficit is financed by:",
+     "options": [
+      "Printing only",
+      "Taxes",
+      "Borrowing (market borrowings, treasury bills) and other liabilities",
+      "Gifts"
+     ],
+     "correct_index": 2,
+     "explanation": "It adds to public debt."
+    },
+    {
+     "question_text": "The FRBM Act:",
+     "options": [
+      "Sets targets for reducing fiscal deficit and ensuring fiscal discipline",
+      "Regulates stocks",
+      "Sets tax rates",
+      "Regulates banks"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the Fiscal Responsibility and Budget Management Act, 2003."
+    },
+    {
+     "question_text": "Total expenditure Rs 450 lakh crore and receipts excluding borrowing Rs 340 lakh crore give a fiscal deficit of:",
+     "options": [
+      "Rs 450 lakh crore",
+      "Rs 340 lakh crore",
+      "Rs 110 lakh crore",
+      "Rs 790 lakh crore"
+     ],
+     "correct_index": 2,
+     "explanation": "450 − 340."
+    },
+    {
+     "question_text": "Fiscal deficit Rs 16 lakh crore and interest payments Rs 11 lakh crore give a primary deficit of:",
+     "options": [
+      "Rs 16 lakh crore",
+      "Rs 27 lakh crore",
+      "Rs 11 lakh crore",
+      "Rs 5 lakh crore"
+     ],
+     "correct_index": 3,
+     "explanation": "16 − 11."
+    },
+    {
+     "question_text": "AI-driven personal finance apps are:",
+     "options": [
+      "Apps that analyse spending and give personalised advice, e.g., budgeting and investment apps",
+      "Stock exchanges",
+      "Banks",
+      "Government schemes"
+     ],
+     "correct_index": 0,
+     "explanation": "They automate money management."
+    },
+    {
+     "question_text": "AI finance apps categorise expenses by:",
+     "options": [
+      "Guessing",
+      "Analysing transaction data and merchant names using machine learning",
+      "Ignoring data",
+      "Asking users every time"
+     ],
+     "correct_index": 1,
+     "explanation": "They show spending patterns."
+    },
+    {
+     "question_text": "An Account Aggregator is:",
+     "options": [
+      "A bank",
+      "An RBI-regulated entity that enables secure, consent-based sharing of financial data among institutions",
+      "A mutual fund",
+      "A stock exchange"
+     ],
+     "correct_index": 1,
+     "explanation": "The user controls data sharing."
+    },
+    {
+     "question_text": "A risk of using AI finance apps is:",
+     "options": [
+      "Perfect safety",
+      "Data privacy and security concerns and over-reliance on automated advice",
+      "No data",
+      "No risk"
+     ],
+     "correct_index": 1,
+     "explanation": "Users should check permissions."
+    },
+    {
+     "question_text": "Financial literacy is needed today because:",
+     "options": [
+      "Products are few",
+      "Frauds are absent",
+      "Money is simple",
+      "Financial products and digital services are complex and frauds are increasing"
+     ],
+     "correct_index": 3,
+     "explanation": "Informed choices are essential."
+    },
+    {
+     "question_text": "Financial wellbeing is:",
+     "options": [
+      "Having a lot of money",
+      "Having debt",
+      "Being rich",
+      "A state in which a person can meet obligations, feel secure and make choices that enjoy life"
+     ],
+     "correct_index": 3,
+     "explanation": "It is about control and security."
+    },
+    {
+     "question_text": "Financial education contributes to financial wellbeing by:",
+     "options": [
+      "Building knowledge and skills for better money decisions",
+      "Ignoring decisions",
+      "Increasing debt",
+      "Reducing savings"
+     ],
+     "correct_index": 0,
+     "explanation": "It improves behaviour."
+    },
+    {
+     "question_text": "NCFE is the:",
+     "options": [
+      "National Cooperative Fund of Education",
+      "National Cyber Fraud Enforcement",
+      "National Centre for Financial Education, which promotes financial literacy (NSFE is the National Strategy for Financial Education)",
+      "National Credit Fund"
+     ],
+     "correct_index": 2,
+     "explanation": "It works under the financial sector regulators."
+    },
+    {
+     "question_text": "The RBI's financial literacy initiatives include:",
+     "options": [
+      "Lending",
+      "Financial literacy centres, awareness campaigns and the \"RBI Kehta Hai\" campaign",
+      "Tax collection",
+      "Printing notes"
+     ],
+     "correct_index": 1,
+     "explanation": "They reach rural and urban people."
+    },
+    {
+     "question_text": "The \"RBI Kehta Hai\" campaign is:",
+     "options": [
+      "An RBI public awareness campaign on safe banking, frauds and financial products",
+      "A scheme",
+      "A tax campaign",
+      "A product"
+     ],
+     "correct_index": 0,
+     "explanation": "It spreads awareness through media."
+    },
+    {
+     "question_text": "PMJDY, PMJJBY, PMSBY and APY are:",
+     "options": [
+      "Banks",
+      "Government schemes for bank accounts, life insurance, accident insurance and pension",
+      "Stock exchanges",
+      "Taxes"
+     ],
+     "correct_index": 1,
+     "explanation": "They promote inclusion."
+    },
+    {
+     "question_text": "AI chatbots help financial literacy awareness by:",
+     "options": [
+      "Replacing banks",
+      "Guaranteeing profit",
+      "Blocking queries",
+      "Answering queries in simple language and at any time"
+     ],
+     "correct_index": 3,
+     "explanation": "They improve access to information."
+    },
+    {
+     "question_text": "MuleHunter.AI is:",
+     "options": [
+      "A scheme",
+      "A bank",
+      "A mutual fund",
+      "An AI/ML tool developed by the RBI Innovation Hub to detect mule bank accounts used in fraud"
+     ],
+     "correct_index": 3,
+     "explanation": "It helps banks fight fraud."
+    },
+    {
+     "question_text": "A precaution against online banking fraud is:",
+     "options": [
+      "Never share OTP, PIN or password and use official apps",
+      "Click all links",
+      "Share OTP",
+      "Use public Wi-Fi for banking"
+     ],
+     "correct_index": 0,
+     "explanation": "Also enable alerts."
+    },
+    {
+     "question_text": "A cyber fraud in India should be reported:",
+     "options": [
+      "Only to the court",
+      "Nowhere",
+      "Only to friends",
+      "On the national cybercrime helpline 1930 or cybercrime.gov.in and to the bank"
+     ],
+     "correct_index": 3,
+     "explanation": "Prompt reporting helps recover money."
+    },
+    {
+     "question_text": "A limit of AI in financial education is that it:",
+     "options": [
+      "Never errs",
+      "Is always correct",
+      "May give inaccurate or biased advice and cannot replace human judgement",
+      "Replaces teachers"
+     ],
+     "correct_index": 2,
+     "explanation": "Users should verify."
+    }
+   ]
+  }
+ ]
+}
