@@ -1,0 +1,1008 @@
+{
+ "flashcards": [
+  {
+   "front": "Hola",
+   "back": "Hello / Hi (sounds like: OH-lah)"
+  },
+  {
+   "front": "Buenos días",
+   "back": "Good morning (sounds like: BWEH-nohs DEE-ahs)"
+  },
+  {
+   "front": "Buenas tardes",
+   "back": "Good afternoon (until about dark) (sounds like: BWEH-nahs TAR-dehs)"
+  },
+  {
+   "front": "Buenas noches",
+   "back": "Good evening / Good night (sounds like: BWEH-nahs NOH-chehs)"
+  },
+  {
+   "front": "Adiós",
+   "back": "Goodbye (sounds like: ah-DYOHS)"
+  },
+  {
+   "front": "Hasta luego",
+   "back": "See you later (sounds like: AH-stah LWEH-goh)"
+  },
+  {
+   "front": "Hasta mañana",
+   "back": "See you tomorrow (sounds like: AH-stah mah-NYAH-nah)"
+  },
+  {
+   "front": "Hasta pronto",
+   "back": "See you soon (sounds like: AH-stah PROHN-toh)"
+  },
+  {
+   "front": "Gracias",
+   "back": "Thank you (sounds like: GRAH-syahs)"
+  },
+  {
+   "front": "Muchas gracias",
+   "back": "Thank you very much (sounds like: MOO-chahs GRAH-syahs)"
+  },
+  {
+   "front": "De nada",
+   "back": "You’re welcome (literally “of nothing”) (sounds like: deh NAH-dah)"
+  },
+  {
+   "front": "Por favor",
+   "back": "Please (sounds like: pohr fah-BOHR)"
+  },
+  {
+   "front": "Perdón",
+   "back": "Excuse me / Sorry (sounds like: pehr-DOHN)"
+  },
+  {
+   "front": "Disculpe",
+   "back": "Excuse me (formal, to get attention) (sounds like: dees-KOOL-peh)"
+  },
+  {
+   "front": "Lo siento",
+   "back": "I’m sorry (sounds like: loh SYEN-toh)"
+  },
+  {
+   "front": "Sí / No",
+   "back": "Yes / No (sounds like: see / noh)"
+  },
+  {
+   "front": "Vale / De acuerdo",
+   "back": "OK / Agreed (vale is common in Spain) (sounds like: BAH-leh / deh ah-KWEHR-doh)"
+  },
+  {
+   "front": "¿Cómo estás?",
+   "back": "How are you? (informal) (sounds like: KOH-moh eh-STAHS)"
+  },
+  {
+   "front": "¿Cómo está usted?",
+   "back": "How are you? (formal) (sounds like: KOH-moh eh-STAH oos-TEHD)"
+  },
+  {
+   "front": "¿Qué tal?",
+   "back": "How’s it going? (informal) (sounds like: keh tahl)"
+  },
+  {
+   "front": "Estoy bien",
+   "back": "I’m fine (sounds like: eh-STOY byen)"
+  },
+  {
+   "front": "Más o menos",
+   "back": "So-so (sounds like: mahs oh MEH-nohs)"
+  },
+  {
+   "front": "Mucho gusto",
+   "back": "Nice to meet you (sounds like: MOO-choh GOOS-toh)"
+  },
+  {
+   "front": "¿Y tú? / ¿Y usted?",
+   "back": "And you? (informal / formal) (sounds like: ee too / ee oos-TEHD)"
+  },
+  {
+   "front": "Bienvenido(a)",
+   "back": "Welcome (sounds like: byen-beh-NEE-doh)"
+  },
+  {
+   "front": "Me llamo Manu.",
+   "back": "My name is Manu."
+  },
+  {
+   "front": "¿Cómo te llamas?",
+   "back": "What is your name? (informal)"
+  },
+  {
+   "front": "¿Cómo se llama usted?",
+   "back": "What is your name? (formal)"
+  },
+  {
+   "front": "Mucho gusto. / Encantado(a).",
+   "back": "Nice to meet you. (add -a if you are female)"
+  },
+  {
+   "front": "Soy indio / india.",
+   "back": "I am Indian (male / female)."
+  },
+  {
+   "front": "Soy de la India.",
+   "back": "I am from India."
+  },
+  {
+   "front": "¿De dónde eres?",
+   "back": "Where are you from? (informal)"
+  },
+  {
+   "front": "Vivo en la India.",
+   "back": "I live in India."
+  },
+  {
+   "front": "Tengo treinta años.",
+   "back": "I am thirty years old (literally “I have thirty years”)."
+  },
+  {
+   "front": "Soy estudiante.",
+   "back": "I am a student."
+  },
+  {
+   "front": "Trabajo en una oficina.",
+   "back": "I work in an office."
+  },
+  {
+   "front": "Hablo hindi y un poco de español.",
+   "back": "I speak Hindi and a little Spanish."
+  },
+  {
+   "front": "No entiendo.",
+   "back": "I don’t understand."
+  },
+  {
+   "front": "Hable más despacio, por favor.",
+   "back": "Please speak more slowly."
+  },
+  {
+   "front": "¿Cómo se dice … en español?",
+   "back": "How do you say … in Spanish?"
+  },
+  {
+   "front": "yo",
+   "back": "I — notes: Not capitalised unless it starts a sentence"
+  },
+  {
+   "front": "tú",
+   "back": "you (one person) — notes: Informal"
+  },
+  {
+   "front": "él",
+   "back": "he"
+  },
+  {
+   "front": "ella",
+   "back": "she"
+  },
+  {
+   "front": "usted (Ud.)",
+   "back": "you (one person, formal) — notes: Uses the same verb form as él / ella"
+  },
+  {
+   "front": "nosotros / nosotras",
+   "back": "we (masculine or mixed / all feminine)"
+  },
+  {
+   "front": "vosotros / vosotras",
+   "back": "you all (informal) — notes: Used mainly in Spain"
+  },
+  {
+   "front": "ellos / ellas",
+   "back": "they (masculine or mixed / all feminine)"
+  },
+  {
+   "front": "ustedes (Uds.)",
+   "back": "you all (formal in Spain; the normal “you all” in Latin America) — notes: Uses the same verb form as ellos / ellas"
+  },
+  {
+   "front": "tener que + infinitive",
+   "back": "have to: Tengo que estudiar."
+  },
+  {
+   "front": "Hay",
+   "back": "there is / there are (from haber, never changes): Hay un gato. Hay dos gatos."
+  },
+  {
+   "front": "hablar",
+   "back": "to speak"
+  },
+  {
+   "front": "comer",
+   "back": "to eat"
+  },
+  {
+   "front": "trabajar",
+   "back": "to work"
+  },
+  {
+   "front": "beber",
+   "back": "to drink"
+  },
+  {
+   "front": "estudiar",
+   "back": "to study"
+  },
+  {
+   "front": "leer",
+   "back": "to read"
+  },
+  {
+   "front": "escuchar",
+   "back": "to listen"
+  },
+  {
+   "front": "aprender",
+   "back": "to learn"
+  },
+  {
+   "front": "mirar",
+   "back": "to look at / watch"
+  },
+  {
+   "front": "vender",
+   "back": "to sell"
+  },
+  {
+   "front": "cantar",
+   "back": "to sing"
+  },
+  {
+   "front": "vivir",
+   "back": "to live"
+  },
+  {
+   "front": "bailar",
+   "back": "to dance"
+  },
+  {
+   "front": "escribir",
+   "back": "to write"
+  },
+  {
+   "front": "comprar",
+   "back": "to buy"
+  },
+  {
+   "front": "abrir",
+   "back": "to open"
+  },
+  {
+   "front": "Voy a la escuela.",
+   "back": "I go to school."
+  },
+  {
+   "front": "Voy a comer.",
+   "back": "I am going to eat (ir a + infinitive = near future)."
+  },
+  {
+   "front": "Quiero un café.",
+   "back": "I want a coffee. Quisiera un café. = I would like a coffee (more polite)."
+  },
+  {
+   "front": "Hace calor.",
+   "back": "It is hot (weather uses hacer)."
+  },
+  {
+   "front": "Puedo + infinitive",
+   "back": "I can: Puedo ayudar."
+  },
+  {
+   "front": "no",
+   "back": "no / not — example: No está aquí. (He is not here.)"
+  },
+  {
+   "front": "nunca",
+   "back": "never — example: Nunca como carne. / No como carne nunca."
+  },
+  {
+   "front": "nada",
+   "back": "nothing — example: No entiendo nada."
+  },
+  {
+   "front": "nadie",
+   "back": "nobody — example: No conozco a nadie."
+  },
+  {
+   "front": "tampoco",
+   "back": "neither / not either — example: Yo tampoco. (Me neither.)"
+  },
+  {
+   "front": "ya no",
+   "back": "no longer — example: Ya no vive aquí."
+  },
+  {
+   "front": "qué",
+   "back": "what — example: ¿Qué es esto? (What is this?)"
+  },
+  {
+   "front": "quién / quiénes",
+   "back": "who — example: ¿Quién es ella?"
+  },
+  {
+   "front": "dónde",
+   "back": "where — example: ¿Dónde vives?"
+  },
+  {
+   "front": "cuándo",
+   "back": "when — example: ¿Cuándo llegas?"
+  },
+  {
+   "front": "por qué",
+   "back": "why — example: ¿Por qué estudias español?"
+  },
+  {
+   "front": "porque",
+   "back": "because (answer, one word, no accent) — example: Porque me gusta."
+  },
+  {
+   "front": "cómo",
+   "back": "how — example: ¿Cómo estás?"
+  },
+  {
+   "front": "cuánto / cuánta",
+   "back": "how much — example: ¿Cuánto cuesta? (How much does it cost?)"
+  },
+  {
+   "front": "cuántos / cuántas",
+   "back": "how many — example: ¿Cuántos años tienes?"
+  },
+  {
+   "front": "cuál / cuáles",
+   "back": "which — example: ¿Cuál prefieres?"
+  },
+  {
+   "front": "Number 0 in Spanish",
+   "back": "cero"
+  },
+  {
+   "front": "Number 7 in Spanish",
+   "back": "siete"
+  },
+  {
+   "front": "Number 14 in Spanish",
+   "back": "catorce"
+  },
+  {
+   "front": "Number 1 in Spanish",
+   "back": "uno / una"
+  },
+  {
+   "front": "Number 8 in Spanish",
+   "back": "ocho"
+  },
+  {
+   "front": "Number 15 in Spanish",
+   "back": "quince"
+  },
+  {
+   "front": "Number 2 in Spanish",
+   "back": "dos"
+  },
+  {
+   "front": "Number 9 in Spanish",
+   "back": "nueve"
+  },
+  {
+   "front": "Number 16 in Spanish",
+   "back": "dieciséis"
+  },
+  {
+   "front": "Number 3 in Spanish",
+   "back": "tres"
+  },
+  {
+   "front": "Number 10 in Spanish",
+   "back": "diez"
+  },
+  {
+   "front": "Number 17 in Spanish",
+   "back": "diecisiete"
+  },
+  {
+   "front": "Number 4 in Spanish",
+   "back": "cuatro"
+  },
+  {
+   "front": "Number 11 in Spanish",
+   "back": "once"
+  },
+  {
+   "front": "Number 18 in Spanish",
+   "back": "dieciocho"
+  },
+  {
+   "front": "Number 5 in Spanish",
+   "back": "cinco"
+  },
+  {
+   "front": "Number 12 in Spanish",
+   "back": "doce"
+  },
+  {
+   "front": "Number 19 in Spanish",
+   "back": "diecinueve"
+  },
+  {
+   "front": "Number 6 in Spanish",
+   "back": "seis"
+  },
+  {
+   "front": "Number 13 in Spanish",
+   "back": "trece"
+  },
+  {
+   "front": "Number 20 in Spanish",
+   "back": "veinte"
+  },
+  {
+   "front": "Number 60 in Spanish",
+   "back": "sesenta"
+  },
+  {
+   "front": "Number 30 in Spanish",
+   "back": "treinta"
+  },
+  {
+   "front": "Number 70 in Spanish",
+   "back": "setenta"
+  },
+  {
+   "front": "Number 40 in Spanish",
+   "back": "cuarenta"
+  },
+  {
+   "front": "Number 80 in Spanish",
+   "back": "ochenta"
+  },
+  {
+   "front": "Number 50 in Spanish",
+   "back": "cincuenta"
+  },
+  {
+   "front": "Number 90 in Spanish",
+   "back": "noventa"
+  },
+  {
+   "front": "100",
+   "back": "cien (exactly 100) or ciento before more: ciento uno (101)."
+  },
+  {
+   "front": "200",
+   "back": "doscientos, 300 = trescientos, 500 = quinientos, 700 = setecientos, 900 = novecientos."
+  },
+  {
+   "front": "1000",
+   "back": "mil, 2000 = dos mil, 1,000,000 = un millón."
+  },
+  {
+   "front": "lunes",
+   "back": "Monday"
+  },
+  {
+   "front": "enero",
+   "back": "January"
+  },
+  {
+   "front": "martes",
+   "back": "Tuesday"
+  },
+  {
+   "front": "febrero",
+   "back": "February"
+  },
+  {
+   "front": "miércoles",
+   "back": "Wednesday"
+  },
+  {
+   "front": "marzo",
+   "back": "March"
+  },
+  {
+   "front": "jueves",
+   "back": "Thursday"
+  },
+  {
+   "front": "abril",
+   "back": "April"
+  },
+  {
+   "front": "viernes",
+   "back": "Friday"
+  },
+  {
+   "front": "mayo",
+   "back": "May"
+  },
+  {
+   "front": "sábado",
+   "back": "Saturday"
+  },
+  {
+   "front": "junio",
+   "back": "June"
+  },
+  {
+   "front": "domingo",
+   "back": "Sunday"
+  },
+  {
+   "front": "julio",
+   "back": "July"
+  },
+  {
+   "front": "agosto",
+   "back": "August"
+  },
+  {
+   "front": "septiembre",
+   "back": "September"
+  },
+  {
+   "front": "octubre",
+   "back": "October"
+  },
+  {
+   "front": "noviembre",
+   "back": "November"
+  },
+  {
+   "front": "diciembre",
+   "back": "December"
+  },
+  {
+   "front": "“On Monday”",
+   "back": "el lunes; “on Mondays” = los lunes."
+  },
+  {
+   "front": "¿Qué hora es?",
+   "back": "What time is it?"
+  },
+  {
+   "front": "Es mediodía",
+   "back": "noon. Es medianoche = midnight."
+  },
+  {
+   "front": "y cuarto",
+   "back": "quarter past; y media = half past; menos cuarto = quarter to: Son las tres y media."
+  },
+  {
+   "front": "el padre / el papá",
+   "back": "father / dad"
+  },
+  {
+   "front": "la madre / la mamá",
+   "back": "mother / mom"
+  },
+  {
+   "front": "el hermano",
+   "back": "brother"
+  },
+  {
+   "front": "la hermana",
+   "back": "sister"
+  },
+  {
+   "front": "el hijo",
+   "back": "son"
+  },
+  {
+   "front": "la hija",
+   "back": "daughter"
+  },
+  {
+   "front": "el abuelo",
+   "back": "grandfather"
+  },
+  {
+   "front": "la abuela",
+   "back": "grandmother"
+  },
+  {
+   "front": "el tío",
+   "back": "uncle"
+  },
+  {
+   "front": "la tía",
+   "back": "aunt"
+  },
+  {
+   "front": "el esposo / el marido",
+   "back": "husband"
+  },
+  {
+   "front": "la esposa / la mujer",
+   "back": "wife (mujer also means woman)"
+  },
+  {
+   "front": "el amigo / la amiga",
+   "back": "friend (m. / f.)"
+  },
+  {
+   "front": "el niño / la niña",
+   "back": "boy / girl, child"
+  },
+  {
+   "front": "rojo(a)",
+   "back": "red"
+  },
+  {
+   "front": "azul",
+   "back": "blue"
+  },
+  {
+   "front": "verde",
+   "back": "green"
+  },
+  {
+   "front": "amarillo(a)",
+   "back": "yellow"
+  },
+  {
+   "front": "negro(a)",
+   "back": "black"
+  },
+  {
+   "front": "blanco(a)",
+   "back": "white"
+  },
+  {
+   "front": "gris",
+   "back": "grey"
+  },
+  {
+   "front": "naranja",
+   "back": "orange"
+  },
+  {
+   "front": "rosa",
+   "back": "pink"
+  },
+  {
+   "front": "marrón",
+   "back": "brown"
+  },
+  {
+   "front": "el agua (f.)",
+   "back": "water"
+  },
+  {
+   "front": "el pan",
+   "back": "bread"
+  },
+  {
+   "front": "la leche",
+   "back": "milk"
+  },
+  {
+   "front": "el queso",
+   "back": "cheese"
+  },
+  {
+   "front": "el café",
+   "back": "coffee"
+  },
+  {
+   "front": "el arroz",
+   "back": "rice"
+  },
+  {
+   "front": "el té",
+   "back": "tea"
+  },
+  {
+   "front": "la carne",
+   "back": "meat"
+  },
+  {
+   "front": "el jugo / el zumo",
+   "back": "juice (Latin America / Spain)"
+  },
+  {
+   "front": "el pescado",
+   "back": "fish"
+  },
+  {
+   "front": "la manzana",
+   "back": "apple"
+  },
+  {
+   "front": "el huevo",
+   "back": "egg"
+  },
+  {
+   "front": "el plátano",
+   "back": "banana"
+  },
+  {
+   "front": "la verdura",
+   "back": "vegetable"
+  },
+  {
+   "front": "el desayuno",
+   "back": "breakfast"
+  },
+  {
+   "front": "el almuerzo / la cena",
+   "back": "lunch / dinner"
+  },
+  {
+   "front": "la casa",
+   "back": "house / home"
+  },
+  {
+   "front": "la escuela",
+   "back": "school"
+  },
+  {
+   "front": "la ciudad",
+   "back": "city"
+  },
+  {
+   "front": "la oficina",
+   "back": "office"
+  },
+  {
+   "front": "la calle",
+   "back": "street"
+  },
+  {
+   "front": "la tienda",
+   "back": "shop"
+  },
+  {
+   "front": "la estación",
+   "back": "station"
+  },
+  {
+   "front": "el hospital",
+   "back": "hospital"
+  },
+  {
+   "front": "el libro",
+   "back": "book"
+  },
+  {
+   "front": "el bolígrafo",
+   "back": "pen"
+  },
+  {
+   "front": "el coche / el carro",
+   "back": "car"
+  },
+  {
+   "front": "el teléfono",
+   "back": "phone"
+  },
+  {
+   "front": "el dinero",
+   "back": "money"
+  },
+  {
+   "front": "el trabajo",
+   "back": "work / job"
+  },
+  {
+   "front": "alto (adjective)",
+   "back": "tall / high — feminine: alta"
+  },
+  {
+   "front": "bajo (adjective)",
+   "back": "short / low — feminine: baja"
+  },
+  {
+   "front": "bueno (adjective)",
+   "back": "good — feminine: buena"
+  },
+  {
+   "front": "malo (adjective)",
+   "back": "bad — feminine: mala"
+  },
+  {
+   "front": "nuevo (adjective)",
+   "back": "new — feminine: nueva"
+  },
+  {
+   "front": "viejo (adjective)",
+   "back": "old — feminine: vieja"
+  },
+  {
+   "front": "bonito (adjective)",
+   "back": "pretty / nice — feminine: bonita"
+  },
+  {
+   "front": "grande (adjective)",
+   "back": "big — feminine: grande"
+  },
+  {
+   "front": "pequeño (adjective)",
+   "back": "small — feminine: pequeña"
+  },
+  {
+   "front": "fácil (adjective)",
+   "back": "easy — feminine: fácil"
+  },
+  {
+   "front": "difícil (adjective)",
+   "back": "difficult — feminine: difícil"
+  },
+  {
+   "front": "feliz (adjective)",
+   "back": "happy — feminine: feliz"
+  },
+  {
+   "front": "mi (plural?)",
+   "back": "plural: mis (my)"
+  },
+  {
+   "front": "tu (plural?)",
+   "back": "plural: tus (your (tú))"
+  },
+  {
+   "front": "su (plural?)",
+   "back": "plural: sus (his / her / your (usted) / their)"
+  },
+  {
+   "front": "nuestro / nuestra (plural?)",
+   "back": "plural: nuestros / nuestras (our)"
+  },
+  {
+   "front": "vuestro / vuestra (plural?)",
+   "back": "plural: vuestros / vuestras (your (vosotros))"
+  },
+  {
+   "front": "Spanish for \"this / these (near)\"",
+   "back": "masc.: este; fem.: esta; masc. plural: estos; fem. plural: estas"
+  },
+  {
+   "front": "Spanish for \"that / those (a bit far)\"",
+   "back": "masc.: ese; fem.: esa; masc. plural: esos; fem. plural: esas"
+  },
+  {
+   "front": "Spanish for \"that / those (far away)\"",
+   "back": "masc.: aquel; fem.: aquella; masc. plural: aquellos; fem. plural: aquellas"
+  },
+  {
+   "front": "y (e before “i”)",
+   "back": "and"
+  },
+  {
+   "front": "o (u before “o”)",
+   "back": "or"
+  },
+  {
+   "front": "pero",
+   "back": "but"
+  },
+  {
+   "front": "entonces",
+   "back": "so / then"
+  },
+  {
+   "front": "con",
+   "back": "with"
+  },
+  {
+   "front": "sin",
+   "back": "without"
+  },
+  {
+   "front": "en",
+   "back": "in / on / at"
+  },
+  {
+   "front": "sobre",
+   "back": "on / about"
+  },
+  {
+   "front": "debajo de",
+   "back": "under"
+  },
+  {
+   "front": "delante de / detrás de",
+   "back": "in front of / behind"
+  },
+  {
+   "front": "a",
+   "back": "to / at"
+  },
+  {
+   "front": "de",
+   "back": "of / from"
+  },
+  {
+   "front": "para",
+   "back": "for / in order to"
+  },
+  {
+   "front": "por",
+   "back": "for / because of / by"
+  },
+  {
+   "front": "aquí / allí",
+   "back": "here / there"
+  },
+  {
+   "front": "cerca / lejos",
+   "back": "near / far"
+  },
+  {
+   "front": "muy",
+   "back": "very"
+  },
+  {
+   "front": "demasiado",
+   "back": "too much"
+  },
+  {
+   "front": "mucho",
+   "back": "a lot"
+  },
+  {
+   "front": "un poco",
+   "back": "a little"
+  },
+  {
+   "front": "también",
+   "back": "also / too"
+  },
+  {
+   "front": "siempre",
+   "back": "always"
+  },
+  {
+   "front": "a menudo",
+   "back": "often"
+  },
+  {
+   "front": "a veces",
+   "back": "sometimes"
+  },
+  {
+   "front": "quizás",
+   "back": "maybe"
+  },
+  {
+   "front": "a + el",
+   "back": "al: Voy al mercado. (I go to the market.)"
+  },
+  {
+   "front": "de + el",
+   "back": "del: el libro del profesor (the teacher’s book)."
+  },
+  {
+   "front": "Quisiera …",
+   "back": "I would like …"
+  },
+  {
+   "front": "¿Dónde está la estación?",
+   "back": "Where is the station?"
+  },
+  {
+   "front": "¿Cuánto cuesta?",
+   "back": "How much does it cost?"
+  },
+  {
+   "front": "La cuenta, por favor.",
+   "back": "The bill, please."
+  },
+  {
+   "front": "No sé.",
+   "back": "I don’t know."
+  },
+  {
+   "front": "¿Puede ayudarme?",
+   "back": "Can you help me?"
+  },
+  {
+   "front": "¿Habla inglés?",
+   "back": "Do you speak English?"
+  },
+  {
+   "front": "Repita, por favor.",
+   "back": "Please repeat."
+  }
+ ]
+}

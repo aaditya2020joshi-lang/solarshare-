@@ -1,0 +1,1350 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Spanish for Beginners – Full Test",
+   "duration_minutes": 40,
+   "questions": [
+    {
+     "question_text": "What does “Hola” mean?",
+     "options": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Please"
+     ],
+     "correct_index": 0,
+     "explanation": "Hola is the everyday greeting, used at any time of day."
+    },
+    {
+     "question_text": "Which phrase means “Goodbye”?",
+     "options": [
+      "Buenas tardes",
+      "Adiós",
+      "Mucho gusto",
+      "De nada"
+     ],
+     "correct_index": 1,
+     "explanation": "Adiós = goodbye. Buenas tardes = good afternoon."
+    },
+    {
+     "question_text": "Which word means “Please”?",
+     "options": [
+      "Por favor",
+      "Hola",
+      "Perdón",
+      "Gracias"
+     ],
+     "correct_index": 0,
+     "explanation": "Por favor = please."
+    },
+    {
+     "question_text": "“De nada” is a reply to which word?",
+     "options": [
+      "Perdón",
+      "Sí",
+      "Gracias",
+      "Hola"
+     ],
+     "correct_index": 2,
+     "explanation": "De nada means “you’re welcome” (literally “of nothing”)."
+    },
+    {
+     "question_text": "When do you say “Mucho gusto”?",
+     "options": [
+      "When leaving",
+      "When ordering food",
+      "When meeting someone",
+      "When apologising"
+     ],
+     "correct_index": 2,
+     "explanation": "Mucho gusto means “nice to meet you”."
+    },
+    {
+     "question_text": "Which is a good reply to “¿Cómo estás?”",
+     "options": [
+      "Hasta mañana.",
+      "Me llamo Paul.",
+      "Tengo diez años.",
+      "Estoy bien, gracias."
+     ],
+     "correct_index": 3,
+     "explanation": "¿Cómo estás? asks “How are you?”. Estoy bien means “I’m fine”."
+    },
+    {
+     "question_text": "Which greeting is used in the afternoon?",
+     "options": [
+      "Buenos días",
+      "Buenas tardes",
+      "Buenas noches",
+      "Hasta luego"
+     ],
+     "correct_index": 1,
+     "explanation": "Buenas tardes = good afternoon."
+    },
+    {
+     "question_text": "Which means “Excuse me / Sorry”?",
+     "options": [
+      "De nada",
+      "Buenas noches",
+      "Hasta mañana",
+      "Perdón"
+     ],
+     "correct_index": 3,
+     "explanation": "Perdón is used to apologise or to get past someone."
+    },
+    {
+     "question_text": "The letter “h” in Spanish is usually…",
+     "options": [
+      "Pronounced like English “h”",
+      "Pronounced “sh”",
+      "Pronounced “k”",
+      "Silent"
+     ],
+     "correct_index": 3,
+     "explanation": "H is silent: hola sounds like “OH-lah”."
+    },
+    {
+     "question_text": "What does “ñ” sound like?",
+     "options": [
+      "“ng”",
+      "“ny” as in canyon",
+      "“sh”",
+      "“n” only"
+     ],
+     "correct_index": 1,
+     "explanation": "ñ = “ny”: mañana sounds like “mah-NYAH-nah”."
+    },
+    {
+     "question_text": "How is “j” pronounced in “jamón”?",
+     "options": [
+      "A harsh “h” from the throat",
+      "Like “zh”",
+      "Like English “j” in jam",
+      "Silent"
+     ],
+     "correct_index": 0,
+     "explanation": "Spanish j sounds like a strong h."
+    },
+    {
+     "question_text": "How is “ll” pronounced in “llamo” in most regions?",
+     "options": [
+      "Like “ll” in tall",
+      "Like “y” in yes",
+      "Like “sh” in ship",
+      "Like “l”"
+     ],
+     "correct_index": 1,
+     "explanation": "ll is usually “y”: llamo = “YAH-moh”."
+    },
+    {
+     "question_text": "The letter “v” in Spanish sounds like…",
+     "options": [
+      "“w”",
+      "“b”",
+      "English “v”",
+      "“f”"
+     ],
+     "correct_index": 1,
+     "explanation": "B and v sound the same in Spanish."
+    },
+    {
+     "question_text": "How is the vowel “e” pronounced?",
+     "options": [
+      "“ay” as in day",
+      "“uh”",
+      "“ee” as in see",
+      "“eh” as in bed"
+     ],
+     "correct_index": 3,
+     "explanation": "Spanish vowels are pure and never change."
+    },
+    {
+     "question_text": "What sound does “qu” make in “queso”?",
+     "options": [
+      "“kw”",
+      "“k”",
+      "“ch”",
+      "“q” as in quick"
+     ],
+     "correct_index": 1,
+     "explanation": "qu = “k”; the u is silent."
+    },
+    {
+     "question_text": "Words ending in a vowel, n or s are stressed on…",
+     "options": [
+      "The third-to-last syllable",
+      "The second-to-last syllable",
+      "The last syllable",
+      "The first syllable always"
+     ],
+     "correct_index": 1,
+     "explanation": "CA-sa, HA-blan. A written accent overrides this rule."
+    },
+    {
+     "question_text": "“Nosotros” means…",
+     "options": [
+      "you (formal)",
+      "I",
+      "we",
+      "they"
+     ],
+     "correct_index": 2,
+     "explanation": "Nosotros = we."
+    },
+    {
+     "question_text": "When do you use “usted”?",
+     "options": [
+      "Only for children",
+      "Only for “they”",
+      "Only for one close friend",
+      "For one person, formally"
+     ],
+     "correct_index": 3,
+     "explanation": "Usted is formal singular “you”. Tú is informal."
+    },
+    {
+     "question_text": "Yo ___ estudiante. (ser)",
+     "options": [
+      "somos",
+      "soy",
+      "eres",
+      "es"
+     ],
+     "correct_index": 1,
+     "explanation": "yo soy = I am."
+    },
+    {
+     "question_text": "Ella ___ una hermana. (tener)",
+     "options": [
+      "tienes",
+      "tienen",
+      "tengo",
+      "tiene"
+     ],
+     "correct_index": 3,
+     "explanation": "ella tiene = she has."
+    },
+    {
+     "question_text": "Nosotros ___ español. (hablar)",
+     "options": [
+      "hablo",
+      "hablan",
+      "hablamos",
+      "habláis"
+     ],
+     "correct_index": 2,
+     "explanation": "nosotros + -amos: hablamos."
+    },
+    {
+     "question_text": "Ellos ___ contentos. (estar)",
+     "options": [
+      "están",
+      "estamos",
+      "está",
+      "estás"
+     ],
+     "correct_index": 0,
+     "explanation": "ellos están = they are (a feeling uses estar)."
+    },
+    {
+     "question_text": "Tú ___ a la escuela. (ir)",
+     "options": [
+      "voy",
+      "va",
+      "vas",
+      "vamos"
+     ],
+     "correct_index": 2,
+     "explanation": "tú vas = you go."
+    },
+    {
+     "question_text": "What does “Me llamo Sam” literally mean?",
+     "options": [
+      "I like Sam",
+      "I call myself Sam",
+      "I am Sam’s friend",
+      "I have Sam"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the normal way to say “My name is Sam”."
+    },
+    {
+     "question_text": "How do you say “I am 20 years old”?",
+     "options": [
+      "Hago veinte años",
+      "Tengo veinte años",
+      "Soy veinte años",
+      "Estoy veinte años"
+     ],
+     "correct_index": 1,
+     "explanation": "Spanish uses tener (to have) for age."
+    },
+    {
+     "question_text": "Madrid ___ en España. (location)",
+     "options": [
+      "es",
+      "son",
+      "está",
+      "soy"
+     ],
+     "correct_index": 2,
+     "explanation": "Location uses estar."
+    },
+    {
+     "question_text": "Ella ___ médica. (profession)",
+     "options": [
+      "va",
+      "es",
+      "tiene",
+      "está"
+     ],
+     "correct_index": 1,
+     "explanation": "Professions use ser."
+    },
+    {
+     "question_text": "Which is the masculine singular “the”?",
+     "options": [
+      "los",
+      "la",
+      "una",
+      "el"
+     ],
+     "correct_index": 3,
+     "explanation": "el = the (masculine), la = the (feminine)."
+    },
+    {
+     "question_text": "Which is the feminine plural “the”?",
+     "options": [
+      "los",
+      "la",
+      "las",
+      "unas"
+     ],
+     "correct_index": 2,
+     "explanation": "las casas = the houses."
+    },
+    {
+     "question_text": "Which article goes with “casa” (house) to mean “a house”?",
+     "options": [
+      "un",
+      "una",
+      "el",
+      "unos"
+     ],
+     "correct_index": 1,
+     "explanation": "casa is feminine, so una casa."
+    },
+    {
+     "question_text": "Choose the plural of “un libro”.",
+     "options": [
+      "unos libros",
+      "unas libros",
+      "unos libro",
+      "un libros"
+     ],
+     "correct_index": 0,
+     "explanation": "un → unos, and add -s to the noun."
+    },
+    {
+     "question_text": "Plural of “el lápiz”?",
+     "options": [
+      "las lápices",
+      "los lápiz",
+      "los lápizes",
+      "los lápices"
+     ],
+     "correct_index": 3,
+     "explanation": "Nouns ending in -z change to -ces."
+    },
+    {
+     "question_text": "Which noun is feminine?",
+     "options": [
+      "el mapa",
+      "el problema",
+      "la mano",
+      "el día"
+     ],
+     "correct_index": 2,
+     "explanation": "mano is a feminine exception. Día, mapa and problema are masculine."
+    },
+    {
+     "question_text": "What is the gender of “problema”?",
+     "options": [
+      "Feminine: la problema",
+      "It can be either",
+      "Masculine: el problema",
+      "Neuter: lo problema"
+     ],
+     "correct_index": 2,
+     "explanation": "Many nouns ending in -ma are masculine."
+    },
+    {
+     "question_text": "Plural of “la canción” (song)?",
+     "options": [
+      "las cancións",
+      "las canciones",
+      "los canciones",
+      "las canciónes"
+     ],
+     "correct_index": 1,
+     "explanation": "Add -es, and drop the accent (canciones)."
+    },
+    {
+     "question_text": "“Tres” is…",
+     "options": [
+      "4",
+      "13",
+      "30",
+      "3"
+     ],
+     "correct_index": 3,
+     "explanation": "tres = 3."
+    },
+    {
+     "question_text": "How do you say 10?",
+     "options": [
+      "seis",
+      "diez",
+      "dos",
+      "siete"
+     ],
+     "correct_index": 1,
+     "explanation": "diez = 10."
+    },
+    {
+     "question_text": "How do you say 20?",
+     "options": [
+      "veinte",
+      "doce",
+      "treinta",
+      "quince"
+     ],
+     "correct_index": 0,
+     "explanation": "veinte = 20."
+    },
+    {
+     "question_text": "What is 70 in Spanish?",
+     "options": [
+      "sesenta",
+      "siete",
+      "cincuenta",
+      "setenta"
+     ],
+     "correct_index": 3,
+     "explanation": "setenta = 70, sesenta = 60."
+    },
+    {
+     "question_text": "What is 80 in Spanish?",
+     "options": [
+      "cuarenta",
+      "ochenta",
+      "noventa",
+      "ocho"
+     ],
+     "correct_index": 1,
+     "explanation": "ochenta = 80."
+    },
+    {
+     "question_text": "How do you say 21?",
+     "options": [
+      "veintiuna y",
+      "veinte y uno",
+      "dos y diez",
+      "veintiuno"
+     ],
+     "correct_index": 3,
+     "explanation": "21 to 29 are written as one word."
+    },
+    {
+     "question_text": "What is 31 in Spanish?",
+     "options": [
+      "treinta y uno",
+      "treintiuno",
+      "tres y diez",
+      "treinta uno"
+     ],
+     "correct_index": 0,
+     "explanation": "From 31 onward, use y between tens and units."
+    },
+    {
+     "question_text": "“Lunes” is…",
+     "options": [
+      "Monday",
+      "Friday",
+      "Tuesday",
+      "Sunday"
+     ],
+     "correct_index": 0,
+     "explanation": "lunes = Monday."
+    },
+    {
+     "question_text": "“Rojo” means…",
+     "options": [
+      "blue",
+      "red",
+      "yellow",
+      "green"
+     ],
+     "correct_index": 1,
+     "explanation": "rojo = red."
+    },
+    {
+     "question_text": "“El pan” means…",
+     "options": [
+      "milk",
+      "bread",
+      "rice",
+      "water"
+     ],
+     "correct_index": 1,
+     "explanation": "pan = bread."
+    },
+    {
+     "question_text": "“El hermano” means…",
+     "options": [
+      "son",
+      "brother",
+      "uncle",
+      "father"
+     ],
+     "correct_index": 1,
+     "explanation": "hermano = brother."
+    },
+    {
+     "question_text": "“El agua” means…",
+     "options": [
+      "tea",
+      "water",
+      "milk",
+      "egg"
+     ],
+     "correct_index": 1,
+     "explanation": "agua = water."
+    },
+    {
+     "question_text": "“Enero” is which month?",
+     "options": [
+      "July",
+      "January",
+      "June",
+      "March"
+     ],
+     "correct_index": 1,
+     "explanation": "enero = January."
+    },
+    {
+     "question_text": "“El coche” means…",
+     "options": [
+      "the street",
+      "the house",
+      "the car",
+      "the phone"
+     ],
+     "correct_index": 2,
+     "explanation": "coche = car (carro in much of Latin America)."
+    },
+    {
+     "question_text": "“Ayer” means…",
+     "options": [
+      "today",
+      "tomorrow",
+      "now",
+      "yesterday"
+     ],
+     "correct_index": 3,
+     "explanation": "ayer = yesterday, hoy = today."
+    },
+    {
+     "question_text": "How does a Spanish question begin and end?",
+     "options": [
+      "¿ … ?",
+      "… ?¿",
+      "¡ … !",
+      "? … ?"
+     ],
+     "correct_index": 0,
+     "explanation": "Questions open with ¿ and close with ?."
+    },
+    {
+     "question_text": "“Dónde” means…",
+     "options": [
+      "where",
+      "why",
+      "when",
+      "who"
+     ],
+     "correct_index": 0,
+     "explanation": "dónde = where."
+    },
+    {
+     "question_text": "“Por qué” means…",
+     "options": [
+      "how",
+      "why",
+      "what",
+      "which"
+     ],
+     "correct_index": 1,
+     "explanation": "por qué = why; porque = because."
+    },
+    {
+     "question_text": "What is the feminine of “bueno”?",
+     "options": [
+      "bueno",
+      "buenas",
+      "buena-a",
+      "buena"
+     ],
+     "correct_index": 3,
+     "explanation": "Change -o to -a."
+    },
+    {
+     "question_text": "“My” before a plural noun like “hermanos” is…",
+     "options": [
+      "mi",
+      "mis",
+      "mío",
+      "mias"
+     ],
+     "correct_index": 1,
+     "explanation": "mis hermanos. Possessives agree with the thing owned."
+    },
+    {
+     "question_text": "“Hay” means…",
+     "options": [
+      "he has",
+      "he goes",
+      "there is / there are",
+      "it is"
+     ],
+     "correct_index": 2,
+     "explanation": "Hay un gato = There is a cat."
+    },
+    {
+     "question_text": "“No hablo inglés” means…",
+     "options": [
+      "I speak only English",
+      "I speak English well",
+      "I never speak",
+      "I do not speak English"
+     ],
+     "correct_index": 3,
+     "explanation": "Put no before the verb to make it negative."
+    },
+    {
+     "question_text": "“Al” is a contraction of…",
+     "options": [
+      "a + la",
+      "a + el",
+      "de + el",
+      "de + los"
+     ],
+     "correct_index": 1,
+     "explanation": "a + el = al: Voy al mercado."
+    },
+    {
+     "question_text": "Which means “I like books”?",
+     "options": [
+      "Me gusta los libros.",
+      "Yo gusto libros.",
+      "Me gusto los libros.",
+      "Me gustan los libros."
+     ],
+     "correct_index": 3,
+     "explanation": "Gustar matches the thing liked: plural libros → gustan."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Greetings",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "What does “Hola” mean?",
+     "options": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Please"
+     ],
+     "correct_index": 0,
+     "explanation": "Hola is the everyday greeting, used at any time of day."
+    },
+    {
+     "question_text": "Which phrase means “Goodbye”?",
+     "options": [
+      "Buenas tardes",
+      "Adiós",
+      "Mucho gusto",
+      "De nada"
+     ],
+     "correct_index": 1,
+     "explanation": "Adiós = goodbye. Buenas tardes = good afternoon."
+    },
+    {
+     "question_text": "Which word means “Please”?",
+     "options": [
+      "Por favor",
+      "Hola",
+      "Perdón",
+      "Gracias"
+     ],
+     "correct_index": 0,
+     "explanation": "Por favor = please."
+    },
+    {
+     "question_text": "“De nada” is a reply to which word?",
+     "options": [
+      "Perdón",
+      "Sí",
+      "Gracias",
+      "Hola"
+     ],
+     "correct_index": 2,
+     "explanation": "De nada means “you’re welcome” (literally “of nothing”)."
+    },
+    {
+     "question_text": "When do you say “Mucho gusto”?",
+     "options": [
+      "When leaving",
+      "When ordering food",
+      "When meeting someone",
+      "When apologising"
+     ],
+     "correct_index": 2,
+     "explanation": "Mucho gusto means “nice to meet you”."
+    },
+    {
+     "question_text": "Which is a good reply to “¿Cómo estás?”",
+     "options": [
+      "Hasta mañana.",
+      "Me llamo Paul.",
+      "Tengo diez años.",
+      "Estoy bien, gracias."
+     ],
+     "correct_index": 3,
+     "explanation": "¿Cómo estás? asks “How are you?”. Estoy bien means “I’m fine”."
+    },
+    {
+     "question_text": "Which greeting is used in the afternoon?",
+     "options": [
+      "Buenos días",
+      "Buenas tardes",
+      "Buenas noches",
+      "Hasta luego"
+     ],
+     "correct_index": 1,
+     "explanation": "Buenas tardes = good afternoon."
+    },
+    {
+     "question_text": "Which means “Excuse me / Sorry”?",
+     "options": [
+      "De nada",
+      "Buenas noches",
+      "Hasta mañana",
+      "Perdón"
+     ],
+     "correct_index": 3,
+     "explanation": "Perdón is used to apologise or to get past someone."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Sounds",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "The letter “h” in Spanish is usually…",
+     "options": [
+      "Pronounced like English “h”",
+      "Pronounced “sh”",
+      "Pronounced “k”",
+      "Silent"
+     ],
+     "correct_index": 3,
+     "explanation": "H is silent: hola sounds like “OH-lah”."
+    },
+    {
+     "question_text": "What does “ñ” sound like?",
+     "options": [
+      "“ng”",
+      "“ny” as in canyon",
+      "“sh”",
+      "“n” only"
+     ],
+     "correct_index": 1,
+     "explanation": "ñ = “ny”: mañana sounds like “mah-NYAH-nah”."
+    },
+    {
+     "question_text": "How is “j” pronounced in “jamón”?",
+     "options": [
+      "A harsh “h” from the throat",
+      "Like “zh”",
+      "Like English “j” in jam",
+      "Silent"
+     ],
+     "correct_index": 0,
+     "explanation": "Spanish j sounds like a strong h."
+    },
+    {
+     "question_text": "How is “ll” pronounced in “llamo” in most regions?",
+     "options": [
+      "Like “ll” in tall",
+      "Like “y” in yes",
+      "Like “sh” in ship",
+      "Like “l”"
+     ],
+     "correct_index": 1,
+     "explanation": "ll is usually “y”: llamo = “YAH-moh”."
+    },
+    {
+     "question_text": "The letter “v” in Spanish sounds like…",
+     "options": [
+      "“w”",
+      "“b”",
+      "English “v”",
+      "“f”"
+     ],
+     "correct_index": 1,
+     "explanation": "B and v sound the same in Spanish."
+    },
+    {
+     "question_text": "How is the vowel “e” pronounced?",
+     "options": [
+      "“ay” as in day",
+      "“uh”",
+      "“ee” as in see",
+      "“eh” as in bed"
+     ],
+     "correct_index": 3,
+     "explanation": "Spanish vowels are pure and never change."
+    },
+    {
+     "question_text": "What sound does “qu” make in “queso”?",
+     "options": [
+      "“kw”",
+      "“k”",
+      "“ch”",
+      "“q” as in quick"
+     ],
+     "correct_index": 1,
+     "explanation": "qu = “k”; the u is silent."
+    },
+    {
+     "question_text": "Words ending in a vowel, n or s are stressed on…",
+     "options": [
+      "The third-to-last syllable",
+      "The second-to-last syllable",
+      "The last syllable",
+      "The first syllable always"
+     ],
+     "correct_index": 1,
+     "explanation": "CA-sa, HA-blan. A written accent overrides this rule."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Pronouns and verbs",
+   "duration_minutes": 11,
+   "questions": [
+    {
+     "question_text": "“Nosotros” means…",
+     "options": [
+      "you (formal)",
+      "I",
+      "we",
+      "they"
+     ],
+     "correct_index": 2,
+     "explanation": "Nosotros = we."
+    },
+    {
+     "question_text": "When do you use “usted”?",
+     "options": [
+      "Only for children",
+      "Only for “they”",
+      "Only for one close friend",
+      "For one person, formally"
+     ],
+     "correct_index": 3,
+     "explanation": "Usted is formal singular “you”. Tú is informal."
+    },
+    {
+     "question_text": "Yo ___ estudiante. (ser)",
+     "options": [
+      "somos",
+      "soy",
+      "eres",
+      "es"
+     ],
+     "correct_index": 1,
+     "explanation": "yo soy = I am."
+    },
+    {
+     "question_text": "Ella ___ una hermana. (tener)",
+     "options": [
+      "tienes",
+      "tienen",
+      "tengo",
+      "tiene"
+     ],
+     "correct_index": 3,
+     "explanation": "ella tiene = she has."
+    },
+    {
+     "question_text": "Nosotros ___ español. (hablar)",
+     "options": [
+      "hablo",
+      "hablan",
+      "hablamos",
+      "habláis"
+     ],
+     "correct_index": 2,
+     "explanation": "nosotros + -amos: hablamos."
+    },
+    {
+     "question_text": "Ellos ___ contentos. (estar)",
+     "options": [
+      "están",
+      "estamos",
+      "está",
+      "estás"
+     ],
+     "correct_index": 0,
+     "explanation": "ellos están = they are (a feeling uses estar)."
+    },
+    {
+     "question_text": "Tú ___ a la escuela. (ir)",
+     "options": [
+      "voy",
+      "va",
+      "vas",
+      "vamos"
+     ],
+     "correct_index": 2,
+     "explanation": "tú vas = you go."
+    },
+    {
+     "question_text": "What does “Me llamo Sam” literally mean?",
+     "options": [
+      "I like Sam",
+      "I call myself Sam",
+      "I am Sam’s friend",
+      "I have Sam"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the normal way to say “My name is Sam”."
+    },
+    {
+     "question_text": "How do you say “I am 20 years old”?",
+     "options": [
+      "Hago veinte años",
+      "Tengo veinte años",
+      "Soy veinte años",
+      "Estoy veinte años"
+     ],
+     "correct_index": 1,
+     "explanation": "Spanish uses tener (to have) for age."
+    },
+    {
+     "question_text": "Madrid ___ en España. (location)",
+     "options": [
+      "es",
+      "son",
+      "está",
+      "soy"
+     ],
+     "correct_index": 2,
+     "explanation": "Location uses estar."
+    },
+    {
+     "question_text": "Ella ___ médica. (profession)",
+     "options": [
+      "va",
+      "es",
+      "tiene",
+      "está"
+     ],
+     "correct_index": 1,
+     "explanation": "Professions use ser."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Nouns and articles",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "Which is the masculine singular “the”?",
+     "options": [
+      "los",
+      "la",
+      "una",
+      "el"
+     ],
+     "correct_index": 3,
+     "explanation": "el = the (masculine), la = the (feminine)."
+    },
+    {
+     "question_text": "Which is the feminine plural “the”?",
+     "options": [
+      "los",
+      "la",
+      "las",
+      "unas"
+     ],
+     "correct_index": 2,
+     "explanation": "las casas = the houses."
+    },
+    {
+     "question_text": "Which article goes with “casa” (house) to mean “a house”?",
+     "options": [
+      "un",
+      "una",
+      "el",
+      "unos"
+     ],
+     "correct_index": 1,
+     "explanation": "casa is feminine, so una casa."
+    },
+    {
+     "question_text": "Choose the plural of “un libro”.",
+     "options": [
+      "unos libros",
+      "unas libros",
+      "unos libro",
+      "un libros"
+     ],
+     "correct_index": 0,
+     "explanation": "un → unos, and add -s to the noun."
+    },
+    {
+     "question_text": "Plural of “el lápiz”?",
+     "options": [
+      "las lápices",
+      "los lápiz",
+      "los lápizes",
+      "los lápices"
+     ],
+     "correct_index": 3,
+     "explanation": "Nouns ending in -z change to -ces."
+    },
+    {
+     "question_text": "Which noun is feminine?",
+     "options": [
+      "el mapa",
+      "el problema",
+      "la mano",
+      "el día"
+     ],
+     "correct_index": 2,
+     "explanation": "mano is a feminine exception. Día, mapa and problema are masculine."
+    },
+    {
+     "question_text": "What is the gender of “problema”?",
+     "options": [
+      "Feminine: la problema",
+      "It can be either",
+      "Masculine: el problema",
+      "Neuter: lo problema"
+     ],
+     "correct_index": 2,
+     "explanation": "Many nouns ending in -ma are masculine."
+    },
+    {
+     "question_text": "Plural of “la canción” (song)?",
+     "options": [
+      "las cancións",
+      "las canciones",
+      "los canciones",
+      "las canciónes"
+     ],
+     "correct_index": 1,
+     "explanation": "Add -es, and drop the accent (canciones)."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Numbers",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "“Tres” is…",
+     "options": [
+      "4",
+      "13",
+      "30",
+      "3"
+     ],
+     "correct_index": 3,
+     "explanation": "tres = 3."
+    },
+    {
+     "question_text": "How do you say 10?",
+     "options": [
+      "seis",
+      "diez",
+      "dos",
+      "siete"
+     ],
+     "correct_index": 1,
+     "explanation": "diez = 10."
+    },
+    {
+     "question_text": "How do you say 20?",
+     "options": [
+      "veinte",
+      "doce",
+      "treinta",
+      "quince"
+     ],
+     "correct_index": 0,
+     "explanation": "veinte = 20."
+    },
+    {
+     "question_text": "What is 70 in Spanish?",
+     "options": [
+      "sesenta",
+      "siete",
+      "cincuenta",
+      "setenta"
+     ],
+     "correct_index": 3,
+     "explanation": "setenta = 70, sesenta = 60."
+    },
+    {
+     "question_text": "What is 80 in Spanish?",
+     "options": [
+      "cuarenta",
+      "ochenta",
+      "noventa",
+      "ocho"
+     ],
+     "correct_index": 1,
+     "explanation": "ochenta = 80."
+    },
+    {
+     "question_text": "How do you say 21?",
+     "options": [
+      "veintiuna y",
+      "veinte y uno",
+      "dos y diez",
+      "veintiuno"
+     ],
+     "correct_index": 3,
+     "explanation": "21 to 29 are written as one word."
+    },
+    {
+     "question_text": "What is 31 in Spanish?",
+     "options": [
+      "treinta y uno",
+      "treintiuno",
+      "tres y diez",
+      "treinta uno"
+     ],
+     "correct_index": 0,
+     "explanation": "From 31 onward, use y between tens and units."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Vocabulary",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "“Lunes” is…",
+     "options": [
+      "Monday",
+      "Friday",
+      "Tuesday",
+      "Sunday"
+     ],
+     "correct_index": 0,
+     "explanation": "lunes = Monday."
+    },
+    {
+     "question_text": "“Rojo” means…",
+     "options": [
+      "blue",
+      "red",
+      "yellow",
+      "green"
+     ],
+     "correct_index": 1,
+     "explanation": "rojo = red."
+    },
+    {
+     "question_text": "“El pan” means…",
+     "options": [
+      "milk",
+      "bread",
+      "rice",
+      "water"
+     ],
+     "correct_index": 1,
+     "explanation": "pan = bread."
+    },
+    {
+     "question_text": "“El hermano” means…",
+     "options": [
+      "son",
+      "brother",
+      "uncle",
+      "father"
+     ],
+     "correct_index": 1,
+     "explanation": "hermano = brother."
+    },
+    {
+     "question_text": "“El agua” means…",
+     "options": [
+      "tea",
+      "water",
+      "milk",
+      "egg"
+     ],
+     "correct_index": 1,
+     "explanation": "agua = water."
+    },
+    {
+     "question_text": "“Enero” is which month?",
+     "options": [
+      "July",
+      "January",
+      "June",
+      "March"
+     ],
+     "correct_index": 1,
+     "explanation": "enero = January."
+    },
+    {
+     "question_text": "“El coche” means…",
+     "options": [
+      "the street",
+      "the house",
+      "the car",
+      "the phone"
+     ],
+     "correct_index": 2,
+     "explanation": "coche = car (carro in much of Latin America)."
+    },
+    {
+     "question_text": "“Ayer” means…",
+     "options": [
+      "today",
+      "tomorrow",
+      "now",
+      "yesterday"
+     ],
+     "correct_index": 3,
+     "explanation": "ayer = yesterday, hoy = today."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Spanish for Beginners – Topic: Grammar",
+   "duration_minutes": 9,
+   "questions": [
+    {
+     "question_text": "How does a Spanish question begin and end?",
+     "options": [
+      "¿ … ?",
+      "… ?¿",
+      "¡ … !",
+      "? … ?"
+     ],
+     "correct_index": 0,
+     "explanation": "Questions open with ¿ and close with ?."
+    },
+    {
+     "question_text": "“Dónde” means…",
+     "options": [
+      "where",
+      "why",
+      "when",
+      "who"
+     ],
+     "correct_index": 0,
+     "explanation": "dónde = where."
+    },
+    {
+     "question_text": "“Por qué” means…",
+     "options": [
+      "how",
+      "why",
+      "what",
+      "which"
+     ],
+     "correct_index": 1,
+     "explanation": "por qué = why; porque = because."
+    },
+    {
+     "question_text": "What is the feminine of “bueno”?",
+     "options": [
+      "bueno",
+      "buenas",
+      "buena-a",
+      "buena"
+     ],
+     "correct_index": 3,
+     "explanation": "Change -o to -a."
+    },
+    {
+     "question_text": "“My” before a plural noun like “hermanos” is…",
+     "options": [
+      "mi",
+      "mis",
+      "mío",
+      "mias"
+     ],
+     "correct_index": 1,
+     "explanation": "mis hermanos. Possessives agree with the thing owned."
+    },
+    {
+     "question_text": "“Hay” means…",
+     "options": [
+      "he has",
+      "he goes",
+      "there is / there are",
+      "it is"
+     ],
+     "correct_index": 2,
+     "explanation": "Hay un gato = There is a cat."
+    },
+    {
+     "question_text": "“No hablo inglés” means…",
+     "options": [
+      "I speak only English",
+      "I speak English well",
+      "I never speak",
+      "I do not speak English"
+     ],
+     "correct_index": 3,
+     "explanation": "Put no before the verb to make it negative."
+    },
+    {
+     "question_text": "“Al” is a contraction of…",
+     "options": [
+      "a + la",
+      "a + el",
+      "de + el",
+      "de + los"
+     ],
+     "correct_index": 1,
+     "explanation": "a + el = al: Voy al mercado."
+    },
+    {
+     "question_text": "Which means “I like books”?",
+     "options": [
+      "Me gusta los libros.",
+      "Yo gusto libros.",
+      "Me gusto los libros.",
+      "Me gustan los libros."
+     ],
+     "correct_index": 3,
+     "explanation": "Gustar matches the thing liked: plural libros → gustan."
+    }
+   ]
+  }
+ ]
+}
