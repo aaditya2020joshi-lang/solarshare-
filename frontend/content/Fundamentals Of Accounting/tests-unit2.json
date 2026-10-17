@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 2: Book-Keeping – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Book-keeping is the art of:",
+     "question_text": "Goods worth Rs 5,000 are purchased on credit from Ravi. The accounts affected and their nature are:",
      "options": [
-      "Auditing accounts",
-      "Interpreting results",
-      "Recording business transactions systematically in books of account",
-      "Preparing budgets"
-     ],
-     "correct_index": 2,
-     "explanation": "It is the recording base of accounting."
-    },
-    {
-     "question_text": "R.N. Carter defined book-keeping as the science and art of correctly recording in books of account all those business transactions that result in:",
-     "options": [
-      "Only profit",
-      "Only cash receipts",
-      "The transfer of money or money's worth",
-      "Only loss"
-     ],
-     "correct_index": 2,
-     "explanation": "Transfer of money or money's worth is the key idea."
-    },
-    {
-     "question_text": "An objective of book-keeping is:",
-     "options": [
-      "To maintain systematic and permanent records of transactions",
-      "To fix prices",
-      "To eliminate competition",
-      "To raise capital"
-     ],
-     "correct_index": 0,
-     "explanation": "It also helps in finding profit and the financial position."
-    },
-    {
-     "question_text": "A feature of book-keeping is that it:",
-     "options": [
-      "Interprets data",
-      "Records only financial transactions in chronological order",
-      "Analyses results",
-      "Records non-financial events"
-     ],
-     "correct_index": 1,
-     "explanation": "It is a clerical process."
-    },
-    {
-     "question_text": "The two systems of book-keeping are:",
-     "options": [
-      "Cash and credit",
-      "Single entry and double entry",
-      "Journal and ledger",
-      "English and American"
-     ],
-     "correct_index": 1,
-     "explanation": "Double entry is the complete system."
-    },
-    {
-     "question_text": "The double entry principle states that:",
-     "options": [
-      "Only debits are recorded",
-      "Every debit has an equal and corresponding credit",
-      "Transactions are recorded once",
-      "Credits exceed debits"
-     ],
-     "correct_index": 1,
-     "explanation": "Both aspects of each transaction are recorded."
-    },
-    {
-     "question_text": "In accounting, debit and credit are:",
-     "options": [
-      "The left side (Dr) and the right side (Cr) of an account",
-      "Profit and loss",
-      "Assets and liabilities",
-      "Increase and decrease respectively always"
-     ],
-     "correct_index": 0,
-     "explanation": "They are positions, not necessarily increase or decrease."
-    },
-    {
-     "question_text": "A debit entry:",
-     "options": [
-      "Does not always mean an increase; it increases assets and expenses but decreases liabilities and capital",
-      "Always increases",
-      "Always decreases",
-      "Has no effect"
-     ],
-     "correct_index": 0,
-     "explanation": "The effect depends on the type of account."
-    },
-    {
-     "question_text": "The Italian system of book-keeping is another name for:",
-     "options": [
-      "Single entry",
-      "Cameral system",
-      "Double entry system",
-      "American system"
-     ],
-     "correct_index": 2,
-     "explanation": "Luca Pacioli described it in 1494."
-    },
-    {
-     "question_text": "The Cameral system is used for:",
-     "options": [
-      "Partnership firms",
-      "Government accounting",
-      "Small shops",
-      "Banks"
-     ],
-     "correct_index": 1,
-     "explanation": "It was developed for government accounting in Europe."
-    },
-    {
-     "question_text": "The three types of accounts are:",
-     "options": [
-      "Cash, bank and ledger",
-      "Personal, real and nominal",
-      "Debit, credit and balance",
-      "Asset, liability and capital"
-     ],
-     "correct_index": 1,
-     "explanation": "Based on the English approach."
-    },
-    {
-     "question_text": "Personal accounts are classified into:",
-     "options": [
-      "Tangible and intangible",
-      "Real and nominal",
-      "Natural, artificial and representative",
-      "Fixed and current"
-     ],
-     "correct_index": 2,
-     "explanation": "They relate to persons."
-    },
-    {
-     "question_text": "A natural person's account (e.g., Ram's A/c) is a:",
-     "options": [
-      "Real account",
-      "Natural personal account",
-      "Artificial personal account",
-      "Nominal account"
-     ],
-     "correct_index": 1,
-     "explanation": "Artificial persons include firms and companies."
-    },
-    {
-     "question_text": "Representative personal accounts are accounts that:",
-     "options": [
-      "Represent cash",
-      "Represent persons, e.g., outstanding rent and prepaid insurance",
-      "Represent assets",
-      "Represent income"
-     ],
-     "correct_index": 1,
-     "explanation": "They represent persons to whom money is owed or from whom it is due."
-    },
-    {
-     "question_text": "Real accounts relate to:",
-     "options": [
-      "Persons",
-      "Expenses",
-      "Incomes",
-      "Assets and properties, e.g., cash, building"
+      "Ravi (personal) debited and purchases (nominal) credited",
+      "Purchases (real) debited and Ravi (nominal) credited",
+      "Stock (real) credited and Ravi (personal) debited",
+      "Purchases (nominal) debited and Ravi (personal) credited"
      ],
      "correct_index": 3,
-     "explanation": "They can be tangible or intangible."
+     "explanation": "Expense up, liability up."
     },
     {
-     "question_text": "Goodwill is a:",
+     "question_text": "Machinery bought for cash Rs 40,000. The entry is:",
      "options": [
-      "Intangible real account",
-      "Tangible real account",
-      "Nominal account",
-      "Personal account"
+      "Debit cash, credit machinery",
+      "Debit machinery, credit cash",
+      "Debit purchases, credit cash",
+      "Debit machinery, credit capital"
+     ],
+     "correct_index": 1,
+     "explanation": "Real account debited, real account credited."
+    },
+    {
+     "question_text": "Goods returned by a customer, Mohan, worth Rs 800. The entry is:",
+     "options": [
+      "Debit sales returns, credit Mohan",
+      "Debit Mohan, credit sales returns",
+      "Debit sales, credit Mohan",
+      "Debit purchase returns, credit Mohan"
      ],
      "correct_index": 0,
-     "explanation": "Tangible assets can be touched, e.g., furniture."
+     "explanation": "Sales return reduces the debtor."
     },
     {
-     "question_text": "Nominal accounts relate to:",
+     "question_text": "Discount allowed to a customer is a:",
+     "options": [
+      "Liability, credited to the creditors account",
+      "Loss to the firm, debited to the discount account",
+      "Real asset, debited to the stock account",
+      "Gain to the firm, credited to the discount account"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an expense."
+    },
+    {
+     "question_text": "Discount received from a supplier is credited to:",
+     "options": [
+      "Discount received account, a nominal account",
+      "Supplier's account, a personal account",
+      "Cash account, a real account",
+      "Purchases account, a real account"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a gain."
+    },
+    {
+     "question_text": "Bad debts written off are debited to:",
+     "options": [
+      "Cash account",
+      "Bad debts account",
+      "Sales account",
+      "Debtor's account"
+     ],
+     "correct_index": 1,
+     "explanation": "A loss of the business."
+    },
+    {
+     "question_text": "Interest on capital allowed to the proprietor is:",
+     "options": [
+      "A liability, debited to the capital account",
+      "An expense to the business, credited to the capital",
+      "An income to the business, credited to profit",
+      "An asset, debited to the cash account"
+     ],
+     "correct_index": 1,
+     "explanation": "Dr Interest on capital, Cr Capital."
+    },
+    {
+     "question_text": "Cash withdrawn by the owner for private use is debited to:",
+     "options": [
+      "Cash account",
+      "Drawings account",
+      "Capital account",
+      "Expense account"
+     ],
+     "correct_index": 1,
+     "explanation": "Reduces capital indirectly."
+    },
+    {
+     "question_text": "Which account will be credited when the owner brings additional capital in cash?",
+     "options": [
+      "Drawings account",
+      "Bank loan account",
+      "Capital account",
+      "Cash account"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash is debited."
+    },
+    {
+     "question_text": "Wages paid Rs 3,000 and outstanding Rs 500. The wages debited to the profit and loss account are:",
+     "options": [
+      "Rs 3,500",
+      "Rs 500",
+      "Rs 3,000",
+      "Rs 2,500"
+     ],
+     "correct_index": 0,
+     "explanation": "Paid plus outstanding."
+    },
+    {
+     "question_text": "Rent paid Rs 12,000 includes Rs 2,000 for the next year. The rent charged for the year is:",
+     "options": [
+      "Rs 2,000",
+      "Rs 12,000",
+      "Rs 10,000",
+      "Rs 14,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Prepaid deducted."
+    },
+    {
+     "question_text": "Total of the debit column of a trial balance Rs 1,25,000. The credit column must total:",
+     "options": [
+      "Rs 1,25,000",
+      "Rs 1,50,000",
+      "Rs 2,50,000",
+      "Rs 1,00,000"
+     ],
+     "correct_index": 0,
+     "explanation": "They agree if correct."
+    },
+    {
+     "question_text": "A trial balance does not reveal an error of:",
+     "options": [
+      "Wrong totalling of an account",
+      "Complete omission of a transaction",
+      "Posting of a wrong amount in one account only",
+      "Posting an amount on the wrong side"
+     ],
+     "correct_index": 1,
+     "explanation": "Both aspects omitted."
+    },
+    {
+     "question_text": "A transaction posted twice on the correct sides in both accounts. The trial balance:",
+     "options": [
+      "Still agrees",
+      "Shows the credit side greater",
+      "Shows a difference equal to the amount",
+      "Shows the debit side greater"
+     ],
+     "correct_index": 0,
+     "explanation": "Compensating dual effect."
+    },
+    {
+     "question_text": "The purchase of Rs 1,500 was debited to the creditor and credited to purchases. The trial balance difference is:",
+     "options": [
+      "Rs 3,000",
+      "Rs 1,500",
+      "Rs 0",
+      "Rs 4,500"
+     ],
+     "correct_index": 0,
+     "explanation": "Both entries reversed: double the amount."
+    },
+    {
+     "question_text": "A debit entry of Rs 700 was left out in posting. The trial balance will show:",
+     "options": [
+      "Credit side less by Rs 700",
+      "Debit side more by Rs 700",
+      "Both sides equal",
+      "Credit side more by Rs 700"
+     ],
+     "correct_index": 3,
+     "explanation": "Debit side is short."
+    },
+    {
+     "question_text": "If the debit total of a trial balance is Rs 2,40,000 and the credit total is Rs 2,35,000, the difference is put in:",
+     "options": [
+      "Profit and loss account, debit side Rs 5,000",
+      "Suspense account, debit side Rs 5,000",
+      "Capital account, credit side Rs 5,000",
+      "Suspense account, credit side Rs 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Credit side is short."
+    },
+    {
+     "question_text": "Which of the following is shown on the credit side of a trial balance?",
      "options": [
       "Capital",
-      "Expenses, losses, incomes and gains",
-      "Persons",
-      "Assets"
-     ],
-     "correct_index": 1,
-     "explanation": "E.g., rent, salary, commission received."
-    },
-    {
-     "question_text": "Nominal accounts are called fictitious because:",
-     "options": [
-      "They are permanent",
-      "They have no physical existence and are closed at year end",
-      "They are persons",
-      "They are assets"
-     ],
-     "correct_index": 1,
-     "explanation": "They are transferred to the profit and loss account."
-    },
-    {
-     "question_text": "The golden rule for personal accounts is:",
-     "options": [
-      "Debit the giver, credit the receiver",
-      "Debit the receiver, credit the giver",
-      "Debit what comes in, credit what goes out",
-      "Debit expenses and losses, credit incomes and gains"
-     ],
-     "correct_index": 1,
-     "explanation": "The receiver of the benefit is debited."
-    },
-    {
-     "question_text": "The golden rule for real accounts is:",
-     "options": [
-      "Debit what comes in, credit what goes out",
-      "Debit incomes, credit expenses",
-      "Debit the receiver, credit the giver",
-      "Debit what goes out"
+      "Purchases",
+      "Drawings",
+      "Furniture"
      ],
      "correct_index": 0,
-     "explanation": "Assets coming in are debited."
+     "explanation": "Liability and income balances."
     },
     {
-     "question_text": "The golden rule for nominal accounts is:",
+     "question_text": "Which of the following is shown on the debit side of a trial balance?",
      "options": [
-      "Debit what comes in, credit what goes out",
-      "Debit the receiver, credit the giver",
-      "Credit expenses",
-      "Debit all expenses and losses, credit all incomes and gains"
+      "Creditors",
+      "Outstanding wages",
+      "Sales returns",
+      "Carriage inwards"
      ],
      "correct_index": 3,
-     "explanation": "Expenses and losses are debited."
+     "explanation": "Expenses and assets."
     },
     {
-     "question_text": "Under the American (accounting equation) approach, assets and expenses are _____ when they increase:",
+     "question_text": "Sales returns (returns inward) appear in the trial balance on the:",
      "options": [
-      "Credited",
-      "Closed",
-      "Debited",
-      "Ignored"
+      "Neither side",
+      "Either side",
+      "Credit side",
+      "Debit side"
+     ],
+     "correct_index": 3,
+     "explanation": "Deducted from sales."
+    },
+    {
+     "question_text": "Closing stock appears in a trial balance only when:",
+     "options": [
+      "It is shown on the credit side along with the sales",
+      "It is shown on the debit side along with the purchases",
+      "It is given as an adjustment outside the trial balance, so it is not listed",
+      "It is shown on the credit side with the other incomes"
      ],
      "correct_index": 2,
-     "explanation": "Liabilities, capital and incomes are credited when they increase."
+     "explanation": "It is dealt with in the final accounts, not the trial balance."
     },
     {
-     "question_text": "An increase in assets is recorded by:",
+     "question_text": "The single entry system is best described as:",
      "options": [
-      "Debit",
-      "Both",
-      "No entry",
-      "Credit"
+      "A system used mainly by large joint stock companies today",
+      "A complete record of both aspects of every transaction made",
+      "An incomplete record that mainly keeps personal accounts and cash",
+      "A record based on the cost principle of accounting alone"
      ],
-     "correct_index": 0,
-     "explanation": "Assets have debit balances."
+     "correct_index": 2,
+     "explanation": "Not a scientific system."
     },
     {
-     "question_text": "An increase in liabilities is recorded by:",
+     "question_text": "Under single entry, profit is usually found by the:",
      "options": [
-      "Credit",
-      "Debit",
-      "Both",
-      "No entry"
+      "Trial balance method, after preparing the adjusted ledger",
+      "Cash flow method, based on the movement of cash balances",
+      "Statement of affairs method, comparing opening and closing capital",
+      "Ratio method, based on the gross profit percentage"
      ],
-     "correct_index": 0,
-     "explanation": "Liabilities have credit balances."
+     "correct_index": 2,
+     "explanation": "Capital comparison."
     },
     {
-     "question_text": "An increase in capital is recorded by:",
+     "question_text": "Opening capital Rs 1,00,000, closing capital Rs 1,50,000, drawings Rs 20,000, fresh capital Rs 10,000. Profit under single entry is:",
      "options": [
-      "Credit",
-      "Both",
-      "Debit",
-      "No entry"
+      "Rs 80,000",
+      "Rs 70,000",
+      "Rs 60,000",
+      "Rs 40,000"
      ],
-     "correct_index": 0,
-     "explanation": "Capital has a credit balance."
+     "correct_index": 2,
+     "explanation": "50,000 + 20,000 − 10,000."
+    },
+    {
+     "question_text": "Opening capital Rs 80,000; closing capital Rs 1,00,000 after adding interest on capital Rs 4,000; drawings Rs 15,000; no fresh capital. Profit before interest on capital is:",
+     "options": [
+      "Rs 39,000",
+      "Rs 35,000",
+      "Rs 31,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 2,
+     "explanation": "20,000 + 15,000 − 4,000."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Book-Keeping – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "An increase in expenses is recorded by:",
+     "question_text": "Which of the following is not a feature of the double entry system?",
      "options": [
-      "Both",
-      "No entry",
-      "Credit",
-      "Debit"
-     ],
-     "correct_index": 3,
-     "explanation": "Expenses have debit balances."
-    },
-    {
-     "question_text": "An increase in income is recorded by:",
-     "options": [
-      "No entry",
-      "Credit",
-      "Both",
-      "Debit"
-     ],
-     "correct_index": 1,
-     "explanation": "Incomes have credit balances."
-    },
-    {
-     "question_text": "A decrease in assets is recorded by:",
-     "options": [
-      "Debit",
-      "Both",
-      "Credit",
-      "No entry"
-     ],
-     "correct_index": 2,
-     "explanation": "The opposite side from the increase."
-    },
-    {
-     "question_text": "A decrease in liabilities is recorded by:",
-     "options": [
-      "Credit",
-      "No entry",
-      "Debit",
-      "Both"
-     ],
-     "correct_index": 2,
-     "explanation": "The opposite side from the increase."
-    },
-    {
-     "question_text": "Drawings are recorded by:",
-     "options": [
-      "Debiting capital in the ledger always",
-      "Debiting the drawings account (reduces capital)",
-      "No entry",
-      "Crediting drawings"
-     ],
-     "correct_index": 1,
-     "explanation": "Drawings account is debited and closed to capital."
-    },
-    {
-     "question_text": "The English system differs from the American system in that the English system uses:",
-     "options": [
-      "Personal, real and nominal accounts and golden rules",
-      "No rules",
-      "The accounting equation",
-      "Single entry"
+      "Recording only one aspect of the transaction",
+      "Recording both debit and credit aspects",
+      "Preparation of a trial balance",
+      "Maintenance of the nominal accounts"
      ],
      "correct_index": 0,
-     "explanation": "The American system uses the accounting equation."
+     "explanation": "That describes single entry."
     },
     {
-     "question_text": "Both systems give the same result because:",
+     "question_text": "Which of the following statements regarding the ledger is true?",
      "options": [
-      "One ignores credit",
-      "One ignores debit",
-      "Each transaction affects debit and credit equally under either approach",
-      "They differ in results"
-     ],
-     "correct_index": 2,
-     "explanation": "They are two ways of reaching the same entry."
-    },
-    {
-     "question_text": "Commenced business with cash: Cash A/c is _____, Capital A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Cash is real (comes in); capital is personal (giver)."
-    },
-    {
-     "question_text": "Purchased furniture for cash: Furniture A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Furniture comes in; cash goes out."
-    },
-    {
-     "question_text": "Purchased goods on credit from Ram: Purchases A/c is _____, Ram's A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; debited",
-      "Debited; credited",
-      "Credited; credited"
-     ],
-     "correct_index": 2,
-     "explanation": "Goods (expense of trade) come in; Ram is the giver."
-    },
-    {
-     "question_text": "Sold goods on credit to Shyam: Shyam's A/c is _____, Sales A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Shyam is the receiver; sales is income."
-    },
-    {
-     "question_text": "Paid rent in cash: Rent A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Rent is an expense; cash goes out."
-    },
-    {
-     "question_text": "Received commission: Cash A/c is _____, Commission Received A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; debited",
-      "Credited; credited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Commission received is income."
-    },
-    {
-     "question_text": "Withdrew cash for personal use: Drawings A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; debited"
-     ],
-     "correct_index": 0,
-     "explanation": "Drawings reduce capital."
-    },
-    {
-     "question_text": "Paid outstanding wages: Outstanding Wages A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "The liability is cleared."
-    },
-    {
-     "question_text": "Received interest from the bank: Bank A/c is _____, Interest Received A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Interest received is income."
-    },
-    {
-     "question_text": "Depreciation on machinery: Depreciation A/c is _____, Machinery A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "Depreciation is an expense that reduces the asset."
-    },
-    {
-     "question_text": "Bad debts written off: Bad Debts A/c is _____, Debtor's A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Bad debts is a loss."
-    },
-    {
-     "question_text": "Discount allowed to a customer: Discount Allowed A/c is _____, Customer's A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; debited"
+      "The ledger is prepared only at year end",
+      "The ledger is the book of final entry",
+      "The ledger is the book of original entry",
+      "The ledger records only cash transactions"
      ],
      "correct_index": 1,
-     "explanation": "Discount allowed is a loss."
+     "explanation": "Accounts are maintained in it."
     },
     {
-     "question_text": "Discount received from a supplier: Supplier's A/c is _____, Discount Received A/c is _____:",
+     "question_text": "Capital account of a proprietor has a:",
      "options": [
-      "Debited; credited",
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "Discount received is a gain."
-    },
-    {
-     "question_text": "Goods returned to the supplier: Supplier's A/c is _____, Purchases Returns A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; credited",
-      "Credited; credited",
-      "Debited; debited"
-     ],
-     "correct_index": 1,
-     "explanation": "The supplier is the receiver of goods."
-    },
-    {
-     "question_text": "Goods returned by a customer: Sales Returns A/c is _____, Customer's A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; credited"
+      "Debit balance",
+      "Debit balance if profit",
+      "Credit balance",
+      "Zero balance always"
      ],
      "correct_index": 2,
-     "explanation": "The customer is the giver of goods."
+     "explanation": "Liability to the owner."
     },
     {
-     "question_text": "Paid insurance premium in advance: Prepaid Insurance A/c is _____, Cash A/c is _____:",
+     "question_text": "Drawings account has a:",
      "options": [
-      "Credited; credited",
-      "Debited; credited",
-      "Credited; debited",
-      "Debited; debited"
+      "Zero balance",
+      "Debit balance",
+      "Credit balance",
+      "Credit balance in case of losses"
      ],
      "correct_index": 1,
-     "explanation": "Prepaid insurance is an asset."
+     "explanation": "It is deducted from the capital."
     },
     {
-     "question_text": "Received cash from the debtor: Cash A/c is _____, Debtor's A/c is _____:",
+     "question_text": "A bank overdraft has a:",
      "options": [
-      "Debited; debited",
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; credited"
+      "Debit balance in the purchases account",
+      "Debit balance in the cash book",
+      "Credit balance in the debtors' ledger",
+      "Credit balance in the cash book bank column"
      ],
      "correct_index": 3,
-     "explanation": "Debtor is the giver."
+     "explanation": "Money owed to the bank."
     },
     {
-     "question_text": "Paid salary by cheque: Salary A/c is _____, Bank A/c is _____:",
+     "question_text": "Cash account can never have a:",
      "options": [
-      "Credited; debited",
-      "Credited; credited",
-      "Debited; credited",
-      "Debited; debited"
+      "Balance of zero",
+      "Debit balance",
+      "Credit balance",
+      "Closing balance"
      ],
      "correct_index": 2,
-     "explanation": "Salary is an expense."
+     "explanation": "Cash cannot be negative."
+    },
+    {
+     "question_text": "Rent received in advance is shown in the balance sheet under:",
+     "options": [
+      "Fixed assets",
+      "Capital",
+      "Current assets",
+      "Current liabilities"
+     ],
+     "correct_index": 3,
+     "explanation": "Income of the future."
+    },
+    {
+     "question_text": "Prepaid insurance is shown in the balance sheet under:",
+     "options": [
+      "Current assets",
+      "Reserves",
+      "Fixed assets",
+      "Current liabilities"
+     ],
+     "correct_index": 0,
+     "explanation": "Benefit yet to be received."
+    },
+    {
+     "question_text": "Outstanding salaries are shown in the balance sheet under:",
+     "options": [
+      "Current liabilities",
+      "Capital",
+      "Fixed assets",
+      "Current assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Payable."
+    },
+    {
+     "question_text": "Accrued interest on investments is shown as:",
+     "options": [
+      "Current asset",
+      "Current liability",
+      "Capital",
+      "Fixed asset"
+     ],
+     "correct_index": 0,
+     "explanation": "Receivable."
+    },
+    {
+     "question_text": "Credit balance of Mr. Z in the ledger indicates that Z is a:",
+     "options": [
+      "Partner in the firm",
+      "Debtor of the firm",
+      "Customer to be paid",
+      "Creditor of the firm"
+     ],
+     "correct_index": 3,
+     "explanation": "The firm owes money."
+    },
+    {
+     "question_text": "Debit balance of Mr. Z in the ledger indicates that Z is a:",
+     "options": [
+      "Creditor of the firm",
+      "Lender to the firm",
+      "Supplier of the goods",
+      "Debtor of the firm"
+     ],
+     "correct_index": 3,
+     "explanation": "He owes the firm."
+    },
+    {
+     "question_text": "The ledger folio column is used to:",
+     "options": [
+      "Cross-refer an entry between the journal and the ledger",
+      "Show the cash balance after each entry is made",
+      "Record the date on which the transaction took place",
+      "Record the narration explaining the entry in detail"
+     ],
+     "correct_index": 0,
+     "explanation": "Page number."
+    },
+    {
+     "question_text": "Posting refers to the process of:",
+     "options": [
+      "Preparing the journal entries from the original vouchers",
+      "Transferring entries from the journal to the ledger accounts",
+      "Balancing the ledger accounts at the end of a period",
+      "Totalling the money columns of the cash book at the end"
+     ],
+     "correct_index": 1,
+     "explanation": "Classification."
+    },
+    {
+     "question_text": "Balancing of an account involves:",
+     "options": [
+      "Totalling both sides and finding the difference",
+      "Passing a fresh journal entry for each item",
+      "Posting the closing figures to the profit account",
+      "Closing the account by transferring it to capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Carry-down of the balance."
+    },
+    {
+     "question_text": "The balance of an account is described as \"balance c/d\" when it is on the:",
+     "options": [
+      "Side that is the smaller total",
+      "Debit side only",
+      "Larger total side only",
+      "Credit side only"
+     ],
+     "correct_index": 0,
+     "explanation": "It is carried down on the smaller side."
+    },
+    {
+     "question_text": "If the total of the debit side of an account is Rs 50,000 and the credit side is Rs 42,000, the balance is Rs 8,000 and appears as:",
+     "options": [
+      "Not shown at all",
+      "Balance c/d on the credit side",
+      "Balance b/d on the credit side",
+      "Balance c/d on the debit side"
+     ],
+     "correct_index": 1,
+     "explanation": "Credit side is smaller, so the balance is written on it."
+    },
+    {
+     "question_text": "Opening balance of an asset account is shown on the:",
+     "options": [
+      "Debit side as balance b/d",
+      "Debit side as balance c/d",
+      "Credit side as balance b/d",
+      "Credit side as balance c/d"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets have debit balances."
+    },
+    {
+     "question_text": "The ledger account of sales is closed by transferring it to the:",
+     "options": [
+      "Trading account",
+      "Profit and loss appropriation account",
+      "Balance sheet",
+      "Capital account"
+     ],
+     "correct_index": 0,
+     "explanation": "Revenue of trading."
+    },
+    {
+     "question_text": "The ledger account of drawings is closed by transferring to the:",
+     "options": [
+      "Capital account",
+      "Balance sheet",
+      "Profit and loss account",
+      "Trading account"
+     ],
+     "correct_index": 0,
+     "explanation": "Reduces the owner's capital."
+    },
+    {
+     "question_text": "Which of the following is a personal account?",
+     "options": [
+      "Interest received account of the firm",
+      "Outstanding salary payable to an employee",
+      "Salaries account of the business",
+      "Land and buildings account of the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Represents the person to whom it is due."
+    },
+    {
+     "question_text": "Which of the following is a real account?",
+     "options": [
+      "Salaries account",
+      "Stock account",
+      "Interest received account",
+      "Bad debts account"
+     ],
+     "correct_index": 1,
+     "explanation": "Relates to things owned."
+    },
+    {
+     "question_text": "The golden rule for real accounts is:",
+     "options": [
+      "Debit the giver, credit the receiver",
+      "Debit what comes in, credit what goes out",
+      "Debit expenses and losses, credit incomes and gains",
+      "Debit the receiver, credit the giver"
+     ],
+     "correct_index": 1,
+     "explanation": "Property moves."
+    },
+    {
+     "question_text": "Cash sale of Rs 4,500 is recorded as:",
+     "options": [
+      "Debit sales, credit cash",
+      "Debit debtors, credit sales",
+      "Debit cash, credit sales",
+      "Debit stock, credit cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Asset up, income up."
+    },
+    {
+     "question_text": "Purchase of a car for the proprietor's use paid from the business cash is treated as:",
+     "options": [
+      "Prepaid expense",
+      "Business asset",
+      "Drawings",
+      "Purchases"
+     ],
+     "correct_index": 2,
+     "explanation": "Personal use."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Book-Keeping – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Bought a machine on credit: Machinery A/c is _____, Supplier's A/c is _____:",
+     "question_text": "Wages paid for erection of machinery are debited to:",
      "options": [
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; debited",
-      "Credited; credited"
+      "Capital account",
+      "Wages account",
+      "Machinery account",
+      "Drawings account"
+     ],
+     "correct_index": 2,
+     "explanation": "Capital expenditure."
+    },
+    {
+     "question_text": "The trial balance is prepared:",
+     "options": [
+      "After the final accounts",
+      "Before passing opening entries",
+      "After posting and balancing the ledger",
+      "Before the journal entries"
+     ],
+     "correct_index": 2,
+     "explanation": "Ledger balances."
+    },
+    {
+     "question_text": "Trial balance shows balance of Rs 15,000 on the credit side of \"Discount allowed\". This indicates:",
+     "options": [
+      "An error, because it should be a debit balance",
+      "A gain made on the discounts",
+      "Correct entry for the discount",
+      "Reversal of the entry for the discount"
+     ],
+     "correct_index": 0,
+     "explanation": "Normally a loss."
+    },
+    {
+     "question_text": "Which of the following will cause an error that the trial balance will reveal?",
+     "options": [
+      "Wrong totalling of the purchase book",
+      "Omission of a transaction from the books",
+      "Wrong classification of capital expenses",
+      "Posting to a wrong account of the same type"
+     ],
+     "correct_index": 0,
+     "explanation": "One-sided error."
+    },
+    {
+     "question_text": "The posting of Rs 4,000 sale to the credit of Mr A (instead of the debit) will make the trial balance short on the debit side by:",
+     "options": [
+      "Rs 8,000",
+      "Rs 2,000",
+      "Rs 0",
+      "Rs 4,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Double the amount."
+    },
+    {
+     "question_text": "The trial balance after posting Rs 1,200 on both sides, but with wrong accounts (Mr B instead of Mr C), shows:",
+     "options": [
+      "No difference",
+      "A difference of Rs 1,200",
+      "A difference on the debit side",
+      "A difference of Rs 2,400"
+     ],
+     "correct_index": 0,
+     "explanation": "Error of commission."
+    },
+    {
+     "question_text": "Machinery purchased for Rs 7,500 was debited to the purchases account. This is an error of:",
+     "options": [
+      "Principle",
+      "Omission",
+      "Compensation",
+      "Commission"
+     ],
+     "correct_index": 0,
+     "explanation": "Capital item treated as revenue."
+    },
+    {
+     "question_text": "A purchase of Rs 900 recorded as Rs 90 in the purchase book and in the creditor's account. This error is:",
+     "options": [
+      "A compensating error",
+      "An error of commission",
+      "An error of principle",
+      "An error of original entry"
+     ],
+     "correct_index": 3,
+     "explanation": "Wrong amount in the original book."
+    },
+    {
+     "question_text": "Which one of these is a rule of the accounting equation approach (modern)?",
+     "options": [
+      "Decrease in assets is debited",
+      "Increase in assets is debited",
+      "Increase in assets is credited",
+      "Increase in capital is debited"
      ],
      "correct_index": 1,
-     "explanation": "Machine comes in; supplier is the giver."
+     "explanation": "Assets are debits."
     },
     {
-     "question_text": "Deposited cash into the bank: Bank A/c is _____, Cash A/c is _____:",
+     "question_text": "Under the modern approach, an increase in an expense is:",
      "options": [
-      "Credited; debited",
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; credited"
+      "Neither debited nor credited",
+      "Credited",
+      "Offset against capital",
+      "Debited"
+     ],
+     "correct_index": 3,
+     "explanation": "Expense reduces capital."
+    },
+    {
+     "question_text": "An increase in income under the modern approach is:",
+     "options": [
+      "Not recorded",
+      "Debited",
+      "Offset against assets",
+      "Credited"
+     ],
+     "correct_index": 3,
+     "explanation": "Income increases capital."
+    },
+    {
+     "question_text": "The suspense account is opened when:",
+     "options": [
+      "The books are balanced",
+      "The profits are distributed",
+      "The trial balance does not agree",
+      "The capital is introduced"
+     ],
+     "correct_index": 2,
+     "explanation": "Temporary account."
+    },
+    {
+     "question_text": "The books of original entry include:",
+     "options": [
+      "Debtors and creditors accounts",
+      "Ledger and trial balance",
+      "Balance sheet and profit and loss account",
+      "Journal and cash book"
+     ],
+     "correct_index": 3,
+     "explanation": "First record."
+    },
+    {
+     "question_text": "Which of the following is NOT a book of original entry?",
+     "options": [
+      "Purchases book",
+      "Ledger",
+      "Cash book",
+      "Sales book"
      ],
      "correct_index": 1,
-     "explanation": "Bank balance increases."
+     "explanation": "It is a book of final entry."
     },
     {
-     "question_text": "Withdrew cash from the bank for office use: Cash A/c is _____, Bank A/c is _____:",
+     "question_text": "The cash book is both:",
      "options": [
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; credited",
-      "Debited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Cash comes in; bank goes out."
-    },
-    {
-     "question_text": "Owner introduced additional capital in cash: Cash A/c is _____, Capital A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; debited",
-      "Credited; credited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Capital increases."
-    },
-    {
-     "question_text": "Goods lost by fire: Loss by Fire A/c is _____, Purchases (Stock) A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; debited",
-      "Debited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "Loss is debited; goods go out."
-    },
-    {
-     "question_text": "Goods distributed as free samples: Advertisement A/c is _____, Purchases A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "It is an advertising expense."
-    },
-    {
-     "question_text": "Interest charged on drawings: Drawings A/c is _____, Interest on Drawings A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; debited"
-     ],
-     "correct_index": 0,
-     "explanation": "Interest on drawings is an income of the business."
-    },
-    {
-     "question_text": "Interest allowed on capital: Interest on Capital A/c is _____, Capital A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; credited",
-      "Debited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Interest on capital is an expense."
-    },
-    {
-     "question_text": "Rent received in advance: Cash A/c is _____, Rent Received in Advance A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "It is a liability to the business."
-    },
-    {
-     "question_text": "Loan taken from a bank: Cash/Bank A/c is _____, Loan A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; debited"
-     ],
-     "correct_index": 0,
-     "explanation": "Cash comes in; the bank is the giver."
-    },
-    {
-     "question_text": "Paid interest on the loan: Interest A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Interest paid is an expense."
-    },
-    {
-     "question_text": "Sold old furniture for cash: Cash A/c is _____, Furniture A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Credited; credited",
-      "Debited; debited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Cash comes in; furniture goes out."
-    },
-    {
-     "question_text": "Goods taken by the owner for personal use: Drawings A/c is _____, Purchases A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Credited; credited",
-      "Debited; debited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a drawing."
-    },
-    {
-     "question_text": "Cash stolen: Loss by Theft A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Credited; credited",
-      "Credited; debited",
-      "Debited; debited",
-      "Debited; credited"
-     ],
-     "correct_index": 3,
-     "explanation": "Theft is a loss."
-    },
-    {
-     "question_text": "Sold goods for cash: Cash A/c is _____, Sales A/c is _____:",
-     "options": [
-      "Credited; debited",
-      "Debited; credited",
-      "Credited; credited",
-      "Debited; debited"
+      "A subsidiary book and a trial balance",
+      "A book of original entry and a ledger account",
+      "A book of final entry and a journal",
+      "A statement and a schedule"
      ],
      "correct_index": 1,
-     "explanation": "Sales is income."
+     "explanation": "Dual role."
     },
     {
-     "question_text": "Purchased goods for cash: Purchases A/c is _____, Cash A/c is _____:",
+     "question_text": "Credit sales Rs 20,000 to Mr. K. K returns goods of Rs 2,000 and pays Rs 16,000, being full settlement with a discount of Rs 2,000. The discount is:",
      "options": [
-      "Credited; credited",
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; debited"
-     ],
-     "correct_index": 1,
-     "explanation": "Purchases come in."
-    },
-    {
-     "question_text": "Paid commission to an agent: Commission A/c is _____, Cash A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Debited; credited",
-      "Credited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 1,
-     "explanation": "Commission paid is an expense."
-    },
-    {
-     "question_text": "Received dividend: Cash A/c is _____, Dividend Received A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Credited; credited",
-      "Debited; debited",
-      "Credited; debited"
+      "Rs 2,000 allowed",
+      "Rs 2,000 received",
+      "Rs 18,000 allowed",
+      "Rs 4,000 allowed"
      ],
      "correct_index": 0,
-     "explanation": "Dividend is income."
+     "explanation": "Total settled 20,000 = 2,000 + 16,000 + 2,000."
     },
     {
-     "question_text": "Accrued income: Accrued Income A/c is _____, Income A/c is _____:",
+     "question_text": "A, a debtor, owed Rs 8,000. He paid Rs 7,600 in full settlement. The entry in discount allowed is:",
      "options": [
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 0,
-     "explanation": "Accrued income is an asset."
-    },
-    {
-     "question_text": "Provision for doubtful debts created: Profit and Loss A/c (Bad Debts) is _____, Provision for Doubtful Debts A/c is _____:",
-     "options": [
-      "Debited; credited",
-      "Debited; debited",
-      "Credited; debited",
-      "Credited; credited"
-     ],
-     "correct_index": 0,
-     "explanation": "The provision is a charge against profit."
-    },
-    {
-     "question_text": "Bad debts recovered: Cash A/c is _____, Bad Debts Recovered A/c is _____:",
-     "options": [
-      "Debited; debited",
-      "Credited; credited",
-      "Debited; credited",
-      "Credited; debited"
-     ],
-     "correct_index": 2,
-     "explanation": "It is a gain."
-    },
-    {
-     "question_text": "A debit note is issued by:",
-     "options": [
-      "The seller to the buyer",
-      "The government",
-      "The buyer to the seller for goods returned or for a correction",
-      "The bank"
-     ],
-     "correct_index": 2,
-     "explanation": "The buyer debits the seller's account."
-    },
-    {
-     "question_text": "A credit note is issued by:",
-     "options": [
-      "The buyer to the seller",
-      "The bank",
-      "The government",
-      "The seller to the buyer for goods returned or overcharge"
+      "Dr Rs 7,600",
+      "Cr Rs 8,000",
+      "Cr Rs 400",
+      "Dr Rs 400"
      ],
      "correct_index": 3,
-     "explanation": "The seller credits the buyer's account."
+     "explanation": "Loss of Rs 400."
     },
     {
-     "question_text": "Which is NOT a source document?",
+     "question_text": "Trade discount is:",
      "options": [
-      "Pay-in-slip",
-      "Cash memo",
-      "Invoice",
-      "Trial balance"
+      "Recorded as a liability",
+      "Not recorded in the books",
+      "Recorded as an income",
+      "Recorded as an expense"
      ],
-     "correct_index": 3,
-     "explanation": "The trial balance is a statement from the ledger."
+     "correct_index": 1,
+     "explanation": "Deducted on invoice."
     },
     {
-     "question_text": "A cash memo is:",
+     "question_text": "Cash discount is allowed for:",
      "options": [
-      "A ledger",
-      "A credit note",
-      "A document prepared for a cash sale",
-      "A trial balance"
+      "Quality of goods",
+      "Prompt payment",
+      "Bulk purchases",
+      "Seasonal sales"
+     ],
+     "correct_index": 1,
+     "explanation": "Encourages early settlement."
+    },
+    {
+     "question_text": "Goods of list price Rs 20,000 are sold at 10% trade discount and 2% cash discount (cash discount on the net). The cash received on prompt payment is:",
+     "options": [
+      "Rs 19,600",
+      "Rs 17,640",
+      "Rs 17,600",
+      "Rs 18,000"
+     ],
+     "correct_index": 1,
+     "explanation": "18,000 × 0.98."
+    },
+    {
+     "question_text": "The sales book is used to record:",
+     "options": [
+      "Cash sales of goods in which the firm normally deals",
+      "Credit sales of goods in which the firm normally deals",
+      "Credit sales of old assets that are no longer required",
+      "Returns of goods that customers send back to the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Subsidiary book."
+    },
+    {
+     "question_text": "Which one of these items will appear in the purchase book?",
+     "options": [
+      "Credit purchase of goods for resale",
+      "Cash purchase of goods",
+      "Credit purchase of furniture",
+      "Purchase of raw material for cash"
+     ],
+     "correct_index": 0,
+     "explanation": "Only credit purchases of goods."
+    },
+    {
+     "question_text": "Credit purchase of furniture Rs 10,000 is recorded in the:",
+     "options": [
+      "Sales book",
+      "Purchase book",
+      "Journal proper",
+      "Cash book"
      ],
      "correct_index": 2,
-     "explanation": "It is the evidence of a cash transaction."
+     "explanation": "Not goods for resale."
+    },
+    {
+     "question_text": "Opening entries are passed in:",
+     "options": [
+      "Sales book",
+      "Journal proper",
+      "Cash book",
+      "Purchase book"
+     ],
+     "correct_index": 1,
+     "explanation": "At the start of the new year."
+    },
+    {
+     "question_text": "Capital Rs 2,00,000, creditors Rs 50,000, bank loan Rs 1,00,000. Total assets are:",
+     "options": [
+      "Rs 3,00,000",
+      "Rs 1,50,000",
+      "Rs 2,50,000",
+      "Rs 3,50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "A = C + L."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Book-Keeping – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "An invoice differs from a bill in that an invoice is:",
+     "question_text": "If total of Debit side Rs 3,15,000 includes drawings of Rs 15,000 wrongly entered on the credit side, the trial balance difference is:",
      "options": [
-      "A document listing goods sold with quantity, price and terms",
-      "A cheque",
-      "A balance sheet",
-      "A trial balance"
+      "Rs 0",
+      "Rs 15,000",
+      "Rs 3,15,000",
+      "Rs 30,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Twice."
+    },
+    {
+     "question_text": "Compensating errors are those errors that:",
+     "options": [
+      "Cancel each other out, so the trial balance still agrees",
+      "Can be discovered only by the statutory auditor",
+      "Occur only in the cash book and in the bank column",
+      "Make the totals of the trial balance differ by a fixed sum"
      ],
      "correct_index": 0,
-     "explanation": "Often used interchangeably, an invoice is for goods, a bill for services."
+     "explanation": "Errors on both sides offset each other."
     },
     {
-     "question_text": "A pay-in-slip is used for:",
+     "question_text": "The method of recording transactions on both debit and credit is traced to:",
      "options": [
-      "Paying tax",
-      "Withdrawing cash",
-      "Paying wages",
-      "Depositing cash or cheques in the bank"
-     ],
-     "correct_index": 3,
-     "explanation": "The bank gives a receipt."
-    },
-    {
-     "question_text": "Vouchers in book-keeping:",
-     "options": [
-      "Eliminate entries",
-      "Are optional",
-      "Replace ledgers",
-      "Serve as evidence of transactions"
-     ],
-     "correct_index": 3,
-     "explanation": "They support entries for audit."
-    },
-    {
-     "question_text": "The capital account is a personal account because:",
-     "options": [
-      "It is income",
-      "It is an expense",
-      "It represents the owner, to whom the business owes the capital",
-      "It is an asset"
-     ],
-     "correct_index": 2,
-     "explanation": "The business is a separate entity."
-    },
-    {
-     "question_text": "The drawings account is a personal account because:",
-     "options": [
-      "It relates to expenses",
-      "It relates to the owner",
-      "It relates to income",
-      "It relates to assets"
+      "Alfred Marshall",
+      "Luca Pacioli",
+      "Adam Smith",
+      "Henry Fayol"
      ],
      "correct_index": 1,
-     "explanation": "It is a part of the proprietor's capital."
+     "explanation": "Italian monk, 1494."
     },
     {
-     "question_text": "Goodwill is a real account because:",
+     "question_text": "Which of the following transactions has no effect on profit?",
      "options": [
-      "It is an expense",
-      "It is an asset (intangible property)",
-      "It is income",
-      "It is a person"
-     ],
-     "correct_index": 1,
-     "explanation": "It has value but no physical form."
-    },
-    {
-     "question_text": "A debit note differs from a credit note in that the debit note is issued by the:",
-     "options": [
-      "Buyer; credit note by the seller",
-      "Seller; credit note by the buyer",
-      "Bank; credit note by the government",
-      "Auditor; credit note by owner"
-     ],
-     "correct_index": 0,
-     "explanation": "Both adjust the other party's account."
-    },
-    {
-     "question_text": "Capital increases are credited because:",
-     "options": [
-      "Assets = Liabilities + Capital, and the credit side represents capital",
-      "Capital is a debit",
-      "Capital is an asset",
-      "Capital is an expense"
-     ],
-     "correct_index": 0,
-     "explanation": "Capital is on the right side of the equation."
-    },
-    {
-     "question_text": "Assets are shown on the:",
-     "options": [
-      "Both sides",
-      "Credit side (right)",
-      "Neither side",
-      "Debit side (left)"
+      "Payment of rent",
+      "Discount received",
+      "Sale of goods on credit",
+      "Purchase of furniture for cash"
      ],
      "correct_index": 3,
-     "explanation": "Assets have debit balances."
+     "explanation": "Asset exchange."
     },
     {
-     "question_text": "Liabilities are shown on the:",
+     "question_text": "Rs 2,000 credit sale was recorded as a cash sale (debit cash, credit sales). This is an error of:",
      "options": [
-      "Neither",
-      "Credit side (right)",
+      "Compensation, as another error cancelled this one",
+      "Omission, as the whole transaction was left out",
+      "Original entry, as the amount was recorded wrongly",
+      "Principle or commission, as the wrong account was debited"
+     ],
+     "correct_index": 3,
+     "explanation": "Debtor not debited."
+    },
+    {
+     "question_text": "The opening stock of Rs 12,000 appears in the trial balance on the:",
+     "options": [
       "Debit side",
-      "Both sides"
+      "Neither side",
+      "Both sides",
+      "Credit side"
+     ],
+     "correct_index": 0,
+     "explanation": "It is an expense/asset."
+    },
+    {
+     "question_text": "Which of the following appears on the credit side of the trial balance?",
+     "options": [
+      "Sundry debtors",
+      "Bank overdraft",
+      "Land and building",
+      "Cash in hand"
      ],
      "correct_index": 1,
-     "explanation": "Liabilities have credit balances."
+     "explanation": "Liability."
     },
     {
-     "question_text": "The sum of debits equals the sum of credits because:",
+     "question_text": "Net profit is transferred to the capital account by:",
      "options": [
-      "Every transaction has equal debit and credit aspects",
-      "Credits are larger",
-      "Random",
-      "Debits are larger"
+      "Crediting capital",
+      "Debiting capital",
+      "Crediting drawings",
+      "Debiting drawings"
      ],
      "correct_index": 0,
-     "explanation": "Double entry ensures this."
+     "explanation": "Increases the owner's equity."
     },
     {
-     "question_text": "Bought goods on credit and sold on credit: the accounts affected are:",
+     "question_text": "Net loss is transferred to the capital account by:",
      "options": [
-      "Purchases, supplier, customer and sales",
-      "Furniture only",
-      "Cash only",
-      "Capital only"
-     ],
-     "correct_index": 0,
-     "explanation": "Two entries: purchase and sale."
-    },
-    {
-     "question_text": "Examples of real, personal and nominal accounts respectively are:",
-     "options": [
-      "Ram, Rent, Cash",
-      "Cash, Rent, Ram",
-      "Cash, Ram, Rent",
-      "Rent, Cash, Ram"
-     ],
-     "correct_index": 2,
-     "explanation": "Real: cash; personal: Ram; nominal: rent."
-    },
-    {
-     "question_text": "If only assets are involved in a transaction, the total of assets:",
-     "options": [
-      "Increases",
-      "Remains unchanged",
-      "Decreases",
-      "Doubles"
-     ],
-     "correct_index": 1,
-     "explanation": "One asset increases and another decreases."
-    },
-    {
-     "question_text": "Paying a creditor:",
-     "options": [
-      "Decreases assets and liabilities equally",
-      "Increases capital",
-      "Increases liabilities",
-      "Increases assets"
-     ],
-     "correct_index": 0,
-     "explanation": "Cash and creditors both fall."
-    },
-    {
-     "question_text": "An outstanding expense account shows:",
-     "options": [
-      "Income",
-      "An expense paid",
-      "An expense incurred but not yet paid (a liability)",
-      "An asset"
-     ],
-     "correct_index": 2,
-     "explanation": "E.g., outstanding rent."
-    },
-    {
-     "question_text": "A prepaid expense account shows:",
-     "options": [
-      "An outstanding liability",
-      "Income",
-      "An expense paid in advance for a future period (an asset)",
-      "Loss"
-     ],
-     "correct_index": 2,
-     "explanation": "E.g., prepaid insurance."
-    },
-    {
-     "question_text": "An accrued income account shows:",
-     "options": [
-      "Loss",
-      "Expense",
-      "Income earned but not yet received (an asset)",
-      "Income received in advance"
-     ],
-     "correct_index": 2,
-     "explanation": "E.g., interest receivable."
-    },
-    {
-     "question_text": "Income received in advance is:",
-     "options": [
-      "A liability (income of a future period)",
-      "An expense",
-      "An asset",
-      "Capital"
-     ],
-     "correct_index": 0,
-     "explanation": "It will be earned later."
-    },
-    {
-     "question_text": "Cash discount is a nominal account because it:",
-     "options": [
-      "Represents a loss or gain (an expense or income)",
-      "Is an asset",
-      "Is capital",
-      "Is a person"
-     ],
-     "correct_index": 0,
-     "explanation": "Discount allowed is a loss; discount received is a gain."
-    },
-    {
-     "question_text": "Trade discount is not recorded in the books because:",
-     "options": [
-      "It is capital",
-      "It is a tax",
-      "It is illegal",
-      "It is deducted from the list price on the invoice and only the net amount is recorded"
+      "Debiting drawings",
+      "Crediting capital",
+      "Crediting drawings",
+      "Debiting capital"
      ],
      "correct_index": 3,
-     "explanation": "Only the net price enters the books."
+     "explanation": "Reduces the equity."
     },
     {
-     "question_text": "\"Debit the receiver, credit the giver\" applies to:",
+     "question_text": "Which of the following correctly represents 'carriage inwards'?",
      "options": [
-      "Real accounts",
+      "An asset shown on the balance sheet",
+      "An expense debited to the profit and loss account",
+      "An expense debited to the trading account",
+      "An income credited to the trading account"
+     ],
+     "correct_index": 2,
+     "explanation": "Direct expense."
+    },
+    {
+     "question_text": "Ravi's account shows Dr balance of Rs 4,000 and Cr balance of Rs 6,000 in different ledgers. The correct balance is:",
+     "options": [
+      "Cr Rs 2,000",
+      "Dr Rs 10,000",
+      "Cr Rs 10,000",
+      "Dr Rs 2,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Net."
+    },
+    {
+     "question_text": "Which of the following does NOT affect the capital account?",
+     "options": [
+      "Purchase of a fixed asset by paying cash",
+      "Interest on capital credited to the proprietor",
+      "Net profit earned by the business in the year",
+      "Cash drawings by the proprietor for private use"
+     ],
+     "correct_index": 0,
+     "explanation": "It only changes the form of the assets."
+    },
+    {
+     "question_text": "A cash book balance on the debit side is Rs 30,000, with a bank column showing Rs 15,000 credit. The firm has:",
+     "options": [
+      "Bank balance Rs 15,000 and cash nil",
+      "Cash Rs 15,000 and bank Rs 30,000",
+      "Cash Rs 30,000 and bank overdraft Rs 15,000",
+      "Cash Rs 45,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Credit in bank = overdraft."
+    },
+    {
+     "question_text": "A total of Rs 800 is posted to the wrong side of the purchase returns. The effect on the trial balance is a difference of:",
+     "options": [
+      "Rs 1,600",
+      "Rs 400",
+      "Rs 0",
+      "Rs 800"
+     ],
+     "correct_index": 0,
+     "explanation": "Twice."
+    },
+    {
+     "question_text": "Sales returns book totals Rs 2,400, but posted as Rs 4,200 in the ledger. The difference in the trial balance is:",
+     "options": [
+      "Rs 1,800 on the credit side",
+      "Rs 1,800 on the debit side",
+      "No difference",
+      "Rs 2,400 on the debit side"
+     ],
+     "correct_index": 1,
+     "explanation": "Debit side is overstated."
+    },
+    {
+     "question_text": "The double entry system ensures that:",
+     "options": [
+      "Total assets equal total sales",
+      "Total cash equals total profit",
+      "Total debits equal total credits",
+      "Total expenses equal total income"
+     ],
+     "correct_index": 2,
+     "explanation": "Fundamental rule."
+    },
+    {
+     "question_text": "Which of the following items normally has a credit balance?",
+     "options": [
+      "Stock in hand",
+      "Provision for doubtful debts",
+      "Sundry debtors",
+      "Prepaid expenses of the business"
+     ],
+     "correct_index": 1,
+     "explanation": "Liability or contra-asset."
+    },
+    {
+     "question_text": "Closing entries transfer the balances of:",
+     "options": [
       "Nominal accounts",
-      "Personal accounts",
-      "All accounts"
-     ],
-     "correct_index": 2,
-     "explanation": "Real and nominal accounts have their own rules."
-    },
-    {
-     "question_text": "An account can have a debit balance and a credit balance at the same time:",
-     "options": [
-      "No; the net balance is either debit or credit",
-      "Yes, always",
-      "Only for expenses",
-      "Only for assets"
+      "Assets accounts",
+      "Real accounts",
+      "Personal accounts"
      ],
      "correct_index": 0,
-     "explanation": "The balance is the difference between the two sides."
+     "explanation": "To the profit and loss accounts."
     },
     {
-     "question_text": "A debit entry on an expense account:",
+     "question_text": "The rule \"debit the receiver, credit the giver\" applies to:",
      "options": [
-      "Has no effect",
-      "Decreases the expense",
-      "Increases the expense",
-      "Increases income"
+      "Personal accounts",
+      "Real accounts",
+      "Capital accounts",
+      "Nominal accounts"
      ],
-     "correct_index": 2,
-     "explanation": "Expenses have debit balances."
+     "correct_index": 0,
+     "explanation": "Traditional rule."
     },
     {
-     "question_text": "A credit entry on a liability account:",
+     "question_text": "Mr. P, a customer, paid cash Rs 6,000 in advance. In books the entry is:",
      "options": [
-      "Decreases capital",
-      "Decreases the liability",
-      "Has no effect",
-      "Increases the liability"
+      "Debit sales, credit cash",
+      "Debit cash, credit P",
+      "Debit cash, credit sales",
+      "Debit P, credit cash"
+     ],
+     "correct_index": 1,
+     "explanation": "Liability to supply the goods."
+    },
+    {
+     "question_text": "Insurance premium paid Rs 6,000, of which 1/3 relates to next year. The prepaid insurance is:",
+     "options": [
+      "Rs 1,000",
+      "Rs 4,000",
+      "Rs 6,000",
+      "Rs 2,000"
      ],
      "correct_index": 3,
-     "explanation": "Liabilities have credit balances."
+     "explanation": "One-third."
+    },
+    {
+     "question_text": "On 1 January, a firm had capital of Rs 1,00,000. During the year the profit was Rs 30,000, drawings Rs 12,000 and fresh capital Rs 20,000. Closing capital is:",
+     "options": [
+      "Rs 1,18,000",
+      "Rs 1,38,000",
+      "Rs 1,50,000",
+      "Rs 1,62,000"
+     ],
+     "correct_index": 1,
+     "explanation": "1,00,000 + 30,000 + 20,000 − 12,000."
+    },
+    {
+     "question_text": "A creditor of Rs 15,000 is paid Rs 14,500 in full settlement. The entry is:",
+     "options": [
+      "Dr creditor 14,500; Cr cash 14,500 with no discount at all",
+      "Dr discount allowed 500; Cr creditor 15,000 and cash nil",
+      "Dr cash 14,500; Cr creditor 14,500 with no discount at all",
+      "Dr creditor 15,000; Cr cash 14,500 and discount received 500"
+     ],
+     "correct_index": 3,
+     "explanation": "Gain of 500."
+    },
+    {
+     "question_text": "A trader takes loan of Rs 50,000 from bank and deposits it in the business account. The effect on the accounting equation is:",
+     "options": [
+      "Assets up 50,000; capital up 50,000",
+      "Liabilities up 50,000; capital down 50,000",
+      "Assets down 50,000; liabilities down 50,000",
+      "Assets up 50,000; liabilities up 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash and loan."
+    },
+    {
+     "question_text": "The totals of the trial balance agree, yet the books may still contain:",
+     "options": [
+      "Errors of one-sided posting",
+      "Errors in the arithmetic of the ledger",
+      "Errors of principle and omission",
+      "Errors of wrong totalling"
+     ],
+     "correct_index": 2,
+     "explanation": "Errors not affecting the equality."
     }
    ]
   }
