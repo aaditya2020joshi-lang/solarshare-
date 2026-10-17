@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 6: Rectification of Errors – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "An error in accounting is:",
+     "question_text": "Purchase of a typewriter for Rs 12,000 was debited to the purchases account. The rectifying entry is:",
      "options": [
-      "A profit",
-      "A loss",
-      "A mistake in recording, classifying or summarising transactions",
-      "An audit"
-     ],
-     "correct_index": 2,
-     "explanation": "It can be clerical or one of principle."
-    },
-    {
-     "question_text": "The main types of errors are:",
-     "options": [
-      "Errors of profit",
-      "Errors of tax",
-      "Errors of omission, commission, principle and compensating errors",
-      "Errors of audit"
-     ],
-     "correct_index": 2,
-     "explanation": "Others: errors of original entry, duplication and casting."
-    },
-    {
-     "question_text": "A complete omission differs from a partial omission in that in a complete omission:",
-     "options": [
-      "Both aspects are recorded",
-      "Neither is recorded",
-      "The transaction is not recorded at all, while in a partial omission only one aspect is omitted",
-      "Only one aspect is recorded"
-     ],
-     "correct_index": 2,
-     "explanation": "Complete omission does not affect the trial balance."
-    },
-    {
-     "question_text": "An error of commission is an error:",
-     "options": [
-      "Made while recording or posting, e.g., posting to a wrong account",
-      "Of treating capital as revenue",
-      "Of omission",
-      "That is compensating"
-     ],
-     "correct_index": 0,
-     "explanation": "It arises from carelessness."
-    },
-    {
-     "question_text": "An error of principle occurs when:",
-     "options": [
-      "Wrong totalling",
-      "A transaction is omitted",
-      "An amount is posted twice",
-      "The accounting principle is violated, e.g., capital expenditure treated as revenue"
-     ],
-     "correct_index": 3,
-     "explanation": "The trial balance agrees."
-    },
-    {
-     "question_text": "Compensating errors are:",
-     "options": [
-      "Errors of principle",
-      "Errors that cancel out each other's effect",
-      "One-sided errors",
-      "Errors of omission"
+      "Dr Purchases 12,000; Cr Typewriter 12,000",
+      "Dr Typewriter 12,000; Cr Purchases 12,000",
+      "Dr Typewriter 12,000; Cr Suspense 12,000",
+      "Dr Capital 12,000; Cr Purchases 12,000"
      ],
      "correct_index": 1,
-     "explanation": "E.g., two accounts overstated and understated by the same amount."
+     "explanation": "Error of principle: capital item as revenue."
     },
     {
-     "question_text": "An error of original entry is when:",
+     "question_text": "The error above, if left uncorrected, will result in:",
      "options": [
-      "A wrong amount is entered in the book of original entry",
-      "Posting is wrong",
-      "The total is wrong",
-      "An entry is omitted"
-     ],
-     "correct_index": 0,
-     "explanation": "Both aspects use the wrong figure."
-    },
-    {
-     "question_text": "An error of duplication is:",
-     "options": [
-      "An entry omitted",
-      "A wrong balance",
-      "An entry recorded twice",
-      "A wrong total"
-     ],
-     "correct_index": 2,
-     "explanation": "E.g., an invoice posted twice."
-    },
-    {
-     "question_text": "An error of casting is:",
-     "options": [
-      "A mistake in posting",
-      "A mistake in principle",
-      "A mistake in adding up the totals",
-      "An omission"
-     ],
-     "correct_index": 2,
-     "explanation": "Overcasting or undercasting."
-    },
-    {
-     "question_text": "Which errors do not affect the trial balance?",
-     "options": [
-      "One-sided posting errors",
-      "Balancing errors",
-      "Complete omission, errors of principle, compensating errors and errors of original entry",
-      "Casting errors"
-     ],
-     "correct_index": 2,
-     "explanation": "Debit and credit totals remain equal."
-    },
-    {
-     "question_text": "Which errors affect the trial balance?",
-     "options": [
-      "Complete omission",
-      "Errors of principle",
-      "Compensating errors",
-      "One-sided errors such as casting, balancing and posting errors"
-     ],
-     "correct_index": 3,
-     "explanation": "They create a difference."
-    },
-    {
-     "question_text": "One-sided errors affect:",
-     "options": [
-      "Both sides",
-      "Only one account (debit or credit), disturbing the trial balance",
-      "Two accounts equally",
-      "No account"
+      "Understatement of profit and overstatement of assets",
+      "Understatement of profit and of assets",
+      "Overstatement of profit and of assets",
+      "No effect on profit"
      ],
      "correct_index": 1,
-     "explanation": "Two-sided errors affect two accounts."
+     "explanation": "Purchases overstated, asset omitted."
     },
     {
-     "question_text": "If the trial balance does not agree, the first step to locate the error is to:",
+     "question_text": "Goods sold to Ravi Rs 4,500 were credited to Ramesh's account in the ledger. The rectifying entry is:",
      "options": [
-      "Make a new ledger",
-      "Ignore it",
-      "Recheck the totals and balances of accounts, then the postings",
-      "Close the books"
-     ],
-     "correct_index": 2,
-     "explanation": "Then check the journal."
-    },
-    {
-     "question_text": "A transposition error is where digits are interchanged; the difference is always:",
-     "options": [
-      "A multiple of 100",
-      "Divisible by 9",
-      "Odd",
-      "Divisible by 5"
-     ],
-     "correct_index": 1,
-     "explanation": "E.g., 54 written as 45 gives a difference of 9."
-    },
-    {
-     "question_text": "A slide error is:",
-     "options": [
-      "Shifting the decimal or digit places, e.g., 500 written as 5,000",
-      "Omission",
-      "Duplication",
-      "Interchanging digits"
+      "Dr Ramesh 4,500; Cr Ravi 4,500",
+      "Dr Ravi 4,500; Cr Ramesh 4,500",
+      "Dr Ramesh 4,500; Cr Sales 4,500",
+      "Dr Sales 4,500; Cr Ravi 4,500"
      ],
      "correct_index": 0,
-     "explanation": "The difference is divisible by 9."
+     "explanation": "Wrong personal account: commission."
     },
     {
-     "question_text": "A difference equal to half of the amount of an error suggests:",
+     "question_text": "The trial balance debit side was short by Rs 800 and the difference was put to a suspense account. It was later found that a sale of Rs 800 was credited to sales but omitted from the debtor's account. The rectification entry is:",
      "options": [
-      "Compensating error",
-      "Transposition",
-      "Omission",
-      "The amount was posted on the wrong side"
-     ],
-     "correct_index": 3,
-     "explanation": "A wrong-side posting causes a difference of twice the amount."
-    },
-    {
-     "question_text": "A suspense account is:",
-     "options": [
-      "An expense",
-      "An asset",
-      "A temporary account to carry a trial balance difference until errors are found",
-      "A final account"
+      "Dr Suspense 800; Cr Debtor 800",
+      "Dr Debtor 800; Cr Sales 800",
+      "Dr Debtor 800; Cr Suspense 800",
+      "Dr Sales 800; Cr Suspense 800"
      ],
      "correct_index": 2,
-     "explanation": "It is cleared after rectification."
+     "explanation": "Debtor's debit was omitted."
     },
     {
-     "question_text": "A suspense account is opened to:",
+     "question_text": "A credit sale of Rs 6,000 to Mr. X was entirely omitted from the books. The rectification is:",
      "options": [
-      "Replace the ledger",
-      "Reduce tax",
-      "Increase profit",
-      "Make the trial balance agree when the difference cannot be located"
-     ],
-     "correct_index": 3,
-     "explanation": "Errors are found later."
-    },
-    {
-     "question_text": "When the debit side of the trial balance is short, the suspense account is placed on the:",
-     "options": [
-      "Either side",
-      "Credit side",
-      "Neither side",
-      "Debit side"
-     ],
-     "correct_index": 3,
-     "explanation": "It balances the debit side."
-    },
-    {
-     "question_text": "The suspense account is closed by:",
-     "options": [
-      "Transferring to capital",
-      "Transferring to sales",
-      "Ignoring it",
-      "Rectifying errors using it, until its balance becomes nil"
-     ],
-     "correct_index": 3,
-     "explanation": "The corrected entries clear it."
-    },
-    {
-     "question_text": "A remaining suspense balance is shown in the final accounts on:",
-     "options": [
-      "The trading account",
-      "Nowhere",
-      "The profit and loss account",
-      "The balance sheet (assets if debit, liabilities if credit)"
-     ],
-     "correct_index": 3,
-     "explanation": "It is treated as a balance sheet item until located."
-    },
-    {
-     "question_text": "Errors are rectified:",
-     "options": [
-      "Before the preparation of final accounts or after",
-      "Only before",
-      "Only after",
-      "Never"
+      "Dr Mr. X 6,000; Cr Sales 6,000",
+      "Dr Sales 6,000; Cr Mr. X 6,000",
+      "Dr Mr. X 6,000; Cr Suspense 6,000",
+      "Dr Suspense 6,000; Cr Sales 6,000"
      ],
      "correct_index": 0,
-     "explanation": "Methods differ in each case."
-    },
-    {
-     "question_text": "The steps in rectification are:",
-     "options": [
-      "Close accounts",
-      "Ignore it",
-      "Delete entries",
-      "Identify the error, find the correct entry, and pass a rectifying entry"
-     ],
-     "correct_index": 3,
-     "explanation": "Pass the entry to correct the effect."
-    },
-    {
-     "question_text": "The Profit and Loss Adjustment Account is used when:",
-     "options": [
-      "The books are closed",
-      "There are no errors",
-      "The trial balance agrees",
-      "Errors are rectified after the final accounts have been prepared and profit is affected"
-     ],
-     "correct_index": 3,
-     "explanation": "Its balance is transferred to capital."
-    },
-    {
-     "question_text": "Goods sold to Mohan Rs 5,000 not recorded. Rectification:",
-     "options": [
-      "Sales Dr to Mohan",
-      "Mohan Dr 5,000 to Sales 5,000",
-      "Mohan Dr to Purchases",
-      "Cash Dr to Sales"
-     ],
-     "correct_index": 1,
      "explanation": "Complete omission."
+    },
+    {
+     "question_text": "The omission of the credit sale above (before rectification) would lead to:",
+     "options": [
+      "Understatement of profit only",
+      "Understatement of profit and debtors",
+      "Overstatement of profit and debtors",
+      "Understatement of debtors only"
+     ],
+     "correct_index": 1,
+     "explanation": "Sales and debtors both missing."
+    },
+    {
+     "question_text": "Furniture sold for Rs 10,000 was credited to the sales account. The rectifying entry is:",
+     "options": [
+      "Dr Sales 10,000; Cr Furniture 10,000",
+      "Dr Sales 10,000; Cr Suspense 10,000",
+      "Dr Cash 10,000; Cr Sales 10,000",
+      "Dr Furniture 10,000; Cr Sales 10,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Sale of an asset."
+    },
+    {
+     "question_text": "A credit sale of Rs 2,500 to Mohan was wrongly debited to the account of Mohit, another debtor. This is an error of:",
+     "options": [
+      "Omission, since the sale was left out of the books",
+      "Compensation, since another error cancelled this one",
+      "Principle, since a capital item was treated as revenue",
+      "Commission, since a wrong personal account was used"
+     ],
+     "correct_index": 3,
+     "explanation": "Wrong account of the same type."
+    },
+    {
+     "question_text": "Rs 2,000 paid as rent was debited to the landlord's personal account. This is rectified by:",
+     "options": [
+      "Dr Suspense 2,000; Cr Landlord 2,000",
+      "Dr Rent 2,000; Cr Suspense 2,000",
+      "Dr Rent 2,000; Cr Landlord 2,000",
+      "Dr Landlord 2,000; Cr Rent 2,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Rent expense not recorded."
+    },
+    {
+     "question_text": "The sales book is overcast by Rs 1,000. The rectifying entry is:",
+     "options": [
+      "Dr Debtors 1,000; Cr Sales 1,000",
+      "Dr Sales 1,000; Cr Debtors 1,000",
+      "Dr Suspense 1,000; Cr Sales 1,000",
+      "Dr Sales 1,000; Cr Suspense 1,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Sales is overstated (credit too high), so debit it."
+    },
+    {
+     "question_text": "The purchase book is undercast by Rs 1,500. The rectifying entry is:",
+     "options": [
+      "Dr Purchases 1,500; Cr Suspense 1,500",
+      "Dr Purchases 1,500; Cr Creditors 1,500",
+      "Dr Suspense 1,500; Cr Purchases 1,500",
+      "Dr Creditors 1,500; Cr Purchases 1,500"
+     ],
+     "correct_index": 0,
+     "explanation": "Purchases debit short."
+    },
+    {
+     "question_text": "Which of the following errors will not affect the trial balance?",
+     "options": [
+      "Totalling error in the cash book",
+      "Posting to wrong side of an account",
+      "Posting a wrong amount in one account",
+      "Omission of an entire transaction"
+     ],
+     "correct_index": 3,
+     "explanation": "Both effects omitted."
+    },
+    {
+     "question_text": "Which of the following errors affects the trial balance?",
+     "options": [
+      "Casting error of a subsidiary book",
+      "Compensating errors",
+      "Error of commission within accounts of same type",
+      "Error of principle"
+     ],
+     "correct_index": 0,
+     "explanation": "One-sided."
+    },
+    {
+     "question_text": "The error of compensation arises when:",
+     "options": [
+      "The amount recorded is wrong in both the accounts",
+      "Both the aspects are omitted from the books",
+      "One error causes loss to the other party",
+      "Two or more errors cancel each other in their effect"
+     ],
+     "correct_index": 3,
+     "explanation": "Net effect nil."
+    },
+    {
+     "question_text": "An error that is committed in the original book, with the same wrong amount in both accounts, is an error of:",
+     "options": [
+      "Original entry",
+      "Omission",
+      "Commission",
+      "Compensation"
+     ],
+     "correct_index": 0,
+     "explanation": "Both the sides are wrong by the same amount."
+    },
+    {
+     "question_text": "Purchase of goods Rs 5,400 was recorded as Rs 4,500 in the purchases book and the creditor's account. The rectification is:",
+     "options": [
+      "Dr Purchases 900; Cr Suspense 900",
+      "Dr Creditor 900; Cr Purchases 900",
+      "Dr Suspense 900; Cr Purchases 900",
+      "Dr Purchases 900; Cr Creditor 900"
+     ],
+     "correct_index": 3,
+     "explanation": "Both under-recorded by 900."
+    },
+    {
+     "question_text": "The effect of the above error on gross profit is that:",
+     "options": [
+      "The gross profit is understated by Rs 900",
+      "The net profit alone is affected",
+      "The gross profit is not affected",
+      "The gross profit is overstated by Rs 900"
+     ],
+     "correct_index": 3,
+     "explanation": "Purchases understated."
+    },
+    {
+     "question_text": "Goods worth Rs 3,000 returned by a customer were not recorded anywhere. The rectification is:",
+     "options": [
+      "Dr Customer 3,000; Cr Sales returns 3,000",
+      "Dr Sales returns 3,000; Cr Suspense 3,000",
+      "Dr Suspense 3,000; Cr Sales returns 3,000",
+      "Dr Sales returns 3,000; Cr Customer 3,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Omission."
+    },
+    {
+     "question_text": "The effect of the omission of the above return, before correction, is on the:",
+     "options": [
+      "No account",
+      "Net purchases overstated",
+      "Net sales and debtors both overstated",
+      "Net sales and debtors both understated"
+     ],
+     "correct_index": 2,
+     "explanation": "Return not recorded."
+    },
+    {
+     "question_text": "Rs 700 received from X was posted to the credit of Y. The rectification is:",
+     "options": [
+      "Dr X 700; Cr Y 700",
+      "Dr Y 700; Cr X 700",
+      "Dr Y 700; Cr Cash 700",
+      "Dr Cash 700; Cr Y 700"
+     ],
+     "correct_index": 1,
+     "explanation": "Wrong personal account."
+    },
+    {
+     "question_text": "A sale of Rs 900 was posted to the debit of the debtor but not posted to the credit of sales. The trial balance would show:",
+     "options": [
+      "A balanced trial balance",
+      "Credit side short by Rs 900",
+      "Credit side excess by Rs 900",
+      "Debit side short by Rs 900"
+     ],
+     "correct_index": 1,
+     "explanation": "One-sided."
+    },
+    {
+     "question_text": "For the above, the rectification entry is:",
+     "options": [
+      "Dr Suspense 900; Cr Sales 900",
+      "Dr Sales 900; Cr Debtor 900",
+      "Dr Debtor 900; Cr Sales 900",
+      "Dr Sales 900; Cr Suspense 900"
+     ],
+     "correct_index": 0,
+     "explanation": "Credit sales is missing."
+    },
+    {
+     "question_text": "Wages Rs 2,500 paid for the installation of machinery were debited to wages. The rectification is:",
+     "options": [
+      "Dr Machinery 2,500; Cr Wages 2,500",
+      "Dr Machinery 2,500; Cr Cash 2,500",
+      "Dr Capital 2,500; Cr Wages 2,500",
+      "Dr Wages 2,500; Cr Machinery 2,500"
+     ],
+     "correct_index": 0,
+     "explanation": "Capitalising."
+    },
+    {
+     "question_text": "The correction in the above case will:",
+     "options": [
+      "Increase profit and increase assets",
+      "Increase profit and decrease assets",
+      "Decrease profit and decrease assets",
+      "Decrease profit and increase assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Wages expense reduced, machinery raised."
+    },
+    {
+     "question_text": "Repairs of Rs 4,000 to a building were debited to the building account. The rectification is:",
+     "options": [
+      "Dr Capital 4,000; Cr Repairs 4,000",
+      "Dr Building 4,000; Cr Repairs 4,000",
+      "Dr Repairs 4,000; Cr Building 4,000",
+      "Dr Repairs 4,000; Cr Cash 4,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Revenue expense treated as capital."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 6: Rectification of Errors – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Furniture purchased Rs 10,000 debited to Purchases. Rectification:",
+     "question_text": "The above error, until rectified, causes:",
      "options": [
-      "Cash Dr to Furniture",
-      "Furniture Dr 10,000 to Purchases 10,000",
-      "Purchases Dr to Furniture",
-      "Furniture Dr to Cash"
+      "Understatement of profit and assets",
+      "Understatement of profit with overstatement of assets",
+      "Overstatement of profit with an understatement of assets",
+      "Overstatement of profit and assets"
      ],
-     "correct_index": 1,
-     "explanation": "Error of principle."
+     "correct_index": 3,
+     "explanation": "Expense capitalised."
     },
     {
-     "question_text": "Cash received from X Rs 2,000 debited to X's account instead of credited. Rectification:",
+     "question_text": "The owner's private expense Rs 3,000 paid by the firm was debited to the general expense. The rectification is:",
      "options": [
-      "X Dr 2,000 to Cash",
-      "X Dr 4,000 to Suspense",
-      "Suspense Dr 4,000 to X 4,000",
-      "Cash Dr 2,000 to X"
+      "Dr Drawings 3,000; Cr General expenses 3,000",
+      "Dr General expenses 3,000; Cr Drawings 3,000",
+      "Dr Drawings 3,000; Cr Cash 3,000",
+      "Dr Capital 3,000; Cr Suspense 3,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Personal use."
+    },
+    {
+     "question_text": "Closing stock was omitted in the final accounts. The effect is:",
+     "options": [
+      "Understatement of gross profit and of assets",
+      "Understatement of liabilities",
+      "No effect on profit",
+      "Overstatement of gross profit and of assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Closing stock credited to trading."
+    },
+    {
+     "question_text": "Closing stock overvalued by Rs 5,000. The effect is:",
+     "options": [
+      "Understated profit by Rs 5,000, overstated assets",
+      "Understated profit, understated assets",
+      "Overstated profit, understated assets",
+      "Overstated profit by Rs 5,000, overstated assets by Rs 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Higher closing stock increases GP."
+    },
+    {
+     "question_text": "Opening stock overvalued by Rs 4,000. The effect on profit is:",
+     "options": [
+      "Profit is overstated by Rs 4,000",
+      "Profit is understated by Rs 4,000",
+      "No effect",
+      "Profit overstated and assets overstated"
+     ],
+     "correct_index": 1,
+     "explanation": "Higher cost of goods sold."
+    },
+    {
+     "question_text": "Goods bought on credit from Mr. P, Rs 7,500, were entered in the sales book. The rectification is:",
+     "options": [
+      "Dr P 7,500; Cr Sales 7,500",
+      "Dr Purchases 7,500; Cr Suspense 7,500",
+      "Dr Sales 7,500; Cr Purchases 7,500",
+      "Dr Purchases 7,500; Cr Sales 7,500"
+     ],
+     "correct_index": 3,
+     "explanation": "Moves the item to purchases and cancels sales."
+    },
+    {
+     "question_text": "Rs 2,000 cash discount allowed was debited to discount received account. The rectification is:",
+     "options": [
+      "Dr Discount allowed 4,000; Cr Discount received 4,000",
+      "Dr Suspense 4,000; Cr Discount received 4,000",
+      "Dr Discount received 2,000; Cr Discount allowed 2,000",
+      "Dr Discount allowed 2,000; Cr Discount received 2,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Debited instead of credit; effect is double."
+    },
+    {
+     "question_text": "The trial balance debit side was short by Rs 5,000 and the difference was put in suspense. It was later found that the total of the sales returns book was not posted to the sales returns account. The rectification entry is:",
+     "options": [
+      "Dr Sales 5,000; Cr Suspense 5,000",
+      "Dr Suspense 5,000; Cr Sales returns 5,000",
+      "Dr Suspense 5,000; Cr Sales 5,000",
+      "Dr Sales returns 5,000; Cr Suspense 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "The missing debit is supplied."
+    },
+    {
+     "question_text": "A bill receivable of Rs 8,000 was dishonoured but no entry was made. The rectification is:",
+     "options": [
+      "Dr Debtor 8,000; Cr Cash 8,000",
+      "Dr Debtor 8,000; Cr Bills receivable 8,000",
+      "Dr Bank 8,000; Cr Bills receivable 8,000",
+      "Dr Bills receivable 8,000; Cr Debtor 8,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Omission."
+    },
+    {
+     "question_text": "The balance of an account was carried forward as Rs 7,000 instead of Rs 7,600, leading to the trial balance difference of Rs 600 (debit side short). Suspense is:",
+     "options": [
+      "Dr suspense Rs 7,600",
+      "Cr suspense Rs 600",
+      "Dr suspense Rs 600",
+      "No suspense"
      ],
      "correct_index": 2,
-     "explanation": "The debit is reversed and the credit is made: 2,000 × 2."
+     "explanation": "Debit total less by 600."
     },
     {
-     "question_text": "Rent paid Rs 3,000 credited to Rent instead of debited. Rectification:",
+     "question_text": "A trial balance difference arises because the balance of an account was carried to the wrong side. The difference is:",
      "options": [
-      "Rent Dr 6,000 to Suspense 6,000",
-      "Cash Dr 3,000 to Rent",
-      "Rent Dr 3,000 to Cash",
-      "Suspense Dr 6,000 to Rent"
-     ],
-     "correct_index": 0,
-     "explanation": "The correction needs 2 × 3,000."
-    },
-    {
-     "question_text": "Salary Rs 5,000 debited to Rent. Rectification:",
-     "options": [
-      "Salary Dr 5,000 to Rent 5,000",
-      "Salary Dr to Cash",
-      "Rent Dr to Salary",
-      "Cash Dr to Salary"
-     ],
-     "correct_index": 0,
-     "explanation": "Wrong account (commission)."
-    },
-    {
-     "question_text": "Goods purchased from A Rs 4,000 posted to B's account. Rectification:",
-     "options": [
-      "B Dr 4,000 to A 4,000",
-      "B Dr to Purchases",
-      "Purchases Dr to B",
-      "A Dr 4,000 to B"
-     ],
-     "correct_index": 0,
-     "explanation": "B's credit is reversed and A credited."
-    },
-    {
-     "question_text": "Purchases book overcast by Rs 1,000. Rectification:",
-     "options": [
-      "Suspense Dr to Cash",
-      "Suspense Dr 1,000 to Purchases 1,000",
-      "Cash Dr to Purchases",
-      "Purchases Dr to Suspense"
-     ],
-     "correct_index": 1,
-     "explanation": "Purchases was debited too much."
-    },
-    {
-     "question_text": "Sales book undercast by Rs 2,000. Rectification:",
-     "options": [
-      "Sales Dr to Cash",
-      "Suspense Dr 2,000 to Sales 2,000",
-      "Cash Dr to Sales",
-      "Sales Dr 2,000 to Suspense"
-     ],
-     "correct_index": 1,
-     "explanation": "Sales was credited too little."
-    },
-    {
-     "question_text": "Wages Rs 5,000 for installing machinery debited to Wages. Rectification:",
-     "options": [
-      "Machinery Dr 5,000 to Wages 5,000",
-      "Cash Dr to Machinery",
-      "Wages Dr to Machinery",
-      "Machinery Dr to Cash"
-     ],
-     "correct_index": 0,
-     "explanation": "Installation cost is capitalised."
-    },
-    {
-     "question_text": "Sale of old machinery Rs 7,000 credited to Sales. Rectification:",
-     "options": [
-      "Sales Dr to Cash",
-      "Machinery Dr to Sales",
-      "Cash Dr to Sales",
-      "Sales Dr 7,000 to Machinery 7,000"
+      "Zero",
+      "Half the balance",
+      "Equal to the balance",
+      "Double the balance"
      ],
      "correct_index": 3,
-     "explanation": "Sales is for goods only."
+     "explanation": "Wrong side error."
     },
     {
-     "question_text": "Drawings Rs 3,000 debited to Salary. Rectification:",
+     "question_text": "The rent account total (Rs 30,000) was posted as Rs 3,000 on the debit side. The effect is that the trial balance debit side is short by:",
      "options": [
-      "Salary Dr to Drawings",
-      "Drawings Dr 3,000 to Salary 3,000",
-      "Capital Dr to Salary",
-      "Cash Dr to Drawings"
-     ],
-     "correct_index": 1,
-     "explanation": "Reclassify as drawings."
-    },
-    {
-     "question_text": "Goods returned by a customer Rs 500 not recorded. Rectification:",
-     "options": [
-      "Cash Dr to Customer",
-      "Sales Returns Dr 500 to Customer 500",
-      "Sales Dr to Customer",
-      "Customer Dr to Sales Returns"
-     ],
-     "correct_index": 1,
-     "explanation": "Complete omission."
-    },
-    {
-     "question_text": "Goods returned to a supplier Rs 1,200 posted to Sales Returns. Rectification:",
-     "options": [
-      "Sales Dr to Supplier",
-      "Supplier Dr to Sales Returns",
-      "Purchases Returns Dr to Sales Returns",
-      "Sales Returns Dr 1,200 to Purchases Returns 1,200"
+      "Rs 30,000",
+      "Rs 33,000",
+      "Rs 3,000",
+      "Rs 27,000"
      ],
      "correct_index": 3,
-     "explanation": "Reclassify to the correct account."
+     "explanation": "Difference."
     },
     {
-     "question_text": "Insurance paid Rs 2,000 for the proprietor's life policy debited to Insurance. Rectification:",
+     "question_text": "Rectification of errors before the preparation of final accounts uses:",
      "options": [
-      "Cash Dr to Drawings",
-      "Drawings Dr 2,000 to Insurance 2,000",
-      "Insurance Dr to Drawings",
-      "Capital Dr to Insurance"
+      "Only the capital account",
+      "Suspense account and the affected accounts",
+      "Only the profit and loss account",
+      "Only the cash account"
      ],
      "correct_index": 1,
-     "explanation": "Personal expense."
+     "explanation": "Adjusting."
     },
     {
-     "question_text": "Cheque received from Y Rs 6,000 recorded twice in the cash book. Rectification:",
+     "question_text": "After the final accounts are prepared, errors affecting nominal accounts of the closed year are rectified through:",
      "options": [
-      "Bank Dr to Y",
-      "Y Dr 6,000 to Bank 6,000",
-      "Cash Dr to Y",
-      "Y Dr to Cash"
+      "The balance sheet of the year, by altering its figures",
+      "The trading account of the year that has been closed",
+      "The capital account of the proprietor, without any other entry",
+      "The profit and loss adjustment account of the current year"
      ],
-     "correct_index": 1,
-     "explanation": "The duplicate receipt is reversed."
+     "correct_index": 3,
+     "explanation": "Closed accounts cannot be reopened."
     },
     {
-     "question_text": "Purchases of Rs 2,500 recorded as Rs 5,200 in both aspects. Rectification:",
+     "question_text": "The profit and loss adjustment account is opened when:",
      "options": [
-      "Creditor Dr 2,700 to Purchases 2,700",
-      "Purchases Dr 5,200",
-      "Creditor Dr 2,500 to Purchases",
-      "Purchases Dr 2,700 to Creditor"
+      "Errors are discovered before the books have been closed for the year",
+      "There is a shortage of cash found at the time of verification",
+      "Fresh capital is introduced into the business by the proprietor",
+      "Errors are discovered after the final accounts have been prepared"
      ],
-     "correct_index": 0,
-     "explanation": "The excess is 5,200 − 2,500."
+     "correct_index": 3,
+     "explanation": "To correct the previous year's profit."
     },
     {
-     "question_text": "Commission paid Rs 900 recorded as Rs 90 (both sides). Rectification:",
+     "question_text": "A rectification affecting the profit of the previous year is routed through:",
      "options": [
-      "Commission Dr 810 to Cash 810",
-      "Cash Dr 90",
-      "Cash Dr 810 to Commission",
-      "Commission Dr 900"
-     ],
-     "correct_index": 0,
-     "explanation": "The shortfall is 810."
-    },
-    {
-     "question_text": "Salary Rs 4,000 paid but not debited to Salary A/c (cash credited). Rectification:",
-     "options": [
-      "Cash Dr to Salary",
-      "Salary Dr 4,000 to Suspense 4,000",
-      "Salary Dr to Cash",
-      "Suspense Dr to Salary"
-     ],
-     "correct_index": 1,
-     "explanation": "Debit side was short."
-    },
-    {
-     "question_text": "Rs 800 received from Z posted to Z's account but not recorded in the cash book. Rectification:",
-     "options": [
-      "Z Dr to Cash",
-      "Cash Dr 800 to Suspense 800",
-      "Cash Dr to Z",
-      "Suspense Dr to Cash"
-     ],
-     "correct_index": 1,
-     "explanation": "The cash debit was omitted."
-    },
-    {
-     "question_text": "Interest on capital Rs 600 not provided. Rectification:",
-     "options": [
-      "Capital Dr to Interest on Capital",
-      "Cash Dr to Capital",
-      "Interest on Capital Dr 600 to Capital 600",
-      "Interest Dr to Cash"
+      "The cash account of the current year",
+      "The trial balance of the current year",
+      "The profit and loss adjustment account",
+      "The drawings account of the proprietor"
      ],
      "correct_index": 2,
-     "explanation": "Complete omission."
+     "explanation": "Reflect adjustments."
     },
     {
-     "question_text": "Bad debts Rs 1,500 written off but not posted to Bad Debts A/c. Rectification:",
+     "question_text": "An error of Rs 1,200 in not charging depreciation is rectified (next year) by:",
      "options": [
-      "Debtor Dr to Bad Debts",
-      "Suspense Dr to Bad Debts",
-      "Bad Debts Dr to Debtor",
-      "Bad Debts Dr 1,500 to Suspense 1,500"
+      "Dr Asset 1,200; Cr Profit and loss adjustment 1,200",
+      "Dr Profit and loss adjustment 1,200; Cr Asset 1,200",
+      "Dr Depreciation 1,200; Cr Cash 1,200",
+      "Dr Capital 1,200; Cr Cash 1,200"
      ],
-     "correct_index": 3,
-     "explanation": "The debit to Bad Debts was omitted."
+     "correct_index": 1,
+     "explanation": "Charge."
     },
     {
-     "question_text": "Cash discount allowed Rs 150 recorded in the cash book but not posted. Rectification:",
+     "question_text": "The accuracy of the books is NOT proved by the trial balance, as it can't detect:",
      "options": [
-      "Suspense Dr to Discount Allowed",
-      "Discount Dr to Cash",
-      "Cash Dr to Discount",
-      "Discount Allowed Dr 150 to Suspense 150"
+      "Errors of casting",
+      "Errors of principle",
+      "Errors of posting on wrong sides",
+      "Errors of wrong totalling"
      ],
-     "correct_index": 3,
-     "explanation": "The debit posting to Discount Allowed was omitted."
+     "correct_index": 1,
+     "explanation": "Does not detect those errors."
     },
     {
-     "question_text": "A creditor's account credited Rs 770 instead of Rs 700. Rectification:",
+     "question_text": "Net profit as per the books is Rs 80,000. Closing stock was overvalued by Rs 6,000, outstanding salary of Rs 4,000 was omitted, and a sale of Rs 3,000 (cost Rs 2,000) was omitted. The corrected profit is:",
      "options": [
-      "Creditor Dr 700",
-      "Suspense Dr 70 to Creditor",
-      "Creditor Dr 70 to Suspense 70",
-      "Suspense Dr 770"
-     ],
-     "correct_index": 2,
-     "explanation": "The credit was overstated by 70."
-    },
-    {
-     "question_text": "Repair expenses Rs 600 debited to Building A/c. Rectification:",
-     "options": [
-      "Repairs Dr 600 to Building 600",
-      "Building Dr to Repairs",
-      "Cash Dr to Repairs",
-      "Repairs Dr to Cash"
+      "Rs 71,000",
+      "Rs 77,000",
+      "Rs 70,000",
+      "Rs 69,000"
      ],
      "correct_index": 0,
-     "explanation": "Revenue expenditure treated as capital."
+     "explanation": "80 − 6 − 4 + (3 − 2)."
     },
     {
-     "question_text": "Credit sale of Rs 8,000 to P posted as Rs 800 in P's account. Rectification:",
+     "question_text": "A statement of corrected profit takes the starting point as:",
      "options": [
-      "Suspense Dr 7,200 to P",
-      "P Dr 7,200 to Suspense 7,200",
-      "P Dr 8,000",
-      "Suspense Dr 800"
+      "Gross profit given",
+      "Capital",
+      "Profit given in the books",
+      "Sales"
      ],
-     "correct_index": 1,
-     "explanation": "P was debited 800 instead of 8,000."
+     "correct_index": 2,
+     "explanation": "Adjust."
     },
     {
-     "question_text": "Rs 3,000 paid to creditor Q debited to Q's account twice. Rectification:",
+     "question_text": "The following mistakes in the books: wages Rs 1,500 for erection of a machine debited to wages (profit rises on rectification by Rs 1,500); depreciation on this at 10% for the year. Net effect on profit is:",
      "options": [
-      "Q Dr 3,000 to Suspense",
-      "Suspense Dr 3,000 to Q 3,000",
-      "Suspense Dr 6,000",
-      "Q Dr 6,000"
+      "Increase of Rs 1,350",
+      "Increase of Rs 1,500",
+      "Increase of Rs 150",
+      "Decrease of Rs 150"
+     ],
+     "correct_index": 0,
+     "explanation": "1,500 − 150."
+    },
+    {
+     "question_text": "Interest on drawings charged to the proprietor Rs 800 was omitted. Net profit would be:",
+     "options": [
+      "Unchanged",
+      "Understated by Rs 800",
+      "Overstated by Rs 1,600",
+      "Overstated by Rs 800"
      ],
      "correct_index": 1,
-     "explanation": "The extra debit is reversed."
+     "explanation": "An income omitted."
+    },
+    {
+     "question_text": "Sales of Rs 15,000 recorded twice (debtors posted once). Profit is:",
+     "options": [
+      "Overstated by Rs 15,000",
+      "Overstated by Rs 30,000",
+      "Understated by Rs 15,000",
+      "Unchanged"
+     ],
+     "correct_index": 0,
+     "explanation": "Excess sales credit."
+    },
+    {
+     "question_text": "Which of these errors is revealed by the trial balance?",
+     "options": [
+      "Failure to record a transaction",
+      "Recording a capital item as revenue",
+      "Posting a purchase to a wrong account of the same nature",
+      "Posting a purchase to the wrong side"
+     ],
+     "correct_index": 3,
+     "explanation": "Imbalance."
+    },
+    {
+     "question_text": "Errors of principle can be corrected by:",
+     "options": [
+      "An entry through the suspense account, to balance the books",
+      "A bank reconciliation statement prepared with the pass book",
+      "A journal entry alone, as the trial balance is not affected",
+      "An adjustment made directly to the closing capital balance"
+     ],
+     "correct_index": 2,
+     "explanation": "No suspense is needed."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 6: Rectification of Errors – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Goods worth Rs 1,000 taken by the proprietor not entered. Rectification:",
+     "question_text": "A cash purchase of goods for Rs 6,000 was recorded as a credit purchase in the purchases book. The trial balance:",
      "options": [
-      "Drawings Dr 1,000 to Purchases 1,000",
-      "Cash Dr to Drawings",
-      "Capital Dr to Purchases",
-      "Purchases Dr to Drawings"
-     ],
-     "correct_index": 0,
-     "explanation": "Complete omission."
-    },
-    {
-     "question_text": "Stationery Rs 700 debited to Purchases. Rectification:",
-     "options": [
-      "Stationery Dr to Cash",
-      "Cash Dr to Stationery",
-      "Purchases Dr to Stationery",
-      "Stationery Dr 700 to Purchases 700"
+      "Does not agree and shows a difference of Rs 12,000",
+      "Does not agree and shows a difference of Rs 6,000",
+      "Agrees, and every account in the ledger is correct",
+      "Agrees, though the supplier's account shows a wrong balance"
      ],
      "correct_index": 3,
-     "explanation": "Wrong account."
+     "explanation": "Both aspects were recorded."
     },
     {
-     "question_text": "Credit purchase of machinery Rs 25,000 recorded in the Purchases book. Rectification:",
+     "question_text": "A credit sale to Mr. A recorded in Mr. B's account instead. The trial balance:",
      "options": [
-      "Purchases Dr to Machinery",
-      "Machinery Dr to Supplier",
-      "Machinery Dr 25,000 to Purchases 25,000",
-      "Supplier Dr to Machinery"
+      "Is not prepared",
+      "Shows a difference",
+      "Is not affected",
+      "Shows suspense"
      ],
      "correct_index": 2,
-     "explanation": "Error of principle."
+     "explanation": "Same side, same amount."
     },
     {
-     "question_text": "Loan received Rs 15,000 credited to Sales. Rectification:",
+     "question_text": "If an account is balanced wrongly, the trial balance will be:",
      "options": [
-      "Sales Dr to Cash",
-      "Loan Dr to Sales",
-      "Cash Dr to Loan",
-      "Sales Dr 15,000 to Loan 15,000"
-     ],
-     "correct_index": 3,
-     "explanation": "Wrong credit."
-    },
-    {
-     "question_text": "Carriage inwards Rs 400 debited to Carriage outwards. Rectification:",
-     "options": [
-      "Carriage Inwards Dr 400 to Carriage Outwards 400",
-      "Carriage Dr to Cash",
-      "Cash Dr to Carriage",
-      "Carriage Outwards Dr to Carriage Inwards"
+      "Disagreeing",
+      "Doubled",
+      "Not prepared",
+      "Agreeing"
      ],
      "correct_index": 0,
-     "explanation": "Wrong account."
+     "explanation": "One-sided error."
     },
     {
-     "question_text": "Bank interest Rs 500 credited to Commission Received. Rectification:",
+     "question_text": "The suspense account is closed when:",
      "options": [
-      "Interest Received Dr to Commission",
-      "Commission Received Dr 500 to Interest Received 500",
-      "Commission Dr to Bank",
-      "Bank Dr to Commission"
+      "All errors are located and rectified",
+      "The trial balance is prepared",
+      "Profit is calculated",
+      "The final accounts are drawn"
+     ],
+     "correct_index": 0,
+     "explanation": "It must be nil."
+    },
+    {
+     "question_text": "If a suspense account remains open at the year end, it is shown in the balance sheet as:",
+     "options": [
+      "An asset in all cases, whatever the nature of the balance",
+      "An asset if it has a debit balance, a liability if credit",
+      "A liability in all cases, whatever the nature of the balance",
+      "A deduction from the closing capital of the proprietor"
      ],
      "correct_index": 1,
-     "explanation": "Wrong income account."
+     "explanation": "Placed in the balance sheet."
     },
     {
-     "question_text": "Rs 2,000 debited to Ravi's account instead of Ramesh's. Rectification:",
+     "question_text": "A suspense account shows a debit balance of Rs 2,000. Which error could explain it?",
      "options": [
-      "Cash Dr to Ravi",
-      "Ravi Dr to Ramesh",
-      "Ramesh Dr 2,000 to Ravi 2,000",
-      "Ramesh Dr to Cash"
-     ],
-     "correct_index": 2,
-     "explanation": "Wrong personal account."
-    },
-    {
-     "question_text": "Salary Rs 12,000 paid to the proprietor's wife (not for business). Rectification:",
-     "options": [
-      "Salary Dr to Drawings",
-      "Cash Dr to Salary",
-      "Drawings Dr 12,000 to Salary 12,000",
-      "Capital Dr to Salary"
-     ],
-     "correct_index": 2,
-     "explanation": "Personal expense."
-    },
-    {
-     "question_text": "Sale to Gopal Rs 6,000 recorded as Rs 600 in both books. Rectification:",
-     "options": [
-      "Gopal Dr 5,400 to Sales 5,400",
-      "Gopal Dr 6,000",
-      "Sales Dr 600",
-      "Sales Dr 5,400 to Gopal"
+      "A credit entry of Rs 2,000 posted twice in the ledger",
+      "An undercast of the credit side of an account by Rs 2,000",
+      "A debit entry of Rs 2,000 posted twice in the ledger",
+      "An overcast of the debit side of an account by Rs 2,000"
      ],
      "correct_index": 0,
-     "explanation": "Shortfall of 5,400."
+     "explanation": "Credit side was in excess."
     },
     {
-     "question_text": "Rs 2,100 paid to a creditor but debited as Rs 1,200. Rectification:",
+     "question_text": "If the total of the purchases book was undercast by Rs 2,000 the effect on profit before rectification is:",
      "options": [
-      "Creditor Dr 900 to Suspense 900",
-      "Creditor Dr 2,100",
-      "Suspense Dr 900 to Creditor",
-      "Suspense Dr 1,200"
+      "Overstatement of the gross profit by Rs 2,000",
+      "Overstatement of assets",
+      "Understatement of the gross profit by Rs 2,000",
+      "No effect"
      ],
      "correct_index": 0,
-     "explanation": "The shortfall in the debit is 900."
+     "explanation": "Costs under-recorded."
     },
     {
-     "question_text": "Rs 10,000 received from a debtor credited to a creditor's account. Rectification:",
+     "question_text": "The effect of the sales book undercast by Rs 5,000 on the gross profit is:",
      "options": [
-      "Cash Dr to Debtor",
-      "Creditor Dr 10,000 to Debtor 10,000",
-      "Debtor Dr to Creditor",
-      "Creditor Dr to Cash"
+      "No effect",
+      "Doubled",
+      "Understatement",
+      "Overstatement"
      ],
-     "correct_index": 1,
-     "explanation": "Wrong personal account."
+     "correct_index": 2,
+     "explanation": "Revenue under-recorded."
     },
     {
-     "question_text": "Cash sales of Rs 9,000 not entered at all. Rectification:",
+     "question_text": "Interest paid Rs 600 was debited to loan account. The rectification:",
      "options": [
-      "Cash Dr 9,000 to Sales 9,000",
-      "Sales Dr to Cash",
-      "Sales Dr to Suspense",
-      "Cash Dr to Suspense"
+      "Dr Interest 600; Cr Loan 600",
+      "Dr Interest 600; Cr Cash 600",
+      "Dr Capital 600; Cr Interest 600",
+      "Dr Loan 600; Cr Interest 600"
      ],
      "correct_index": 0,
-     "explanation": "Complete omission."
+     "explanation": "Expense."
     },
     {
-     "question_text": "Purchases of Rs 5,000 from X credited to Y. The trial balance:",
+     "question_text": "A debit balance in the debtors' account of Rs 4,000 was taken as credit in the trial balance. The trial balance will show a difference of:",
      "options": [
-      "Is not affected",
-      "Disagrees by 5,000",
-      "Disagrees by 10,000",
-      "Is affected"
-     ],
-     "correct_index": 0,
-     "explanation": "Both sides are equal (wrong person)."
-    },
-    {
-     "question_text": "Sales book totalled wrongly by Rs 100. The trial balance:",
-     "options": [
-      "Agrees",
-      "Is not affected",
-      "Is affected",
-      "Is unrelated"
-     ],
-     "correct_index": 2,
-     "explanation": "Only one account (Sales) is wrong."
-    },
-    {
-     "question_text": "Salaries paid Rs 3,000 not entered anywhere. The trial balance:",
-     "options": [
-      "Is affected",
-      "Disagrees by 6,000",
-      "Disagrees by 3,000",
-      "Is not affected"
-     ],
-     "correct_index": 3,
-     "explanation": "Complete omission."
-    },
-    {
-     "question_text": "Salary Rs 3,000 debited to Salary A/c only (cash not credited). The trial balance:",
-     "options": [
-      "Is affected",
-      "Is not affected",
-      "Agrees",
-      "Is irrelevant"
-     ],
-     "correct_index": 0,
-     "explanation": "One-sided posting."
-    },
-    {
-     "question_text": "Purchases Rs 1,000 posted twice on both aspects. The trial balance:",
-     "options": [
-      "Is affected",
-      "Disagrees by 2,000",
-      "Is not affected",
-      "Disagrees by 1,000"
-     ],
-     "correct_index": 2,
-     "explanation": "Equal debit and credit duplication."
-    },
-    {
-     "question_text": "The debit side of the Rent A/c is overcast by Rs 100. The trial balance:",
-     "options": [
-      "Is unrelated",
-      "Is not affected",
-      "Agrees",
-      "Is affected (debit total exceeds credit by 100)"
-     ],
-     "correct_index": 3,
-     "explanation": "One-sided casting error."
-    },
-    {
-     "question_text": "A trial balance difference of Rs 800 (credit short): the suspense account is opened:",
-     "options": [
-      "On either side",
-      "Not at all",
-      "On the credit side",
-      "On the debit side"
-     ],
-     "correct_index": 2,
-     "explanation": "It balances the credit side."
-    },
-    {
-     "question_text": "A trial balance difference of Rs 1,200 (debit short): the suspense account is opened:",
-     "options": [
-      "Not at all",
-      "On either side",
-      "On the debit side",
-      "On the credit side"
-     ],
-     "correct_index": 2,
-     "explanation": "It balances the debit side."
-    },
-    {
-     "question_text": "A suspense account opened with Rs 5,000 will have a balance of _____ when all errors are rectified:",
-     "options": [
-      "Rs 2,500",
-      "Rs 10,000",
+      "Rs 4,000",
+      "Rs 2,000",
       "Nil",
-      "Rs 5,000"
-     ],
-     "correct_index": 2,
-     "explanation": "It is a temporary account."
-    },
-    {
-     "question_text": "Debit total Rs 1,20,000; credit total Rs 1,25,000. The suspense account:",
-     "options": [
-      "Is debited Rs 1,25,000",
-      "Is not needed",
-      "Is credited Rs 5,000",
-      "Is debited Rs 5,000"
+      "Rs 8,000"
      ],
      "correct_index": 3,
-     "explanation": "Debits are short by 5,000."
+     "explanation": "Twice."
     },
     {
-     "question_text": "A trial balance shows credit Rs 4,50,000 and debit Rs 4,40,000. The suspense account is:",
+     "question_text": "Which statement about the use of the suspense account is correct?",
      "options": [
-      "Credited Rs 10,000",
-      "Debited Rs 4,50,000",
-      "Credited Rs 4,40,000",
-      "Debited Rs 10,000"
+      "Casting errors in a subsidiary book are rectified through suspense",
+      "Errors of commission are always rectified through suspense",
+      "Errors of principle are rectified through the suspense account",
+      "Complete omission of a transaction is rectified through suspense"
+     ],
+     "correct_index": 0,
+     "explanation": "Casting makes the trial balance disagree."
+    },
+    {
+     "question_text": "Cash received from Mr. S Rs 2,500 was wrongly recorded in the cash book as received from Mr. T. The rectification is:",
+     "options": [
+      "Dr T 2,500; Cr S 2,500",
+      "Dr Cash 2,500; Cr S 2,500",
+      "Dr T 2,500; Cr Cash 2,500",
+      "Dr S 2,500; Cr T 2,500"
+     ],
+     "correct_index": 0,
+     "explanation": "T was credited wrongly."
+    },
+    {
+     "question_text": "Interest on capital of Rs 5,000 was credited to the capital but not debited to the interest account. The rectification is:",
+     "options": [
+      "Dr Suspense 5,000; Cr Interest on capital 5,000",
+      "Dr Interest 5,000; Cr Capital 5,000",
+      "Dr Capital 5,000; Cr Suspense 5,000",
+      "Dr Interest on capital 5,000; Cr Suspense 5,000"
      ],
      "correct_index": 3,
-     "explanation": "Debit side is short by 10,000."
+     "explanation": "Debit omitted."
     },
     {
-     "question_text": "Reported profit Rs 40,000; furniture Rs 5,000 debited to purchases; installation wages Rs 2,000 debited to wages; sales Rs 3,000 omitted; rent Rs 1,000 not recorded. Corrected profit is:",
+     "question_text": "Which of the following is a compensating error?",
      "options": [
-      "Rs 51,000",
-      "Rs 49,000",
-      "Rs 47,000",
-      "Rs 40,000"
+      "Omitting a credit purchase of Rs 100 from the purchases book",
+      "Debiting A's account by Rs 100 too much and B's account by Rs 100 too little",
+      "Capitalising a revenue expenditure of Rs 100 in the books",
+      "Posting an item of Rs 100 to the wrong side of one account"
      ],
      "correct_index": 1,
-     "explanation": "40,000 + 5,000 + 2,000 + 3,000 − 1,000."
+     "explanation": "Errors cancel out."
     },
     {
-     "question_text": "Reported profit Rs 60,000; closing stock overvalued by Rs 4,000; outstanding salaries Rs 3,000 omitted; interest receivable Rs 2,000 omitted. Corrected profit is:",
+     "question_text": "A rectifying entry that does NOT need a suspense account is one for:",
      "options": [
-      "Rs 49,000",
-      "Rs 61,000",
-      "Rs 65,000",
-      "Rs 55,000"
+      "An error of casting in a subsidiary book total",
+      "An error of posting on one side of an account only",
+      "An error of carrying forward a balance wrongly",
+      "An error of principle or commission affecting two accounts"
      ],
      "correct_index": 3,
-     "explanation": "60,000 − 4,000 − 3,000 + 2,000."
+     "explanation": "Two-sided."
+    },
+    {
+     "question_text": "Rs 6,000 cash was withdrawn by the owner but was debited to salaries account. The rectification entry is:",
+     "options": [
+      "Dr Salaries 6,000; Cr Drawings 6,000",
+      "Dr Drawings 6,000; Cr Cash 6,000",
+      "Dr Capital 6,000; Cr Cash 6,000",
+      "Dr Drawings 6,000; Cr Salaries 6,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Move the expense."
+    },
+    {
+     "question_text": "The correction in the above case will:",
+     "options": [
+      "Reduce the assets",
+      "Increase net profit by Rs 6,000",
+      "Decrease net profit by Rs 6,000",
+      "Not change net profit"
+     ],
+     "correct_index": 1,
+     "explanation": "Salaries reduced."
+    },
+    {
+     "question_text": "The total of one side of the discount allowed column was omitted from the ledger. Trial balance is:",
+     "options": [
+      "Not prepared",
+      "Not agreeing",
+      "Nil",
+      "Agreeing"
+     ],
+     "correct_index": 1,
+     "explanation": "One-sided."
+    },
+    {
+     "question_text": "A credit sale was entered in the journal but was not posted to either of the two ledger accounts. The trial balance:",
+     "options": [
+      "Agrees, as both the aspects were left out",
+      "Shows a difference equal to the amount of the sale",
+      "Has a suspense account entry for the difference",
+      "Does not agree, as one of the aspects was omitted"
+     ],
+     "correct_index": 0,
+     "explanation": "Both omitted."
+    },
+    {
+     "question_text": "The corrected profit statement starts with Rs 90,000. Add: omitted income Rs 4,000. Deduct: omitted expenses Rs 7,000. The result is:",
+     "options": [
+      "Rs 79,000",
+      "Rs 1,01,000",
+      "Rs 93,000",
+      "Rs 87,000"
+     ],
+     "correct_index": 3,
+     "explanation": "90 + 4 − 7."
+    },
+    {
+     "question_text": "Freight on goods purchased Rs 800 was debited to freight outwards. The effect on gross profit is:",
+     "options": [
+      "Understated by Rs 800",
+      "Overstated by Rs 800",
+      "No effect on gross profit",
+      "Overstated by Rs 1,600"
+     ],
+     "correct_index": 1,
+     "explanation": "Direct cost excluded from trading."
+    },
+    {
+     "question_text": "Insurance of Rs 1,000 for the proprietor's life policy was debited to insurance. The net profit is:",
+     "options": [
+      "Overstated by Rs 2,000",
+      "Understated by Rs 1,000",
+      "Overstated by Rs 1,000",
+      "Not affected"
+     ],
+     "correct_index": 1,
+     "explanation": "Should be drawings."
+    },
+    {
+     "question_text": "A bad debt of Rs 400 recovered was credited to the debtor. The rectification:",
+     "options": [
+      "Dr Debtor 400; Cr Bad debts recovered 400",
+      "Dr Debtor 400; Cr Cash 400",
+      "Dr Cash 400; Cr Debtor 400",
+      "Dr Bad debts recovered 400; Cr Debtor 400"
+     ],
+     "correct_index": 0,
+     "explanation": "Income."
+    },
+    {
+     "question_text": "Out of the Rs 5,000 salary paid, Rs 1,000 was for private tutors of the proprietor's children, debited to salaries. Net profit is:",
+     "options": [
+      "Overstated by Rs 5,000",
+      "Overstated by Rs 1,000",
+      "Understated by Rs 1,000",
+      "Unchanged"
+     ],
+     "correct_index": 2,
+     "explanation": "Drawings."
+    },
+    {
+     "question_text": "The balance of the purchases account Rs 85,000 was written as Rs 58,000 in the trial balance. The trial balance difference is:",
+     "options": [
+      "Rs 27,000",
+      "Rs 14,000",
+      "Rs 85,000",
+      "Rs 5,800"
+     ],
+     "correct_index": 0,
+     "explanation": "Subtract."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 6: Rectification of Errors – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Reported profit Rs 25,000; prepaid rent Rs 1,500 not considered; depreciation not charged Rs 4,000; commission received in advance Rs 1,000 treated as earned. Corrected profit is:",
+     "question_text": "Errors that do not affect profit: A) wrong posting between two debtors B) capital expense treated as revenue. Which is correct?",
      "options": [
-      "Rs 18,500",
-      "Rs 26,500",
-      "Rs 30,500",
-      "Rs 21,500"
+      "Neither",
+      "B only",
+      "Both",
+      "A only"
      ],
      "correct_index": 3,
-     "explanation": "25,000 + 1,500 − 4,000 − 1,000."
+     "explanation": "B affects profit."
     },
     {
-     "question_text": "Reported profit Rs 80,000; purchases returns Rs 2,500 and sales returns Rs 3,500 not entered. Corrected profit is:",
+     "question_text": "After all errors in the books are rectified, the suspense account will:",
      "options": [
-      "Rs 81,000",
-      "Rs 79,000",
-      "Rs 86,000",
-      "Rs 74,000"
+      "Remain unchanged for the next year",
+      "Be closed with a nil balance",
+      "Show a further debit balance",
+      "Be carried to the profit account"
      ],
      "correct_index": 1,
-     "explanation": "80,000 + 2,500 − 3,500."
+     "explanation": "Cleared."
     },
     {
-     "question_text": "Capital expenditure treated as revenue expenditure:",
+     "question_text": "Goods lost in transit Rs 1,200 were not recorded. The loss to be recorded:",
      "options": [
-      "Doubles profit",
-      "Understates profit",
-      "Overstates profit",
-      "Has no effect"
+      "Dr Loss in transit; Cr Purchases",
+      "Dr Capital; Cr Loss",
+      "Dr Suspense; Cr Loss",
+      "Dr Purchases; Cr Loss"
+     ],
+     "correct_index": 0,
+     "explanation": "Reduces stock."
+    },
+    {
+     "question_text": "Errors found after books are closed and profit is determined, and which affect capital, are corrected through:",
+     "options": [
+      "The machinery account of the year that has been closed",
+      "The sales account of the year that has been closed",
+      "The cash account kept by the cashier of the firm",
+      "The profit and loss adjustment account or the capital account"
+     ],
+     "correct_index": 3,
+     "explanation": "Previous year."
+    },
+    {
+     "question_text": "The sales returns of Rs 4,000 from customer Y were entered in the purchase returns book, though Y's account was posted correctly. The rectification is:",
+     "options": [
+      "Dr Purchase returns 4,000; Cr Sales returns 4,000",
+      "No entry is needed, as the trial balance agrees",
+      "Dr Y 4,000; Cr Sales returns 4,000",
+      "Dr Sales returns 4,000; Cr Purchase returns 4,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Move the amount between the nominal accounts."
+    },
+    {
+     "question_text": "Under-statement of expenses leads to:",
+     "options": [
+      "Understatement of profit",
+      "Overstatement of profit",
+      "Understated capital",
+      "No effect"
      ],
      "correct_index": 1,
-     "explanation": "Expenses are overstated."
+     "explanation": "Profit effect."
     },
     {
-     "question_text": "Revenue expenditure treated as capital expenditure:",
+     "question_text": "Overstatement of liabilities (outstanding) leads to:",
      "options": [
-      "Understates profit",
-      "Doubles profit",
-      "Has no effect",
-      "Overstates profit"
+      "Overstatement of profit",
+      "Understatement of profit",
+      "No effect",
+      "Overstated assets"
+     ],
+     "correct_index": 1,
+     "explanation": "Excess expense."
+    },
+    {
+     "question_text": "Wrong cast of a debtor's balance Rs 400 (overcast). The debtors list shows:",
+     "options": [
+      "No effect",
+      "Higher debtors by Rs 400",
+      "Lower debtors by Rs 400",
+      "Nil"
+     ],
+     "correct_index": 1,
+     "explanation": "Overstatement."
+    },
+    {
+     "question_text": "The trial balance shows debit Rs 1,00,000 and credit Rs 99,500, with Rs 500 in a suspense account on the credit side. An omitted debit of Rs 700 and an omitted credit of Rs 200 are later found. After posting them, the suspense account is:",
+     "options": [
+      "Nil",
+      "Rs 500 credit",
+      "Rs 200 debit",
+      "Rs 300 debit"
+     ],
+     "correct_index": 0,
+     "explanation": "Net effect 500 clears it."
+    },
+    {
+     "question_text": "If an item of revenue expense is wrongly capitalised, depreciation charged on it leads to:",
+     "options": [
+      "Profit being understated more by depreciation on that amount",
+      "Profit being overstated by depreciation on that amount",
+      "Assets being understated by that depreciation",
+      "Liabilities being overstated by that depreciation"
+     ],
+     "correct_index": 0,
+     "explanation": "Wrong base increases the expense."
+    },
+    {
+     "question_text": "The basic principle of rectifying an error is to:",
+     "options": [
+      "Pass a journal entry that cancels the wrong entry and records the right one",
+      "Delete the wrong entry entirely from the books of accounts",
+      "Ignore the error if the amount involved is quite small",
+      "Replace the page of the ledger containing the wrong entry"
+     ],
+     "correct_index": 0,
+     "explanation": "Journal proper."
+    },
+    {
+     "question_text": "Correction of an error in the books by overwriting is:",
+     "options": [
+      "Allowed in all cases if done in ink",
+      "Not permitted, as it destroys the audit trail",
+      "Required by law for the errors in the cash book",
+      "Optional, depending upon the size of the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Rectify through a journal entry."
+    },
+    {
+     "question_text": "The best way to correct an error discovered in the ledger is to:",
+     "options": [
+      "Use correction fluid and then rewrite the figures",
+      "Erase the entry and write the correct entry over it",
+      "Cross out the item and ignore the matter thereafter",
+      "Pass a rectification entry with a proper narration"
      ],
      "correct_index": 3,
-     "explanation": "Expenses are understated."
+     "explanation": "Audit trail."
     },
     {
-     "question_text": "Omission of closing stock:",
+     "question_text": "When rectifying, the suspense account is used only if:",
      "options": [
-      "Has no effect",
-      "Doubles profit",
-      "Overstates profit",
-      "Understates profit"
+      "The trial balance agrees",
+      "The error affected only one account",
+      "No error is found",
+      "The error affected both the accounts"
      ],
-     "correct_index": 3,
-     "explanation": "Cost of goods sold is overstated."
+     "correct_index": 1,
+     "explanation": "One-sided."
     },
     {
-     "question_text": "If purchases are overcast, gross profit is:",
+     "question_text": "Total debits Rs 5,25,000 and credits Rs 5,30,000, the suspense is a:",
      "options": [
-      "Doubled",
+      "Debit Rs 5,000",
+      "Credit Rs 5,000",
+      "Credit Rs 10,000",
+      "Debit Rs 10,000"
+     ],
+     "correct_index": 0,
+     "explanation": "To balance."
+    },
+    {
+     "question_text": "Goods taken for personal use Rs 2,000 but not recorded. Profit is:",
+     "options": [
+      "Unaffected",
       "Understated",
       "Overstated",
-      "Unaffected"
-     ],
-     "correct_index": 1,
-     "explanation": "Cost of goods sold is overstated."
-    },
-    {
-     "question_text": "Compensating errors are difficult to detect because:",
-     "options": [
-      "They are always one-sided",
-      "They are large",
-      "The trial balance still agrees",
-      "They are visible"
+      "Doubled"
      ],
      "correct_index": 2,
-     "explanation": "Errors offset each other."
+     "explanation": "Drawings omitted, cost not deducted."
     },
     {
-     "question_text": "Internal controls reduce errors by:",
+     "question_text": "The effect of omission to record outstanding rent is on the:",
      "options": [
-      "Eliminating audits",
-      "Checks, authorisation and segregation of duties",
-      "Removing records",
-      "Increasing work"
-     ],
-     "correct_index": 1,
-     "explanation": "They prevent and detect mistakes."
-    },
-    {
-     "question_text": "A suspense account has a nil balance after full rectification because:",
-     "options": [
-      "It is transferred to capital",
-      "It is ignored",
-      "All errors that created the difference have been corrected",
-      "It is deleted"
-     ],
-     "correct_index": 2,
-     "explanation": "The difference no longer exists."
-    },
-    {
-     "question_text": "A transaction error can occur without any suspense entry, for example:",
-     "options": [
-      "A one-sided posting",
-      "A balance error",
-      "An error of principle (the trial balance agrees)",
-      "A casting error"
-     ],
-     "correct_index": 2,
-     "explanation": "Suspense is for trial balance differences only."
-    },
-    {
-     "question_text": "Computerised systems reduce errors by:",
-     "options": [
-      "Removing records",
-      "Manual calculations",
-      "Automatic posting and validation checks",
-      "Reducing controls"
-     ],
-     "correct_index": 2,
-     "explanation": "Posting errors are minimised."
-    },
-    {
-     "question_text": "Rectification before final accounts is done by:",
-     "options": [
-      "Restating all books",
-      "Correcting accounts directly, while after final accounts it uses the P&L Adjustment Account",
-      "Ignoring errors",
-      "Closing books"
-     ],
-     "correct_index": 1,
-     "explanation": "Nominal-account errors affect profit."
-    },
-    {
-     "question_text": "The auditor's role is to:",
-     "options": [
-      "Approve loans",
-      "Pay taxes",
-      "Prepare accounts",
-      "Examine records and detect errors and frauds"
-     ],
-     "correct_index": 3,
-     "explanation": "The auditor reports on true and fair view."
-    },
-    {
-     "question_text": "An error differs from a fraud in that an error is:",
-     "options": [
-      "A crime",
-      "Always large",
-      "Unintentional, while a fraud is deliberate",
-      "Deliberate"
-     ],
-     "correct_index": 2,
-     "explanation": "Fraud involves intent to deceive."
-    },
-    {
-     "question_text": "A two-sided error that does not require a suspense account is:",
-     "options": [
-      "Goods purchased from X credited to Y",
-      "One-sided posting",
-      "A casting error",
-      "Balancing error"
-     ],
-     "correct_index": 0,
-     "explanation": "The trial balance still agrees."
-    },
-    {
-     "question_text": "Rectification of one-sided errors requires suspense because:",
-     "options": [
-      "They are principle errors",
-      "They are compensating",
-      "The trial balance does not agree and a suspense balance was created earlier",
-      "It is a law"
-     ],
-     "correct_index": 2,
-     "explanation": "Suspense is used to clear it."
-    },
-    {
-     "question_text": "Rs 1,500 received from R was credited to S's account. Rectification:",
-     "options": [
-      "S Dr to Cash",
-      "S Dr 1,500 to R 1,500",
-      "R Dr to S",
-      "Cash Dr to R"
-     ],
-     "correct_index": 1,
-     "explanation": "Wrong personal account."
-    },
-    {
-     "question_text": "Rs 2,000 freight on purchase of goods debited to Freight outwards. Rectification:",
-     "options": [
-      "Freight Inwards (Purchases) Dr 2,000 to Freight Outwards 2,000",
-      "Cash Dr to Freight",
-      "Freight Outwards Dr to Freight Inwards",
-      "Freight Dr to Cash"
-     ],
-     "correct_index": 0,
-     "explanation": "Reclassify to the correct account."
-    },
-    {
-     "question_text": "A credit sale of Rs 5,000 to T recorded in the Purchases book. Rectification:",
-     "options": [
-      "Sales Dr to T",
-      "Purchases Dr to T",
-      "T Dr 5,000 to Sales 5,000",
-      "T Dr 10,000 to Purchases 5,000 and Sales 5,000"
-     ],
-     "correct_index": 3,
-     "explanation": "Reverse the wrong credit and make the right debit."
-    },
-    {
-     "question_text": "Salaries of Rs 6,000 debited to Salaries as Rs 600; cash credited correctly. Rectification:",
-     "options": [
-      "Salaries Dr 5,400 to Suspense 5,400",
-      "Suspense Dr 5,400 to Salaries",
-      "Salaries Dr 600",
-      "Salaries Dr 6,000"
-     ],
-     "correct_index": 0,
-     "explanation": "The debit was short by 5,400."
-    },
-    {
-     "question_text": "Rs 1,000 paid for repairs of the proprietor's house debited to Repairs. Rectification:",
-     "options": [
-      "Cash Dr to Repairs",
-      "Capital Dr to Repairs",
-      "Drawings Dr 1,000 to Repairs 1,000",
-      "Repairs Dr to Drawings"
-     ],
-     "correct_index": 2,
-     "explanation": "Personal expense."
-    },
-    {
-     "question_text": "A return inward of Rs 1,000 was entered in the returns outward book. The accounts involved in the rectification are:",
-     "options": [
-      "Cash only",
       "Capital only",
-      "Sales Returns, Purchases Returns, customer and supplier",
-      "Sales only"
+      "Net profit understated and liabilities overstated",
+      "Net profit overstated and liabilities understated",
+      "Gross profit"
      ],
      "correct_index": 2,
-     "explanation": "Wrong book and wrong accounts."
+     "explanation": "Expense omitted."
     },
     {
-     "question_text": "A credit purchase of Rs 4,500 from U omitted from the Purchases book. Rectification:",
+     "question_text": "If a prepaid expense is omitted from the books, then:",
      "options": [
-      "Purchases Dr to Cash",
-      "Cash Dr to Purchases",
-      "Purchases Dr 4,500 to U 4,500",
-      "U Dr to Purchases"
+      "Net profit and assets are both understated",
+      "Net profit is overstated while assets are understated",
+      "Liabilities are overstated while net profit is understated",
+      "Gross profit is overstated while liabilities are understated"
      ],
-     "correct_index": 2,
-     "explanation": "Complete omission."
+     "correct_index": 0,
+     "explanation": "Too much expense charged."
     },
     {
-     "question_text": "Cash paid to V Rs 2,500 debited to W's account. Rectification:",
+     "question_text": "Interest on investments that has accrued but is not recorded results in:",
      "options": [
-      "Cash Dr to V",
-      "V Dr 2,500 to W 2,500",
-      "W Dr to V",
-      "V Dr to Cash"
+      "Profit and assets both being understated",
+      "Profit being overstated and assets being understated",
+      "Liabilities being understated and profit overstated",
+      "No effect on either the profit or the assets"
+     ],
+     "correct_index": 0,
+     "explanation": "Income omitted."
+    },
+    {
+     "question_text": "Reserve for bad debts created twice causes:",
+     "options": [
+      "Capital overstated",
+      "Profit understated",
+      "No effect",
+      "Profit overstated"
      ],
      "correct_index": 1,
-     "explanation": "Wrong personal account."
+     "explanation": "Excess charge."
     },
     {
-     "question_text": "Discount allowed Rs 700 to Y was credited to Discount Received. Rectification:",
+     "question_text": "Credit side of discount received column wrongly added Rs 50 less. Trial balance debit/credit difference:",
      "options": [
-      "Discount Received Dr 1,400 to Cash",
-      "Discount Allowed Dr 700 to Discount Received 700",
-      "Y Dr 700 to Discount Received",
-      "Discount Allowed Dr 700 and Discount Received Dr 700 to Suspense 1,400"
+      "No difference",
+      "Credit short by Rs 50",
+      "Nil",
+      "Debit short by Rs 50"
+     ],
+     "correct_index": 1,
+     "explanation": "Under-casting."
+    },
+    {
+     "question_text": "Suspense account balance of Rs 1,500 Cr was caused by (a) sales returns not posted, Rs 1,000 and (b) cash short debited Rs 500. After corrections, the suspense account balance is:",
+     "options": [
+      "Rs 1,000",
+      "Nil",
+      "Rs 500",
+      "Rs 1,500"
+     ],
+     "correct_index": 1,
+     "explanation": "The Cr balance is cleared."
+    },
+    {
+     "question_text": "A transaction is correctly journalised but posted to the wrong side of both the accounts. The trial balance:",
+     "options": [
+      "Needs a suspense account to be opened to balance it",
+      "Agrees, though both the accounts show wrong balances",
+      "Disagrees by the amount of the transaction posted",
+      "Disagrees by twice the amount of the transaction"
+     ],
+     "correct_index": 1,
+     "explanation": "Both sides reversed."
+    },
+    {
+     "question_text": "Rs 900 paid to Mr. G was debited to his account twice and credited to cash once. The suspense account (opened for the difference) is cleared by:",
+     "options": [
+      "Dr Cash 900; Cr G 900",
+      "Dr G 900; Cr Suspense 900",
+      "Dr Suspense 900; Cr G 900",
+      "Dr G 900; Cr Cash 900"
+     ],
+     "correct_index": 2,
+     "explanation": "One debit is cancelled."
+    },
+    {
+     "question_text": "The most reliable method of detecting all errors in the books is:",
+     "options": [
+      "Bank reconciliation",
+      "Preparation of the final accounts",
+      "Trial balance",
+      "Audit or an independent check"
      ],
      "correct_index": 3,
-     "explanation": "Reverse the wrong credit and record the correct debit."
+     "explanation": "Independent verification."
     }
    ]
   }

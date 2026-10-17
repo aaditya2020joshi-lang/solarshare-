@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 5: Subsidiary Books – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Subsidiary books are:",
+     "question_text": "A purchase invoice shows goods of Rs 20,000 less trade discount 10%, plus GST at 18% on the net amount. The amount credited to the supplier is:",
      "options": [
-      "Books in which similar transactions are recorded separately, e.g., purchases book and sales book",
-      "The trial balance",
-      "The ledger",
-      "Final accounts"
+      "Rs 20,000",
+      "Rs 18,000",
+      "Rs 21,240",
+      "Rs 23,600"
+     ],
+     "correct_index": 2,
+     "explanation": "18,000 × 1.18."
+    },
+    {
+     "question_text": "In the purchase book for the invoice above, the amount debited to the purchases account is:",
+     "options": [
+      "Rs 18,000",
+      "Rs 3,240",
+      "Rs 21,240",
+      "Rs 20,000"
      ],
      "correct_index": 0,
-     "explanation": "They are subdivisions of the journal."
+     "explanation": "Input GST is debited separately."
     },
     {
-     "question_text": "Subsidiary books are maintained to:",
+     "question_text": "A credit purchase of office furniture from a dealer is recorded in the:",
      "options": [
-      "Replace the ledger",
-      "Prepare tax returns",
-      "Calculate profit",
-      "Save time and labour by recording similar transactions together"
-     ],
-     "correct_index": 3,
-     "explanation": "The journal would be too bulky otherwise."
-    },
-    {
-     "question_text": "An advantage of subsidiary books is:",
-     "options": [
-      "Division of work and saving of time and labour",
-      "More errors",
-      "More posting",
-      "Less detail"
-     ],
-     "correct_index": 0,
-     "explanation": "It also helps detect errors."
-    },
-    {
-     "question_text": "Which is a subsidiary book?",
-     "options": [
+      "Sales book",
+      "Journal proper",
       "Purchases book",
-      "Trial balance",
-      "Balance sheet",
-      "Ledger"
-     ],
-     "correct_index": 0,
-     "explanation": "Others: sales book, returns books, bills books, cash book."
-    },
-    {
-     "question_text": "Journal proper records:",
-     "options": [
-      "Cash receipts",
-      "Transactions that do not fit in any subsidiary book, e.g., opening, closing, adjusting and rectification entries",
-      "Credit purchases of goods",
-      "Credit sales of goods"
+      "Cash book"
      ],
      "correct_index": 1,
-     "explanation": "Also credit purchase/sale of assets."
+     "explanation": "Not goods for resale."
     },
     {
-     "question_text": "The purchases book records:",
+     "question_text": "The purchases returns book is posted to the ledger from the totals:",
      "options": [
-      "Credit purchases of goods meant for resale",
-      "Cash purchases",
-      "Sales",
-      "Credit purchases of furniture"
+      "To the debit of the purchases and the credit of each supplier",
+      "To the credit of sales returns and the debit of each supplier",
+      "To the credit of purchase returns and to the debit of each supplier",
+      "To the debit of purchase returns and to the credit of each supplier"
      ],
-     "correct_index": 0,
-     "explanation": "Only goods in which the firm deals."
+     "correct_index": 2,
+     "explanation": "Returns reduce the amount due."
     },
     {
-     "question_text": "The sales book records:",
+     "question_text": "Total of the sales book for a month is Rs 2,40,000. The ledger entry for the total is:",
      "options": [
-      "Credit sale of old furniture",
-      "Credit sales of goods",
-      "Cash sales",
-      "Purchases"
+      "Debit to sales account",
+      "Credit to sales account",
+      "Debit to the debtors' control account only",
+      "Credit to cash account"
      ],
      "correct_index": 1,
-     "explanation": "Only goods dealt in."
+     "explanation": "Sales are income."
     },
     {
-     "question_text": "The purchases returns book records:",
+     "question_text": "Individual items of the sales book are posted to the:",
      "options": [
-      "Goods returned to suppliers",
-      "Goods returned by customers",
-      "Credit sales",
-      "Cash purchases"
+      "Debit of each customer's account",
+      "Credit of each customer's account",
+      "Credit of the cash account",
+      "Debit of the sales account"
      ],
      "correct_index": 0,
-     "explanation": "Also called returns outward book."
+     "explanation": "Customers owe."
+    },
+    {
+     "question_text": "An invoice for Rs 50,000 was entered in the sales book, but the goods were sold to Mr. Z on cash terms. This results in an error of:",
+     "options": [
+      "Omission since no entry was made",
+      "Compensation since another error offsets it",
+      "Original entry or principle, since it was a cash sale",
+      "Casting since the total was added wrongly"
+     ],
+     "correct_index": 2,
+     "explanation": "Wrong book used."
     },
     {
      "question_text": "The sales returns book records:",
      "options": [
-      "Cash sales",
       "Goods returned to suppliers",
-      "Credit purchases",
-      "Goods returned by customers"
-     ],
-     "correct_index": 3,
-     "explanation": "Also called returns inward book."
-    },
-    {
-     "question_text": "Cash purchases are not entered in the purchases book because:",
-     "options": [
-      "They are not purchases",
-      "They are capital",
-      "They are recorded in the cash book",
-      "They are illegal"
+      "Goods returned by the owner",
+      "Goods returned by customers",
+      "Cash returned to customers"
      ],
      "correct_index": 2,
-     "explanation": "The purchases book is only for credit purchases."
+     "explanation": "Returns inwards."
     },
     {
-     "question_text": "Credit purchase of furniture is recorded in:",
+     "question_text": "A debit note is sent by the firm to the supplier when:",
      "options": [
-      "Journal proper",
-      "Purchases book",
-      "Cash book",
-      "Sales book"
+      "Payment is made to him",
+      "Goods are returned to him",
+      "Goods are received from him",
+      "Cash discount is received"
+     ],
+     "correct_index": 1,
+     "explanation": "Informs him of the debit to his account."
+    },
+    {
+     "question_text": "A credit note is sent by the firm to a customer when:",
+     "options": [
+      "Goods are returned by him",
+      "Interest is charged to him",
+      "Goods are sold to him",
+      "Payment is received from him"
      ],
      "correct_index": 0,
-     "explanation": "Furniture is not goods for resale."
+     "explanation": "Informs him of the credit to his account."
     },
     {
-     "question_text": "Credit sale of an old asset is recorded in:",
+     "question_text": "The cash book with a cash column and a bank column on both sides is called a:",
      "options": [
-      "Cash book",
+      "Petty cash book",
+      "Single column cash book",
+      "Double column cash book",
+      "Three column cash book"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash and bank."
+    },
+    {
+     "question_text": "The three column cash book has columns for:",
+     "options": [
+      "Date, particulars and folio",
+      "Debit, credit and balance",
+      "Sales, purchases and returns",
+      "Cash, bank and discount"
+     ],
+     "correct_index": 3,
+     "explanation": "Discount allowed on the debit side, discount received on the credit side."
+    },
+    {
+     "question_text": "When cash is deposited into the bank, the cash book shows it as:",
+     "options": [
+      "Debit in the bank column only, with nothing in cash",
+      "Credit in the cash column only, with nothing in bank",
+      "Debit in the cash column and credit in the bank column",
+      "Credit in the cash column and debit in the bank column"
+     ],
+     "correct_index": 3,
+     "explanation": "Contra entry."
+    },
+    {
+     "question_text": "The letter 'C' in the folio column of a cash book shows that:",
+     "options": [
+      "The entry is a cheque",
+      "The entry is closed",
+      "The entry is a credit item",
+      "The entry is a contra entry"
+     ],
+     "correct_index": 3,
+     "explanation": "Both the sides are in the cash book."
+    },
+    {
+     "question_text": "The cash book shows opening cash Rs 5,000, opening bank Rs 20,000. Cash sales Rs 8,000 are deposited in the bank (Rs 3,000). Cash balance at close (no other items) is:",
+     "options": [
+      "Rs 8,000",
+      "Rs 10,000",
+      "Rs 13,000",
+      "Rs 5,000"
+     ],
+     "correct_index": 1,
+     "explanation": "5,000 + 8,000 − 3,000."
+    },
+    {
+     "question_text": "In the above case, the bank balance is:",
+     "options": [
+      "Rs 17,000",
+      "Rs 23,000",
+      "Rs 28,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 1,
+     "explanation": "20,000 + 3,000."
+    },
+    {
+     "question_text": "Cash of Rs 4,800 is paid to a creditor and he allows a discount of Rs 200. His account in the ledger is debited by:",
+     "options": [
+      "Rs 4,800 in total, being the cash paid only",
+      "Rs 5,000 in total, being cash and discount",
+      "Rs 200 in total, being the discount alone",
+      "Rs 4,600 in total, being cash less discount"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash plus discount settles the liability."
+    },
+    {
+     "question_text": "Discount allowed column in the cash book is totalled and posted to the:",
+     "options": [
+      "Debit side of discount allowed account",
+      "Debit side of discount received account",
+      "Credit side of discount allowed account",
+      "Credit side of the debtors' account"
+     ],
+     "correct_index": 0,
+     "explanation": "Expense total."
+    },
+    {
+     "question_text": "Discount received column on the payments side is posted in total to the:",
+     "options": [
+      "Credit side of the discount allowed account",
+      "Debit side of the creditors' account",
+      "Debit side of discount received account",
+      "Credit side of discount received account"
+     ],
+     "correct_index": 3,
+     "explanation": "Gain total."
+    },
+    {
+     "question_text": "A cheque for Rs 6,000 received from Mr. D is deposited in the bank the same day. The cash book shows:",
+     "options": [
+      "Credit in the bank column and debit to D's account",
+      "Debit in the cash column and credit to D's account",
+      "Debit in the bank column and credit to the sales",
+      "Debit in the bank column and credit to D's account"
+     ],
+     "correct_index": 3,
+     "explanation": "Bank balance increases."
+    },
+    {
+     "question_text": "A cheque received from a customer and endorsed to a creditor is recorded in the:",
+     "options": [
       "Sales book",
-      "Purchases book",
+      "Cash book",
+      "Purchase book",
       "Journal proper"
      ],
      "correct_index": 3,
-     "explanation": "The sales book is only for goods."
+     "explanation": "Not passing through cash or bank."
     },
     {
-     "question_text": "A debit note is used in:",
+     "question_text": "A debit in the cash column and a credit in the bank column on the same date signifies:",
      "options": [
-      "Sales returns book",
-      "Cash book",
-      "Bills book",
-      "Purchases returns book (issued by the buyer)"
-     ],
-     "correct_index": 3,
-     "explanation": "It debits the supplier's account."
-    },
-    {
-     "question_text": "A credit note is used in:",
-     "options": [
-      "Cash book",
-      "Sales returns book (issued by the seller)",
-      "Purchases returns book",
-      "Journal"
+      "A cheque received from a debtor of the firm",
+      "Cash withdrawn from the bank for use in the office",
+      "Cash deposited in the bank by the firm's cashier",
+      "A cheque issued to a creditor of the firm"
      ],
      "correct_index": 1,
-     "explanation": "It credits the customer's account."
+     "explanation": "Contra."
     },
     {
-     "question_text": "In the purchases book, trade discount is:",
+     "question_text": "The petty cash book is maintained to record:",
      "options": [
-      "Deducted from the list price and only the net amount recorded",
-      "Added to cost",
-      "Recorded separately",
-      "Ignored"
-     ],
-     "correct_index": 0,
-     "explanation": "Net amount is entered."
-    },
-    {
-     "question_text": "The total of the purchases book is posted to:",
-     "options": [
-      "Credit of Purchases A/c",
-      "Debit of Purchases A/c",
-      "Credit of Cash A/c",
-      "Debit of Sales A/c"
+      "Capital introduced",
+      "Small day-to-day expenses",
+      "Cash sales of the firm",
+      "Large payments to creditors"
      ],
      "correct_index": 1,
-     "explanation": "Individual supplier accounts are credited."
+     "explanation": "Minor items."
     },
     {
-     "question_text": "The total of the sales book is posted to:",
+     "question_text": "Under the imprest system, the petty cashier at the start of the period receives:",
      "options": [
-      "Credit of Cash A/c",
-      "Debit of Purchases A/c",
-      "Credit of Sales A/c",
-      "Debit of Sales A/c"
-     ],
-     "correct_index": 2,
-     "explanation": "Individual customer accounts are debited."
-    },
-    {
-     "question_text": "The purchases returns total is posted to the _____ of Purchases Returns A/c, and the sales returns total to the _____ of Sales Returns A/c:",
-     "options": [
-      "Debit; debit",
-      "Debit; credit",
-      "Credit; debit",
-      "Credit; credit"
-     ],
-     "correct_index": 2,
-     "explanation": "Parties' accounts are debited/credited respectively."
-    },
-    {
-     "question_text": "Under GST, the purchases and sales books show:",
-     "options": [
-      "No tax",
-      "Separate columns for CGST/SGST/IGST in addition to the net amount",
-      "Only customers",
-      "Only totals"
+      "Only the cheque books",
+      "A fixed sum from the main cashier",
+      "Only the sales vouchers",
+      "An unlimited amount of money"
      ],
      "correct_index": 1,
-     "explanation": "Input tax is claimed on purchases."
+     "explanation": "Fixed float."
     },
     {
-     "question_text": "Purchases book: Ram 100 units @ Rs 300 less 10%; Mohan 50 units @ Rs 400; Sohan 80 units @ Rs 250 less 5%. Ram's net amount is:",
+     "question_text": "Imprest Rs 5,000. Petty expenses for the period Rs 3,850. The amount reimbursed by the main cashier is:",
      "options": [
-      "Rs 27,000",
-      "Rs 33,000",
-      "Rs 3,000",
-      "Rs 30,000"
-     ],
-     "correct_index": 0,
-     "explanation": "30,000 − 3,000."
-    },
-    {
-     "question_text": "The total of the purchases book in Q20 (27,000 + 20,000 + 19,000) is:",
-     "options": [
-      "Rs 70,000",
-      "Rs 60,000",
-      "Rs 77,000",
-      "Rs 66,000"
-     ],
-     "correct_index": 3,
-     "explanation": "Posted to the debit of Purchases A/c."
-    },
-    {
-     "question_text": "Sales book: Shyam 60 units @ Rs 500; Gopal 40 units @ Rs 500 less 10%. Gopal's net is:",
-     "options": [
-      "Rs 22,000",
-      "Rs 20,000",
-      "Rs 2,000",
-      "Rs 18,000"
-     ],
-     "correct_index": 3,
-     "explanation": "20,000 − 2,000."
-    },
-    {
-     "question_text": "The total of the sales book in Q22 is:",
-     "options": [
-      "Rs 50,000",
-      "Rs 48,000",
-      "Rs 18,000",
-      "Rs 30,000"
-     ],
-     "correct_index": 1,
-     "explanation": "30,000 + 18,000."
-    },
-    {
-     "question_text": "Purchases returns: Ram 10 units @ Rs 270; Mohan 5 units @ Rs 400. Total is:",
-     "options": [
-      "Rs 4,700",
       "Rs 5,000",
-      "Rs 2,000",
-      "Rs 2,700"
+      "Rs 3,850",
+      "Rs 1,150",
+      "Rs 8,850"
      ],
-     "correct_index": 0,
-     "explanation": "2,700 + 2,000."
-    },
-    {
-     "question_text": "Sales returns: Shyam 5 units @ Rs 500; Gopal 4 units @ Rs 450. Total is:",
-     "options": [
-      "Rs 4,300",
-      "Rs 2,500",
-      "Rs 1,800",
-      "Rs 5,000"
-     ],
-     "correct_index": 0,
-     "explanation": "2,500 + 1,800."
+     "correct_index": 1,
+     "explanation": "Restores the imprest."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Subsidiary Books – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Purchases from A Rs 20,000 less 10%; B Rs 15,000; C Rs 8,000 less 5%. Total of purchases book is:",
+     "question_text": "The imprest is Rs 5,000 and petty expenses in the period were Rs 4,000, leaving Rs 1,000 in hand. The reimbursement needed to restore the imprest is:",
      "options": [
-      "Rs 43,000",
-      "Rs 40,600",
-      "Rs 41,000",
-      "Rs 38,000"
-     ],
-     "correct_index": 1,
-     "explanation": "18,000 + 15,000 + 7,600."
-    },
-    {
-     "question_text": "Sales to P Rs 12,000 less 5%; Q Rs 9,000; R Rs 6,500. Total of sales book is:",
-     "options": [
-      "Rs 27,500",
-      "Rs 26,000",
-      "Rs 26,900",
-      "Rs 28,000"
-     ],
-     "correct_index": 2,
-     "explanation": "11,400 + 9,000 + 6,500."
-    },
-    {
-     "question_text": "Bills received: A Rs 5,000; B Rs 8,000; C Rs 6,000. Bills Receivable A/c is debited by a total of:",
-     "options": [
-      "Rs 19,000",
-      "Rs 11,000",
-      "Rs 8,000",
-      "Rs 13,000"
+      "Rs 4,000, being the amount spent",
+      "Rs 1,000, being the cash in hand",
+      "Rs 6,000, being the sum of both",
+      "Rs 5,000, being the full imprest amount"
      ],
      "correct_index": 0,
-     "explanation": "5,000 + 8,000 + 6,000."
+     "explanation": "Restores the float."
     },
     {
-     "question_text": "A bill of exchange is drawn by the _____ on the _____, with the _____ being the person to whom payment is made:",
+     "question_text": "The petty cash book with analysis columns helps to:",
      "options": [
-      "Drawer; payee; drawee",
-      "Payee; drawer; drawee",
-      "Drawer; drawee; payee",
-      "Drawee; drawer; payee"
-     ],
-     "correct_index": 2,
-     "explanation": "The drawee accepts the bill."
-    },
-    {
-     "question_text": "A promissory note is:",
-     "options": [
-      "An order to pay",
-      "An unconditional written promise by the maker to pay a certain sum",
-      "A receipt",
-      "A cheque"
-     ],
-     "correct_index": 1,
-     "explanation": "The maker promises to pay."
-    },
-    {
-     "question_text": "A bill of exchange differs from a promissory note in that a bill is:",
-     "options": [
-      "An order by the drawer to the drawee and needs acceptance",
-      "Never accepted",
-      "Made by the debtor",
-      "A promise by the maker"
-     ],
-     "correct_index": 0,
-     "explanation": "A promissory note has two parties; a bill has three."
-    },
-    {
-     "question_text": "Days of grace are:",
-     "options": [
-      "Thirty days",
-      "Seven days",
-      "One day",
-      "Three extra days allowed for payment after the due date"
+      "Calculate the interest on petty cash",
+      "Maintain the balance sheet",
+      "Prepare bank reconciliation",
+      "Classify the expenses under heads"
      ],
      "correct_index": 3,
-     "explanation": "The due date includes the three days of grace."
+     "explanation": "Easy posting."
     },
     {
-     "question_text": "The due date of a 3-month bill drawn on 15 January is:",
+     "question_text": "The petty cash book is a:",
      "options": [
-      "18 April",
-      "12 April",
-      "20 April",
-      "15 April"
+      "Book of final entry",
+      "Control account",
+      "Book of original entry",
+      "Trial balance"
+     ],
+     "correct_index": 2,
+     "explanation": "Subsidiary book."
+    },
+    {
+     "question_text": "Total of the analysis columns equals the:",
+     "options": [
+      "Total payments column",
+      "Total receipts column",
+      "Closing balance",
+      "Opening balance"
      ],
      "correct_index": 0,
-     "explanation": "15 April + 3 days of grace."
+     "explanation": "Cross-check."
     },
     {
-     "question_text": "The due date of a 60-day bill drawn on 10 March is:",
+     "question_text": "Petty cash payments are posted to the ledger accounts from the:",
      "options": [
-      "15 May",
-      "12 May",
-      "9 May",
-      "10 May"
-     ],
-     "correct_index": 1,
-     "explanation": "60 days → 9 May; plus 3 days of grace."
-    },
-    {
-     "question_text": "The bills receivable book is posted by:",
-     "options": [
-      "Crediting Bills Payable",
-      "Crediting Bills Receivable",
-      "Debiting Bills Receivable A/c and crediting each drawee/customer",
-      "Debiting customers"
-     ],
-     "correct_index": 2,
-     "explanation": "The total is debited; each party is credited."
-    },
-    {
-     "question_text": "The bills payable book is posted by:",
-     "options": [
-      "Debiting customers",
-      "Crediting creditors",
-      "Debiting each creditor and crediting Bills Payable A/c with the total",
-      "Debiting Bills Payable"
-     ],
-     "correct_index": 2,
-     "explanation": "The total is credited."
-    },
-    {
-     "question_text": "Bills receivable differ from bills payable in that bills receivable are:",
-     "options": [
-      "Liabilities",
-      "Assets (accepted by others in our favour), bills payable are liabilities",
-      "Incomes",
-      "Expenses"
-     ],
-     "correct_index": 1,
-     "explanation": "We accept bills payable."
-    },
-    {
-     "question_text": "When a bill is dishonoured:",
-     "options": [
-      "The drawee fails to pay on the due date, and the drawer debits the drawee again",
-      "It is renewed automatically",
-      "It is cancelled",
-      "It is paid"
+      "Totals of the analysis columns",
+      "Cash book entries made by the main cashier",
+      "Bank pass book supplied by the banker",
+      "Debtors' accounts kept in the sales ledger"
      ],
      "correct_index": 0,
-     "explanation": "Bills Receivable is credited and the drawee is debited."
+     "explanation": "Consolidated."
     },
     {
-     "question_text": "Discounting a bill means:",
+     "question_text": "The bills receivable book records:",
      "options": [
-      "Renewing it",
-      "Endorsing it",
-      "Encashing it with the bank before the due date at a discount",
-      "Cancelling it"
+      "Bills of exchange accepted by the firm in favour of suppliers",
+      "Cheques deposited into the bank against sales",
+      "Bills of exchange accepted by customers in favour of the firm",
+      "Cash received from customers against credit sales"
      ],
      "correct_index": 2,
-     "explanation": "The bank charges discount."
+     "explanation": "Asset-side bills."
     },
     {
-     "question_text": "Endorsement of a bill means:",
+     "question_text": "A bill dated 1 January for Rs 10,000 is payable three months after date. Counting three days of grace, it falls due on:",
      "options": [
-      "Renewing it",
-      "Discounting it",
-      "Cancelling it",
-      "Transferring it to a third party by signing the back"
+      "4 April, being 1 April plus three days of grace",
+      "31 March, being exactly 90 days after the bill date",
+      "3 April, being 31 March plus three days of grace",
+      "1 April, being three months after the date of bill"
+     ],
+     "correct_index": 0,
+     "explanation": "Grace days are added to the due date."
+    },
+    {
+     "question_text": "Date of maturity of a bill dated 29 Nov for 3 months, with grace, is (non-leap year):",
+     "options": [
+      "29 February",
+      "2 March",
+      "3 March",
+      "28 February"
+     ],
+     "correct_index": 2,
+     "explanation": "29 Feb absent → 28 Feb + 3 days = 3 March."
+    },
+    {
+     "question_text": "A bill of Rs 8,000 is discounted at 12% p.a. for 3 months. The discount is:",
+     "options": [
+      "Rs 960",
+      "Rs 80",
+      "Rs 2,400",
+      "Rs 240"
      ],
      "correct_index": 3,
-     "explanation": "The endorsee gets the right to payment."
+     "explanation": "8,000 × 12% × 3/12."
     },
     {
-     "question_text": "Retirement of a bill means:",
+     "question_text": "The drawer of a bill of exchange is the:",
      "options": [
-      "Dishonour",
-      "Payment of the bill by the acceptor before its due date",
-      "Payment on the due date",
-      "Renewal"
-     ],
-     "correct_index": 1,
-     "explanation": "A rebate is usually allowed."
-    },
-    {
-     "question_text": "A bill of Rs 10,000 discounted with the bank for Rs 9,800. Discount charged is:",
-     "options": [
-      "Rs 10,000",
-      "Rs 9,800",
-      "Rs 0",
-      "Rs 200 (Bank Dr 9,800; Discount Dr 200; Bills Receivable Cr 10,000)"
-     ],
-     "correct_index": 3,
-     "explanation": "Discount is an expense."
-    },
-    {
-     "question_text": "A bill payable of Rs 10,000 honoured on the due date is recorded by:",
-     "options": [
-      "Bills Payable A/c Dr to Cash/Bank A/c",
-      "Bills Receivable Dr to Cash",
-      "Cash Dr to Bills Payable",
-      "Creditor Dr to Bills Payable"
-     ],
-     "correct_index": 0,
-     "explanation": "The liability is discharged."
-    },
-    {
-     "question_text": "A bill of Rs 6,000 received from a customer was dishonoured. The entry is:",
-     "options": [
-      "Customer Dr to Cash",
-      "Customer Dr 6,000 to Bills Receivable 6,000",
-      "Cash Dr to Bills Receivable",
-      "Bills Receivable Dr to Customer"
-     ],
-     "correct_index": 1,
-     "explanation": "The customer owes again."
-    },
-    {
-     "question_text": "A cash book is:",
-     "options": [
-      "A book recording all cash receipts and payments",
-      "A ledger of debtors",
-      "A book of credit purchases",
-      "A statement of profit"
-     ],
-     "correct_index": 0,
-     "explanation": "It records the cash and bank transactions."
-    },
-    {
-     "question_text": "The cash book is both a journal and a ledger because:",
-     "options": [
-      "It records credit sales",
-      "It records narration only",
-      "It has no accounts",
-      "It is a book of original entry and also serves as the cash account"
-     ],
-     "correct_index": 3,
-     "explanation": "It is the only book with this double role."
-    },
-    {
-     "question_text": "The types of cash books include:",
-     "options": [
-      "Single column, double column, three column and petty cash book",
-      "Sales and purchases books",
-      "Debit and credit books",
-      "Bank and ledger books"
-     ],
-     "correct_index": 0,
-     "explanation": "They differ in the number of columns."
-    },
-    {
-     "question_text": "A single column cash book has:",
-     "options": [
-      "No columns",
-      "Three columns",
-      "Two columns on each side",
-      "One amount column on each side for cash"
-     ],
-     "correct_index": 3,
-     "explanation": "It records only cash transactions."
-    },
-    {
-     "question_text": "A double column cash book has:",
-     "options": [
-      "Three columns",
-      "One column",
-      "Two amount columns on each side, e.g., cash and bank (or discount)",
-      "No columns"
+      "Banker who collects the bill on behalf of the payee",
+      "Person to whom the bill is later endorsed for value",
+      "Person who writes the bill and is entitled to the money",
+      "Person who accepts the bill and promises to pay"
      ],
      "correct_index": 2,
-     "explanation": "Commonly cash and bank."
+     "explanation": "Creditor."
     },
     {
-     "question_text": "A three column cash book has:",
+     "question_text": "The drawee of a bill is the:",
      "options": [
-      "Only discount",
-      "Only bank",
-      "Discount, cash and bank columns on each side",
-      "Only cash"
+      "Person who accepts and pays the bill",
+      "Person who makes the bill",
+      "Person who endorses it",
+      "Person who protests it"
+     ],
+     "correct_index": 0,
+     "explanation": "Debtor."
+    },
+    {
+     "question_text": "Noting charges for a dishonoured bill, paid by the drawer, are:",
+     "options": [
+      "Treated as capital",
+      "Ignored",
+      "Credited to the drawee",
+      "Debited to the drawee's account"
+     ],
+     "correct_index": 3,
+     "explanation": "Recoverable from the drawee."
+    },
+    {
+     "question_text": "Bills receivable are shown in the balance sheet under:",
+     "options": [
+      "Fixed assets",
+      "Current liabilities",
+      "Current assets",
+      "Capital"
      ],
      "correct_index": 2,
-     "explanation": "It is the most complete form."
+     "explanation": "Receivable."
+    },
+    {
+     "question_text": "The sales book is NOT used to record:",
+     "options": [
+      "Credit sales with GST",
+      "Credit sales of goods",
+      "Sales with trade discount",
+      "Cash sales of goods"
+     ],
+     "correct_index": 3,
+     "explanation": "Cash sales go to the cash book."
+    },
+    {
+     "question_text": "Which of the following is recorded in the journal proper?",
+     "options": [
+      "Credit purchase of goods",
+      "Goods taken by the proprietor",
+      "Credit sale of goods",
+      "Cash receipt"
+     ],
+     "correct_index": 1,
+     "explanation": "Residual."
+    },
+    {
+     "question_text": "Total of the purchase book Rs 3,50,000 includes GST Rs 50,000. The purchases account is debited with:",
+     "options": [
+      "Rs 50,000",
+      "Rs 3,00,000",
+      "Rs 3,50,000",
+      "Rs 4,00,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Excluding input GST."
+    },
+    {
+     "question_text": "Total cash sales Rs 90,000 and credit sales Rs 1,40,000. The total posted to the sales account from the sales book is:",
+     "options": [
+      "Rs 50,000",
+      "Rs 1,40,000",
+      "Rs 2,30,000",
+      "Rs 90,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash sales are in the cash book."
+    },
+    {
+     "question_text": "The purchases register has the total columns of invoice amount, GST and net purchase. If invoice total is Rs 59,000 and GST at 18%, net purchases are:",
+     "options": [
+      "Rs 59,000",
+      "Rs 50,000",
+      "Rs 48,380",
+      "Rs 10,620"
+     ],
+     "correct_index": 1,
+     "explanation": "59,000 / 1.18."
+    },
+    {
+     "question_text": "Output GST in the sales book credits:",
+     "options": [
+      "GST payable account",
+      "Purchases account",
+      "Sales account",
+      "GST receivable account"
+     ],
+     "correct_index": 0,
+     "explanation": "Liability."
+    },
+    {
+     "question_text": "Input GST of Rs 2,70,000 and output GST of Rs 3,20,000. GST payable to the government is:",
+     "options": [
+      "Rs 3,20,000",
+      "Rs 50,000",
+      "Rs 2,70,000",
+      "Rs 5,90,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Net."
+    },
+    {
+     "question_text": "Trade discount is not shown in the books because:",
+     "options": [
+      "It is paid in cash on the date of the transaction",
+      "It is a gain of the firm to be shown in profit and loss",
+      "The invoice is recorded at the net amount after deduction",
+      "It is an expense of the firm to be shown in profit and loss"
+     ],
+     "correct_index": 2,
+     "explanation": "Deducted before recording."
+    },
+    {
+     "question_text": "The balance in the cash book on the credit side of the bank column indicates:",
+     "options": [
+      "Cash in hand",
+      "Balance with the bank",
+      "Overdraft",
+      "Cheques in transit"
+     ],
+     "correct_index": 2,
+     "explanation": "Overdrawn."
+    },
+    {
+     "question_text": "Bank overdraft is shown in the balance sheet as:",
+     "options": [
+      "Capital",
+      "Fixed asset",
+      "Current asset",
+      "Current liability"
+     ],
+     "correct_index": 3,
+     "explanation": "Due to the bank."
+    },
+    {
+     "question_text": "A cash book is balanced by finding the:",
+     "options": [
+      "Sum of both the totals of the cash book",
+      "Excess of the credit total over the debit total",
+      "Excess of the debit total over the credit total",
+      "Last balance in the previous period's account"
+     ],
+     "correct_index": 2,
+     "explanation": "Cash balance is on the debit side."
+    },
+    {
+     "question_text": "Cash discount is recorded in the cash book only for:",
+     "options": [
+      "Bulk purchases",
+      "Prompt cash payments and receipts",
+      "Credit purchases for goods",
+      "Credit purchases from suppliers"
+     ],
+     "correct_index": 1,
+     "explanation": "Settlement."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Subsidiary Books – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A contra entry is:",
+     "question_text": "If cash receipts are Rs 1,25,000 and cash payments Rs 98,500, the closing cash balance is:",
      "options": [
-      "An entry affecting both the cash and bank columns of the cash book, e.g., deposit of cash into the bank",
-      "An error",
-      "A journal entry",
-      "An entry in the ledger"
+      "Rs 26,500 (debit)",
+      "Rs 26,500 (credit)",
+      "Rs 98,500",
+      "Rs 2,23,500"
      ],
      "correct_index": 0,
-     "explanation": "Cash deposited and cash withdrawn from the bank are contra entries."
+     "explanation": "Difference."
     },
     {
-     "question_text": "Cash deposited in the bank is recorded as:",
+     "question_text": "A single column cash book records:",
      "options": [
-      "Debit in the bank column and credit in the cash column",
-      "Debit in both",
-      "Debit in cash and credit in bank",
-      "Credit in both"
+      "Cash receipts and payments only",
+      "Cash and bank transactions",
+      "Only the petty expenses",
+      "Cash, bank and discount"
      ],
      "correct_index": 0,
-     "explanation": "A contra entry (marked C)."
+     "explanation": "One column on each side."
     },
     {
-     "question_text": "Cash withdrawn from the bank for office use is recorded as:",
+     "question_text": "Cash paid to the proprietor Rs 2,000 for private use is shown in the cash book as:",
      "options": [
-      "Debit in bank",
-      "Debit in the cash column and credit in the bank column",
-      "Credit in cash",
-      "Credit in both"
+      "Salary on the payments side",
+      "Capital on the receipts side",
+      "Drawings on the receipts side",
+      "Drawings on the payments side"
+     ],
+     "correct_index": 3,
+     "explanation": "Payment."
+    },
+    {
+     "question_text": "Which of the following is a correct statement about the cash book?",
+     "options": [
+      "It is a ledger account of the nominal type only",
+      "It is a journal which records only credit transactions",
+      "It is a trial balance of the cash and bank balances",
+      "It is both a book of original entry and a ledger account"
+     ],
+     "correct_index": 3,
+     "explanation": "Dual nature."
+    },
+    {
+     "question_text": "Rs 5,000 received as interest in the bank and not known to the cashier. It is shown in the bank statement but not in the cash book. This item is a:",
+     "options": [
+      "Cash book entry",
+      "Debtors' item",
+      "Reconciliation item",
+      "Capital item"
+     ],
+     "correct_index": 2,
+     "explanation": "Treated in reconciliation."
+    },
+    {
+     "question_text": "The total of the analysis columns for postage in the petty cash book is Rs 450. It is posted to the:",
+     "options": [
+      "Debit of petty cash",
+      "Debit of postage account",
+      "Credit of postage account",
+      "Credit of capital"
      ],
      "correct_index": 1,
-     "explanation": "Contra entry."
+     "explanation": "Expense."
     },
     {
-     "question_text": "A credit balance in the bank column indicates:",
+     "question_text": "The total of Rs 8,000 posted from the purchases book to the purchases account will appear on the:",
      "options": [
-      "A bank overdraft",
-      "Cash in hand",
-      "Profit",
-      "Excess deposit"
+      "Either side",
+      "Credit side",
+      "Debit side",
+      "Neither"
      ],
-     "correct_index": 0,
-     "explanation": "The bank has given an overdraft facility."
+     "correct_index": 2,
+     "explanation": "Expense/stock."
     },
     {
-     "question_text": "The discount column on the debit side of the cash book represents:",
+     "question_text": "The total of the sales returns book Rs 15,000 is debited to sales returns and credited to:",
      "options": [
-      "Interest",
-      "Discount allowed",
-      "Commission",
-      "Discount received"
+      "The sales account at the end of the year",
+      "Customers' personal accounts individually",
+      "The purchase returns account of the firm",
+      "The cash account kept in the cash book"
      ],
      "correct_index": 1,
-     "explanation": "Discount allowed to customers is a loss."
+     "explanation": "Debtors credited."
     },
     {
-     "question_text": "The discount column on the credit side represents:",
+     "question_text": "Out of Rs 1,80,000 total sales, Rs 12,000 were returned. Net sales are:",
      "options": [
-      "Interest",
-      "Discount allowed",
-      "Commission",
-      "Discount received"
-     ],
-     "correct_index": 3,
-     "explanation": "Discount received from suppliers is a gain."
-    },
-    {
-     "question_text": "The totals of the discount columns are posted to:",
-     "options": [
-      "Bank A/c",
-      "Capital A/c",
-      "Cash A/c",
-      "Debit of Discount Allowed A/c and credit of Discount Received A/c"
-     ],
-     "correct_index": 3,
-     "explanation": "Individually they are posted to parties' accounts."
-    },
-    {
-     "question_text": "Discount columns are not balanced because:",
-     "options": [
-      "They are cash",
-      "They have no entries",
-      "They are bank",
-      "They are memorandum columns, only totalled"
-     ],
-     "correct_index": 3,
-     "explanation": "The totals are posted to nominal accounts."
-    },
-    {
-     "question_text": "A dishonoured cheque is recorded in the cash book on the:",
-     "options": [
-      "Debit side of the bank column",
-      "Debit side of cash",
-      "Credit side of the bank column",
-      "Credit side of cash"
+      "Rs 1,92,000",
+      "Rs 1,80,000",
+      "Rs 1,68,000",
+      "Rs 12,000"
      ],
      "correct_index": 2,
-     "explanation": "The bank balance is reduced."
+     "explanation": "Deduct returns."
     },
     {
-     "question_text": "A cheque issued to a creditor is recorded on the:",
+     "question_text": "The use of subsidiary books is advantageous because of the:",
      "options": [
-      "Debit side of cash",
-      "Debit side of the bank column",
-      "Credit side of the bank column",
-      "Credit side of cash"
-     ],
-     "correct_index": 2,
-     "explanation": "Bank balance falls."
-    },
-    {
-     "question_text": "Single column cash book: opening 5,000; sales 10,000; purchases 6,000; rent 1,000; drawings 2,000. Closing cash is:",
-     "options": [
-      "Rs 8,000",
-      "Rs 9,000",
-      "Rs 6,000",
-      "Rs 15,000"
-     ],
-     "correct_index": 2,
-     "explanation": "15,000 − 9,000."
-    },
-    {
-     "question_text": "Double column cash book: cash 3,000, bank 12,000; deposits 2,000; supplier paid by cheque 5,000; cash sale 4,000. Closing cash and bank:",
-     "options": [
-      "Cash 7,000; Bank 9,000",
-      "Cash 9,000; Bank 5,000",
-      "Cash 5,000; Bank 14,000",
-      "Cash 5,000; Bank 9,000"
+      "Reduction of the tax",
+      "Increase in the profit",
+      "Elimination of the ledger",
+      "Division of labour and less posting"
      ],
      "correct_index": 3,
-     "explanation": "Cash 3,000 − 2,000 + 4,000; Bank 12,000 + 2,000 − 5,000."
+     "explanation": "Saves time."
     },
     {
-     "question_text": "Cash and discount: received 1,950 (disc 50); paid 2,900 (disc 100); closing balance 5,000. The opening balance was:",
+     "question_text": "A transaction in which goods are purchased for cash is recorded in the:",
+     "options": [
+      "Sales book, with the purchases account being debited",
+      "Cash book, with the purchases account being debited",
+      "Journal proper, with the cash account being credited",
+      "Purchases book, with the supplier's account credited"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash payment."
+    },
+    {
+     "question_text": "The total of the 'Purchases returns book' for the period is credited to purchases returns and the sum is in the trading account:",
+     "options": [
+      "Added to the sales",
+      "Deducted from purchases",
+      "Added to the purchases",
+      "Deducted from the sales"
+     ],
+     "correct_index": 1,
+     "explanation": "Net purchases."
+    },
+    {
+     "question_text": "The sales of goods on credit to Mr. A, GST included Rs 11,800 (GST 18%). Sales account is credited with:",
+     "options": [
+      "Rs 1,800",
+      "Rs 10,000",
+      "Rs 11,800",
+      "Rs 13,924"
+     ],
+     "correct_index": 1,
+     "explanation": "11,800 / 1.18."
+    },
+    {
+     "question_text": "In a three-column cash book, opening cash Rs 4,000, bank Rs 12,000. Received from debtors Rs 6,000 by cheque, paid creditor Rs 5,000 by cheque, cash purchases Rs 2,000. Closing balances: cash and bank are:",
+     "options": [
+      "Cash Rs 4,000; bank Rs 13,000",
+      "Cash Rs 2,000; bank Rs 13,000",
+      "Cash Rs 2,000; bank Rs 23,000",
+      "Cash Rs 6,000; bank Rs 13,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Compute."
+    },
+    {
+     "question_text": "A cheque deposited on 28 March is credited by the bank on 2 April. The cash book on 31 March shows a bank balance which is:",
+     "options": [
+      "Higher than the pass book",
+      "Lower than the pass book",
+      "Same as the pass book",
+      "Zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Deposit not yet credited."
+    },
+    {
+     "question_text": "Interest allowed by the bank Rs 800 credited in the pass book but not yet in the cash book. The cash book balance needs:",
+     "options": [
+      "No change",
+      "Subtracting Rs 800",
+      "Doubling",
+      "Adding Rs 800"
+     ],
+     "correct_index": 3,
+     "explanation": "Update."
+    },
+    {
+     "question_text": "Cash book balance Rs 24,000 (Dr). Cheques issued Rs 5,000 not yet presented. The bank pass book balance is:",
      "options": [
       "Rs 5,000",
-      "Rs 6,950",
-      "Rs 4,950",
-      "Rs 5,950"
-     ],
-     "correct_index": 3,
-     "explanation": "Opening + 1,950 − 2,900 = 5,000."
-    },
-    {
-     "question_text": "In a three column cash book, the balance of the cash column cannot be:",
-     "options": [
-      "Positive",
-      "Zero",
-      "Credit",
-      "Debit"
+      "Rs 19,000",
+      "Rs 29,000",
+      "Rs 24,000"
      ],
      "correct_index": 2,
-     "explanation": "Cash paid cannot exceed cash available."
+     "explanation": "Add back the uncleared."
     },
     {
-     "question_text": "Cash 10,000; Bank 30,000; cheque from X 5,000 (disc 100); rent 2,000 paid in cash; cash deposited 3,000; cheque to Y 8,000 (disc 200). Closing bank balance is:",
+     "question_text": "Cash discount of Rs 300 appears in the receipts side of the cash book. It refers to:",
      "options": [
+      "Trade discount",
+      "Discount received from the supplier",
+      "Discount allowed to the customer",
+      "Interest"
+     ],
+     "correct_index": 2,
+     "explanation": "Debit side."
+    },
+    {
+     "question_text": "The sale of old machinery for cash Rs 25,000 is recorded on the:",
+     "options": [
+      "Purchases book, debited to the purchases account",
+      "Payments side of the cash book, debited to machinery",
+      "Sales book, credited to the sales account",
+      "Receipts side of the cash book, credited to machinery account"
+     ],
+     "correct_index": 3,
+     "explanation": "Disposal of a fixed asset."
+    },
+    {
+     "question_text": "The ledger posting for cash purchase of Rs 8,000 is to the:",
+     "options": [
+      "Debit of sales",
+      "Debit of purchases account",
+      "Debit of cash",
+      "Credit of purchases account"
+     ],
+     "correct_index": 1,
+     "explanation": "From the cash book payments."
+    },
+    {
+     "question_text": "The statement that tally the cash book with the pass book is the:",
+     "options": [
+      "Balance sheet",
+      "Trial balance",
+      "Cash flow statement",
+      "Bank reconciliation statement"
+     ],
+     "correct_index": 3,
+     "explanation": "BRS."
+    },
+    {
+     "question_text": "Which of the following is NOT a column of the three column cash book?",
+     "options": [
+      "Purchases",
+      "Cash",
+      "Bank",
+      "Discount"
+     ],
+     "correct_index": 0,
+     "explanation": "Posted via the purchases book."
+    },
+    {
+     "question_text": "The journal proper is used for recording:",
+     "options": [
+      "Opening entries and rectification of errors",
+      "Credit sales of goods that the firm deals in",
+      "Receipts and payments of cash and cheques",
+      "Credit purchases of goods meant for resale"
+     ],
+     "correct_index": 0,
+     "explanation": "Residual."
+    },
+    {
+     "question_text": "The 'sales returns book' total is Rs 9,000. The total is posted to the:",
+     "options": [
+      "Debit of the sales account",
+      "Credit of sales returns account",
+      "Credit of the sales account",
+      "Debit of sales returns account"
+     ],
+     "correct_index": 3,
+     "explanation": "Contra to sales."
+    },
+    {
+     "question_text": "Credit purchase of goods Rs 25,000 from M and return of Rs 3,000. The credit balance of M's account is:",
+     "options": [
+      "Rs 28,000",
+      "Rs 3,000",
       "Rs 22,000",
-      "Rs 30,000",
-      "Rs 27,000",
-      "Rs 35,000"
-     ],
-     "correct_index": 1,
-     "explanation": "30,000 + 5,000 + 3,000 − 8,000."
-    },
-    {
-     "question_text": "Cash sales 7,000; wages 1,500 paid in cash; bank withdrawal 2,000 for personal use; cheque from Z 4,900 (disc 100). The net change in the bank column is:",
-     "options": [
-      "Rs +2,900",
-      "Rs +4,900",
-      "Rs −2,000",
-      "Rs +6,900"
-     ],
-     "correct_index": 0,
-     "explanation": "4,900 received − 2,000 withdrawn."
-    },
-    {
-     "question_text": "Bank overdraft Rs 5,000; deposit 10,000; cheque issued 4,000. The bank balance is:",
-     "options": [
-      "Rs 11,000 Dr",
-      "Rs 1,000 Cr",
-      "Rs 1,000 Dr",
-      "Rs 9,000 Dr"
+      "Rs 25,000"
      ],
      "correct_index": 2,
-     "explanation": "−5,000 + 10,000 − 4,000."
-    },
-    {
-     "question_text": "Cash 15,000; bank 40,000; salaries by cheque 6,000; cash purchases 4,000; bank interest credited 600. Closing bank balance is:",
-     "options": [
-      "Rs 35,000",
-      "Rs 34,600",
-      "Rs 33,400",
-      "Rs 46,600"
-     ],
-     "correct_index": 1,
-     "explanation": "40,000 − 6,000 + 600."
-    },
-    {
-     "question_text": "Cash book receipts 16,500 and payments 8,000. Closing balance is:",
-     "options": [
-      "Rs 24,500",
-      "Rs 16,500",
-      "Rs 8,500",
-      "Rs 8,000"
-     ],
-     "correct_index": 2,
-     "explanation": "Receipts − payments."
-    },
-    {
-     "question_text": "Closing bank balance 27,500; receipts (excluding opening) 14,000; payments 6,500. Opening balance was:",
-     "options": [
-      "Rs 20,000",
-      "Rs 7,500",
-      "Rs 35,000",
-      "Rs 8,000"
-     ],
-     "correct_index": 0,
-     "explanation": "27,500 = opening + 14,000 − 6,500."
-    },
-    {
-     "question_text": "The petty cash book is maintained by:",
-     "options": [
-      "The bank",
-      "The petty cashier to record small expenses",
-      "The auditor",
-      "The proprietor"
-     ],
-     "correct_index": 1,
-     "explanation": "It handles minor payments like postage."
-    },
-    {
-     "question_text": "The imprest system is where:",
-     "options": [
-      "No cash is kept",
-      "Cash is paid daily",
-      "Cash is unlimited",
-      "A fixed sum is given to the petty cashier and the amount spent is reimbursed periodically"
-     ],
-     "correct_index": 3,
-     "explanation": "The advance is restored to the original amount."
-    },
-    {
-     "question_text": "An advantage of the imprest system is:",
-     "options": [
-      "No records",
-      "More fraud",
-      "Better control over petty cash and small expenses",
-      "Larger cash"
-     ],
-     "correct_index": 2,
-     "explanation": "The head cashier knows the exact spending."
-    },
-    {
-     "question_text": "An analytical petty cash book:",
-     "options": [
-      "Classifies expenses under separate columns, e.g., postage, stationery",
-      "Has no columns",
-      "Is a ledger",
-      "Has one column"
-     ],
-     "correct_index": 0,
-     "explanation": "It facilitates posting of totals."
-    },
-    {
-     "question_text": "Imprest 2,000; postage 300; stationery 400; conveyance 250; sundries 150. The reimbursement is:",
-     "options": [
-      "Rs 1,100",
-      "Rs 1,500",
-      "Rs 2,000",
-      "Rs 900"
-     ],
-     "correct_index": 0,
-     "explanation": "300 + 400 + 250 + 150."
+     "explanation": "Net amount."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Subsidiary Books – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "In an analytical petty cash book, the sum of the analysis columns equals:",
+     "question_text": "Rs 15,000 cash purchase made; the cash is paid out of petty cash. The entry in the petty cash book is a:",
      "options": [
-      "The imprest",
-      "Zero",
-      "The total payments column",
-      "The cash balance"
+      "Reimbursement",
+      "Receipt",
+      "Payment",
+      "Balance"
      ],
      "correct_index": 2,
-     "explanation": "It acts as a check."
+     "explanation": "Debit purchases."
     },
     {
-     "question_text": "Under the imprest system, the amount reimbursed equals:",
+     "question_text": "Which of the following is a feature of the imprest system?",
      "options": [
-      "The imprest amount",
-      "The total amount spent during the period",
-      "Zero",
-      "The opening balance"
+      "Expenses are not classified",
+      "Fixed float restored regularly",
+      "No fixed amount",
+      "No book is needed"
      ],
      "correct_index": 1,
-     "explanation": "It restores the imprest."
+     "explanation": "Control."
     },
     {
-     "question_text": "Petty cash totals are posted to the ledger by:",
+     "question_text": "The cash book is a part of the:",
      "options": [
-      "Crediting expense accounts",
-      "Crediting Capital",
-      "Debiting the expense accounts with the column totals",
-      "Debiting petty cash"
-     ],
-     "correct_index": 2,
-     "explanation": "And crediting Cash/Petty Cash."
-    },
-    {
-     "question_text": "A cash book differs from a petty cash book in that a petty cash book records:",
-     "options": [
-      "Large payments",
-      "Bank loans",
-      "Small routine expenses, while the cash book records all cash transactions",
-      "Credit sales"
-     ],
-     "correct_index": 2,
-     "explanation": "It is maintained by a petty cashier."
-    },
-    {
-     "question_text": "A cash book differs from a cash account in that the cash book is:",
-     "options": [
-      "A final account",
-      "A statement",
-      "A book of original entry, and a cash account is part of the ledger",
-      "A ledger"
-     ],
-     "correct_index": 2,
-     "explanation": "The cash book serves as both."
-    },
-    {
-     "question_text": "While balancing the cash book:",
-     "options": [
-      "Ignore the totals",
-      "Delete entries",
-      "Total both sides, find the difference, and enter the balance on the smaller side as c/d",
-      "Add debit to credit"
-     ],
-     "correct_index": 2,
-     "explanation": "Then bring it down as b/d."
-    },
-    {
-     "question_text": "Which is recorded in the journal proper?",
-     "options": [
-      "Opening, closing, adjusting and rectification entries",
-      "Cash receipts",
-      "Credit purchases of goods",
-      "Credit sales of goods"
+      "Subsidiary books",
+      "Bank statement",
+      "Final accounts",
+      "Balance sheet"
      ],
      "correct_index": 0,
-     "explanation": "Also credit purchase/sale of assets."
+     "explanation": "Primary record."
     },
     {
-     "question_text": "Credit sale of an old asset worth Rs 5,000 is journalised as:",
+     "question_text": "On 1 April, petty cash in hand is Rs 1,500 and the imprest amount is Rs 6,000. Money required for restoring the imprest is:",
      "options": [
-      "Debtor Dr to Asset A/c",
-      "Cash Dr to Asset",
-      "Asset Dr to Debtor",
-      "Sales Dr to Debtor"
-     ],
-     "correct_index": 0,
-     "explanation": "Credit sale of an asset."
-    },
-    {
-     "question_text": "Outstanding wages Rs 3,000 are journalised as:",
-     "options": [
-      "Wages A/c Dr to Outstanding Wages A/c",
-      "Wages Dr to Cash",
-      "Outstanding Wages Dr to Wages",
-      "Cash Dr to Wages"
-     ],
-     "correct_index": 0,
-     "explanation": "Adjusting entry."
-    },
-    {
-     "question_text": "Rectification of goods taken by the proprietor Rs 2,000 (unrecorded):",
-     "options": [
-      "Drawings A/c Dr to Purchases A/c",
-      "Capital Dr to Purchases",
-      "Purchases Dr to Drawings",
-      "Cash Dr to Drawings"
-     ],
-     "correct_index": 0,
-     "explanation": "Drawings increase."
-    },
-    {
-     "question_text": "Writing off bad debt Rs 700:",
-     "options": [
-      "Bad Debts A/c Dr to Debtor",
-      "Bad Debts Dr to Cash",
-      "Cash Dr to Bad Debts",
-      "Debtor Dr to Bad Debts"
-     ],
-     "correct_index": 0,
-     "explanation": "Loss recognised."
-    },
-    {
-     "question_text": "Closing entry for purchases Rs 80,000:",
-     "options": [
-      "Capital Dr to Purchases",
-      "Cash Dr to Purchases",
-      "Purchases A/c Dr to Trading A/c",
-      "Trading A/c Dr to Purchases A/c"
-     ],
-     "correct_index": 3,
-     "explanation": "The expense is closed by crediting it."
-    },
-    {
-     "question_text": "Under GST, special-purpose records include:",
-     "options": [
-      "Trial balance",
-      "Only cash book",
-      "Input tax credit and output tax details in purchases and sales books",
-      "Ledger"
-     ],
-     "correct_index": 2,
-     "explanation": "GST requires separate tracking of tax."
-    },
-    {
-     "question_text": "The sales book records _____ and is posted to _____:",
-     "options": [
-      "Credit sales of goods; debit of customers and credit of Sales A/c",
-      "Returns; debtors",
-      "Purchases; suppliers",
-      "Cash sales; cash"
-     ],
-     "correct_index": 0,
-     "explanation": "Nature, entry and posting differ among books."
-    },
-    {
-     "question_text": "Subsidiary books help prepare the trial balance by:",
-     "options": [
-      "Replacing the ledger",
-      "Replacing the journal",
-      "Eliminating balances",
-      "Providing totals that are posted to the ledger accounts"
-     ],
-     "correct_index": 3,
-     "explanation": "Ledger balances come from them."
-    },
-    {
-     "question_text": "Large firms prefer subsidiary books because they:",
-     "options": [
-      "Are costly",
-      "Are optional",
-      "Eliminate ledgers",
-      "Handle many similar transactions efficiently"
-     ],
-     "correct_index": 3,
-     "explanation": "Work can be divided among clerks."
-    },
-    {
-     "question_text": "If the sales book total is posted wrongly:",
-     "options": [
-      "The trial balance will not agree (or the error is found when totals are checked)",
-      "Nothing happens",
-      "Cash changes",
-      "Capital changes"
-     ],
-     "correct_index": 0,
-     "explanation": "Debits will not equal credits."
-    },
-    {
-     "question_text": "Purchases book: Kiran Rs 12,000 less 10%; Lal Rs 9,000. Total is:",
-     "options": [
-      "Rs 19,800",
-      "Rs 21,000",
-      "Rs 20,000",
-      "Rs 19,000"
-     ],
-     "correct_index": 0,
-     "explanation": "10,800 + 9,000."
-    },
-    {
-     "question_text": "Sales book: Anil Rs 18,000 less 5%; Bimal Rs 7,500. Total is:",
-     "options": [
-      "Rs 25,500",
-      "Rs 25,000",
-      "Rs 24,600",
-      "Rs 24,000"
-     ],
-     "correct_index": 2,
-     "explanation": "17,100 + 7,500."
-    },
-    {
-     "question_text": "Returns inward: Anil Rs 1,800; Bimal Rs 500. Total is:",
-     "options": [
-      "Rs 1,800",
-      "Rs 2,000",
-      "Rs 2,300",
-      "Rs 1,300"
-     ],
-     "correct_index": 2,
-     "explanation": "1,800 + 500."
-    },
-    {
-     "question_text": "Returns outward: Kiran Rs 1,080; Lal Rs 400. Total is:",
-     "options": [
-      "Rs 1,380",
-      "Rs 1,480",
-      "Rs 400",
-      "Rs 1,080"
+      "Rs 7,500",
+      "Rs 4,500",
+      "Rs 1,500",
+      "Rs 6,000"
      ],
      "correct_index": 1,
-     "explanation": "1,080 + 400."
+     "explanation": "Float restored."
     },
     {
-     "question_text": "The purchases book total is posted to the:",
+     "question_text": "The sum of the analysis columns Rs 3,720 and the payments column Rs 3,720 indicates that:",
      "options": [
-      "Credit of Sales A/c",
-      "Credit of Purchases A/c",
-      "Debit of suppliers",
-      "Debit of Purchases A/c, and each supplier is credited individually"
+      "The book is incomplete",
+      "The imprest is wrong",
+      "The book is wrongly posted",
+      "The book is arithmetically correct"
      ],
      "correct_index": 3,
-     "explanation": "Totals are posted monthly."
+     "explanation": "Check."
     },
     {
-     "question_text": "Cash 8,000; bank 25,000; cheque from P 9,800 (discount 200); paid Q Rs 4,900 cash (discount 100); deposited cash 3,000; rent by cheque 2,000. Closing cash and bank:",
+     "question_text": "The receipt column of the petty cash book shows Rs 6,000 (opening 1,000 and reimbursement 5,000). Total expenses Rs 4,250. Closing balance is:",
      "options": [
-      "Cash Rs 8,100; Bank Rs 35,800",
-      "Cash Rs 3,100; Bank Rs 35,800",
-      "Cash Rs 100; Bank Rs 35,800",
-      "Cash Rs 100; Bank Rs 33,800"
+      "Rs 1,750",
+      "Rs 4,250",
+      "Rs 2,750",
+      "Rs 6,000"
+     ],
+     "correct_index": 0,
+     "explanation": "6,000 − 4,250."
+    },
+    {
+     "question_text": "A goods return book entry for the return of damaged goods to a supplier appears in:",
+     "options": [
+      "Purchase returns book",
+      "Cash book",
+      "Sales returns book",
+      "Bills receivable book"
+     ],
+     "correct_index": 0,
+     "explanation": "Returns outward."
+    },
+    {
+     "question_text": "In the sales ledger, the account of a customer is credited when:",
+     "options": [
+      "The firm charges interest",
+      "The customer purchases goods",
+      "The firm gives a loan",
+      "The customer pays or returns goods"
+     ],
+     "correct_index": 3,
+     "explanation": "Customer's liability reduced."
+    },
+    {
+     "question_text": "A customer's cheque of Rs 5,000 on which Rs 150 discount was allowed is dishonoured. The discount allowed:",
+     "options": [
+      "Is closed to the balance sheet as a liability",
+      "Remains valid, as the customer paid on time",
+      "Is credited to the capital account of the firm",
+      "Has to be reversed, as the debt is revived in full"
+     ],
+     "correct_index": 3,
+     "explanation": "Dishonoured cheque."
+    },
+    {
+     "question_text": "The cashier of a firm records the cheque of Rs 7,000 in the bank column on the receipts side. The cheque is returned by the bank. The next entry is:",
+     "options": [
+      "Cr bank 7,000; Dr debtor 7,000",
+      "Dr sales; Cr bank",
+      "Cr cash; Dr bank",
+      "Dr bank 7,000; Cr debtor 7,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Reverse."
+    },
+    {
+     "question_text": "A purchase on 5 April of Rs 12,000 terms 2/10, n/30. If payment is on 12 April, the payment is:",
+     "options": [
+      "Rs 11,760",
+      "Rs 12,000",
+      "Rs 11,000",
+      "Rs 12,240"
+     ],
+     "correct_index": 0,
+     "explanation": "2% discount within 10 days."
+    },
+    {
+     "question_text": "Cash discount taken Rs 240 on payment of Rs 12,000 invoice, is shown in the:",
+     "options": [
+      "Sales book",
+      "Discount allowed column on the receipts side",
+      "Discount received column on the payments side",
+      "Purchase book"
      ],
      "correct_index": 2,
-     "explanation": "Cash 8,000 − 4,900 − 3,000; Bank 25,000 + 9,800 + 3,000 − 2,000."
+     "explanation": "Gain."
     },
     {
-     "question_text": "The sales book differs from the sales account in that the sales book is:",
+     "question_text": "Credit sales of Rs 60,000, payment by acceptance of a bill of Rs 60,000. This is recorded in the:",
      "options": [
-      "The same",
-      "A book of original entry for credit sales, and the sales account is a ledger account",
-      "A final account",
-      "A ledger"
-     ],
-     "correct_index": 1,
-     "explanation": "The total is posted to the sales account."
-    },
-    {
-     "question_text": "The cash book is considered more important than other subsidiary books because it:",
-     "options": [
-      "Records credit sales",
-      "Records returns",
-      "Records assets",
-      "Records cash and bank transactions and serves as both journal and ledger"
+      "Sales book only",
+      "Purchases book",
+      "Bills payable book",
+      "Bills receivable book"
      ],
      "correct_index": 3,
-     "explanation": "It shows the cash and bank position."
+     "explanation": "Receivable."
+    },
+    {
+     "question_text": "A cheque of Rs 9,000 sent by post on 30 March is not received by the creditor till 3 April. The cash book is credited on:",
+     "options": [
+      "3 April",
+      "2 April",
+      "31 March",
+      "30 March"
+     ],
+     "correct_index": 3,
+     "explanation": "Date of issue."
+    },
+    {
+     "question_text": "The 'folio' column in the cash book is meant for:",
+     "options": [
+      "Voucher numbers",
+      "Ledger page numbers",
+      "Cheque numbers",
+      "Bill numbers"
+     ],
+     "correct_index": 1,
+     "explanation": "Cross reference."
+    },
+    {
+     "question_text": "If bank charges Rs 120 are debited in the pass book but not in the cash book, the cash book balance is:",
+     "options": [
+      "Doubled",
+      "Correct",
+      "Understated by Rs 120",
+      "Overstated by Rs 120"
+     ],
+     "correct_index": 3,
+     "explanation": "Not yet deducted."
+    },
+    {
+     "question_text": "The cash discount allowed by a supplier cannot be recorded in the:",
+     "options": [
+      "Journal",
+      "Ledger",
+      "Cash book",
+      "Purchases book"
+     ],
+     "correct_index": 3,
+     "explanation": "Appears only when payment is made."
+    },
+    {
+     "question_text": "Imprest petty cashier's records show opening balance Rs 800, receipts Rs 4,200, payments Rs 3,950. The closing balance is:",
+     "options": [
+      "Rs 8,950",
+      "Rs 1,050",
+      "Rs 5,000",
+      "Rs 950"
+     ],
+     "correct_index": 1,
+     "explanation": "5,000 − 3,950."
+    },
+    {
+     "question_text": "Postage bought on credit is recorded in the:",
+     "options": [
+      "Cash book",
+      "Purchases book",
+      "Journal proper",
+      "Sales book"
+     ],
+     "correct_index": 2,
+     "explanation": "Not goods."
+    },
+    {
+     "question_text": "A credit note shows that Rs 1,180 inclusive of 18% GST is credited to the customer. Value of goods returned is:",
+     "options": [
+      "Rs 1,000",
+      "Rs 180",
+      "Rs 1,418",
+      "Rs 1,180"
+     ],
+     "correct_index": 0,
+     "explanation": "1,180 / 1.18."
+    },
+    {
+     "question_text": "Sales return GST of Rs 180 is adjusted against:",
+     "options": [
+      "Purchase returns",
+      "Output GST liability",
+      "Sales account",
+      "Input GST credit"
+     ],
+     "correct_index": 1,
+     "explanation": "Reduces the tax collected."
+    },
+    {
+     "question_text": "The total of the debit side of the cash book is Rs 1,46,000 and the credit side excluding balance is Rs 1,12,000. The closing balance is:",
+     "options": [
+      "Rs 34,000 Cr",
+      "Rs 0",
+      "Rs 34,000 Dr",
+      "Rs 2,58,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Difference."
+    },
+    {
+     "question_text": "Rs 4,000 received from debtor and Rs 80 cash discount allowed. The ledger account of the debtor is credited with:",
+     "options": [
+      "Rs 4,000",
+      "Rs 4,080",
+      "Rs 3,920",
+      "Rs 80"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash plus discount."
+    },
+    {
+     "question_text": "The subsidiary book that records the bills accepted by the firm is the:",
+     "options": [
+      "Bills payable book",
+      "Cash book",
+      "Sales book",
+      "Bills receivable book"
+     ],
+     "correct_index": 0,
+     "explanation": "Bills payable."
+    },
+    {
+     "question_text": "The posting of discount received from the cash book is made at:",
+     "options": [
+      "Each transaction separately",
+      "The end of the period in total",
+      "Never",
+      "The time of audit"
+     ],
+     "correct_index": 1,
+     "explanation": "Periodic."
     }
    ]
   }

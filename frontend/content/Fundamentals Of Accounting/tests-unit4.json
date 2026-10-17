@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
-   "title": "Unit 4: Books of Second Entry – Ledger – Practice Test 1",
+   "rev": 2,
+   "title": "Unit 4: Books of Second Entry — Ledger – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A ledger is:",
+     "question_text": "A ledger account has debit entries of Rs 45,000 and credit entries of Rs 38,500. The closing balance is:",
      "options": [
-      "A book containing all accounts, where transactions from the journal are classified under account heads",
-      "A summary of cash",
-      "A list of balances",
-      "A book of original entry"
+      "Rs 6,500 debit, brought down on the credit side",
+      "Rs 83,500 debit, brought down on the debit side",
+      "Rs 6,500 debit, brought down as balance b/d on the debit side",
+      "Rs 6,500 credit, brought down as balance b/d on the credit side"
      ],
-     "correct_index": 0,
-     "explanation": "It is the principal book of accounts."
+     "correct_index": 2,
+     "explanation": "Debit total exceeds credit."
     },
     {
-     "question_text": "The ledger is called a book of final entry because:",
+     "question_text": "In a ledger, the account of Mr. Rao shows: Dr — balance b/d 12,000, sales 8,000; Cr — returns 1,500, cash 10,000. His closing balance is:",
      "options": [
-      "It is written first",
-      "It is audited",
-      "It records narration",
-      "Entries are finally posted into accounts here from the journal and subsidiary books"
+      "Rs 8,500 debit, being the amount he still owes",
+      "Rs 20,000 debit, being the total of debits",
+      "Rs 11,500 debit, being the total of credits",
+      "Rs 8,500 credit, being the amount owed to him"
+     ],
+     "correct_index": 0,
+     "explanation": "20,000 − 11,500."
+    },
+    {
+     "question_text": "The ledger account of a creditor shows opening balance Rs 15,000 (Cr), purchases Rs 22,000, payments Rs 30,000 and returns Rs 2,000. The closing balance is:",
+     "options": [
+      "Rs 69,000 credit, representing the total entries",
+      "Rs 9,000 credit, representing the amount payable",
+      "Rs 5,000 credit, representing the amount payable",
+      "Rs 5,000 debit, representing the amount receivable"
+     ],
+     "correct_index": 2,
+     "explanation": "37,000 − 32,000."
+    },
+    {
+     "question_text": "While posting, the account to be debited for a credit sale of Rs 9,000 to Mr. Sen is:",
+     "options": [
+      "The cash account in the cash book",
+      "The stock account in the general ledger",
+      "Mr. Sen's personal account in the debtors ledger",
+      "The sales account in the nominal ledger"
+     ],
+     "correct_index": 2,
+     "explanation": "Debtor is debited."
+    },
+    {
+     "question_text": "The sales account, after posting Rs 5,00,000 sales and Rs 20,000 sales returns, shows:",
+     "options": [
+      "A nil balance since returns are equal to sales",
+      "A credit balance of Rs 5,00,000 and returns shown separately",
+      "A debit balance of Rs 4,80,000 transferred to trading",
+      "A credit balance of Rs 5,20,000 including the returns"
+     ],
+     "correct_index": 1,
+     "explanation": "Returns are recorded in a separate account and netted in the trading account."
+    },
+    {
+     "question_text": "Which ledger account is NOT closed at the end of the year by transfer?",
+     "options": [
+      "Wages account",
+      "Cash account",
+      "Purchases account",
+      "Sales account"
+     ],
+     "correct_index": 1,
+     "explanation": "Real accounts are carried forward."
+    },
+    {
+     "question_text": "Closing balance of an account is written on the side that makes the:",
+     "options": [
+      "Debit side bigger than the credit",
+      "Opening balance zero",
+      "Credit side bigger than the debit",
+      "Totals of the two sides equal"
      ],
      "correct_index": 3,
-     "explanation": "Journal is the book of original entry."
+     "explanation": "To balance both sides."
     },
     {
-     "question_text": "The ledger is called the \"king of books\" because:",
+     "question_text": "The sub-division of the ledger into sales ledger, purchase ledger and general ledger is made to:",
      "options": [
-      "It contains all accounts and is the main source for final accounts",
-      "It is the largest",
-      "It is the oldest",
-      "It is a legal document"
-     ],
-     "correct_index": 0,
-     "explanation": "Trial balance and final accounts are prepared from it."
-    },
-    {
-     "question_text": "A feature of a ledger is that it:",
-     "options": [
-      "Classifies transactions account-wise and contains a separate page for each account",
-      "Has narration",
-      "Has no accounts",
-      "Records in date order only"
-     ],
-     "correct_index": 0,
-     "explanation": "Each account has debit and credit sides."
-    },
-    {
-     "question_text": "Ledgers are classified into:",
-     "options": [
-      "Debit and credit ledgers",
-      "Debtors' ledger, creditors' ledger and general ledger",
-      "Fixed and current ledgers",
-      "Cash and credit ledgers"
-     ],
-     "correct_index": 1,
-     "explanation": "The general ledger holds other accounts."
-    },
-    {
-     "question_text": "A private ledger contains:",
-     "options": [
-      "Customer accounts",
-      "Supplier accounts",
-      "Confidential accounts like capital, drawings and profit and loss",
-      "Cash only"
-     ],
-     "correct_index": 2,
-     "explanation": "It is kept by the owner or a trusted person."
-    },
-    {
-     "question_text": "The format of a ledger account has:",
-     "options": [
-      "One side",
-      "No columns",
-      "Two sides (debit left, credit right), each with date, particulars, J.F. and amount",
-      "Three sides"
-     ],
-     "correct_index": 2,
-     "explanation": "The T-format is used."
-    },
-    {
-     "question_text": "In a ledger, \"To\" is used on the _____ side and \"By\" on the _____ side:",
-     "options": [
-      "Credit; debit",
-      "Debit; credit",
-      "Debit; debit",
-      "Credit; credit"
-     ],
-     "correct_index": 1,
-     "explanation": "\"To\" for the debit side and \"By\" for the credit side."
-    },
-    {
-     "question_text": "A journal folio (J.F.) is:",
-     "options": [
-      "The narration",
-      "The ledger page",
-      "The page number of the journal from which a posting is made",
-      "The balance"
-     ],
-     "correct_index": 2,
-     "explanation": "It helps cross-reference."
-    },
-    {
-     "question_text": "The journal differs from the ledger in that the journal is a:",
-     "options": [
-      "Cash book",
-      "Summary book",
-      "Final book",
-      "Book of original entry in date order, ledger is a book of final entry account-wise"
+      "Eliminate the need for a trial balance",
+      "Avoid the use of a journal",
+      "Reduce the volume of transactions",
+      "Divide work and permit specialised control"
      ],
      "correct_index": 3,
-     "explanation": "Journal records chronologically; ledger classifies."
+     "explanation": "Division of labour."
     },
     {
-     "question_text": "Posting is:",
+     "question_text": "A control account is best described as a:",
      "options": [
-      "Closing accounts",
-      "Recording in journal",
-      "Preparing a trial balance",
-      "Transferring entries from the journal to the ledger accounts"
+      "Summary account used to check the accuracy of a subsidiary ledger",
+      "Real account kept to record the cash balances of the business",
+      "Personal account opened in the name of each debtor of the firm",
+      "Nominal account opened to record the expenses of the period"
+     ],
+     "correct_index": 0,
+     "explanation": "Total accounts."
+    },
+    {
+     "question_text": "The sales ledger adjustment account is also known as:",
+     "options": [
+      "Total sales account",
+      "Total creditors account",
+      "Total bank account",
+      "Total debtors account"
      ],
      "correct_index": 3,
-     "explanation": "Each entry is posted to the debit and credit accounts."
+     "explanation": "Control account for debtors."
     },
     {
-     "question_text": "The first step in posting a journal entry is to:",
+     "question_text": "Opening debtors Rs 40,000; credit sales Rs 2,00,000; cash received Rs 1,50,000; discount allowed Rs 5,000; returns Rs 10,000. Closing debtors are:",
      "options": [
-      "Total the journal",
-      "Calculate profit",
-      "Prepare the balance sheet",
-      "Open an account for each head and write the date and particulars on the proper side"
-     ],
-     "correct_index": 3,
-     "explanation": "Then record amount and folio."
-    },
-    {
-     "question_text": "In posting a compound entry:",
-     "options": [
-      "Each debit and credit account is posted separately to its own account",
-      "Posting is skipped",
-      "Only one account is posted",
-      "Only debit is posted"
-     ],
-     "correct_index": 0,
-     "explanation": "Total debits must equal total credits."
-    },
-    {
-     "question_text": "Balancing an account means:",
-     "options": [
-      "Finding the difference between the totals of debit and credit sides",
-      "Deleting entries",
-      "Adding both sides together",
-      "Closing the books"
-     ],
-     "correct_index": 0,
-     "explanation": "It is done at the end of a period."
-    },
-    {
-     "question_text": "The balance of an account is found by:",
-     "options": [
-      "Adding both totals",
-      "Totalling both sides and taking the difference",
-      "Multiplying",
-      "Taking only the debit total"
-     ],
-     "correct_index": 1,
-     "explanation": "The larger side minus the smaller side."
-    },
-    {
-     "question_text": "\"By balance c/d\" is written when:",
-     "options": [
-      "The debit side is greater than the credit side",
-      "Both sides are equal",
-      "The credit side is greater",
-      "The account is closed"
-     ],
-     "correct_index": 0,
-     "explanation": "It is entered on the credit side to equalise totals."
-    },
-    {
-     "question_text": "\"To balance c/d\" is written when:",
-     "options": [
-      "The account is new",
-      "The credit side is greater than the debit side",
-      "Both sides are equal",
-      "The debit side is greater"
-     ],
-     "correct_index": 1,
-     "explanation": "It is entered on the debit side."
-    },
-    {
-     "question_text": "\"Balance b/d\" means:",
-     "options": [
-      "Balance brought down to the next period",
-      "Bad debts",
-      "Balance carried down",
-      "Bank deposit"
-     ],
-     "correct_index": 0,
-     "explanation": "It is the opening balance."
-    },
-    {
-     "question_text": "Accounts that normally have debit balances are:",
-     "options": [
-      "Liabilities",
-      "Capital",
-      "Incomes",
-      "Assets, expenses and losses"
-     ],
-     "correct_index": 3,
-     "explanation": "Debtors, cash, purchases, rent."
-    },
-    {
-     "question_text": "Accounts that normally have credit balances are:",
-     "options": [
-      "Losses",
-      "Liabilities, capital and incomes",
-      "Expenses",
-      "Assets"
-     ],
-     "correct_index": 1,
-     "explanation": "Creditors, capital, sales."
-    },
-    {
-     "question_text": "A cash account:",
-     "options": [
-      "Cannot have a credit balance as cash paid cannot exceed cash available",
-      "Is always zero",
-      "Can have a credit balance",
-      "Always has a credit balance"
-     ],
-     "correct_index": 0,
-     "explanation": "A credit balance would indicate an error."
-    },
-    {
-     "question_text": "At the year end, nominal accounts are:",
-     "options": [
-      "Closed by transfer to the trading or profit and loss account",
-      "Added to capital",
-      "Carried forward",
-      "Ignored"
-     ],
-     "correct_index": 0,
-     "explanation": "Their balances are not carried to the next year."
-    },
-    {
-     "question_text": "Cash A/c: Capital 1,00,000 received; paid furniture 20,000, rent 2,000; received from Shyam 24,000; paid Ram 29,000; drawings 5,000. Balance is:",
-     "options": [
-      "Rs 56,000",
-      "Rs 80,000",
-      "Rs 68,000",
-      "Rs 1,24,000"
+      "Rs 90,000",
+      "Rs 85,000",
+      "Rs 75,000",
+      "Rs 70,000"
      ],
      "correct_index": 2,
-     "explanation": "Receipts 1,24,000 − payments 56,000."
+     "explanation": "240,000 − 165,000."
     },
     {
-     "question_text": "Capital A/c: Opening 50,000; introduced 10,000; drawings 6,000; net profit 20,000. Closing balance is:",
+     "question_text": "Opening creditors Rs 30,000; credit purchases Rs 1,20,000; payments Rs 90,000; discount received Rs 3,000; returns outwards Rs 7,000. Closing creditors are:",
      "options": [
-      "Rs 74,000",
-      "Rs 86,000",
-      "Rs 66,000",
-      "Rs 80,000"
-     ],
-     "correct_index": 0,
-     "explanation": "50,000 + 10,000 + 20,000 − 6,000."
-    },
-    {
-     "question_text": "Ram's account: purchases 30,000; returned 2,000; paid 25,000; discount 500. The balance is:",
-     "options": [
-      "Rs 5,000 Cr",
-      "Rs 2,500 Dr",
-      "Rs 2,500 Cr",
-      "Rs 1,500 Cr"
-     ],
-     "correct_index": 2,
-     "explanation": "30,000 − 2,000 − 25,000 − 500."
-    }
-   ]
-  },
-  {
-   "title": "Unit 4: Books of Second Entry – Ledger – Practice Test 2",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "Shyam's account: sold goods 25,000; returns 1,000; received 20,000; discount 400. The balance is:",
-     "options": [
-      "Rs 3,600 Dr",
-      "Rs 4,000 Dr",
-      "Rs 3,600 Cr",
-      "Rs 5,000 Dr"
-     ],
-     "correct_index": 0,
-     "explanation": "25,000 − 1,000 − 20,000 − 400."
-    },
-    {
-     "question_text": "Purchases 30,000, 20,000, 15,000, returns 5,000. Net purchases balance is:",
-     "options": [
-      "Rs 60,000 Dr",
-      "Rs 65,000 Dr",
-      "Rs 60,000 Cr",
-      "Rs 70,000 Dr"
-     ],
-     "correct_index": 0,
-     "explanation": "65,000 − 5,000."
-    },
-    {
-     "question_text": "Sales 50,000, 40,000, returns 4,000. Net sales balance is:",
-     "options": [
-      "Rs 86,000 Dr",
-      "Rs 86,000 Cr",
-      "Rs 94,000 Cr",
-      "Rs 90,000 Cr"
+      "Rs 40,000",
+      "Rs 50,000",
+      "Rs 70,000",
+      "Rs 60,000"
      ],
      "correct_index": 1,
-     "explanation": "90,000 − 4,000."
+     "explanation": "150,000 − 100,000."
     },
     {
-     "question_text": "Rent paid 1,000 per month for 6 months; outstanding 1,000. Rent transferred to P&L is:",
+     "question_text": "In a total debtors account, bad debts written off are shown on the:",
      "options": [
-      "Rs 5,000",
-      "Rs 7,000",
-      "Rs 6,000",
-      "Rs 1,000"
-     ],
-     "correct_index": 1,
-     "explanation": "6,000 + 1,000."
-    },
-    {
-     "question_text": "Salary paid 10,000 and 10,000; outstanding 5,000. Salary transferred to P&L is:",
-     "options": [
-      "Rs 15,000",
-      "Rs 25,000",
-      "Rs 5,000",
-      "Rs 20,000"
-     ],
-     "correct_index": 1,
-     "explanation": "20,000 + 5,000."
-    },
-    {
-     "question_text": "Bank A/c: deposit 50,000; cheque issued 20,000; withdrew 5,000; cheque received 10,000. Balance is:",
-     "options": [
-      "Rs 35,000 Dr",
-      "Rs 25,000 Dr",
-      "Rs 35,000 Cr",
-      "Rs 45,000 Dr"
-     ],
-     "correct_index": 0,
-     "explanation": "(50,000 + 10,000) − (20,000 + 5,000)."
-    },
-    {
-     "question_text": "Furniture A/c: bought 30,000; sold 10,000 (cost). Balance is:",
-     "options": [
-      "Rs 40,000 Dr",
-      "Rs 20,000 Cr",
-      "Rs 20,000 Dr",
-      "Rs 10,000 Dr"
+      "Debit side",
+      "Either side depending on amount",
+      "Credit side",
+      "They are not shown"
      ],
      "correct_index": 2,
-     "explanation": "30,000 − 10,000."
+     "explanation": "They reduce the debtors."
     },
     {
-     "question_text": "Discount allowed: 200 + 300 + 150 + 350 = ?",
+     "question_text": "In a total debtors account, bills receivable received are shown on the:",
      "options": [
-      "Rs 1,500",
-      "Rs 1,000 (transferred to P&L)",
-      "Rs 500",
-      "Rs 800"
+      "Credit side",
+      "Both sides",
+      "Debit side",
+      "Neither side"
+     ],
+     "correct_index": 0,
+     "explanation": "Debtors settled by bills."
+    },
+    {
+     "question_text": "A dishonoured bill appears in the total debtors account on the:",
+     "options": [
+      "Both sides",
+      "Debit side",
+      "Credit side",
+      "Neither side"
      ],
      "correct_index": 1,
-     "explanation": "Total discount allowed is a loss."
+     "explanation": "Debtor again owes."
     },
     {
-     "question_text": "Discount received: 100 + 150 + 250 = ?",
-     "options": [
-      "Rs 500 (transferred to P&L)",
-      "Rs 400",
-      "Rs 300",
-      "Rs 1,000"
-     ],
-     "correct_index": 0,
-     "explanation": "Total discount received is a gain."
-    },
-    {
-     "question_text": "On Jan 1 the entry Cash Dr 50,000 to Capital 50,000 is posted. In the ledger, Cash A/c has:",
-     "options": [
-      "A credit entry \"By Capital\"",
-      "A balance b/d",
-      "A debit entry \"To Capital 50,000\"",
-      "No entry"
-     ],
-     "correct_index": 2,
-     "explanation": "Capital A/c gets \"By Cash 50,000\"."
-    },
-    {
-     "question_text": "Rent paid 2,000; outstanding 500; received 1,000. Net rent expense is:",
-     "options": [
-      "Rs 2,500",
-      "Rs 3,500",
-      "Rs 1,500",
-      "Rs 2,000"
-     ],
-     "correct_index": 2,
-     "explanation": "2,000 + 500 − 1,000."
-    },
-    {
-     "question_text": "Opening entry: Cash 10,000; Stock 20,000; Debtors 15,000 / Creditors 12,000; Capital 33,000. Total debit is:",
-     "options": [
-      "Rs 78,000",
-      "Rs 45,000",
-      "Rs 33,000",
-      "Rs 12,000"
-     ],
-     "correct_index": 1,
-     "explanation": "Assets 45,000 = liabilities 12,000 + capital 33,000."
-    },
-    {
-     "question_text": "Ledger balances are carried forward by:",
-     "options": [
-      "Ignoring them",
-      "Deleting accounts",
-      "Writing the balance c/d and bringing it down as b/d in the next period",
-      "Closing them"
-     ],
-     "correct_index": 2,
-     "explanation": "Real and personal account balances continue."
-    },
-    {
-     "question_text": "A nominal account is closed at the year-end by:",
-     "options": [
-      "Transferring its balance to the P&L (or trading) account",
-      "Adding to capital",
-      "Carrying forward",
-      "Ignoring"
-     ],
-     "correct_index": 0,
-     "explanation": "Expenses are credited, incomes are debited when closing."
-    },
-    {
-     "question_text": "A trial balance is:",
-     "options": [
-      "A ledger",
-      "A journal",
-      "A statement of debit and credit balances of ledger accounts on a given date",
-      "A balance sheet"
-     ],
-     "correct_index": 2,
-     "explanation": "It checks arithmetical accuracy."
-    },
-    {
-     "question_text": "An objective of a trial balance is to:",
-     "options": [
-      "Record cash",
-      "Calculate profit",
-      "Close accounts",
-      "Check the arithmetical accuracy of the ledger"
-     ],
-     "correct_index": 3,
-     "explanation": "It also helps prepare final accounts."
-    },
-    {
-     "question_text": "The methods of preparing a trial balance are:",
-     "options": [
-      "Journal method",
-      "Total method, balance method and total-cum-balance method",
-      "Cash method",
-      "Debit method"
-     ],
-     "correct_index": 1,
-     "explanation": "The balance method is most common."
-    },
-    {
-     "question_text": "In the balance method:",
-     "options": [
-      "Only the balances of accounts are listed",
-      "Totals of both sides are listed",
-      "Journal totals are listed",
-      "Only debits are listed"
-     ],
-     "correct_index": 0,
-     "explanation": "Debit balances in one column, credit balances in the other."
-    },
-    {
-     "question_text": "In the total method:",
-     "options": [
-      "Only balances are listed",
-      "Only debits are listed",
-      "Totals of debit and credit sides of each account are listed",
-      "Journal totals are listed"
-     ],
-     "correct_index": 2,
-     "explanation": "It does not give balances."
-    },
-    {
-     "question_text": "The total-cum-balance method shows:",
-     "options": [
-      "Both the totals and the balances of accounts",
-      "Only debits",
-      "Only totals",
-      "Only balances"
-     ],
-     "correct_index": 0,
-     "explanation": "It combines the two methods."
-    },
-    {
-     "question_text": "The format of a trial balance has columns for:",
-     "options": [
-      "Account name, L.F., debit amount and credit amount",
-      "Date and narration",
-      "Assets and liabilities",
-      "Cash and bank"
-     ],
-     "correct_index": 0,
-     "explanation": "Totals must agree."
-    },
-    {
-     "question_text": "Opening stock appears in the trial balance:",
-     "options": [
-      "Not at all",
-      "On the debit side",
-      "On the credit side",
-      "On either side"
-     ],
-     "correct_index": 1,
-     "explanation": "It is an asset carried forward."
-    },
-    {
-     "question_text": "If closing stock is given in the trial balance, it is:",
-     "options": [
-      "Ignored",
-      "Shown on the credit side",
-      "Shown as capital",
-      "Shown on the debit side (as an asset) and not in the trading account's credit side again"
-     ],
-     "correct_index": 3,
-     "explanation": "It is an adjustment already recorded."
-    },
-    {
-     "question_text": "Debtors appear in a trial balance:",
+     "question_text": "Cash sales are shown in the total debtors account:",
      "options": [
       "On the debit side",
-      "In both",
+      "On both the sides",
       "On the credit side",
       "Not at all"
      ],
-     "correct_index": 0,
-     "explanation": "They are assets."
-    },
-    {
-     "question_text": "Drawings appear in a trial balance:",
-     "options": [
-      "In both",
-      "Not at all",
-      "On the credit side",
-      "On the debit side"
-     ],
      "correct_index": 3,
-     "explanation": "They reduce capital."
-    }
-   ]
-  },
-  {
-   "title": "Unit 4: Books of Second Entry – Ledger – Practice Test 3",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "Bank overdraft appears in a trial balance:",
-     "options": [
-      "In both",
-      "Not at all",
-      "On the debit side",
-      "On the credit side"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a liability."
+     "explanation": "Only credit sales."
     },
     {
-     "question_text": "The provision for doubtful debts appears:",
-     "options": [
-      "On the credit side of the trial balance",
-      "In both",
-      "Not at all",
-      "On the debit side"
-     ],
-     "correct_index": 0,
-     "explanation": "It is a provision (liability or contra-asset)."
-    },
-    {
-     "question_text": "Cash 5,000; Capital 40,000; Purchases 30,000; Sales 45,000; Rent 2,000; Furniture 18,000; Creditors 10,000; Debtors 25,000; Drawings 5,000; Discount allowed 500; Salary 9,500. The trial balance total is:",
+     "question_text": "Opening balance of debtors is Rs 20,000 and closing Rs 25,000. Cash collected Rs 80,000, bad debts Rs 2,000 and discounts Rs 3,000. Credit sales are:",
      "options": [
       "Rs 85,000",
       "Rs 90,000",
-      "Rs 1,00,000",
-      "Rs 95,000"
-     ],
-     "correct_index": 3,
-     "explanation": "Debits: 95,000; credits: Capital 40,000 + Sales 45,000 + Creditors 10,000 = 95,000."
-    },
-    {
-     "question_text": "Debit total 2,50,000 and credit total 2,35,000. The difference of Rs 15,000 is:",
-     "options": [
-      "Added to capital",
-      "Placed on the debit side",
-      "Ignored",
-      "Placed on the credit side as suspense account"
-     ],
-     "correct_index": 3,
-     "explanation": "The suspense account balances the trial balance."
-    },
-    {
-     "question_text": "Which error is NOT disclosed by a trial balance?",
-     "options": [
-      "Posting to one side only",
-      "Error of omission (complete omission of a transaction)",
-      "Wrong balancing",
-      "Wrong totalling"
+      "Rs 95,000",
+      "Rs 80,000"
      ],
      "correct_index": 1,
-     "explanation": "Others: errors of principle, compensating errors, errors of commission with equal effect."
+     "explanation": "Balancing figure: 110,000 − 20,000."
     },
     {
-     "question_text": "Which error is disclosed by a trial balance?",
+     "question_text": "A purchase ledger adjustment account has debit entries of Rs 4,00,000 and credit entries of Rs 4,50,000. Closing creditors are:",
      "options": [
-      "Compensating error",
-      "Complete omission",
-      "Posting an amount on one side only",
-      "Error of principle"
-     ],
-     "correct_index": 2,
-     "explanation": "One-sided errors disturb the agreement."
-    },
-    {
-     "question_text": "Agreement of a trial balance does not prove complete accuracy because:",
-     "options": [
-      "It is legally invalid",
-      "It has no accounts",
-      "It has no totals",
-      "Some errors do not affect the equality of debits and credits"
-     ],
-     "correct_index": 3,
-     "explanation": "E.g., errors of principle."
-    },
-    {
-     "question_text": "Compensating errors are:",
-     "options": [
-      "One-sided errors",
-      "Errors of principle",
-      "Omissions",
-      "Errors that cancel each other's effect, e.g., one account overcast by 100 and another undercast by 100"
-     ],
-     "correct_index": 3,
-     "explanation": "The trial balance still agrees."
-    },
-    {
-     "question_text": "An error of principle is:",
-     "options": [
-      "Wrongly treating the nature of an item, e.g., treating furniture purchase as expense",
-      "Wrong total",
-      "Omission",
-      "Wrong balance"
+      "Rs 50,000 credit",
+      "Rs 4,00,000 credit",
+      "Rs 50,000 debit",
+      "Rs 8,50,000 credit"
      ],
      "correct_index": 0,
-     "explanation": "Capital versus revenue confusion."
+     "explanation": "Credit is higher."
     },
     {
-     "question_text": "Errors of omission are:",
+     "question_text": "A debit balance can appear in a creditor's account when:",
      "options": [
-      "Wrong totals",
-      "Compensating errors",
-      "Transactions completely or partially omitted from the books",
-      "Wrong accounts debited"
-     ],
-     "correct_index": 2,
-     "explanation": "Complete omission does not affect the trial balance."
-    },
-    {
-     "question_text": "Errors of commission are:",
-     "options": [
-      "Principles",
-      "Omissions",
-      "Estimates",
-      "Errors in recording or posting, e.g., wrong amount or wrong account"
+      "The firm has not paid for the goods which it bought on credit",
+      "The creditor has allowed a large cash discount to the firm",
+      "The firm has made large purchases on credit during the period",
+      "Payments exceed the amount due, or goods are returned after payment"
      ],
      "correct_index": 3,
-     "explanation": "They arise from carelessness."
+     "explanation": "The supplier owes the firm."
     },
     {
-     "question_text": "A suspense account is:",
+     "question_text": "A suspense account is a temporary account opened to:",
      "options": [
-      "A capital account",
-      "An income",
-      "A permanent asset",
-      "A temporary account to record a difference in the trial balance until the errors are located"
-     ],
-     "correct_index": 3,
-     "explanation": "It is closed when errors are rectified."
-    },
-    {
-     "question_text": "A trial balance differs from a balance sheet in that the trial balance:",
-     "options": [
-      "Lists all ledger balances to check accuracy, and is not a financial statement",
-      "Shows financial position",
-      "Is a final account",
-      "Is published"
-     ],
-     "correct_index": 0,
-     "explanation": "The balance sheet lists assets and liabilities only."
-    },
-    {
-     "question_text": "A limitation of the trial balance is that it:",
-     "options": [
-      "Is not required",
-      "Is costly",
-      "Does not prove complete accuracy as certain errors are not revealed",
-      "Detects all errors"
-     ],
-     "correct_index": 2,
-     "explanation": "It only proves arithmetical equality."
-    },
-    {
-     "question_text": "The trial balance helps prepare final accounts by:",
-     "options": [
-      "Replacing the ledger",
-      "Providing all ledger balances in one place",
-      "Replacing the journal",
-      "Eliminating adjustments"
+      "Record the transactions which are not material",
+      "Hold the difference when a trial balance does not agree",
+      "Record only the proprietor's private transactions",
+      "Replace the cash book at the year end"
      ],
      "correct_index": 1,
-     "explanation": "Final accounts are built from it with adjustments."
+     "explanation": "Pending identification of errors."
     },
     {
-     "question_text": "The correct order is:",
+     "question_text": "The trial balance shows the debit total Rs 8,42,000 and the credit total Rs 8,50,000. The suspense account shows:",
      "options": [
-      "Ledger, journal, trial balance, final accounts",
-      "Final accounts, trial balance, ledger, journal",
-      "Journal, ledger, trial balance, final accounts",
-      "Trial balance, journal, ledger, final accounts"
-     ],
-     "correct_index": 2,
-     "explanation": "Record, classify, summarise, report."
-    },
-    {
-     "question_text": "A trial balance is prepared at the end of the period because:",
-     "options": [
-      "All transactions have been posted and balances can be extracted",
-      "It is a law",
-      "Tax is due",
-      "Profit is declared"
+      "Rs 8,000 on the debit side",
+      "Rs 8,50,000 on the debit side",
+      "Rs 16,000 on the debit side",
+      "Rs 8,000 on the credit side"
      ],
      "correct_index": 0,
-     "explanation": "It is a summary of the ledger at a date."
+     "explanation": "Debits fall short."
     },
     {
-     "question_text": "If the trial balance does not tally, the first step is to:",
+     "question_text": "If an account of capital has a debit balance, it means:",
      "options": [
-      "Close the books",
-      "Check the totalling and balancing, then posting from the books",
-      "Open a new ledger",
-      "Ignore it"
-     ],
-     "correct_index": 1,
-     "explanation": "Then trace the difference."
-    },
-    {
-     "question_text": "A difference of Rs 90 in the trial balance suggests:",
-     "options": [
-      "Omission",
-      "Compensating error",
-      "Error of principle",
-      "A transposition or slide error (difference divisible by 9)"
+      "The firm has paid its liabilities in full",
+      "The firm has earned profit in excess of drawings",
+      "The firm has borrowed money from the owner",
+      "Drawings and losses exceed capital invested"
      ],
      "correct_index": 3,
-     "explanation": "90 is divisible by 9."
+     "explanation": "Unusual position of negative capital."
     },
     {
-     "question_text": "If the difference is exactly divisible by 9, the suspected error is:",
+     "question_text": "If the closing balance of the cash account is carried forward, it is written on the credit side as:",
      "options": [
-      "A missing account",
-      "Transposition of figures",
-      "Error of principle",
-      "Omission of a transaction"
-     ],
-     "correct_index": 1,
-     "explanation": "E.g., 45 written as 54."
-    },
-    {
-     "question_text": "If the difference equals twice an amount, the suspected error is:",
-     "options": [
-      "Transposition",
-      "Omission",
-      "Compensating",
-      "Posting to the wrong side"
-     ],
-     "correct_index": 3,
-     "explanation": "The amount was posted on the wrong side."
-    },
-    {
-     "question_text": "A slide error is:",
-     "options": [
-      "Shifting of digits to the left or right, e.g., 420 written as 4,200",
-      "Reversing digits",
-      "Compensating",
-      "Omission"
+      "Balance c/d, then brought down on the debit side as balance b/d",
+      "Balance c/d, then brought down on the credit side",
+      "Balance b/d on the debit side only",
+      "Balance b/d, then carried down on the credit side as balance c/d"
      ],
      "correct_index": 0,
-     "explanation": "A transposition error is reversing digits, e.g., 54 written as 45."
+     "explanation": "Cash is an asset."
     },
     {
-     "question_text": "Machinery A/c: opening 80,000; purchased 20,000; depreciation 10,000. Balance c/d is:",
+     "question_text": "An error of casting in the ledger means:",
      "options": [
-      "Rs 1,00,000",
-      "Rs 70,000",
-      "Rs 1,10,000",
-      "Rs 90,000"
+      "Posting of a wrong amount from the journal",
+      "Posting to the wrong side of an account",
+      "Omission of a posting from the journal",
+      "Wrong totalling of one side of an account"
      ],
      "correct_index": 3,
-     "explanation": "80,000 + 20,000 − 10,000."
+     "explanation": "Addition mistake."
     },
     {
-     "question_text": "Debtors control account: opening 40,000; credit sales 1,20,000; cash received 1,00,000; returns 5,000. Closing balance is:",
+     "question_text": "Total of the debit side was added as Rs 50,000 instead of Rs 52,000. The trial balance will show a difference of:",
      "options": [
-      "Rs 55,000",
-      "Rs 60,000",
-      "Rs 45,000",
-      "Rs 65,000"
+      "Rs 2,000, with the debit side short",
+      "Rs 2,000, with the credit side short",
+      "No difference as errors cancel",
+      "Rs 4,000, with the debit side short"
      ],
      "correct_index": 0,
-     "explanation": "40,000 + 1,20,000 − 1,00,000 − 5,000."
-    },
-    {
-     "question_text": "Mohan's account: Jan 1 balance 5,000 Dr; sold 12,000; received cheque 8,000; returns 1,000. Balance is:",
-     "options": [
-      "Rs 9,000 Dr",
-      "Rs 16,000 Dr",
-      "Rs 8,000 Cr",
-      "Rs 8,000 Dr"
-     ],
-     "correct_index": 3,
-     "explanation": "5,000 + 12,000 − 8,000 − 1,000."
+     "explanation": "Under-casting."
     }
    ]
   },
   {
-   "title": "Unit 4: Books of Second Entry – Ledger – Practice Test 4",
+   "rev": 2,
+   "title": "Unit 4: Books of Second Entry — Ledger – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Suresh (creditor): purchased 15,000; returned 1,000; paid 10,000; discount 300. Balance is:",
+     "question_text": "Posting sales of Rs 4,500 to the debit of sales account and credit of the debtors' account will result in the trial balance difference of:",
      "options": [
-      "Rs 5,000 Cr",
-      "Rs 3,700 Dr",
-      "Rs 4,000 Cr",
-      "Rs 3,700 Cr"
-     ],
-     "correct_index": 3,
-     "explanation": "15,000 − 1,000 − 10,000 − 300."
-    },
-    {
-     "question_text": "Commission Received A/c: received 2,000 and 3,000; accrued 500. Transferred to P&L:",
-     "options": [
-      "Rs 6,000",
-      "Rs 5,500",
-      "Rs 500",
-      "Rs 5,000"
-     ],
-     "correct_index": 1,
-     "explanation": "2,000 + 3,000 + 500."
-    },
-    {
-     "question_text": "Interest Paid A/c: paid 4,000; outstanding 1,000. Transferred to P&L:",
-     "options": [
-      "Rs 1,000",
-      "Rs 4,000",
-      "Rs 5,000",
-      "Rs 3,000"
-     ],
-     "correct_index": 2,
-     "explanation": "4,000 + 1,000."
-    },
-    {
-     "question_text": "Insurance A/c: paid 12,000; prepaid 3,000. Transferred to P&L:",
-     "options": [
-      "Rs 12,000",
+      "Rs 4,500",
       "Rs 9,000",
-      "Rs 15,000",
+      "Rs 0",
+      "Rs 18,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Twice."
+    },
+    {
+     "question_text": "Ledger accounts of customers are posted from:",
+     "options": [
+      "Purchase book and purchases returns book",
+      "Sales book and sales returns book",
+      "Cash book only",
+      "Bank statement only"
+     ],
+     "correct_index": 1,
+     "explanation": "Subsidiary books."
+    },
+    {
+     "question_text": "The balance of the cash account, as per the ledger, must agree with:",
+     "options": [
+      "Bank balance as per pass book",
+      "Cash in hand as per physical verification",
+      "Total of debtors as per ledger",
+      "Profit as per profit and loss account"
+     ],
+     "correct_index": 1,
+     "explanation": "Should be tallied."
+    },
+    {
+     "question_text": "The balance b/d in the ledger indicates that the balance is:",
+     "options": [
+      "Brought down to the next period",
+      "Carried down to the next period",
+      "Wrongly entered into the ledger",
+      "Equal on both sides"
+     ],
+     "correct_index": 0,
+     "explanation": "Opening balance."
+    },
+    {
+     "question_text": "The nature of a balance in the account of 'discount allowed' is:",
+     "options": [
+      "Nil",
+      "Debit",
+      "Either",
+      "Credit"
+     ],
+     "correct_index": 1,
+     "explanation": "An expense."
+    },
+    {
+     "question_text": "The nature of the balance in 'outstanding wages' is:",
+     "options": [
+      "Debit",
+      "Credit",
+      "Nil",
+      "Either"
+     ],
+     "correct_index": 1,
+     "explanation": "Liability."
+    },
+    {
+     "question_text": "The ledger account of 'prepaid insurance' is a:",
+     "options": [
+      "Contra balance",
+      "Credit balance",
+      "Nil balance",
+      "Debit balance"
+     ],
+     "correct_index": 3,
+     "explanation": "Asset."
+    },
+    {
+     "question_text": "After closing an account of purchases with Rs 3,20,000 balance, the entry is:",
+     "options": [
+      "Cr Purchases 3,20,000 — by trading account",
+      "Dr Purchases 3,20,000 — to trading account",
+      "Dr Purchases 3,20,000 — to sales",
+      "Cr Purchases 3,20,000 — by capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Credit side by trading account."
+    },
+    {
+     "question_text": "The proprietor's capital account has a balance of Rs 5,00,000 (Cr). Net profit Rs 80,000 and drawings Rs 30,000 are posted. The new balance is:",
+     "options": [
+      "Rs 5,50,000",
+      "Rs 5,80,000",
+      "Rs 4,50,000",
+      "Rs 6,10,000"
+     ],
+     "correct_index": 0,
+     "explanation": "500 + 80 − 30."
+    },
+    {
+     "question_text": "In the ledger, interest on capital is posted to the:",
+     "options": [
+      "Credit of capital and debit of interest on capital",
+      "Credit of drawings and debit of interest",
+      "Debit of cash and credit of capital",
+      "Debit of capital and credit of interest on capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Expense of the business."
+    },
+    {
+     "question_text": "In which ledger would the bank loan account be kept?",
+     "options": [
+      "Private ledger",
+      "Creditors ledger",
+      "Debtors ledger",
+      "General ledger"
+     ],
+     "correct_index": 3,
+     "explanation": "Impersonal account."
+    },
+    {
+     "question_text": "Mr. A has dealings as both debtor and creditor. His account balance Dr Rs 9,000 in the sales ledger and Cr Rs 14,000 in the purchase ledger. The net amount is:",
+     "options": [
+      "Rs 9,000 receivable from A",
+      "Rs 23,000 payable to A",
+      "Rs 5,000 payable to A",
+      "Rs 5,000 receivable from A"
+     ],
+     "correct_index": 2,
+     "explanation": "Contra settlement."
+    },
+    {
+     "question_text": "The contra entry between the sales ledger and purchase ledger in the control accounts is:",
+     "options": [
+      "Dr Purchase ledger control; Cr Sales ledger control",
+      "Dr Sales ledger control; Cr Purchase ledger control",
+      "Dr Cash; Cr Purchase ledger control",
+      "Dr Cash; Cr Sales ledger control"
+     ],
+     "correct_index": 0,
+     "explanation": "Set-off."
+    },
+    {
+     "question_text": "Reciprocal accounts, with a person both buying from and selling to the firm, are settled by:",
+     "options": [
+      "Writing off the smaller balance as a loss",
+      "Transferring both balances to capital",
+      "Journal entry setting off the lower balance",
+      "Closing both of the accounts without entry"
+     ],
+     "correct_index": 2,
+     "explanation": "Dr creditor; Cr debtor."
+    },
+    {
+     "question_text": "If a debtor's account is posted on the wrong side in the sales ledger by Rs 600, the control account difference is:",
+     "options": [
+      "Rs 1,200",
+      "Rs 300",
+      "Rs 600",
+      "Nil"
+     ],
+     "correct_index": 0,
+     "explanation": "Twice."
+    },
+    {
+     "question_text": "The trial balance totals are: debit Rs 6,70,500 and credit Rs 6,75,500. The difference is put in the suspense account. A later check shows that a debtor's receipt of Rs 5,000 was credited to the debtor but omitted from the cash book. After rectification the suspense account balance is:",
+     "options": [
+      "Rs 5,000 on the debit side, still not cleared",
+      "Nil, since the debit side shortfall of Rs 5,000 is cleared",
+      "Rs 10,000 on the credit side after the correction",
+      "Rs 5,000 on the credit side after the correction"
+     ],
+     "correct_index": 1,
+     "explanation": "Cash debit of 5,000 clears the suspense."
+    },
+    {
+     "question_text": "Opening capital Rs 4,00,000, liabilities Rs 1,60,000. Closing assets Rs 7,20,000, liabilities Rs 1,80,000, drawings Rs 50,000. Profit is:",
+     "options": [
+      "Rs 1,90,000",
+      "Rs 1,60,000",
+      "Rs 2,40,000",
+      "Rs 1,40,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Closing capital 5,40,000 − 4,00,000 + 50,000."
+    },
+    {
+     "question_text": "The ledger account of a bad debt, after write-off, is closed by transferring it to the:",
+     "options": [
+      "Trading account",
+      "Balance sheet",
+      "Capital account",
+      "Profit and loss account"
+     ],
+     "correct_index": 3,
+     "explanation": "Indirect expense."
+    },
+    {
+     "question_text": "In the trial balance, the item that is a debit balance is:",
+     "options": [
+      "Discount received",
+      "Capital",
+      "Sales",
+      "Carriage inwards"
+     ],
+     "correct_index": 3,
+     "explanation": "Direct expense."
+    },
+    {
+     "question_text": "The item that is a credit balance is:",
+     "options": [
+      "Wages",
+      "Sales returns",
+      "Carriage outwards",
+      "Purchase returns"
+     ],
+     "correct_index": 3,
+     "explanation": "Reduces the purchases."
+    },
+    {
+     "question_text": "The sum of all the debit balances in a ledger is Rs 11,20,000 and the sum of the credit balances is Rs 11,20,000. This shows:",
+     "options": [
+      "No error of principle",
+      "No omission of any transaction",
+      "Absolute accuracy of the books",
+      "Arithmetical accuracy only"
+     ],
+     "correct_index": 3,
+     "explanation": "Not conclusive proof of accuracy."
+    },
+    {
+     "question_text": "A ledger posting of sales returns Rs 700 to the credit of returns account (instead of debit) will cause:",
+     "options": [
+      "A difference of Rs 350",
+      "No trial balance difference",
+      "A trial balance difference of Rs 700",
+      "A trial balance difference of Rs 1,400"
+     ],
+     "correct_index": 3,
+     "explanation": "One-sided posting error."
+    },
+    {
+     "question_text": "Cash received from Mr. X Rs 5,000 recorded in X's account as Rs 500 but correctly in the cash book. The trial balance:",
+     "options": [
+      "Shows a difference of Rs 5,000",
+      "Shows a difference of Rs 4,500",
+      "Shows a difference of Rs 9,500",
+      "Agrees"
+     ],
+     "correct_index": 1,
+     "explanation": "Single-account error."
+    },
+    {
+     "question_text": "While posting from the cash book, discount allowed column total is debited to the discount account but not credited to the debtors. The trial balance will:",
+     "options": [
+      "Show suspense in the debtors",
+      "Show nil balance",
+      "Agree",
+      "Not agree"
+     ],
+     "correct_index": 3,
+     "explanation": "One side posted only."
+    },
+    {
+     "question_text": "Cash of Rs 2,400 received from a debtor was debited to cash and credited to sales instead of the debtor. The trial balance:",
+     "options": [
+      "Is not affected by this error of principle",
+      "Shows a difference of Rs 4,800 between its two sides",
+      "Shows a difference of Rs 2,400 on the debit side",
+      "Shows a difference of Rs 2,400 on the credit side"
+     ],
+     "correct_index": 0,
+     "explanation": "Both sides are equal."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 4: Books of Second Entry — Ledger – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Dr side of the ledger of Mr. P has a closing balance on the credit side in the main ledger when he is:",
+     "options": [
+      "A partner of the firm",
+      "Owed money by the firm",
+      "A bank",
+      "Owing money to the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Credit balance."
+    },
+    {
+     "question_text": "If the ledger account of rent paid shows Rs 24,000 on the debit side, with Rs 4,000 prepaid, then the amount transferred to P&L is:",
+     "options": [
+      "Rs 24,000",
+      "Rs 20,000",
+      "Rs 28,000",
+      "Rs 4,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Deduct prepaid."
+    },
+    {
+     "question_text": "Salaries paid in the ledger Rs 60,000 and outstanding salaries Rs 10,000 is transferred to the P&L as:",
+     "options": [
+      "Rs 10,000",
+      "Rs 60,000",
+      "Rs 50,000",
+      "Rs 70,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Add outstanding."
+    },
+    {
+     "question_text": "The interest on a loan has Rs 5,000 paid and Rs 2,000 accrued. The balance sheet shows liability of:",
+     "options": [
+      "Rs 2,000",
+      "Rs 5,000",
+      "Rs 7,000",
       "Rs 3,000"
      ],
-     "correct_index": 1,
-     "explanation": "12,000 − 3,000."
-    },
-    {
-     "question_text": "Drawings A/c: cash 6,000; goods 2,000; interest on drawings 300. Total drawings is:",
-     "options": [
-      "Rs 8,300",
-      "Rs 6,000",
-      "Rs 7,700",
-      "Rs 8,000"
-     ],
      "correct_index": 0,
-     "explanation": "6,000 + 2,000 + 300."
+     "explanation": "Accrued only."
     },
     {
-     "question_text": "Opening stock of 20,000 and closing stock of 35,000: in the trading account, opening stock is shown on the _____ and closing stock on the _____:",
+     "question_text": "A trader opens a ledger with: cash 2,000; stock 8,000; creditors 3,000. Capital is:",
      "options": [
-      "Credit side; debit side",
-      "Debit side; debit side",
-      "Credit side; credit side",
-      "Debit side; credit side"
+      "Rs 10,000",
+      "Rs 13,000",
+      "Rs 3,000",
+      "Rs 7,000"
      ],
      "correct_index": 3,
-     "explanation": "Closing stock also appears on the asset side of the balance sheet."
+     "explanation": "10 − 3."
     },
     {
-     "question_text": "In a two-column cash book, the two money columns are for:",
+     "question_text": "The type of ledger in which the accounts of the proprietor are maintained apart from the general ledger is the:",
      "options": [
-      "Cash and bank",
-      "Sales and purchases",
-      "Assets and liabilities",
-      "Debit and credit"
-     ],
-     "correct_index": 0,
-     "explanation": "Discount columns make it three-column."
-    },
-    {
-     "question_text": "Capital 50,000 cash; purchases 20,000 cash; sales 30,000 cash; wages 3,000. The cash balance is:",
-     "options": [
-      "Rs 30,000",
-      "Rs 77,000",
-      "Rs 60,000",
-      "Rs 57,000"
-     ],
-     "correct_index": 3,
-     "explanation": "50,000 − 20,000 + 30,000 − 3,000."
-    },
-    {
-     "question_text": "Bought goods for 10,000 on credit from A; returned 2,000; paid 7,000. Balance in A's account is:",
-     "options": [
-      "Rs 8,000 Cr",
-      "Rs 3,000 Cr",
-      "Rs 1,000 Cr",
-      "Rs 1,000 Dr"
+      "Debtors ledger",
+      "Bought ledger",
+      "Private ledger",
+      "Creditors ledger"
      ],
      "correct_index": 2,
-     "explanation": "10,000 − 2,000 − 7,000."
+     "explanation": "Confidential."
     },
     {
-     "question_text": "A debit balance in Debtors account is transferred to:",
+     "question_text": "In a three-column cash book the three columns are:",
      "options": [
-      "The P&L account",
-      "The asset side of the balance sheet",
-      "The liabilities side",
-      "The trading account"
+      "Cash, bank and discount",
+      "Sales, purchases and returns",
+      "Date, particulars and amount",
+      "Debit, credit and balance"
+     ],
+     "correct_index": 0,
+     "explanation": "Special features."
+    },
+    {
+     "question_text": "The nature of the entry 'To balance c/d' on the debit side of an account indicates that the:",
+     "options": [
+      "Account has a nil balance",
+      "Debit side is greater than the credit before balancing",
+      "Credit side is greater than the debit before balancing",
+      "Account is closed for the final time"
+     ],
+     "correct_index": 2,
+     "explanation": "Balancing figure on the smaller side."
+    },
+    {
+     "question_text": "A balance of 'by balance b/d' on the credit side of an account at the start of a period means:",
+     "options": [
+      "The account has a credit balance",
+      "The account has a debit balance",
+      "The entry is a mistake",
+      "The account is closed"
+     ],
+     "correct_index": 0,
+     "explanation": "It is brought down."
+    },
+    {
+     "question_text": "An asset account is credited by Rs 200 instead of being debited, and a liability account is debited by Rs 200 instead of being credited. The trial balance:",
+     "options": [
+      "Still agrees, since the two errors offset each other",
+      "Shows a difference of Rs 200 on the credit side",
+      "Shows a difference of Rs 400 on the credit side",
+      "Shows a difference of Rs 400 on the debit side"
+     ],
+     "correct_index": 0,
+     "explanation": "The errors compensate."
+    },
+    {
+     "question_text": "The account in which 'goods lost in transit' is recorded is a:",
+     "options": [
+      "Nominal account",
+      "Real account",
+      "Personal account",
+      "Control account"
+     ],
+     "correct_index": 0,
+     "explanation": "A loss."
+    },
+    {
+     "question_text": "The salaries account is shown on the trial balance with Rs 1,20,000. The salary of one month Rs 10,000 remains unpaid. The trial balance is adjusted by:",
+     "options": [
+      "Subtracting Rs 10,000 from salaries and showing it as an asset",
+      "Adding Rs 10,000 to salaries and showing it as a liability",
+      "Doing nothing as the trial balance cannot be altered",
+      "Reducing the capital by Rs 10,000"
      ],
      "correct_index": 1,
-     "explanation": "It appears as sundry debtors."
+     "explanation": "Accrual."
     },
     {
-     "question_text": "In the total method, an account shows:",
+     "question_text": "The creditors ledger totals Rs 54,000 while the control account balance is Rs 52,000. The difference is most likely due to:",
      "options": [
-      "The total of the debit and credit sides in the trial balance",
-      "Only debits",
-      "Only balances",
-      "Only credits"
-     ],
-     "correct_index": 0,
-     "explanation": "Each account appears with both totals."
-    },
-    {
-     "question_text": "A posting error on one side only will:",
-     "options": [
-      "Be ignored",
-      "Make the trial balance totals disagree",
-      "Make balance sheet agree",
-      "Make no difference"
+      "A normal difference arising from the method of keeping them",
+      "An error in the creditors ledger or in the control account",
+      "An error of principle in the recording of a capital item",
+      "Discount allowed to the customers of the firm in the period"
      ],
      "correct_index": 1,
-     "explanation": "Debits will not equal credits."
+     "explanation": "Reconcile."
     },
     {
-     "question_text": "A Furniture A/c has debit side total 45,000 and credit side total 5,000. The balance is:",
+     "question_text": "Which of the following may be a reason for the total of the sales ledger not agreeing with the control account?",
      "options": [
-      "Rs 50,000 Dr",
-      "Rs 5,000 Dr",
-      "Rs 40,000 Cr",
-      "Rs 40,000 Dr"
-     ],
-     "correct_index": 3,
-     "explanation": "The debit side is larger."
-    },
-    {
-     "question_text": "An Outstanding Salary account with credit 6,000 and debit 6,000 has:",
-     "options": [
-      "Balance of 12,000",
-      "Debit balance of 6,000",
-      "Nil balance",
-      "Credit balance of 6,000"
-     ],
-     "correct_index": 2,
-     "explanation": "The liability is cleared."
-    },
-    {
-     "question_text": "The closing balance on the Capital account represents:",
-     "options": [
-      "The owner's claim on the business at the end of the period",
-      "Stock",
-      "Cash",
-      "The business's debt to outsiders"
-     ],
-     "correct_index": 0,
-     "explanation": "It appears on the liabilities side of the balance sheet."
-    },
-    {
-     "question_text": "The ledger balances of assets and liabilities:",
-     "options": [
-      "Appear in the journal",
-      "Are ignored",
-      "Appear in the balance sheet",
-      "Appear in the P&L account only"
-     ],
-     "correct_index": 2,
-     "explanation": "Nominal accounts go to the P&L."
-    },
-    {
-     "question_text": "\"Balance b/d\" in the cash account at the start of the next period is:",
-     "options": [
-      "The closing cash balance of the previous period",
-      "Zero",
-      "The capital",
-      "Bank balance"
-     ],
-     "correct_index": 0,
-     "explanation": "Brought down as the opening balance."
-    },
-    {
-     "question_text": "Folio columns are used for:",
-     "options": [
-      "Recording narration",
-      "Calculating profit",
-      "Cross-referencing the journal and ledger",
-      "Totalling"
-     ],
-     "correct_index": 2,
-     "explanation": "They help trace entries both ways."
-    },
-    {
-     "question_text": "Debtors and creditors are kept in separate ledgers in large businesses to:",
-     "options": [
-      "Avoid audit",
-      "Avoid tax",
-      "Divide work and ease control and checking",
-      "Reduce accounts"
-     ],
-     "correct_index": 2,
-     "explanation": "It allows specialisation."
-    },
-    {
-     "question_text": "A ledger differs from a ledger account in that a ledger is:",
-     "options": [
-      "A single account",
-      "A book containing all accounts, a ledger account is a single account in it",
-      "A cash record",
-      "A page"
+      "A sales return not posted to the control account",
+      "All of the above",
+      "Purchases recorded in the sales book",
+      "Cash sales recorded in the sales book"
      ],
      "correct_index": 1,
-     "explanation": "The book versus the account."
+     "explanation": "All distort the totals."
     },
     {
-     "question_text": "The general ledger containing nominal and other accounts is also called the:",
+     "question_text": "A debit entry omitted in the sales ledger control account will cause:",
      "options": [
-      "Cash ledger",
-      "Nominal ledger",
-      "Debtors' ledger",
-      "Creditors' ledger"
+      "The trial balance to agree",
+      "The control balance to be lower than the ledger",
+      "No difference between them",
+      "The control balance to be higher than the ledger"
      ],
      "correct_index": 1,
-     "explanation": "It contains all accounts except debtors and creditors."
+     "explanation": "Debit omitted."
     },
     {
-     "question_text": "A control account is:",
+     "question_text": "Which of the following items would not appear in a purchase ledger control account?",
      "options": [
-      "A summary account for a group of accounts, e.g., all debtors",
-      "A bank account",
-      "A cash account",
-      "A single account"
+      "Credit purchases",
+      "Payments to suppliers",
+      "Cash sales",
+      "Purchases returns"
+     ],
+     "correct_index": 2,
+     "explanation": "Not a credit purchase item."
+    },
+    {
+     "question_text": "The total of the ledger balances of 'Debtors' is Rs 1,15,000. Provision for doubtful debts at 5% is Rs 5,750. The net debtors shown in the balance sheet are:",
+     "options": [
+      "Rs 1,15,000",
+      "Rs 1,09,250",
+      "Rs 5,750",
+      "Rs 1,20,750"
+     ],
+     "correct_index": 1,
+     "explanation": "Deduct provision."
+    },
+    {
+     "question_text": "A firm's assets Rs 6,00,000, creditors Rs 1,20,000, capital Rs 4,00,000. The balance is:",
+     "options": [
+      "Rs 80,000 — other liabilities",
+      "Rs 1,20,000",
+      "Nil",
+      "Rs 80,000 — profit"
      ],
      "correct_index": 0,
-     "explanation": "It verifies the accuracy of the subsidiary ledger."
+     "explanation": "Balancing figure of liabilities."
     },
     {
-     "question_text": "The ledger:",
+     "question_text": "Which account would not be closed at the end of the accounting year?",
      "options": [
-      "Is the first book",
-      "Can be maintained without any source",
-      "Is not required",
-      "Cannot be maintained properly without the journal (or subsidiary books) as the source"
-     ],
-     "correct_index": 3,
-     "explanation": "Entries come from the journal or subsidiary books."
-    },
-    {
-     "question_text": "An advantage of computerised ledgers is:",
-     "options": [
-      "Slower processing",
-      "More errors",
-      "Higher paperwork",
-      "Speed and accuracy"
-     ],
-     "correct_index": 3,
-     "explanation": "Also easy retrieval and automatic posting."
-    },
-    {
-     "question_text": "Debit balances total Rs 5,68,000 and credit balances Rs 5,60,000. The suspense account is:",
-     "options": [
-      "Rs 8,000 on the credit side",
-      "Rs 5,68,000 on the credit side",
-      "Rs 5,60,000 on the debit side",
-      "Rs 8,000 on the debit side"
+      "Debtors account",
+      "Discount account",
+      "Sales returns",
+      "Rent account"
      ],
      "correct_index": 0,
-     "explanation": "Credits are short, so suspense is credited."
+     "explanation": "It is carried forward."
+    },
+    {
+     "question_text": "Carriage inwards in the ledger is closed to the:",
+     "options": [
+      "Balance sheet",
+      "Trading account",
+      "Profit and loss account",
+      "Capital account"
+     ],
+     "correct_index": 1,
+     "explanation": "Direct expense."
+    },
+    {
+     "question_text": "The balance in the drawings account of Rs 40,000 is closed to:",
+     "options": [
+      "Balance sheet",
+      "Trading account",
+      "Capital account",
+      "Profit and loss account"
+     ],
+     "correct_index": 2,
+     "explanation": "Reduces the capital."
+    },
+    {
+     "question_text": "Which entry correctly closes the discount received account with Rs 1,500 credit balance?",
+     "options": [
+      "Dr P&L; Cr Discount received",
+      "Dr Capital; Cr Discount received",
+      "Dr Discount received; Cr P&L",
+      "Dr Discount received; Cr Capital"
+     ],
+     "correct_index": 2,
+     "explanation": "Income transferred."
+    },
+    {
+     "question_text": "After the nominal accounts are closed, the next step is to:",
+     "options": [
+      "Prepare the post-closing trial balance and the balance sheet",
+      "Pass the opening entry to start the next period's books",
+      "Rectify the errors that arose in the earlier periods",
+      "Begin posting the journal entries of the current period"
+     ],
+     "correct_index": 0,
+     "explanation": "Accounts are balanced."
+    },
+    {
+     "question_text": "The ledger account of 'machinery' is Dr 5,00,000; depreciation credited 50,000. The balance carried down is:",
+     "options": [
+      "Rs 50,000",
+      "Rs 5,00,000",
+      "Rs 4,50,000",
+      "Rs 5,50,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Net."
+    },
+    {
+     "question_text": "If the account of Mr. B in A's books shows \"By balance c/d Rs 7,000\" on the credit side, then B is:",
+     "options": [
+      "A creditor owed Rs 7,000",
+      "A banker of the firm",
+      "A partner of the firm",
+      "A debtor owing Rs 7,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Credit side c/d means debit balance."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 4: Books of Second Entry — Ledger – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "If debit total of the ledger accounts is Rs 7,50,000, and credit total Rs 7,50,000, then the sum of the balances is:",
+     "options": [
+      "Debit balances exceed credit balances",
+      "Always zero",
+      "Credit balances exceed debit balances",
+      "Debit balances equal credit balances"
+     ],
+     "correct_index": 3,
+     "explanation": "Fundamental result."
+    },
+    {
+     "question_text": "When a customer pays by cash, the cash book entry is posted in the ledger to the:",
+     "options": [
+      "Debit of the sales account of the firm",
+      "Debit of the customer's personal account",
+      "Credit of the customer's personal account",
+      "Credit of the sales account of the firm"
+     ],
+     "correct_index": 2,
+     "explanation": "Debtor reduced."
+    },
+    {
+     "question_text": "A cash book is posted to the ledger account of 'discount allowed' for:",
+     "options": [
+      "Each item of discount individually",
+      "The discount received column",
+      "Not posted at all",
+      "Total of the discount allowed column"
+     ],
+     "correct_index": 3,
+     "explanation": "Monthly total."
+    },
+    {
+     "question_text": "The contra entries in the cash book are not posted to the ledger because:",
+     "options": [
+      "They are not supported by vouchers",
+      "They do not affect the cash balance",
+      "Both the aspects are in the cash book itself",
+      "They are immaterial in amount"
+     ],
+     "correct_index": 2,
+     "explanation": "Dr and Cr in the same book."
+    },
+    {
+     "question_text": "The balance of the bank account shows credit Rs 12,000. This means:",
+     "options": [
+      "Bank interest receivable",
+      "Bank commission paid",
+      "Bank overdraft of Rs 12,000",
+      "Cash at bank of Rs 12,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Overdrawn."
+    },
+    {
+     "question_text": "For the total of debtors Rs 3,00,000, bad debts Rs 12,000 to be written off, and provision at 5% on the remainder, provision needed is:",
+     "options": [
+      "Rs 15,000",
+      "Rs 12,000",
+      "Rs 14,400",
+      "Rs 16,200"
+     ],
+     "correct_index": 2,
+     "explanation": "5% × 2,88,000."
+    },
+    {
+     "question_text": "If provision for doubtful debts is Rs 14,400 and last year's provision Rs 10,000 remains with bad debts Rs 12,000, the charge to P&L is:",
+     "options": [
+      "Rs 4,400",
+      "Rs 16,400",
+      "Rs 26,400",
+      "Rs 12,000"
+     ],
+     "correct_index": 1,
+     "explanation": "12,000 + 4,400."
+    },
+    {
+     "question_text": "When the provision required is lower than the existing provision, the difference is:",
+     "options": [
+      "Debited to the profit and loss account",
+      "Added to the debtors",
+      "Ignored",
+      "Credited to the profit and loss account"
+     ],
+     "correct_index": 3,
+     "explanation": "Excess provision reversed."
+    },
+    {
+     "question_text": "Net debtors are Rs 2,50,000 after providing 4% for doubtful debts. The gross debtors were:",
+     "options": [
+      "Rs 2,40,000",
+      "Rs 2,50,000",
+      "Rs 2,60,000",
+      "Rs 2,60,417 (approx)"
+     ],
+     "correct_index": 3,
+     "explanation": "2,50,000 / 0.96."
+    },
+    {
+     "question_text": "Credit sales for the year Rs 6,00,000 and the average collection period 30 days. Average debtors on a 360-day basis are:",
+     "options": [
+      "Rs 1,80,000",
+      "Rs 50,000",
+      "Rs 20,000",
+      "Rs 25,000"
+     ],
+     "correct_index": 1,
+     "explanation": "6,00,000 × 30/360."
+    },
+    {
+     "question_text": "When a debtor pays and takes a discount of Rs 100 on Rs 2,000, the cash received is:",
+     "options": [
+      "Rs 100",
+      "Rs 2,000",
+      "Rs 1,900",
+      "Rs 2,100"
+     ],
+     "correct_index": 2,
+     "explanation": "Discount allowed is not paid."
+    },
+    {
+     "question_text": "The balances of two debtors are Dr Rs 6,000 and Cr Rs 400 (advance). Total debtors in the balance sheet and the liability for advance are:",
+     "options": [
+      "Debtors Rs 6,000; advance Rs 400 as a liability",
+      "Debtors Rs 6,000 with no entry for the advance",
+      "Debtors Rs 5,600 net with no liability",
+      "Debtors Rs 6,400 with no liability"
+     ],
+     "correct_index": 0,
+     "explanation": "Do not net off the sides."
+    },
+    {
+     "question_text": "The balance of a ledger account is found by taking the:",
+     "options": [
+      "Difference between the debit and credit totals",
+      "Sum of the debit and credit totals together",
+      "Average of the two totals taken together",
+      "Higher of the two totals of the account"
+     ],
+     "correct_index": 0,
+     "explanation": "Net."
+    },
+    {
+     "question_text": "In the ledger, the narration \"To sales\" appears on the debit side of the account of:",
+     "options": [
+      "The supplier",
+      "The sales account",
+      "The customer",
+      "The cash account"
+     ],
+     "correct_index": 2,
+     "explanation": "Debit to debtor."
+    },
+    {
+     "question_text": "The \"By cash\" entry on the credit side of the account of Mr. A shows:",
+     "options": [
+      "Cash discount to A",
+      "Cash received from A",
+      "Cash paid to A",
+      "Cash sales to A"
+     ],
+     "correct_index": 1,
+     "explanation": "Credit to A."
+    },
+    {
+     "question_text": "A \"To bank\" entry on the debit side of the account of Mr. B shows:",
+     "options": [
+      "Bank charges",
+      "Cash received from B through a cheque",
+      "A bank loan from B",
+      "Cash paid to B through a cheque"
+     ],
+     "correct_index": 3,
+     "explanation": "Payment by the firm."
+    },
+    {
+     "question_text": "Ledger posting is done on the basis of the entries in the:",
+     "options": [
+      "Journal and the subsidiary books of the firm",
+      "Bank statement received from the banker alone",
+      "Trial balance prepared at the end of period",
+      "Balance sheet prepared at the end of the year"
+     ],
+     "correct_index": 0,
+     "explanation": "Source."
+    },
+    {
+     "question_text": "Ledgers of customers and suppliers are called:",
+     "options": [
+      "General ledgers",
+      "Nominal ledgers",
+      "Subsidiary ledgers",
+      "Private ledgers"
+     ],
+     "correct_index": 2,
+     "explanation": "Personal accounts."
+    },
+    {
+     "question_text": "A capital account has a balance of Rs 6,00,000. Interest on capital Rs 36,000 is credited, and drawings Rs 1,20,000 and a net loss of Rs 30,000 are debited. The closing capital is:",
+     "options": [
+      "Rs 4,50,000",
+      "Rs 6,00,000",
+      "Rs 5,16,000",
+      "Rs 4,86,000"
+     ],
+     "correct_index": 3,
+     "explanation": "6,00,000 + 36,000 − 1,20,000 − 30,000."
+    },
+    {
+     "question_text": "Which one of the following statements is correct?",
+     "options": [
+      "Journal is the principal book",
+      "Ledger is the principal book of accounts",
+      "Trial balance is a book of accounts",
+      "Ledger is a subsidiary book"
+     ],
+     "correct_index": 1,
+     "explanation": "Collects all accounts."
+    },
+    {
+     "question_text": "A ledger account for the year shows the debit side Rs 1,80,000 (including opening balance Rs 40,000) and the credit side Rs 1,30,000. The closing balance is:",
+     "options": [
+      "Rs 1,40,000 debit",
+      "Rs 50,000 credit",
+      "Rs 50,000 debit",
+      "Rs 10,000 debit"
+     ],
+     "correct_index": 2,
+     "explanation": "Difference."
+    },
+    {
+     "question_text": "If the ledger folio column is blank, the posting:",
+     "options": [
+      "Is an error of principle",
+      "Has been done correctly",
+      "Has not been done",
+      "Needs no cross reference"
+     ],
+     "correct_index": 2,
+     "explanation": "Folio number shows posting."
+    },
+    {
+     "question_text": "The error of posting a sale to the debit of sales account and credit of debtor is detected by the:",
+     "options": [
+      "Audit only",
+      "Trial balance",
+      "Cash book",
+      "Reconciliation statement"
+     ],
+     "correct_index": 1,
+     "explanation": "Wrong sides produce a difference."
+    },
+    {
+     "question_text": "The closing balance of a creditor is Rs 24,000 (Cr) after a payment of Rs 6,000 was wrongly posted to the credit side instead of the debit side. The correct closing balance is:",
+     "options": [
+      "Rs 24,000 (Cr)",
+      "Rs 30,000 (Cr)",
+      "Rs 12,000 (Cr)",
+      "Rs 18,000 (Cr)"
+     ],
+     "correct_index": 2,
+     "explanation": "Wrong credit raised it by 6,000; correct balance = 24,000 − 12,000 = 12,000."
+    },
+    {
+     "question_text": "The balance of a real account at the end of the period is:",
+     "options": [
+      "Carried forward to next period",
+      "Transferred to the profit and loss account",
+      "Transferred to the trading account",
+      "Written off"
+     ],
+     "correct_index": 0,
+     "explanation": "Assets continue."
     }
    ]
   }
