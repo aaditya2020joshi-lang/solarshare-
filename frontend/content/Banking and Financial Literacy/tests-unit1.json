@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Financial Literacy – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Financial literacy is the ability to:",
+     "question_text": "Rahul earns Rs 40,000 a month. He spends Rs 24,000 on needs, Rs 10,000 on wants and saves the rest. Under the 50-30-20 rule, his savings rate is:",
      "options": [
-      "Earn high income",
-      "Understand and use financial knowledge and skills to make informed money decisions",
-      "Print money",
-      "Avoid all risk"
-     ],
-     "correct_index": 1,
-     "explanation": "It covers budgeting, saving, investing and borrowing."
-    },
-    {
-     "question_text": "The OECD/INFE definition of financial literacy is a combination of:",
-     "options": [
-      "Income and wealth",
-      "Awareness, knowledge, skills, attitudes and behaviours needed to make sound financial decisions",
-      "Bank accounts only",
-      "Savings only"
-     ],
-     "correct_index": 1,
-     "explanation": "The aim is individual financial wellbeing."
-    },
-    {
-     "question_text": "Financial inclusion differs from financial education in that financial inclusion is:",
-     "options": [
-      "A school subject",
-      "Access to affordable financial services, while financial education is imparting knowledge",
-      "A skill",
-      "Knowledge about money"
-     ],
-     "correct_index": 1,
-     "explanation": "Financial literacy is the resulting ability to use them well."
-    },
-    {
-     "question_text": "An importance of financial literacy is that it:",
-     "options": [
-      "Prevents earning",
-      "Increases debt",
-      "Helps people manage money, avoid debt traps and plan for the future",
-      "Avoids all savings"
+      "Above the recommended 20% of his income",
+      "Equal to the recommended 30% of his income",
+      "Below the recommended 20% of his income",
+      "Equal to the recommended 20% of his income"
      ],
      "correct_index": 2,
-     "explanation": "It also improves credit behaviour."
+     "explanation": "Savings are 6,000 = 15%."
     },
     {
-     "question_text": "Financial literacy protects against frauds by:",
+     "question_text": "Under the 50-30-20 rule, a person with a take-home income of Rs 60,000 should keep for needs and savings respectively:",
      "options": [
-      "Helping people recognise scams and unrealistic returns",
-      "Removing banks",
-      "Hiding information",
-      "Encouraging risk"
+      "Rs 18,000 and Rs 12,000",
+      "Rs 30,000 and Rs 18,000",
+      "Rs 30,000 and Rs 12,000",
+      "Rs 12,000 and Rs 30,000"
      ],
-     "correct_index": 0,
-     "explanation": "Informed people verify offers before investing."
+     "correct_index": 2,
+     "explanation": "50% and 20%."
     },
     {
-     "question_text": "Financial literacy helps national development by:",
+     "question_text": "Financial literacy is best described as the ability to:",
      "options": [
-      "Increasing savings and investment and supporting financial inclusion",
-      "Reducing investment",
-      "Reducing savings",
-      "Increasing informal lending"
-     ],
-     "correct_index": 0,
-     "explanation": "It strengthens the financial system."
-    },
-    {
-     "question_text": "The components of financial literacy include:",
-     "options": [
-      "Knowledge, skills, attitudes and behaviour",
-      "Only knowledge",
-      "Only income",
-      "Only savings"
-     ],
-     "correct_index": 0,
-     "explanation": "All four are needed."
-    },
-    {
-     "question_text": "Attitudes and behaviour are important in financial literacy because:",
-     "options": [
-      "Behaviour is irrelevant",
-      "Knowledge alone does not ensure good decisions; habits shape outcomes",
-      "Only knowledge matters",
-      "Attitude is irrelevant"
-     ],
-     "correct_index": 1,
-     "explanation": "Good intentions must lead to action."
-    },
-    {
-     "question_text": "The three basic questions used to test financial literacy concern:",
-     "options": [
-      "Interest compounding, inflation and risk diversification",
-      "Gold, silver, land",
-      "Loans, cards, cheques",
-      "Salary, tax and rent"
-     ],
-     "correct_index": 0,
-     "explanation": "They are the \"Big Three\" of Lusardi and Mitchell."
-    },
-    {
-     "question_text": "The Rule of 72 estimates the number of years to double money as:",
-     "options": [
-      "72 ÷ interest rate (%)",
-      "Interest ÷ 72",
-      "72 − interest rate",
-      "72 × interest rate"
-     ],
-     "correct_index": 0,
-     "explanation": "At 8%, it takes about 9 years."
-    },
-    {
-     "question_text": "Simple interest on Rs 10,000 at 8% for 3 years is:",
-     "options": [
-      "Rs 3,000",
-      "Rs 800",
-      "Rs 2,640",
-      "Rs 2,400"
+      "Avoid the use of banks and other financial institutions",
+      "Predict the movements of the share prices in the market",
+      "Earn a higher income than the other persons in the same profession",
+      "Understand and use financial skills such as budgeting, saving and investing wisely"
      ],
      "correct_index": 3,
-     "explanation": "10,000 × 8 × 3 ÷ 100."
+     "explanation": "Knowledge plus skills."
     },
     {
-     "question_text": "Compound interest on Rs 10,000 at 10% for 2 years is:",
+     "question_text": "The emergency fund of a salaried household is normally recommended to be about:",
      "options": [
-      "Rs 2,100",
-      "Rs 2,200",
-      "Rs 2,000",
-      "Rs 1,100"
+      "Half of the annual income kept in real estate",
+      "Twelve years of income kept in a fixed deposit",
+      "One month of living expenses kept in shares",
+      "Three to six months of living expenses kept in a liquid form"
+     ],
+     "correct_index": 3,
+     "explanation": "Liquidity."
+    },
+    {
+     "question_text": "Which of these is the best place to keep an emergency fund?",
+     "options": [
+      "A small-cap equity fund that may fall sharply",
+      "A savings account or liquid fund that can be withdrawn at once",
+      "A five-year fixed deposit with a penalty on early withdrawal",
+      "A plot of land in a remote town"
+     ],
+     "correct_index": 1,
+     "explanation": "Liquidity and safety."
+    },
+    {
+     "question_text": "A person invests Rs 10,000 at 8% simple interest per annum. The interest earned in 3 years is:",
+     "options": [
+      "Rs 2,400",
+      "Rs 2,597",
+      "Rs 3,000",
+      "Rs 800"
      ],
      "correct_index": 0,
-     "explanation": "10,000 × (1.1² − 1)."
+     "explanation": "10,000 × 8% × 3."
     },
     {
-     "question_text": "At 6% interest, money doubles in about:",
+     "question_text": "Rs 10,000 is invested at 8% compounded annually. The amount after 2 years is:",
      "options": [
-      "72 years",
-      "10 years",
+      "Rs 10,800",
+      "Rs 11,600",
+      "Rs 12,000",
+      "Rs 11,664"
+     ],
+     "correct_index": 3,
+     "explanation": "10,000 × 1.08²."
+    },
+    {
+     "question_text": "The difference between compound and simple interest on Rs 10,000 at 10% p.a. for 2 years is:",
+     "options": [
+      "Rs 100",
+      "Rs 200",
+      "Rs 2,100",
+      "Rs 1,000"
+     ],
+     "correct_index": 0,
+     "explanation": "CI 2,100 − SI 2,000."
+    },
+    {
+     "question_text": "The Rule of 72 says that the time taken for money to double at 8% p.a. compound interest is about:",
+     "options": [
+      "9 years",
       "12 years",
+      "8 years",
       "6 years"
      ],
-     "correct_index": 2,
-     "explanation": "72 ÷ 6."
+     "correct_index": 0,
+     "explanation": "72/8."
     },
     {
-     "question_text": "A financial institution is:",
+     "question_text": "At an interest rate of 12% compounded annually, money doubles in roughly:",
      "options": [
-      "A school",
-      "A shop",
-      "A hospital",
-      "An organisation that mobilises savings and provides financial services such as loans and investments"
+      "3 years",
+      "6 years",
+      "12 years",
+      "9 years"
      ],
-     "correct_index": 3,
-     "explanation": "It acts as an intermediary."
+     "correct_index": 1,
+     "explanation": "72/12."
     },
     {
-     "question_text": "The financial system comprises:",
+     "question_text": "Inflation of 6% means that:",
      "options": [
-      "Only the stock exchange",
-      "Only insurers",
-      "Only banks",
-      "Financial institutions, markets, instruments and services"
-     ],
-     "correct_index": 3,
-     "explanation": "It channels savings into investment."
-    },
-    {
-     "question_text": "Financial institutions are classified as:",
-     "options": [
-      "Banking and non-banking institutions",
-      "Public and private only",
-      "Old and new",
-      "Large and small"
+      "The purchasing power of a rupee falls by about 6% in a year",
+      "The income of the people rises by 6% in a year",
+      "The price of every good rises by exactly 6% in a year",
+      "The interest on savings rises by 6% every year"
      ],
      "correct_index": 0,
-     "explanation": "Banking institutions accept deposits and offer cheques."
+     "explanation": "Loss in value."
     },
     {
-     "question_text": "The types of commercial banks in India include:",
+     "question_text": "If a deposit gives 7% interest and inflation is 5%, the approximate real rate of return is:",
      "options": [
-      "Only foreign banks",
-      "Public sector, private sector and foreign banks",
-      "Only public banks",
-      "Only private banks"
+      "35%",
+      "2%",
+      "7%",
+      "12%"
      ],
      "correct_index": 1,
-     "explanation": "SBI is public sector; HDFC Bank is private."
+     "explanation": "Nominal less inflation."
     },
     {
-     "question_text": "Regional Rural Banks (RRBs) are:",
+     "question_text": "If a deposit gives 5% interest while inflation is 6%, the real return is:",
      "options": [
-      "Payment banks",
-      "Banks set up to provide credit and banking services in rural areas",
-      "Foreign banks",
-      "Stock exchanges"
-     ],
-     "correct_index": 1,
-     "explanation": "They were established under the RRB Act, 1976."
-    },
-    {
-     "question_text": "Cooperative banks have _____ tiers:",
-     "options": [
-      "Only one",
-      "Only four central",
-      "State cooperative, district central cooperative and primary cooperative banks",
-      "Only two foreign"
-     ],
-     "correct_index": 2,
-     "explanation": "Urban cooperative banks are separate."
-    },
-    {
-     "question_text": "Small Finance Banks mainly serve:",
-     "options": [
-      "Governments",
-      "Small borrowers such as small farmers, micro and small businesses and the unorganised sector",
-      "Foreign firms",
-      "Large corporates"
-     ],
-     "correct_index": 1,
-     "explanation": "Examples: AU, Ujjivan."
-    },
-    {
-     "question_text": "Payments Banks cannot:",
-     "options": [
-      "Issue debit cards",
-      "Accept deposits",
-      "Lend or issue credit cards",
-      "Provide payment services"
-     ],
-     "correct_index": 2,
-     "explanation": "They accept limited deposits and provide payment services."
-    },
-    {
-     "question_text": "NABARD is the apex institution for:",
-     "options": [
-      "Housing",
-      "Industry",
-      "Foreign trade",
-      "Agriculture and rural development"
-     ],
-     "correct_index": 3,
-     "explanation": "It refinances rural credit institutions."
-    },
-    {
-     "question_text": "SIDBI supports _____, and EXIM Bank supports _____:",
-     "options": [
-      "Agriculture; industry",
-      "Foreign trade; small industries",
-      "Small industries; foreign trade",
-      "Housing; agriculture"
-     ],
-     "correct_index": 2,
-     "explanation": "Both are development finance institutions."
-    },
-    {
-     "question_text": "Examples of NBFCs include:",
-     "options": [
-      "Bajaj Finance, Muthoot Finance and Shriram Finance",
-      "HDFC Bank",
-      "SBI",
-      "ICICI Bank"
+      "About -1%, so the purchasing power falls",
+      "About 11%, so the purchasing power rises",
+      "About 0%, so the purchasing power is the same",
+      "About 1%, so the purchasing power rises"
      ],
      "correct_index": 0,
-     "explanation": "NBFCs lend but do not hold a banking licence."
+     "explanation": "Negative real return."
     },
     {
-     "question_text": "NBFCs differ from banks in that NBFCs:",
+     "question_text": "Rs 1,00,000 today at 6% inflation will have the purchasing power of about what amount after 12 years (Rule of 72 for doubling prices)?",
      "options": [
-      "Are part of the payment system",
-      "Accept demand deposits",
-      "Cannot accept demand deposits or issue cheques",
-      "Issue cheques"
+      "Rs 25,000",
+      "Rs 1,00,000",
+      "Rs 75,000",
+      "Rs 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Prices double in 12 years."
+    },
+    {
+     "question_text": "A good budget is one in which:",
+     "options": [
+      "Planned expenses do not exceed expected income and some savings are made",
+      "Only the large expenses are recorded and small expenses are ignored",
+      "Expenses are always equal to income, leaving nothing for savings",
+      "Income is assumed to be higher than what the person is likely to earn"
+     ],
+     "correct_index": 0,
+     "explanation": "Budgeting."
+    },
+    {
+     "question_text": "A household with income of Rs 50,000, fixed expenses Rs 30,000 and variable expenses Rs 15,000 has a surplus of:",
+     "options": [
+      "Rs 45,000",
+      "Rs 5,000",
+      "Rs 20,000",
+      "Rs 35,000"
+     ],
+     "correct_index": 1,
+     "explanation": "50 − 45."
+    },
+    {
+     "question_text": "Which of the following is a fixed expense in a household budget?",
+     "options": [
+      "Entertainment and movies",
+      "House rent and EMI of a loan",
+      "Eating out at restaurants",
+      "Clothing for festivals"
+     ],
+     "correct_index": 1,
+     "explanation": "Does not change monthly."
+    },
+    {
+     "question_text": "Which of the following is a discretionary expense?",
+     "options": [
+      "Electricity bill",
+      "Holiday trip",
+      "School fees",
+      "Loan EMI"
+     ],
+     "correct_index": 1,
+     "explanation": "Wants, not needs."
+    },
+    {
+     "question_text": "\"Pay yourself first\" means:",
+     "options": [
+      "Setting aside the savings as soon as the income is received",
+      "Spending on your wants before paying the bills",
+      "Investing only when the income increases",
+      "Paying the loans after the savings are over"
+     ],
+     "correct_index": 0,
+     "explanation": "Savings priority."
+    },
+    {
+     "question_text": "Net worth of a person is:",
+     "options": [
+      "Total income minus total expenses",
+      "Total assets minus total liabilities",
+      "Total savings plus total income",
+      "Total assets plus total liabilities"
+     ],
+     "correct_index": 1,
+     "explanation": "Wealth."
+    },
+    {
+     "question_text": "A person has assets of Rs 25 lakh (house, savings) and liabilities of Rs 8 lakh (home loan). Net worth is:",
+     "options": [
+      "Rs 25 lakh",
+      "Rs 33 lakh",
+      "Rs 8 lakh",
+      "Rs 17 lakh"
+     ],
+     "correct_index": 3,
+     "explanation": "25 − 8."
+    },
+    {
+     "question_text": "Which of these is an asset?",
+     "options": [
+      "Education loan",
+      "Credit card outstanding",
+      "Fixed deposit in a bank",
+      "Pending electricity bill"
      ],
      "correct_index": 2,
-     "explanation": "They are regulated by the RBI."
+     "explanation": "Owned."
+    },
+    {
+     "question_text": "The credit score in India (CIBIL) ranges from:",
+     "options": [
+      "300 to 900",
+      "500 to 1000",
+      "100 to 500",
+      "0 to 100"
+     ],
+     "correct_index": 0,
+     "explanation": "Higher is better."
+    },
+    {
+     "question_text": "A CIBIL score of 780 is generally considered:",
+     "options": [
+      "Average and has no effect on the loans",
+      "Good and helps in getting loans at better rates",
+      "Poor and leads to rejection of loans",
+      "Invalid since the maximum is 750"
+     ],
+     "correct_index": 1,
+     "explanation": "Above 750."
+    },
+    {
+     "question_text": "Which of these habits improves a credit score?",
+     "options": [
+      "Paying EMIs and credit card dues on time",
+      "Applying for many loans at once",
+      "Making only the minimum payment on the credit card for months",
+      "Closing the oldest credit account"
+     ],
+     "correct_index": 0,
+     "explanation": "Repayment history."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Financial Literacy – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "NBFC deposits are not covered by DICGC because:",
+     "question_text": "A credit card has an interest rate of 3.5% per month on unpaid dues. This is about what percentage per year (simple multiplication)?",
      "options": [
-      "NBFCs are not banks",
-      "They are foreign",
-      "They are too small",
-      "They are public"
+      "42%",
+      "12%",
+      "3.5%",
+      "35%"
      ],
      "correct_index": 0,
-     "explanation": "Only bank deposits are insured."
+     "explanation": "3.5 × 12."
     },
     {
-     "question_text": "DICGC insures bank deposits up to:",
+     "question_text": "Using a credit card, a person pays only the \"minimum amount due\" every month. The likely result is:",
      "options": [
-      "Rs 50 lakh",
-      "Rs 5 lakh per depositor per bank",
-      "Rs 1 lakh",
-      "Rs 10 lakh"
+      "The balance is cleared in a month",
+      "The balance carries interest and the debt grows",
+      "No interest is charged on the balance",
+      "The credit limit is increased free of cost"
      ],
      "correct_index": 1,
-     "explanation": "It covers savings, current, fixed and recurring deposits."
+     "explanation": "Interest on the outstanding."
     },
     {
-     "question_text": "Other non-banking financial institutions include:",
+     "question_text": "The interest-free period of a credit card applies if:",
      "options": [
-      "Payments banks",
-      "Insurance companies, mutual funds, housing finance companies and Nidhi companies",
-      "Foreign banks",
-      "Commercial banks"
-     ],
-     "correct_index": 1,
-     "explanation": "They offer varied services."
-    },
-    {
-     "question_text": "A Nidhi company is:",
-     "options": [
-      "A mutual fund",
-      "A bank",
-      "A company that accepts deposits from and lends to its members only",
-      "An insurer"
+      "The card is used for cash withdrawal",
+      "Only half the bill is paid",
+      "The full bill is paid by the due date",
+      "Only the minimum amount is paid"
      ],
      "correct_index": 2,
-     "explanation": "It is regulated under the Companies Act."
+     "explanation": "Grace period."
     },
     {
-     "question_text": "A microfinance institution (MFI):",
+     "question_text": "Which of the following is a SMART financial goal?",
      "options": [
-      "Is an insurer",
-      "Provides small loans to low-income borrowers",
-      "Is a stock exchange",
-      "Gives large corporate loans"
-     ],
-     "correct_index": 1,
-     "explanation": "It promotes financial inclusion."
-    },
-    {
-     "question_text": "The regulators of banks, securities, insurance and pension are:",
-     "options": [
-      "SEBI, RBI, PFRDA, IRDAI",
-      "RBI, SEBI, IRDAI and PFRDA",
-      "PFRDA, IRDAI, RBI, SEBI",
-      "IRDAI, RBI, SEBI, PFRDA"
-     ],
-     "correct_index": 1,
-     "explanation": "Each regulates its own sector."
-    },
-    {
-     "question_text": "The role of NHB is to:",
-     "options": [
-      "Regulate insurance",
-      "Regulate banks",
-      "Regulate pension",
-      "Develop and regulate the housing finance sector"
-     ],
-     "correct_index": 3,
-     "explanation": "It is the National Housing Bank."
-    },
-    {
-     "question_text": "Post offices contribute to financial inclusion by:",
-     "options": [
-      "Providing savings, insurance and payment services in remote areas",
-      "Closing branches",
-      "Raising prices",
-      "Cutting services"
-     ],
-     "correct_index": 0,
-     "explanation": "India Post Payments Bank has a wide reach."
-    },
-    {
-     "question_text": "Investment is:",
-     "options": [
-      "Gambling",
-      "The commitment of money to assets to earn returns over time",
-      "Spending on consumption",
-      "Borrowing"
-     ],
-     "correct_index": 1,
-     "explanation": "It seeks future income or appreciation."
-    },
-    {
-     "question_text": "Financial investment differs from real investment in that financial investment is in:",
-     "options": [
-      "Machinery",
-      "Gold",
-      "Land",
-      "Financial assets such as shares and bonds, while real investment is in physical assets like land"
-     ],
-     "correct_index": 3,
-     "explanation": "Both aim at returns."
-    },
-    {
-     "question_text": "Investment differs from gambling in that investment:",
-     "options": [
-      "Is based on analysis and expected return, while gambling relies on chance",
-      "Has no risk",
-      "Is illegal",
-      "Relies on chance"
-     ],
-     "correct_index": 0,
-     "explanation": "Gambling has no productive base."
-    },
-    {
-     "question_text": "Speculation differs from investment in that speculation:",
-     "options": [
-      "Seeks short-term gains by taking high risk, while investment is long-term and analytical",
-      "Is safe",
-      "Is long-term",
-      "Is guaranteed"
-     ],
-     "correct_index": 0,
-     "explanation": "Speculators bet on price moves."
-    },
-    {
-     "question_text": "Risk is:",
-     "options": [
-      "A guaranteed profit",
-      "A fixed income",
-      "Certainty of return",
-      "The uncertainty that actual returns will differ from expected returns"
-     ],
-     "correct_index": 3,
-     "explanation": "Return is the reward for investing."
-    },
-    {
-     "question_text": "The risk–return trade-off states that:",
-     "options": [
-      "Higher expected returns involve higher risk",
-      "Risk is always zero",
-      "Higher returns need lower risk",
-      "Risk and return are unrelated"
-     ],
-     "correct_index": 0,
-     "explanation": "Safe assets give low returns."
-    },
-    {
-     "question_text": "Of savings account, equity shares, FD, gold and PPF, the highest risk is:",
-     "options": [
-      "FD",
-      "PPF",
-      "Savings account",
-      "Equity shares"
-     ],
-     "correct_index": 3,
-     "explanation": "The others are comparatively safe."
-    },
-    {
-     "question_text": "Types of investment risk include:",
-     "options": [
-      "Only inflation",
-      "Market, credit, interest rate, inflation and liquidity risks",
-      "Only market",
-      "Only credit"
-     ],
-     "correct_index": 1,
-     "explanation": "They affect returns."
-    },
-    {
-     "question_text": "Systematic risk differs from unsystematic risk in that systematic risk:",
-     "options": [
-      "Can be diversified",
-      "Affects one firm",
-      "Is specific",
-      "Affects the whole market and cannot be diversified away, while unsystematic is specific and can be diversified"
-     ],
-     "correct_index": 3,
-     "explanation": "Unsystematic risk is company-specific."
-    },
-    {
-     "question_text": "Liquidity risk is:",
-     "options": [
-      "The risk of default",
-      "The risk of tax",
-      "The risk of being unable to sell an asset quickly without loss",
-      "The risk of price rise"
+      "Save some money for the future whenever it is possible",
+      "Spend less on shopping from the next month onwards",
+      "Save Rs 1.2 lakh in 12 months for a laptop by saving Rs 10,000 a month",
+      "Become rich in the course of time without any fixed plan"
      ],
      "correct_index": 2,
-     "explanation": "Real estate has high liquidity risk."
+     "explanation": "Specific, measurable and time-bound."
     },
     {
-     "question_text": "Interest rate risk is:",
+     "question_text": "The principle \"don't put all your eggs in one basket\" refers to:",
      "options": [
-      "The risk of tax",
-      "The risk of default",
-      "The risk of fraud",
-      "The risk that changes in interest rates affect the value of investments (e.g., bond prices fall when rates rise)"
+      "Inflation protection",
+      "Compounding of returns",
+      "Liquidity",
+      "Diversification of investments"
      ],
      "correct_index": 3,
-     "explanation": "Bond prices move inversely to rates."
+     "explanation": "Risk spread."
     },
     {
-     "question_text": "A principle of investment is:",
+     "question_text": "Which pair shows the usual relation between risk and return?",
      "options": [
-      "Zero planning",
-      "Safety, liquidity, returns and diversification",
-      "Maximum risk",
-      "Ignoring tax"
-     ],
-     "correct_index": 1,
-     "explanation": "Match investments to goals and risk."
-    },
-    {
-     "question_text": "Diversification means:",
-     "options": [
-      "Borrowing",
-      "Avoiding investments",
-      "Investing in one asset",
-      "Spreading investments across different assets to reduce risk"
+      "Higher risk investments have a lower expected return",
+      "All investments have the same return",
+      "Risk and return are never related",
+      "Higher risk investments have a higher expected return"
      ],
      "correct_index": 3,
-     "explanation": "\"Don't put all eggs in one basket.\""
+     "explanation": "Risk-return trade-off."
     },
     {
-     "question_text": "The power of compounding means:",
+     "question_text": "Which of the following is generally the safest investment for a risk-averse person?",
      "options": [
-      "Losing interest",
-      "Earning interest on both the principal and previously earned interest",
-      "No interest",
-      "Earning interest on principal only"
+      "Penny stocks that are recommended in a social media group",
+      "Shares of a newly started company listed on a stock exchange",
+      "Cryptocurrency that is traded on an online platform",
+      "Government securities and bank deposits within the insured limit"
      ],
-     "correct_index": 1,
-     "explanation": "It makes money grow faster over time."
+     "correct_index": 3,
+     "explanation": "Low risk."
     },
     {
-     "question_text": "One should start investing early because:",
+     "question_text": "Time value of money means that:",
      "options": [
-      "Compounding has more time to work",
-      "Interest is lower",
-      "Prices fall",
-      "Risk is higher"
+      "A rupee today is worth more than a rupee in the future",
+      "Money loses value only with the inflation",
+      "A rupee in the future is worth more than a rupee today",
+      "The value of money does not change with time"
      ],
      "correct_index": 0,
-     "explanation": "Even small amounts grow."
+     "explanation": "Earning potential."
     },
     {
-     "question_text": "Asset allocation is:",
+     "question_text": "The present value of Rs 11,000 receivable after one year at 10% is:",
      "options": [
-      "Investing in one stock",
-      "Spending money",
-      "Avoiding investing",
-      "Dividing investments among asset classes such as equity, debt and gold according to goals and risk"
+      "Rs 12,100",
+      "Rs 11,000",
+      "Rs 10,000",
+      "Rs 9,000"
      ],
-     "correct_index": 3,
-     "explanation": "It is the main driver of returns."
+     "correct_index": 2,
+     "explanation": "11,000/1.1."
     },
     {
-     "question_text": "Tax-efficient investing means:",
+     "question_text": "A person saves Rs 5,000 per month for 12 months in a recurring deposit at 0% interest. The total savings are:",
      "options": [
-      "Choosing investments that reduce the tax payable on returns",
-      "Paying more tax",
-      "Avoiding investment",
-      "Evading tax"
+      "Rs 60,000",
+      "Rs 5,000",
+      "Rs 1,00,000",
+      "Rs 30,000"
      ],
      "correct_index": 0,
-     "explanation": "E.g., ELSS, PPF."
+     "explanation": "12 × 5,000."
+    },
+    {
+     "question_text": "A person saves Rs 2,000 a month for 3 years. Without any interest, the total saved is:",
+     "options": [
+      "Rs 6,000",
+      "Rs 2,16,000",
+      "Rs 72,000",
+      "Rs 24,000"
+     ],
+     "correct_index": 2,
+     "explanation": "2,000 × 36."
+    },
+    {
+     "question_text": "Which statement about a debt trap is correct?",
+     "options": [
+      "Taking a loan always improves the financial position of the borrower",
+      "Borrowing to repay old loans at high interest can push a person deeper into debt",
+      "A debt trap is impossible with the use of credit cards by borrowers",
+      "A debt trap arises only from saving too much out of the income"
+     ],
+     "correct_index": 1,
+     "explanation": "Spiral of debt."
+    },
+    {
+     "question_text": "The debt-to-income ratio helps a lender to judge:",
+     "options": [
+      "The age at which the borrower expects to retire from work",
+      "The profession which the borrower has been following",
+      "The place where the borrower has been residing for years",
+      "Whether the borrower can afford to repay a new loan"
+     ],
+     "correct_index": 3,
+     "explanation": "Repayment capacity."
+    },
+    {
+     "question_text": "As a thumb rule, total EMIs should not exceed what share of the monthly income?",
+     "options": [
+      "About 40%",
+      "About 65%",
+      "About 80%",
+      "About 90%"
+     ],
+     "correct_index": 0,
+     "explanation": "Safe limit."
+    },
+    {
+     "question_text": "If a person's monthly income is Rs 80,000, the maximum EMI by the 40% rule is:",
+     "options": [
+      "Rs 32,000",
+      "Rs 40,000",
+      "Rs 8,000",
+      "Rs 64,000"
+     ],
+     "correct_index": 0,
+     "explanation": "0.4 × 80,000."
+    },
+    {
+     "question_text": "The Reserve Bank of India's financial literacy initiative for the rural people is run through:",
+     "options": [
+      "Stock exchanges",
+      "Insurance companies",
+      "Post offices only",
+      "Financial Literacy Centres"
+     ],
+     "correct_index": 3,
+     "explanation": "RBI."
+    },
+    {
+     "question_text": "The National Strategy for Financial Education in India is developed by:",
+     "options": [
+      "The Supreme Court",
+      "NCFE under the RBI, SEBI, IRDAI and PFRDA",
+      "The Election Commission",
+      "The Ministry of Defence alone"
+     ],
+     "correct_index": 1,
+     "explanation": "Regulators."
+    },
+    {
+     "question_text": "Pradhan Mantri Jan Dhan Yojana is aimed at:",
+     "options": [
+      "Giving cheap loans to large industries for new factories",
+      "Providing free education to the children of poor families",
+      "Providing free housing to the families below the poverty line",
+      "Financial inclusion through basic bank accounts for all households"
+     ],
+     "correct_index": 3,
+     "explanation": "No-frills accounts."
+    },
+    {
+     "question_text": "A basic savings bank deposit account (BSBDA) is characterised by:",
+     "options": [
+      "No facility for deposits",
+      "Zero minimum balance and limited free transactions",
+      "No facility for withdrawals",
+      "High minimum balance and many charges"
+     ],
+     "correct_index": 1,
+     "explanation": "Inclusion."
+    },
+    {
+     "question_text": "A benefit given with Jan Dhan accounts is:",
+     "options": [
+      "A RuPay debit card with an accident insurance cover",
+      "A free luxury car for the account holders every year",
+      "Free foreign travel for the account holders and family",
+      "A guaranteed profit on shares for the account holders"
+     ],
+     "correct_index": 0,
+     "explanation": "Benefits."
+    },
+    {
+     "question_text": "Direct benefit transfer sends subsidies:",
+     "options": [
+      "Straight into the bank accounts of the beneficiaries",
+      "Through the middlemen who work in the villages",
+      "To the post office, to be handed out in cash",
+      "To the local shops, to be given as goods"
+     ],
+     "correct_index": 0,
+     "explanation": "Leakage reduced."
+    },
+    {
+     "question_text": "KYC stands for:",
+     "options": [
+      "Know Your Credit",
+      "Keep Your Cash",
+      "Key Yearly Charges",
+      "Know Your Customer"
+     ],
+     "correct_index": 3,
+     "explanation": "Identity verification."
+    },
+    {
+     "question_text": "Which of the following is a document commonly accepted as the proof of identity for KYC?",
+     "options": [
+      "Credit card bill",
+      "Electricity bill",
+      "School report card",
+      "Aadhaar or passport"
+     ],
+     "correct_index": 3,
+     "explanation": "Officially valid documents."
+    },
+    {
+     "question_text": "A caller asks for the OTP of your account for a \"KYC update\". The correct response is to:",
+     "options": [
+      "Share only the first three digits of the OTP received",
+      "Refuse, as no bank asks for an OTP over a phone call",
+      "Share it if the caller knows your name and your address",
+      "Share the OTP so that the account gets updated at once"
+     ],
+     "correct_index": 1,
+     "explanation": "Never share OTP."
+    },
+    {
+     "question_text": "A message says you have won a lottery and asks for a processing fee. This is most likely:",
+     "options": [
+      "An insurance bonus",
+      "A legitimate prize from the bank",
+      "A fraud or phishing attempt",
+      "A government scheme"
+     ],
+     "correct_index": 2,
+     "explanation": "Scam."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Financial Literacy – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Nominal return differs from real return in that the real return is:",
+     "question_text": "If you lose money by an unauthorised online transaction, you should first:",
      "options": [
-      "Return before charges",
-      "Nominal return",
-      "Nominal return adjusted for inflation",
-      "Return before tax"
+      "Wait for a week to see if the money returns",
+      "Share your PIN with the caller who offers help",
+      "Inform the bank immediately and block the card or account",
+      "Post about it on social media only"
      ],
      "correct_index": 2,
-     "explanation": "It shows the true gain in purchasing power."
+     "explanation": "Limit liability."
     },
     {
-     "question_text": "Nominal return 9% and inflation 5%. The approximate real return is:",
+     "question_text": "Under RBI rules, if the customer reports an unauthorised transaction within 3 working days where the fault is of the bank, the customer's liability is:",
      "options": [
-      "5%",
-      "14%",
-      "4%",
-      "9%"
-     ],
-     "correct_index": 2,
-     "explanation": "9% − 5%."
-    },
-    {
-     "question_text": "Investment avenues in India include:",
-     "options": [
-      "Bank deposits, PPF, mutual funds, shares, gold and real estate",
-      "Only shares",
-      "Only gold",
-      "Only banks"
-     ],
-     "correct_index": 0,
-     "explanation": "Each carries different risk and return."
-    },
-    {
-     "question_text": "Sovereign Gold Bonds are:",
-     "options": [
-      "Government securities denominated in grams of gold, issued by the RBI on behalf of the government",
-      "Insurance policies",
-      "Shares",
-      "Bank deposits"
-     ],
-     "correct_index": 0,
-     "explanation": "They pay interest and avoid storage issues."
-    },
-    {
-     "question_text": "REITs and InvITs are:",
-     "options": [
-      "Banks",
-      "Trusts that pool money to invest in real estate and infrastructure and give investors income",
-      "Insurance companies",
-      "Pension funds"
-     ],
-     "correct_index": 1,
-     "explanation": "They are traded on stock exchanges."
-    },
-    {
-     "question_text": "Cryptocurrency in India is:",
-     "options": [
-      "Not banned but unregulated as currency; gains on virtual digital assets are taxed at 30% with 1% TDS",
-      "Tax-free",
-      "Banned fully",
-      "Legal tender"
-     ],
-     "correct_index": 0,
-     "explanation": "It is not recognised as legal tender."
-    },
-    {
-     "question_text": "Risk profiling is:",
-     "options": [
-      "Opening an account",
-      "Calculating tax",
-      "Selecting stocks",
-      "Assessing an investor's ability and willingness to take risk"
+      "Half amount",
+      "Rs 10,000",
+      "Full amount",
+      "Zero"
      ],
      "correct_index": 3,
-     "explanation": "It guides suitable investment choices."
+     "explanation": "Zero-liability."
     },
     {
-     "question_text": "Risk capacity differs from risk tolerance in that risk capacity is:",
+     "question_text": "A strong password is one that:",
      "options": [
-      "The willingness",
-      "The tax",
-      "The financial ability to bear loss, while risk tolerance is the psychological willingness",
-      "The return"
-     ],
-     "correct_index": 2,
-     "explanation": "Both determine the risk profile."
-    },
-    {
-     "question_text": "AI helps in risk profiling by:",
-     "options": [
-      "Guaranteeing profit",
-      "Analysing data to assess an investor's risk appetite and suggest suitable portfolios",
-      "Removing choice",
-      "Ignoring data"
+      "Is the word \"password\" followed by the number one",
+      "Mixes letters, numbers and symbols and is not shared",
+      "Is the name of the pet of the holder of the account",
+      "Is the date of birth of the holder of the account"
      ],
      "correct_index": 1,
-     "explanation": "It personalises advice."
+     "explanation": "Security."
     },
     {
-     "question_text": "A robo-advisor is:",
+     "question_text": "The RBI Integrated Ombudsman Scheme deals with:",
      "options": [
-      "A bank",
-      "A robot",
-      "An automated platform giving investment advice and portfolio management using algorithms",
-      "A human adviser"
+      "Complaints against the municipal bodies of the local area",
+      "Complaints against the schools and the colleges of the city",
+      "Customer complaints against banks and other regulated entities",
+      "Complaints against the police and the other law enforcers"
      ],
      "correct_index": 2,
-     "explanation": "It has low fees."
+     "explanation": "Grievance redressal."
     },
     {
-     "question_text": "A benefit of AI in investment profiling is:",
+     "question_text": "Before approaching the ombudsman, a customer should first:",
      "options": [
-      "No personalisation",
-      "Slow advice",
-      "Personalised, low-cost and fast advice",
-      "High cost"
+      "Write to the Prime Minister about the complaint",
+      "Go to court and file a civil suit against the bank",
+      "Complain to the bank and give it time to reply",
+      "Stop using the bank account and close it at once"
      ],
      "correct_index": 2,
-     "explanation": "It is available at scale."
+     "explanation": "Exhaust the bank's process."
     },
     {
-     "question_text": "A concern with AI in risk profiling is:",
+     "question_text": "The main aim of consumer protection in financial services is to:",
      "options": [
-      "Perfect accuracy",
-      "No risk",
-      "Bias, data privacy and lack of transparency",
-      "Perfect transparency"
-     ],
-     "correct_index": 2,
-     "explanation": "Users may not understand AI decisions."
-    },
-    {
-     "question_text": "Financial planning is:",
-     "options": [
-      "The process of setting financial goals and creating a plan to achieve them",
-      "Avoiding goals",
-      "Borrowing money",
-      "Spending money"
+      "Protect customers from unfair practices and mis-selling",
+      "Reduce the number of bank branches in the country",
+      "Stop the customers from taking loans from the banks",
+      "Increase the profits of banks and other lenders"
      ],
      "correct_index": 0,
-     "explanation": "It covers income, spending, saving and investing."
+     "explanation": "Fair treatment."
     },
     {
-     "question_text": "The first step of financial planning is:",
+     "question_text": "\"Mis-selling\" of a financial product means:",
      "options": [
-      "Reviewing",
-      "Selecting investments",
-      "Monitoring",
-      "Setting financial goals"
-     ],
-     "correct_index": 3,
-     "explanation": "Then assess the position, make a plan, implement and review."
-    },
-    {
-     "question_text": "Financial planning is important because it:",
-     "options": [
-      "Ignores goals",
-      "Helps achieve goals and prepare for emergencies and retirement",
-      "Increases debt",
-      "Reduces savings"
-     ],
-     "correct_index": 1,
-     "explanation": "It brings discipline."
-    },
-    {
-     "question_text": "An emergency fund is:",
-     "options": [
-      "Money for shopping",
-      "A loan",
-      "Investment in shares",
-      "Savings kept for unexpected expenses, usually 3 to 6 months' expenses"
-     ],
-     "correct_index": 3,
-     "explanation": "It should be liquid."
-    },
-    {
-     "question_text": "A budget is:",
-     "options": [
-      "A tax",
-      "A loan",
-      "A plan of expected income and expenditure for a period",
-      "A record of past spending only"
+      "Selling it at its cost price to the buyers without any profit",
+      "Selling it online instead of in a physical branch",
+      "Selling it by giving wrong or incomplete information to the buyer",
+      "Selling it at a discount to the existing customers"
      ],
      "correct_index": 2,
-     "explanation": "It helps control spending."
+     "explanation": "Unfair."
     },
     {
-     "question_text": "A family budget is:",
+     "question_text": "Before buying an insurance policy, a person should:",
      "options": [
-      "A national budget",
-      "An estimate of a household's income and expenses (food, rent, education, savings)",
-      "A tax return",
-      "A business budget"
-     ],
-     "correct_index": 1,
-     "explanation": "It balances income and needs."
-    },
-    {
-     "question_text": "The 50-30-20 rule suggests:",
-     "options": [
-      "30% needs",
-      "20% needs",
-      "50% wants",
-      "50% needs, 30% wants, 20% savings and debt repayment"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a simple budgeting guide."
-    },
-    {
-     "question_text": "Zero-based budgeting means:",
-     "options": [
-      "Saving nothing",
-      "Allocating every rupee of income to expenses or savings so that income minus expenses is zero",
-      "Spending nothing",
-      "Borrowing"
-     ],
-     "correct_index": 1,
-     "explanation": "Every rupee has a purpose."
-    },
-    {
-     "question_text": "A business budget includes:",
-     "options": [
-      "Only production",
-      "Sales, production, cash and master budgets",
-      "Only master",
-      "Only sales"
-     ],
-     "correct_index": 1,
-     "explanation": "It plans business operations."
-    },
-    {
-     "question_text": "A cash budget is:",
-     "options": [
-      "A production plan",
-      "An estimate of cash receipts and payments over a period",
-      "A sales plan",
-      "A profit report"
-     ],
-     "correct_index": 1,
-     "explanation": "It helps manage liquidity."
-    },
-    {
-     "question_text": "The national budget is presented under:",
-     "options": [
-      "Article 200",
-      "Article 300",
-      "Article 100",
-      "Article 112 of the Constitution as the annual financial statement"
-     ],
-     "correct_index": 3,
-     "explanation": "It is laid before Parliament."
-    },
-    {
-     "question_text": "The Union Budget is presented by:",
-     "options": [
-      "The RBI Governor",
-      "The Prime Minister",
-      "The Finance Minister, usually on 1 February",
-      "The President"
+      "Ignore the fine print",
+      "Buy it on the basis of the friend's word only",
+      "Read the terms, exclusions and the premium carefully",
+      "Buy the one with the highest commission to the agent"
      ],
      "correct_index": 2,
-     "explanation": "It covers the coming financial year."
+     "explanation": "Informed decision."
     },
     {
-     "question_text": "Revenue receipts differ from capital receipts in that revenue receipts:",
+     "question_text": "A salesman says a ULIP gives \"guaranteed 20% returns\". This claim is likely to be:",
      "options": [
-      "Do not create liabilities or reduce assets (e.g., tax revenue), while capital receipts do (e.g., borrowings)",
-      "Reduce assets",
-      "Create liabilities",
-      "Are loans"
+      "Backed by the RBI, which guarantees all the returns",
+      "Backed by the government, which guarantees all the returns",
+      "Correct, as ULIPs are fixed-income products by their nature",
+      "Misleading, since market-linked returns cannot be guaranteed"
+     ],
+     "correct_index": 3,
+     "explanation": "Red flag."
+    },
+    {
+     "question_text": "A Ponzi scheme is one in which:",
+     "options": [
+      "The scheme is run and guaranteed by the RBI",
+      "Early investors are paid out of the money of new investors",
+      "The money is invested only in the government bonds",
+      "Returns are paid out of the real profits of a business"
+     ],
+     "correct_index": 1,
+     "explanation": "Fraud."
+    },
+    {
+     "question_text": "A warning sign of a fraudulent investment scheme is:",
+     "options": [
+      "Very high guaranteed returns with little or no risk",
+      "Audited accounts published every year for investors",
+      "Registration of the scheme with SEBI before launch",
+      "Clear disclosure of risks in the offer document"
      ],
      "correct_index": 0,
-     "explanation": "Capital receipts include loans and asset sales."
+     "explanation": "Too good to be true."
+    },
+    {
+     "question_text": "The practice of making a person who lacks knowledge to take a loan beyond his repayment capacity is called:",
+     "options": [
+      "Micro-financing",
+      "Predatory lending",
+      "Syndication",
+      "Securitisation"
+     ],
+     "correct_index": 1,
+     "explanation": "Exploitative."
+    },
+    {
+     "question_text": "The EMI on a loan depends on:",
+     "options": [
+      "The principal, the rate of interest and the tenure",
+      "The tenure of the loan alone, irrespective of the rate",
+      "The principal of the loan alone, irrespective of the rate",
+      "The rate of interest alone, irrespective of the tenure"
+     ],
+     "correct_index": 0,
+     "explanation": "Three factors."
+    },
+    {
+     "question_text": "If the tenure of a loan is increased, the EMI will:",
+     "options": [
+      "Remain the same, and the total interest will remain the same",
+      "Rise, and the total interest paid will fall",
+      "Fall, and the total interest paid will fall",
+      "Fall, but the total interest paid will rise"
+     ],
+     "correct_index": 3,
+     "explanation": "Trade-off."
+    },
+    {
+     "question_text": "A reducing balance rate of 10% versus a flat rate of 10% on the same loan: the effective cost is:",
+     "options": [
+      "The same for both",
+      "Zero for the flat rate",
+      "Higher for the reducing balance loan",
+      "Higher for the flat rate loan"
+     ],
+     "correct_index": 3,
+     "explanation": "Flat is costlier."
+    },
+    {
+     "question_text": "A loan of Rs 1,00,000 at a flat rate of 10% p.a. for 2 years. The total interest is:",
+     "options": [
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 21,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 3,
+     "explanation": "1,00,000 × 10% × 2."
+    },
+    {
+     "question_text": "In the above case the total repayment is Rs 1,20,000. The monthly instalment (24 months) is:",
+     "options": [
+      "Rs 4,167",
+      "Rs 8,333",
+      "Rs 5,000",
+      "Rs 6,000"
+     ],
+     "correct_index": 2,
+     "explanation": "1,20,000/24."
+    },
+    {
+     "question_text": "A loan taken to buy an appreciating asset such as a house is often called:",
+     "options": [
+      "Bad debt in all cases",
+      "A gift",
+      "Good debt, if it is affordable",
+      "Free money"
+     ],
+     "correct_index": 2,
+     "explanation": "Asset creation."
+    },
+    {
+     "question_text": "Borrowing on a credit card to fund a holiday trip is generally regarded as:",
+     "options": [
+      "Bad debt, as it has a high interest and creates no asset",
+      "Good debt, as the trip will appreciate in value over time",
+      "Tax-saving debt, as the interest is deducted from the income",
+      "Free credit, as no interest is charged on the card"
+     ],
+     "correct_index": 0,
+     "explanation": "Consumption."
+    },
+    {
+     "question_text": "A person who gets Rs 20,000 per month from the rent of a flat is earning:",
+     "options": [
+      "Capital gain",
+      "Active income",
+      "Salary",
+      "Passive income"
+     ],
+     "correct_index": 3,
+     "explanation": "Not from labour."
+    },
+    {
+     "question_text": "Which of these is an active income?",
+     "options": [
+      "Interest on deposits",
+      "Salary from employment",
+      "Rent from property",
+      "Dividend from shares"
+     ],
+     "correct_index": 1,
+     "explanation": "Earned by working."
+    },
+    {
+     "question_text": "Which of the following is a capital gain?",
+     "options": [
+      "Pension received every month after retirement",
+      "Profit on the sale of shares bought earlier at a lower price",
+      "Interest received on a savings bank account",
+      "Salary received every month from an employer"
+     ],
+     "correct_index": 1,
+     "explanation": "Price appreciation."
+    },
+    {
+     "question_text": "Financial planning begins with:",
+     "options": [
+      "Taking a loan from a bank for a large purchase",
+      "Setting financial goals and finding the present financial position",
+      "Investing in shares of a company that is popular",
+      "Buying an insurance policy from the nearest agent"
+     ],
+     "correct_index": 1,
+     "explanation": "First step."
+    },
+    {
+     "question_text": "The correct order of the steps in financial planning is:",
+     "options": [
+      "Implement, review, set goals, assess position, make a plan",
+      "Set goals, assess position, make a plan, implement and review",
+      "Assess position, review, implement, make a plan, set goals",
+      "Make a plan, set goals, implement, assess position, review"
+     ],
+     "correct_index": 1,
+     "explanation": "Planning cycle."
+    },
+    {
+     "question_text": "Life-cycle financial planning suggests that a young earner should:",
+     "options": [
+      "Start saving early to benefit from compounding",
+      "Wait until retirement to start saving",
+      "Borrow as much as possible",
+      "Avoid insurance"
+     ],
+     "correct_index": 0,
+     "explanation": "Time advantage."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Financial Literacy – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Revenue expenditure differs from capital expenditure in that revenue expenditure:",
+     "question_text": "Person A invests Rs 5,000 a month from age 25 to 35 and stops; person B invests Rs 5,000 a month from 35 to 60. Both earn the same rate. A's early money does well because:",
      "options": [
-      "Does not create assets (e.g., salaries), while capital expenditure creates assets (e.g., roads)",
-      "Is on roads",
-      "Is on machinery",
-      "Creates assets"
-     ],
-     "correct_index": 0,
-     "explanation": "Capital expenditure builds assets."
-    },
-    {
-     "question_text": "A surplus budget is one where:",
-     "options": [
-      "Expenditure exceeds receipts",
-      "There are no receipts",
-      "Receipts exceed expenditure",
-      "They are equal"
+      "It is free from tax",
+      "It earns a higher rate of return",
+      "It compounds for a longer time",
+      "It is invested for more number of months"
      ],
      "correct_index": 2,
-     "explanation": "A balanced budget has them equal; a deficit has expenditure above receipts."
+     "explanation": "Power of compounding."
     },
     {
-     "question_text": "Revenue deficit is:",
+     "question_text": "A sign of good financial habits is:",
      "options": [
-      "Total expenditure minus total receipts",
-      "Capital expenditure minus capital receipts",
-      "Revenue expenditure minus revenue receipts",
-      "Interest payments"
-     ],
-     "correct_index": 2,
-     "explanation": "It shows borrowing used for current spending."
-    },
-    {
-     "question_text": "Fiscal deficit is:",
-     "options": [
-      "Capital receipts",
-      "Interest payments",
-      "Revenue expenditure minus revenue receipts",
-      "Total expenditure minus total receipts excluding borrowings"
-     ],
-     "correct_index": 3,
-     "explanation": "It shows total borrowing needs."
-    },
-    {
-     "question_text": "Primary deficit is:",
-     "options": [
-      "Fiscal deficit plus interest",
-      "Revenue deficit",
-      "Capital deficit",
-      "Fiscal deficit minus interest payments"
-     ],
-     "correct_index": 3,
-     "explanation": "It shows borrowing excluding interest burden."
-    },
-    {
-     "question_text": "A fiscal deficit is financed by:",
-     "options": [
-      "Printing only",
-      "Taxes",
-      "Borrowing (market borrowings, treasury bills) and other liabilities",
-      "Gifts"
-     ],
-     "correct_index": 2,
-     "explanation": "It adds to public debt."
-    },
-    {
-     "question_text": "The FRBM Act:",
-     "options": [
-      "Sets targets for reducing fiscal deficit and ensuring fiscal discipline",
-      "Regulates stocks",
-      "Sets tax rates",
-      "Regulates banks"
-     ],
-     "correct_index": 0,
-     "explanation": "It is the Fiscal Responsibility and Budget Management Act, 2003."
-    },
-    {
-     "question_text": "Total expenditure Rs 450 lakh crore and receipts excluding borrowing Rs 340 lakh crore give a fiscal deficit of:",
-     "options": [
-      "Rs 450 lakh crore",
-      "Rs 340 lakh crore",
-      "Rs 110 lakh crore",
-      "Rs 790 lakh crore"
-     ],
-     "correct_index": 2,
-     "explanation": "450 − 340."
-    },
-    {
-     "question_text": "Fiscal deficit Rs 16 lakh crore and interest payments Rs 11 lakh crore give a primary deficit of:",
-     "options": [
-      "Rs 16 lakh crore",
-      "Rs 27 lakh crore",
-      "Rs 11 lakh crore",
-      "Rs 5 lakh crore"
-     ],
-     "correct_index": 3,
-     "explanation": "16 − 11."
-    },
-    {
-     "question_text": "AI-driven personal finance apps are:",
-     "options": [
-      "Apps that analyse spending and give personalised advice, e.g., budgeting and investment apps",
-      "Stock exchanges",
-      "Banks",
-      "Government schemes"
-     ],
-     "correct_index": 0,
-     "explanation": "They automate money management."
-    },
-    {
-     "question_text": "AI finance apps categorise expenses by:",
-     "options": [
-      "Guessing",
-      "Analysing transaction data and merchant names using machine learning",
-      "Ignoring data",
-      "Asking users every time"
+      "Borrowing money for meeting the daily needs",
+      "Tracking expenses and avoiding impulse purchases",
+      "Spending more than the income earned every month",
+      "Ignoring bills until a final notice is received"
      ],
      "correct_index": 1,
-     "explanation": "They show spending patterns."
+     "explanation": "Habits."
     },
     {
-     "question_text": "An Account Aggregator is:",
+     "question_text": "Digital financial literacy includes:",
      "options": [
-      "A bank",
-      "An RBI-regulated entity that enables secure, consent-based sharing of financial data among institutions",
-      "A mutual fund",
-      "A stock exchange"
-     ],
-     "correct_index": 1,
-     "explanation": "The user controls data sharing."
-    },
-    {
-     "question_text": "A risk of using AI finance apps is:",
-     "options": [
-      "Perfect safety",
-      "Data privacy and security concerns and over-reliance on automated advice",
-      "No data",
-      "No risk"
-     ],
-     "correct_index": 1,
-     "explanation": "Users should check permissions."
-    },
-    {
-     "question_text": "Financial literacy is needed today because:",
-     "options": [
-      "Products are few",
-      "Frauds are absent",
-      "Money is simple",
-      "Financial products and digital services are complex and frauds are increasing"
-     ],
-     "correct_index": 3,
-     "explanation": "Informed choices are essential."
-    },
-    {
-     "question_text": "Financial wellbeing is:",
-     "options": [
-      "Having a lot of money",
-      "Having debt",
-      "Being rich",
-      "A state in which a person can meet obligations, feel secure and make choices that enjoy life"
-     ],
-     "correct_index": 3,
-     "explanation": "It is about control and security."
-    },
-    {
-     "question_text": "Financial education contributes to financial wellbeing by:",
-     "options": [
-      "Building knowledge and skills for better money decisions",
-      "Ignoring decisions",
-      "Increasing debt",
-      "Reducing savings"
-     ],
-     "correct_index": 0,
-     "explanation": "It improves behaviour."
-    },
-    {
-     "question_text": "NCFE is the:",
-     "options": [
-      "National Cooperative Fund of Education",
-      "National Cyber Fraud Enforcement",
-      "National Centre for Financial Education, which promotes financial literacy (NSFE is the National Strategy for Financial Education)",
-      "National Credit Fund"
+      "Learning to design websites for a business",
+      "Learning to repair computers and mobile phones",
+      "Safe use of UPI, net banking and mobile wallets",
+      "Learning to write software code for apps"
      ],
      "correct_index": 2,
-     "explanation": "It works under the financial sector regulators."
+     "explanation": "Digital."
     },
     {
-     "question_text": "The RBI's financial literacy initiatives include:",
+     "question_text": "A \"no cost EMI\" offer on a purchase usually means that:",
      "options": [
-      "Lending",
-      "Financial literacy centres, awareness campaigns and the \"RBI Kehta Hai\" campaign",
-      "Tax collection",
-      "Printing notes"
-     ],
-     "correct_index": 1,
-     "explanation": "They reach rural and urban people."
-    },
-    {
-     "question_text": "The \"RBI Kehta Hai\" campaign is:",
-     "options": [
-      "An RBI public awareness campaign on safe banking, frauds and financial products",
-      "A scheme",
-      "A tax campaign",
-      "A product"
-     ],
-     "correct_index": 0,
-     "explanation": "It spreads awareness through media."
-    },
-    {
-     "question_text": "PMJDY, PMJJBY, PMSBY and APY are:",
-     "options": [
-      "Banks",
-      "Government schemes for bank accounts, life insurance, accident insurance and pension",
-      "Stock exchanges",
-      "Taxes"
-     ],
-     "correct_index": 1,
-     "explanation": "They promote inclusion."
-    },
-    {
-     "question_text": "AI chatbots help financial literacy awareness by:",
-     "options": [
-      "Replacing banks",
-      "Guaranteeing profit",
-      "Blocking queries",
-      "Answering queries in simple language and at any time"
-     ],
-     "correct_index": 3,
-     "explanation": "They improve access to information."
-    },
-    {
-     "question_text": "MuleHunter.AI is:",
-     "options": [
-      "A scheme",
-      "A bank",
-      "A mutual fund",
-      "An AI/ML tool developed by the RBI Innovation Hub to detect mule bank accounts used in fraud"
-     ],
-     "correct_index": 3,
-     "explanation": "It helps banks fight fraud."
-    },
-    {
-     "question_text": "A precaution against online banking fraud is:",
-     "options": [
-      "Never share OTP, PIN or password and use official apps",
-      "Click all links",
-      "Share OTP",
-      "Use public Wi-Fi for banking"
-     ],
-     "correct_index": 0,
-     "explanation": "Also enable alerts."
-    },
-    {
-     "question_text": "A cyber fraud in India should be reported:",
-     "options": [
-      "Only to the court",
-      "Nowhere",
-      "Only to friends",
-      "On the national cybercrime helpline 1930 or cybercrime.gov.in and to the bank"
-     ],
-     "correct_index": 3,
-     "explanation": "Prompt reporting helps recover money."
-    },
-    {
-     "question_text": "A limit of AI in financial education is that it:",
-     "options": [
-      "Never errs",
-      "Is always correct",
-      "May give inaccurate or biased advice and cannot replace human judgement",
-      "Replaces teachers"
+      "The loan is made free of any charge by the law",
+      "The bank has agreed to bear all the costs itself",
+      "The interest is built into the price or covered by a fee",
+      "There is no legal obligation on the buyer to pay"
      ],
      "correct_index": 2,
-     "explanation": "Users should verify."
+     "explanation": "Hidden cost."
+    },
+    {
+     "question_text": "Which of the following is NOT a regulator of the financial system in India?",
+     "options": [
+      "NITI Aayog",
+      "IRDAI",
+      "SEBI",
+      "RBI"
+     ],
+     "correct_index": 0,
+     "explanation": "Planning body, not a regulator."
+    },
+    {
+     "question_text": "PFRDA regulates:",
+     "options": [
+      "The stock market, including the mutual funds",
+      "The insurance sector, including the health policies",
+      "The banking sector, including the cooperative banks",
+      "The pension sector, including the National Pension System"
+     ],
+     "correct_index": 3,
+     "explanation": "Pension regulator."
+    },
+    {
+     "question_text": "IRDAI regulates:",
+     "options": [
+      "The insurance sector",
+      "The stock market",
+      "The pension sector",
+      "The commodity market"
+     ],
+     "correct_index": 0,
+     "explanation": "Insurance regulator."
+    },
+    {
+     "question_text": "SEBI regulates:",
+     "options": [
+      "The post office savings and the small savings schemes",
+      "The securities market and mutual funds",
+      "The insurance companies and the brokers of insurance",
+      "The banks and the non-banking finance companies"
+     ],
+     "correct_index": 1,
+     "explanation": "Securities."
+    },
+    {
+     "question_text": "Deposits in banks in India are insured up to what amount per depositor per bank by DICGC?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 10 lakh",
+      "Rs 5 lakh",
+      "Rs 25 lakh"
+     ],
+     "correct_index": 2,
+     "explanation": "Deposit insurance."
+    },
+    {
+     "question_text": "A person has Rs 8 lakh in a savings account and Rs 3 lakh in a fixed deposit in the same bank, and the bank fails. The amount insured by DICGC is:",
+     "options": [
+      "Rs 3 lakh",
+      "Rs 5 lakh",
+      "Rs 8 lakh",
+      "Rs 11 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "Per depositor per bank."
+    },
+    {
+     "question_text": "Suppose the same person holds Rs 5 lakh each in two different banks, both failing. The insured amount in total is:",
+     "options": [
+      "Rs 5 lakh",
+      "Rs 15 lakh",
+      "Rs 20 lakh",
+      "Rs 10 lakh"
+     ],
+     "correct_index": 3,
+     "explanation": "Per bank."
+    },
+    {
+     "question_text": "The financial inclusion index measures:",
+     "options": [
+      "Access to and usage of the financial services by the people",
+      "The income earned by banks in the financial year",
+      "The number of the stock brokers working in the country",
+      "The number of the loans given by banks in a year"
+     ],
+     "correct_index": 0,
+     "explanation": "Inclusion."
+    },
+    {
+     "question_text": "The factor that most improves a person's chance of getting a loan is:",
+     "options": [
+      "Many unpaid dues on the earlier loans and cards",
+      "The absence of any bank account in the person's name",
+      "A steady income and a good credit history",
+      "Frequent changes of job in short periods of time"
+     ],
+     "correct_index": 2,
+     "explanation": "Creditworthiness."
+    },
+    {
+     "question_text": "A person with a net monthly income of Rs 50,000 wants to save for a Rs 6 lakh goal in 3 years. The monthly saving needed (ignoring interest) is:",
+     "options": [
+      "Rs 6,000",
+      "Rs 20,000",
+      "Rs 10,000",
+      "Rs 16,667"
+     ],
+     "correct_index": 3,
+     "explanation": "6,00,000/36."
+    },
+    {
+     "question_text": "Which of the following increases a person's net worth?",
+     "options": [
+      "A new loan taken and spent on a holiday trip",
+      "A car bought on credit with a high EMI",
+      "Profit earned on investments that were made earlier",
+      "Expenses that are not recorded in any book"
+     ],
+     "correct_index": 2,
+     "explanation": "Assets grow without liabilities."
+    },
+    {
+     "question_text": "The \"liquidity\" of an investment means:",
+     "options": [
+      "How much return it is expected to earn every year",
+      "How quickly it can be turned into cash without a loss",
+      "How long the investment will continue to exist",
+      "How safe the invested money is from the loss of value"
+     ],
+     "correct_index": 1,
+     "explanation": "Cashability."
+    },
+    {
+     "question_text": "Which one of these is most liquid?",
+     "options": [
+      "A plot of land",
+      "A house",
+      "Gold jewellery",
+      "Cash in a savings account"
+     ],
+     "correct_index": 3,
+     "explanation": "Instantly available."
+    },
+    {
+     "question_text": "The three objectives of an investor are:",
+     "options": [
+      "Price, quantity and quality",
+      "Salary, loan and tax",
+      "Cash, credit and cheque",
+      "Safety, liquidity and return"
+     ],
+     "correct_index": 3,
+     "explanation": "SLR for an investor."
+    },
+    {
+     "question_text": "An investor in his sixties who needs regular income would prefer an investment which has:",
+     "options": [
+      "No liquidity",
+      "Highly volatile prices",
+      "Safety and regular income",
+      "Very high risk and high returns"
+     ],
+     "correct_index": 2,
+     "explanation": "Retiree needs."
+    },
+    {
+     "question_text": "Mrs Sharma puts Rs 1,00,000 in a fixed deposit at 7% compounded annually for 2 years. The maturity amount is:",
+     "options": [
+      "Rs 1,07,000",
+      "Rs 1,15,000",
+      "Rs 1,14,000",
+      "Rs 1,14,490"
+     ],
+     "correct_index": 3,
+     "explanation": "1,00,000 × 1.07²."
+    },
+    {
+     "question_text": "Which of the following correctly shows the effect of inflation on a fixed pension?",
+     "options": [
+      "The pension doubles every year",
+      "The real value of the pension falls over time",
+      "The pension is unaffected by the inflation",
+      "The real value of the pension rises over time"
+     ],
+     "correct_index": 1,
+     "explanation": "Fixed income."
+    },
+    {
+     "question_text": "Which of these is NOT a part of a personal budget?",
+     "options": [
+      "Expenses",
+      "Income",
+      "Stock exchange index",
+      "Savings"
+     ],
+     "correct_index": 2,
+     "explanation": "Not a household item."
+    },
+    {
+     "question_text": "Zero-based budgeting at the personal level means:",
+     "options": [
+      "Keeping zero savings at the end of every month",
+      "Spending nothing at all for the entire month",
+      "Giving every rupee of income a purpose, so that income less spending and savings is zero",
+      "Having zero income for a period of the year"
+     ],
+     "correct_index": 2,
+     "explanation": "Every rupee has a job."
+    },
+    {
+     "question_text": "A proper use of a credit card is:",
+     "options": [
+      "Paying the full bill every month before the due date",
+      "Using up the maximum limit available every month",
+      "Withdrawing cash and paying the bill late each time",
+      "Paying only the minimum amount due each month"
+     ],
+     "correct_index": 0,
+     "explanation": "Responsible use."
+    },
+    {
+     "question_text": "The most important step towards financial security for a young earner is to:",
+     "options": [
+      "Take more loans so that more assets can be bought",
+      "Delay saving until the income grows to a higher level",
+      "Spend less than earned and invest the difference regularly",
+      "Spend the whole income every month on the wants"
+     ],
+     "correct_index": 2,
+     "explanation": "Habit."
     }
    ]
   }

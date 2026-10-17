@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 2: Banking – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Under the Banking Regulation Act, 1949, a bank is a company that accepts deposits of money from the public for:",
+     "question_text": "When the RBI wants to reduce the money supply in the economy to control inflation, it is most likely to:",
      "options": [
-      "Lending or investment, repayable on demand or otherwise and withdrawable by cheque, draft or order",
-      "Manufacturing",
-      "Trading",
-      "Insurance"
-     ],
-     "correct_index": 0,
-     "explanation": "This definition is in Section 5(c)."
-    },
-    {
-     "question_text": "A primary function of a bank is to:",
-     "options": [
-      "Run a factory",
-      "Print currency",
-      "Accept deposits and lend money",
-      "Sell insurance only"
+      "Lower the repo rate and the cash reserve ratio",
+      "Reduce the bank rate and buy government securities",
+      "Raise the repo rate and the cash reserve ratio",
+      "Lower the statutory liquidity ratio and buy securities"
      ],
      "correct_index": 2,
-     "explanation": "These are its core functions."
+     "explanation": "Tightening the policy."
     },
     {
-     "question_text": "A secondary function of a bank is:",
+     "question_text": "The rate at which the RBI lends short-term funds to commercial banks against government securities is the:",
      "options": [
-      "Accepting deposits",
-      "Lending",
-      "Credit creation",
-      "Agency and utility services such as collecting cheques and issuing drafts"
+      "Bank rate",
+      "Reverse repo rate",
+      "Repo rate",
+      "Marginal cost lending rate"
+     ],
+     "correct_index": 2,
+     "explanation": "Repurchase option."
+    },
+    {
+     "question_text": "The rate at which the RBI absorbs the surplus liquidity from banks is the:",
+     "options": [
+      "Repo rate",
+      "Base rate",
+      "Prime lending rate",
+      "Reverse repo rate"
      ],
      "correct_index": 3,
-     "explanation": "Primary functions are deposits and loans."
+     "explanation": "Banks park funds."
     },
     {
-     "question_text": "Credit creation is:",
+     "question_text": "A bank has net demand and time liabilities (NDTL) of Rs 500 crore and the CRR is 4%. The cash it must keep with the RBI is:",
      "options": [
-      "Printing notes",
-      "Collecting taxes",
-      "Setting interest",
-      "The process by which banks create deposits through lending"
+      "Rs 125 crore",
+      "Rs 2 crore",
+      "Rs 4 crore",
+      "Rs 20 crore"
      ],
      "correct_index": 3,
-     "explanation": "Loans create new deposits."
+     "explanation": "4% of 500."
     },
     {
-     "question_text": "The RBI was established on _____ and nationalised on _____:",
+     "question_text": "With an NDTL of Rs 500 crore and an SLR of 18%, the bank must hold liquid assets of:",
      "options": [
-      "1969; 1980",
-      "1 January 1949; 1 April 1935",
-      "1 April 1935; 1 January 1949",
-      "1991; 2000"
+      "Rs 90 crore",
+      "Rs 18 crore",
+      "Rs 180 crore",
+      "Rs 9 crore"
+     ],
+     "correct_index": 0,
+     "explanation": "18% of 500."
+    },
+    {
+     "question_text": "The main difference between CRR and SLR is that CRR is kept:",
+     "options": [
+      "With the bank itself, while SLR is kept in cash with the RBI",
+      "In gold, while SLR is kept in cash",
+      "In cash with the RBI, while SLR is held in liquid assets with the bank itself",
+      "In shares, while SLR is kept in deposits"
      ],
      "correct_index": 2,
-     "explanation": "It is the central bank of India."
+     "explanation": "Form of reserve."
     },
     {
-     "question_text": "A function of the RBI is:",
+     "question_text": "Which of these is NOT eligible to be counted towards the SLR?",
      "options": [
-      "Opening shops",
-      "Selling insurance",
-      "Issuing currency, acting as banker to the government and regulating banks",
-      "Running mutual funds"
+      "Cash in hand with the bank",
+      "Government approved securities",
+      "Equity shares of listed companies",
+      "Gold held by the bank"
      ],
      "correct_index": 2,
-     "explanation": "It also controls credit and manages foreign exchange."
+     "explanation": "Not a permitted asset."
     },
     {
-     "question_text": "The credit control tools of the RBI include:",
+     "question_text": "The RBI is called the \"banker's bank\" because it:",
      "options": [
-      "Taxes",
-      "Budget",
-      "Repo rate, CRR, SLR and open market operations",
-      "Wages"
+      "Holds the reserves of banks and acts as their lender of last resort",
+      "Collects the income tax on behalf of the banks and the government",
+      "Gives loans and opens savings accounts for individual citizens",
+      "Sells shares of the commercial banks to the public at large"
      ],
-     "correct_index": 2,
-     "explanation": "They manage money supply."
+     "correct_index": 0,
+     "explanation": "Function."
     },
     {
-     "question_text": "The repo rate is the rate at which the RBI:",
+     "question_text": "The RBI acts as the \"lender of last resort\" when:",
      "options": [
-      "Lends to the public",
-      "Borrows from banks",
-      "Sets taxes",
-      "Lends to commercial banks, and the reverse repo is the rate at which it borrows from them"
+      "Commercial banks cannot obtain funds from any other source in a crisis",
+      "Individuals need housing loans for a long period of time",
+      "The government wants to borrow money from foreign banks and funds",
+      "Companies need long-term finance for expanding their plants"
+     ],
+     "correct_index": 0,
+     "explanation": "Safety net."
+    },
+    {
+     "question_text": "The sole authority to issue currency notes of the denomination of Rs 2 and above in India is the:",
+     "options": [
+      "State Bank of India",
+      "Mint at Nashik",
+      "Ministry of Finance",
+      "Reserve Bank of India"
      ],
      "correct_index": 3,
-     "explanation": "A cut in the repo rate makes borrowing cheaper."
+     "explanation": "Currency issue (Rs 1 is by the Ministry of Finance)."
     },
     {
-     "question_text": "CRR is the:",
+     "question_text": "The Re 1 note and the coins are issued by the:",
      "options": [
-      "Percentage of deposits banks must keep as cash with the RBI, and SLR is the percentage kept in liquid assets like gold and securities",
-      "Percentage of profit",
-      "Percentage kept as capital",
-      "Percentage of loans"
-     ],
-     "correct_index": 0,
-     "explanation": "They regulate bank liquidity."
-    },
-    {
-     "question_text": "The types of banks in India include:",
-     "options": [
-      "Commercial, cooperative, regional rural and small finance banks",
-      "Only public banks",
-      "Only foreign banks",
-      "Only cooperative banks"
-     ],
-     "correct_index": 0,
-     "explanation": "Payments banks are also in this list."
-    },
-    {
-     "question_text": "Scheduled banks are those:",
-     "options": [
-      "Foreign firms",
-      "Not regulated",
-      "Included in the Second Schedule of the RBI Act, 1934",
-      "Not in the schedule"
-     ],
-     "correct_index": 2,
-     "explanation": "They get certain facilities from the RBI."
-    },
-    {
-     "question_text": "Scheduled banks differ from non-scheduled banks in that scheduled banks:",
-     "options": [
-      "Are in the Second Schedule and can borrow from the RBI",
-      "Cannot borrow",
-      "Are not in the schedule",
-      "Are unregulated"
-     ],
-     "correct_index": 0,
-     "explanation": "They must also meet capital and reserve conditions."
-    },
-    {
-     "question_text": "Fourteen major banks were first nationalised in:",
-     "options": [
-      "1949",
-      "1991",
-      "2000",
-      "1969"
-     ],
-     "correct_index": 3,
-     "explanation": "Six more were nationalised in 1980."
-    },
-    {
-     "question_text": "Regional Rural Banks were set up in:",
-     "options": [
-      "2015",
-      "1975 (under the RRB Act, 1976) to serve rural areas",
-      "2000",
-      "1949"
+      "National Bank for Agriculture and Rural Development",
+      "Ministry of Finance, Government of India",
+      "State Bank of India",
+      "Reserve Bank of India"
      ],
      "correct_index": 1,
-     "explanation": "They provide credit to small farmers and artisans."
+     "explanation": "Exception to the RBI's note issue."
     },
     {
-     "question_text": "The ownership of RRBs is:",
+     "question_text": "Which of the following is a primary function of a commercial bank?",
      "options": [
-      "Central government 50%, state government 15% and sponsor bank 35%",
-      "Central 100%",
-      "State 100%",
-      "Sponsor 100%"
+      "Fixing the bank rate",
+      "Issuing currency notes",
+      "Accepting deposits and granting loans",
+      "Controlling the credit in the economy"
+     ],
+     "correct_index": 2,
+     "explanation": "Core business."
+    },
+    {
+     "question_text": "A commercial bank creates credit by:",
+     "options": [
+      "Lending out of deposits, which come back as fresh deposits",
+      "Printing notes on its own whenever the customers want loans",
+      "Selling foreign exchange to the customers who want to travel",
+      "Lending only its own capital and not the deposits of customers"
      ],
      "correct_index": 0,
-     "explanation": "It is a three-way holding."
+     "explanation": "Credit multiplier."
     },
     {
-     "question_text": "Cooperative banks are:",
+     "question_text": "If the CRR is 10% and the initial deposit is Rs 1,000, the maximum total deposit creation is (money multiplier = 1/CRR):",
      "options": [
-      "Government-owned banks",
-      "Banks owned and run by their members, including urban cooperative banks and state/district/primary societies",
-      "Payments banks",
-      "Foreign banks"
-     ],
-     "correct_index": 1,
-     "explanation": "Types: urban and rural cooperative banks."
-    },
-    {
-     "question_text": "Payments banks:",
-     "options": [
-      "Can lend",
-      "Issue loans",
-      "Accept limited deposits and provide payment services but cannot lend",
-      "Issue credit cards"
-     ],
-     "correct_index": 2,
-     "explanation": "Examples: India Post Payments Bank."
-    },
-    {
-     "question_text": "Services provided by banks include:",
-     "options": [
-      "Only deposits",
-      "Accounts, loans, cards, remittances and e-banking",
-      "Only loans",
-      "Only cards"
-     ],
-     "correct_index": 1,
-     "explanation": "Banks offer many services."
-    },
-    {
-     "question_text": "A savings account is:",
-     "options": [
-      "A loan account",
-      "A fixed deposit",
-      "A business account",
-      "A deposit account that encourages savings and pays interest, with limits on withdrawals"
-     ],
-     "correct_index": 3,
-     "explanation": "It is meant for individuals."
-    },
-    {
-     "question_text": "A current account is meant for:",
-     "options": [
-      "Students",
-      "Savers",
-      "Businesses and traders who need frequent transactions, with no interest",
-      "Pensioners"
-     ],
-     "correct_index": 2,
-     "explanation": "It has no limit on transactions."
-    },
-    {
-     "question_text": "A savings account differs from a current account in that a savings account:",
-     "options": [
-      "Is for businesses",
-      "Pays interest and has transaction limits, while a current account pays no interest",
-      "Pays no interest",
-      "Has no limits"
-     ],
-     "correct_index": 1,
-     "explanation": "Current accounts allow overdrafts."
-    },
-    {
-     "question_text": "A fixed deposit is:",
-     "options": [
-      "A deposit with no term",
-      "A deposit of a lump sum for a fixed period at a fixed interest rate",
-      "A loan",
-      "A current account"
-     ],
-     "correct_index": 1,
-     "explanation": "Premature withdrawal may attract a penalty."
-    },
-    {
-     "question_text": "A recurring deposit is:",
-     "options": [
-      "A current account",
-      "A one-time deposit",
-      "A deposit in which a fixed amount is deposited every month for a fixed period",
-      "A loan"
-     ],
-     "correct_index": 2,
-     "explanation": "It builds savings habit."
-    },
-    {
-     "question_text": "An FD differs from an RD in that an FD is:",
-     "options": [
-      "A loan",
-      "Regular instalments",
-      "A current account",
-      "A single lump-sum deposit, while an RD has regular instalments"
-     ],
-     "correct_index": 3,
-     "explanation": "Both earn fixed interest."
-    },
-    {
-     "question_text": "A tax-saver FD:",
-     "options": [
-      "Has a 5-year lock-in and gives a deduction under Section 80C up to Rs 1.5 lakh (old regime)",
-      "Has no lock-in",
-      "Is taxable",
-      "Has a 1-year lock-in"
+      "Rs 10,000",
+      "Rs 1,000",
+      "Rs 1,100",
+      "Rs 100"
      ],
      "correct_index": 0,
-     "explanation": "Premature withdrawal is not allowed."
+     "explanation": "1000 × 10."
+    },
+    {
+     "question_text": "The money multiplier is 5 and the initial deposit is Rs 2,00,000. The total deposits created are:",
+     "options": [
+      "Rs 12,00,000",
+      "Rs 10,00,000",
+      "Rs 40,000",
+      "Rs 2,00,000"
+     ],
+     "correct_index": 1,
+     "explanation": "2 lakh × 5."
+    },
+    {
+     "question_text": "The money multiplier of 5 corresponds to a reserve ratio of:",
+     "options": [
+      "20%",
+      "5%",
+      "2%",
+      "50%"
+     ],
+     "correct_index": 0,
+     "explanation": "1/5."
+    },
+    {
+     "question_text": "A savings deposit is mainly characterised by:",
+     "options": [
+      "Easy withdrawal, low interest and no fixed tenure",
+      "No interest at all and no facility for withdrawals",
+      "Withdrawal only on the maturity of the deposit",
+      "Fixed tenure with a higher rate of interest on the deposit"
+     ],
+     "correct_index": 0,
+     "explanation": "Demand-type deposit."
+    },
+    {
+     "question_text": "A current account is mostly meant for:",
+     "options": [
+      "Senior citizens who want regular income",
+      "Students who want to save",
+      "Businessmen who make many transactions daily",
+      "Salaried persons who want a high interest"
+     ],
+     "correct_index": 2,
+     "explanation": "No interest, no limits on transactions."
+    },
+    {
+     "question_text": "A fixed deposit differs from a recurring deposit in that:",
+     "options": [
+      "Both are repayable on demand",
+      "A lump sum is deposited once in a fixed deposit, while a recurring deposit takes monthly instalments",
+      "A recurring deposit takes a lump sum while a fixed deposit takes monthly instalments",
+      "Both take monthly instalments"
+     ],
+     "correct_index": 1,
+     "explanation": "Mode of deposit."
+    },
+    {
+     "question_text": "The interest on a fixed deposit of Rs 1,00,000 at 7% p.a. for one year (simple, ignoring the compounding) is:",
+     "options": [
+      "Rs 7,000",
+      "Rs 70,000",
+      "Rs 700",
+      "Rs 17,000"
+     ],
+     "correct_index": 0,
+     "explanation": "7%."
+    },
+    {
+     "question_text": "Premature withdrawal of a fixed deposit usually results in:",
+     "options": [
+      "A bonus from the bank",
+      "No change in the interest",
+      "A higher rate of interest",
+      "A penalty or a lower rate of interest"
+     ],
+     "correct_index": 3,
+     "explanation": "Early closure."
+    },
+    {
+     "question_text": "A recurring deposit of Rs 1,000 a month for 12 months with no interest has a maturity value of:",
+     "options": [
+      "Rs 6,000",
+      "Rs 13,000",
+      "Rs 1,000",
+      "Rs 12,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Sum of the instalments."
+    },
+    {
+     "question_text": "A cheque with two parallel lines across its face is a:",
+     "options": [
+      "Stale cheque, which is not valid for payment",
+      "Order cheque, payable in cash over the counter",
+      "Crossed cheque, payable only through a bank account",
+      "Bearer cheque, payable to anyone who presents it"
+     ],
+     "correct_index": 2,
+     "explanation": "General crossing."
+    },
+    {
+     "question_text": "A cheque is treated as stale if presented after:",
+     "options": [
+      "One year from the date of its issue",
+      "One month from the date of its issue",
+      "Six months from the date of its issue",
+      "Three months from the date of its issue"
+     ],
+     "correct_index": 3,
+     "explanation": "RBI rule."
+    },
+    {
+     "question_text": "A post-dated cheque is one that:",
+     "options": [
+      "Bears a date later than the date on which it is issued",
+      "Has no date",
+      "Is cancelled",
+      "Bears a date earlier than the date of issue"
+     ],
+     "correct_index": 0,
+     "explanation": "Future date."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Banking – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A Basic Savings Bank Deposit Account:",
+     "question_text": "Dishonour of a cheque for insufficient funds is an offence under:",
      "options": [
-      "Has no minimum balance requirement and provides basic facilities",
-      "Has no facilities",
-      "Needs a high balance",
-      "Is for companies"
-     ],
-     "correct_index": 0,
-     "explanation": "It promotes financial inclusion."
-    },
-    {
-     "question_text": "A Jan Dhan account is:",
-     "options": [
-      "A zero-balance account under PMJDY with a RuPay card, accident insurance and overdraft facility",
-      "A fixed deposit",
-      "A loan",
-      "A current account"
-     ],
-     "correct_index": 0,
-     "explanation": "It aims at universal banking."
-    },
-    {
-     "question_text": "NRE, NRO and FCNR(B) accounts are:",
-     "options": [
-      "Credit cards",
-      "Accounts for residents",
-      "Accounts for Non-Resident Indians",
-      "Loan accounts"
-     ],
-     "correct_index": 2,
-     "explanation": "They have different currency and repatriation rules."
-    },
-    {
-     "question_text": "An NRE account differs from an NRO account in that NRE:",
-     "options": [
-      "Is for residents",
-      "Is non-repatriable",
-      "Is repatriable and its interest is tax-free, while NRO is for Indian income and taxable",
-      "Is taxable"
-     ],
-     "correct_index": 2,
-     "explanation": "NRE holds foreign earnings."
-    },
-    {
-     "question_text": "Joint accounts can be operated in modes such as:",
-     "options": [
-      "Either or survivor, former or survivor, and jointly",
-      "Only by the bank",
-      "Only one mode",
-      "Only solo"
-     ],
-     "correct_index": 0,
-     "explanation": "The mode is set at opening."
-    },
-    {
-     "question_text": "A minor's account:",
-     "options": [
-      "Is only for adults",
-      "Needs a court order",
-      "Can be opened by the guardian, and minors above 10 may operate it independently as per RBI rules",
-      "Cannot be opened"
-     ],
-     "correct_index": 2,
-     "explanation": "Banks set limits."
-    },
-    {
-     "question_text": "Unclaimed deposits are:",
-     "options": [
-      "Accounts operated daily",
-      "Taxes",
-      "Loans",
-      "Accounts not operated for 10 years, whose balance is transferred to the Depositor Education and Awareness (DEA) Fund"
-     ],
-     "correct_index": 3,
-     "explanation": "The depositor can still claim from the bank."
-    },
-    {
-     "question_text": "The formalities to open a bank account include:",
-     "options": [
-      "Only a signature",
-      "Nothing",
-      "Only a deposit",
-      "Application form, KYC documents, photograph and initial deposit"
-     ],
-     "correct_index": 3,
-     "explanation": "The bank verifies identity."
-    },
-    {
-     "question_text": "KYC stands for:",
-     "options": [
-      "Keep Your Card",
-      "Keep Your Cash",
-      "Know Your Credit",
-      "Know Your Customer"
-     ],
-     "correct_index": 3,
-     "explanation": "It is the process of verifying identity."
-    },
-    {
-     "question_text": "KYC is required to:",
-     "options": [
-      "Increase fees",
-      "Prevent money laundering, fraud and ensure customer identification",
-      "Avoid accounts",
-      "Reduce services"
+      "Section 420 of the Indian Penal Code, 1860",
+      "Section 138 of the Negotiable Instruments Act",
+      "The Reserve Bank of India Act, 1934",
+      "The Banking Regulation Act, 1949"
      ],
      "correct_index": 1,
-     "explanation": "It is mandatory for banks."
+     "explanation": "NI Act."
     },
     {
-     "question_text": "The legal basis for KYC norms in India is:",
+     "question_text": "\"Endorsement\" of a cheque means:",
      "options": [
-      "The Contract Act",
-      "The Prevention of Money Laundering Act, 2002 and RBI directions",
-      "The Income Tax Act",
-      "The Companies Act"
+      "Signing on its back to transfer it to another person",
+      "Drawing two parallel lines across the face of the cheque",
+      "Writing the amount in figures on the front of the cheque",
+      "Instructing the bank to stop the payment of the cheque"
+     ],
+     "correct_index": 0,
+     "explanation": "Transfer."
+    },
+    {
+     "question_text": "A bearer cheque is payable to:",
+     "options": [
+      "Only the person named as payee on the cheque",
+      "Whoever presents it at the counter of the bank",
+      "Only the person to whom it is endorsed on its back",
+      "Only the account holder who issued the cheque"
      ],
      "correct_index": 1,
-     "explanation": "The RBI issues KYC Master Directions."
+     "explanation": "Bearer."
     },
     {
-     "question_text": "Officially Valid Documents include:",
+     "question_text": "The drawer of a cheque is the:",
      "options": [
-      "Shop bill",
-      "Passport, driving licence, Aadhaar, voter ID and NREGA job card",
-      "Club card",
-      "Library card"
+      "Person to whom it is payable",
+      "Bank on which it is drawn",
+      "Person who issues the cheque",
+      "Person who endorses it"
+     ],
+     "correct_index": 2,
+     "explanation": "Account holder."
+    },
+    {
+     "question_text": "The drawee of a cheque is the:",
+     "options": [
+      "Person who issues it",
+      "Bank on which the cheque is drawn",
+      "Person who receives it",
+      "Person who crosses it"
      ],
      "correct_index": 1,
-     "explanation": "They prove identity and address."
+     "explanation": "Banker."
     },
     {
-     "question_text": "PAN or Form 60 is required:",
+     "question_text": "The payee of a cheque is the:",
      "options": [
-      "When opening an account (or for large cash transactions)",
-      "Only for FDs",
-      "Only for loans",
-      "Never"
+      "Person to whom the amount is payable",
+      "Person who endorses it",
+      "Bank which pays it",
+      "Person who signs it"
      ],
      "correct_index": 0,
-     "explanation": "It helps track transactions."
+     "explanation": "Receiver."
     },
     {
-     "question_text": "The four elements of a KYC policy are:",
+     "question_text": "NEFT settlements take place:",
      "options": [
-      "Customer acceptance, customer identification, monitoring of transactions and risk management",
-      "Debit, credit, balance, cheque",
-      "Savings, loans, cards, FDs",
-      "Planning, organising, staffing, directing"
+      "In batches at half-hourly intervals, round the clock",
+      "In real time for each transaction individually",
+      "Once a day",
+      "Once a week"
      ],
      "correct_index": 0,
-     "explanation": "They are in the RBI Master Direction."
+     "explanation": "Deferred net settlement."
     },
     {
-     "question_text": "Aadhaar-based e-KYC:",
+     "question_text": "RTGS is meant for:",
      "options": [
-      "Verifies identity digitally using the customer's Aadhaar with consent",
-      "Needs no ID",
-      "Needs physical visit",
-      "Is illegal"
-     ],
-     "correct_index": 0,
-     "explanation": "It is quick and paperless."
-    },
-    {
-     "question_text": "Video KYC (V-CIP):",
-     "options": [
-      "Is a recorded message",
-      "Is a form",
-      "Verifies a customer through a live video interaction with a bank official",
-      "Needs a branch visit"
-     ],
-     "correct_index": 2,
-     "explanation": "It allows remote account opening."
-    },
-    {
-     "question_text": "CKYC is:",
-     "options": [
-      "A bank",
-      "A loan",
-      "A Central KYC Records Registry that stores KYC records so that customers need not repeat KYC",
-      "A card"
-     ],
-     "correct_index": 2,
-     "explanation": "A unique KYC identifier is generated."
-    },
-    {
-     "question_text": "KYC should be updated periodically:",
-     "options": [
-      "Never",
-      "Yearly for all",
-      "Every 20 years",
-      "At least every 2 years for high-risk, 8 years for medium-risk and 10 years for low-risk customers"
-     ],
-     "correct_index": 3,
-     "explanation": "It follows RBI guidelines."
-    },
-    {
-     "question_text": "For a company account, documents needed include:",
-     "options": [
-      "Nothing",
-      "Only a photo",
-      "Only a PAN",
-      "Certificate of incorporation, MOA/AOA, board resolution and PAN"
-     ],
-     "correct_index": 3,
-     "explanation": "Also KYC of directors."
-    },
-    {
-     "question_text": "For a minor's account, documents needed include:",
-     "options": [
-      "Nothing",
-      "Only a photograph",
-      "The minor's birth proof and the guardian's KYC",
-      "The company's documents"
-     ],
-     "correct_index": 2,
-     "explanation": "A guardian signs for a young minor."
-    },
-    {
-     "question_text": "Loans classified by tenure are:",
-     "options": [
-      "Short-term, medium-term and long-term",
-      "Fixed and floating",
-      "Cash and card",
-      "Secured and unsecured"
-     ],
-     "correct_index": 0,
-     "explanation": "Tenure refers to the repayment period."
-    },
-    {
-     "question_text": "Loans classified by security are:",
-     "options": [
-      "Large and small",
-      "Short and long",
-      "Fixed and floating",
-      "Secured and unsecured"
-     ],
-     "correct_index": 3,
-     "explanation": "Secured loans need collateral."
-    },
-    {
-     "question_text": "An unsecured loan is:",
-     "options": [
-      "A home loan",
-      "A gold loan",
-      "A loan with collateral",
-      "A loan without collateral, e.g., personal loan and credit card debt"
-     ],
-     "correct_index": 3,
-     "explanation": "It has higher interest rates."
-    },
-    {
-     "question_text": "A secured loan is:",
-     "options": [
-      "A credit card loan",
-      "A personal loan",
-      "A loan backed by collateral, e.g., home loan and gold loan",
-      "A loan without collateral"
-     ],
-     "correct_index": 2,
-     "explanation": "The lender can recover through the asset."
-    },
-    {
-     "question_text": "An overdraft is:",
-     "options": [
-      "A loan with no limit",
-      "A facility to withdraw more than the account balance up to a limit",
-      "A fixed deposit",
-      "A savings account"
+      "Cash deposits made over the counter of a branch",
+      "Large-value transfers, settled in real time one by one",
+      "Foreign remittances made through the authorised dealers",
+      "Small-value transfers of up to Rs 50,000 settled in batches"
      ],
      "correct_index": 1,
-     "explanation": "Interest is charged on the amount used."
-    }
-   ]
-  },
-  {
-   "title": "Unit 2: Banking – Practice Test 3",
-   "duration_minutes": 25,
-   "questions": [
+     "explanation": "Minimum Rs 2 lakh."
+    },
     {
-     "question_text": "Cash credit is:",
+     "question_text": "The minimum value for an RTGS transaction is:",
      "options": [
-      "A fixed deposit",
-      "A short-term borrowing facility for businesses against the security of stock or debtors",
-      "A personal loan",
-      "A savings account"
+      "Rs 5 lakh",
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 10,000"
+     ],
+     "correct_index": 2,
+     "explanation": "RBI rule."
+    },
+    {
+     "question_text": "IMPS allows:",
+     "options": [
+      "Transfers only during the working hours of the bank",
+      "Transfers only through the cheques and demand drafts",
+      "Instant interbank transfers round the clock, even on holidays",
+      "Transfers only for a value above Rs 2 lakh"
+     ],
+     "correct_index": 2,
+     "explanation": "24x7."
+    },
+    {
+     "question_text": "Which one is the most suitable for sending Rs 5 crore to a supplier on the same day?",
+     "options": [
+      "Demand draft",
+      "RTGS",
+      "NEFT",
+      "Money order"
      ],
      "correct_index": 1,
-     "explanation": "It funds working capital."
+     "explanation": "Large value, quick."
     },
     {
-     "question_text": "An overdraft differs from cash credit in that an overdraft is usually given on:",
+     "question_text": "A demand draft is:",
      "options": [
-      "Current/savings accounts (often against FD or collateral), while cash credit is for businesses against stock",
-      "Stock",
-      "Business only",
-      "No security"
+      "A prepaid instrument issued by a bank, payable on demand",
+      "A cheque issued by a customer on his own account",
+      "A slip printed by an ATM after a cash withdrawal",
+      "A receipt issued for a cash deposit made by a customer"
      ],
      "correct_index": 0,
-     "explanation": "Both allow borrowing up to a limit."
+     "explanation": "Bank instrument."
     },
     {
-     "question_text": "A fixed interest rate:",
+     "question_text": "A banker's cheque (pay order) is issued by:",
      "options": [
-      "Remains unchanged during the loan period, while a floating rate changes with market rates",
-      "Is variable",
-      "Changes with market",
-      "Is zero"
+      "A bank against payment made by the customer",
+      "The customer from his own account with the bank",
+      "The post office against a deposit by a customer",
+      "The RBI on behalf of the commercial banks"
      ],
      "correct_index": 0,
-     "explanation": "Floating rates are linked to a benchmark."
+     "explanation": "Bank instrument."
     },
     {
-     "question_text": "MCLR and EBLR are:",
+     "question_text": "Core banking solution (CBS) allows a customer to:",
      "options": [
-      "Tax rates",
-      "Deposit rates",
-      "Exchange rates",
-      "Benchmark lending rates: marginal cost of funds based lending rate and external benchmark based lending rate"
+      "Use only the ATMs",
+      "Operate the account only from the home branch",
+      "Operate the account from any branch of the bank",
+      "Withdraw only the cash"
+     ],
+     "correct_index": 2,
+     "explanation": "Anywhere banking."
+    },
+    {
+     "question_text": "An ATM allows a customer to:",
+     "options": [
+      "Open fixed deposits and recurring deposits only",
+      "Take loans without any documents or any security at all",
+      "Pay only the taxes due to the government and nothing else",
+      "Withdraw cash, check the balance and do some transactions any time"
      ],
      "correct_index": 3,
-     "explanation": "EBLR links loans to the repo rate."
-    },
-    {
-     "question_text": "The flat method of interest calculates interest on:",
-     "options": [
-      "The EMI",
-      "The original principal throughout, while the reducing balance method uses the outstanding principal",
-      "The outstanding principal",
-      "The interest"
-     ],
-     "correct_index": 1,
-     "explanation": "Flat rates cost more than they seem."
-    },
-    {
-     "question_text": "EMI is:",
-     "options": [
-      "Equated Monthly Instalment, a fixed monthly payment of principal and interest",
-      "Equity Market Index",
-      "Estimated Monthly Interest",
-      "Extra Monthly Income"
-     ],
-     "correct_index": 0,
-     "explanation": "It is paid over the loan tenure."
-    },
-    {
-     "question_text": "The EMI formula is:",
-     "options": [
-      "EMI = P × r × (1 + r)^n ÷ [(1 + r)^n − 1]",
-      "EMI = P × r",
-      "EMI = P + r",
-      "EMI = P ÷ n"
-     ],
-     "correct_index": 0,
-     "explanation": "P is principal, r monthly rate, n number of months."
-    },
-    {
-     "question_text": "The EMI on Rs 1,00,000 at 12% p.a. for 12 months is approximately:",
-     "options": [
-      "Rs 9,000",
-      "Rs 10,000",
-      "Rs 8,885",
-      "Rs 8,333"
-     ],
-     "correct_index": 2,
-     "explanation": "r = 1%, n = 12."
-    },
-    {
-     "question_text": "When the tenure increases, EMI:",
-     "options": [
-      "Increases",
-      "Decreases, but total interest paid increases",
-      "Stays the same",
-      "Becomes zero"
-     ],
-     "correct_index": 1,
-     "explanation": "Longer tenure costs more overall."
-    },
-    {
-     "question_text": "In an EMI, the share of interest is:",
-     "options": [
-      "Higher in the early period and falls over time, while the principal share rises",
-      "Zero",
-      "Higher in the end",
-      "Constant"
-     ],
-     "correct_index": 0,
-     "explanation": "Interest is computed on the reducing balance."
-    },
-    {
-     "question_text": "Foreclosure charges are:",
-     "options": [
-      "Processing fee",
-      "Interest",
-      "Charges levied when a loan is repaid before its tenure ends",
-      "Taxes"
-     ],
-     "correct_index": 2,
-     "explanation": "For floating-rate retail loans to individuals they are not allowed."
-    },
-    {
-     "question_text": "CIBIL is:",
-     "options": [
-      "A bank",
-      "A scheme",
-      "A credit information company that maintains credit scores and reports",
-      "A tax"
-     ],
-     "correct_index": 2,
-     "explanation": "It is now TransUnion CIBIL."
-    },
-    {
-     "question_text": "The four credit bureaus in India are:",
-     "options": [
-      "NPCI, UPI, NEFT, RTGS",
-      "SBI, HDFC, ICICI, Axis",
-      "TransUnion CIBIL, Equifax, Experian and CRIF High Mark",
-      "RBI, SEBI, IRDAI, PFRDA"
-     ],
-     "correct_index": 2,
-     "explanation": "They are licensed by the RBI."
-    },
-    {
-     "question_text": "Credit bureaus are governed by:",
-     "options": [
-      "The Credit Information Companies (Regulation) Act, 2005",
-      "The Contract Act",
-      "The Companies Act",
-      "The RBI Act only"
-     ],
-     "correct_index": 0,
-     "explanation": "It regulates credit information."
-    },
-    {
-     "question_text": "The CIBIL score ranges from:",
-     "options": [
-      "300 to 900; 750 and above is generally considered good",
-      "0 to 100",
-      "1 to 10",
-      "100 to 500"
-     ],
-     "correct_index": 0,
-     "explanation": "A higher score improves loan terms."
-    },
-    {
-     "question_text": "Factors affecting a credit score include:",
-     "options": [
-      "Religion",
-      "Age",
-      "Gender",
-      "Payment history, credit utilisation, length of history and credit mix"
-     ],
-     "correct_index": 3,
-     "explanation": "Also new credit enquiries."
-    },
-    {
-     "question_text": "A credit score can be improved by:",
-     "options": [
-      "Missing payments",
-      "Maxing out cards",
-      "Paying dues on time and keeping credit utilisation low",
-      "Applying for many loans"
-     ],
-     "correct_index": 2,
-     "explanation": "Check the report for errors."
-    },
-    {
-     "question_text": "One can get a free credit report:",
-     "options": [
-      "At least once a year from each credit bureau",
-      "Never",
-      "Only by paying",
-      "Every day"
-     ],
-     "correct_index": 0,
-     "explanation": "It helps spot errors and fraud."
-    },
-    {
-     "question_text": "An NPA is a loan that remains overdue for more than:",
-     "options": [
-      "60 days",
-      "30 days",
-      "90 days",
-      "180 days"
-     ],
-     "correct_index": 2,
-     "explanation": "It becomes a Non-Performing Asset."
-    },
-    {
-     "question_text": "The SARFAESI Act, 2002 allows banks to:",
-     "options": [
-      "Print money",
-      "Create new loans",
-      "Accept deposits",
-      "Recover NPAs by enforcing security interest without going to court"
-     ],
-     "correct_index": 3,
-     "explanation": "It covers securitisation and asset reconstruction."
-    },
-    {
-     "question_text": "AI helps in credit scoring by:",
-     "options": [
-      "Analysing large data sets to predict repayment behaviour",
-      "Removing risk",
-      "Ignoring data",
-      "Setting interest rates by lottery"
-     ],
-     "correct_index": 0,
-     "explanation": "It allows faster decisions."
-    },
-    {
-     "question_text": "Alternative data in credit scoring means:",
-     "options": [
-      "Only bank statements",
-      "Only tax returns",
-      "Non-traditional data such as utility payments, mobile usage and digital transactions",
-      "Only salary slips"
-     ],
-     "correct_index": 2,
-     "explanation": "It helps people with no credit history."
-    },
-    {
-     "question_text": "A risk of AI in loan approval is:",
-     "options": [
-      "No errors",
-      "Bias, lack of transparency and privacy concerns",
-      "Full transparency",
-      "Perfect fairness"
-     ],
-     "correct_index": 1,
-     "explanation": "Decisions need to be explainable."
-    },
-    {
-     "question_text": "Key points of the RBI Digital Lending Directions include:",
-     "options": [
-      "No disclosure",
-      "Hidden charges",
-      "Disbursal and repayment directly between the borrower and the regulated entity, Key Fact Statement and data privacy",
-      "Borrowing from apps without disclosure"
-     ],
-     "correct_index": 2,
-     "explanation": "They protect digital borrowers."
-    },
-    {
-     "question_text": "A Key Fact Statement:",
-     "options": [
-      "Is a tax form",
-      "Hides charges",
-      "Discloses the key terms of a loan, including APR and charges, in a standard format",
-      "Is a card"
-     ],
-     "correct_index": 2,
-     "explanation": "It lets borrowers compare loans."
-    }
-   ]
-  },
-  {
-   "title": "Unit 2: Banking – Practice Test 4",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "Cashless banking is:",
-     "options": [
-      "Barter",
-      "Cheques only",
-      "Conducting banking transactions without physical cash, using electronic means",
-      "Using only cash"
-     ],
-     "correct_index": 2,
-     "explanation": "Advantages: convenience, safety, speed."
-    },
-    {
-     "question_text": "The channels of e-banking include:",
-     "options": [
-      "ATM, internet banking, mobile banking, UPI and POS",
-      "Only cheques",
-      "Only cash",
-      "Only branches"
-     ],
-     "correct_index": 0,
-     "explanation": "They allow banking anytime."
-    },
-    {
-     "question_text": "An ATM provides services such as:",
-     "options": [
-      "Insurance",
-      "Taxes",
-      "Loans",
-      "Cash withdrawal, balance enquiry, mini statement and PIN change"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a self-service terminal."
-    },
-    {
-     "question_text": "White-label ATMs are:",
-     "options": [
-      "Bank-owned ATMs",
-      "Mobile ATMs",
-      "ATMs set up and operated by non-bank entities and serving customers of all banks",
-      "Foreign ATMs"
-     ],
-     "correct_index": 2,
-     "explanation": "They extend reach in remote areas."
+     "explanation": "Round-the-clock."
     },
     {
      "question_text": "A debit card differs from a credit card in that a debit card:",
      "options": [
-      "Has no account",
-      "Gives credit",
-      "Deducts money directly from the account, while a credit card gives a credit limit to be repaid later",
-      "Is for loans"
-     ],
-     "correct_index": 2,
-     "explanation": "Credit cards charge interest on unpaid dues."
-    },
-    {
-     "question_text": "The interest-free period on a credit card is:",
-     "options": [
-      "1 day",
-      "None",
-      "Unlimited",
-      "Typically up to 45–50 days if the full bill is paid on time"
+      "Gives unlimited credit",
+      "Needs no PIN",
+      "Gives a loan with an interest-free period",
+      "Deducts money directly from the account balance"
      ],
      "correct_index": 3,
-     "explanation": "Interest applies if only the minimum is paid."
+     "explanation": "Pay now."
     },
     {
-     "question_text": "The \"minimum due\" trap is:",
+     "question_text": "A credit card allows its holder to:",
      "options": [
-      "A reward",
-      "Paying only the minimum amount leads to interest on the balance and a growing debt",
-      "An insurance",
-      "A saving"
+      "Pay no interest ever",
+      "Withdraw money without repaying",
+      "Borrow within a limit and repay later",
+      "Spend only the money in the account"
+     ],
+     "correct_index": 2,
+     "explanation": "Pay later."
+    },
+    {
+     "question_text": "A prepaid card:",
+     "options": [
+      "Is valid for withdrawals from the ATM machines only",
+      "Is loaded with a fixed amount in advance and used until it is spent",
+      "Is linked to a loan taken by the holder from the bank",
+      "Is linked to a credit limit that is fixed by the bank"
      ],
      "correct_index": 1,
-     "explanation": "Interest rates on cards are high."
+     "explanation": "Stored value."
     },
     {
-     "question_text": "RuPay is:",
+     "question_text": "Mobile banking apps typically require authentication through:",
      "options": [
-      "A foreign card",
-      "A currency",
-      "A bank",
-      "India's domestic card payment network launched by NPCI"
-     ],
-     "correct_index": 3,
-     "explanation": "It competes with Visa and Mastercard."
-    },
-    {
-     "question_text": "Card tokenisation is:",
-     "options": [
-      "Replacing actual card details with a unique token for secure online payments",
-      "Sharing the card",
-      "Printing the card",
-      "Storing the card number"
-     ],
-     "correct_index": 0,
-     "explanation": "It reduces fraud risk."
-    },
-    {
-     "question_text": "A safe e-banking practice is:",
-     "options": [
-      "Using public Wi-Fi",
-      "Using strong passwords, never sharing OTPs and using official apps",
-      "Clicking unknown links",
-      "Sharing PINs"
+      "A visit to the branch",
+      "Login credentials, an OTP or biometrics",
+      "A signed letter",
+      "The photocopy of the passbook"
      ],
      "correct_index": 1,
-     "explanation": "Enable transaction alerts."
+     "explanation": "Security."
     },
     {
-     "question_text": "Under the RBI zero-liability framework, a customer has zero liability if:",
+     "question_text": "Which one is NOT a function of a commercial bank?",
      "options": [
-      "Fraud is reported after a month",
-      "The fraud is due to bank negligence or third-party breach and is reported within 3 working days",
-      "The customer loses the card",
-      "The customer shares the OTP"
+      "Issuing currency notes",
+      "Agency services such as collecting cheques",
+      "Accepting deposits",
+      "Granting loans"
+     ],
+     "correct_index": 0,
+     "explanation": "RBI function."
+    },
+    {
+     "question_text": "\"Agency functions\" of a bank include:",
+     "options": [
+      "Printing the currency notes for the whole country",
+      "Setting the interest rates for the whole country",
+      "Collecting cheques and paying premiums on behalf of customers",
+      "Controlling the foreign exchange of the whole country"
+     ],
+     "correct_index": 2,
+     "explanation": "On behalf of customers."
+    },
+    {
+     "question_text": "Priority sector lending includes loans for:",
+     "options": [
+      "Gold imports by the jewellers",
+      "Speculative trading on the stock market",
+      "Luxury goods imported from abroad",
+      "Agriculture, MSMEs, education and housing"
+     ],
+     "correct_index": 3,
+     "explanation": "Social objectives."
+    },
+    {
+     "question_text": "NABARD is the apex institution for:",
+     "options": [
+      "Housing finance for the urban households",
+      "Foreign trade and export credit",
+      "Industrial finance for the large industries",
+      "Agriculture and rural development"
+     ],
+     "correct_index": 3,
+     "explanation": "Rural credit."
+    },
+    {
+     "question_text": "SIDBI is the principal institution for:",
+     "options": [
+      "Housing finance for the urban middle class",
+      "Promotion and financing of small-scale industries",
+      "Export and import finance for large companies",
+      "Agriculture and the allied activities in villages"
      ],
      "correct_index": 1,
-     "explanation": "Limited liability applies for later reports."
+     "explanation": "MSME."
     },
     {
-     "question_text": "Voice recognition in banking:",
+     "question_text": "The Exim Bank of India deals mainly with:",
      "options": [
-      "Opens accounts without ID",
-      "Prints notes",
-      "Replaces tellers",
-      "Verifies a customer's identity by analysing voice patterns"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a biometric method."
-    },
-    {
-     "question_text": "Facial recognition helps in banking by:",
-     "options": [
-      "Setting rates",
-      "Collecting tax",
-      "Printing cheques",
-      "Verifying identity through facial features, e.g., in video KYC"
-     ],
-     "correct_index": 3,
-     "explanation": "It adds a layer of security."
-    },
-    {
-     "question_text": "Liveness detection:",
-     "options": [
-      "Checks that a real, live person is present and not a photo or a deepfake",
-      "Checks the signal",
-      "Tests the battery",
-      "Checks the card"
+      "Financing of exports and imports",
+      "Rural credit through cooperative banks",
+      "Education loans for the students",
+      "Housing finance for the individual borrowers"
      ],
      "correct_index": 0,
-     "explanation": "It prevents spoofing."
+     "explanation": "Foreign trade."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 2: Banking – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The National Housing Bank is a:",
+     "options": [
+      "Life insurance company in the public sector",
+      "Commercial bank that accepts demand deposits",
+      "Regulator and promoter of housing finance companies",
+      "Cooperative bank at the state level"
+     ],
+     "correct_index": 2,
+     "explanation": "Housing finance."
     },
     {
-     "question_text": "A risk of biometrics in banking is:",
+     "question_text": "The three-tier short-term rural cooperative credit structure consists of:",
      "options": [
-      "Easy to change",
-      "Privacy concerns and the permanent nature of biometric data if compromised",
-      "Cheap",
-      "No risk"
+      "Commercial banks, NBFCs and microfinance institutions",
+      "PACS, District Central Cooperative Banks and State Cooperative Banks",
+      "Panchayat, block and district offices of the government",
+      "SBI, RBI and NABARD at the national, state and local levels"
      ],
      "correct_index": 1,
-     "explanation": "A leaked fingerprint cannot be changed."
+     "explanation": "Cooperative structure."
     },
     {
-     "question_text": "The first step in the banking complaint-redressal process is:",
+     "question_text": "Regional Rural Banks (RRBs) were set up in:",
      "options": [
-      "Complaining to the bank's branch or grievance cell",
-      "Going to the RBI",
-      "Going to court",
-      "Going to the police"
+      "1991",
+      "1947",
+      "2005",
+      "1975"
+     ],
+     "correct_index": 3,
+     "explanation": "To serve the rural poor."
+    },
+    {
+     "question_text": "Small Finance Banks mainly aim to provide:",
+     "options": [
+      "Basic banking and credit to small units, farmers and the unserved",
+      "Regulation of the other banks in the banking system",
+      "Foreign exchange services to the importers and the exporters",
+      "The currency notes to the public through the bank branches"
      ],
      "correct_index": 0,
-     "explanation": "If unresolved, escalate to the ombudsman."
+     "explanation": "Inclusion."
     },
     {
-     "question_text": "The RBI Integrated Ombudsman Scheme, 2021:",
+     "question_text": "Payments banks in India can:",
      "options": [
-      "Handles insurance",
-      "Handles stocks",
-      "Handles tax",
-      "Provides a single window (\"One Nation One Ombudsman\") for complaints against banks, NBFCs and payment operators"
-     ],
-     "correct_index": 3,
-     "explanation": "It is free to customers."
-    },
-    {
-     "question_text": "A cheque bounce is penalised under:",
-     "options": [
-      "Section 420 IPC",
-      "Section 200",
-      "Section 100",
-      "Section 138 of the Negotiable Instruments Act, 1881"
-     ],
-     "correct_index": 3,
-     "explanation": "It carries imprisonment up to 2 years or a fine."
-    },
-    {
-     "question_text": "AI detects fraud in banking by:",
-     "options": [
-      "Analysing transaction patterns in real time to flag unusual activity",
-      "Blocking all transactions",
-      "Ignoring transactions",
-      "Approving all transactions"
+      "Accept deposits up to a limit but cannot give loans",
+      "Give large loans to the corporates against securities",
+      "Issue currency notes in place of the RBI",
+      "Regulate the other banks and the NBFCs"
      ],
      "correct_index": 0,
-     "explanation": "It reduces losses."
+     "explanation": "No credit."
     },
     {
-     "question_text": "Anomaly detection is:",
+     "question_text": "NBFCs differ from banks because they:",
      "options": [
-      "Closing accounts",
-      "Printing statements",
-      "Identifying data points that deviate from normal patterns",
-      "Finding averages"
-     ],
-     "correct_index": 2,
-     "explanation": "It is used for fraud detection."
-    },
-    {
-     "question_text": "Money laundering is the process of making illegally earned money look legitimate, with three stages:",
-     "options": [
-      "Saving, spending, investing",
-      "Planning, doing, checking",
-      "Placement, layering and integration",
-      "Earning, paying, borrowing"
-     ],
-     "correct_index": 2,
-     "explanation": "The money is cleaned step by step."
-    },
-    {
-     "question_text": "The PMLA 2002:",
-     "options": [
-      "Regulates banks",
-      "Taxes income",
-      "Regulates insurance",
-      "Prevents money laundering and provides for confiscation of property derived from it"
+      "Can accept demand deposits like the savings accounts",
+      "Are regulated by SEBI alone and not by the RBI",
+      "Can issue cheques drawn on themselves like the banks",
+      "Cannot accept demand deposits and are not part of the payment system"
      ],
      "correct_index": 3,
-     "explanation": "Banks must keep records and report."
+     "explanation": "Differences."
     },
     {
-     "question_text": "FIU-IND is:",
+     "question_text": "A floating rate on a home loan is one which:",
      "options": [
-      "A stock exchange",
-      "A bank",
-      "The Financial Intelligence Unit–India, which receives STRs (suspicious transaction reports) and CTRs (cash transaction reports)",
-      "A court"
+      "Is always lower than the fixed rate on the same loan",
+      "Is linked to a benchmark and changes when the benchmark changes",
+      "Is fixed for the whole tenure of the loan at the start",
+      "Is always zero for the first five years of the loan"
+     ],
+     "correct_index": 1,
+     "explanation": "External benchmark."
+    },
+    {
+     "question_text": "Home loan interest rates are now linked to an external benchmark such as the:",
+     "options": [
+      "Sensex",
+      "Exchange rate of the dollar",
+      "Repo rate",
+      "Gold price"
      ],
      "correct_index": 2,
-     "explanation": "It analyses reports and shares them with agencies."
+     "explanation": "RBI directive."
     },
     {
-     "question_text": "The FATF is:",
+     "question_text": "The EMI of a loan consists of:",
      "options": [
-      "A tax authority",
-      "A stock exchange",
-      "The Financial Action Task Force, an international body setting standards to combat money laundering and terror financing",
-      "A bank"
+      "Part repayment of the principal and the interest",
+      "Interest alone, with the principal paid at the end",
+      "The processing fee and the insurance premium",
+      "Principal alone, with the interest paid at the end"
      ],
-     "correct_index": 2,
-     "explanation": "India is a member."
+     "correct_index": 0,
+     "explanation": "Instalment."
     },
     {
-     "question_text": "AI helps in AML by:",
+     "question_text": "In the early years of a home loan EMI, the larger part goes towards:",
      "options": [
-      "Ignoring alerts",
-      "Hiding transactions",
-      "Raising false alerts only",
-      "Monitoring transactions, spotting suspicious patterns and reducing false alerts"
+      "Principal",
+      "Insurance",
+      "Processing fee",
+      "Interest"
      ],
      "correct_index": 3,
-     "explanation": "It improves detection speed."
+     "explanation": "Amortisation."
+    },
+    {
+     "question_text": "A loan of Rs 1,00,000 is repaid in one year with a flat interest of 12%. The total repayable is:",
+     "options": [
+      "Rs 1,00,000",
+      "Rs 1,12,000",
+      "Rs 1,12,000 per month",
+      "Rs 12,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Principal plus interest."
+    },
+    {
+     "question_text": "A secured loan is one that is:",
+     "options": [
+      "Given without any documents",
+      "Given only to the poor",
+      "Given by the government free of cost",
+      "Backed by collateral"
+     ],
+     "correct_index": 3,
+     "explanation": "Security."
+    },
+    {
+     "question_text": "Which of the following is an unsecured loan?",
+     "options": [
+      "Loan against fixed deposit",
+      "Home loan",
+      "Gold loan",
+      "Personal loan"
+     ],
+     "correct_index": 3,
+     "explanation": "No collateral."
+    },
+    {
+     "question_text": "The interest rate on an unsecured loan is generally:",
+     "options": [
+      "Higher than on a secured loan",
+      "Zero",
+      "Lower than on a secured loan",
+      "Equal to a secured loan"
+     ],
+     "correct_index": 0,
+     "explanation": "Greater risk."
+    },
+    {
+     "question_text": "The \"margin\" on a loan means:",
+     "options": [
+      "The part of the asset's cost that the borrower funds from his own money",
+      "The penalty charged by the bank on late payment",
+      "The processing fee charged by the bank at the time of sanction",
+      "The rate of interest charged by the bank on the loan"
+     ],
+     "correct_index": 0,
+     "explanation": "Own contribution."
+    },
+    {
+     "question_text": "A car costing Rs 10,00,000 is financed with a 20% margin. The loan amount is:",
+     "options": [
+      "Rs 12,00,000",
+      "Rs 2,00,000",
+      "Rs 8,00,000",
+      "Rs 10,00,000"
+     ],
+     "correct_index": 2,
+     "explanation": "80% of cost."
+    },
+    {
+     "question_text": "A moratorium period in an education loan means:",
+     "options": [
+      "The period of the processing",
+      "The period after which the loan is cancelled",
+      "The period of the highest interest",
+      "The period during which the borrower need not pay the EMI"
+     ],
+     "correct_index": 3,
+     "explanation": "Study plus a grace period."
+    },
+    {
+     "question_text": "Which one is not a typical document for a home loan application?",
+     "options": [
+      "Proof of identity",
+      "Proof of income",
+      "Property papers",
+      "A school leaving certificate"
+     ],
+     "correct_index": 3,
+     "explanation": "Not required."
+    },
+    {
+     "question_text": "A feature of an overdraft facility is that the account holder:",
+     "options": [
+      "Cannot withdraw any amount beyond the balance of the account",
+      "Can withdraw more than the balance up to a sanctioned limit",
+      "Is not charged any interest on the amount overdrawn",
+      "Is allowed the facility only on a student's savings account"
+     ],
+     "correct_index": 1,
+     "explanation": "Short-term credit."
+    },
+    {
+     "question_text": "In a cash credit facility, interest is charged on:",
+     "options": [
+      "The entire sanctioned limit",
+      "The collateral value",
+      "The amount deposited",
+      "The amount actually drawn and outstanding"
+     ],
+     "correct_index": 3,
+     "explanation": "Daily balance."
+    },
+    {
+     "question_text": "A bank guarantee is a promise by the bank to:",
+     "options": [
+      "Pay a third party if its customer fails to meet an obligation",
+      "Issue a credit card to a customer with no credit history",
+      "Give a long-term loan to its customer at a concessional rate",
+      "Open an account for a person who has no proof of address"
+     ],
+     "correct_index": 0,
+     "explanation": "Contingent."
+    },
+    {
+     "question_text": "Letters of credit are mostly used in:",
+     "options": [
+      "Payment of salaries to the staff by a company every month",
+      "Payment of income tax by the assessees every year",
+      "International trade, to assure payment to the seller",
+      "Local grocery purchases made by households every week"
+     ],
+     "correct_index": 2,
+     "explanation": "Trade finance."
+    },
+    {
+     "question_text": "KYC norms are issued by the:",
+     "options": [
+      "SEBI",
+      "RBI",
+      "Ministry of Defence",
+      "IRDAI"
+     ],
+     "correct_index": 1,
+     "explanation": "For banks."
+    },
+    {
+     "question_text": "PMLA stands for:",
+     "options": [
+      "Prevention of Money Laundering Act",
+      "Post-Maturity Loan Adjustment",
+      "Payment and Money Lending Act",
+      "Public Money Lending Authority"
+     ],
+     "correct_index": 0,
+     "explanation": "Anti-money laundering."
+    },
+    {
+     "question_text": "Banks are required to report cash transactions above Rs 10 lakh in an account in a year to the:",
+     "options": [
+      "Stock exchange",
+      "Financial Intelligence Unit",
+      "Supreme Court",
+      "Election Commission"
+     ],
+     "correct_index": 1,
+     "explanation": "FIU-IND."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 2: Banking – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A PAN must be quoted for a cash deposit in a bank account of more than:",
+     "options": [
+      "Rs 20 lakh in a single day",
+      "Rs 10,000 in a single day",
+      "Rs 50,000 in a single day",
+      "Rs 5 lakh in a single day"
+     ],
+     "correct_index": 2,
+     "explanation": "Rule 114B."
+    },
+    {
+     "question_text": "A non-performing asset (NPA) is a loan in which interest or principal is overdue for more than:",
+     "options": [
+      "180 days",
+      "60 days",
+      "30 days",
+      "90 days"
+     ],
+     "correct_index": 3,
+     "explanation": "RBI norm."
+    },
+    {
+     "question_text": "If a bank's gross NPAs are Rs 5,000 crore on total advances of Rs 1,00,000 crore, the gross NPA ratio is:",
+     "options": [
+      "50%",
+      "5%",
+      "20%",
+      "0.5%"
+     ],
+     "correct_index": 1,
+     "explanation": "5,000/100,000."
+    },
+    {
+     "question_text": "Provisioning against NPAs is meant to:",
+     "options": [
+      "Increase the profits shown by the bank",
+      "Reduce the deposits held by the bank",
+      "Cover the likely losses on bad loans",
+      "Increase the loans given by the bank"
+     ],
+     "correct_index": 2,
+     "explanation": "Prudence."
+    },
+    {
+     "question_text": "Basel norms are international standards on:",
+     "options": [
+      "Stock exchange rules",
+      "Trade tariffs",
+      "Currency exchange",
+      "Capital adequacy of banks"
+     ],
+     "correct_index": 3,
+     "explanation": "Capital requirement."
+    },
+    {
+     "question_text": "Capital adequacy ratio is the ratio of a bank's:",
+     "options": [
+      "Profit to its capital",
+      "Deposits to its loans",
+      "Loans to its deposits",
+      "Capital to its risk-weighted assets"
+     ],
+     "correct_index": 3,
+     "explanation": "Safety."
+    },
+    {
+     "question_text": "A bank with capital of Rs 12 crore and risk-weighted assets of Rs 100 crore has a CAR of:",
+     "options": [
+      "120%",
+      "12%",
+      "8.33%",
+      "1.2%"
+     ],
+     "correct_index": 1,
+     "explanation": "12/100."
+    },
+    {
+     "question_text": "Under Basel III, banks must keep a capital conservation buffer:",
+     "options": [
+      "In place of the liquid assets under the SLR",
+      "Over and above the minimum capital requirement",
+      "Instead of the minimum capital requirement",
+      "Only if they are making a loss in the year"
+     ],
+     "correct_index": 1,
+     "explanation": "Additional capital."
+    },
+    {
+     "question_text": "The merger of public sector banks in recent years was aimed at:",
+     "options": [
+      "Reducing the capital held by the banks in the system",
+      "Privatising all the public sector banks of the country",
+      "Increasing the number of banks in the public sector",
+      "Creating stronger banks with a larger scale and lower costs"
+     ],
+     "correct_index": 3,
+     "explanation": "Consolidation."
+    },
+    {
+     "question_text": "The Banking Regulation Act of 1949 gives the RBI powers to:",
+     "options": [
+      "Nationalise the insurance companies",
+      "Print the postal stamps",
+      "License, regulate and supervise banks",
+      "Control the stock exchanges"
+     ],
+     "correct_index": 2,
+     "explanation": "Banking law."
+    },
+    {
+     "question_text": "Nationalisation of 14 major commercial banks took place in:",
+     "options": [
+      "1947",
+      "1991",
+      "1969",
+      "2005"
+     ],
+     "correct_index": 2,
+     "explanation": "First phase."
+    },
+    {
+     "question_text": "The Lead Bank Scheme assigns each district to:",
+     "options": [
+      "The post office, which accepts the deposits in the district",
+      "A bank which coordinates the credit plans of the district",
+      "The RBI, which runs the district's banking services itself",
+      "The state government, which lends in the district itself"
+     ],
+     "correct_index": 1,
+     "explanation": "Coordination."
+    },
+    {
+     "question_text": "A Banking Correspondent helps a bank by:",
+     "options": [
+      "Issuing the licences to the new banks in the country",
+      "Offering basic banking services in remote areas for the bank",
+      "Fixing the interest rates on deposits for the bank",
+      "Printing the currency notes for the bank's branches"
+     ],
+     "correct_index": 1,
+     "explanation": "Last-mile."
+    },
+    {
+     "question_text": "The positive pay system for high-value cheques requires the issuer to:",
+     "options": [
+      "Inform the bank in advance of the cheque details",
+      "Return the cheque after the payment is made",
+      "Give a loan to the bank against the cheque issued",
+      "Pay extra charges to the bank for each cheque issued"
+     ],
+     "correct_index": 0,
+     "explanation": "Fraud check."
+    },
+    {
+     "question_text": "Under the Cheque Truncation System:",
+     "options": [
+      "The cheque is stopped by the drawer before the clearing",
+      "The cheque is physically cut into two before the clearing",
+      "The cheque is cancelled by the drawee bank on receipt",
+      "The cheque is replaced by its electronic image for clearing"
+     ],
+     "correct_index": 3,
+     "explanation": "Faster clearing."
+    },
+    {
+     "question_text": "An account that is not operated for a long time (typically two years) is called:",
+     "options": [
+      "Salary account",
+      "Dormant or inoperative account",
+      "Joint account",
+      "Zero balance account"
+     ],
+     "correct_index": 1,
+     "explanation": "No customer-induced transactions."
+    },
+    {
+     "question_text": "A joint account with the mode \"either or survivor\" means that:",
+     "options": [
+      "The account is closed on the death of one of the holders",
+      "Both the holders must sign together for every operation",
+      "Either holder can operate it and the survivor gets the balance",
+      "Only the first holder can operate it during his lifetime"
+     ],
+     "correct_index": 2,
+     "explanation": "Operation instruction."
+    },
+    {
+     "question_text": "A nomination facility in a bank account enables:",
+     "options": [
+      "The bank to pay the deposit to the nominee on the depositor's death",
+      "The nominee to operate the account during the depositor's lifetime",
+      "The nominee to get a credit card",
+      "The nominee to get a loan"
+     ],
+     "correct_index": 0,
+     "explanation": "Succession."
+    },
+    {
+     "question_text": "Interest on a savings account is credited:",
+     "options": [
+      "Once in ten years, at the closure of the account",
+      "Never, as no interest is paid on savings accounts",
+      "Only when the customer withdraws the whole balance",
+      "At least quarterly, as per the rules of the bank"
+     ],
+     "correct_index": 3,
+     "explanation": "Regular."
+    },
+    {
+     "question_text": "A person deposits Rs 20,000 on the 1st of a month in a savings account at 4% p.a. simple interest. Interest for 3 months is:",
+     "options": [
+      "Rs 800",
+      "Rs 20",
+      "Rs 200",
+      "Rs 2,000"
+     ],
+     "correct_index": 2,
+     "explanation": "20,000 × 4% × 3/12."
+    },
+    {
+     "question_text": "TDS is deducted by a bank on the interest from deposits if the interest exceeds the threshold. TDS means:",
+     "options": [
+      "Time Deposit Statement",
+      "Total Deposit Scheme",
+      "Tax Deducted at Source",
+      "Tax Deposited by Seller"
+     ],
+     "correct_index": 2,
+     "explanation": "Withholding."
+    },
+    {
+     "question_text": "Form 15G or 15H is submitted to the bank to:",
+     "options": [
+      "Open a new savings account without producing any KYC",
+      "Avoid TDS when the total income is below the taxable limit",
+      "Apply for a loan against the fixed deposit of the person",
+      "Apply for a credit card with a higher limit than usual"
+     ],
+     "correct_index": 1,
+     "explanation": "Declaration."
+    },
+    {
+     "question_text": "Digital lending apps in India should be:",
+     "options": [
+      "Operated by anyone without any permission from the regulator",
+      "Allowed to access any data stored in the phone of the borrower",
+      "Allowed to charge any rate of interest they wish to charge",
+      "Registered with or tied to a regulated entity as per RBI norms"
+     ],
+     "correct_index": 3,
+     "explanation": "RBI guidelines."
+    },
+    {
+     "question_text": "Under RBI guidelines, penal charges on a loan default:",
+     "options": [
+      "Can be set without any limit by the lender at its wish",
+      "Must be equal to the contractual rate of interest",
+      "Are not to be capitalised, that is, no interest on them",
+      "May be added to the principal and charged interest"
+     ],
+     "correct_index": 2,
+     "explanation": "No compounding of penal charges."
+    },
+    {
+     "question_text": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits up to:",
+     "options": [
+      "Rs 50,000 per depositor per bank",
+      "Rs 5 lakh per depositor per bank",
+      "Rs 10 lakh per depositor per bank",
+      "Rs 1 lakh per depositor per bank"
+     ],
+     "correct_index": 1,
+     "explanation": "Insurance cover."
     }
    ]
   }
