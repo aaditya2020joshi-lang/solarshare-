@@ -58,7 +58,9 @@ export async function seedUserContent(userId) {
     const marks = [];
 
     for (const { subject, tests, notes, flashcards } of content) {
-      const newTests = tests.filter((t) => !done.has(`${subject}|test|${t.title}`));
+      // A test with a "rev" replaces an older version: the old copy is renamed "(Easy) ..." and the new one is added.
+      const testKey = (t) => `${subject}|test|${t.title}${t.rev ? `|r${t.rev}` : ''}`;
+      const newTests = tests.filter((t) => !done.has(testKey(t)));
       // A note with a "rev" number is re-sent to users when the number changes, so corrections reach existing copies.
       const noteKey = (n) => `${subject}|note|${n.title}${n.rev ? `|r${n.rev}` : ''}`;
       const newNotes = notes.filter((n) => !done.has(noteKey(n)));
@@ -84,8 +86,14 @@ export async function seedUserContent(userId) {
       const haveCards = await existing('flashcards', 'front');
 
       for (const t of newTests) {
-        marks.push([userId, `${subject}|test|${t.title}`]);
-        if (haveTests.has(t.title)) continue;
+        marks.push([userId, testKey(t)]);
+        if (haveTests.has(t.title)) {
+          if (!t.rev) continue;
+          await client.query(
+            "UPDATE tests SET title = '(Easy) ' || title WHERE subject_id = $1 AND title = $2 AND title NOT LIKE '(Easy) %'",
+            [subjectId, t.title]
+          );
+        }
         const { rows } = await client.query(
           'INSERT INTO tests (subject_id, user_id, title, duration_minutes) VALUES ($1, $2, $3, $4) RETURNING id',
           [subjectId, userId, t.title, t.duration_minutes || 30]

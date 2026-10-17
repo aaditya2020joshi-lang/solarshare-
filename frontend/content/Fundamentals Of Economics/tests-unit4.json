@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 4: Supply and Market Equilibrium – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Supply differs from stock in that supply is:",
+     "question_text": "A farmer holds back part of his harvest because he expects prices to rise next month. This causes current supply to:",
      "options": [
-      "The quantity offered for sale at a given price and time",
-      "The total quantity available in the economy",
-      "Always equal to stock",
-      "Unrelated to price"
+      "Remain unchanged, as supply depends only on cost",
+      "Rise, because of higher expected profit",
+      "Fall, because he withholds stock from the market",
+      "Become perfectly elastic at the present price"
      ],
-     "correct_index": 0,
-     "explanation": "Stock is what exists; supply is the part offered for sale at a price."
+     "correct_index": 2,
+     "explanation": "Expectation of higher future prices reduces current supply."
     },
     {
-     "question_text": "The supply function is written as:",
+     "question_text": "Which of the following will shift the supply curve of cotton shirts to the right?",
      "options": [
-      "Sx = TC/Q",
-      "Sx = f(Px, Pi, T, Tx, E, N)",
-      "Sx = Dx",
-      "Sx = Y"
-     ],
-     "correct_index": 1,
-     "explanation": "Supply depends on own price, input prices, technology, taxes, expectations and number of firms."
-    },
-    {
-     "question_text": "Which is NOT a determinant of supply?",
-     "options": [
-      "Government taxes",
-      "Tastes of consumers",
-      "Price of inputs",
-      "Technology"
-     ],
-     "correct_index": 1,
-     "explanation": "Tastes of consumers affect demand."
-    },
-    {
-     "question_text": "A rise in input prices will usually:",
-     "options": [
-      "Increase supply",
-      "Decrease supply (shift left)",
-      "Not affect supply",
-      "Make supply perfectly elastic"
-     ],
-     "correct_index": 1,
-     "explanation": "Production becomes costlier and less profitable."
-    },
-    {
-     "question_text": "Improved technology:",
-     "options": [
-      "Shifts demand",
-      "Reduces supply",
-      "Has no effect",
-      "Increases supply by lowering cost"
+      "A rise in the wages of garment workers",
+      "An excise duty on cotton shirts",
+      "A rise in the price of cotton shirts",
+      "An improvement in stitching technology"
      ],
      "correct_index": 3,
-     "explanation": "Lower costs make firms willing to supply more at each price."
+     "explanation": "Cheaper production raises supply at each price; a price rise only moves along the curve."
     },
     {
-     "question_text": "A subsidy generally _____ supply, and a tax _____ supply:",
+     "question_text": "An excise duty imposed on a good will:",
      "options": [
-      "Increases; decreases",
-      "Decreases; decreases",
-      "Increases; increases",
-      "Decreases; increases"
+      "Shift the supply curve to the right",
+      "Leave supply unchanged but raise demand",
+      "Make supply perfectly elastic",
+      "Shift the supply curve to the left"
+     ],
+     "correct_index": 3,
+     "explanation": "It raises cost per unit, so less is supplied at each price."
+    },
+    {
+     "question_text": "A subsidy on fertiliser for farmers causes the supply curve of wheat to:",
+     "options": [
+      "Rotate around the origin",
+      "Shift to the left",
+      "Shift to the right",
+      "Become vertical"
+     ],
+     "correct_index": 2,
+     "explanation": "Lower input cost increases supply."
+    },
+    {
+     "question_text": "The law of supply states that, ceteris paribus, quantity supplied:",
+     "options": [
+      "Falls when price rises",
+      "Is independent of price",
+      "Rises when cost rises",
+      "Rises when price rises"
+     ],
+     "correct_index": 3,
+     "explanation": "Direct relation between price and quantity supplied."
+    },
+    {
+     "question_text": "Which of the following is an exception to the law of supply?",
+     "options": [
+      "Supply of cotton cloth by competitive mills in the short run",
+      "Supply of manufactured goods in a factory with idle capacity",
+      "Labour supply at very high wages when workers prefer leisure",
+      "Supply of bread by bakeries facing rising flour prices"
+     ],
+     "correct_index": 2,
+     "explanation": "The backward-bending labour supply curve."
+    },
+    {
+     "question_text": "At Rs 20 a firm supplies 100 units and at Rs 25 it supplies 120. The market has three identical firms. Market supply at Rs 25 is:",
+     "options": [
+      "40",
+      "120",
+      "240",
+      "360"
+     ],
+     "correct_index": 3,
+     "explanation": "3 × 120."
+    },
+    {
+     "question_text": "The supply curve of a competitive firm in the short run is its:",
+     "options": [
+      "AC curve above minimum AC",
+      "MR curve",
+      "AVC curve",
+      "MC curve above the minimum of AVC"
+     ],
+     "correct_index": 3,
+     "explanation": "The firm supplies where P = MC, provided P covers AVC."
+    },
+    {
+     "question_text": "A rise in the price of an input used by a firm will:",
+     "options": [
+      "Make supply perfectly inelastic",
+      "Shift supply leftward",
+      "Cause a movement up the supply curve",
+      "Shift supply rightward"
+     ],
+     "correct_index": 1,
+     "explanation": "Higher cost reduces supply at each price."
+    },
+    {
+     "question_text": "Expansion of supply occurs when:",
+     "options": [
+      "The cost of production of the good falls for all firms",
+      "A per-unit subsidy is given to producers of the good",
+      "Technology used by the producers improves over time",
+      "The own price of the good rises, other things unchanged"
+     ],
+     "correct_index": 3,
+     "explanation": "It is an upward movement along the same curve."
+    },
+    {
+     "question_text": "A change in technology that lowers cost causes:",
+     "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "Contraction of supply",
+      "Extension of demand"
      ],
      "correct_index": 0,
-     "explanation": "A subsidy lowers cost; a tax raises it."
+     "explanation": "The whole supply curve shifts right."
     },
     {
-     "question_text": "If producers expect future prices to rise, current supply will:",
+     "question_text": "Which of the following changes the QUANTITY SUPPLIED (not supply)?",
+     "options": [
+      "A change in the rate of tax on the product",
+      "A change in the price of the good itself",
+      "A change in the technology used for production",
+      "A change in the prices of inputs used in it"
+     ],
+     "correct_index": 1,
+     "explanation": "Only the good's own price causes movement along the curve."
+    },
+    {
+     "question_text": "Which of the following best describes \"substitutes in production\"?",
+     "options": [
+      "Goods that are used together by consumers, such as tea and sugar",
+      "Goods that are sold at the same price in a competitive market",
+      "Goods that can replace one another in the consumer's budget",
+      "Goods made from the same resources, such as wheat and barley"
+     ],
+     "correct_index": 3,
+     "explanation": "A rise in the price of one reduces supply of the other."
+    },
+    {
+     "question_text": "If the price of wheat rises sharply, the supply of barley (a substitute in production) will:",
      "options": [
       "Not change",
       "Rise",
-      "Become infinite",
-      "Fall as they hold back stock"
-     ],
-     "correct_index": 3,
-     "explanation": "They withhold goods to sell later at higher prices."
-    },
-    {
-     "question_text": "An increase in the number of firms leads to:",
-     "options": [
-      "Lower demand",
-      "A rise in market supply",
-      "No change",
-      "A fall in market supply"
-     ],
-     "correct_index": 1,
-     "explanation": "Market supply is the sum of firms' supplies."
-    },
-    {
-     "question_text": "Substitutes in production are goods:",
-     "options": [
-      "Consumed together",
-      "Of the same price",
-      "Produced using the same resources, so more of one means less of the other (e.g., wheat and maize)",
-      "Never produced"
+      "Fall",
+      "Become infinite"
      ],
      "correct_index": 2,
-     "explanation": "A fall in the price of one may increase supply of the other."
+     "explanation": "Farmers shift land towards wheat."
     },
     {
-     "question_text": "Natural factors affect the supply of agricultural goods because:",
+     "question_text": "The supply curve is upward sloping chiefly because:",
      "options": [
-      "Output depends on weather and rainfall",
-      "Supply is fixed",
-      "Prices are fixed",
-      "Farmers control weather"
-     ],
-     "correct_index": 0,
-     "explanation": "Good monsoon increases supply; drought reduces it."
-    },
-    {
-     "question_text": "A supply schedule is:",
-     "options": [
-      "A tax table",
-      "A cost table",
-      "A price list of consumers",
-      "A table of quantities supplied at various prices"
-     ],
-     "correct_index": 3,
-     "explanation": "It is the tabular form of supply."
-    },
-    {
-     "question_text": "If three firms supply 10, 20 and 30 units at a price, market supply at that price is:",
-     "options": [
-      "20",
-      "10",
-      "30",
-      "60"
-     ],
-     "correct_index": 3,
-     "explanation": "Add them: 10 + 20 + 30."
-    },
-    {
-     "question_text": "Market supply differs from individual supply in that market supply is:",
-     "options": [
-      "Fixed",
-      "Always lower",
-      "The sum of supplies of all firms",
-      "The supply of one firm"
+      "Firms usually enjoy increasing returns to scale as they expand",
+      "Fixed costs of production are spread over a larger output",
+      "Marginal cost rises with output, so a higher price must be offered",
+      "Consumers buy larger quantities when the price of a good falls"
      ],
      "correct_index": 2,
-     "explanation": "Individual supply refers to a single firm."
+     "explanation": "Law of increasing marginal cost."
     },
     {
-     "question_text": "The Law of Supply states that, other things constant, as price rises:",
+     "question_text": "A perfectly inelastic supply curve is:",
      "options": [
-      "Quantity supplied rises",
-      "Quantity supplied falls",
-      "Supply is unchanged",
-      "Demand rises"
-     ],
-     "correct_index": 0,
-     "explanation": "Price and quantity supplied are directly related."
-    },
-    {
-     "question_text": "An assumption of the law of supply is:",
-     "options": [
-      "Technology improves",
-      "Technology and input prices stay constant",
-      "Costs keep changing",
-      "Tax rates change"
+      "Upward sloping at 45 degrees",
+      "Vertical",
+      "Horizontal",
+      "Downward sloping"
      ],
      "correct_index": 1,
-     "explanation": "Ceteris paribus applies."
+     "explanation": "Quantity supplied is fixed whatever the price."
     },
     {
-     "question_text": "A schedule with price Rs. 5, 10, 15 and quantity 10, 20, 30 shows:",
+     "question_text": "The price elasticity of supply of an old painting by a deceased master is:",
      "options": [
-      "Perfect elasticity",
-      "An inverse relation",
-      "Zero supply",
-      "A direct relation between price and quantity supplied"
+      "Greater than one",
+      "Zero",
+      "One",
+      "Infinite"
      ],
-     "correct_index": 3,
-     "explanation": "Higher price brings greater supply."
+     "correct_index": 1,
+     "explanation": "Its supply cannot be increased."
     },
     {
-     "question_text": "The supply curve slopes upward because:",
+     "question_text": "When price rises from Rs 10 to Rs 12 and quantity supplied rises from 100 to 130, Es is:",
      "options": [
-      "Higher prices give higher profits and incentive to supply more",
-      "Demand falls",
-      "Prices are fixed",
-      "Costs fall as output rises"
+      "1.5",
+      "0.67",
+      "0.3",
+      "2"
      ],
      "correct_index": 0,
-     "explanation": "Producers supply more when it is more profitable."
+     "explanation": "%ΔQ = 30%, %ΔP = 20%."
     },
     {
-     "question_text": "The law of increasing marginal cost explains the upward-sloping supply curve because:",
+     "question_text": "When price rises from Rs 50 to Rs 55 and supply rises from 200 to 204, supply is:",
      "options": [
-      "MC is constant",
-      "MC falls",
-      "Producing more raises MC, so firms need higher prices to supply more",
-      "Cost is zero"
+      "Inelastic",
+      "Perfectly elastic",
+      "Unitary",
+      "Elastic"
+     ],
+     "correct_index": 0,
+     "explanation": "Es = 2/10 = 0.2."
+    },
+    {
+     "question_text": "A straight-line supply curve passing through the origin has elasticity:",
+     "options": [
+      "Greater than one",
+      "Less than one",
+      "Zero",
+      "Equal to one"
+     ],
+     "correct_index": 3,
+     "explanation": "At every point P/Q is equal to the slope."
+    },
+    {
+     "question_text": "A straight-line supply curve that cuts the Y-axis (price axis) has elasticity:",
+     "options": [
+      "Greater than one",
+      "Equal to one",
+      "Less than one",
+      "Zero"
+     ],
+     "correct_index": 0,
+     "explanation": "The positive price intercept makes it elastic."
+    },
+    {
+     "question_text": "A straight-line supply curve that cuts the X-axis (quantity axis) has elasticity:",
+     "options": [
+      "Less than one",
+      "Infinity",
+      "Equal to one",
+      "Greater than one"
+     ],
+     "correct_index": 0,
+     "explanation": "The positive quantity intercept makes it inelastic."
+    },
+    {
+     "question_text": "Supply is more elastic in the long run than in the short run because:",
+     "options": [
+      "Costs of production fall automatically as time passes",
+      "Incomes of consumers rise over time, raising the demand for goods",
+      "Prices of outputs are fixed by the government for longer periods",
+      "All inputs can be varied and new firms can enter the industry"
+     ],
+     "correct_index": 3,
+     "explanation": "More time allows fuller adjustment of output."
+    },
+    {
+     "question_text": "Which of the following goods is likely to have the most inelastic supply in the short run?",
+     "options": [
+      "Plastic buckets made with idle machines",
+      "Bread from a bakery with extra ovens",
+      "Cotton shirts produced in a factory with spare capacity",
+      "Fresh milk from existing dairy cattle"
+     ],
+     "correct_index": 3,
+     "explanation": "Supply of agricultural goods and perishables cannot adjust quickly."
+    },
+    {
+     "question_text": "Perishable goods have inelastic supply because:",
+     "options": [
+      "Consumers do not demand them in large quantities",
+      "The government controls their production through licences",
+      "They cannot be stored long and output cannot quickly be changed",
+      "Their prices are always higher than those of durable goods"
      ],
      "correct_index": 2,
-     "explanation": "P = MC; rising MC means rising price for more output."
-    },
-    {
-     "question_text": "Profit and entry of firms explain the upward slope because:",
-     "options": [
-      "Higher prices attract new firms and encourage existing ones to expand",
-      "Prices reduce firms",
-      "Firms exit",
-      "Prices have no effect"
-     ],
-     "correct_index": 0,
-     "explanation": "Higher profits raise market supply."
-    },
-    {
-     "question_text": "Which is an exception to the law of supply?",
-     "options": [
-      "Substitutes",
-      "Manufactured goods",
-      "Normal goods",
-      "Backward-bending labour supply"
-     ],
-     "correct_index": 3,
-     "explanation": "Others: agricultural goods, perishable goods, expectation of price change, rare goods."
-    },
-    {
-     "question_text": "Supply of agricultural goods is an exception because supply:",
-     "options": [
-      "Rises instantly with price",
-      "Is perfectly elastic",
-      "Is unaffected by weather",
-      "Depends on nature and the production period, not just current price"
-     ],
-     "correct_index": 3,
-     "explanation": "Farmers cannot increase output quickly when prices rise."
-    },
-    {
-     "question_text": "Supply of perishable goods is an exception because:",
-     "options": [
-      "They are luxuries",
-      "They must be sold quickly regardless of price",
-      "They can be stored",
-      "They are rare"
-     ],
-     "correct_index": 1,
-     "explanation": "Sellers cannot withhold stock."
-    },
-    {
-     "question_text": "The backward-bending labour supply curve means that:",
-     "options": [
-      "Wages do not matter",
-      "At very high wages, workers may prefer leisure and work fewer hours",
-      "Labour supply always rises with wages",
-      "Workers never leave jobs"
-     ],
-     "correct_index": 1,
-     "explanation": "The income effect eventually outweighs the substitution effect."
-    },
-    {
-     "question_text": "Expectation of a price rise can create an exception because sellers:",
-     "options": [
-      "Withhold supply now to sell later at the higher price",
-      "Supply more now",
-      "Expand output instantly",
-      "Reduce prices"
-     ],
-     "correct_index": 0,
-     "explanation": "Current supply falls even as the price rises."
-    },
-    {
-     "question_text": "Supply of rare goods (e.g., paintings of old masters) is perfectly inelastic because:",
-     "options": [
-      "They can be reproduced easily",
-      "They are cheap",
-      "They are perishable",
-      "Their quantity is fixed and cannot be increased"
-     ],
-     "correct_index": 3,
-     "explanation": "The vertical supply curve shows no response to price."
+     "explanation": "Stock cannot be held back or quickly expanded."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 4: Supply and Market Equilibrium – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The market supply curve is obtained by:",
+     "question_text": "Which statement correctly describes market equilibrium?",
      "options": [
-      "Subtracting costs",
-      "Averaging prices",
-      "Vertical addition",
-      "Horizontal summation of individual supply curves"
-     ],
-     "correct_index": 3,
-     "explanation": "Add quantities supplied by each firm at each price."
-    },
-    {
-     "question_text": "In perfect competition, the firm's short-run supply curve is the portion of MC curve:",
-     "options": [
-      "Above the minimum point of AVC",
-      "Equal to AC",
-      "Below AFC",
-      "Below AVC"
-     ],
-     "correct_index": 0,
-     "explanation": "A firm supplies only if price covers average variable cost."
-    },
-    {
-     "question_text": "Expansion of supply means:",
-     "options": [
-      "Rise in quantity supplied due to a rise in price",
-      "Leftward shift",
-      "Fall in quantity due to a fall in price",
-      "Rightward shift"
-     ],
-     "correct_index": 0,
-     "explanation": "It is a movement up along the same supply curve."
-    },
-    {
-     "question_text": "Contraction of supply means:",
-     "options": [
-      "Fall in quantity supplied due to a fall in price",
-      "Rise in quantity supplied",
-      "Rightward shift",
-      "Leftward shift"
-     ],
-     "correct_index": 0,
-     "explanation": "It is a movement down along the supply curve."
-    },
-    {
-     "question_text": "An increase in supply means:",
-     "options": [
-      "Upward movement along the curve",
-      "Rightward shift of the supply curve",
-      "Leftward shift",
-      "Downward movement"
-     ],
-     "correct_index": 1,
-     "explanation": "More is supplied at each price."
-    },
-    {
-     "question_text": "A decrease in supply means:",
-     "options": [
-      "Rightward shift",
-      "Leftward shift of the supply curve",
-      "Upward movement along the curve",
-      "Downward movement along the curve"
-     ],
-     "correct_index": 1,
-     "explanation": "Less is supplied at each price."
-    },
-    {
-     "question_text": "A change in quantity supplied is caused by a change in:",
-     "options": [
-      "Input prices",
-      "Technology",
-      "Taxes",
-      "Own price of the good"
-     ],
-     "correct_index": 3,
-     "explanation": "A change in supply is caused by other factors."
-    },
-    {
-     "question_text": "Which causes an increase in supply?",
-     "options": [
-      "Improvement in technology",
-      "Rise in input prices",
-      "Expected price rise",
-      "Imposition of tax"
-     ],
-     "correct_index": 0,
-     "explanation": "Lower cost increases supply."
-    },
-    {
-     "question_text": "Which causes a decrease in supply?",
-     "options": [
-      "Rise in input prices",
-      "Entry of new firms",
-      "Subsidy",
-      "Better technology"
-     ],
-     "correct_index": 0,
-     "explanation": "Costlier inputs reduce supply."
-    },
-    {
-     "question_text": "A subsidy shifts the supply curve:",
-     "options": [
-      "Leftward",
-      "To vertical",
-      "Rightward",
-      "Not at all"
+      "Price is at the lowest level that sellers will ever accept",
+      "Demand exceeds supply, so the price is bid up by buyers",
+      "Quantity demanded equals quantity supplied at the market price",
+      "Supply exceeds demand, so the price is pushed down by sellers"
      ],
      "correct_index": 2,
-     "explanation": "It reduces cost and increases supply."
+     "explanation": "The market clears."
     },
     {
-     "question_text": "A tax shifts the supply curve:",
+     "question_text": "At Rs 15 quantity demanded is 100 and quantity supplied is 160. The market has:",
      "options": [
-      "Leftward",
-      "To horizontal",
-      "Not at all",
-      "Rightward"
+      "Excess supply of 60, so price will fall",
+      "Equilibrium",
+      "Excess demand of 160",
+      "Excess demand of 60, so price will rise"
      ],
      "correct_index": 0,
-     "explanation": "It raises cost and decreases supply."
+     "explanation": "Sellers compete, pushing price down."
     },
     {
-     "question_text": "A rise in input prices shifts the supply curve:",
+     "question_text": "At Rs 6 quantity demanded is 70 and quantity supplied is 40. The market has:",
      "options": [
-      "Not at all",
-      "Rightward",
-      "Leftward",
-      "Becomes steeper only"
+      "Excess demand of 70, so price will rise",
+      "Excess supply of 30, so price will fall",
+      "Excess demand of 30, so price will rise",
+      "Equilibrium, since both quantities are positive"
      ],
      "correct_index": 2,
-     "explanation": "Supply decreases."
+     "explanation": "Buyers bid price up; shortage = 70 − 40."
     },
     {
-     "question_text": "A rise in the price of the good causes:",
+     "question_text": "Qd = 100 − 5P and Qs = 20 + 3P. Equilibrium price and quantity are:",
      "options": [
-      "A change in demand",
-      "A shift of supply",
-      "A movement along the supply curve",
+      "P = 12, Q = 40",
+      "P = 8, Q = 60",
+      "P = 10, Q = 50",
+      "P = 5, Q = 75"
+     ],
+     "correct_index": 2,
+     "explanation": "100 − 5P = 20 + 3P gives P = 10, Q = 50."
+    },
+    {
+     "question_text": "Qd = 80 − 2P and Qs = 3P − 20. Equilibrium price is:",
+     "options": [
+      "15",
+      "25",
+      "10",
+      "20"
+     ],
+     "correct_index": 3,
+     "explanation": "80 − 2P = 3P − 20 so 5P = 100, P = 20."
+    },
+    {
+     "question_text": "For Qd = 60 − 2P and Qs = 3P − 10, equilibrium quantity is:",
+     "options": [
+      "32",
+      "28",
+      "20",
+      "14"
+     ],
+     "correct_index": 0,
+     "explanation": "P = 14, Q = 60 − 28 = 32."
+    },
+    {
+     "question_text": "If demand increases and supply is unchanged, equilibrium price and quantity:",
+     "options": [
+      "Both rise",
+      "Price falls, quantity rises",
+      "Both fall",
+      "Price rises, quantity falls"
+     ],
+     "correct_index": 0,
+     "explanation": "The demand curve shifts right along the supply curve."
+    },
+    {
+     "question_text": "If supply increases and demand is unchanged, equilibrium price and quantity:",
+     "options": [
+      "Price rises, quantity rises",
+      "Price rises, quantity falls",
+      "Price falls, quantity rises",
+      "Price falls, quantity falls"
+     ],
+     "correct_index": 2,
+     "explanation": "Supply curve shifts right."
+    },
+    {
+     "question_text": "Both demand and supply increase. Equilibrium quantity:",
+     "options": [
+      "Falls, price change uncertain",
+      "Rises, price change uncertain",
+      "Rises, price must rise",
+      "Falls, price must fall"
+     ],
+     "correct_index": 1,
+     "explanation": "Quantity definitely rises; price depends on relative shifts."
+    },
+    {
+     "question_text": "Demand increases and supply decreases. Equilibrium price:",
+     "options": [
+      "Is unchanged",
+      "Is uncertain",
+      "Rises",
+      "Falls"
+     ],
+     "correct_index": 2,
+     "explanation": "Both effects push price up; quantity is uncertain."
+    },
+    {
+     "question_text": "Demand decreases and supply increases. Equilibrium price:",
+     "options": [
+      "Is uncertain",
+      "Falls",
+      "Rises",
+      "Is unchanged"
+     ],
+     "correct_index": 1,
+     "explanation": "Both push price down."
+    },
+    {
+     "question_text": "Demand and supply both increase by the same proportion. Equilibrium price:",
+     "options": [
+      "Falls",
+      "Rises",
+      "Becomes zero",
+      "Remains the same"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity rises by that proportion."
+    },
+    {
+     "question_text": "A price ceiling set below the equilibrium price causes:",
+     "options": [
+      "No effect on the market, since price is the same",
+      "A shortage, and a possible black market for the good",
+      "A rise in supply, as firms expand to meet demand",
+      "A surplus, since producers supply more at the lower price"
+     ],
+     "correct_index": 1,
+     "explanation": "Quantity demanded exceeds quantity supplied."
+    },
+    {
+     "question_text": "A price floor set above the equilibrium price (such as an MSP) causes:",
+     "options": [
+      "Equilibrium",
+      "No change",
+      "Surplus",
+      "Shortage"
+     ],
+     "correct_index": 2,
+     "explanation": "Quantity supplied exceeds quantity demanded."
+    },
+    {
+     "question_text": "A minimum wage set above the equilibrium wage in a competitive labour market tends to cause:",
+     "options": [
+      "No change in employment, since wages do not matter",
+      "A rise in labour demand, since workers are better paid",
+      "Unemployment, since labour supplied exceeds labour demanded",
+      "A shortage of labour, since firms demand more workers"
+     ],
+     "correct_index": 2,
+     "explanation": "A price floor creates surplus."
+    },
+    {
+     "question_text": "The \"invisible hand\" refers to:",
+     "options": [
+      "Regulation of prices and output by the government",
+      "Central planning of production by a committee of experts",
+      "Self-interested actions guided by prices serving social good",
+      "Control of the market by a single large monopoly seller"
+     ],
+     "correct_index": 2,
+     "explanation": "Adam Smith's idea of market coordination."
+    },
+    {
+     "question_text": "Which of the following is a feature of a stable equilibrium?",
+     "options": [
+      "Price keeps moving away after any small disturbance",
+      "Market forces restore the price after a disturbance",
+      "The price of the good is always equal to its cost",
+      "The demand curve is vertical at the market price"
+     ],
+     "correct_index": 1,
+     "explanation": "Forces push back to equilibrium."
+    },
+    {
+     "question_text": "At a price above equilibrium, market forces will tend to:",
+     "options": [
+      "Raise price",
+      "Lower price",
+      "Make supply zero",
+      "Leave price unchanged"
+     ],
+     "correct_index": 1,
+     "explanation": "Excess supply leads to competition among sellers."
+    },
+    {
+     "question_text": "The price mechanism allocates scarce resources mainly through:",
+     "options": [
+      "Planning",
+      "Rationing",
+      "Lotteries",
+      "Price signals"
+     ],
+     "correct_index": 3,
+     "explanation": "Prices signal scarcity and guide choices."
+    },
+    {
+     "question_text": "Which statement is TRUE about black markets?",
+     "options": [
+      "They arise when ceilings create excess demand at the legal price",
+      "They tend to push the prices of controlled goods down",
+      "They eliminate the shortage caused by the price control",
+      "They arise when government prices are far too high for buyers"
+     ],
+     "correct_index": 0,
+     "explanation": "Illegal trade at higher prices."
+    },
+    {
+     "question_text": "If the government imposes an MSP above equilibrium and buys the surplus, the surplus stock is:",
+     "options": [
+      "Sold by the market",
+      "Not produced",
+      "Destroyed",
+      "Bought by the government"
+     ],
+     "correct_index": 3,
+     "explanation": "It must absorb the excess supply."
+    },
+    {
+     "question_text": "Demand shifts rightward by 20 units at every price while supply is unchanged. If supply is perfectly elastic, then:",
+     "options": [
+      "Price falls, and the quantity traded also falls",
+      "Price rises by a large amount, quantity rising little",
+      "Quantity rises by 20 with no change in price",
+      "Neither price nor the quantity traded changes at all"
+     ],
+     "correct_index": 2,
+     "explanation": "A horizontal supply curve means quantity absorbs the shift."
+    },
+    {
+     "question_text": "If supply is perfectly inelastic (vertical) and demand rises:",
+     "options": [
+      "Quantity rises by the same proportion as demand",
+      "Price falls as the extra demand is not served",
+      "Price and quantity stay as they were before",
+      "Price rises and the quantity traded is unchanged"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity cannot change."
+    },
+    {
+     "question_text": "An increase in income raises demand for a normal good, raising equilibrium price. The extent of the price rise is larger when supply is:",
+     "options": [
+      "Perfectly elastic",
+      "Inelastic",
+      "Unitary",
+      "Elastic"
+     ],
+     "correct_index": 1,
+     "explanation": "A steep supply curve gives a larger price change."
+    },
+    {
+     "question_text": "A tax on sellers is borne more by buyers when:",
+     "options": [
+      "Demand is elastic",
+      "Supply is perfectly elastic and demand is elastic",
+      "Demand is zero",
+      "Demand is inelastic"
+     ],
+     "correct_index": 3,
+     "explanation": "Buyers who cannot easily substitute bear more."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 4: Supply and Market Equilibrium – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A tax on a good with perfectly inelastic supply is borne:",
+     "options": [
+      "Entirely by buyers",
+      "Equally",
+      "Entirely by sellers",
+      "By the government"
+     ],
+     "correct_index": 2,
+     "explanation": "Sellers cannot reduce quantity or shift the burden."
+    },
+    {
+     "question_text": "If demand is perfectly elastic, the burden of a tax on sellers falls:",
+     "options": [
+      "On no one",
+      "On the government",
+      "On buyers",
+      "On sellers"
+     ],
+     "correct_index": 3,
+     "explanation": "Buyers will not pay a higher price."
+    },
+    {
+     "question_text": "Supply is \"unitary elastic\" when:",
+     "options": [
+      "%ΔQs = 0",
+      "%ΔQs > %ΔP",
+      "%ΔQs < %ΔP",
+      "%ΔQs = %ΔP"
+     ],
+     "correct_index": 3,
+     "explanation": "Proportionate response."
+    },
+    {
+     "question_text": "A firm's marginal cost curve slopes upward because of:",
+     "options": [
+      "Economies of scale",
+      "Diminishing marginal returns",
+      "Increasing returns",
+      "Constant returns"
+     ],
+     "correct_index": 1,
+     "explanation": "More output requires more of the variable factor with falling productivity."
+    },
+    {
+     "question_text": "If the price of a good is less than AVC, the firm in the short run should:",
+     "options": [
+      "Shut down",
+      "Increase output",
+      "Continue to produce",
+      "Increase price"
+     ],
+     "correct_index": 0,
+     "explanation": "It cannot cover variable costs."
+    },
+    {
+     "question_text": "Which of the following would NOT shift the supply curve of tea?",
+     "options": [
+      "A change in weather conditions",
+      "A change in the price of tea",
+      "A change in the cost of labour",
       "A change in technology"
      ],
-     "correct_index": 2,
-     "explanation": "It is expansion of supply."
+     "correct_index": 1,
+     "explanation": "Price changes move along the curve."
     },
     {
-     "question_text": "An improvement in technology causes:",
+     "question_text": "A drought reduces supply of a crop. With inelastic demand, the equilibrium price will:",
      "options": [
-      "A movement along the supply curve",
-      "No change",
-      "A fall in demand",
-      "A shift of the supply curve"
+      "Rise sharply",
+      "Fall",
+      "Remain unchanged",
+      "Become zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Quantity is scarce and buyers cannot switch."
+    },
+    {
+     "question_text": "Which of the following indicates an increase in supply?",
+     "options": [
+      "The firm sells more at each price because costs fell",
+      "The firm sells the same quantity at the same price",
+      "The firm sells less at each price because costs rose",
+      "The firm sells more because the price of the good rose"
+     ],
+     "correct_index": 0,
+     "explanation": "Whole supply curve shifts right."
+    },
+    {
+     "question_text": "The market supply is the:",
+     "options": [
+      "Sum of quantities supplied by all firms at each price",
+      "Quantity supplied by the largest firm in the market",
+      "Average of the quantities supplied by individual firms",
+      "Sum of the prices charged by all firms in the market"
+     ],
+     "correct_index": 0,
+     "explanation": "Horizontal summation."
+    },
+    {
+     "question_text": "Market supply curve is flatter than a single firm's because:",
+     "options": [
+      "Consumers prefer it",
+      "There are fixed costs",
+      "Firms have identical costs",
+      "More firms supply more at each price"
+     ],
+     "correct_index": 3,
+     "explanation": "Adding quantities at each price."
+    },
+    {
+     "question_text": "If the elasticity of supply is 2 and price rises by 10%, quantity supplied rises by:",
+     "options": [
+      "2%",
+      "5%",
+      "20%",
+      "12%"
+     ],
+     "correct_index": 2,
+     "explanation": "%ΔQ = Es × %ΔP."
+    },
+    {
+     "question_text": "A bumper wheat crop lowers price. Farmers' income may fall because demand is:",
+     "options": [
+      "Elastic",
+      "Perfectly elastic",
+      "Inelastic",
+      "Unitary"
+     ],
+     "correct_index": 2,
+     "explanation": "Price falls proportionately more than quantity rises."
+    },
+    {
+     "question_text": "The incidence of a tax on a good depends on the relative:",
+     "options": [
+      "Costs of collecting the tax from the sellers",
+      "Prices of the good and of its main substitute",
+      "Quantities bought and sold before the tax",
+      "Elasticities of demand and supply of the good"
+     ],
+     "correct_index": 3,
+     "explanation": "The less elastic side bears more."
+    },
+    {
+     "question_text": "The \"economic rent\" earned by a factor is the surplus over its:",
+     "options": [
+      "Interest",
+      "Profit",
+      "Transfer earning",
+      "Wages"
+     ],
+     "correct_index": 2,
+     "explanation": "The minimum needed to keep it in current use."
+    },
+    {
+     "question_text": "The supply of land as a whole is considered perfectly inelastic because:",
+     "options": [
+      "Land has no alternative uses and so earns no rent",
+      "Its total quantity is fixed by nature and cannot grow",
+      "Land is highly mobile between regions and sectors",
+      "Land is a cheap input in most production processes"
+     ],
+     "correct_index": 1,
+     "explanation": "It cannot be increased."
+    },
+    {
+     "question_text": "In a competitive market, if firms earn supernormal profit in the short run, in the long run:",
+     "options": [
+      "Firms exit and price rises",
+      "Price remains fixed",
+      "Profit increases",
+      "More firms enter and price falls"
+     ],
+     "correct_index": 3,
+     "explanation": "Entry competes away profit."
+    },
+    {
+     "question_text": "If a market is in equilibrium and a new technology reduces cost for all producers, then equilibrium price and quantity will:",
+     "options": [
+      "Both rise",
+      "Price falls, quantity falls",
+      "Price rises, quantity falls",
+      "Price falls, quantity rises"
      ],
      "correct_index": 3,
      "explanation": "Supply increases."
     },
     {
-     "question_text": "Market equilibrium occurs when:",
+     "question_text": "An increase in the price of a complement of good X will:",
      "options": [
-      "Price is zero",
-      "Supply exceeds demand",
-      "Demand exceeds supply",
-      "Quantity demanded equals quantity supplied"
+      "Lower demand for X, reducing its price and quantity",
+      "Raise the price of X as buyers switch to it",
+      "Leave X unaffected as the goods are unrelated",
+      "Raise the supply of X as producers make more"
      ],
-     "correct_index": 3,
-     "explanation": "There is no tendency for price to change."
+     "correct_index": 0,
+     "explanation": "Demand for X falls."
     },
     {
-     "question_text": "Equilibrium price is the price at which:",
+     "question_text": "The equilibrium price of a good rises and the quantity falls. This can be due to:",
      "options": [
-      "Price is highest",
-      "Qd > Qs",
-      "Qd = Qs",
-      "Qs > Qd"
+      "Increase in supply",
+      "Decrease in supply",
+      "Decrease in demand",
+      "Increase in demand"
+     ],
+     "correct_index": 1,
+     "explanation": "Leftward shift in supply."
+    },
+    {
+     "question_text": "Equilibrium price falls and quantity falls. This indicates:",
+     "options": [
+      "Decrease in demand",
+      "Increase in demand",
+      "Decrease in supply",
+      "Increase in supply"
+     ],
+     "correct_index": 0,
+     "explanation": "Leftward shift in demand."
+    },
+    {
+     "question_text": "Equilibrium quantity rises while price is unchanged. This indicates:",
+     "options": [
+      "Supply decreased while demand remained unchanged",
+      "Demand decreased while supply remained unchanged",
+      "Demand increased while supply remained unchanged",
+      "Demand and supply both increased by the same proportion"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity rises, price is stable."
+    },
+    {
+     "question_text": "If an MSP is fixed Rs 5 above equilibrium and farmers produce more, the surplus is:",
+     "options": [
+      "Zero, because the government buys all the output",
+      "Equal to the total demand at the new price",
+      "Negative, because demand now exceeds the supply",
+      "The gap between supply and demand at the MSP"
+     ],
+     "correct_index": 3,
+     "explanation": "Excess supply at the floor."
+    },
+    {
+     "question_text": "Rent control is an example of:",
+     "options": [
+      "Price floor",
+      "Price ceiling",
+      "Subsidy",
+      "Tax"
+     ],
+     "correct_index": 1,
+     "explanation": "Maximum rent below equilibrium."
+    },
+    {
+     "question_text": "A subsidy of Rs 2 per unit to sellers shifts the supply curve:",
+     "options": [
+      "Not at all, because it affects only demand",
+      "To a vertical line at the current output",
+      "Down by Rs 2, or equivalently to the right",
+      "Up by Rs 2, or equivalently to the left"
      ],
      "correct_index": 2,
-     "explanation": "The quantity at that price is the equilibrium quantity."
+     "explanation": "Cost per unit falls by the subsidy."
     },
     {
-     "question_text": "On a diagram, equilibrium is shown by:",
+     "question_text": "A per-unit tax of Rs 3 shifts the supply curve:",
      "options": [
-      "Any point on demand",
-      "The axes",
-      "Any point on supply",
-      "The intersection of the demand and supply curves"
-     ],
-     "correct_index": 3,
-     "explanation": "The point of intersection gives equilibrium price and quantity."
-    },
-    {
-     "question_text": "At a price above equilibrium, there is:",
-     "options": [
-      "Excess demand, and price rises",
-      "Excess supply, and price falls",
-      "Equilibrium",
-      "Shortage"
-     ],
-     "correct_index": 1,
-     "explanation": "Sellers compete by cutting prices until the market clears."
-    },
-    {
-     "question_text": "At a price below equilibrium, there is:",
-     "options": [
-      "Excess supply, and price falls",
-      "Excess demand, and price rises",
-      "Equilibrium",
-      "Surplus"
-     ],
-     "correct_index": 1,
-     "explanation": "Buyers bid prices up until the market clears."
-    },
-    {
-     "question_text": "A stable equilibrium is one where:",
-     "options": [
-      "Demand is zero",
-      "Supply is fixed",
-      "Price moves further away",
-      "After a disturbance, forces restore the original equilibrium"
-     ],
-     "correct_index": 3,
-     "explanation": "In an unstable equilibrium, forces move price away."
-    },
-    {
-     "question_text": "Adam Smith's \"invisible hand\" refers to:",
-     "options": [
-      "Central planning",
-      "Government control",
-      "Taxation",
-      "The market mechanism guiding self-interested individuals to promote social good"
-     ],
-     "correct_index": 3,
-     "explanation": "Individual self-interest leads to efficient allocation through prices."
-    },
-    {
-     "question_text": "In a market economy, prices act as signals because:",
-     "options": [
-      "They are fixed by law",
-      "They show scarcity and guide producers and consumers",
-      "They have no information",
-      "They are meaningless"
-     ],
-     "correct_index": 1,
-     "explanation": "High prices signal scarcity; low prices signal abundance."
-    },
-    {
-     "question_text": "A limitation of the price mechanism is that it:",
-     "options": [
-      "Is too slow to exist",
-      "Ignores equity and may not provide public goods",
-      "Provides all public goods",
-      "Eliminates inequality"
-     ],
-     "correct_index": 1,
-     "explanation": "It is efficient but may be unfair and fail for public goods."
-    },
-    {
-     "question_text": "When demand increases (supply constant), equilibrium price and quantity:",
-     "options": [
-      "Price rises, quantity falls",
-      "Both rise",
-      "Both fall",
-      "Price falls, quantity rises"
-     ],
-     "correct_index": 1,
-     "explanation": "The demand curve shifts right along the supply curve."
-    },
-    {
-     "question_text": "When demand decreases (supply constant), equilibrium price and quantity:",
-     "options": [
-      "Both rise",
-      "Price rises, quantity falls",
-      "Both fall",
-      "Price falls, quantity rises"
+      "Down by Rs 3",
+      "Becomes horizontal",
+      "Up by Rs 3",
+      "Not at all"
      ],
      "correct_index": 2,
-     "explanation": "The demand curve shifts left."
+     "explanation": "Cost per unit rises."
     }
    ]
   },
   {
-   "title": "Unit 4: Supply and Market Equilibrium – Practice Test 3",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "When supply increases (demand constant), equilibrium price _____ and quantity _____:",
-     "options": [
-      "Rises; falls",
-      "Falls; falls",
-      "Falls; rises",
-      "Rises; rises"
-     ],
-     "correct_index": 2,
-     "explanation": "The supply curve shifts right."
-    },
-    {
-     "question_text": "When supply decreases (demand constant), equilibrium price _____ and quantity _____:",
-     "options": [
-      "Falls; rises",
-      "Falls; falls",
-      "Rises; rises",
-      "Rises; falls"
-     ],
-     "correct_index": 3,
-     "explanation": "The supply curve shifts left."
-    },
-    {
-     "question_text": "When both demand and supply increase, equilibrium quantity:",
-     "options": [
-      "Is unchanged",
-      "Is zero",
-      "Rises, and the effect on price depends on relative shifts",
-      "Falls"
-     ],
-     "correct_index": 2,
-     "explanation": "Quantity definitely rises; price is indeterminate."
-    },
-    {
-     "question_text": "When both demand and supply decrease, equilibrium quantity:",
-     "options": [
-      "Falls, and the effect on price depends on relative shifts",
-      "Is unchanged",
-      "Doubles",
-      "Rises"
-     ],
-     "correct_index": 0,
-     "explanation": "Quantity definitely falls; price is indeterminate."
-    },
-    {
-     "question_text": "When demand increases and supply decreases, equilibrium price:",
-     "options": [
-      "Definitely falls",
-      "Is indeterminate",
-      "Is unchanged",
-      "Definitely rises"
-     ],
-     "correct_index": 3,
-     "explanation": "Quantity change depends on relative shifts."
-    },
-    {
-     "question_text": "When demand decreases and supply increases, equilibrium price:",
-     "options": [
-      "Is unchanged",
-      "Definitely rises",
-      "Is indeterminate",
-      "Definitely falls"
-     ],
-     "correct_index": 3,
-     "explanation": "Quantity change depends on relative shifts."
-    },
-    {
-     "question_text": "When demand and supply both increase by the same proportion, equilibrium price:",
-     "options": [
-      "Doubles",
-      "Falls",
-      "Remains unchanged and quantity rises",
-      "Rises"
-     ],
-     "correct_index": 2,
-     "explanation": "Price stays the same but quantity increases."
-    },
-    {
-     "question_text": "A rise in income, for a normal good, will:",
-     "options": [
-      "Shift demand right, raising price and quantity",
-      "Lower price and quantity",
-      "Shift demand left",
-      "Have no effect"
-     ],
-     "correct_index": 0,
-     "explanation": "Normal goods have positive income effects."
-    },
-    {
-     "question_text": "A bumper harvest of wheat will:",
-     "options": [
-      "Shift supply left",
-      "Raise price",
-      "Shift demand",
-      "Shift supply right, lowering price"
-     ],
-     "correct_index": 3,
-     "explanation": "Greater supply leads to lower prices."
-    },
-    {
-     "question_text": "A rise in wages in the car industry will:",
-     "options": [
-      "Shift demand right",
-      "Shift supply right",
-      "Shift supply left, raising price and lowering quantity",
-      "Have no effect"
-     ],
-     "correct_index": 2,
-     "explanation": "Higher costs reduce supply."
-    },
-    {
-     "question_text": "A new technology in smartphone production will:",
-     "options": [
-      "Have no effect",
-      "Shift demand left",
-      "Shift supply right, lowering price",
-      "Shift supply left"
-     ],
-     "correct_index": 2,
-     "explanation": "Lower cost increases supply."
-    },
-    {
-     "question_text": "A rise in the price of petrol on the car market will:",
-     "options": [
-      "Increase demand for cars",
-      "Increase supply of cars",
-      "Have no effect",
-      "Decrease demand for cars, lowering price and quantity"
-     ],
-     "correct_index": 3,
-     "explanation": "Petrol and cars are complements."
-    },
-    {
-     "question_text": "A price ceiling is:",
-     "options": [
-      "A subsidy",
-      "A legal maximum price, e.g., rent control",
-      "A legal minimum price",
-      "A tax"
-     ],
-     "correct_index": 1,
-     "explanation": "It keeps price below the market level."
-    },
-    {
-     "question_text": "A price floor is:",
-     "options": [
-      "A quota",
-      "A tax",
-      "A legal minimum price, e.g., MSP or minimum wage",
-      "A legal maximum price"
-     ],
-     "correct_index": 2,
-     "explanation": "It keeps price above the market level."
-    },
-    {
-     "question_text": "A price ceiling set below the equilibrium price causes:",
-     "options": [
-      "Excess supply",
-      "No effect",
-      "Excess demand (shortage), queues and black markets",
-      "Excess supply and lower demand"
-     ],
-     "correct_index": 2,
-     "explanation": "Quantity demanded exceeds quantity supplied."
-    },
-    {
-     "question_text": "A price floor above the equilibrium price causes:",
-     "options": [
-      "Excess supply (surplus)",
-      "Black markets",
-      "No effect",
-      "Shortage"
-     ],
-     "correct_index": 0,
-     "explanation": "Quantity supplied exceeds quantity demanded."
-    },
-    {
-     "question_text": "The Minimum Support Price (MSP) is:",
-     "options": [
-      "A tax",
-      "A maximum price",
-      "A subsidy to consumers",
-      "A guaranteed price at which government buys crops from farmers"
-     ],
-     "correct_index": 3,
-     "explanation": "It protects farmers from price falls."
-    },
-    {
-     "question_text": "A black market arises when:",
-     "options": [
-      "Price ceilings create shortages, so goods are sold illegally above the legal price",
-      "Supply is large",
-      "Taxes are low",
-      "Prices are high"
-     ],
-     "correct_index": 0,
-     "explanation": "Excess demand encourages illegal trading."
-    },
-    {
-     "question_text": "Qd = 100 − 5P and Qs = 20 + 3P. Equilibrium price and quantity are:",
-     "options": [
-      "P = 8, Q = 60",
-      "P = 12, Q = 40",
-      "P = 10, Q = 50",
-      "P = 5, Q = 75"
-     ],
-     "correct_index": 2,
-     "explanation": "100 − 5P = 20 + 3P gives P = 10 and Q = 50."
-    },
-    {
-     "question_text": "Qd = 60 − 2P and Qs = 3P − 10. Equilibrium price and quantity are:",
-     "options": [
-      "P = 7, Q = 46",
-      "P = 14, Q = 32",
-      "P = 12, Q = 36",
-      "P = 10, Q = 40"
-     ],
-     "correct_index": 1,
-     "explanation": "60 − 2P = 3P − 10 gives 5P = 70, P = 14, Q = 32."
-    },
-    {
-     "question_text": "Qd = 200 − 10P and Qs = 50 + 5P. Equilibrium price and quantity are:",
-     "options": [
-      "P = 10, Q = 100",
-      "P = 15, Q = 50",
-      "P = 20, Q = 0",
-      "P = 5, Q = 150"
-     ],
-     "correct_index": 0,
-     "explanation": "200 − 10P = 50 + 5P gives 15P = 150, P = 10 and Q = 100."
-    },
-    {
-     "question_text": "At price Rs. 10, Qd = 20 and Qs = 80. The market has:",
-     "options": [
-      "Equilibrium",
-      "Excess demand of 60",
-      "Excess supply of 60",
-      "Excess demand of 80"
-     ],
-     "correct_index": 2,
-     "explanation": "Qs − Qd = 60, so price will fall."
-    },
-    {
-     "question_text": "At price Rs. 4, Qd = 70 and Qs = 30. The market has:",
-     "options": [
-      "Excess supply of 40",
-      "Equilibrium",
-      "Excess demand of 40",
-      "Excess demand of 100"
-     ],
-     "correct_index": 2,
-     "explanation": "Qd − Qs = 40, so price will rise."
-    },
-    {
-     "question_text": "If demand rises by 20 units at every price, equilibrium price and quantity:",
-     "options": [
-      "Are unchanged",
-      "Price rises, quantity falls",
-      "Both fall",
-      "Both rise"
-     ],
-     "correct_index": 3,
-     "explanation": "The demand curve shifts right."
-    },
-    {
-     "question_text": "Elasticity of supply is:",
-     "options": [
-      "Price × quantity",
-      "% change in price ÷ % change in quantity",
-      "% change in demand ÷ % change in income",
-      "% change in quantity supplied ÷ % change in price"
-     ],
-     "correct_index": 3,
-     "explanation": "Es = %ΔQs / %ΔP."
-    }
-   ]
-  },
-  {
+   "rev": 2,
    "title": "Unit 4: Supply and Market Equilibrium – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The five degrees of elasticity of supply are:",
+     "question_text": "Quantity demanded is 200 and quantity supplied is 150 at the controlled price. The shortage is:",
      "options": [
-      "High and zero",
-      "Perfectly elastic, elastic, unitary, inelastic, perfectly inelastic",
-      "Positive and negative",
-      "Only elastic and inelastic"
+      "50",
+      "150",
+      "350",
+      "200"
      ],
-     "correct_index": 1,
-     "explanation": "Es = ∞, > 1, = 1, < 1, = 0."
+     "correct_index": 0,
+     "explanation": "200 − 150."
     },
     {
-     "question_text": "Perfectly elastic supply has Es equal to:",
+     "question_text": "Which describes an unstable equilibrium?",
      "options": [
-      "0.5",
-      "0",
-      "1",
-      "∞"
+      "A disturbance pushes the price further from equilibrium",
+      "The supply curve is vertical at the equilibrium price",
+      "The demand curve is horizontal at the equilibrium price",
+      "A disturbance is corrected and the price returns quickly"
      ],
-     "correct_index": 3,
-     "explanation": "The supply curve is horizontal."
+     "correct_index": 0,
+     "explanation": "Disturbance grows."
     },
     {
-     "question_text": "Perfectly inelastic supply has Es equal to:",
+     "question_text": "Which of these would the \"cobweb\" model explain?",
      "options": [
-      "2",
-      "1",
-      "∞",
-      "0"
-     ],
-     "correct_index": 3,
-     "explanation": "The supply curve is vertical."
-    },
-    {
-     "question_text": "Unitary elastic supply means Es equals:",
-     "options": [
-      "2",
-      "∞",
-      "0",
-      "1"
-     ],
-     "correct_index": 3,
-     "explanation": "% change in supply equals % change in price."
-    },
-    {
-     "question_text": "For a straight-line supply curve, elasticity is determined by where the curve:",
-     "options": [
-      "Is steepest",
-      "Is highest",
-      "Cuts the axes (or passes through the origin)",
-      "Slopes upward"
+      "Incidence of an indirect tax on a consumer good",
+      "Pricing decisions by a monopoly with market power",
+      "Price fluctuations for crops with a production lag",
+      "Permanently stable prices of manufactured goods"
      ],
      "correct_index": 2,
-     "explanation": "Origin gives Es = 1; X-axis gives Es < 1; Y-axis gives Es > 1."
+     "explanation": "Supply responds to previous price."
     },
     {
-     "question_text": "A straight-line supply curve through the origin has Es equal to:",
+     "question_text": "Elasticity of supply of a firm with idle capacity and unemployed resources is likely to be:",
      "options": [
-      "2",
-      "0",
-      "1",
-      "∞"
+      "High",
+      "Negative",
+      "Low",
+      "Zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Output can expand easily."
+    },
+    {
+     "question_text": "Elasticity of supply tends to be lower when:",
+     "options": [
+      "The time period is long",
+      "Stocks are large",
+      "Inputs are scarce",
+      "The firm has spare capacity"
      ],
      "correct_index": 2,
-     "explanation": "At every point, the ratio P/Q equals the slope, so Es = 1."
+     "explanation": "Scarce inputs limit expansion."
     },
     {
-     "question_text": "A straight-line supply curve that cuts the X-axis has Es:",
+     "question_text": "A good is produced under conditions of rising marginal cost. Its supply curve is:",
      "options": [
-      "Equal to infinity",
-      "Greater than 1",
-      "Less than 1",
-      "Equal to 1"
-     ],
-     "correct_index": 2,
-     "explanation": "The intercept on the X-axis makes the curve relatively inelastic."
-    },
-    {
-     "question_text": "A straight-line supply curve that cuts the Y-axis has Es:",
-     "options": [
-      "Equal to 1",
-      "Greater than 1",
-      "Less than 1",
-      "Equal to 0"
+      "Horizontal",
+      "Upward sloping",
+      "Downward sloping",
+      "Vertical"
      ],
      "correct_index": 1,
-     "explanation": "The Y-intercept makes supply relatively elastic."
+     "explanation": "Higher price is needed to cover higher MC."
     },
     {
-     "question_text": "Which affects elasticity of supply?",
+     "question_text": "If demand is unit elastic and supply increases, total revenue of sellers:",
      "options": [
-      "Population of buyers",
-      "Time period and availability of inputs",
-      "Tastes",
-      "Consumer income"
-     ],
-     "correct_index": 1,
-     "explanation": "Others: nature of the good, storage and technology."
-    },
-    {
-     "question_text": "With a longer time period, elasticity of supply:",
-     "options": [
-      "Stays fixed",
+      "Remains the same",
       "Rises",
       "Falls",
-      "Becomes zero"
-     ],
-     "correct_index": 1,
-     "explanation": "Producers can adjust output fully."
-    },
-    {
-     "question_text": "Supply of perishable goods is inelastic because:",
-     "options": [
-      "They are luxuries",
-      "They are easy to store",
-      "They are rare",
-      "They cannot be stored or produced quickly"
-     ],
-     "correct_index": 3,
-     "explanation": "Output cannot easily respond to price."
-    },
-    {
-     "question_text": "Supply of manufactured goods is more elastic than that of agricultural goods because:",
-     "options": [
-      "Capacity is fixed",
-      "They are perishable",
-      "Output can be expanded quickly and stored",
-      "They depend on weather"
-     ],
-     "correct_index": 2,
-     "explanation": "Agriculture has a long production cycle."
-    },
-    {
-     "question_text": "Price rises from Rs. 10 to Rs. 12; supply rises from 100 to 130. Es is:",
-     "options": [
-      "2",
-      "1.5",
-      "1.3",
-      "0.67"
-     ],
-     "correct_index": 1,
-     "explanation": "%ΔQ = 30%, %ΔP = 20%, Es = 1.5."
-    },
-    {
-     "question_text": "Price rises from Rs. 20 to Rs. 22; supply rises from 50 to 52. Es is:",
-     "options": [
-      "0.4 (inelastic)",
-      "0.1",
-      "1",
-      "2.5 (elastic)"
+      "Doubles"
      ],
      "correct_index": 0,
-     "explanation": "%ΔQ = 4%, %ΔP = 10%, Es = 0.4."
+     "explanation": "Revenue is constant along unit-elastic demand."
     },
     {
-     "question_text": "Price falls by 10% and supply falls by 20%. Es is:",
+     "question_text": "Which of these is an example of a price floor?",
      "options": [
-      "2, elastic",
-      "1, unitary",
-      "0.5, inelastic",
-      "20, perfectly elastic"
-     ],
-     "correct_index": 0,
-     "explanation": "20/10 = 2."
-    },
-    {
-     "question_text": "By the arc method, P = 8 → 10, Q = 40 → 60 gives Es:",
-     "options": [
-      "2.5",
-      "1.5",
-      "1.8",
-      "0.5"
+      "Price cap on LPG",
+      "Maximum retail price of life-saving drugs",
+      "Minimum support price of wheat",
+      "Rent control"
      ],
      "correct_index": 2,
-     "explanation": "(20/2) × (9/50) = 1.8."
+     "explanation": "Floors set a minimum."
     },
     {
-     "question_text": "The point method of measuring elasticity of supply uses:",
+     "question_text": "An MSP is effective only if it is:",
      "options": [
-      "Tax rates",
-      "Income change",
-      "The ratio of price to quantity multiplied by the reciprocal of the slope",
-      "Total outlay"
+      "Equal to zero",
+      "Below the equilibrium price",
+      "Above the equilibrium price",
+      "Equal to cost"
      ],
      "correct_index": 2,
-     "explanation": "Es = (dQ/dP) × (P/Q)."
+     "explanation": "Otherwise the market price prevails."
     },
     {
-     "question_text": "Elasticity of supply helps the government in taxation because:",
+     "question_text": "With a price ceiling, which group may gain?",
      "options": [
-      "It sets wages",
-      "It controls demand",
-      "It shows how much of the tax producers can shift and the effect on output",
-      "It fixes income"
-     ],
-     "correct_index": 2,
-     "explanation": "With inelastic supply, producers bear more of the tax."
-    },
-    {
-     "question_text": "In agricultural price policy, elasticity of supply helps to:",
-     "options": [
-      "Predict response of output to support prices",
-      "Fix interest rates",
-      "Control weather",
-      "Set exchange rates"
-     ],
-     "correct_index": 0,
-     "explanation": "Inelastic supply means a limited output response in the short run."
-    },
-    {
-     "question_text": "Supply of land is perfectly inelastic because:",
-     "options": [
-      "Land is cheap",
-      "Land can be created easily",
-      "Land is a gift of nature and its total quantity is fixed",
-      "Land is movable"
-     ],
-     "correct_index": 2,
-     "explanation": "Its total supply does not respond to price."
-    },
-    {
-     "question_text": "Economic rent is:",
-     "options": [
-      "Interest",
-      "Rent paid for a house",
-      "Wages",
-      "Payment to a factor in excess of its transfer earnings"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a surplus earned by factors in inelastic supply."
-    },
-    {
-     "question_text": "Agricultural prices are more volatile than industrial prices because:",
-     "options": [
-      "Demand is elastic",
-      "Supply is inelastic and depends on weather while demand is also inelastic",
-      "Industry is seasonal",
-      "Supply is elastic"
+      "Suppliers, who receive a lower price but sell more",
+      "Buyers who obtain the good at the controlled price",
+      "Black marketers, who are the only ones to gain",
+      "No one, since all the groups are made worse off"
      ],
      "correct_index": 1,
-     "explanation": "Small shifts cause large price changes."
+     "explanation": "But supply is reduced."
     },
     {
-     "question_text": "Elasticity of demand differs from elasticity of supply in that:",
+     "question_text": "The effect of a price ceiling set above the equilibrium price is:",
      "options": [
-      "They are identical",
-      "Supply responds inversely",
-      "Demand responds to price inversely, supply directly",
-      "Demand depends on cost"
-     ],
-     "correct_index": 2,
-     "explanation": "Ed uses a downward-sloping curve; Es uses an upward-sloping one."
-    },
-    {
-     "question_text": "When a sudden shortage occurs, the invisible hand:",
-     "options": [
-      "Does nothing",
-      "Raises prices, discouraging demand and encouraging supply until equilibrium",
-      "Lowers prices",
-      "Bans exports"
+      "Surplus",
+      "No effect",
+      "Excess demand",
+      "Shortage"
      ],
      "correct_index": 1,
-     "explanation": "Higher prices ration the scarce good and attract more supply."
+     "explanation": "It is non-binding."
     },
     {
-     "question_text": "The burden of a tax falls more on producers when supply is:",
+     "question_text": "Equilibrium price will be higher after a sales tax when:",
      "options": [
-      "Inelastic",
-      "Elastic",
+      "Demand is less elastic",
+      "Demand is more elastic",
+      "Supply is perfectly elastic",
+      "Tax is zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Consumers pay more."
+    },
+    {
+     "question_text": "In the short run, the supply curve of a perfectly competitive firm is vertical when:",
+     "options": [
+      "Costs are zero",
+      "It is at capacity",
+      "Price is zero",
+      "Demand is zero"
+     ],
+     "correct_index": 1,
+     "explanation": "It cannot expand output."
+    },
+    {
+     "question_text": "Which of the following contributes to price stability in a market?",
+     "options": [
+      "Persistent excess supply at the going price",
+      "Self-correcting forces of demand and supply",
+      "Binding price controls that remove the incentive to produce",
+      "Persistent excess demand at the going price"
+     ],
+     "correct_index": 1,
+     "explanation": "Equilibrium is restored by market forces."
+    },
+    {
+     "question_text": "If the supply of a good is Qs = 2P − 10, supply at P = 20 is:",
+     "options": [
+      "30",
+      "10",
+      "40",
+      "50"
+     ],
+     "correct_index": 0,
+     "explanation": "2×20 − 10."
+    },
+    {
+     "question_text": "For Qs = 2P − 10, the price at which supply is zero is:",
+     "options": [
+      "15",
+      "5",
+      "20",
+      "10"
+     ],
+     "correct_index": 1,
+     "explanation": "2P = 10."
+    },
+    {
+     "question_text": "The minimum price at which a firm is willing to supply a product is its:",
+     "options": [
+      "Supply price, based on the marginal cost of the unit",
+      "Total fixed cost spread over the planned output",
+      "Profit margin as a percentage of the selling price",
+      "Marginal revenue at the profit-maximising output"
+     ],
+     "correct_index": 0,
+     "explanation": "Supply price covers the cost of the marginal unit."
+    },
+    {
+     "question_text": "When the price of a product rises 5% and supply rises 15%, supply is:",
+     "options": [
       "Unitary",
-      "Perfectly elastic"
+      "Elastic (Es = 3)",
+      "Inelastic",
+      "Perfectly inelastic"
      ],
-     "correct_index": 0,
-     "explanation": "Inelastic supply means producers cannot easily avoid or pass on the tax."
+     "correct_index": 1,
+     "explanation": "15/5 = 3."
+    },
+    {
+     "question_text": "A decrease in the price of a good will cause:",
+     "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "Shift to the right",
+      "Contraction of supply"
+     ],
+     "correct_index": 3,
+     "explanation": "Movement down the same curve."
+    },
+    {
+     "question_text": "A firm is a price taker. If the market price falls below its minimum AVC, it will supply:",
+     "options": [
+      "Less but not zero",
+      "More",
+      "Zero",
+      "The same"
+     ],
+     "correct_index": 2,
+     "explanation": "It will shut down."
+    },
+    {
+     "question_text": "In long-run equilibrium under perfect competition, price equals:",
+     "options": [
+      "Average revenue less the cost of the marginal unit",
+      "Zero, since all supernormal profits are competed away",
+      "Average fixed cost at the output the firm produces",
+      "Marginal cost and the minimum of long-run average cost"
+     ],
+     "correct_index": 3,
+     "explanation": "P = MC = min LAC."
+    },
+    {
+     "question_text": "The market supply of a good will fall if:",
+     "options": [
+      "More firms enter the industry in the long run",
+      "Technology improves for most of the producers",
+      "Producers expect higher future prices and hold back output",
+      "Input prices fall for all of the producers"
+     ],
+     "correct_index": 2,
+     "explanation": "Withholding stock reduces current supply."
+    },
+    {
+     "question_text": "Which of the following best explains why supply is more inelastic in agriculture?",
+     "options": [
+      "Output can be changed quickly in response to the price",
+      "Inputs such as land are available in unlimited amounts",
+      "Production depends on weather and takes time to complete",
+      "Farmers hold very large stocks of unsold produce"
+     ],
+     "correct_index": 2,
+     "explanation": "Time lag and natural factors."
+    },
+    {
+     "question_text": "The demand curve for a good shifts right and the supply curve is vertical. The adjustment is entirely through:",
+     "options": [
+      "Neither",
+      "Quantity",
+      "Both",
+      "Price"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity is fixed."
+    },
+    {
+     "question_text": "A rise in the price of a substitute for good X and a fall in the cost of producing X will cause equilibrium quantity of X to:",
+     "options": [
+      "Be uncertain",
+      "Rise",
+      "Be unchanged",
+      "Fall"
+     ],
+     "correct_index": 1,
+     "explanation": "Both shifts increase quantity."
     }
    ]
   }

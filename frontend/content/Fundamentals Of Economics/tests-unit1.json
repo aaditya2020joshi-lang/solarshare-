@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Economics – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Who is regarded as the Father of Economics, and which book did he write?",
+     "question_text": "A critic argues that a definition of economics wrongly treats wealth as the end and human welfare as the means. Which definition is being criticised?",
      "options": [
-      "Adam Smith – The Wealth of Nations",
-      "J.M. Keynes – General Theory",
-      "Lionel Robbins – Nature and Significance of Economic Science",
-      "Alfred Marshall – Principles of Economics"
-     ],
-     "correct_index": 0,
-     "explanation": "Adam Smith wrote An Inquiry into the Nature and Causes of the Wealth of Nations (1776)."
-    },
-    {
-     "question_text": "The word \"economics\" comes from the Greek words oikos and nomos, which literally mean:",
-     "options": [
-      "Wealth and growth",
-      "Household and management",
-      "Money and trade",
-      "Market and exchange"
-     ],
-     "correct_index": 1,
-     "explanation": "Oikos means household and nomos means management or rules, so literally \"household management\"."
-    },
-    {
-     "question_text": "Adam Smith's wealth definition treats economics as the study of:",
-     "options": [
-      "Human welfare",
-      "Scarcity and choice",
-      "Wealth – its production and distribution",
-      "Growth of the economy"
+      "Samuelson's growth definition",
+      "Robbins' scarcity definition",
+      "Adam Smith's wealth definition",
+      "Marshall's welfare definition"
      ],
      "correct_index": 2,
-     "explanation": "Smith defined economics as an inquiry into the nature and causes of the wealth of nations."
+     "explanation": "The wealth definition made wealth the end; critics (Ruskin, Carlyle) said man was reduced to a means."
     },
     {
-     "question_text": "Which is a criticism of the wealth definition?",
+     "question_text": "Which pairing of economist and the main criticism of his definition is correct?",
      "options": [
-      "It gives too much importance to wealth and neglects human welfare",
-      "It treats economics as a normative science only",
-      "It ignores scarcity",
-      "It ignores the role of production"
-     ],
-     "correct_index": 0,
-     "explanation": "Critics said it made wealth the end and man the means, neglecting human welfare."
-    },
-    {
-     "question_text": "Carlyle called economics the \"dismal science\" mainly because:",
-     "options": [
-      "It uses too much mathematics",
-      "It could not be tested by experiments",
-      "It was seen as focusing on selfish wealth-getting while ignoring human welfare",
-      "It only studied poor countries"
-     ],
-     "correct_index": 2,
-     "explanation": "The wealth definition made economics seem cold and materialistic, so Carlyle called it dismal."
-    },
-    {
-     "question_text": "Marshall defined economics as a study of mankind in the ordinary business of life that examines:",
-     "options": [
-      "How to maximise national income",
-      "Government policy for growth",
-      "Only scarce means with alternative uses",
-      "How individuals and society use material requisites of well-being"
+      "Robbins – confines economics to material welfare",
+      "Samuelson – excludes barter economies",
+      "Smith – ignores the role of production in a nation",
+      "Marshall – ignores scarcity and choice among alternative uses"
      ],
      "correct_index": 3,
-     "explanation": "Marshall's welfare definition links economics to the attainment of material welfare."
+     "explanation": "Marshall's welfare definition did not bring in scarcity and had the artificial material/non-material split."
     },
     {
-     "question_text": "Which is a main feature of Marshall's welfare definition?",
+     "question_text": "A teacher's tuition services give satisfaction but are not material goods. Which definition would have difficulty counting this as economic activity?",
      "options": [
-      "It excludes social behaviour",
-      "It is value free",
-      "It considers non-material welfare as central",
-      "It makes man the centre and wealth only a means to welfare"
+      "None; all of them exclude services",
+      "Robbins' scarcity definition",
+      "Samuelson's growth definition",
+      "Marshall's welfare definition"
      ],
      "correct_index": 3,
-     "explanation": "Marshall stressed that wealth is a means to human welfare, not an end."
+     "explanation": "Marshall limited economics to material welfare; services of teachers and doctors were treated as non-material."
     },
     {
-     "question_text": "Which is a criticism of Marshall's definition?",
+     "question_text": "Which feature belongs to Robbins' definition but NOT to Marshall's?",
      "options": [
-      "It ignores social aspects",
-      "It ignores human beings",
-      "It restricts economics to material welfare and ignores services",
-      "It is too general"
+      "Classification into consumption and production",
+      "Emphasis on wealth as a means to welfare",
+      "Focus on choice among scarce means with alternative uses",
+      "Study of ordinary people"
      ],
      "correct_index": 2,
-     "explanation": "Critics said it wrongly excluded non-material welfare such as the services of doctors and teachers."
+     "explanation": "Robbins stressed ends, scarce means, alternative uses and choice."
     },
     {
-     "question_text": "The distinction between material and non-material welfare is considered artificial because:",
+     "question_text": "If every want of every person could be met without using up any resource, which element of Robbins' definition would disappear?",
      "options": [
-      "Welfare is a unified feeling and cannot be split clearly",
-      "Non-material goods cost nothing",
-      "Material goods give no welfare",
-      "All welfare is non-material"
-     ],
-     "correct_index": 0,
-     "explanation": "Both kinds of goods contribute to one overall satisfaction, so the split is arbitrary."
-    },
-    {
-     "question_text": "Robbins defined economics as the science that studies human behaviour as a relationship between:",
-     "options": [
-      "Supply and demand",
-      "Wealth and welfare",
-      "Income and employment",
-      "Ends and scarce means which have alternative uses"
+      "Human behaviour",
+      "Time dimension",
+      "Unlimited ends",
+      "Scarce means"
      ],
      "correct_index": 3,
-     "explanation": "This is the scarcity definition from An Essay on the Nature and Significance of Economic Science (1932)."
+     "explanation": "Scarcity of means gives rise to choice. Without it, there is no economic problem."
     },
     {
-     "question_text": "Which is NOT an element of Robbins' definition?",
+     "question_text": "\"Economics is neutral between ends\" means that an economist, as an economist, would:",
      "options": [
-      "Material welfare only",
-      "Unlimited wants",
-      "Scarce means",
-      "Alternative uses of means"
-     ],
-     "correct_index": 0,
-     "explanation": "Robbins' elements are unlimited ends, scarce means, alternative uses and the need to choose."
-    },
-    {
-     "question_text": "\"Economics is neutral between ends\" means economics:",
-     "options": [
-      "Studies only means and not the morality of ends",
-      "Ignores scarcity",
-      "Judges whether ends are good or bad",
-      "Opposes all wants"
-     ],
-     "correct_index": 0,
-     "explanation": "Economics does not say whether wants are desirable; it only studies how scarce means are allocated."
-    },
-    {
-     "question_text": "Which is a criticism of Robbins' definition?",
-     "options": [
-      "It focuses on welfare only",
-      "It ignores scarcity",
-      "It ignores economic growth and development",
-      "It ignores choice"
+      "Condemn goods whose production harms public health",
+      "Refuse to analyse markets in goods that are illegal",
+      "Study how scarce means are allocated, not judge the ends",
+      "Rank wants according to how morally worthy they are"
      ],
      "correct_index": 2,
-     "explanation": "The definition is static and does not deal with growth, employment or development."
+     "explanation": "Robbins separated economics from ethics: it studies the allocation of means, not whether ends are good."
     },
     {
-     "question_text": "Robbins' definition makes economics a purely positive science because it:",
+     "question_text": "Which dimension does Samuelson's definition add to earlier definitions?",
      "options": [
-      "Prescribes ends",
-      "Is silent on what ought to be and only explains what is",
-      "Focuses on welfare",
-      "Ignores means"
+      "The creation of wealth as the end of production",
+      "The material welfare of ordinary people in society",
+      "Growth over time, in money or barter economies",
+      "The pattern of income distribution among classes"
+     ],
+     "correct_index": 2,
+     "explanation": "It covers choice over time (\"now or in the future\") and economies with or without money."
+    },
+    {
+     "question_text": "A student says \"scarcity and shortage mean the same\". Which reply is correct?",
+     "options": [
+      "Scarcity occurs only in poor countries; shortage occurs everywhere",
+      "Scarcity is a universal condition of limited resources; shortage is excess demand at a given price",
+      "Scarcity is a temporary gap at a given price; shortage is a permanent condition",
+      "Shortage comes from unlimited wants; scarcity comes from price controls"
      ],
      "correct_index": 1,
-     "explanation": "By staying neutral between ends, it avoids value judgements."
+     "explanation": "Scarcity exists in every economy; a shortage is a market imbalance at a particular (often controlled) price."
     },
     {
-     "question_text": "Samuelson's growth definition emphasises:",
+     "question_text": "Which of the following is a free good in the economic sense?",
      "options": [
-      "Government control",
-      "Choice over time with scarce resources to produce goods and distribute them for growth",
-      "Welfare only",
-      "Wealth only"
+      "Drinking water supplied by a municipality",
+      "Air in an open field",
+      "Sand in a quarry",
+      "Sunlight captured by solar panels"
      ],
      "correct_index": 1,
-     "explanation": "It adds the dynamic element of time and economic growth to the scarcity idea."
+     "explanation": "A free good is available in unlimited supply with no opportunity cost; the others involve cost."
     },
     {
-     "question_text": "Samuelson's definition improves on Robbins' by:",
+     "question_text": "Which characteristic of human wants explains why the demand for a good rises again after being satisfied?",
      "options": [
-      "Ignoring scarcity",
-      "Adding the dynamic dimension of growth and time",
-      "Focusing on wealth",
-      "Removing choice"
-     ],
-     "correct_index": 1,
-     "explanation": "It covers growth and dynamic problems, which the static scarcity definition left out."
-    },
-    {
-     "question_text": "Which pairing of definition and economist is correct?",
-     "options": [
-      "Wealth – Marshall",
-      "Welfare – Smith",
-      "Scarcity – Robbins",
-      "Growth – Marshall"
+      "Wants vary in intensity",
+      "Wants are complementary",
+      "Wants recur",
+      "Wants are competitive"
      ],
      "correct_index": 2,
-     "explanation": "Wealth: Smith; Welfare: Marshall; Scarcity: Robbins; Growth: Samuelson."
+     "explanation": "Recurrence: a want satisfied today returns (hunger returns)."
     },
     {
-     "question_text": "Which definition is the most widely accepted today?",
+     "question_text": "Which pair shows complementary wants?",
      "options": [
-      "Wealth definition",
-      "Welfare definition",
-      "Scarcity definition",
-      "None of them"
+      "Butter and margarine",
+      "Bus and train",
+      "Pen and ink",
+      "Tea and coffee"
      ],
      "correct_index": 2,
-     "explanation": "Robbins' scarcity definition is the most widely accepted because it is analytical and universal."
+     "explanation": "Complementary wants are satisfied together."
     },
     {
-     "question_text": "Scarcity differs from shortage because scarcity:",
+     "question_text": "The scope of economics covers its nature and its subject matter. Which of these is a question about its NATURE?",
      "options": [
-      "Occurs only in poor countries",
-      "Occurs only for necessities",
-      "Is a universal condition of limited resources relative to wants, while shortage is a temporary supply gap at a price",
-      "Is temporary"
-     ],
-     "correct_index": 2,
-     "explanation": "Scarcity exists for all resources always; shortage is a temporary market imbalance."
-    },
-    {
-     "question_text": "The basic economic problem arises from:",
-     "options": [
-      "Limited wants and limited means",
-      "Unlimited wants and limited means",
-      "Unlimited wants and unlimited means",
-      "Unlimited means and limited wants"
-     ],
-     "correct_index": 1,
-     "explanation": "Wants are endless but resources are limited, forcing choice."
-    },
-    {
-     "question_text": "Which is a characteristic of human wants?",
-     "options": [
-      "They cannot be influenced by advertising",
-      "They are limited in number",
-      "They are unlimited and recurring",
-      "They are all equally urgent"
-     ],
-     "correct_index": 2,
-     "explanation": "Wants are unlimited, recur, differ in intensity and can be satisfied in part."
-    },
-    {
-     "question_text": "\"Alternative uses of resources\" means resources:",
-     "options": [
-      "Can be used in more than one way",
-      "Have only one use",
-      "Are free goods",
-      "Are unlimited"
+      "Whether economics is a science or an art and positive or normative",
+      "How the output of an economy is distributed among factors",
+      "How goods are exchanged in markets",
+      "How consumers spend their incomes"
      ],
      "correct_index": 0,
-     "explanation": "Land, labour and capital can produce different goods, so using them for one forgoes another."
+     "explanation": "Nature concerns what kind of discipline it is; subject matter covers consumption, production, exchange and distribution."
     },
     {
-     "question_text": "The scope of economics includes:",
+     "question_text": "Which activity shows economics being applied as an ART?",
      "options": [
-      "Only consumption",
-      "Only production",
-      "Both the subject matter and the nature (science/art, positive/normative)",
-      "Only government finance"
+      "Collecting income data for a national survey of households",
+      "A minister uses economic knowledge to design a subsidy",
+      "Observing that quantity demanded falls when price rises",
+      "Explaining the causes of an episode of inflation"
+     ],
+     "correct_index": 1,
+     "explanation": "Art means using knowledge to achieve practical ends such as policy."
+    },
+    {
+     "question_text": "Why are economic laws said to be \"tendencies\" rather than exact laws?",
+     "options": [
+      "They apply only to the past",
+      "They have been disproved",
+      "Human behaviour varies and conditions are not controlled",
+      "They use too many assumptions about mathematics"
      ],
      "correct_index": 2,
-     "explanation": "Scope covers what economics studies and what kind of discipline it is."
+     "explanation": "Economic laws state what generally happens under given conditions."
     },
     {
-     "question_text": "The subject matter of economics is:",
+     "question_text": "In a study of the effect of price on demand, a researcher holds income, tastes and related prices constant. This is the assumption of:",
      "options": [
-      "Only production methods",
-      "Only the study of government",
-      "How individuals, firms and society make choices about scarce resources",
-      "The study of money only"
+      "Partial adjustment",
+      "Rational behaviour",
+      "Ceteris paribus",
+      "Equilibrium"
      ],
      "correct_index": 2,
-     "explanation": "It deals with consumption, production, exchange and distribution of scarce resources."
+     "explanation": "Ceteris paribus isolates the effect of one variable."
     },
     {
-     "question_text": "Which is NOT a traditional division of economics?",
+     "question_text": "Which of the following is a POSITIVE statement?",
      "options": [
-      "Inspiration",
-      "Exchange",
-      "Consumption",
-      "Production"
+      "The government should raise the minimum wage soon",
+      "Income tax ought to be made more progressive",
+      "A higher minimum wage reduces jobs in small firms",
+      "Every citizen deserves access to free healthcare"
+     ],
+     "correct_index": 2,
+     "explanation": "It states a cause-and-effect claim that can be tested against data (even if it may be false)."
+    },
+    {
+     "question_text": "A statement says \"A 10% rise in petrol price reduced demand by 4%.\" Which classification is correct?",
+     "options": [
+      "Normative, because it uses percentages",
+      "Positive only if it is true",
+      "Normative, because it concerns policy",
+      "Positive, because it can be checked with data"
+     ],
+     "correct_index": 3,
+     "explanation": "Positive statements can be tested; truth is not required for classification."
+    },
+    {
+     "question_text": "Which statement is NORMATIVE?",
+     "options": [
+      "Subsidies on fuel ought to be removed",
+      "India's fiscal deficit was 5.6% of GDP",
+      "Unemployment is higher among graduates",
+      "Inflation fell last quarter"
      ],
      "correct_index": 0,
-     "explanation": "The four divisions are consumption, production, exchange and distribution."
+     "explanation": "\"Ought\" signals a value judgement."
+    },
+    {
+     "question_text": "Which pairing of method and procedure is correct?",
+     "options": [
+      "Inductive method: from general assumptions to particular cases",
+      "Deductive method: from particular facts to a general law",
+      "Deductive method: from general assumptions to specific conclusions",
+      "Inductive method: logic alone, without any observation"
+     ],
+     "correct_index": 2,
+     "explanation": "Deduction starts with assumptions; induction starts with observation."
+    },
+    {
+     "question_text": "An economist collects data on household savings for many years and derives a general pattern. She is using:",
+     "options": [
+      "Deductive reasoning",
+      "Abductive reasoning",
+      "Inductive reasoning",
+      "Normative reasoning"
+     ],
+     "correct_index": 2,
+     "explanation": "Induction moves from observed particulars to a generalisation."
+    },
+    {
+     "question_text": "Who coined the terms micro and macro economics?",
+     "options": [
+      "J.M. Keynes",
+      "Alfred Marshall",
+      "Ragnar Frisch",
+      "Adam Smith"
+     ],
+     "correct_index": 2,
+     "explanation": "Frisch (1933)."
+    },
+    {
+     "question_text": "Which question belongs to MACROeconomics?",
+     "options": [
+      "How does a farmer decide which crop mix to grow?",
+      "How does a firm decide the price of its soap?",
+      "Why did the price of onions rise in one city last month?",
+      "What explains a simultaneous fall in national output and employment?"
+     ],
+     "correct_index": 3,
+     "explanation": "Total output and employment are economy-wide aggregates."
+    },
+    {
+     "question_text": "The \"paradox of thrift\" is an illustration of:",
+     "options": [
+      "Opportunity cost",
+      "The fallacy of composition",
+      "Law of demand",
+      "Diminishing marginal utility"
+     ],
+     "correct_index": 1,
+     "explanation": "What is true for one individual (saving more) need not hold for everyone together."
+    },
+    {
+     "question_text": "One farmer gains by selling more wheat. If all farmers sell more, prices may fall and total income may not rise. This is an example of:",
+     "options": [
+      "Fallacy of composition",
+      "Ceteris paribus",
+      "Diminishing returns",
+      "Paradox of value"
+     ],
+     "correct_index": 0,
+     "explanation": "The whole behaves differently from the part."
+    },
+    {
+     "question_text": "Partial equilibrium analysis differs from general equilibrium analysis in that partial equilibrium:",
+     "options": [
+      "Examines only the market for consumer goods",
+      "Examines only the money market",
+      "Examines one market while other markets are held constant",
+      "Examines all markets and their interdependence together"
+     ],
+     "correct_index": 2,
+     "explanation": "Marshall used partial analysis; Walras developed general equilibrium."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Economics – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Economics is called a science because it:",
+     "question_text": "The main limitation of macroeconomic analysis is that it:",
      "options": [
-      "Has no value judgements",
-      "Gives exact predictions always",
-      "Systematically studies cause-and-effect relationships and formulates laws",
-      "Uses controlled laboratory experiments"
-     ],
-     "correct_index": 2,
-     "explanation": "It collects facts, analyses them and formulates generalisations, though its laws are less exact."
-    },
-    {
-     "question_text": "Economics is also called an art because it:",
-     "options": [
-      "Gives practical guidance for solving economic problems",
-      "Has no principles",
-      "Is only descriptive",
-      "Is purely theoretical"
-     ],
-     "correct_index": 0,
-     "explanation": "Art means applying knowledge for practical ends, such as policy making."
-    },
-    {
-     "question_text": "Economic laws are called tendencies because:",
-     "options": [
-      "They hold exactly in every case",
-      "They hold only on average or under given conditions, as human behaviour varies",
-      "They are mathematical",
-      "They are imposed by government"
-     ],
-     "correct_index": 1,
-     "explanation": "Human behaviour is not uniform, so laws state what generally tends to happen."
-    },
-    {
-     "question_text": "\"Ceteris paribus\" means:",
-     "options": [
-      "Other things remaining constant",
-      "All things change together",
-      "Demand equals supply",
-      "Prices are fixed"
-     ],
-     "correct_index": 0,
-     "explanation": "It isolates the effect of one variable by holding others constant."
-    },
-    {
-     "question_text": "Controlled experimentation is difficult in economics because:",
-     "options": [
-      "Data are always accurate",
-      "Prices never change",
-      "Human behaviour and social conditions cannot be controlled like laboratory conditions",
-      "Economists lack mathematical tools"
-     ],
-     "correct_index": 2,
-     "explanation": "Economic agents are people and conditions keep changing."
-    },
-    {
-     "question_text": "The relationship between economics and political science is close because:",
-     "options": [
-      "They study unrelated subjects",
-      "Government policies on taxes, spending and regulation depend on both",
-      "Politics has no economic effect",
-      "Both ignore government"
-     ],
-     "correct_index": 1,
-     "explanation": "Policy decisions combine political choices with economic analysis."
-    },
-    {
-     "question_text": "Economics is related to sociology because:",
-     "options": [
-      "Social customs and class structure affect consumption and savings",
-      "They are the same subject",
-      "Society has no effect on markets",
-      "Sociology studies prices"
-     ],
-     "correct_index": 0,
-     "explanation": "Social norms, habits and institutions influence economic behaviour."
-    },
-    {
-     "question_text": "Mathematics and statistics help economics by:",
-     "options": [
-      "Replacing economic theory",
-      "Setting prices",
-      "Making economics non-scientific",
-      "Providing tools to build models, measure and test relationships"
+      "Is concerned only with the determination of prices",
+      "Does not deal with questions of government policy",
+      "Cannot deal with the idea of national income",
+      "May hide differences among units behind aggregates"
      ],
      "correct_index": 3,
-     "explanation": "Equations, graphs and data analysis give precision to economic analysis."
+     "explanation": "Averages and totals can conceal very different experiences of households and sectors."
     },
     {
-     "question_text": "Economics is related to psychology because:",
+     "question_text": "\"What, how and for whom to produce\" are problems in every economy because:",
      "options": [
-      "Both study prices",
-      "Wants are unrelated to the mind",
-      "Psychology sets budgets",
-      "Consumer tastes, motives and expectations influence economic decisions"
-     ],
-     "correct_index": 3,
-     "explanation": "Understanding behaviour is central to demand analysis."
-    },
-    {
-     "question_text": "Which is a reason for studying economics?",
-     "options": [
-      "It removes scarcity",
-      "It guarantees profits",
-      "It helps in rational decision making about scarce resources",
-      "It eliminates the need for government"
+      "Resources are unlimited but badly distributed",
+      "Governments restrict how resources can be used",
+      "Resources are limited relative to wants and alternative uses exist",
+      "Money is not available to all the producers"
      ],
      "correct_index": 2,
-     "explanation": "Economics trains one to weigh costs and benefits and understand the economy."
+     "explanation": "Scarcity with alternative uses forces choice."
     },
     {
-     "question_text": "Economics helps consumers mainly by:",
+     "question_text": "The choice between labour-intensive and capital-intensive methods is a problem of:",
      "options": [
-      "Guiding them to spend income to get maximum satisfaction",
-      "Fixing their income",
-      "Removing prices",
-      "Increasing wants"
+      "Growth of the economy",
+      "What to produce",
+      "How to produce",
+      "For whom to produce"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a choice of technique."
+    },
+    {
+     "question_text": "A government decides to produce more defence goods and fewer consumer goods. Which problem is mainly involved?",
+     "options": [
+      "How to produce",
+      "For whom to produce",
+      "What to produce",
+      "Full employment"
+     ],
+     "correct_index": 2,
+     "explanation": "Choice of product mix and quantities."
+    },
+    {
+     "question_text": "Which statement about \"for whom to produce\" is correct?",
+     "options": [
+      "It is solved only in socialist economies",
+      "It concerns only production costs",
+      "It depends on the pattern of income distribution",
+      "It depends only on technology"
+     ],
+     "correct_index": 2,
+     "explanation": "Purchasing power determines who gets the goods."
+    },
+    {
+     "question_text": "In which economy do prices primarily solve the basic problems?",
+     "options": [
+      "Subsistence economy",
+      "Traditional economy",
+      "Market (capitalist) economy",
+      "Command economy"
+     ],
+     "correct_index": 2,
+     "explanation": "The price mechanism allocates resources through demand and supply."
+    },
+    {
+     "question_text": "India is described as a mixed economy mainly because:",
+     "options": [
+      "Public and private sectors co-exist under regulation",
+      "The government fixes the prices of every good sold",
+      "The state owns all the heavy industries in the country",
+      "Private ownership is allowed only inside agriculture"
      ],
      "correct_index": 0,
-     "explanation": "Consumer theory shows how to allocate income across goods."
+     "explanation": "Both sectors operate, with markets plus state regulation and planning."
     },
     {
-     "question_text": "Economics helps producers by:",
+     "question_text": "An allocation is Pareto efficient when:",
      "options": [
-      "Removing competition",
-      "Fixing consumer incomes",
-      "Helping them decide what, how and how much to produce at least cost",
-      "Telling them which goods to ban"
-     ],
-     "correct_index": 2,
-     "explanation": "Cost, demand and market analysis guide production decisions."
-    },
-    {
-     "question_text": "Economics helps the government by:",
-     "options": [
-      "Controlling consumer tastes",
-      "Eliminating all taxes",
-      "Setting wants",
-      "Guiding taxation, spending, planning and stabilisation policies"
-     ],
-     "correct_index": 3,
-     "explanation": "Economic analysis informs fiscal and monetary policy."
-    },
-    {
-     "question_text": "Economics helps in understanding international issues such as:",
-     "options": [
-      "Family budgets only",
-      "School admissions",
-      "Trade, exchange rates and balance of payments",
-      "Local weather"
-     ],
-     "correct_index": 2,
-     "explanation": "It explains trade patterns, tariffs and currency movements."
-    },
-    {
-     "question_text": "Economics is important to a business student because it:",
-     "options": [
-      "Provides understanding of markets, costs, demand and the business environment",
-      "Removes risk",
-      "Replaces accounting",
-      "Guarantees success"
+      "No one can gain without another person losing",
+      "Total output of the economy is at its maximum",
+      "Income is shared equally among all the persons",
+      "Price equals average cost for every single firm"
      ],
      "correct_index": 0,
-     "explanation": "Business decisions depend on economic conditions and analysis."
+     "explanation": "It describes a position where any change helps one person only at another's expense."
     },
     {
-     "question_text": "Which is an example of a positive economic statement?",
+     "question_text": "Allocative efficiency is achieved where:",
      "options": [
-      "Petrol is too costly",
-      "India's GDP grew by 7% last year",
-      "The rich should pay higher taxes",
-      "The government must reduce poverty"
+      "Price equals marginal cost",
+      "Profit is maximum",
+      "Price exceeds average cost",
+      "Cost is minimum"
+     ],
+     "correct_index": 0,
+     "explanation": "Resources are allocated to goods in the combination society values most."
+    },
+    {
+     "question_text": "Productive efficiency is achieved when:",
+     "options": [
+      "Goods are produced at the lowest possible cost on the PPC",
+      "All resources are fully employed in any use",
+      "Output is the combination consumers value most",
+      "Income is distributed fairly among workers"
+     ],
+     "correct_index": 0,
+     "explanation": "Resources are used so that cost per unit is minimised; allocative efficiency concerns the mix produced."
+    },
+    {
+     "question_text": "The opportunity cost of attending a Rs 1,00,000 course for a student who could have earned Rs 2,00,000 working that year is best measured as:",
+     "options": [
+      "Rs 3,00,000",
+      "Rs 1,00,000 less Rs 2,00,000",
+      "Rs 1,00,000",
+      "Rs 2,00,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Fees plus the earnings forgone."
+    },
+    {
+     "question_text": "Which statement is TRUE about opportunity cost?",
+     "options": [
+      "It is always measured in money",
+      "It equals the money cost of the choice",
+      "It is the value of the best alternative forgone",
+      "It applies only to scarce goods in market economies"
+     ],
+     "correct_index": 2,
+     "explanation": "Opportunity cost is the next-best alternative given up."
+    },
+    {
+     "question_text": "A farmer can produce either 300 quintals of wheat or 450 quintals of rice. The opportunity cost of 1 quintal of rice is:",
+     "options": [
+      "0.67 quintal of wheat",
+      "150 quintals of wheat",
+      "3 quintals of wheat",
+      "1.5 quintals of wheat"
+     ],
+     "correct_index": 0,
+     "explanation": "300/450 wheat per quintal of rice."
+    },
+    {
+     "question_text": "If the opportunity cost of producing a good is zero, the good is:",
+     "options": [
+      "A luxury",
+      "A free good",
+      "A capital good",
+      "A normal good"
      ],
      "correct_index": 1,
-     "explanation": "Positive statements describe facts that can be verified."
+     "explanation": "No alternative is forgone."
     },
     {
-     "question_text": "Which is an example of a normative economic statement?",
+     "question_text": "Which of the following is NOT an assumption behind the usual PPC?",
      "options": [
-      "The government should provide free healthcare",
-      "Wheat output was 100 million tonnes",
-      "Unemployment was 6% in 2020",
-      "Prices rose by 4%"
+      "Technology remains unchanged",
+      "Resources are equally efficient in producing both goods",
+      "Resources are fully and efficiently employed",
+      "Only two goods are produced"
      ],
-     "correct_index": 0,
-     "explanation": "Normative statements express value judgements about what ought to be."
+     "correct_index": 1,
+     "explanation": "The usual PPC assumes resources are not equally suited to both goods, which gives its concave shape."
     },
     {
-     "question_text": "The key difference between positive and normative economics is that positive economics:",
+     "question_text": "The PPC is concave to the origin mainly because of:",
      "options": [
-      "Deals with what ought to be",
-      "Cannot use data",
-      "Deals with what is and can be tested",
-      "Is based on opinions"
+      "Unlimited wants",
+      "Decreasing returns to scale",
+      "Increasing marginal opportunity cost",
+      "Constant opportunity cost"
      ],
      "correct_index": 2,
-     "explanation": "Positive is fact-based and testable; normative is value-based."
+     "explanation": "Shifting resources to less suitable uses raises the cost."
     },
     {
-     "question_text": "\"India's inflation was 5% last year\" is a:",
+     "question_text": "If the PPC is a straight line, the marginal rate of transformation is:",
      "options": [
-      "Normative statement",
-      "Value judgement",
-      "Policy recommendation",
-      "Positive statement"
+      "Constant",
+      "Decreasing",
+      "Increasing",
+      "Zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Opportunity cost is constant when resources are equally suited."
+    },
+    {
+     "question_text": "On an economy's PPC for guns and butter, moving from point A (10 guns, 40 butter) to B (12 guns, 30 butter) shows that the opportunity cost of 1 gun is:",
+     "options": [
+      "5 butter",
+      "0.2 butter",
+      "2 butter",
+      "10 butter"
+     ],
+     "correct_index": 0,
+     "explanation": "2 guns cost 10 butter, so 5 butter per gun."
+    },
+    {
+     "question_text": "Moving from B (12 guns, 30 butter) to C (14 guns, 15 butter) shows the opportunity cost of a gun has:",
+     "options": [
+      "Risen to 7.5 butter",
+      "Fallen",
+      "Risen to 15 butter",
+      "Stayed constant"
+     ],
+     "correct_index": 0,
+     "explanation": "15 butter for 2 guns = 7.5 per gun, up from 5."
+    },
+    {
+     "question_text": "An economy operating at a point inside its PPC indicates:",
+     "options": [
+      "Full employment of all resources",
+      "Economic growth over time",
+      "Output that cannot be reached with present resources",
+      "Unemployment or inefficient use of resources"
      ],
      "correct_index": 3,
-     "explanation": "It states a verifiable fact."
+     "explanation": "The point is attainable but wasteful."
     },
     {
-     "question_text": "\"The government should provide free education\" is a:",
+     "question_text": "The discovery of new oil reserves would cause the PPC for oil and other goods to:",
      "options": [
-      "Scientific law",
-      "Normative statement",
-      "Statistical fact",
-      "Positive statement"
+      "Shift inward",
+      "Shift outward",
+      "Rotate only if technology changes",
+      "Remain unchanged"
      ],
      "correct_index": 1,
-     "explanation": "It contains the word \"should\", expressing a value judgement."
+     "explanation": "More resources increase capacity."
     },
     {
-     "question_text": "\"A rise in income increases demand for normal goods\" is:",
+     "question_text": "A technological improvement in the production of only wheat will cause the PPC to:",
      "options": [
-      "Positive",
-      "Normative",
-      "Neither",
-      "Both"
-     ],
-     "correct_index": 0,
-     "explanation": "It states a cause-and-effect relationship that can be tested."
-    },
-    {
-     "question_text": "\"Petrol should be taxed more\" is:",
-     "options": [
-      "A law of demand",
-      "A statistic",
-      "Normative",
-      "Positive"
+      "Shift inward",
+      "Shift parallel outward",
+      "Pivot outward along the wheat axis",
+      "Pivot outward along the other axis"
      ],
      "correct_index": 2,
-     "explanation": "It states what ought to be done."
+     "explanation": "Only the wheat intercept rises."
     },
     {
-     "question_text": "A positive statement:",
+     "question_text": "A severe flood destroys part of a country's capital stock. The PPC:",
      "options": [
-      "Is always a policy",
-      "Cannot be wrong",
-      "Can be wrong if evidence does not support it, yet it is still positive",
-      "Is always a value judgement"
+      "Shifts outward",
+      "Remains the same",
+      "Shifts inward",
+      "Becomes convex"
      ],
      "correct_index": 2,
-     "explanation": "Positive means testable; a false factual claim is still positive."
+     "explanation": "Productive capacity falls."
     },
     {
-     "question_text": "Positive and normative economics are interdependent because:",
+     "question_text": "A move from a point inside the PPC to a point on it indicates:",
      "options": [
-      "They never overlap",
-      "Normative is based on experiments",
-      "Policy (normative) needs facts (positive) and facts guide choices",
-      "Positive ignores facts"
+      "Economic growth",
+      "Fall in scarcity",
+      "Reduction of unemployment",
+      "Technological progress"
      ],
      "correct_index": 2,
-     "explanation": "Good policy advice requires accurate analysis of what is."
+     "explanation": "Better use of existing resources; the curve itself has not moved."
     },
     {
-     "question_text": "The deductive method of reasoning proceeds from:",
+     "question_text": "The distinction between movement along a PPC and a shift of the PPC is that a shift shows:",
      "options": [
-      "Particular to general",
-      "General to particular",
-      "Opinion to fact",
-      "Data to data"
+      "Unemployment",
+      "Constant opportunity cost",
+      "Reallocation between the two goods",
+      "A change in productive capacity"
      ],
-     "correct_index": 1,
-     "explanation": "It starts from general assumptions and derives specific conclusions."
+     "correct_index": 3,
+     "explanation": "Movement is reallocation; shift is growth or decline."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Economics – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The inductive method proceeds from:",
+     "question_text": "On a PPC, producing more of one good means producing less of the other because:",
      "options": [
-      "Particular facts to general conclusions",
-      "Assumptions to deductions",
-      "Theory to theory",
-      "General principles to cases"
+      "Technology is deteriorating over time",
+      "Prices of the two goods are fixed by the government",
+      "Wants for the two goods are limited",
+      "Resources are limited and can be used in alternative ways"
      ],
-     "correct_index": 0,
-     "explanation": "It collects observed data and generalises from them."
+     "correct_index": 3,
+     "explanation": "Scarcity with alternative uses creates a trade-off."
     },
     {
-     "question_text": "Which statement about the two methods is most accurate?",
+     "question_text": "Which event would NOT shift the PPC?",
      "options": [
-      "Neither is used in economics",
-      "Only deduction is valid",
-      "Both are complementary and are usually used together",
-      "Only induction is valid"
-     ],
-     "correct_index": 2,
-     "explanation": "Each has strengths; theories from deduction need testing by induction."
-    },
-    {
-     "question_text": "Who coined the terms micro and macro economics (1933)?",
-     "options": [
-      "Adam Smith",
-      "Alfred Marshall",
-      "Ragnar Frisch",
-      "J.M. Keynes"
-     ],
-     "correct_index": 2,
-     "explanation": "Ragnar Frisch of Norway used them in 1933."
-    },
-    {
-     "question_text": "Microeconomics studies:",
-     "options": [
-      "Individual units such as a consumer, firm or market",
-      "Only inflation",
-      "National income only",
-      "The economy as a whole"
-     ],
-     "correct_index": 0,
-     "explanation": "Examples: demand for a good, a firm's costs, price in a market."
-    },
-    {
-     "question_text": "Macroeconomics studies:",
-     "options": [
-      "Only one firm",
-      "Aggregates like national income, employment and general price level",
-      "Only one product price",
-      "A single consumer"
+      "Discovery of new resources",
+      "Fall in unemployment",
+      "Improvement in technology",
+      "Rise in the labour force"
      ],
      "correct_index": 1,
-     "explanation": "It deals with the economy as a whole."
+     "explanation": "Reducing unemployment moves the economy to the frontier."
     },
     {
-     "question_text": "Microeconomics is called price theory because it:",
+     "question_text": "A country's PPC bows inward (convex) only if:",
      "options": [
-      "Studies only inflation",
-      "Mainly explains how prices of goods and factors are determined",
-      "Studies national income",
-      "Ignores prices"
+      "Resources are fixed",
+      "There is unemployment",
+      "Opportunity cost is decreasing",
+      "Opportunity cost is increasing"
+     ],
+     "correct_index": 2,
+     "explanation": "Convex shape means falling marginal opportunity cost; it is rare."
+    },
+    {
+     "question_text": "The marginal rate of transformation at a point on the PPC is equal to:",
+     "options": [
+      "Total cost",
+      "Price ratio of the goods",
+      "Total output",
+      "The slope of the PPC at that point"
+     ],
+     "correct_index": 3,
+     "explanation": "MRT = −ΔY/ΔX along the curve."
+    },
+    {
+     "question_text": "Which of the following shows the \"problem of full employment\" rather than the \"problem of allocation\"?",
+     "options": [
+      "Choosing a technique",
+      "An economy operating inside its PPC",
+      "Choosing between schools and hospitals",
+      "Deciding who gets the output"
      ],
      "correct_index": 1,
-     "explanation": "Price determination is its central concern."
+     "explanation": "It is a question of idle resources."
     },
     {
-     "question_text": "Macroeconomics is called income and employment theory because it:",
+     "question_text": "\"Economic growth\" can be represented on the PPC diagram by:",
      "options": [
-      "Studies firm prices",
-      "Studies one market",
-      "Ignores unemployment",
-      "Explains the levels of national income and employment"
-     ],
-     "correct_index": 3,
-     "explanation": "Its focus is determination of aggregate income, output and jobs."
-    },
-    {
-     "question_text": "Which is a topic of macroeconomics?",
-     "options": [
-      "A firm's profit",
-      "Price of tea",
-      "Demand for a single brand",
-      "Rate of inflation in the economy"
-     ],
-     "correct_index": 3,
-     "explanation": "Inflation is an economy-wide aggregate."
-    },
-    {
-     "question_text": "Macroeconomics is mostly associated with which economist and book?",
-     "options": [
-      "Keynes – General Theory of Employment, Interest and Money",
-      "Smith – Wealth of Nations",
-      "Robbins – Essay",
-      "Marshall – Principles"
+      "An outward shift of the curve",
+      "A point inside the curve",
+      "A movement along the curve",
+      "A convex curve"
      ],
      "correct_index": 0,
-     "explanation": "Keynes's 1936 book founded modern macroeconomics."
+     "explanation": "More capacity over time."
     },
     {
-     "question_text": "Partial equilibrium analysis studies:",
+     "question_text": "Which is a reason to study economics beyond solving personal problems?",
      "options": [
-      "Only labour",
-      "Only the money market",
-      "The whole economy at once",
-      "One market or variable, keeping others constant"
+      "It removes scarcity from the entire economy",
+      "It guarantees steady profits for every firm",
+      "It permanently eliminates unemployment in the economy",
+      "It helps governments design fiscal and monetary policy"
      ],
      "correct_index": 3,
-     "explanation": "Developed by Marshall; uses ceteris paribus for other markets."
+     "explanation": "Policy design requires economic analysis."
     },
     {
-     "question_text": "General equilibrium analysis studies:",
+     "question_text": "Which of these would an economist classify as a factor of production?",
      "options": [
-      "Only the government",
-      "Only one market",
-      "Simultaneous equilibrium in all markets and their interdependence",
-      "Only consumers"
+      "A government permit to run a manufacturing unit",
+      "A bank loan taken out by a business firm",
+      "Cash that is kept in the hand of the owner",
+      "The organisation and risk-bearing of an entrepreneur"
+     ],
+     "correct_index": 3,
+     "explanation": "The four factors are land, labour, capital and entrepreneurship."
+    },
+    {
+     "question_text": "Reward for the factor \"capital\" is:",
+     "options": [
+      "Profit",
+      "Rent",
+      "Wages",
+      "Interest"
+     ],
+     "correct_index": 3,
+     "explanation": "Land: rent; labour: wages; entrepreneur: profit."
+    },
+    {
+     "question_text": "Which statement correctly distinguishes normative from positive statements?",
+     "options": [
+      "Positive statements say what ought to be done",
+      "Positive statements cannot be checked against evidence",
+      "Normative statements rest on value judgements that data alone cannot settle",
+      "Normative statements are always false and positive ones always true"
      ],
      "correct_index": 2,
-     "explanation": "Associated with Walras; it considers how all markets interact."
+     "explanation": "Facts can test positive claims; values cannot be settled by facts alone."
     },
     {
-     "question_text": "The fallacy of composition says that:",
+     "question_text": "Two economists agree on the facts about the effects of a tax but disagree on whether it should be imposed. Their disagreement is mainly:",
      "options": [
-      "Economics has no fallacies",
-      "What is true for an individual may not be true for the whole economy",
-      "The whole equals the parts",
-      "What is true for the individual is always true for the whole"
+      "Normative",
+      "Statistical",
+      "Mathematical",
+      "Positive"
+     ],
+     "correct_index": 0,
+     "explanation": "They differ in values."
+    },
+    {
+     "question_text": "Which of the following is an example of a macroeconomic variable?",
+     "options": [
+      "Output of one firm",
+      "General price level",
+      "Wage of a single worker",
+      "Price of a laptop"
      ],
      "correct_index": 1,
-     "explanation": "E.g. one person gains by saving more, but if all save more, total demand falls."
+     "explanation": "It is an aggregate."
     },
     {
-     "question_text": "The paradox of thrift states that:",
+     "question_text": "\"The price of wheat will fall if its supply rises, other things being equal\" is:",
      "options": [
-      "Thrift is always harmful",
-      "Saving equals zero",
-      "Saving always raises income",
-      "If everybody saves more, total income and saving may fall"
+      "A normative statement about agricultural policy",
+      "An ethical judgement about the welfare of farmers",
+      "A statement of settled historical fact only",
+      "A positive statement using ceteris paribus"
      ],
      "correct_index": 3,
-     "explanation": "Higher saving reduces demand and income, so total saving may not rise."
+     "explanation": "It is testable and isolates one cause."
     },
     {
-     "question_text": "Micro and macroeconomics are:",
+     "question_text": "The deductive method is most useful when an economist wants to:",
      "options": [
-      "Unrelated",
-      "Competitive",
-      "Identical",
-      "Complementary"
+      "Summarise the historical records of an economy",
+      "Collect and tabulate raw data from field surveys",
+      "Conduct a controlled experiment in a laboratory setting",
+      "Derive logical implications from assumptions for later testing"
      ],
      "correct_index": 3,
-     "explanation": "Both are needed; micro behaviour sums to macro outcomes and vice versa."
+     "explanation": "Theory is built from assumptions by logic."
     },
     {
-     "question_text": "A limitation of microeconomics is that it:",
+     "question_text": "The inductive method is most useful for:",
      "options": [
-      "Ignores prices",
-      "Has no assumptions",
-      "Studies aggregates",
-      "Studies the individual only and cannot explain the economy as a whole"
+      "Arriving at general patterns from observed data",
+      "Building a logical model from assumptions",
+      "Calculating marginal values mathematically",
+      "Making value judgements about policy"
+     ],
+     "correct_index": 0,
+     "explanation": "It moves from observation to generalisation."
+    },
+    {
+     "question_text": "Which example best illustrates the fallacy of composition?",
+     "options": [
+      "Different consumers buy very different bundles of goods",
+      "Prices rise when the supply of money expands",
+      "A rise in the price of a good reduces its demand",
+      "One spectator who stands sees better, but if all stand nobody does"
      ],
      "correct_index": 3,
-     "explanation": "Aggregating micro results can give misleading conclusions (fallacy of composition)."
+     "explanation": "What is true for a part is not necessarily true for the whole."
     },
     {
-     "question_text": "A limitation of macroeconomics is that it:",
+     "question_text": "Which statement about microeconomics is correct?",
      "options": [
-      "Ignores aggregates",
-      "May hide important differences among individual units",
-      "Studies only prices",
-      "Is always accurate"
+      "It is also called price theory",
+      "It studies national income determination",
+      "It is also called income and employment theory",
+      "It ignores consumer behaviour"
+     ],
+     "correct_index": 0,
+     "explanation": "Micro explains price determination."
+    },
+    {
+     "question_text": "Keynes's General Theory (1936) is associated with:",
+     "options": [
+      "Welfare economics",
+      "Income and employment theory",
+      "Price theory",
+      "Theory of rent"
      ],
      "correct_index": 1,
-     "explanation": "Aggregates can conceal variations among sectors or individuals."
+     "explanation": "It founded modern macroeconomics."
     },
     {
-     "question_text": "\"Price of tea in a city\" is a:",
+     "question_text": "Why would a management student benefit from studying economics?",
      "options": [
-      "Both",
-      "Neither",
-      "Microeconomic topic",
-      "Macroeconomic topic"
-     ],
-     "correct_index": 2,
-     "explanation": "It concerns one product in one market."
-    },
-    {
-     "question_text": "\"National unemployment rate\" is a:",
-     "options": [
-      "Firm-level topic",
-      "Microeconomic topic",
-      "Macroeconomic topic",
-      "Consumer-level topic"
-     ],
-     "correct_index": 2,
-     "explanation": "It is an economy-wide aggregate."
-    },
-    {
-     "question_text": "\"General price level\" is a:",
-     "options": [
-      "Macroeconomic topic",
-      "Microeconomic topic",
-      "Firm cost topic",
-      "Individual demand topic"
-     ],
-     "correct_index": 0,
-     "explanation": "The overall price level is an aggregate."
-    },
-    {
-     "question_text": "An economic problem arises because of:",
-     "options": [
-      "Scarcity of resources relative to wants",
-      "Abundance of resources",
-      "Excess supply of all goods",
-      "Absence of wants"
-     ],
-     "correct_index": 0,
-     "explanation": "Scarcity forces choice among competing uses."
-    },
-    {
-     "question_text": "The three central problems of an economy are:",
-     "options": [
-      "Tax, spend, borrow",
-      "Rent, wages, profit",
-      "Saving, investment, consumption",
-      "What, how and for whom to produce"
+      "It removes all the risk from business decisions",
+      "It predicts movements in share prices exactly",
+      "It eliminates competition among the firms of an industry",
+      "It explains markets, costs, demand and policy settings"
      ],
      "correct_index": 3,
-     "explanation": "These choices arise from scarcity in every economy."
+     "explanation": "Business decisions depend on economic conditions."
     },
     {
-     "question_text": "\"What to produce\" involves deciding:",
+     "question_text": "A person gives up a job paying Rs 40,000 a month to run her own shop and earns Rs 30,000 profit a month. Her economic profit is:",
      "options": [
-      "Who will receive goods",
-      "Which techniques to use",
-      "Which goods and services and in what quantities to produce",
-      "Tax rates"
+      "Rs 40,000",
+      "Rs 70,000",
+      "Rs 30,000",
+      "Rs 10,000 loss"
+     ],
+     "correct_index": 3,
+     "explanation": "Economic profit subtracts the implicit cost (forgone salary)."
+    },
+    {
+     "question_text": "A country moves from a command economy to a market economy. Which central problem is now primarily solved through prices instead of planning?",
+     "options": [
+      "Only \"for whom to produce\"",
+      "Only unemployment",
+      "What, how and for whom to produce",
+      "Only growth"
      ],
      "correct_index": 2,
-     "explanation": "E.g. wheat vs. cars, consumer vs. capital goods."
+     "explanation": "The price mechanism guides all three allocation problems."
     },
     {
-     "question_text": "\"How to produce\" involves the choice between:",
+     "question_text": "The economic problem faced by an individual consumer is best described as:",
      "options": [
-      "Techniques – labour-intensive vs. capital-intensive",
-      "Goods",
-      "Prices",
-      "Consumers"
+      "Having no source of income of any kind",
+      "Being unable to find suitable employment anywhere",
+      "Having to pay taxes on income to the government",
+      "Choosing among alternatives with limited income and time"
+     ],
+     "correct_index": 3,
+     "explanation": "Limited means with alternative uses require choice."
+    },
+    {
+     "question_text": "A household spends Rs 5,000 on a phone instead of a family trip. This decision illustrates:",
+     "options": [
+      "Marginal cost of the phone",
+      "A fixed cost of consumption",
+      "A sunk cost already incurred",
+      "Opportunity cost and choice"
+     ],
+     "correct_index": 3,
+     "explanation": "The trip is the next-best alternative given up."
+    },
+    {
+     "question_text": "A firm owns a building that it could rent out for Rs 8 lakh a year, and uses it as its own office. The annual implicit cost of using the building is:",
+     "options": [
+      "Zero, as no rent is paid",
+      "Rs 8 lakh, the rent forgone",
+      "Equal to the building's purchase price",
+      "Rs 8 lakh less depreciation"
+     ],
+     "correct_index": 1,
+     "explanation": "Implicit cost is the value of the best alternative use of a self-owned resource."
+    },
+    {
+     "question_text": "Which of the following would be a normative question about the Indian economy?",
+     "options": [
+      "Should the government subsidise higher education?",
+      "How many people are below the poverty line?",
+      "By how much did GDP grow last year?",
+      "What is the unemployment rate?"
      ],
      "correct_index": 0,
-     "explanation": "It means selecting the combination of inputs, i.e. method of production."
-    },
-    {
-     "question_text": "\"For whom to produce\" concerns:",
-     "options": [
-      "Quantity of output",
-      "Production methods",
-      "Distribution of output among members of society",
-      "Choice of goods"
-     ],
-     "correct_index": 2,
-     "explanation": "It depends on income distribution."
-    },
-    {
-     "question_text": "The problem of full employment of resources is concerned with:",
-     "options": [
-      "Reducing wants",
-      "Distribution only",
-      "Using all available resources fully instead of leaving them idle",
-      "Changing technology"
-     ],
-     "correct_index": 2,
-     "explanation": "Idle resources mean output is below potential."
+     "explanation": "\"Should\" indicates a value judgement."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 1: Introduction to Economics – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The problem of economic growth concerns:",
+     "question_text": "The Greek word \"oikonomia\" suggests that economics was first viewed as:",
      "options": [
-      "Expanding productive capacity over time",
-      "Fixing prices",
-      "Reducing the present output",
-      "Reducing population"
-     ],
-     "correct_index": 0,
-     "explanation": "It involves how much to save and invest for future output."
-    },
-    {
-     "question_text": "In a capitalist economy the central problems are solved mainly by:",
-     "options": [
-      "Religious rules",
-      "The price mechanism (market forces)",
-      "Customs",
-      "Central planning"
+      "Study of trade between nations",
+      "Management of the household",
+      "Regulation of banking",
+      "A law of value and price"
      ],
      "correct_index": 1,
-     "explanation": "Prices guided by demand and supply allocate resources."
+     "explanation": "Oikos means household and nomos means management."
     },
     {
-     "question_text": "In a socialist economy the central problems are solved mainly by:",
+     "question_text": "Which criticism is made of Robbins' scarcity definition?",
      "options": [
-      "Tradition",
-      "Price mechanism only",
-      "Foreign trade",
-      "Central planning authority"
-     ],
-     "correct_index": 3,
-     "explanation": "The state decides what, how and for whom."
-    },
-    {
-     "question_text": "A mixed economy, such as India, solves the central problems through:",
-     "options": [
-      "Only the state",
-      "Both the market mechanism and government planning/regulation",
-      "Only the market",
-      "Barter"
-     ],
-     "correct_index": 1,
-     "explanation": "Public and private sectors coexist."
-    },
-    {
-     "question_text": "Pareto efficiency is a situation where:",
-     "options": [
-      "Everyone is equally rich",
-      "No one can be made better off without making someone else worse off",
-      "Output is maximum",
-      "Prices are zero"
-     ],
-     "correct_index": 1,
-     "explanation": "It is an allocation with no costless improvement possible."
-    },
-    {
-     "question_text": "Productive efficiency means:",
-     "options": [
-      "Distributing goods fairly",
-      "Producing the right goods",
-      "Producing at the lowest possible cost using resources fully",
-      "Maximising consumer choice"
+      "It confines economics to the study of wealth only",
+      "It is restricted to the material welfare of people",
+      "It overlooks growth and welfare and is purely positive",
+      "It ignores the very problem of scarcity itself"
      ],
      "correct_index": 2,
-     "explanation": "Allocative efficiency is producing the goods society wants (P = MC)."
+     "explanation": "Critics said it neglects growth, welfare and normative aspects."
     },
     {
-     "question_text": "Allocative efficiency is achieved when:",
+     "question_text": "Which of these is a genuine limitation of macroeconomics?",
      "options": [
-      "Output is zero",
-      "Cost is minimum",
-      "Profit is zero",
-      "Resources are allocated to produce goods in the combination that society most values"
-     ],
-     "correct_index": 3,
-     "explanation": "Resources are distributed according to consumer preferences."
-    },
-    {
-     "question_text": "Opportunity cost is:",
-     "options": [
-      "The money cost of a good",
-      "The sunk cost",
-      "The total cost",
-      "The value of the next best alternative forgone"
-     ],
-     "correct_index": 3,
-     "explanation": "E.g. the cost of studying is the income you could have earned working."
-    },
-    {
-     "question_text": "The opportunity cost of a free good is zero because:",
-     "options": [
-      "It is scarce",
-      "It is available in unlimited quantity so using it forgoes nothing",
-      "It has high prices",
-      "It has no uses"
-     ],
-     "correct_index": 1,
-     "explanation": "No alternative is sacrificed when a good is not scarce."
-    },
-    {
-     "question_text": "Opportunity cost:",
-     "options": [
-      "Can be in terms of time, goods or satisfaction forgone",
-      "Is always in money terms",
-      "Is always zero",
-      "Is never measurable"
-     ],
-     "correct_index": 0,
-     "explanation": "It is the value of the best alternative, not necessarily money."
-    },
-    {
-     "question_text": "For a student, the opportunity cost of attending college includes:",
-     "options": [
-      "Only fees",
-      "Only books",
-      "Fees plus the earnings forgone by not working",
-      "Nothing"
+      "It is concerned only with the study of prices of goods",
+      "It is a branch of ethics and not of economics",
+      "It may ignore structure and differences inside the economy",
+      "It cannot be used to study aggregate demand at all"
      ],
      "correct_index": 2,
-     "explanation": "Income given up is part of the opportunity cost."
+     "explanation": "Aggregation hides structural differences."
     },
     {
-     "question_text": "A farmer can grow 100 quintals of wheat or 150 quintals of rice. The opportunity cost of 1 quintal of wheat is:",
+     "question_text": "An economy has idle factories and unemployed workers. This implies that:",
      "options": [
-      "1 quintal of rice",
-      "150 quintals of rice",
-      "0.67 quintal of rice",
-      "1.5 quintals of rice"
+      "Its PPC is convex",
+      "It is on its PPC",
+      "It is outside its PPC",
+      "It is inside its PPC"
      ],
      "correct_index": 3,
-     "explanation": "150 rice / 100 wheat = 1.5 quintals of rice per quintal of wheat."
+     "explanation": "Resources are not fully used."
     },
     {
-     "question_text": "The Production Possibility Curve shows:",
+     "question_text": "If an economy shifts resources from consumer goods to capital goods, in the long run the PPC is likely to:",
      "options": [
-      "Combinations of two goods that can be produced with given resources and technology",
-      "Prices of goods",
-      "Demand for goods",
-      "Consumer equilibrium"
-     ],
-     "correct_index": 0,
-     "explanation": "It shows maximum output combinations with full and efficient use of resources."
-    },
-    {
-     "question_text": "An assumption of the PPC is:",
-     "options": [
-      "Resources are unlimited",
-      "More than two goods are produced",
-      "Resources and technology are given and fully employed",
-      "Technology keeps improving"
+      "Shift inward",
+      "Remain unchanged",
+      "Shift outward",
+      "Become straight"
      ],
      "correct_index": 2,
-     "explanation": "Fixed resources, fixed technology, full employment and two goods."
+     "explanation": "More capital raises future capacity."
     },
     {
-     "question_text": "The PPC is concave to the origin because of:",
+     "question_text": "Why does the opportunity cost of producing more of a good rise as the economy shifts resources toward it?",
      "options": [
-      "Decreasing opportunity cost",
-      "Increasing opportunity cost (law of increasing costs)",
-      "Constant opportunity cost",
-      "Zero opportunity cost"
+      "Resources are specialised and not equally suited to both",
+      "The prices of all goods in the economy are rising",
+      "The marginal utility of that good keeps diminishing",
+      "Human wants for the good are unlimited in nature"
      ],
-     "correct_index": 1,
-     "explanation": "Resources are not equally suited to all uses, so each extra unit costs more."
+     "correct_index": 0,
+     "explanation": "Less suitable resources must be moved, so more of the other good is lost per extra unit."
     },
     {
-     "question_text": "Marginal Rate of Transformation (MRT) is:",
+     "question_text": "Which statement is NOT correct about the scope of economics?",
      "options": [
-      "Price ratio",
-      "The rate at which one good must be given up to produce one more unit of another",
-      "The slope of the demand curve",
-      "Rate of substitution of consumers"
+      "It covers consumption, production, exchange and distribution",
+      "It is both positive and normative in parts",
+      "It is concerned with choices under scarcity",
+      "It excludes government policy"
      ],
-     "correct_index": 1,
-     "explanation": "It equals the slope of the PPC and shows the opportunity cost."
+     "correct_index": 3,
+     "explanation": "Public policy is part of economics."
     },
     {
-     "question_text": "If shifting from combination A (0 X, 20 Y) to B (1 X, 18 Y), the opportunity cost of the first unit of X is:",
+     "question_text": "Compared with sociology, economics mainly analyses:",
      "options": [
-      "18 Y",
-      "1 Y",
-      "2 Y",
-      "20 Y"
+      "The choice and allocation of scarce resources",
+      "The behaviour of social groups only",
+      "The cultural values of a community",
+      "The customs and norms of society"
+     ],
+     "correct_index": 0,
+     "explanation": "Its focus is choice under scarcity."
+    },
+    {
+     "question_text": "Which pair correctly matches a branch of economics and an example?",
+     "options": [
+      "Microeconomics – inflation rate in an economy",
+      "Macroeconomics – a firm's cost curve",
+      "Macroeconomics – national unemployment rate",
+      "Microeconomics – GDP growth"
      ],
      "correct_index": 2,
-     "explanation": "20 − 18 = 2 units of Y forgone."
+     "explanation": "Aggregates are macro."
     },
     {
-     "question_text": "A point inside the PPC indicates:",
+     "question_text": "\"The rich should pay more tax\" is a normative statement because it:",
      "options": [
-      "Full employment",
-      "Unemployment or inefficient use of resources",
-      "Economic growth",
-      "Unattainable output"
+      "Refers to a government revenue source",
+      "Can be proved or disproved with data",
+      "Expresses a value judgement about fairness",
+      "Contains a numerical comparison"
      ],
-     "correct_index": 1,
-     "explanation": "Resources are underused, so output is below its potential."
+     "correct_index": 2,
+     "explanation": "\"Should\" reflects a value, not a testable fact."
     },
     {
-     "question_text": "A point outside the PPC indicates:",
+     "question_text": "An economy can produce 100 units of X and 0 of Y, or 0 of X and 50 of Y, with constant opportunity cost. The opportunity cost of 1 unit of Y is:",
      "options": [
-      "Attainable output with present resources",
-      "Unattainable output with current resources and technology",
-      "Efficient production",
-      "Unemployment"
-     ],
-     "correct_index": 1,
-     "explanation": "It requires more resources or better technology."
-    },
-    {
-     "question_text": "Which will shift the PPC outward?",
-     "options": [
-      "Fall in labour force",
-      "Natural disaster",
-      "War destruction",
-      "Improved technology"
+      "0.5 X",
+      "100 X",
+      "50 X",
+      "2 X"
      ],
      "correct_index": 3,
-     "explanation": "Growth in resources or technology expands capacity."
+     "explanation": "100/50 = 2 units of X per unit of Y."
     },
     {
-     "question_text": "Which will shift the PPC inward?",
+     "question_text": "For the same economy, producing 40 units of X means the maximum of Y is:",
      "options": [
-      "Better technology",
-      "Destruction of capital in a war",
-      "Discovery of new resources",
-      "Increase in labour"
+      "20",
+      "30",
+      "40",
+      "10"
      ],
      "correct_index": 1,
-     "explanation": "Loss of resources reduces productive capacity."
+     "explanation": "X = 40 uses 40% of capacity, leaving 60% for Y: 0.6 × 50 = 30."
     },
     {
-     "question_text": "A straight-line PPC implies:",
+     "question_text": "A combination of 60 X and 30 Y for the same economy (PPC: 100 X or 50 Y, straight line) is:",
      "options": [
-      "Decreasing opportunity cost",
-      "Constant opportunity cost",
-      "Zero opportunity cost",
-      "Increasing opportunity cost"
+      "On the PPC",
+      "Inside the PPC",
+      "Outside the PPC",
+      "Cannot be said"
      ],
-     "correct_index": 1,
-     "explanation": "Resources are equally productive in both uses."
+     "correct_index": 2,
+     "explanation": "60/100 + 30/50 = 1.2, which is more than 1, so it is beyond the frontier and unattainable."
     },
     {
-     "question_text": "A pivotal rotation of the PPC shows:",
+     "question_text": "Which of the following will NOT change the shape of a PPC?",
      "options": [
-      "Equal change in capacity of both goods",
-      "Fall in employment",
-      "Fall in prices",
-      "Change in productive capacity for only one good"
+      "Greater unemployment",
+      "Technological progress in one good",
+      "Resource depletion",
+      "Increase in labour force"
+     ],
+     "correct_index": 0,
+     "explanation": "Unemployment moves the point inside the curve; the curve itself stays."
+    },
+    {
+     "question_text": "Which topic is studied under public finance, part of the scope of economics?",
+     "options": [
+      "Pricing of a single firm's product in a market",
+      "Consumer preference between two brands of tea",
+      "The household budget of a family on income",
+      "How governments raise and spend money"
      ],
      "correct_index": 3,
-     "explanation": "Technology improved for only one of the two goods."
+     "explanation": "Public finance studies taxation, public expenditure and public debt."
     },
     {
-     "question_text": "Movement along the PPC differs from a shift of the PPC because movement:",
+     "question_text": "The PPC illustrates opportunity cost because it shows that:",
      "options": [
-      "Reallocates resources between goods with the same capacity",
-      "Changes technology",
-      "Shows growth",
-      "Shows unemployment"
+      "The price levels of the two goods are different",
+      "More of one good means giving up some of the other",
+      "Consumer incomes are unequally distributed in society",
+      "Profit rises as the total output of goods rises"
      ],
-     "correct_index": 0,
-     "explanation": "A shift changes capacity; movement trades one good for the other."
+     "correct_index": 1,
+     "explanation": "The slope represents the sacrifice."
     },
     {
-     "question_text": "The PPC illustrates scarcity, choice and opportunity cost together because:",
+     "question_text": "An increase in the number of skilled workers will most likely:",
      "options": [
-      "It shows the limit of output (scarcity), the choice between goods and the trade-off (opportunity cost)",
-      "It shows only growth",
-      "It shows prices",
-      "It has no limits"
+      "Shift the PPC outward",
+      "Shift the PPC inward",
+      "Make the PPC convex",
+      "Rotate the PPC"
      ],
      "correct_index": 0,
-     "explanation": "Limited frontier = scarcity; points on it = choice; slope = opportunity cost."
+     "explanation": "Capacity rises."
+    },
+    {
+     "question_text": "Using a plot of land for housing instead of farming involves:",
+     "options": [
+      "A sunk cost that was incurred for earlier crops",
+      "The opportunity cost of crops forgone",
+      "No cost, because the land is already owned",
+      "Only the money cost of putting up a building"
+     ],
+     "correct_index": 1,
+     "explanation": "The best alternative use is given up."
+    },
+    {
+     "question_text": "Which statement about the PPC is correct?",
+     "options": [
+      "Points inside the curve show efficient production",
+      "The curve must always be a straight line",
+      "Points outside the curve can be reached with present resources",
+      "Every point on the curve shows efficient use of resources"
+     ],
+     "correct_index": 3,
+     "explanation": "Points on the frontier mean full employment with the best technology."
+    },
+    {
+     "question_text": "The statement \"A fall in the price of tea increases demand for tea, other things being equal\" is:",
+     "options": [
+      "Normative",
+      "Unscientific",
+      "Positive",
+      "Ethical"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a testable cause-effect claim."
+    },
+    {
+     "question_text": "A student cannot decide whether a statement is positive or normative. The most useful test is whether it:",
+     "options": [
+      "Could in principle be checked against data",
+      "Concerns the policies of the government",
+      "Contains numerical figures or percentages",
+      "Is expressed in one long and detailed sentence"
+     ],
+     "correct_index": 0,
+     "explanation": "Positive statements are testable; normative ones express values."
+    },
+    {
+     "question_text": "On a PPC, long-run economic growth requires:",
+     "options": [
+      "Additions to capacity through saving and investment",
+      "A rise in the general level of prices",
+      "A movement along the existing curve",
+      "A fall in the rate of unemployment only"
+     ],
+     "correct_index": 0,
+     "explanation": "Growth shifts the frontier outward."
+    },
+    {
+     "question_text": "The four traditional divisions of economics are:",
+     "options": [
+      "Land, labour, capital and entrepreneurship",
+      "Demand, supply, price and cost",
+      "Money, banking, trade and taxation",
+      "Consumption, production, exchange and distribution"
+     ],
+     "correct_index": 3,
+     "explanation": "They describe the subject matter."
+    },
+    {
+     "question_text": "In which situation is the opportunity cost of using a machine for production lowest?",
+     "options": [
+      "When the machine has no alternative use",
+      "When the machine is new",
+      "When the machine is expensive",
+      "When the machine has many alternative profitable uses"
+     ],
+     "correct_index": 0,
+     "explanation": "Opportunity cost depends on the next-best use; with none, it is zero."
+    },
+    {
+     "question_text": "The basic economic problem is the same for a rich and a poor country because:",
+     "options": [
+      "Both are mixed economies",
+      "Both have equal income",
+      "Both have unlimited resources",
+      "Wants exceed available resources in both"
+     ],
+     "correct_index": 3,
+     "explanation": "Scarcity is universal; only the extent differs."
     }
    ]
   }

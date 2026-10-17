@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 2: Consumer Behaviour – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Utility is subjective because:",
+     "question_text": "A consumer's total utility from 1 to 5 units of a good is 12, 22, 30, 36, 40. The marginal utility of the fourth unit is:",
      "options": [
-      "It is fixed for all goods",
-      "It depends only on price",
-      "It varies from person to person, place and time",
-      "It is measured by the government"
-     ],
-     "correct_index": 2,
-     "explanation": "The same good gives different satisfaction to different people."
-    },
-    {
-     "question_text": "Utility differs from usefulness in that utility:",
-     "options": [
-      "Cannot exist for harmful goods",
-      "Is the want-satisfying power of a good, whether or not the good is beneficial",
-      "Means only health benefit",
-      "Is always moral"
+      "36",
+      "6",
+      "9",
+      "10"
      ],
      "correct_index": 1,
-     "explanation": "A cigarette has utility for a smoker though it is not useful."
+     "explanation": "MU4 = TU4 − TU3 = 36 − 30."
     },
     {
-     "question_text": "Utility has no moral meaning because:",
+     "question_text": "For the same schedule, the average utility from four units is:",
      "options": [
-      "A good has utility if it satisfies a want, regardless of whether the want is desirable",
-      "It is always positive",
-      "It is illegal",
-      "It judges good and bad"
+      "9",
+      "36",
+      "10",
+      "8"
      ],
      "correct_index": 0,
-     "explanation": "Liquor has utility for a drinker even though it is harmful."
+     "explanation": "AU = TU/Q = 36/4."
     },
     {
-     "question_text": "Which is NOT one of Marshall's forms of utility?",
+     "question_text": "A consumer's marginal utilities from successive units are 20, 14, 8, 2, −3. Total utility is maximum after the:",
      "options": [
-      "Place utility",
-      "Profit utility",
-      "Time utility",
-      "Form utility"
-     ],
-     "correct_index": 1,
-     "explanation": "Form, place, time, service and possession utility."
-    },
-    {
-     "question_text": "The cardinal utility approach assumes utility:",
-     "options": [
-      "Can be measured in numbers called utils",
-      "Can only be ranked",
-      "Cannot be measured",
-      "Is constant"
+      "fourth unit",
+      "fifth unit",
+      "first unit",
+      "third unit"
      ],
      "correct_index": 0,
-     "explanation": "It is the basis of Marshall's marginal utility analysis."
+     "explanation": "TU is highest where MU is still positive and next MU turns negative; the sum is highest after the 4th unit (44)."
     },
     {
-     "question_text": "The ordinal utility approach assumes utility:",
+     "question_text": "When marginal utility is positive but falling, total utility:",
      "options": [
-      "Can only be ranked in order of preference",
-      "Is always constant",
-      "Is measurable in utils",
-      "Is objective"
-     ],
-     "correct_index": 0,
-     "explanation": "Hicks and Allen: consumers can rank bundles as first, second, third."
-    },
-    {
-     "question_text": "Which pair is correct?",
-     "options": [
-      "Ordinal – Marshall",
-      "Cardinal – indifference curves",
-      "Cardinal – Marshall; Ordinal – Hicks and Allen",
-      "Ordinal – marginal utility curves"
-     ],
-     "correct_index": 2,
-     "explanation": "Cardinal approach is Marshall's; ordinal is Hicks and Allen's."
-    },
-    {
-     "question_text": "The ordinal approach is considered more realistic because it:",
-     "options": [
-      "Assumes utility is measurable",
-      "Ignores prices",
-      "Uses utils",
-      "Needs only ranking and not a constant MU of money"
-     ],
-     "correct_index": 3,
-     "explanation": "Consumers can rank preferences but cannot measure satisfaction exactly."
-    },
-    {
-     "question_text": "Total utility (TU) is:",
-     "options": [
-      "The sum of marginal utilities, TU = ΣMU",
-      "MU divided by Q",
-      "Price × quantity",
-      "The utility of the last unit"
-     ],
-     "correct_index": 0,
-     "explanation": "It is the total satisfaction from all units consumed."
-    },
-    {
-     "question_text": "Marginal utility is:",
-     "options": [
-      "TU divided by quantity",
-      "The total utility of all units",
-      "The price paid",
-      "ΔTU/ΔQ – the addition to TU from one more unit"
-     ],
-     "correct_index": 3,
-     "explanation": "MUn = TUn − TUn−1."
-    },
-    {
-     "question_text": "Average utility is calculated as:",
-     "options": [
-      "TU × Q",
-      "TU/Q",
-      "ΔTU/ΔQ",
-      "MU/Q"
-     ],
-     "correct_index": 1,
-     "explanation": "AU = total utility divided by number of units."
-    },
-    {
-     "question_text": "When MU is positive but falling, TU:",
-     "options": [
-      "Rises at an increasing rate",
-      "Is constant",
-      "Rises at a diminishing rate",
-      "Falls"
-     ],
-     "correct_index": 2,
-     "explanation": "Each extra unit still adds to TU but by less."
-    },
-    {
-     "question_text": "When MU is zero, TU is:",
-     "options": [
-      "Falling",
-      "At its maximum",
-      "Zero",
-      "Rising fastest"
-     ],
-     "correct_index": 1,
-     "explanation": "This is the point of satiety."
-    },
-    {
-     "question_text": "The point of satiety is where:",
-     "options": [
-      "MU is maximum",
-      "MU is zero and TU is maximum",
-      "MU is negative",
-      "TU is zero"
-     ],
-     "correct_index": 1,
-     "explanation": "The consumer is fully satisfied with no further gain."
-    },
-    {
-     "question_text": "Disutility means:",
-     "options": [
-      "Negative marginal utility – dissatisfaction from additional consumption",
-      "Lack of money",
-      "Maximum satisfaction",
-      "Zero satisfaction"
-     ],
-     "correct_index": 0,
-     "explanation": "Consuming beyond satiety reduces total satisfaction."
-    },
-    {
-     "question_text": "When MU is negative, TU:",
-     "options": [
-      "Rises",
-      "Falls",
-      "Remains unchanged",
-      "Doubles"
-     ],
-     "correct_index": 1,
-     "explanation": "Additional units reduce total satisfaction."
-    },
-    {
-     "question_text": "If TU = 10, 18, 24, 28, 30, the MU of the units is:",
-     "options": [
-      "10, 8, 6, 4, 2",
-      "10, 28, 52, 80, 110",
-      "8, 6, 4, 2, 0",
-      "10, 18, 24, 28, 30"
-     ],
-     "correct_index": 0,
-     "explanation": "MU = change in TU: 10, 18−10, 24−18, 28−24, 30−28."
-    },
-    {
-     "question_text": "If MU = 40, 30, 20, 10, 0, the TU of the five units is:",
-     "options": [
-      "40, 80, 120, 160, 200",
-      "100, 60, 30, 10, 0",
-      "40, 30, 20, 10, 0",
-      "40, 70, 90, 100, 100"
-     ],
-     "correct_index": 3,
-     "explanation": "TU is the running sum of MU."
-    },
-    {
-     "question_text": "TU from 4 units is 68 and from 5 units is 68. The MU of the fifth unit is:",
-     "options": [
-      "0",
-      "1",
-      "68",
-      "136"
-     ],
-     "correct_index": 0,
-     "explanation": "The change in TU is 68 − 68 = 0."
-    },
-    {
-     "question_text": "The Law of Diminishing Marginal Utility states that as more units are consumed, MU of each additional unit:",
-     "options": [
-      "Rises",
-      "Becomes infinite",
+      "Rises at a decreasing rate",
       "Stays constant",
-      "Falls, other things remaining constant"
-     ],
-     "correct_index": 3,
-     "explanation": "Each successive unit satisfies a less urgent want."
-    },
-    {
-     "question_text": "The law of DMU is credited to:",
-     "options": [
-      "Gossen (developed by Marshall)",
-      "Ricardo",
-      "Keynes",
-      "Robbins"
+      "Rises at an increasing rate",
+      "Falls at an increasing rate"
      ],
      "correct_index": 0,
-     "explanation": "It is also known as Gossen's First Law."
+     "explanation": "Each extra unit still adds to TU, but by less."
     },
     {
-     "question_text": "A schedule showing TU 30, 50, 62, 68 for 1 to 4 units illustrates DMU because:",
+     "question_text": "Which statement about the point of satiety is correct?",
      "options": [
-      "TU falls",
-      "TU is constant",
-      "MU falls: 30, 20, 12, 6",
-      "MU rises"
-     ],
-     "correct_index": 2,
-     "explanation": "Falling MU as consumption rises is the law of DMU."
-    },
-    {
-     "question_text": "In a DMU diagram, the MU curve:",
-     "options": [
-      "Slopes upward",
-      "Slopes downward from left to right",
-      "Is horizontal",
-      "Is vertical"
-     ],
-     "correct_index": 1,
-     "explanation": "MU falls as quantity increases."
-    },
-    {
-     "question_text": "An assumption of the law of DMU is:",
-     "options": [
-      "Consumption is intermittent",
-      "Tastes and income remain unchanged",
-      "Units consumed are of varying size",
-      "Utility is ordinal"
-     ],
-     "correct_index": 1,
-     "explanation": "Other things like tastes, income and habits are constant."
-    },
-    {
-     "question_text": "\"Homogeneous units\" matter in DMU because:",
-     "options": [
-      "They reduce income",
-      "They raise prices",
-      "They allow variety",
-      "They make goods identical, so MU change is due only to quantity consumed"
+      "MU equals price and TU is zero",
+      "MU is negative and TU is maximum",
+      "MU is maximum and TU is zero",
+      "MU is zero and TU is at its maximum"
      ],
      "correct_index": 3,
-     "explanation": "If units differed in quality or size, MU might not diminish."
-    }
-   ]
-  },
-  {
-   "title": "Unit 2: Consumer Behaviour – Practice Test 2",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "MU diminishes because:",
-     "options": [
-      "Income rises",
-      "Goods become scarce",
-      "Successive units satisfy less intense wants",
-      "Prices fall"
-     ],
-     "correct_index": 2,
-     "explanation": "The most urgent want is satisfied first."
+     "explanation": "Additional consumption adds nothing at satiety."
     },
     {
-     "question_text": "Which is an exception to the law of DMU?",
+     "question_text": "The law of diminishing marginal utility assumes that:",
      "options": [
-      "Water on a hot day",
-      "Ordinary bread",
-      "Collection of rare stamps or coins",
-      "Food for a hungry person"
+      "Units consumed are of different sizes and qualities",
+      "Consumer income rises with each unit",
+      "Consumption is continuous and the consumer's taste is unchanged",
+      "The marginal utility of money keeps changing"
      ],
      "correct_index": 2,
-     "explanation": "Hobbies and collections can give increasing MU."
+     "explanation": "Standard identical units, continuous consumption and constant tastes are assumed."
     },
     {
-     "question_text": "About the law of DMU and money:",
+     "question_text": "A collector's satisfaction from each additional rare stamp rises as the set nears completion. This is an:",
      "options": [
-      "It is said not to apply to misers whose desire for money increases with wealth",
-      "It does not apply to goods",
-      "It never applies",
-      "It applies only to misers"
+      "Illustration of consumer surplus",
+      "Exception to the law of DMU",
+      "Application of the law of DMU",
+      "Example of equi-marginal utility"
+     ],
+     "correct_index": 1,
+     "explanation": "Collections and hobbies can show increasing marginal utility."
+    },
+    {
+     "question_text": "The diamond–water paradox is explained by distinguishing:",
+     "options": [
+      "Total utility and marginal utility",
+      "Cardinal and ordinal utility",
+      "Income and substitution effects",
+      "Stock and flow"
      ],
      "correct_index": 0,
-     "explanation": "Misers are traditionally cited as an exception."
+     "explanation": "Water has high total but low marginal utility due to abundance."
     },
     {
-     "question_text": "For a collection hobby the law of DMU:",
+     "question_text": "Progressive taxation is justified using diminishing marginal utility on the ground that:",
      "options": [
-      "Is meaningless",
-      "Applies fully",
-      "May not apply as each additional item can raise satisfaction",
-      "Gives zero utility"
-     ],
-     "correct_index": 2,
-     "explanation": "The collector's MU may rise as the collection nears completion."
-    },
-    {
-     "question_text": "The diamond–water paradox arises because water has:",
-     "options": [
-      "High total utility but low marginal utility due to abundance, while diamonds are the opposite",
-      "Zero utility",
-      "Low total utility",
-      "High price"
-     ],
-     "correct_index": 0,
-     "explanation": "Price reflects marginal utility, not total utility."
-    },
-    {
-     "question_text": "The law of DMU is the basis of the law of demand because:",
-     "options": [
-      "Consumers pay more for each extra unit",
-      "MU rises with consumption",
-      "Price is constant",
-      "Consumers are willing to pay less for extra units as MU falls"
+      "The poor save a larger share of their incomes than the rich",
+      "The rich consume a wider range of goods than the poor",
+      "A rupee gives the same utility to the rich and the poor",
+      "The marginal utility of money falls as income rises"
      ],
      "correct_index": 3,
-     "explanation": "Falling MU means lower willingness to pay, so demand slopes down."
+     "explanation": "A rupee of tax costs a rich person less satisfaction than a poor person."
     },
     {
-     "question_text": "Progressive taxation is supported by DMU because:",
+     "question_text": "A consumer buys X at Rs 4 (MU = 24) and Y at Rs 6 (MU = 30). He should:",
      "options": [
-      "Rich consumers have zero utility",
-      "MU of money rises with income",
-      "The poor gain from taxes",
-      "MU of money falls as income rises, so the rich lose less satisfaction from a rupee of tax"
+      "Buy only Y",
+      "Buy more of Y and less of X",
+      "Make no change",
+      "Buy more of X and less of Y"
      ],
      "correct_index": 3,
-     "explanation": "Taxing higher incomes at higher rates equalises sacrifice."
+     "explanation": "MUx/Px = 6 > MUy/Py = 5, so X gives more utility per rupee."
     },
     {
-     "question_text": "An importance of the law of DMU is that it:",
+     "question_text": "A consumer is in equilibrium with MUx = 18 and Px = Rs 3. The marginal utility of a rupee (MUm) is:",
      "options": [
-      "Proves supply",
-      "Sets prices",
-      "Explains downward-sloping demand and the diamond–water paradox",
-      "Removes scarcity"
-     ],
-     "correct_index": 2,
-     "explanation": "It underlies several consumer theories."
-    },
-    {
-     "question_text": "A limitation of the law of DMU is that it:",
-     "options": [
-      "Needs no assumptions",
-      "Applies to every good",
-      "Assumes utility is measurable and holds only under given assumptions",
-      "Is exact in all conditions"
-     ],
-     "correct_index": 2,
-     "explanation": "Cardinal measurement and ceteris paribus restrict its validity."
-    },
-    {
-     "question_text": "The Law of Equi-Marginal Utility says a consumer maximises satisfaction when:",
-     "options": [
-      "MU per rupee spent is equal across goods",
-      "Prices are equal",
-      "MU is maximum",
-      "He buys one good"
-     ],
-     "correct_index": 0,
-     "explanation": "MUx/Px = MUy/Py = MUm."
-    },
-    {
-     "question_text": "An assumption of the law of equi-marginal utility is:",
-     "options": [
-      "Changing tastes",
-      "Limited income and independent utilities of goods",
-      "Irrational consumer",
-      "Unlimited income"
+      "0.17",
+      "6",
+      "15",
+      "54"
      ],
      "correct_index": 1,
-     "explanation": "Plus rationality, cardinal utility and constant MU of money."
+     "explanation": "MUx/Px = MUm = 18/3."
     },
     {
-     "question_text": "If a schedule shows MUx/Px equal to MUy/Py after spending all income, the consumer is:",
+     "question_text": "If MUx/Px = 8 and MUy/Py = 8 and the consumer spends all income, then:",
      "options": [
-      "In equilibrium",
-      "Not in equilibrium",
-      "Irrational",
-      "Out of money"
-     ],
-     "correct_index": 0,
-     "explanation": "Equal marginal utility per rupee means no gain from reallocating."
-    },
-    {
-     "question_text": "If MUx/Px > MUy/Py, the consumer should:",
-     "options": [
-      "Buy neither",
-      "Buy equal amounts",
-      "Buy more Y and less X",
-      "Buy more X and less Y"
+      "He should buy more of Y",
+      "He is spending more than income",
+      "He should buy more of X",
+      "He is in equilibrium"
      ],
      "correct_index": 3,
-     "explanation": "He gains by shifting spending to X until ratios are equal."
+     "explanation": "Equal marginal utility per rupee means no reallocation gains."
     },
     {
-     "question_text": "MUx = 20, Px = 4, MUy = 18, Py = 3. The consumer should buy more of:",
+     "question_text": "A consumer is willing to pay Rs 50 for the first unit, Rs 40 for the second and Rs 30 for the third. Price is Rs 30 and he buys 3 units. Consumer surplus is:",
      "options": [
-      "Y, since 6 > 5",
-      "X, since 20 > 18",
-      "Neither",
-      "Both equally"
+      "Rs 30",
+      "Rs 60",
+      "Rs 30 per unit",
+      "Rs 120"
      ],
      "correct_index": 0,
-     "explanation": "MUx/Px = 5 and MUy/Py = 6, so Y gives more utility per rupee."
+     "explanation": "(50−30)+(40−30)+(30−30) = 30."
     },
     {
-     "question_text": "The law of equi-marginal utility applies to:",
+     "question_text": "If a consumer pays Rs 35 for a book he values at Rs 50, his consumer surplus is:",
      "options": [
-      "Consumption only",
-      "Consumption, production, public finance and saving decisions",
-      "Only taxes",
-      "Only government"
-     ],
-     "correct_index": 1,
-     "explanation": "Any allocation of limited resources among competing uses."
-    },
-    {
-     "question_text": "Consumer surplus is the difference between:",
-     "options": [
-      "Income and savings",
-      "Total and average utility",
-      "What a consumer is willing to pay and what he actually pays",
-      "Price and cost"
-     ],
-     "correct_index": 2,
-     "explanation": "It is the extra satisfaction a buyer gets."
-    },
-    {
-     "question_text": "The concept of consumer surplus was introduced by:",
-     "options": [
-      "Adam Smith",
-      "Alfred Marshall",
-      "Hicks",
-      "Robbins"
-     ],
-     "correct_index": 1,
-     "explanation": "Marshall developed it from Dupuit's idea."
-    },
-    {
-     "question_text": "Consumer surplus equals:",
-     "options": [
-      "Price × quantity",
-      "Total utility − (price × quantity)",
-      "MU × Q",
-      "TU + MU"
-     ],
-     "correct_index": 1,
-     "explanation": "Total utility minus actual payment."
-    },
-    {
-     "question_text": "Willingness to pay Rs. 50 for a book priced Rs. 35 gives a consumer surplus of:",
-     "options": [
-      "Rs. 50",
-      "Rs. 35",
-      "Rs. 15",
-      "Rs. 85"
-     ],
-     "correct_index": 2,
-     "explanation": "50 − 35 = Rs. 15."
-    },
-    {
-     "question_text": "In a schedule, consumer surplus for a unit is:",
-     "options": [
-      "Price × quantity",
-      "Price paid",
-      "MU",
-      "Value placed on the unit minus the price"
-     ],
-     "correct_index": 3,
-     "explanation": "Add these gains across units to get total CS."
-    },
-    {
-     "question_text": "In a demand diagram, consumer surplus is the area:",
-     "options": [
-      "Below the supply curve",
-      "Between the demand curve and the price line",
-      "Under the price line",
-      "Above the demand curve"
-     ],
-     "correct_index": 1,
-     "explanation": "The triangle between demand and the market price."
-    },
-    {
-     "question_text": "A limitation of consumer surplus is that:",
-     "options": [
-      "It is always positive",
-      "It can be measured exactly",
-      "It is valid for all goods",
-      "Utility is not measurable and MU of money is not constant"
-     ],
-     "correct_index": 3,
-     "explanation": "These weaken precise measurement."
-    },
-    {
-     "question_text": "An importance of consumer surplus is that it:",
-     "options": [
-      "Shows the gain from exchange and helps in taxation and welfare analysis",
-      "Removes scarcity",
-      "Sets prices",
-      "Proves supply"
+      "Rs 15",
+      "Rs 35",
+      "Rs 85",
+      "Rs 50"
      ],
      "correct_index": 0,
-     "explanation": "It measures benefits consumers get above what they pay."
+     "explanation": "Willingness to pay minus price paid."
     },
     {
-     "question_text": "Consumer surplus cannot be measured accurately because:",
+     "question_text": "Which factor most clearly weakens the measurement of consumer surplus?",
      "options": [
-      "Goods are free",
-      "Utility cannot be measured exactly and willingness to pay is subjective",
-      "Prices are unknown",
-      "There are no consumers"
-     ],
-     "correct_index": 1,
-     "explanation": "Subjective valuations and changing MU of money prevent precision."
-    },
-    {
-     "question_text": "An indifference curve shows:",
-     "options": [
-      "Income levels",
-      "Combinations with different satisfaction",
-      "Combinations of two goods giving the same satisfaction",
-      "Price changes"
+      "The income of the consumer is always positive",
+      "The market price of the good is fixed for all buyers",
+      "The marginal utility of money does not stay constant",
+      "The quantity bought is measured in discrete units"
      ],
      "correct_index": 2,
-     "explanation": "The consumer is indifferent between all points."
-    }
-   ]
-  },
-  {
-   "title": "Unit 2: Consumer Behaviour – Practice Test 3",
-   "duration_minutes": 25,
-   "questions": [
+     "explanation": "Marshall assumed a constant MU of money; in reality it changes with income and spending."
+    },
     {
-     "question_text": "The indifference curve approach was developed by:",
+     "question_text": "The cardinal approach to utility is associated with:",
      "options": [
       "Hicks and Allen",
-      "Gossen",
-      "Smith",
+      "Pareto",
+      "Edgeworth only",
       "Marshall"
      ],
+     "correct_index": 3,
+     "explanation": "Marshall used measurable utility in utils."
+    },
+    {
+     "question_text": "The ordinal approach needs the consumer to:",
+     "options": [
+      "Measure utility in utils",
+      "Rank bundles in order of preference",
+      "Spend all income on one good",
+      "Know the marginal utility of money"
+     ],
+     "correct_index": 1,
+     "explanation": "It requires only ranking."
+    },
+    {
+     "question_text": "An indifference curve shows combinations of two goods that yield:",
+     "options": [
+      "The same cost",
+      "The same satisfaction",
+      "The same price ratio",
+      "The same quantity"
+     ],
+     "correct_index": 1,
+     "explanation": "The consumer is indifferent among them."
+    },
+    {
+     "question_text": "Along an indifference curve, MRS of X for Y falls because:",
+     "options": [
+      "With more X held, the consumer will give up less Y per extra X",
+      "The budget line gets flatter as quantity of X increases",
+      "The price of X is falling as more is bought",
+      "The consumer's income rises as he moves down the curve"
+     ],
      "correct_index": 0,
-     "explanation": "Introduced by Edgeworth, developed by Hicks and Allen (1934)."
-    },
-    {
-     "question_text": "An indifference schedule lists:",
-     "options": [
-      "Prices of goods",
-      "Combinations of two goods that give equal satisfaction",
-      "Costs",
-      "Income levels"
-     ],
-     "correct_index": 1,
-     "explanation": "E.g. 1 apple + 12 oranges, 2 + 8 etc., all equally satisfying."
-    },
-    {
-     "question_text": "An indifference map is:",
-     "options": [
-      "One indifference curve",
-      "A set of indifference curves, with higher curves showing higher satisfaction",
-      "A demand curve",
-      "A budget line"
-     ],
-     "correct_index": 1,
-     "explanation": "It represents the consumer's whole preference ordering."
-    },
-    {
-     "question_text": "MRS is the rate at which a consumer is willing to:",
-     "options": [
-      "Produce goods",
-      "Pay taxes",
-      "Save income",
-      "Give up units of one good for an additional unit of another, keeping satisfaction constant"
-     ],
-     "correct_index": 3,
-     "explanation": "MRSxy = −ΔY/ΔX."
-    },
-    {
-     "question_text": "MRS diminishes because:",
-     "options": [
-      "Prices rise",
-      "Income falls",
-      "Y becomes cheaper",
-      "As more X is held, X becomes less valuable relative to Y"
-     ],
-     "correct_index": 3,
-     "explanation": "The consumer is willing to give up less Y for each extra X."
+     "explanation": "X becomes less valuable relative to Y as its quantity rises."
     },
     {
      "question_text": "MRSxy equals:",
      "options": [
+      "Px × Py",
       "MUy/MUx",
       "MUx/MUy",
-      "MUx × MUy",
-      "Px × Py"
-     ],
-     "correct_index": 1,
-     "explanation": "The ratio of marginal utilities."
-    },
-    {
-     "question_text": "The IC slopes downward because:",
-     "options": [
-      "Prices fall",
-      "More of one good must be offset by less of the other to keep satisfaction constant",
-      "Both goods increase",
-      "Income rises"
-     ],
-     "correct_index": 1,
-     "explanation": "If both increased, satisfaction would also rise."
-    },
-    {
-     "question_text": "The IC is convex to the origin because of:",
-     "options": [
-      "Zero MRS",
-      "Constant MRS",
-      "Rising MRS",
-      "Diminishing MRS"
-     ],
-     "correct_index": 3,
-     "explanation": "The slope flattens as more X is substituted for Y."
-    },
-    {
-     "question_text": "Two ICs cannot intersect because it would:",
-     "options": [
-      "Lower prices",
-      "Raise income",
-      "Violate consistency and transitivity of preferences",
-      "Change tastes"
+      "ΔX/ΔY"
      ],
      "correct_index": 2,
-     "explanation": "The intersection point would imply two satisfaction levels."
+     "explanation": "MRSxy = MUx/MUy."
     },
     {
-     "question_text": "A higher IC represents higher satisfaction because it has:",
+     "question_text": "Two indifference curves cannot intersect because the intersection would:",
      "options": [
-      "Lower prices",
-      "Less of both goods",
-      "More of at least one good",
-      "The same quantities"
-     ],
-     "correct_index": 2,
-     "explanation": "By non-satiation, more is preferred to less."
-    },
-    {
-     "question_text": "An IC does not touch either axis because:",
-     "options": [
-      "The consumer buys both goods",
-      "Only one good is consumed",
-      "Income is zero",
-      "Prices are zero"
+      "Give two satisfaction levels to one bundle, violating transitivity",
+      "Make the two curves parallel at every other point",
+      "Turn the slope of both curves from negative to positive",
+      "Imply a change in the consumer's money income"
      ],
      "correct_index": 0,
-     "explanation": "Touching an axis would mean consuming only one good."
+     "explanation": "Consistent preferences forbid it."
     },
     {
-     "question_text": "Which is an assumption of IC analysis?",
+     "question_text": "If two goods are perfect substitutes, the indifference curve is:",
      "options": [
-      "Cardinal measurability of utility",
-      "Rational consumer with consistent preferences",
-      "Changing tastes",
-      "Constant MRS"
+      "A straight line with constant MRS",
+      "L-shaped with a right angle",
+      "Convex to the origin with falling MRS",
+      "Concave to the origin with rising MRS"
      ],
-     "correct_index": 1,
-     "explanation": "Also ordinal utility, non-satiation and diminishing MRS."
-    },
-    {
-     "question_text": "For perfect substitutes the IC is:",
-     "options": [
-      "Convex",
-      "Vertical",
-      "L-shaped",
-      "A straight line with constant MRS"
-     ],
-     "correct_index": 3,
+     "correct_index": 0,
      "explanation": "The consumer substitutes at a constant rate."
     },
     {
-     "question_text": "For perfect complements the IC is:",
+     "question_text": "Right shoes and left shoes are best represented by indifference curves that are:",
      "options": [
-      "L-shaped, e.g. left and right shoes",
-      "A straight line",
-      "Horizontal",
-      "Convex"
-     ],
-     "correct_index": 0,
-     "explanation": "Goods are consumed in a fixed proportion."
-    },
-    {
-     "question_text": "For a neutral good the IC is:",
-     "options": [
-      "A straight line parallel to an axis",
-      "Concave",
+      "Convex and smooth",
+      "Straight lines",
       "L-shaped",
-      "Convex"
-     ],
-     "correct_index": 0,
-     "explanation": "Changing the quantity of a neutral good does not change satisfaction."
-    },
-    {
-     "question_text": "A budget line shows:",
-     "options": [
-      "Production possibilities",
-      "Costs",
-      "Satisfaction levels",
-      "Combinations of two goods the consumer can buy with given income and prices"
-     ],
-     "correct_index": 3,
-     "explanation": "It is the boundary of affordable bundles."
-    },
-    {
-     "question_text": "The equation of the budget line is:",
-     "options": [
-      "M = Px + Py",
-      "M = X − Y",
-      "M = X/Y",
-      "M = Px·X + Py·Y"
-     ],
-     "correct_index": 3,
-     "explanation": "Total expenditure equals income."
-    },
-    {
-     "question_text": "Income Rs. 200, Px = 10, Py = 20. The X-axis and Y-axis intercepts are:",
-     "options": [
-      "2 and 1",
-      "200 and 200",
-      "20 and 10",
-      "10 and 20"
+      "Vertical lines"
      ],
      "correct_index": 2,
-     "explanation": "M/Px = 20 and M/Py = 10."
+     "explanation": "Perfect complements are used in fixed proportions."
     },
     {
-     "question_text": "The slope of the budget line equals:",
+     "question_text": "Income is Rs 600, Px = Rs 20 and Py = Rs 30. The maximum quantity of Y that can be bought is:",
      "options": [
-      "Px/Py (in absolute value)",
-      "Py/Px",
-      "M/Px",
-      "MUx/MUy"
+      "20",
+      "10",
+      "30",
+      "60"
      ],
      "correct_index": 0,
-     "explanation": "It shows the relative price of X in terms of Y."
+     "explanation": "M/Py = 600/30."
     },
     {
-     "question_text": "A point inside the budget line means:",
+     "question_text": "With M = 600, Px = 20, Py = 30, the slope of the budget line is:",
      "options": [
-      "Affordable, but part of income is unspent",
-      "Exactly exhausts income",
-      "Unaffordable",
-      "Illegal"
-     ],
-     "correct_index": 0,
-     "explanation": "The bundle costs less than income."
-    },
-    {
-     "question_text": "A point outside the budget line means:",
-     "options": [
-      "Unaffordable with the given income",
-      "Cheapest",
-      "Optimal",
-      "Affordable"
-     ],
-     "correct_index": 0,
-     "explanation": "It costs more than the consumer's income."
-    },
-    {
-     "question_text": "When income rises with prices constant, the budget line:",
-     "options": [
-      "Does not change",
-      "Shifts parallel inward",
-      "Shifts parallel outward",
-      "Pivots"
-     ],
-     "correct_index": 2,
-     "explanation": "Both intercepts rise proportionally; slope is unchanged."
-    },
-    {
-     "question_text": "When Px falls, the budget line:",
-     "options": [
-      "Does not move",
-      "Pivots outward along the X-axis",
-      "Shifts parallel inward",
-      "Pivots inward on the X-axis"
+      "−30",
+      "−2/3",
+      "−20",
+      "−3/2"
      ],
      "correct_index": 1,
-     "explanation": "The X-intercept M/Px increases."
-    },
-    {
-     "question_text": "When Py rises, the budget line:",
-     "options": [
-      "Pivots outward",
-      "Is unchanged",
-      "Pivots inward on the Y-axis",
-      "Shifts parallel outward"
-     ],
-     "correct_index": 2,
-     "explanation": "The Y-intercept M/Py decreases."
-    },
-    {
-     "question_text": "If both prices fall by the same percentage, the budget line:",
-     "options": [
-      "Shifts parallel outward",
-      "Is unchanged",
-      "Shifts parallel inward",
-      "Pivots"
-     ],
-     "correct_index": 0,
-     "explanation": "Real income rises while the price ratio stays the same."
+     "explanation": "Slope = −Px/Py = −20/30."
     }
    ]
   },
   {
+   "rev": 2,
+   "title": "Unit 2: Consumer Behaviour – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A rise in income with constant prices shifts the budget line:",
+     "options": [
+      "Pivots on the X-axis",
+      "Parallel inward",
+      "Pivots on the Y-axis",
+      "Parallel outward"
+     ],
+     "correct_index": 3,
+     "explanation": "Both intercepts rise proportionately."
+    },
+    {
+     "question_text": "A fall in Px with M and Py constant makes the budget line:",
+     "options": [
+      "Pivot inward on the X-axis",
+      "Pivot outward on the X-axis",
+      "Shift parallel outward",
+      "Shift parallel inward"
+     ],
+     "correct_index": 1,
+     "explanation": "The X-intercept M/Px rises."
+    },
+    {
+     "question_text": "If both prices double and income doubles, the budget line:",
+     "options": [
+      "Shifts inward",
+      "Pivots",
+      "Shifts outward",
+      "Remains unchanged"
+     ],
+     "correct_index": 3,
+     "explanation": "Real income is unchanged."
+    },
+    {
+     "question_text": "A point lying inside the budget line means that the bundle is:",
+     "options": [
+      "Costing exactly the whole of income",
+      "Affordable with some income left unspent",
+      "The best bundle on the highest indifference curve",
+      "Unaffordable at the given prices"
+     ],
+     "correct_index": 1,
+     "explanation": "Its cost is below income."
+    },
+    {
+     "question_text": "Consumer equilibrium in the ordinal approach occurs where:",
+     "options": [
+      "IC and budget lines are parallel at all points",
+      "The budget line is tangent to the highest attainable IC",
+      "The IC touches the axis",
+      "The budget line cuts an indifference curve"
+     ],
+     "correct_index": 1,
+     "explanation": "MRS equals the price ratio at the tangency."
+    },
+    {
+     "question_text": "At equilibrium MRSxy = 2 and Px = Rs 10. Therefore Py is:",
+     "options": [
+      "Rs 5",
+      "Rs 2",
+      "Rs 20",
+      "Rs 12"
+     ],
+     "correct_index": 0,
+     "explanation": "MRS = Px/Py → 2 = 10/Py."
+    },
+    {
+     "question_text": "If MRSxy > Px/Py, the consumer should:",
+     "options": [
+      "Buy more of both",
+      "Buy more Y and less X",
+      "Stay put",
+      "Buy more X and less Y"
+     ],
+     "correct_index": 3,
+     "explanation": "He values X more than the market does."
+    },
+    {
+     "question_text": "The second-order (sufficient) condition for consumer equilibrium in the ordinal approach is that:",
+     "options": [
+      "Utility is at its maximum for each good separately",
+      "The budget line is a straight line with a negative slope",
+      "The IC is convex to the origin where it touches the budget line",
+      "MRS equals the ratio of prices at the chosen bundle"
+     ],
+     "correct_index": 2,
+     "explanation": "MRS must be diminishing at the tangency."
+    },
+    {
+     "question_text": "A corner solution occurs when the consumer:",
+     "options": [
+      "Faces a negative price",
+      "Has zero income",
+      "Buys both goods in equal quantity",
+      "Spends all income on one good only"
+     ],
+     "correct_index": 3,
+     "explanation": "The tangency condition fails at an axis."
+    },
+    {
+     "question_text": "The income-consumption curve joins equilibrium points as:",
+     "options": [
+      "Both prices change in the same proportion",
+      "The price of X changes with income and Y constant",
+      "Tastes change with prices and income constant",
+      "Income changes while prices stay constant"
+     ],
+     "correct_index": 3,
+     "explanation": "ICC traces the effect of income on the consumer's choice."
+    },
+    {
+     "question_text": "For an inferior good, the income-consumption curve:",
+     "options": [
+      "Is a vertical line",
+      "Bends backward",
+      "Slopes upward throughout",
+      "Is horizontal"
+     ],
+     "correct_index": 1,
+     "explanation": "Consumption falls as income rises beyond a point."
+    },
+    {
+     "question_text": "The Engel curve relates:",
+     "options": [
+      "Income to quantity demanded",
+      "Price to quantity",
+      "Cost to output",
+      "Utility to income"
+     ],
+     "correct_index": 0,
+     "explanation": "Derived from the ICC."
+    },
+    {
+     "question_text": "The price-consumption curve is used to derive the:",
+     "options": [
+      "Demand curve",
+      "Engel curve",
+      "Supply curve",
+      "Cost curve"
+     ],
+     "correct_index": 0,
+     "explanation": "Plot price against quantity at each equilibrium."
+    },
+    {
+     "question_text": "The price effect is equal to:",
+     "options": [
+      "Substitution effect only",
+      "Income effect − substitution effect",
+      "Substitution effect + income effect",
+      "Income effect only"
+     ],
+     "correct_index": 2,
+     "explanation": "Price effect has two parts."
+    },
+    {
+     "question_text": "When the price of a good falls, the substitution effect on the quantity demanded of that good is:",
+     "options": [
+      "Negative in the price–quantity sense: more of it is bought",
+      "Positive in direction, as the consumer buys less of it",
+      "Ambiguous, depending on whether the good is inferior",
+      "Zero, because real income is held constant"
+     ],
+     "correct_index": 0,
+     "explanation": "It always moves quantity opposite to price."
+    },
+    {
+     "question_text": "For a normal good, the income effect of a fall in its price works:",
+     "options": [
+      "More strongly than the price effect taken together",
+      "With zero effect, as real income is unchanged",
+      "Against the substitution effect, reducing the quantity",
+      "In the same direction as the substitution effect"
+     ],
+     "correct_index": 3,
+     "explanation": "Both increase the quantity demanded."
+    },
+    {
+     "question_text": "A Giffen good is one for which:",
+     "options": [
+      "Demand is perfectly elastic at the going price",
+      "Both the substitution and income effects are positive",
+      "A strong negative income effect outweighs the substitution effect",
+      "The substitution effect outweighs a weak income effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Quantity demanded rises when price rises."
+    },
+    {
+     "question_text": "Which statement is true of a Giffen good?",
+     "options": [
+      "It is an inferior good taking a large share of income",
+      "It is a luxury good bought for prestige and status",
+      "It is a normal good with high income elasticity",
+      "It has a negative price effect like other goods"
+     ],
+     "correct_index": 0,
+     "explanation": "Giffen goods are strongly inferior and important in the budget."
+    },
+    {
+     "question_text": "According to the ordinal analysis, the demand curve slopes downward for:",
+     "options": [
+      "No class of goods, since utility cannot be measured",
+      "Normal goods and inferior goods with a weak income effect",
+      "Giffen goods only and for no other class",
+      "All inferior goods without exception"
+     ],
+     "correct_index": 1,
+     "explanation": "The substitution effect dominates."
+    },
+    {
+     "question_text": "The cardinal condition for equilibrium with two goods is MUx/Px = MUy/Py = MUm. The ordinal condition MRS = Px/Py is equivalent because:",
+     "options": [
+      "MRS = MUx/MUy",
+      "MRS = TUx/TUy",
+      "MRS = Py/Px",
+      "MRS = MUy/MUx"
+     ],
+     "correct_index": 0,
+     "explanation": "Combining gives MUx/MUy = Px/Py."
+    },
+    {
+     "question_text": "A consumer buys 10 units of a good at price Rs 5 and MU of the 10th unit is 20 utils. MU of money is:",
+     "options": [
+      "100 utils",
+      "0.25 utils per rupee",
+      "15",
+      "4 utils per rupee"
+     ],
+     "correct_index": 3,
+     "explanation": "MU/P = 20/5."
+    },
+    {
+     "question_text": "After the price of a good falls, the consumer is again in equilibrium when:",
+     "options": [
+      "MU of the good is greater than the new price",
+      "MU of the good equals the new price, in terms of MU of money",
+      "TU of the good equals the new price",
+      "MU of the good is less than the new price"
+     ],
+     "correct_index": 1,
+     "explanation": "He buys more until MU falls to the lower price."
+    },
+    {
+     "question_text": "The law of equi-marginal utility finds application in:",
+     "options": [
+      "The lending decisions of commercial banks alone",
+      "Consumption, production and public finance decisions",
+      "The taxation decisions of the government alone",
+      "Consumption decisions of households alone"
+     ],
+     "correct_index": 1,
+     "explanation": "It applies wherever limited resources are allocated among uses."
+    },
+    {
+     "question_text": "A student allocates study hours among subjects so that the extra marks per hour are equal. This follows:",
+     "options": [
+      "Law of demand",
+      "Law of variable proportions",
+      "Law of diminishing returns",
+      "Law of equi-marginal utility"
+     ],
+     "correct_index": 3,
+     "explanation": "Allocation to equalise marginal returns."
+    },
+    {
+     "question_text": "Which is an assumption of the law of equi-marginal utility?",
+     "options": [
+      "The consumer chooses without any rational plan",
+      "Income is limited and MU of money stays constant",
+      "The goods consumed are perfect complements",
+      "Utility is only ranked and cannot be measured"
+     ],
+     "correct_index": 1,
+     "explanation": "Limited income and constant MU of money."
+    }
+   ]
+  },
+  {
+   "rev": 2,
+   "title": "Unit 2: Consumer Behaviour – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A consumer's income is Rs 100. Px = Rs 10, Py = Rs 20. He buys 4 units of X and 3 units of Y. His budget is:",
+     "options": [
+      "Short by Rs 0",
+      "Not affordable",
+      "Fully spent",
+      "Exceeded by Rs 0"
+     ],
+     "correct_index": 2,
+     "explanation": "4×10 + 3×20 = 100; on the budget line."
+    },
+    {
+     "question_text": "Price of X rises from Rs 10 to Rs 20 while M = 200 and Py = 10. The new maximum X is:",
+     "options": [
+      "20",
+      "40",
+      "10",
+      "5"
+     ],
+     "correct_index": 2,
+     "explanation": "M/Px = 200/20."
+    },
+    {
+     "question_text": "The slope of an IC at a point equals:",
+     "options": [
+      "Px/Py",
+      "MRS at that point",
+      "Income",
+      "MUy/MUx"
+     ],
+     "correct_index": 1,
+     "explanation": "The slope's absolute value is the MRS."
+    },
+    {
+     "question_text": "In the diagram, an IC higher than another IC represents:",
+     "options": [
+      "Lower satisfaction",
+      "Higher satisfaction",
+      "The same satisfaction",
+      "Lower income"
+     ],
+     "correct_index": 1,
+     "explanation": "More of at least one good."
+    },
+    {
+     "question_text": "Indifference curves do not touch the axes because:",
+     "options": [
+      "The consumer buys both goods in positive amounts",
+      "The MRS stays constant along the curve",
+      "The two goods are available free of charge",
+      "The consumer's income is equal to zero"
+     ],
+     "correct_index": 0,
+     "explanation": "Touching an axis would mean that one good is not consumed at all."
+    },
+    {
+     "question_text": "Which statement about indifference curves is FALSE?",
+     "options": [
+      "Higher curves show higher satisfaction",
+      "They are parallel to each other",
+      "They are convex to the origin",
+      "They slope downward"
+     ],
+     "correct_index": 1,
+     "explanation": "ICs need not be parallel."
+    },
+    {
+     "question_text": "Suppose a consumer's equilibrium bundle is on IC2. If income rises and he moves to IC3, the new equilibrium lies:",
+     "options": [
+      "On a higher budget line",
+      "On the same budget line",
+      "On a lower budget line",
+      "On the same IC"
+     ],
+     "correct_index": 0,
+     "explanation": "A parallel outward shift of the budget line."
+    },
+    {
+     "question_text": "The demand curve derived from the PCC slopes downward for a normal good because:",
+     "options": [
+      "Utility is measured cardinally in utils",
+      "The price effect on quantity is exactly zero",
+      "The substitution and income effects work in the same direction",
+      "Only the income effect operates on quantity"
+     ],
+     "correct_index": 2,
+     "explanation": "Both raise quantity demanded when price falls."
+    },
+    {
+     "question_text": "The main advantage of the ordinal approach over the cardinal approach is that it:",
+     "options": [
+      "Measures utility exactly in numbers",
+      "Needs no measurable utility or constant MU of money",
+      "Requires budget lines and not indifference curves",
+      "Uses total utility curves for each good"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses ranking only."
+    },
+    {
+     "question_text": "If the marginal utility of good X is 12 and Y is 18, and Px = Rs 2, Py = Rs 3, the consumer:",
+     "options": [
+      "Is in equilibrium",
+      "Should buy more Y",
+      "Should buy more X",
+      "Should buy neither"
+     ],
+     "correct_index": 0,
+     "explanation": "12/2 = 6 and 18/3 = 6."
+    },
+    {
+     "question_text": "A rise in income from Rs 1,000 to Rs 1,500 lowers the quantity of bajra consumed from 20 kg to 15 kg. Bajra is:",
+     "options": [
+      "A Giffen good by definition",
+      "A luxury",
+      "A normal good",
+      "An inferior good"
+     ],
+     "correct_index": 3,
+     "explanation": "Quantity falls as income rises."
+    },
+    {
+     "question_text": "The income elasticity of an inferior good is:",
+     "options": [
+      "Positive",
+      "Greater than one",
+      "Negative",
+      "Zero always"
+     ],
+     "correct_index": 2,
+     "explanation": "Demand falls as income rises."
+    },
+    {
+     "question_text": "Which is a limitation of consumer surplus?",
+     "options": [
+      "MU of money is not constant",
+      "Price is irrelevant",
+      "It ignores utility",
+      "It can be measured exactly"
+     ],
+     "correct_index": 0,
+     "explanation": "The concept assumes constant MU of money."
+    },
+    {
+     "question_text": "Consumer surplus for a good with a straight-line demand curve D: P = 100 − Q and price 40 is:",
+     "options": [
+      "3,600",
+      "60",
+      "1,800",
+      "1,200"
+     ],
+     "correct_index": 2,
+     "explanation": "Triangle with base 60 and height 60 = ½ × 60 × 60."
+    },
+    {
+     "question_text": "If price rises, consumer surplus generally:",
+     "options": [
+      "Rises",
+      "Remains constant",
+      "Doubles",
+      "Falls"
+     ],
+     "correct_index": 3,
+     "explanation": "The area between demand and price shrinks."
+    },
+    {
+     "question_text": "The substitution effect holds constant:",
+     "options": [
+      "Money price",
+      "Real income (utility)",
+      "Nominal income",
+      "Quantity"
+     ],
+     "correct_index": 1,
+     "explanation": "It isolates the effect of relative price change."
+    },
+    {
+     "question_text": "When the price of X falls, the budget line pivots outward on the X-axis. The new tangent IC is:",
+     "options": [
+      "Lower",
+      "The same",
+      "Higher",
+      "Undefined"
+     ],
+     "correct_index": 2,
+     "explanation": "Real income has risen."
+    },
+    {
+     "question_text": "Which pair is correct?",
+     "options": [
+      "Cardinal approach – IC curves",
+      "Ordinal approach – MU of money constant",
+      "Cardinal approach – measurable utility",
+      "Ordinal approach – utils"
+     ],
+     "correct_index": 2,
+     "explanation": "The cardinal approach assumes measurable utility."
+    },
+    {
+     "question_text": "A consumer maximises satisfaction when the last rupee spent on each good gives:",
+     "options": [
+      "Equal marginal utility",
+      "Different utility",
+      "Zero utility",
+      "Maximum total utility for each good"
+     ],
+     "correct_index": 0,
+     "explanation": "Equal MU per rupee."
+    },
+    {
+     "question_text": "A consumer finds 3 units of Y exactly as satisfying as 1 unit of X at every point. His IC for X and Y is:",
+     "options": [
+      "L-shaped",
+      "Vertical at one quantity of X",
+      "A straight line with a slope of −3",
+      "Convex to the origin"
+     ],
+     "correct_index": 2,
+     "explanation": "Constant MRS = 3."
+    },
+    {
+     "question_text": "The budget constraint implies that:",
+     "options": [
+      "Total spending on both goods cannot exceed income",
+      "Expenditure may exceed income if prices fall",
+      "Prices of goods are set by the consumer's income",
+      "Income depends on the prices of the two goods"
+     ],
+     "correct_index": 0,
+     "explanation": "M ≥ Px·X + Py·Y."
+    },
+    {
+     "question_text": "Which of the following is NOT affected by a change in income, ceteris paribus?",
+     "options": [
+      "Position of budget line",
+      "Quantity demanded",
+      "Intercepts of the budget line",
+      "Slope of the budget line"
+     ],
+     "correct_index": 3,
+     "explanation": "Slope depends on the price ratio."
+    },
+    {
+     "question_text": "A consumer's MRS of X for Y is 4 and price ratio Px/Py = 2. To reach equilibrium he should:",
+     "options": [
+      "Do nothing",
+      "Spend more on both",
+      "Increase X and reduce Y",
+      "Increase Y and reduce X"
+     ],
+     "correct_index": 2,
+     "explanation": "MRS > price ratio: the consumer values X more than the market asks."
+    },
+    {
+     "question_text": "The first-order condition for consumer equilibrium is that:",
+     "options": [
+      "The slope of the IC equals the slope of the budget line",
+      "MUx equals MUy for the two goods",
+      "The budget line is a vertical straight line",
+      "The IC is convex to the origin at that point"
+     ],
+     "correct_index": 0,
+     "explanation": "MRS equals the price ratio."
+    },
+    {
+     "question_text": "Why does the first unit of a good give more utility than the second?",
+     "options": [
+      "Returns to scale are increasing for later units",
+      "Most urgent want is met first, later wants are weaker",
+      "Its price is higher than that of later units",
+      "The consumer's income is lower for later units"
+     ],
+     "correct_index": 1,
+     "explanation": "Successive wants are less intense."
+    }
+   ]
+  },
+  {
+   "rev": 2,
    "title": "Unit 2: Consumer Behaviour – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Consumer equilibrium is a situation where the consumer:",
+     "question_text": "If TU is 30 for 3 units and 38 for 4 units, then MU of the 4th unit is:",
      "options": [
-      "Buys only one good",
-      "Spends nothing",
-      "Has zero utility",
-      "Maximises satisfaction given income and prices with no tendency to change"
+      "9.5",
+      "30",
+      "38",
+      "8"
      ],
      "correct_index": 3,
-     "explanation": "It is the optimum choice."
+     "explanation": "38 − 30."
     },
     {
-     "question_text": "For a single commodity, the equilibrium condition is:",
+     "question_text": "A consumer is indifferent between bundles A (6X, 2Y) and B (4X, 4Y). MRS between A and B is:",
      "options": [
-      "TU = P",
-      "MUx = Px (in terms of MU of money)",
-      "MUx > Px",
-      "MUx < Px"
-     ],
-     "correct_index": 1,
-     "explanation": "Marginal utility equals price."
-    },
-    {
-     "question_text": "For two commodities (cardinal approach), equilibrium requires:",
-     "options": [
-      "MUx/Px = MUy/Py = MUm",
-      "Px = Py",
-      "TUx = TUy",
-      "MUx = MUy"
+      "1",
+      "0.5",
+      "4",
+      "2"
      ],
      "correct_index": 0,
-     "explanation": "MU per rupee is equal across goods."
+     "explanation": "ΔY = 2 for ΔX = 2 gives MRS = 1."
     },
     {
-     "question_text": "With Rs. 10 and MU per rupee equal across goods after the last rupee is spent, the consumer is:",
+     "question_text": "A consumer spends Rs 100 on X (Px = 20) and Y (Py = 10) buying 2X and 6Y. His budget is:",
      "options": [
-      "Out of equilibrium",
-      "Irrational",
-      "In equilibrium",
-      "Without income"
-     ],
-     "correct_index": 2,
-     "explanation": "No reallocation increases total utility."
-    },
-    {
-     "question_text": "In the IC approach, equilibrium is where:",
-     "options": [
-      "ICs intersect",
-      "The IC touches an axis",
-      "The budget line cuts an IC",
-      "The budget line is tangent to the highest attainable IC"
+      "Overspent by Rs 0",
+      "Exceeded",
+      "Short by Rs 20",
+      "Fully used"
      ],
      "correct_index": 3,
-     "explanation": "Slopes are equal at the tangency point."
+     "explanation": "40 + 60 = 100."
     },
     {
-     "question_text": "The first-order and second-order conditions are:",
+     "question_text": "Normal goods have an ICC that:",
      "options": [
-      "MU = 0; TU max",
-      "Px = Py; MU = P",
-      "MRS = price ratio; IC convex to the origin",
-      "MRS = 0; IC concave"
-     ],
-     "correct_index": 2,
-     "explanation": "Tangency (necessary) and diminishing MRS (sufficient)."
-    },
-    {
-     "question_text": "At the tangency point of the highest attainable IC and budget line:",
-     "options": [
-      "MRSxy < Px/Py",
-      "MRSxy > Px/Py",
-      "MRSxy = 0",
-      "MRSxy = Px/Py"
-     ],
-     "correct_index": 3,
-     "explanation": "The slopes of IC and budget line are equal."
-    },
-    {
-     "question_text": "The consumer is not in equilibrium where the budget line cuts an IC because:",
-     "options": [
-      "The point is unaffordable",
-      "Income is zero",
-      "The IC is concave",
-      "He can move along the budget line to a higher IC"
-     ],
-     "correct_index": 3,
-     "explanation": "A higher IC is attainable."
-    },
-    {
-     "question_text": "A corner solution arises when:",
-     "options": [
-      "The consumer buys both goods",
-      "MRS equals the price ratio",
-      "The consumer spends all income on only one good",
-      "Prices are equal"
-     ],
-     "correct_index": 2,
-     "explanation": "It happens, e.g., with perfect substitutes when MRS never equals the price ratio."
-    },
-    {
-     "question_text": "The income-consumption curve (ICC) is the locus of equilibrium points when:",
-     "options": [
-      "Income changes with prices constant",
-      "Tastes change",
-      "Taxes change",
-      "Prices change"
-     ],
-     "correct_index": 0,
-     "explanation": "Each income level gives a new equilibrium."
-    },
-    {
-     "question_text": "An Engel curve shows the relation between:",
-     "options": [
-      "Income and quantity demanded",
-      "Price and quantity",
-      "MU and TU",
-      "Cost and output"
-     ],
-     "correct_index": 0,
-     "explanation": "It is derived from the ICC."
-    },
-    {
-     "question_text": "For an inferior good the ICC:",
-     "options": [
-      "Is vertical",
-      "Is horizontal",
       "Slopes upward",
-      "Bends backward at higher incomes"
-     ],
-     "correct_index": 3,
-     "explanation": "Consumption of the inferior good falls as income rises."
-    },
-    {
-     "question_text": "The price-consumption curve (PCC) is the locus of equilibrium points when:",
-     "options": [
-      "The price of one good changes, income and the other price constant",
-      "Income changes",
-      "Tastes change",
-      "Taxes change"
+      "Is vertical",
+      "Slopes downward",
+      "Is horizontal"
      ],
      "correct_index": 0,
-     "explanation": "Each price gives a new budget line and equilibrium."
+     "explanation": "More income means more quantity."
     },
     {
-     "question_text": "The demand curve is derived from the PCC by plotting:",
+     "question_text": "Which statement correctly states Gossen's second law?",
      "options": [
-      "Price of X against the quantity of X at each equilibrium",
-      "MU against TU",
-      "Income against quantity",
-      "Cost against output"
+      "Income is allocated so that MU per rupee is equal across goods",
+      "MU equals the price for each good considered separately",
+      "MU from a good diminishes as more units are consumed",
+      "Total utility is maximum when MU is zero for a good"
      ],
      "correct_index": 0,
-     "explanation": "This gives the downward-sloping demand curve."
+     "explanation": "Equi-marginal utility."
     },
     {
-     "question_text": "The price effect is the:",
+     "question_text": "A consumer treats left and right gloves as perfect complements. If the price of left gloves rises, he will:",
      "options": [
-      "Total change in consumption due to a change in price",
-      "Change in supply",
-      "Effect of tastes",
-      "Effect of income only"
-     ],
-     "correct_index": 0,
-     "explanation": "It equals substitution effect plus income effect."
-    },
-    {
-     "question_text": "Price effect equals:",
-     "options": [
-      "MU − P",
-      "Substitution effect + income effect",
-      "Substitution effect − income effect",
-      "Income effect only"
+      "Leave his purchases of both gloves unchanged",
+      "Cut down purchases of both gloves in proportion",
+      "Buy only right gloves from now on",
+      "Buy more left gloves to make up for the loss"
      ],
      "correct_index": 1,
-     "explanation": "It splits into two components."
+     "explanation": "Complements are used in fixed proportions."
     },
     {
-     "question_text": "The substitution effect is the change in consumption due to:",
+     "question_text": "If a good has a negative price effect only through its substitution effect and zero income effect, then:",
      "options": [
-      "Change in income",
-      "Change in relative price keeping real income constant",
-      "Change in tastes",
-      "Change in taxes"
+      "Price elasticity is infinite",
+      "The demand curve slopes downward",
+      "It is a Giffen good",
+      "Demand is zero"
      ],
      "correct_index": 1,
-     "explanation": "It is always negative."
+     "explanation": "Only the substitution effect operates."
     },
     {
-     "question_text": "The income effect is the change in consumption due to:",
+     "question_text": "A rise in the price of tea, with coffee as a substitute, will move the consumer's demand for coffee:",
      "options": [
-      "Change in real income resulting from a price change",
-      "Substitution",
-      "Taste",
-      "Taxes"
-     ],
-     "correct_index": 0,
-     "explanation": "Positive for normal goods and negative for inferior goods."
-    },
-    {
-     "question_text": "The income effect is negative for:",
-     "options": [
-      "Luxury goods",
-      "Complementary goods",
-      "Inferior goods",
-      "Normal goods"
+      "Left",
+      "Not at all",
+      "Right",
+      "Backward"
      ],
      "correct_index": 2,
-     "explanation": "Higher real income reduces the purchase of inferior goods."
+     "explanation": "Substitution towards coffee."
     },
     {
-     "question_text": "Giffen goods are:",
+     "question_text": "Which of the following is true under the ordinal approach?",
      "options": [
-      "Substitutes",
-      "Luxury goods",
-      "Inferior goods whose demand falls when price falls",
-      "Normal goods"
+      "Utility is measured in utils",
+      "MU of money is constant",
+      "Utility can be added across goods",
+      "Preferences are complete and transitive"
+     ],
+     "correct_index": 3,
+     "explanation": "Consistent ranking is assumed."
+    },
+    {
+     "question_text": "Which statement is TRUE of the budget line?",
+     "options": [
+      "Its slope is the ratio of prices",
+      "It has a positive slope",
+      "It depends on tastes",
+      "It is always a curve"
+     ],
+     "correct_index": 0,
+     "explanation": "Slope = −Px/Py."
+    },
+    {
+     "question_text": "Using the ordinal analysis, the demand curve for X shows:",
+     "options": [
+      "Price–quantity combinations at which the consumer is in equilibrium",
+      "Bundles of X and Y that give equal satisfaction to the consumer",
+      "Combinations of production cost and quantity of X supplied",
+      "Combinations of income and quantity of X purchased"
+     ],
+     "correct_index": 0,
+     "explanation": "It is derived from points on the price-consumption curve."
+    },
+    {
+     "question_text": "The consumer has Rs 240 and buys X at Rs 8 and Y at Rs 6. If he buys 15 units of X, the maximum units of Y he can buy is:",
+     "options": [
+      "10",
+      "15",
+      "20",
+      "30"
      ],
      "correct_index": 2,
-     "explanation": "The negative income effect outweighs the substitution effect."
+     "explanation": "(240 − 120)/6 = 20."
     },
     {
-     "question_text": "Giffen goods have upward-sloping demand because:",
+     "question_text": "In consumer equilibrium, MUx/MUy equals:",
      "options": [
-      "Prices never change",
-      "Substitution effect is positive",
-      "Income is constant",
-      "The income effect is negative and stronger than the substitution effect"
+      "Py × Px",
+      "1",
+      "Px/Py",
+      "Py/Px"
      ],
-     "correct_index": 3,
-     "explanation": "A price rise lowers real income so much that people buy more of the good."
+     "correct_index": 2,
+     "explanation": "The ratio of marginal utilities equals the price ratio."
     },
     {
-     "question_text": "Cardinal equilibrium requires MUx/Px = MUy/Py, while ordinal equilibrium requires:",
+     "question_text": "A consumer buys 5 units of apples and 4 of oranges. MU of the last apple is 15 and orange 20 with prices Rs 3 and Rs 5. He is:",
      "options": [
-      "Px = Py",
-      "MRSxy = 0",
-      "MUx = MUy",
-      "MRSxy = Px/Py"
+      "In equilibrium",
+      "Spending more than income",
+      "Under-consuming apples and should buy more",
+      "Over-consuming apples and should buy fewer apples"
      ],
-     "correct_index": 3,
-     "explanation": "Both conditions are equivalent since MRS = MUx/MUy."
+     "correct_index": 2,
+     "explanation": "15/3 = 5 > 20/5 = 4, so more apples."
     },
     {
-     "question_text": "Income Rs. 120, Px = 6, Py = 4, MRS = 2. The price ratio is 1.5, so the consumer:",
+     "question_text": "Which one of the following is an application of the law of DMU?",
      "options": [
-      "Should buy nothing",
-      "Is in equilibrium",
-      "Should buy more Y and less X",
-      "Is not in equilibrium and should buy more X and less Y"
+      "Rising marginal cost",
+      "Price discrimination",
+      "Downward-sloping demand curve",
+      "Kinked demand"
      ],
-     "correct_index": 3,
-     "explanation": "MRS (2) > Px/Py (1.5): he values X more than the market price implies."
+     "correct_index": 2,
+     "explanation": "Lower MU means willingness to pay falls with quantity."
     },
     {
-     "question_text": "The Law of DMU deals with a single commodity, whereas the Law of Equi-Marginal Utility deals with:",
+     "question_text": "As income increases, the consumer moves from an IC to a higher IC, and the budget line shifts:",
      "options": [
-      "Only money",
-      "Two or more commodities and income allocation",
-      "Only production",
-      "Only taxes"
-     ],
-     "correct_index": 1,
-     "explanation": "DMU explains the fall in MU; equi-marginal utility explains optimal spending."
-    },
-    {
-     "question_text": "When income doubles with prices constant, the budget line:",
-     "options": [
-      "Is unchanged",
-      "Shifts parallel outward, giving a new equilibrium on a higher IC",
-      "Pivots",
-      "Shifts inward"
+      "Inward",
+      "Outward",
+      "Remain",
+      "Pivot"
      ],
      "correct_index": 1,
-     "explanation": "The consumer moves along the ICC to a higher satisfaction level."
+     "explanation": "Parallel outward."
+    },
+    {
+     "question_text": "Which is a reason for the downward slope of an indifference curve?",
+     "options": [
+      "More of one good must be offset by less of the other to hold satisfaction",
+      "The consumer's income is rising as he moves along it",
+      "The prices of the two goods are constant everywhere",
+      "MRS is diminishing along the curve"
+     ],
+     "correct_index": 0,
+     "explanation": "Otherwise satisfaction would change."
+    },
+    {
+     "question_text": "A consumer's bundle lies on a lower indifference curve than one he can reach on his budget line. He:",
+     "options": [
+      "Is spending more than his income",
+      "Is already in equilibrium",
+      "Can gain by moving to a bundle on a higher IC",
+      "Has no income to spend on goods"
+     ],
+     "correct_index": 2,
+     "explanation": "He is not maximising satisfaction."
+    },
+    {
+     "question_text": "A good is a luxury if its income elasticity is:",
+     "options": [
+      "Negative",
+      "Equal to 0",
+      "Greater than 1",
+      "Less than 1"
+     ],
+     "correct_index": 2,
+     "explanation": "Quantity rises more than proportionately with income."
+    },
+    {
+     "question_text": "The ordinal approach is considered more realistic because:",
+     "options": [
+      "Consumers can rank preferences without assigning numbers",
+      "Prices of the goods are fixed by the producers",
+      "Income is fixed over the period of choice",
+      "Consumers can measure utility exactly in utils"
+     ],
+     "correct_index": 0,
+     "explanation": "Ranking is easier than measuring."
+    },
+    {
+     "question_text": "The marginal utility per rupee of X is 8 and of Y is 6. If the price of X falls, MUx/Px will:",
+     "options": [
+      "Remain unchanged",
+      "Fall",
+      "Be equal to Y",
+      "Rise"
+     ],
+     "correct_index": 3,
+     "explanation": "A lower price raises MU per rupee."
+    },
+    {
+     "question_text": "Which of the following is a reason why the demand curve for Giffen goods slopes upward?",
+     "options": [
+      "Substitution effect is large",
+      "Tastes are changing",
+      "Strong negative income effect",
+      "Prices are stable"
+     ],
+     "correct_index": 2,
+     "explanation": "Real income falls on price rise, so more of the good is bought."
+    },
+    {
+     "question_text": "Which of these combinations lies exactly on the budget line M = 100, Px = 10, Py = 5?",
+     "options": [
+      "(5X, 10Y)",
+      "(4X, 10Y)",
+      "(5X, 8Y)",
+      "(6X, 9Y)"
+     ],
+     "correct_index": 0,
+     "explanation": "5×10 + 10×5 = 100; the others cost 105, 90 and 90."
+    },
+    {
+     "question_text": "On the budget line, an extra unit of X can be had only by giving up Px/Py units of Y. This ratio is:",
+     "options": [
+      "The income of the consumer",
+      "The total utility from X and Y",
+      "The opportunity cost of X in terms of Y",
+      "The marginal rate of substitution"
+     ],
+     "correct_index": 2,
+     "explanation": "Price ratio is the market opportunity cost."
+    },
+    {
+     "question_text": "The law of DMU helps derive the demand curve because:",
+     "options": [
+      "Price is constant at every quantity",
+      "At equilibrium MU equals price, so the MU curve traces demand",
+      "TU always equals the price in the market",
+      "Income is constant at every price"
+     ],
+     "correct_index": 1,
+     "explanation": "The downward-sloping MU curve becomes the demand curve."
     }
    ]
   }
