@@ -4,6 +4,7 @@ import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Spinner from '../components/Spinner';
 import Leaderboard from '../components/Leaderboard';
+import { computeStreak } from '../utils/celebrate';
 import { BookIcon, BellIcon, ClipboardIcon, ClockIcon } from '../components/icons';
 
 function formatDateTime(iso) {
@@ -18,6 +19,7 @@ export default function Dashboard() {
   const [subjects, setSubjects] = useState([]);
   const [reminders, setReminders] = useState([]);
   const [attempts, setAttempts] = useState([]);
+  const [streak, setStreak] = useState(0);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -32,6 +34,10 @@ export default function Dashboard() {
         setAttempts(attemptsRes.data.attempts);
       })
       .finally(() => setLoading(false));
+    client
+      .get('/attempts/streak')
+      .then((res) => setStreak(computeStreak(res.data.times)))
+      .catch(() => {});
   }, []);
 
   if (loading) {
@@ -52,7 +58,7 @@ export default function Dashboard() {
       </h1>
       <p className="text-gray-600 dark:text-gray-400 mb-8">Here's where your studying stands.</p>
 
-      <div className="grid sm:grid-cols-3 gap-4 mb-10">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-10">
         <div className="rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-5">
           <BookIcon className="w-5 h-5 text-brand-600 mb-2" />
           <div className="text-2xl font-bold text-gray-900 dark:text-white">{subjects.length}</div>
@@ -67,6 +73,13 @@ export default function Dashboard() {
           <BellIcon className="w-5 h-5 text-brand-600 mb-2" />
           <div className="text-2xl font-bold text-gray-900 dark:text-white">{reminders.length}</div>
           <div className="text-sm text-gray-500">Reminders</div>
+        </div>
+        <div className="rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-5">
+          <div className="text-xl mb-1" aria-hidden="true">
+            🔥
+          </div>
+          <div className="text-2xl font-bold text-gray-900 dark:text-white">{streak}</div>
+          <div className="text-sm text-gray-500">{streak === 1 ? 'Day streak' : 'Day streak'}</div>
         </div>
       </div>
 

@@ -24,6 +24,20 @@ router.get(
   })
 );
 
+// Timestamps of recent attempts; the browser works out the day streak in the user's own timezone.
+router.get(
+  '/streak',
+  asyncHandler(async (req, res) => {
+    const { rows } = await pool.query(
+      `SELECT completed_at FROM attempts
+       WHERE user_id = $1 AND completed_at > now() - interval '400 days'
+       ORDER BY completed_at DESC LIMIT 2000`,
+      [req.userId]
+    );
+    res.json({ times: rows.map((r) => r.completed_at) });
+  })
+);
+
 router.get(
   '/:id',
   asyncHandler(async (req, res) => {
@@ -37,6 +51,13 @@ router.get(
     const attempt = attemptRows[0];
     if (!attempt) return res.status(404).json({ error: 'Attempt not found.' });
 
+    const { rows: prior } = await pool.query(
+      `SELECT COUNT(*)::int AS earlier,
+              MAX(score::float / NULLIF(total, 0) * 100) AS best
+       FROM attempts
+       WHERE user_id = $1 AND test_id = $2 AND completed_at < $3`,
+      [req.userId, attempt.test_id, attempt.completed_at]
+    );
     const answers = JSON.parse(attempt.answers);
     const { rows: questionRows } = await pool.query(
       'SELECT * FROM questions WHERE test_id = $1 ORDER BY order_index ASC, id ASC',
@@ -55,6 +76,8 @@ router.get(
       attempt: {
         id: attempt.id,
         test_id: attempt.test_id,
+        earlier_attempts: prior[0].earlier,
+        previous_best_percent: prior[0].best === null ? null : Math.round(prior[0].best),
         score: attempt.score,
         total: attempt.total,
         completed_at: attempt.completed_at,

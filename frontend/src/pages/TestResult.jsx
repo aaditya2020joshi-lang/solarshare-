@@ -4,6 +4,7 @@ import client from '../api/client';
 import Spinner from '../components/Spinner';
 import Leaderboard from '../components/Leaderboard';
 import Confetti from '../components/Confetti';
+import { computeStreak, playFanfare, setSoundEnabled, soundEnabled } from '../utils/celebrate';
 import { CheckIcon, XIcon } from '../components/icons';
 
 function praise(percent) {
@@ -20,6 +21,8 @@ export default function TestResult() {
   const [attempt, setAttempt] = useState(null);
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [streak, setStreak] = useState(0);
+  const [soundOn, setSoundOn] = useState(soundEnabled());
 
   useEffect(() => {
     client.get(`/attempts/${id}`).then((res) => {
@@ -27,7 +30,21 @@ export default function TestResult() {
       setQuestions(res.data.questions);
       setLoading(false);
     });
+    client
+      .get('/attempts/streak')
+      .then((res) => setStreak(computeStreak(res.data.times)))
+      .catch(() => {});
   }, [id]);
+
+  // A short fanfare for a perfect score, only if sound is switched on.
+  useEffect(() => {
+    if (attempt && attempt.total > 0 && attempt.score === attempt.total && soundEnabled()) playFanfare();
+  }, [attempt]);
+
+  function toggleSound() {
+    setSoundEnabled(!soundOn);
+    setSoundOn(!soundOn);
+  }
 
   if (loading) {
     return (
@@ -41,6 +58,13 @@ export default function TestResult() {
 
   const percent = Math.round((attempt.score / attempt.total) * 100);
   const mood = praise(percent);
+  let personalBest = '';
+  if (attempt.earlier_attempts === 0) personalBest = '📌 First attempt — this is your starting score';
+  else if (attempt.previous_best_percent !== null && percent > attempt.previous_best_percent)
+    personalBest = `📈 New personal best! Up from ${attempt.previous_best_percent}%`;
+  else if (attempt.previous_best_percent !== null && percent === attempt.previous_best_percent)
+    personalBest = '🎯 You matched your personal best';
+  else if (attempt.previous_best_percent !== null) personalBest = `Your best on this test is ${attempt.previous_best_percent}%`;
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-10">
@@ -60,6 +84,25 @@ export default function TestResult() {
           </div>
           <div className="text-lg font-display font-bold text-gray-900 dark:text-white">{mood.title}</div>
           <p className="text-sm text-gray-600 dark:text-gray-400">{mood.text}</p>
+          <div className="flex flex-wrap justify-center gap-2 mt-3 text-xs font-medium">
+            {personalBest && (
+              <span className="rounded-full bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 px-3 py-1">
+                {personalBest}
+              </span>
+            )}
+            {streak > 0 && (
+              <span className="rounded-full bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 px-3 py-1">
+                🔥 {streak}-day streak{streak > 1 ? ' — keep it going!' : ' — come back tomorrow to grow it'}
+              </span>
+            )}
+            <button
+              type="button"
+              onClick={toggleSound}
+              className="rounded-full bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 px-3 py-1 text-gray-500"
+            >
+              {soundOn ? '🔊 Sound on' : '🔇 Sound off'}
+            </button>
+          </div>
         </div>
       </div>
       {mood.party > 0 && <Confetti pieces={mood.party} />}
