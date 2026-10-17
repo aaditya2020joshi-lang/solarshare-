@@ -59,7 +59,9 @@ export async function seedUserContent(userId) {
 
     for (const { subject, tests, notes, flashcards } of content) {
       const newTests = tests.filter((t) => !done.has(`${subject}|test|${t.title}`));
-      const newNotes = notes.filter((n) => !done.has(`${subject}|note|${n.title}`));
+      // A note with a "rev" number is re-sent to users when the number changes, so corrections reach existing copies.
+      const noteKey = (n) => `${subject}|note|${n.title}${n.rev ? `|r${n.rev}` : ''}`;
+      const newNotes = notes.filter((n) => !done.has(noteKey(n)));
       const newCards = flashcards.filter((c) => !done.has(`${subject}|flashcard|${c.front}`));
       if (newTests.length + newNotes.length + newCards.length === 0) continue;
 
@@ -99,8 +101,18 @@ export async function seedUserContent(userId) {
       let order = Number((await client.query('SELECT COALESCE(MAX(order_index), 0) AS m FROM notes WHERE subject_id = $1', [subjectId])).rows[0].m);
       const noteRows = [];
       for (const n of newNotes) {
-        marks.push([userId, `${subject}|note|${n.title}`]);
-        if (haveNotes.has(n.title)) continue;
+        marks.push([userId, noteKey(n)]);
+        if (haveNotes.has(n.title)) {
+          if (n.rev) {
+            await client.query('UPDATE notes SET content = $1, group_name = $2 WHERE subject_id = $3 AND title = $4', [
+              n.content,
+              n.group_name || '',
+              subjectId,
+              n.title,
+            ]);
+          }
+          continue;
+        }
         noteRows.push([subjectId, userId, n.group_name || '', n.title, n.content, ++order]);
       }
       await insertRows(client, 'notes', ['subject_id', 'user_id', 'group_name', 'title', 'content', 'order_index'], noteRows);
