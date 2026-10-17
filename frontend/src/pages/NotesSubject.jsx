@@ -81,10 +81,31 @@ function NoteBody({ content }) {
   );
 }
 
+function TestLinks({ tests }) {
+  if (tests.length === 0) return null;
+  return (
+    <div className="mt-4 pt-3 border-t border-gray-100 dark:border-gray-800">
+      <div className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Test yourself on this unit</div>
+      <div className="flex flex-wrap gap-2">
+        {tests.map((t) => (
+          <Link
+            key={t.id}
+            to={`/tests/${t.id}/take`}
+            className="text-sm font-semibold text-white bg-gradient-to-r from-brand-600 to-sky-accent px-3 py-1.5 rounded-lg shadow-sm hover:shadow-md transition-all"
+          >
+            {t.title.split('–').pop().trim()} · {t.question_count} Qs
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export default function NotesSubject() {
   const { subjectId } = useParams();
   const [subject, setSubject] = useState(null);
   const [notes, setNotes] = useState([]);
+  const [tests, setTests] = useState([]);
   const [loading, setLoading] = useState(true);
   const [notFound, setNotFound] = useState(false);
   const [openId, setOpenId] = useState(null);
@@ -113,7 +134,21 @@ export default function NotesSubject() {
 
   useEffect(() => {
     load().finally(() => setLoading(false));
+    // Tests are optional here: they only power the "take a test" buttons under each note.
+    client
+      .get(`/subjects/${subjectId}`)
+      .then((res) => setTests(res.data.tests))
+      .catch(() => setTests([]));
   }, [subjectId]);
+
+  // A note in "Unit 3: ..." links to the tests titled "Unit 3: ...".
+  function testsForNote(note) {
+    const unit = (note.group_name || '').split(':')[0].trim();
+    if (!unit) return [];
+    return tests
+      .filter((t) => t.title.startsWith(`${unit}:`))
+      .sort((a, b) => a.title.localeCompare(b.title, undefined, { numeric: true }));
+  }
 
   async function handleAdd(e) {
     e.preventDefault();
@@ -227,6 +262,7 @@ export default function NotesSubject() {
                 {openId === n.id && (
                   <div className="px-4 pb-4 border-t border-gray-100 dark:border-gray-800 pt-3">
                     <NoteBody content={n.content} />
+                    <TestLinks tests={testsForNote(n)} />
                   </div>
                 )}
               </li>
