@@ -1,0 +1,940 @@
+{
+ "flashcards": [
+  {
+   "front": "Mary Parker Follett",
+   "back": "\"the art of getting things done through people.\""
+  },
+  {
+   "front": "Henri Fayol",
+   "back": "\"To manage is to forecast and plan, to organise, to command, to coordinate and to control.\""
+  },
+  {
+   "front": "F.W. Taylor",
+   "back": "\"knowing exactly what you want men to do and then seeing that they do it in the best and cheapest way.\""
+  },
+  {
+   "front": "Harold Koontz",
+   "back": "\"the art of getting things done through and with people in formally organised groups.\""
+  },
+  {
+   "front": "Three views of management",
+   "back": "As a process (functions), as a discipline/ field of study, as a group of people (the managers)."
+  },
+  {
+   "front": "Resources managed (the 5 Ms)",
+   "back": "Men, money, materials, machines, methods (plus minutes/ time and markets in some lists)."
+  },
+  {
+   "front": "Goal-oriented",
+   "back": "Achieves organisational objectives."
+  },
+  {
+   "front": "Multi-dimensional",
+   "back": "Management of work, people and operations."
+  },
+  {
+   "front": "Continuous process",
+   "back": "An ongoing series of functions."
+  },
+  {
+   "front": "Group activity",
+   "back": "Needs a team to achieve common goals."
+  },
+  {
+   "front": "Dynamic",
+   "back": "Adapts to environmental changes."
+  },
+  {
+   "front": "Levels of management",
+   "back": "Top, middle, lower (see 1.4)."
+  },
+  {
+   "front": "Efficiency",
+   "back": "Doing the task correctly — getting the maximum output from minimum inputs (\"doing things right\"); concerned with means; input–output ratio."
+  },
+  {
+   "front": "Effectiveness",
+   "back": "Completing the task and achieving goals (\"doing the right things\"); concerned with ends."
+  },
+  {
+   "front": "Technical skill",
+   "back": "Knowledge of and proficiency in a specific method or process — highest need at the lower level."
+  },
+  {
+   "front": "Human (interpersonal) skill",
+   "back": "Ability to work with, understand and motivate people — equally needed at all levels."
+  },
+  {
+   "front": "Conceptual skill",
+   "back": "Ability to see the organisation as a whole, think abstractly and plan strategically — highest at the top level."
+  },
+  {
+   "front": "Later additions",
+   "back": "Diagnostic, analytical, communication, political, design skills."
+  },
+  {
+   "front": "Levels vs skills",
+   "back": "Top — mostly conceptual; middle — a balance; lower — mostly technical."
+  },
+  {
+   "front": "Functions of Management — Organising",
+   "back": "Assigning tasks, grouping activities into departments, delegating authority, establishing relationships and coordinating."
+  },
+  {
+   "front": "Functions of Management — Staffing",
+   "back": "Filling and keeping filled the positions in the organisation structure — manpower planning, recruitment, selection, training, appraisal, compensation."
+  },
+  {
+   "front": "Functions of Management — Directing (leading)",
+   "back": "Instructing, guiding, motivating and supervising people — includes supervision, motivation, leadership, communication."
+  },
+  {
+   "front": "Functions of Management — Controlling",
+   "back": "Measuring actual performance against standards and correcting deviations."
+  },
+  {
+   "front": "Coordination",
+   "back": "The essence of management — synchronising individual efforts to achieve common objectives; not a separate function but running through all."
+  },
+  {
+   "front": "Characteristics of the functions",
+   "back": "Interrelated and continuous; performed at all levels (with varying emphasis); universal. Decision making is an integral part of each."
+  },
+  {
+   "front": "Findings",
+   "back": "Managers work at a fast pace in fragmented bursts, prefer verbal communication, and the roles are interlinked."
+  },
+  {
+   "front": "Pre-industrial/ early management",
+   "back": "Ancient practices — Egyptians (pyramids), Chinese (Sun Tzu's \"Art of War\"), Roman Catholic Church (hierarchy), Kautilya's Arthashastra (state administration), Venetian arsenal, Adam Smith (1776) — division of labour (pin factory example) in \"Wealth of Nations\"."
+  },
+  {
+   "front": "Industrial Revolution (18th century)",
+   "back": "Factory system created need for management of large organisations — problems of labour, supervision, productivity."
+  },
+  {
+   "front": "Pre-classical contributors",
+   "back": "Robert Owen (1771–1858) — \"father of modern personnel management\"; improved working conditions, reduced hours, banned child labour at New Lanark mills, treated workers as \"vital machines\"."
+  },
+  {
+   "front": "Classical period",
+   "back": "Scientific management (Taylor), administrative management (Fayol), bureaucracy (Weber)."
+  },
+  {
+   "front": "Classical Approach — Science, not rule of thumb",
+   "back": "Replace guesswork with scientific study of each task (one best way)."
+  },
+  {
+   "front": "Classical Approach — Harmony, not discord",
+   "back": "Cooperation between management and workers; a \"mental revolution\"."
+  },
+  {
+   "front": "Classical Approach — Cooperation, not individualism",
+   "back": "Workers and managers should work together."
+  },
+  {
+   "front": "Motion study",
+   "back": "Analysing the motions of a job to eliminate wasteful ones (Gilbreths)."
+  },
+  {
+   "front": "Standardisation",
+   "back": "Of tools, materials, methods, conditions, products."
+  },
+  {
+   "front": "Harrington Emerson",
+   "back": "\"12 principles of efficiency\"; efficiency engineering."
+  },
+  {
+   "front": "Henri Fayol (1841–1925)",
+   "back": "French mining engineer; \"Father of Modern (Administrative) Management\"; book \"Administration Industrielle et Générale\" (1916); focused on top-level management."
+  },
+  {
+   "front": "Six activities of an industrial enterprise",
+   "back": "Technical (production), commercial (buying/ selling), financial, security (protection), accounting, managerial."
+  },
+  {
+   "front": "Fayol vs Taylor",
+   "back": "Taylor — shop floor, scientific approach, specialist; Fayol — top management, general theory, administrative; Taylor: \"Father of scientific management\"; Fayol: \"Father of administration/ general management\"."
+  },
+  {
+   "front": "Other contributors",
+   "back": "Luther Gulick and Lyndall Urwick (POSDCORB), James D. Mooney (coordination, scalar principle), Chester Barnard (cooperative system; \"The Functions of the Executive\", 1938; acceptance theory of authority)."
+  },
+  {
+   "front": "Bureaucracy — Max Weber (1864–1920)",
+   "back": "German sociologist; \"ideal type\" of organisation based on rational-legal authority."
+  },
+  {
+   "front": "Types of authority",
+   "back": "Traditional (customs, inheritance), charismatic (personal qualities of the leader), legal-rational (rules and laws — bureaucracy)."
+  },
+  {
+   "front": "Reasons for emergence",
+   "back": "Classical theories neglected the human factor; growth of trade unions; findings of the Hawthorne studies."
+  },
+  {
+   "front": "Human Relations Movement and Behavioural Approach — Illumination experiments (1924–27)",
+   "back": "Varying lighting showed output rose in both test and control groups — lighting was not the main factor."
+  },
+  {
+   "front": "Human Relations Movement and Behavioural Approach — Relay assembly test room (1927–29)",
+   "back": "Six women assemblers; changes in rest breaks, hours, snacks; output rose regardless — due to attention, group cohesion and a sense of importance (the Hawthorne effect)."
+  },
+  {
+   "front": "Human Relations Movement and Behavioural Approach — Mass interviewing programme (1928–30)",
+   "back": "20,000 employees interviewed; showed importance of social needs and feelings; informal organisation."
+  },
+  {
+   "front": "Human Relations Movement and Behavioural Approach — Bank wiring observation room (1931–32)",
+   "back": "Men's group set its own output norm; informal group norms influence output more than financial incentives."
+  },
+  {
+   "front": "Criticism of human relations",
+   "back": "Overemphasis on informal groups and \"happy worker = productive worker\"; ignored the economic and structural factors; weak research."
+  },
+  {
+   "front": "Quantitative (management science/ operations research) approach",
+   "back": "Uses mathematical models, statistics and computer simulation for decision making — linear programming, queuing, PERT/CPM, decision trees, inventory models, game theory, MIS. Evolved during World War II (operations research). Features: decision-centred, mathematical, computer-aided. Limitations: ignores human factors;"
+  },
+  {
+   "front": "Systems approach",
+   "back": "An organisation is a system — a set of interrelated, interdependent parts working together to achieve goals."
+  },
+  {
+   "front": "Concepts",
+   "back": "Inputs → transformation (process) → outputs with feedback; subsystems; open system (interacts with the environment) vs closed system; synergy (the whole is greater than the sum of the parts); entropy; equifinality; boundaries; holism."
+  },
+  {
+   "front": "Modern Approaches — Benefits",
+   "back": "Integrated view of the organisation and its environment; shows interdependence of departments. Limitations: abstract; difficult to apply."
+  },
+  {
+   "front": "Contingency (situational) approach",
+   "back": "There is no \"one best way\"; the best management style depends on the situation (\"it all depends\"). Contributors: Joan Woodward (technology and structure), Tom Burns and Stalker (mechanistic vs organic organisations), Lawrence and Lorsch (differentiation and integration), Fred Fiedler (contingency model of leadership),…"
+  },
+  {
+   "front": "Other modern approaches",
+   "back": "Total Quality Management (Deming, Juran), Mckinsey 7-S, Learning organisation (Senge), Business Process Re-engineering, Knowledge management, Management by Objectives (Drucker), Peters and Waterman's \"In Search of Excellence\", Theory Z (Ouchi)."
+  },
+  {
+   "front": "Planning",
+   "back": "The process of deciding in advance what to do, how to do it, when to do it and who is to do it; selecting objectives and the policies, procedures and programmes to achieve them."
+  },
+  {
+   "front": "Planning — Limitations",
+   "back": "Leads to rigidity; may not work in a dynamic environment; reduces creativity; involves huge costs; time-consuming; does not guarantee success; planning premises may be wrong; resistance; lack of accurate information; psychological barriers."
+  },
+  {
+   "front": "Mission/ purpose",
+   "back": "The basic reason for the existence of the enterprise."
+  },
+  {
+   "front": "Types of Plans — Methods",
+   "back": "The prescribed way in which one step of a procedure is to be performed."
+  },
+  {
+   "front": "Projects",
+   "back": "A single-use set of activities with a definite start and end (e.g. building a plant)."
+  },
+  {
+   "front": "Budgets",
+   "back": "Statements of expected results expressed in numerical (financial) terms."
+  },
+  {
+   "front": "Types of Plans — By time",
+   "back": "Long-range (strategic), medium-range, short-range (operational)."
+  },
+  {
+   "front": "Types of Plans — By specificity",
+   "back": "Specific vs directional (flexible); contingency plans (alternate plans)."
+  },
+  {
+   "front": "Planning premises",
+   "back": "The assumptions or forecasts about the future on which plans are based — the foundation of planning."
+  },
+  {
+   "front": "Planning Process and Premises — Classification",
+   "back": "Internal (within the organisation — policies, resources, capital investment, management ability, labour relations, organisation structure) vs External (outside — economic, political, legal, technological, social, competitors, government policy, market conditions)."
+  },
+  {
+   "front": "Forecasting techniques",
+   "back": "Time series, regression, Delphi technique, market surveys, expert opinion, scenario analysis, trend extrapolation."
+  },
+  {
+   "front": "Tools of environment analysis",
+   "back": "SWOT (Strengths, Weaknesses — internal; Opportunities, Threats — external), PESTLE (political, economic, social, technological, legal, environmental), BCG matrix (stars, cash cows, question marks, dogs), Porter's five forces, GE matrix, Ansoff matrix."
+  },
+  {
+   "front": "Policies",
+   "back": "Formulated by top management; characteristics: clear, consistent, flexible, in writing, uniform, derived from objectives, widely communicated. Types: originated, appealed, imposed (by government), implied; organisational vs functional policies (production, marketing, finance, personnel)."
+  },
+  {
+   "front": "Procedures",
+   "back": "Details the step-by-step course of action; characteristics: chronological; routine; prevents duplication; specific to each department; example — purchase procedure: requisition → inquiry → quotations → order → receipt → inspection → payment."
+  },
+  {
+   "front": "Difference between policy and strategy",
+   "back": "Policy — a guide to decision making within set limits; strategy — a comprehensive plan for long-term competitive advantage."
+  },
+  {
+   "front": "Overcoming limitations of planning",
+   "back": "Involve employees, build flexibility (contingency plans), ensure accurate information, use scientific forecasting, regular review, balance between costs and benefits."
+  },
+  {
+   "front": "Decision making",
+   "back": "The process of choosing the best alternative from the available alternatives to achieve objectives. (Peter Drucker: \"Whatever a manager does he does through decision making\"; Herbert Simon: \"decision making is synonymous with managing\".)"
+  },
+  {
+   "front": "Decision Making — Importance",
+   "back": "The essence of managerial work; selecting objectives; basis of all functions; ensures organisational efficiency; influences the success; a guide to action; provides uniformity; accountability; motivates employees."
+  },
+  {
+   "front": "Decision Making — Characteristics",
+   "back": "Selection of the best alternative; goal-oriented; a mental process; a continuous activity; commitment to action; involves time and risk; positive or negative (choice not to act)."
+  },
+  {
+   "front": "Decision-making environment",
+   "back": "Certainty, risk, uncertainty (and ambiguity)."
+  },
+  {
+   "front": "Herbert Simon's three phases",
+   "back": "Intelligence (identify problem), Design (develop alternatives), Choice (select the best)."
+  },
+  {
+   "front": "Models",
+   "back": "Rational (classical) model — complete information, optimising; Bounded rationality (Simon) — limited information and cognitive capacity, so managers \"satisfice\" (accept a satisfactory solution); Administrative model; Intuitive/ retrospective; Garbage can model; Incremental model (Lindblom — \"muddling through\");"
+  },
+  {
+   "front": "Rowe and Mason's four styles",
+   "back": "Directive (low tolerance of ambiguity, rational and fast — focus on the short term), Analytical (high tolerance, rational; seeks more information), Conceptual (high tolerance, intuitive; creative, long-term), Behavioural (low tolerance, intuitive; supportive of people)."
+  },
+  {
+   "front": "Group decision making",
+   "back": "Advantages — more information and knowledge, diversity of views, acceptance and commitment, legitimacy; disadvantages — time-consuming, conformity pressure (groupthink), dominance by one member, ambiguous responsibility. Techniques: brainstorming, nominal group technique, Delphi technique, electronic meeting, devil's advocate."
+  },
+  {
+   "front": "Decision-Making Process, Styles and Models — Tools",
+   "back": "Decision tree (expected monetary value), SWOT, cost–benefit analysis, break-even analysis, linear programming, PERT/CPM, simulation, payoff matrix; decision criteria under uncertainty: maximin (Wald), maximax, minimax regret (Savage), Hurwicz, Laplace."
+  },
+  {
+   "front": "Heuristics",
+   "back": "Mental shortcuts that can cause systematic biases."
+  },
+  {
+   "front": "Overconfidence bias",
+   "back": "Overestimating one's ability/ knowledge."
+  },
+  {
+   "front": "Availability bias",
+   "back": "Judging by easily recalled examples."
+  },
+  {
+   "front": "Representativeness bias",
+   "back": "Judging by similarity to stereotypes."
+  },
+  {
+   "front": "Framing effect",
+   "back": "The way information is presented affects choice."
+  },
+  {
+   "front": "Randomness error",
+   "back": "Seeing patterns in random events."
+  },
+  {
+   "front": "Organising",
+   "back": "The process of identifying and grouping the work to be performed, defining and delegating authority and responsibility, and establishing relationships to enable people to work together effectively."
+  },
+  {
+   "front": "Nature and Purpose of Organising — Features",
+   "back": "Division of work; grouping of activities; coordination; authority–responsibility relationships; common objectives; a continuous process; a dynamic function; structure showing who reports to whom."
+  },
+  {
+   "front": "Purpose/ importance",
+   "back": "Benefits of specialisation (division of labour); clarity in working relationships; optimum use of resources; coordination; adaptation to change; effective administration; development of personnel; expansion and growth; avoids duplication and confusion."
+  },
+  {
+   "front": "Steps in the process of organising",
+   "back": "(1) identification and division of work; (2) departmentalisation (grouping); (3) assignment of duties; (4) establishing reporting relationships (hierarchy); (5) delegation of authority; (6) coordination."
+  },
+  {
+   "front": "Departmentalisation — bases",
+   "back": "Functional (production, marketing, finance, HR), product, territory/ geographic, customer, process/ equipment, time (shift), project/matrix, number."
+  },
+  {
+   "front": "Principles of organising",
+   "back": "Division of labour; unity of objective; unity of command; scalar chain; span of control; delegation; parity of authority and responsibility; balance; continuity; flexibility; efficiency; simplicity; coordination; unity of direction; exception; clarity."
+  },
+  {
+   "front": "Principles of Organising and Types of Organisational Stru... — Functional organisation (Taylor)",
+   "back": "Functional foremen/ specialists each in a function; more than one boss. Merits: specialisation, efficiency. Demerits: violates unity of command, confusion, difficult discipline."
+  },
+  {
+   "front": "Principles of Organising and Types of Organisational Stru... — Divisional (product/ territory) structure",
+   "back": "Divisions — each division is self-contained with its own functional units; used by large diversified firms (e.g. Tata, Reliance). Merits: accountability, focus, easier expansion. Demerits: duplication of resources, inter-division rivalry, high cost."
+  },
+  {
+   "front": "Principles of Organising and Types of Organisational Stru... — Matrix organisation",
+   "back": "A grid combining functional and project/ product structures — dual command (two bosses); used in aerospace, construction, consulting. Merits: flexibility, optimum use of specialists, teamwork. Demerits: dual authority conflicts, complexity, stress."
+  },
+  {
+   "front": "Principles of Organising and Types of Organisational Stru... — Project organisation",
+   "back": "Temporary, task-force based."
+  },
+  {
+   "front": "Tall vs flat structure",
+   "back": "Tall — narrow span, many levels, slower communication, more control; Flat — wide span, few levels, quicker communication, more autonomy."
+  },
+  {
+   "front": "Authority, Delegation, Centralisation and Decentralisation — Types of authority",
+   "back": "Line, staff, functional authority. Sources: formal, expert, referent, reward, coercive (French and Raven's five bases of power)."
+  },
+  {
+   "front": "Authority, Delegation, Centralisation and Decentralisation — Process",
+   "back": "(1) assign duties; (2) grant authority; (3) create obligation/ accountability; (4) follow-up."
+  },
+  {
+   "front": "Authority, Delegation, Centralisation and Decentralisation — Importance",
+   "back": "Reduces manager's burden; develops subordinates; quick decisions; motivation; efficiency; basis of organisation; helps expansion."
+  },
+  {
+   "front": "Principles of delegation",
+   "back": "Results expected; parity of authority and responsibility; unity of command; absoluteness of responsibility; exception principle; clarity of authority."
+  },
+  {
+   "front": "Delegation vs decentralisation",
+   "back": "Delegation is a process between a superior and subordinate; decentralisation is a policy of systematic dispersal of authority throughout the organisation."
+  },
+  {
+   "front": "Centralisation",
+   "back": "Concentration of decision-making authority at the top; Decentralisation: systematic delegation of authority to lower levels."
+  },
+  {
+   "front": "Span of control (span of management)",
+   "back": "The number of subordinates who can be effectively supervised by one superior."
+  },
+  {
+   "front": "Graicunas' formula (V.A. Graicunas, 1933)",
+   "back": "The number of possible relationships = n[2n−1 + (n − 1)], where n = the number of subordinates. Example: n = 3: 3[4 + 2] = 18; n = 4: 4[8 + 3] = 44; n = 5: 5[16 + 4] = 100; n = 6: 6[32 + 5] = 222. It shows relationships (direct single, cross, and group) increase geometrically."
+  },
+  {
+   "front": "Factors affecting span",
+   "back": "Nature of work (routine — wider), ability of manager and subordinates, nature of the organisation, similarity of work, clarity of plans, delegation, communication systems, geographical dispersion, degree of control, availability of staff assistance, motivation, time available."
+  },
+  {
+   "front": "Relationship between span of control and levels",
+   "back": "Inverse — narrower span = more levels (tall); wider span = fewer levels (flat)."
+  },
+  {
+   "front": "Management by Objectives (MBO)",
+   "back": "A participative process in which managers and subordinates jointly set objectives, define each person's responsibilities in terms of results and use the objectives as guides for operating and assessing performance. Popularised by Peter Drucker (1954, \"The Practice of Management\"); developed by George Odiorne and John Humble."
+  },
+  {
+   "front": "MBO and MBE — Features",
+   "back": "Participative goal setting; measurable results; time frame; joint review; self-control; links individual and organisational goals."
+  },
+  {
+   "front": "MBO and MBE — Limitations",
+   "back": "Time-consuming and paperwork; difficulty in setting quantifiable goals; overemphasis on short-term and quantity; rigid in a changing environment; conflict between goals; lack of top-management commitment; fear of failure."
+  },
+  {
+   "front": "Management by Exception (MBE)",
+   "back": "A control principle in which the manager's attention is focused only on significant deviations (exceptions) from standards; routine matters are handled by subordinates. Originally from F.W. Taylor's exception principle."
+  },
+  {
+   "front": "MBO vs MBE",
+   "back": "MBO — proactive, goal-based, participative; MBE — focuses on deviations, a control technique."
+  },
+  {
+   "front": "Staffing",
+   "back": "The managerial function of filling and keeping filled the positions in the organisation structure by identifying workforce requirements, recruiting, selecting, placing, training, developing, appraising and compensating people."
+  },
+  {
+   "front": "Staffing — Nature",
+   "back": "An important managerial function; pervasive (all managers at all levels); continuous; people-oriented; a part of human resource management (HRM) — staffing is narrower than HRM, as HRM also covers industrial relations, welfare, grievances and collective bargaining."
+  },
+  {
+   "front": "Staffing — Importance",
+   "back": "Obtains competent personnel for various jobs; ensures higher performance through proper selection and training; continuous survival and growth (succession planning); optimum utilisation of human resources (avoids over-/ under-staffing); improves job satisfaction and morale; basis for all other functions;"
+  },
+  {
+   "front": "Staffing process",
+   "back": "(1) estimating manpower requirements (human resource planning); (2) recruitment; (3) selection; (4) placement and orientation (induction); (5) training and development; (6) performance appraisal; (7) promotion and career planning; (8) compensation."
+  },
+  {
+   "front": "Staffing as part of HRM; difference",
+   "back": "Staffing vs HRM — HRM is broader; staffing covers acquisition and development while HRM includes motivation, relations and welfare."
+  },
+  {
+   "front": "HRP",
+   "back": "The process of forecasting the organisation's future demand and supply of human resources and developing plans to match them so that the right number of people with the right skills are available at the right time and place."
+  },
+  {
+   "front": "Human Resource Planning (HRP) — Objectives",
+   "back": "To avoid shortage and surplus; to ensure optimum use of personnel; to plan for expansion, diversification and technology; to help in recruitment, training and development; to control labour costs; succession planning."
+  },
+  {
+   "front": "Human Resource Planning (HRP) — Forecast demand for human resources — methods",
+   "back": "Managerial judgement, Delphi technique, work-load analysis, work-study (method) technique, ratio-trend analysis, regression analysis, simulation, productivity ratios."
+  },
+  {
+   "front": "Human Resource Planning (HRP) — Forecast supply",
+   "back": "Internal (skills inventory, replacement charts, Markov analysis, turnover, absenteeism, promotion) and external (labour market, population, education)."
+  },
+  {
+   "front": "Human Resource Planning (HRP) — Develop action plans — surplus",
+   "back": "Hiring freeze, retraining, transfer, voluntary retirement, lay-off, retrenchment; shortage: recruitment, overtime, training, outsourcing."
+  },
+  {
+   "front": "Job analysis",
+   "back": "The systematic study of a job to find its duties, tasks, responsibilities and the skills needed. Outputs: Job description (what the job involves — title, duties, responsibilities, working conditions, reporting) and Job specification (the qualifications, skills, experience, personality and physical traits required of the…"
+  },
+  {
+   "front": "Recruitment",
+   "back": "The process of searching for prospective employees and stimulating them to apply for jobs in the organisation. (Edwin Flippo: \"the process of searching for prospective employees and stimulating and encouraging them to apply for jobs in an organisation.\") It is a positive process; selection is a negative (rejecting) process."
+  },
+  {
+   "front": "Internal sources",
+   "back": "Promotions, transfers, job rotation, retired employees/ re-employment, employee referrals, internal job posting, former employees, dependents of deceased/ disabled employees. Merits: motivation, economical, reliable, quick, no induction needed. Demerits: limited choice, no new blood, internal politics, discourages competition."
+  },
+  {
+   "front": "External sources",
+   "back": "Direct recruitment (notice board), advertisement (newspapers, online), employment exchanges, campus recruitment, placement agencies/ headhunters/ consultancies, walk-in interviews, e-recruitment/ job portals (Naukri, LinkedIn), social media, labour contractors, trade unions, recommendations, casual callers, outsourcing, gig…"
+  },
+  {
+   "front": "Recruitment — Methods",
+   "back": "Direct, indirect (advertisement), third-party (agencies)."
+  },
+  {
+   "front": "Factors affecting recruitment",
+   "back": "Image of the company, job requirements, cost, labour market conditions, government policy (reservation, labour laws), trade union, working conditions, pay."
+  },
+  {
+   "front": "Selection",
+   "back": "The process of choosing the most suitable candidates from the pool of applicants."
+  },
+  {
+   "front": "Selection — Selection tests",
+   "back": "Aptitude tests (intelligence/ mental ability, numerical, verbal, mechanical), personality tests (projective, inventories), interest tests, proficiency/ achievement (trade) tests, situational/ job-simulation tests, psychometric tests, group discussion, assessment centres."
+  },
+  {
+   "front": "Selection — Interview",
+   "back": "Types — structured, unstructured, panel, stress, behavioural (situational), telephonic, video, group, one-to-one, depth."
+  },
+  {
+   "front": "Qualities of a good test",
+   "back": "Validity, reliability, objectivity, standardisation."
+  },
+  {
+   "front": "Differences",
+   "back": "Selection vs placement — placement is putting the selected person on the right job."
+  },
+  {
+   "front": "Training",
+   "back": "A short-term, job-specific process to improve skills and knowledge for the present job. Development: a long-term, career-oriented process aimed at future roles and overall growth (managerial and conceptual skills). Education: theoretical learning."
+  },
+  {
+   "front": "Need and importance of training",
+   "back": "Improves performance and productivity; reduces wastage and accidents; reduces supervision; builds morale; helps adapt to technology; reduces turnover; prepares for promotion; enhances quality; bridges the gap between required and actual performance."
+  },
+  {
+   "front": "Training process",
+   "back": "(1) identify training needs (organisational, task, person analysis); (2) set objectives; (3) design the programme; (4) implement; (5) evaluate (Kirkpatrick's four levels — reaction, learning, behaviour, results); (6) feedback."
+  },
+  {
+   "front": "On-the-job",
+   "back": "Coaching, job rotation, understudy, apprenticeship, internship, job instruction training (JIT), mentoring, committee assignments. Merits: practical, economical, learning by doing; demerits: disrupts work, poor trainer, damage/ errors."
+  },
+  {
+   "front": "Off-the-job",
+   "back": "Lectures/ classroom, case study, role play, simulation, vestibule training, conferences/ seminars, programmed instruction, e-learning/ virtual reality, management games, sensitivity (T-group) training, in-basket exercise, workshops. Merits: focused; demerits: costly, transfer problems."
+  },
+  {
+   "front": "Management development programmes",
+   "back": "Job rotation, understudy, coaching, multiple management, action learning, case studies, role playing, MDPs at institutes."
+  },
+  {
+   "front": "Ranking method",
+   "back": "Employees ranked from best to worst."
+  },
+  {
+   "front": "Forced distribution",
+   "back": "Fixed percentages in each category (bell-curve)."
+  },
+  {
+   "front": "Graphic rating scale",
+   "back": "Traits rated on a scale (1–5)."
+  },
+  {
+   "front": "Critical incident method",
+   "back": "Records of significant positive/ negative behaviour."
+  },
+  {
+   "front": "Assessment centre method",
+   "back": "Simulations, tests, exercises by assessors."
+  },
+  {
+   "front": "Human resource accounting method",
+   "back": "Cost and contribution of employees."
+  },
+  {
+   "front": "Directing",
+   "back": "The managerial function of instructing, guiding, supervising, communicating with and motivating people to achieve organisational objectives — \"the heart of management\"."
+  },
+  {
+   "front": "Directing — Elements",
+   "back": "Supervision, motivation, leadership, communication. Principles: harmony of objectives, maximum individual contribution, unity of command, appropriateness of direction, direct supervision, effective communication, use of informal organisation, leadership, follow-through."
+  },
+  {
+   "front": "Leadership",
+   "back": "The process of influencing and inspiring people to work willingly and enthusiastically towards group goals. (Koontz: \"the art or process of influencing people so that they will strive willingly and enthusiastically toward the achievement of group goals\";"
+  },
+  {
+   "front": "Qualities of a good leader",
+   "back": "Physical features, knowledge, integrity, initiative, communication skills, motivation skills, self-confidence, decisiveness, social skills, objectivity."
+  },
+  {
+   "front": "Leadership vs management",
+   "back": "Every manager need not be a leader; every leader need not be a manager; ideal manager is both."
+  },
+  {
+   "front": "Leadership Styles — Autocratic (authoritarian)",
+   "back": "The leader takes all decisions alone and expects obedience; centralised authority; one-way communication. Merits: quick decisions, discipline, clear direction in crisis; demerits: low morale, no initiative, resentment, absenteeism and turnover. Suited for unskilled, uneducated workers or emergencies."
+  },
+  {
+   "front": "Leadership Styles — Democratic (participative)",
+   "back": "Decisions are taken after consulting and involving the group; two-way communication; delegation. Merits: high morale, creativity, commitment, job satisfaction; demerits: slow, may cause indecision; suitable for skilled, educated, motivated teams."
+  },
+  {
+   "front": "Leadership Styles — Laissez-faire (free-rein)",
+   "back": "Leader gives complete freedom to the group to decide; minimum interference; Merits: high autonomy, creativity in experts; demerits: lack of direction, confusion, lack of coordination."
+  },
+  {
+   "front": "Leadership Styles — Paternalistic",
+   "back": "The leader acts like a father figure, caring for the welfare of subordinates but taking decisions himself; expects loyalty. Merits: loyalty, harmony; demerits: dependency, stifles initiative."
+  },
+  {
+   "front": "Other styles",
+   "back": "Transformational (inspires and changes followers — Bass, Burns), transactional (reward-punishment exchange), charismatic, servant, bureaucratic, situational, coaching, visionary, pacesetting."
+  },
+  {
+   "front": "Factors for style selection",
+   "back": "Nature of task; followers' maturity; leader's personality; organisational culture; time; situation."
+  },
+  {
+   "front": "Ohio State studies (1945)",
+   "back": "Two dimensions — initiating structure (task orientation) and consideration (people orientation)."
+  },
+  {
+   "front": "University of Michigan studies",
+   "back": "Employee-centred vs production-centred leaders."
+  },
+  {
+   "front": "Lewin's studies",
+   "back": "Autocratic, democratic, laissez-faire."
+  },
+  {
+   "front": "Blake and Mouton's Managerial Grid (1964)",
+   "back": "Two axes — concern for people and concern for production (1 to 9 scale):"
+  },
+  {
+   "front": "Likert's four systems",
+   "back": "Exploitative-authoritative, benevolent-authoritative, consultative, participative."
+  },
+  {
+   "front": "Hersey and Blanchard's situational leadership",
+   "back": "Style depends on the maturity (readiness) of followers — telling (S1), selling (S2), participating (S3), delegating (S4)."
+  },
+  {
+   "front": "Motivation",
+   "back": "The process of stimulating people to take action to accomplish goals — the inner force that drives behaviour. (Robert Dubin: \"the complex of forces starting and keeping a person at work.\") Motive = inner drive; motivation = process; motivator = tool."
+  },
+  {
+   "front": "Motivation — Features",
+   "back": "Psychological/ internal; goal-directed; complex; a continuous process; positive or negative; unlimited needs."
+  },
+  {
+   "front": "Motivation — Importance",
+   "back": "Improves performance and productivity; reduces absenteeism and turnover; creates a positive attitude; achieves organisational goals; facilitates change; develops team spirit."
+  },
+  {
+   "front": "Motivation process",
+   "back": "Unsatisfied need → tension/ drive → search behaviour → need satisfied → reduction of tension (and a new need arises)."
+  },
+  {
+   "front": "Types of motivation",
+   "back": "Intrinsic (from within — interest, achievement) vs extrinsic (external — pay, reward). Positive vs negative motivation."
+  },
+  {
+   "front": "Financial incentives",
+   "back": "Wages, bonus, profit sharing, commission, stock options, perquisites. Non-financial: status, recognition, job security, job enrichment, participation, delegation, autonomy, praise, career opportunities, working conditions."
+  },
+  {
+   "front": "Abraham Maslow (1943), \"A Theory of Human Motivation\"",
+   "back": "Needs arranged in a hierarchy of five levels; a satisfied need is no longer a motivator — people move to the next level."
+  },
+  {
+   "front": "Maslow's Hierarchy of Needs Theory — Assumptions",
+   "back": "Needs are in order of priority; unsatisfied needs motivate; a person moves up when lower needs are satisfied; levels 1–2 are lower-order, 3–5 higher-order."
+  },
+  {
+   "front": "Maslow's Hierarchy of Needs Theory — Criticism",
+   "back": "Rigid hierarchy not universal; cultural differences; needs may overlap; lack of empirical support; different individuals have different priorities; self-actualisation is vague."
+  },
+  {
+   "front": "Application",
+   "back": "Managers should identify the dominant need of each employee and offer matching rewards."
+  },
+  {
+   "front": "Douglas McGregor (1960), \"The Human Side of Enterprise\"",
+   "back": "Two sets of assumptions about human nature."
+  },
+  {
+   "front": "Theory Z (William Ouchi)",
+   "back": "Japanese-style — long-term employment, consensus decision making, collective responsibility, holistic concern."
+  },
+  {
+   "front": "Critique",
+   "back": "McGregor's X and Y are extremes; the same person may behave differently in different situations."
+  },
+  {
+   "front": "Hygiene factors",
+   "back": "Their absence causes dissatisfaction, but their presence does not motivate (only prevents dissatisfaction) — they bring employees to a \"neutral\" state."
+  },
+  {
+   "front": "Motivators",
+   "back": "Their presence causes satisfaction and motivation; absence means no satisfaction (but not dissatisfaction)."
+  },
+  {
+   "front": "Herzberg's Two-Factor Theory — Implication",
+   "back": "Satisfaction and dissatisfaction are not opposites — the opposite of satisfaction is \"no satisfaction\" and the opposite of dissatisfaction is \"no dissatisfaction\". Managers must first ensure hygiene factors and then use job enrichment (vertical loading)."
+  },
+  {
+   "front": "Herzberg's Two-Factor Theory — Criticism",
+   "back": "Based on a small sample (engineers and accountants); method-bound (people credit themselves for satisfaction and blame others); ignores individual differences; pay can be a motivator."
+  },
+  {
+   "front": "Herzberg vs Maslow",
+   "back": "Hygiene ≈ lower-order needs (levels 1–3); motivators ≈ higher-order (levels 4–5)."
+  },
+  {
+   "front": "Victor Vroom (1964), \"Work and Motivation\"",
+   "back": "A person's motivation depends on the expected outcome of effort."
+  },
+  {
+   "front": "--- Valence",
+   "back": "The value or attractiveness of the reward to the individual."
+  },
+  {
+   "front": "Vroom's Expectancy Theory and Other Theories — Criticism",
+   "back": "Complex; difficult to measure; assumes rational calculation."
+  },
+  {
+   "front": "Alderfer's ERG theory",
+   "back": "Existence, Relatedness, Growth; frustration–regression principle."
+  },
+  {
+   "front": "McClelland's achievement theory",
+   "back": "Need for achievement (nAch), power (nPow), affiliation (nAff)."
+  },
+  {
+   "front": "Locke's goal-setting theory",
+   "back": "Specific and challenging goals with feedback improve performance."
+  },
+  {
+   "front": "Controlling",
+   "back": "The managerial function of measuring and correcting performance to make sure that enterprise objectives and plans are accomplished."
+  },
+  {
+   "front": "Controlling — Features",
+   "back": "Goal-oriented; pervasive (all levels and organisations); continuous process; backward as well as forward looking; a dynamic process; relates to planning (closely linked); involves measurement; a positive function (not just fault-finding); every manager's responsibility; action-oriented."
+  },
+  {
+   "front": "Controlling — Importance",
+   "back": "Accomplishes organisational goals; judges the accuracy of standards; makes efficient use of resources; improves employee motivation; ensures order and discipline; facilitates coordination; reduces risk; detects errors and frauds."
+  },
+  {
+   "front": "Planning–controlling relationship",
+   "back": "\"inseparable twins\"; planning is prescriptive (looks ahead), control is evaluative (looks back); planning sets the standards, controlling checks the achievement; plans without controls are useless; control without plans is meaningless; planning is a precondition; controlling is a post-condition."
+  },
+  {
+   "front": "Controlling — Limitations",
+   "back": "Difficulty in setting quantitative standards; little control over external factors; resistance from employees; costly (time and money); needs trained staff; may lead to short-termism."
+  },
+  {
+   "front": "Step 1",
+   "back": "Establishing standards — criteria against which actual performance is measured. Types: quantitative (sales, production, cost, time), qualitative (service quality, brand image). Criteria should be specific, measurable and achievable; critical points (key result areas — KRAs)."
+  },
+  {
+   "front": "Step 2",
+   "back": "Measurement of actual performance — personal observation, sample checking, performance reports, statistical analysis, and management information system (MIS); objectivity and timeliness are needed."
+  },
+  {
+   "front": "Step 3",
+   "back": "Comparing actual performance with standards — find the deviation; range of tolerance and critical points."
+  },
+  {
+   "front": "Step 4",
+   "back": "Analysing deviations — find the cause; controllable vs uncontrollable; critical points require immediate action; management by exception."
+  },
+  {
+   "front": "Step 5",
+   "back": "Taking corrective action — remedial actions, or revision of standards if unrealistic; no action if deviation is within tolerance; feedback to planning."
+  },
+  {
+   "front": "Feedforward (preliminary/ steering) control",
+   "back": "Applied before the activity — anticipates problems (inputs — quality of raw material, budgets, training, preventive maintenance). Concurrent (real-time/ yes–no) control: applied during the activity — direct supervision, quality checks on the shop floor, automatic controls."
+  },
+  {
+   "front": "Types of Control — By level",
+   "back": "Strategic control (top-level; long-term — overall performance), tactical (middle level), operational (day-to-day)."
+  },
+  {
+   "front": "Types of Control — By nature",
+   "back": "Preventive vs corrective; bureaucratic vs organic (clan) control; market control; financial control, quality control, inventory control, production control, cost control, personnel/ HR control, marketing control."
+  },
+  {
+   "front": "Standard costing and variance analysis",
+   "back": "Compare standard cost with actual cost; variances: material (price, usage), labour (rate, efficiency), overhead; favourable (F) vs adverse (A). Example: standard material cost Rs 10 per unit × 1,000 units = 10,000; actual 11,500 → adverse variance Rs 1,500."
+  },
+  {
+   "front": "Internal audit",
+   "back": "An independent appraisal of the operations by the organisation's own staff. Management audit: a systematic evaluation of the management's performance and efficiency."
+  },
+  {
+   "front": "Management Information System (MIS)",
+   "back": "Provides timely and accurate information for decisions and control. ERP, dashboards, data analytics."
+  },
+  {
+   "front": "Total Quality Management (TQM)",
+   "back": "Continuous improvement of quality by all (Deming, Juran, Crosby); Six Sigma (defects below 3.4 per million; DMAIC); Kaizen; ISO 9001; just-in-time (JIT); statistical quality control (control charts)."
+  },
+  {
+   "front": "Balanced Scorecard (Kaplan and Norton)",
+   "back": "Four perspectives — financial, customer, internal business process, learning and growth."
+  },
+  {
+   "front": "Behavioural implications of control",
+   "back": "Employees may resist (fear of exposure; feeling of being watched); overcoming resistance — participation, setting realistic standards, motivation, clear communication, positive attitude, fair application, emphasis on self-control."
+  },
+  {
+   "front": "Agile management",
+   "back": "An iterative and incremental approach to managing projects and teams that values flexibility, collaboration, customer feedback and rapid delivery over rigid plans. Originated in software development; the Agile Manifesto (2001) was written by 17 developers at Snowbird, Utah."
+  },
+  {
+   "front": "Four values of the Agile Manifesto",
+   "back": "Individuals and interactions over processes and tools; working software (product) over comprehensive documentation; customer collaboration over contract negotiation; responding to change over following a plan. (The items on the right are valued, but the items on the left are valued more.)"
+  },
+  {
+   "front": "Scrum",
+   "back": "Work done in fixed-length sprints (1–4 weeks). Roles: Product Owner (maximises value, owns the backlog), Scrum Master (facilitator, removes obstacles), Development Team (cross-functional, self-organising). Events: Sprint planning, daily scrum (stand-up, 15 minutes), sprint review, sprint retrospective."
+  },
+  {
+   "front": "Kanban",
+   "back": "Visual board (To Do – Doing – Done); limits work-in-progress (WIP); continuous flow."
+  },
+  {
+   "front": "Extreme Programming (XP)",
+   "back": "Pair programming, test-driven development, continuous integration."
+  },
+  {
+   "front": "Beyond software",
+   "back": "Agile HR, agile marketing, agile manufacturing, and agile leadership (servant leadership, empowerment, psychological safety)."
+  },
+  {
+   "front": "Carroll's CSR pyramid (1991)",
+   "back": "Economic (be profitable) → legal (obey laws) → ethical (do what is right and fair) → philanthropic (be a good corporate citizen)."
+  },
+  {
+   "front": "Stakeholders",
+   "back": "Shareholders, employees, customers, suppliers, government, community, environment."
+  },
+  {
+   "front": "Areas of CSR",
+   "back": "Environment, education, healthcare, rural development, employee welfare, women's empowerment, ethical sourcing, disaster relief, skill development."
+  },
+  {
+   "front": "India was the first country to mandate CSR spending by law. Examples",
+   "back": "Tata Group (education/ health), Infosys Foundation, Reliance Foundation, Mahindra."
+  },
+  {
+   "front": "Criticism/ challenges",
+   "back": "Treated as compliance; greenwashing; lack of impact measurement; fund concentration in some states."
+  },
+  {
+   "front": "Corporate Social Responsibility (CSR) — Related concepts",
+   "back": "Corporate sustainability, triple bottom line (people, planet, profit — John Elkington), Shared value (Porter), ESG, social audit, philanthropy."
+  },
+  {
+   "front": "Ethics",
+   "back": "The set of moral principles that guide behaviour about what is right and wrong. Business ethics: the application of ethical principles to business — fair, honest and responsible conduct towards all stakeholders."
+  },
+  {
+   "front": "Business Ethics — Features",
+   "back": "Based on moral values; concerned with right and wrong; goes beyond legal requirements; relates to stakeholders; voluntary; evolves with society."
+  },
+  {
+   "front": "Principles/ elements",
+   "back": "Honesty and integrity; fairness; transparency; accountability; respect for people; compliance with law; confidentiality; avoidance of conflict of interest; social responsibility; environmental concern; customer safety."
+  },
+  {
+   "front": "Ethical dilemma",
+   "back": "A situation requiring a choice between two conflicting moral options."
+  },
+  {
+   "front": "Ethics vs law vs CSR",
+   "back": "Law — mandatory rules; ethics — moral standards; CSR — voluntary/ mandated contribution to society."
+  },
+  {
+   "front": "Business Ethics — Indian context",
+   "back": "Companies Act 2013, SEBI LODR, Prevention of Corruption Act, 1988, Consumer Protection Act 2019, Competition Act 2002."
+  },
+  {
+   "front": "Green planning",
+   "back": "Environmental objectives, sustainability strategy, life-cycle assessment."
+  },
+  {
+   "front": "Green marketing",
+   "back": "Eco-friendly products, eco-labelling, honest environmental claims (avoid greenwashing)."
+  },
+  {
+   "front": "Green HRM",
+   "back": "Environmental training, green jobs, paperless work, work from home, green incentives."
+  },
+  {
+   "front": "Green finance",
+   "back": "Green bonds, ESG investment, carbon credits."
+  },
+  {
+   "front": "Green supply chain",
+   "back": "Sustainable sourcing, green logistics, reverse logistics."
+  },
+  {
+   "front": "ESG",
+   "back": "Environmental, Social, Governance criteria used by investors."
+  },
+  {
+   "front": "Characteristics (Robbins' ten)",
+   "back": "Innovation and risk taking; attention to detail; outcome orientation; people orientation; team orientation; aggressiveness; stability."
+  },
+  {
+   "front": "Levels of culture (Schein)",
+   "back": "(1) Artefacts — visible (dress, office layout, logos, rituals); (2) Espoused values — stated values, strategies, goals; (3) Basic underlying assumptions — unconscious beliefs."
+  },
+  {
+   "front": "Cameron and Quinn (Competing Values Framework)",
+   "back": "Clan (family-like, collaborative), adhocracy (innovative, dynamic), market (results-oriented, competitive), hierarchy (controlled, structured)."
+  },
+  {
+   "front": "Changing culture",
+   "back": "Needs diagnosis, leadership commitment, communication, restructuring, new rewards, training, symbolic changes, patience; challenges — resistance, long time."
+  },
+  {
+   "front": "Strong culture vs weak",
+   "back": "Strong culture — shared deeply, high behavioural control, higher commitment; but may cause resistance to change, groupthink and barriers to diversity."
+  },
+  {
+   "front": "Organisation culture vs organisation climate",
+   "back": "Culture — deep and lasting (values and assumptions); climate — perceptions of the current environment, short-term, changeable."
+  }
+ ]
+}

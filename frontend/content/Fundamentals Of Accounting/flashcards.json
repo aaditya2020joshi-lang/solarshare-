@@ -1,0 +1,680 @@
+{
+ "flashcards": [
+  {
+   "front": "American Accounting Association (AAA)",
+   "back": "\"the process of identifying, measuring and communicating economic information to permit informed judgements and decisions by users of the information.\""
+  },
+  {
+   "front": "Book-keeping vs Accounting",
+   "back": "Book-keeping is only the recording part (journal, ledger); accounting includes recording + classification + summarising + analysis + interpretation + communication."
+  },
+  {
+   "front": "Meaning and Definition of Accounting — Features",
+   "back": "Economic (financial) events only; measured in money; systematic recording; summarising; analysis and interpretation; communication to users."
+  },
+  {
+   "front": "Users of accounting information",
+   "back": "Internal: owners, management, employees. External: investors, creditors/ lenders (banks), customers, suppliers, government (tax authorities), regulators (SEBI, RBI), researchers, public."
+  },
+  {
+   "front": "Meaning and Definition of Accounting — Functions",
+   "back": "Recording, classifying, summarising, analysing, interpreting, communicating."
+  },
+  {
+   "front": "Meaning and Definition of Accounting — Advantages",
+   "back": "Replaces memory; helps in tax assessment; basis for legal evidence; facilitates sale of business and valuation; helps raise finance; detects errors and frauds; helps comparison."
+  },
+  {
+   "front": "Fundamental accounting assumptions (AS 1 / Ind AS 1)",
+   "back": "Going concern, Consistency, Accrual."
+  },
+  {
+   "front": "Accounting Concepts and Conventions — Money measurement concept",
+   "back": "Only transactions expressible in money are recorded (skill of workers is ignored)."
+  },
+  {
+   "front": "Accounting Concepts and Conventions — Cost concept (historical cost)",
+   "back": "Assets are recorded at their purchase cost, not market value."
+  },
+  {
+   "front": "Accounting Concepts and Conventions — Revenue recognition (realisation) concept",
+   "back": "Revenue is recognised when earned (goods delivered/ services rendered), not when cash is received (AS 9)."
+  },
+  {
+   "front": "Accounting Concepts and Conventions — Objectivity (verifiability) concept",
+   "back": "Records should be supported by documents (vouchers, bills, invoices) and free from bias."
+  },
+  {
+   "front": "Consistency",
+   "back": "Same methods applied year after year (e.g. depreciation method), enabling comparison."
+  },
+  {
+   "front": "Accounting equation (balance sheet equation)",
+   "back": "Assets = Liabilities + Capital (Owner's equity) or Capital = Assets − Liabilities."
+  },
+  {
+   "front": "Asset",
+   "back": "Resource owned by the business with future economic benefit — fixed/ non-current (land, building, machinery), current (cash, debtors, stock, bills receivable, prepaid expenses), tangible vs intangible (goodwill, patents), fictitious assets (preliminary expenses)."
+  },
+  {
+   "front": "Liability",
+   "back": "Obligation to outsiders — current (creditors, bills payable, outstanding expenses, bank overdraft) and long-term (loans, debentures)."
+  },
+  {
+   "front": "Capital",
+   "back": "Amount invested by the owner. Drawings: withdrawal by owner for personal use. Revenue/income: inflow from sales/services. Expense: cost of earning revenue. Gain/loss: incidental. Debtors: persons who owe money. Creditors: persons to whom the business owes. Stock/inventory, Purchases, Sales, Discount (trade and cash), Bad debts."
+  },
+  {
+   "front": "Extended equation",
+   "back": "Assets = Liabilities + Capital + Revenue − Expenses − Drawings. Capital = opening capital + profit − drawings."
+  },
+  {
+   "front": "Accounting Equation — Example",
+   "back": "Assets Rs 5,00,000; outside liabilities Rs 1,50,000 → Capital = Rs 3,50,000."
+  },
+  {
+   "front": "Double entry system (Luca Pacioli, 1494)",
+   "back": "Every transaction has two aspects — a debit and an equal credit. Complete and scientific."
+  },
+  {
+   "front": "Features of double entry",
+   "back": "Two accounts affected; equal debit and credit; complete record of personal, real and nominal accounts; trial balance possible to test arithmetical accuracy; basis for final accounts."
+  },
+  {
+   "front": "Accounting Systems and Process — Advantages",
+   "back": "Complete record, arithmetic accuracy check, ascertains profit/loss and financial position, prevents frauds, helps comparison and tax assessment. Limitations: costlier; cannot detect all errors (compensating errors, errors of principle, omission); needs trained staff."
+  },
+  {
+   "front": "Types of accounts",
+   "back": "Personal (persons, firms, companies, banks, e.g. Ram's A/c, Bank A/c, Capital A/c); Real (assets and property: Cash, Furniture, Building); Nominal (expenses, losses, incomes and gains: Rent, Salaries, Commission received)."
+  },
+  {
+   "front": "Accounting process (cycle)",
+   "back": "Identification of transactions → vouchers/source documents → journal (primary book) → ledger posting → balancing → trial balance → adjusting entries → final accounts (trading, P&L, balance sheet) → closing entries → opening entries for the next year."
+  },
+  {
+   "front": "Accounting cycle (steps)",
+   "back": "1. Identify and analyse transactions; 2. Record in journal/ subsidiary books; 3. Post to ledger; 4. Prepare trial balance; 5. Pass adjusting entries; 6. Prepare adjusted trial balance; 7. Prepare financial statements; 8. Pass closing entries; 9. Post-closing trial balance/ opening entries."
+  },
+  {
+   "front": "GAAP",
+   "back": "The common set of accounting principles, standards and procedures that companies follow in preparing financial statements — ensures consistency, comparability, transparency and reliability."
+  },
+  {
+   "front": "Sources in India",
+   "back": "Companies Act, 2013 (Section 129, Schedule III — format of financial statements; Section 133 — notified standards); Accounting Standards (AS) issued by the ICAI (Institute of Chartered Accountants of India); Indian Accounting Standards (Ind AS) converged with IFRS (issued by IASB) — applicable to listed and larger companies;"
+  },
+  {
+   "front": "Some Accounting Standards",
+   "back": "AS 1 Disclosure of accounting policies; AS 2 Inventories; AS 3 Cash flow statements; AS 6 Depreciation Accounting; AS 9 Revenue recognition; AS 10 Property, plant & equipment; AS 14; AS 16 Borrowing costs; AS 26 Intangible assets. Ind AS 1 Presentation; Ind AS 2 Inventories; Ind AS 16 PPE;"
+  },
+  {
+   "front": "Global",
+   "back": "IFRS (IASB), US GAAP (FASB). National Financial Reporting Authority (NFRA) monitors compliance in India."
+  },
+  {
+   "front": "Generally Accepted Accounting Principles (GAAP) — Principles",
+   "back": "(see concepts above) — plus fair presentation, substance over form, going concern, accrual, comparability, relevance and reliability, understandability."
+  },
+  {
+   "front": "Book-keeping",
+   "back": "The art of recording business transactions in a systematic manner in the books of accounts. (R.N. Carter: \"Book-keeping is the science and art of correctly recording in books of account all those business transactions that result in transfer of money or money's worth.\")"
+  },
+  {
+   "front": "Meaning and Systems of Book-Keeping — Objectives",
+   "back": "To maintain permanent records; to find results (profit/loss); to know financial position; to help in preparation of final accounts and taxation; to protect assets."
+  },
+  {
+   "front": "Meaning and Systems of Book-Keeping — Features",
+   "back": "Records only financial transactions; chronological; based on vouchers; first stage of accounting."
+  },
+  {
+   "front": "Double entry principle",
+   "back": "\"For every debit there is an equal credit\" — total debits = total credits."
+  },
+  {
+   "front": "Meaning of debit and credit",
+   "back": "Debit (Dr) is the left side of an account; credit (Cr) is the right side. Debit does not mean \"bad\" — it is only a side. Abbreviation: Dr (debit), Cr (credit), A/c (account), To/By used in ledger."
+  },
+  {
+   "front": "Personal accounts",
+   "back": "Relate to persons/ organisations. Natural (Ram, Shyam), Artificial (companies, banks, firms, clubs), Representative (outstanding salary — represents the employee; prepaid insurance; capital; drawings)."
+  },
+  {
+   "front": "Real accounts",
+   "back": "Relate to assets/properties. Tangible (cash, furniture, building, stock) and Intangible (goodwill, patents, trademarks)."
+  },
+  {
+   "front": "Nominal accounts",
+   "back": "Relate to expenses, losses, incomes and gains (rent, wages, salaries, interest paid, discount allowed, commission earned, interest received, discount received). Fictitious in nature."
+  },
+  {
+   "front": "Modern (American) approach — five categories",
+   "back": "Assets, Liabilities, Capital, Revenue (Income), Expenses."
+  },
+  {
+   "front": "Mnemonic-free summary",
+   "back": "The left side (debit) shows assets, expenses and drawings; the right side (credit) shows liabilities, capital and income."
+  },
+  {
+   "front": "Differences between English and American systems",
+   "back": "English approach classifies into personal, real and nominal with the golden rules; American approach uses the accounting equation (assets, liabilities, capital, income, expenses) with debit/credit rules for each. Both give identical debit/credit results."
+  },
+  {
+   "front": "English system",
+   "back": "Analyse each transaction into the two accounts, determine nature of each, and apply the golden rule to each."
+  },
+  {
+   "front": "American system",
+   "back": "Determine whether the item is asset/ liability/ capital/ revenue/ expense; apply the increase/ decrease rule."
+  },
+  {
+   "front": "Journal — Features",
+   "back": "Chronological; first record; each entry shows debit and credit accounts; includes narration (brief explanation); dual aspect recorded; source of ledger posting; each transaction recorded after a voucher."
+  },
+  {
+   "front": "Journal — Objectives",
+   "back": "To record all transactions in order; to analyse each transaction into debit and credit; to make posting in the ledger easy; to provide an explanation (narration); to reduce errors."
+  },
+  {
+   "front": "Journal — Advantages",
+   "back": "Chronological record; analytical (shows both accounts); narration helps understanding; helps in detection of errors and frauds; reduces mistakes in ledger posting; evidence for disputes; saves time in ledger posting."
+  },
+  {
+   "front": "Journal — Disadvantages",
+   "back": "Time-consuming and costly for big businesses (hence subsidiary books are used); repeated writing of the same account name; not suitable for voluminous transactions."
+  },
+  {
+   "front": "Columns",
+   "back": "Date; Particulars (accounts with \"Dr.\" and \"To\"; narration in brackets starting with \"Being\"); L.F. (ledger folio) — page number of the ledger account after posting; Debit amount; Credit amount."
+  },
+  {
+   "front": "Trade discount vs cash discount",
+   "back": "Trade discount (reduction in list price; not recorded in books — record only the net amount) vs cash discount (for prompt payment; recorded as discount allowed/received)."
+  },
+  {
+   "front": "Jan 2",
+   "back": "Bought furniture for cash Rs 20,000."
+  },
+  {
+   "front": "Jan 5",
+   "back": "Sold goods to Shyam on credit Rs 25,000."
+  },
+  {
+   "front": "Jan 15",
+   "back": "Withdrew cash Rs 5,000 for personal use."
+  },
+  {
+   "front": "Jan 31",
+   "back": "Salary outstanding Rs 4,000."
+  },
+  {
+   "front": "Sale of old asset at profit/loss",
+   "back": "Cash Dr.; Loss Dr./ To Asset; To Profit."
+  },
+  {
+   "front": "Depreciation",
+   "back": "Depreciation A/c Dr. / To Asset A/c."
+  },
+  {
+   "front": "Problems on Journalising — Steps",
+   "back": "(1) read the transaction; (2) identify the two (or more) accounts; (3) classify and apply rules; (4) record the date and narration."
+  },
+  {
+   "front": "Problem — Opening entry",
+   "back": "Mr. Gupta's position on 1 April: Cash Rs 15,000; Stock Rs 40,000; Debtors Rs 25,000; Furniture Rs 20,000; Creditors Rs 30,000; Bank loan Rs 20,000. Capital = (15,000 + 40,000 + 25,000 + 20,000) − (30,000 + 20,000) = 1,00,000 − 50,000 = Rs 50,000. Entry: Cash Dr. 15,000; Stock Dr. 40,000; Debtors Dr. 25,000; Furniture Dr."
+  },
+  {
+   "front": "Problem — Closing entries",
+   "back": "Transfer Sales (Rs 2,00,000) to Trading A/c: Sales A/c Dr. / To Trading A/c. Transfer Purchases to Trading: Trading A/c Dr. / To Purchases A/c. Transfer expenses to P&L: P&L A/c Dr. / To Salaries, Rent, etc. Transfer net profit to Capital: P&L A/c Dr. / To Capital A/c."
+  },
+  {
+   "front": "Cash discount illustration",
+   "back": "Goods sold to X for Rs 10,000; X pays within the time and is allowed 2% discount: Cash Dr. 9,800; Discount Allowed Dr. 200 / To X 10,000."
+  },
+  {
+   "front": "Ledger",
+   "back": "The principal book of accounts in which transactions recorded in the journal/ subsidiary books are classified and posted account-wise. It is the book of second (final) entry. \"The ledger is the book which contains all the accounts\" — it is called the \"king of all books\"."
+  },
+  {
+   "front": "Ledger — Features",
+   "back": "Each account has a separate page/ folio; it is classified (account-wise) not chronological; each account has two sides — debit (left) and credit (right); derived from journal; basis for the trial balance and final accounts; maintained as bound book or loose-leaf/computerised."
+  },
+  {
+   "front": "Types of ledgers",
+   "back": "General ledger (all real and nominal accounts), Debtors' (sales) ledger and Creditors' (bought) ledger (personal accounts), private ledger (confidential accounts such as capital, drawings, profit)."
+  },
+  {
+   "front": "Left (debit) side",
+   "back": "Date | Particulars (To …) | J.F. | Amount (Rs). Right (credit) side: Date | Particulars (By …) | J.F. | Amount (Rs)."
+  },
+  {
+   "front": "Posting",
+   "back": "The process of transferring the journal entries to the respective ledger accounts."
+  },
+  {
+   "front": "Steps of posting",
+   "back": "(1) open an account for each account named in the journal; (2) for the debit account in the journal, record the date, \"To\" + name of the other (credit) account, and amount on the debit (left) side; (3) for the credit account record the date, \"By\" + the name of the debit account, amount on the credit (right) side;"
+  },
+  {
+   "front": "Balancing",
+   "back": "After posting, the totals of the two sides are found, and the difference — balance — is inserted on the smaller side as \"By balance c/d\" (if debit side is bigger — the account has debit balance) or \"To balance c/d\" (if credit side is bigger); totals are equal;"
+  },
+  {
+   "front": "Nature of balances",
+   "back": "Debit balance — assets, expenses, losses, debtors, drawings. Credit balance — liabilities, capital, incomes, creditors. Cash account never shows a credit balance; (Bank account shows a credit balance only if overdrawn)."
+  },
+  {
+   "front": "Posting of special items",
+   "back": "Discount allowed/ received accounts are posted from the cash book totals; sales returns/purchase returns; opening balances."
+  },
+  {
+   "front": "Other account balances",
+   "back": "Furniture Dr 20,000; Purchases Dr 30,000 less Cr 3,000 (drawings) = Dr 27,000; Sales Cr 25,000; Shyam: Dr 25,000, Cr cash 24,000, Cr discount 1,000 = Nil; Ram: Cr 30,000, Dr cash 29,000, Dr discount 1,000 = Nil; Rent Dr 2,000; Drawings Dr 8,000; Salary Dr 4,000; Outstanding salary Cr 4,000; Discount allowed Dr 1,000;"
+  },
+  {
+   "front": "Trial Balance and Verification of Arithmetical Accuracy — Objectives",
+   "back": "To check arithmetical accuracy; to help prepare final accounts; to locate errors; to provide a summary of ledger accounts; to help in preparing adjusted accounts."
+  },
+  {
+   "front": "Trial Balance and Verification of Arithmetical Accuracy — Methods",
+   "back": "Balance method (most common; list balances), Total method (list totals of debit and credit sides of each account), Total-cum-balance method (both)."
+  },
+  {
+   "front": "Errors disclosed",
+   "back": "One-sided posting, wrong totalling, wrong balancing, wrong carry-forward, posting different amounts on the two sides, omitting a balance from the trial balance."
+  },
+  {
+   "front": "If the trial balance does not agree",
+   "back": "The difference is temporarily put in Suspense Account (see Unit 6)."
+  },
+  {
+   "front": "Trial Balance and Verification of Arithmetical Accuracy — Limitations",
+   "back": "Agreement of the trial balance is not a conclusive proof of accuracy; it does not show profit; errors of principle remain."
+  },
+  {
+   "front": "Trial balance vs balance sheet",
+   "back": "TB is a statement of balances to check accuracy (prepared before adjustments; includes nominal accounts) whereas the balance sheet is a statement of assets and liabilities (prepared after adjustments)."
+  },
+  {
+   "front": "Purchases Book (Purchase Journal)",
+   "back": "Only credit purchases of goods (merchandise for resale)."
+  },
+  {
+   "front": "Sales Book (Sales Journal)",
+   "back": "Only credit sales of goods."
+  },
+  {
+   "front": "Purchases Returns Book (Returns Outward)",
+   "back": "Goods returned to suppliers (debit note)."
+  },
+  {
+   "front": "Sales Returns Book (Returns Inward)",
+   "back": "Goods returned by customers (credit note)."
+  },
+  {
+   "front": "Bills Receivable Book and Bills Payable Book",
+   "back": "Bills of exchange/ promissory notes received/ accepted."
+  },
+  {
+   "front": "Documents used",
+   "back": "Invoice, cash memo, debit note, credit note, bill."
+  },
+  {
+   "front": "Purchases Book format",
+   "back": "Date | Invoice no. | Particulars (supplier) | L.F. | Details (Rs) | Amount (Rs). Trade discount is deducted from the invoice price and the net amount is entered. Only goods (for resale) on credit; cash purchases go to the cash book; credit purchase of an asset (e.g. furniture) goes to the journal proper."
+  },
+  {
+   "front": "Purchases Book, Sales Book and Returns Books — Posting",
+   "back": "Each supplier's account is credited (individually with the invoice amount); the total of the purchases book is debited to Purchases A/c at the end of the period."
+  },
+  {
+   "front": "Sales Book format",
+   "back": "Same as the purchases book, with the customer's name. Posting: each customer's account is debited; the total of the sales book is credited to Sales A/c."
+  },
+  {
+   "front": "Purchases Returns Book",
+   "back": "Posting: supplier's account is debited; total is credited to Purchases Returns A/c. Sales Returns Book: customer's account is credited; the total is debited to Sales Returns A/c."
+  },
+  {
+   "front": "GST invoices",
+   "back": "Under GST, invoices show CGST, SGST/IGST separately (input tax credit); purchases and sales books often have separate columns for the tax."
+  },
+  {
+   "front": "Contra of returns",
+   "back": "Returns are deducted from the respective totals at the time of final accounts (or net purchases = purchases − returns)."
+  },
+  {
+   "front": "Bill of exchange",
+   "back": "A written, unconditional order by the drawer directing the drawee to pay a certain sum on demand or on a fixed date to the payee. Parties: drawer, drawee (acceptor), payee. Promissory note: an unconditional promise by the maker to pay."
+  },
+  {
+   "front": "Bills Receivable Book",
+   "back": "Records all bills received from customers. Entries: Bills Receivable A/c Dr. / To Debtor; Posting: debit Bills Receivable A/c (total); credit the drawer/ debtor individually."
+  },
+  {
+   "front": "Bills Payable Book",
+   "back": "Records all bills accepted for suppliers. Entry: Creditor Dr. / To Bills Payable A/c. Posting: debit the creditors individually; credit Bills Payable A/c (total)."
+  },
+  {
+   "front": "Single column cash book",
+   "back": "Has only cash column (both sides)."
+  },
+  {
+   "front": "Double column cash book",
+   "back": "Cash column + discount column OR cash + bank column."
+  },
+  {
+   "front": "Three column cash book",
+   "back": "Discount, Cash and Bank columns on both sides."
+  },
+  {
+   "front": "Cash deposited into bank",
+   "back": "Bank column — debit; Cash column — credit. Cash withdrawn from bank for office: Cash column — debit; Bank column — credit."
+  },
+  {
+   "front": "Bank column",
+   "back": "A credit balance in the bank column means an overdraft."
+  },
+  {
+   "front": "Single column illustration",
+   "back": "Start with cash 3,000; receipts: sales 5,000; payments: purchases 2,000; balance 6,000."
+  },
+  {
+   "front": "Balancing the cash book",
+   "back": "Total each side; the difference — balance c/d on the smaller side; balance b/d on the opposite side in the next period. The cash column never has a credit balance; the bank column may (overdraft)."
+  },
+  {
+   "front": "Journal proper entries (examples)",
+   "back": "Opening entries; Closing entries; Adjusting entries (outstanding, prepaid, accrued, depreciation, provision); Transfer entries; Rectification entries; credit purchase/ sale of assets; bad debts; discount adjustments; drawings of goods; goods lost by fire; interest on capital/drawings; endorsement/ dishonour of bills."
+  },
+  {
+   "front": "Posting to ledger",
+   "back": "Purchases book (creditors cr, purchases dr by total); sales book (debtors dr, sales cr); cash book (as above); contra entries (not posted)."
+  },
+  {
+   "front": "Differences between cash book and cash account",
+   "back": "The cash book is both a book of original entry and a ledger; no separate cash account is needed."
+  },
+  {
+   "front": "Error",
+   "back": "A mistake in recording, posting, totalling or balancing that leads to wrong accounts. Errors may be unintentional (clerical) or intentional (fraud)."
+  },
+  {
+   "front": "Errors in Accounting — Compensating errors",
+   "back": "Errors that cancel each other (one account excess debited, another excess credited by the same amount). Does not affect the trial balance."
+  },
+  {
+   "front": "Errors in Accounting — Errors of original entry (wrong amount in books of original entry)",
+   "back": "Wrong amount recorded in the original entry; both debit and credit have the same wrong amount — trial balance agrees."
+  },
+  {
+   "front": "Errors in Accounting — Errors of duplication",
+   "back": "The same transaction recorded twice."
+  },
+  {
+   "front": "Errors in Accounting — Errors of casting/ wrong totalling",
+   "back": "Overcasting or undercasting of subsidiary books or ledger accounts — affects the trial balance."
+  },
+  {
+   "front": "Errors in Accounting — Causes",
+   "back": "Carelessness, lack of knowledge, confusion between principles, fatigue, fraud, poor internal control."
+  },
+  {
+   "front": "Suspense account",
+   "back": "A temporary account opened to record the difference when the trial balance does not tally; it is shown in the trial balance to make both sides equal, and removed after errors are located and rectified. If the difference is on the debit side short — Suspense A/c is debited in TB;"
+  },
+  {
+   "front": "Need",
+   "back": "To prepare final accounts without waiting for error location; finally, the suspense account will have a nil balance when all errors are found. If the suspense balance remains after rectification, it is shown in the balance sheet (debit balance on the assets side; credit balance on the liabilities side)."
+  },
+  {
+   "front": "When errors are detected",
+   "back": "(a) before the preparation of the trial balance/ same accounting year — rectify by a correcting entry/ simply correct the entries; (b) after the trial balance but before final accounts — through suspense account for one-sided errors;"
+  },
+  {
+   "front": "Steps for rectification",
+   "back": "(1) identify the error; (2) ascertain the wrong entry passed; (3) find the correct entry; (4) find the rectifying entry — by cancelling the wrong effect and passing the correct entry. Consider what accounts are wrongly debited/credited."
+  },
+  {
+   "front": "One-sided errors (affect TB)",
+   "back": "Use Suspense A/c — if a debit was omitted → debit the proper account and credit Suspense; if a credit was omitted → credit the proper account and debit Suspense."
+  },
+  {
+   "front": "Two-sided errors (do not affect TB)",
+   "back": "Rectify without suspense; pass an entry that reverses wrong and posts correct."
+  },
+  {
+   "front": "Effect on profit — Statement of corrected profit",
+   "back": "Reported net profit; add the items wrongly charged or omitted income; less items wrongly credited or omitted expenses; = corrected net profit."
+  },
+  {
+   "front": "Errors after final accounts",
+   "back": "Use Profit & Loss Adjustment A/c — affected nominal accounts are debited/credited to this account; its balance goes to capital."
+  },
+  {
+   "front": "Bank reconciliation statement (BRS)",
+   "back": "A statement prepared to reconcile (agree) the balance as per the cash book (bank column) with the balance as per the pass book (bank statement) on a particular date, showing the reasons for the differences."
+  },
+  {
+   "front": "Cash book (bank column)",
+   "back": "The customer's record of bank transactions. Pass book / bank statement: the bank's record of the customer's account — debit (Dr) = withdrawals; credit (Cr) = deposits. A favourable (credit) balance in the pass book means the customer has money; the debit balance in the pass book = overdraft. (Reverse in the cash book.)"
+  },
+  {
+   "front": "Meaning and Need — Need",
+   "back": "To detect errors and fraud; to find items not yet recorded in the cash book (bank charges, interest, direct deposits, dishonoured cheques); to know the actual bank balance; to ensure the cash book is accurate; to ascertain the cheques outstanding; to avoid misappropriation; good internal control; required by auditors."
+  },
+  {
+   "front": "Important",
+   "back": "BRS is not an account — only a statement; it is prepared by the customer (business), not the bank. Timing differences will naturally resolve; errors need correction."
+  },
+  {
+   "front": "C. Errors",
+   "back": "Errors committed by the business or the bank (wrong amount, wrong side, wrong totalling, omissions)."
+  },
+  {
+   "front": "D. Others",
+   "back": "Post-dated cheque — in the cash book but not yet presented; wrong credit by the bank (to another customer)."
+  },
+  {
+   "front": "Add",
+   "back": "Cheques issued but not presented; interest/ dividend credited by bank; direct deposits by customers; bills collected by bank (not recorded in CB)."
+  },
+  {
+   "front": "Deduct",
+   "back": "Cheques deposited but not collected; bank charges; direct payments by the bank (insurance, EMI); cheques dishonoured."
+  },
+  {
+   "front": "Rules (starting from the favourable pass book balance)",
+   "back": "Add cheques deposited but not collected; less cheques issued but not presented; less interest/ direct deposits credited by bank; add bank charges/ direct payments debited by bank."
+  },
+  {
+   "front": "Adjusted cash book",
+   "back": "25,000 + 500 + 1,500 − 200 = 26,800 → pass book balance = 26,800 + 5,000 − 3,000 = 28,800."
+  },
+  {
+   "front": "Adjusting entries in the cash book",
+   "back": "Bank charges: Bank Charges A/c Dr. / To Bank; interest: Bank Dr. / To Interest received; direct deposit: Bank Dr. / To Customer; dishonour: Customer Dr. / To Bank."
+  },
+  {
+   "front": "Overdraft example",
+   "back": "Overdraft as per cash book Rs 8,000; cheque issued Rs 2,000 not presented; cheque deposited Rs 1,000 not collected: Overdraft as per pass book = 8,000 − 2,000 + 1,000 = Rs 7,000. (For an overdraft, cheques issued but not presented reduce the overdraft in the pass book; uncollected deposits increase it.)"
+  },
+  {
+   "front": "Final Accounts — Components",
+   "back": "(1) Trading Account — gross profit/ gross loss; (2) Profit and Loss Account — net profit/ net loss; (3) Balance Sheet — financial position on a given date."
+  },
+  {
+   "front": "Final Accounts — Objectives",
+   "back": "To find gross profit, net profit, financial position; to help tax assessment and comparison; to help decision making and credit."
+  },
+  {
+   "front": "Capital and revenue items",
+   "back": "Capital items (assets, liabilities, capital) go to the balance sheet; revenue items (incomes and expenses) go to trading/ P&L."
+  },
+  {
+   "front": "Trading account",
+   "back": "Prepared to find the gross profit (GP) or gross loss from buying and selling (or manufacturing and selling) goods. GP = Net sales − Cost of goods sold (COGS)."
+  },
+  {
+   "front": "Format (debit side)",
+   "back": "Opening stock; purchases less purchase returns; direct expenses (wages, carriage inwards/ freight inwards, fuel/ power, factory expenses, import duty, octroi, dock charges, manufacturing expenses); gross profit c/d. Credit side: sales less sales returns; closing stock; gross loss c/d."
+  },
+  {
+   "front": "Closing entries (trading)",
+   "back": "Trading A/c Dr. / To Opening Stock, To Purchases, To Carriage inwards, To Wages…; Sales Dr. / To Trading A/c; Purchases Returns Dr. / To Trading; Closing Stock A/c Dr. / To Trading A/c; Trading A/c Dr. / To P&L A/c (gross profit)."
+  },
+  {
+   "front": "Gross profit ratio",
+   "back": "(Gross profit ÷ Net sales) × 100."
+  },
+  {
+   "front": "Profit and Loss Account",
+   "back": "Prepared to find the net profit/ net loss by considering all indirect expenses and incomes. Net profit = Gross profit + other incomes − indirect expenses (and losses)."
+  },
+  {
+   "front": "Debit side",
+   "back": "Indirect expenses — office and administrative expenses (salaries, rent, rates, taxes, insurance, stationery, printing, telephone, electricity, audit fees, legal fees), selling and distribution expenses (advertising, carriage outwards, commission to salesmen, godown rent, packing, bad debts), financial expenses (interest on…"
+  },
+  {
+   "front": "Credit side",
+   "back": "Gross profit b/d; other incomes — commission received, interest received, discount received, rent received, dividends, bad debts recovered, profit on sale of assets, provision for discount (if reduction)."
+  },
+  {
+   "front": "Items not shown in P&L",
+   "back": "Drawings, income tax of the proprietor (personal), capital expenditure, interest on drawings is shown as an income (credit) and interest on capital as an expense (debit)."
+  },
+  {
+   "front": "Net profit ratio",
+   "back": "(Net profit ÷ Net sales) × 100."
+  },
+  {
+   "front": "Balance sheet",
+   "back": "A statement of assets and liabilities at a given date showing the financial position. It is not an account — it is a statement; it has no debit or credit side (left side is \"Liabilities\", right side \"Assets\" in the traditional horizontal format)."
+  },
+  {
+   "front": "Marshalling of assets and liabilities",
+   "back": "The order in which they are arranged — liquidity order (most liquid first: cash, bank, bills receivable, debtors, stock, prepaid expenses, investments, fixed assets) and permanence order (least liquid first — goodwill, land, building, machinery… cash last)."
+  },
+  {
+   "front": "Classification of assets",
+   "back": "Fixed assets (tangible and intangible), current assets, investments, fictitious assets. Liabilities: capital, long-term liabilities (loans), current liabilities (creditors, bills payable, outstanding expenses, income received in advance, bank overdraft)."
+  },
+  {
+   "front": "Capital account in balance sheet",
+   "back": "Opening capital + Net profit + additional capital + interest on capital − drawings − interest on drawings − net loss = Closing capital."
+  },
+  {
+   "front": "Provision for doubtful debts",
+   "back": "An estimate of bad debts expected on the existing debtors; created at a percentage of debtors after deducting further bad debts. P&L charge = new provision + bad debts − old provision (and bad debts recovered). If the new provision is less than the old provision, the excess is credited to P&L."
+  },
+  {
+   "front": "Provision for discount on debtors",
+   "back": "Calculated on the good debtors (debtors − further bad debts − provision for bad debts)."
+  },
+  {
+   "front": "Reserve vs provision",
+   "back": "Provision is a charge against profit for a known liability or loss (compulsory); reserve is an appropriation of profit (voluntary)."
+  },
+  {
+   "front": "Closing entries (summary)",
+   "back": "Transfer all nominal accounts to Trading and P&L A/c; net profit to capital; open accounts closed; balance sheet shows remaining balances."
+  },
+  {
+   "front": "Opening entries for the next year",
+   "back": "Assets Dr / liabilities and capital Cr."
+  },
+  {
+   "front": "Adjustments",
+   "back": "(1) Closing stock Rs 35,000. (2) Outstanding wages Rs 3,000. (3) Prepaid insurance Rs 1,000. (4) Depreciation: machinery 10% and furniture 10%. (5) Further bad debts Rs 1,000 and provision for doubtful debts to be 5% on debtors."
+  },
+  {
+   "front": "Working",
+   "back": "New provision = 5% × (40,000 − 1,000) = 1,950; existing provision 2,000; difference Rs 50 credited to P&L."
+  },
+  {
+   "front": "Ratios from this example",
+   "back": "Gross profit ratio = 1,07,000 ÷ 2,55,000 × 100 = 41.96%; net profit ratio = 48,050 ÷ 2,55,000 × 100 = 18.84%."
+  },
+  {
+   "front": "Where the closing stock is given in the trial balance",
+   "back": "It is not shown in the trading account (it is already adjusted); it is shown only as an asset in the balance sheet."
+  },
+  {
+   "front": "Where adjustments are given inside the trial balance",
+   "back": "E.g. \"outstanding wages\" in TB is a liability — shown only in the balance sheet."
+  },
+  {
+   "front": "Meaning, Need and Causes of Depreciation — Depreciation",
+   "back": "The gradual and permanent decrease in the value of a fixed asset due to use, passage of time, obsolescence or other causes."
+  },
+  {
+   "front": "Meaning, Need and Causes of Depreciation — Features",
+   "back": "It is a non-cash expense; applies to fixed (wasting) assets (machinery, building, furniture, vehicles, patents) — not to land (except mines), not to current assets; allocation of cost over useful life; charged every year even if there is no profit; it is a charge against profit."
+  },
+  {
+   "front": "Need for depreciation",
+   "back": "To ascertain true profit (matching concept); to show the true financial position (asset at its fair book value); to provide funds for replacement (retaining the profit if a depreciation fund is created); for tax reasons (allowed expense); to comply with law (Companies Act — Schedule II);"
+  },
+  {
+   "front": "Internal",
+   "back": "Wear and tear (physical use), passage of time (efflux of time — leases, patents), exhaustion (mines/ quarries), accidents, depletion."
+  },
+  {
+   "front": "External",
+   "back": "Obsolescence (technological change, new inventions, change in fashion/ demand), market conditions, legal restrictions, fall in market price (not a true cause)."
+  },
+  {
+   "front": "Factors affecting depreciation",
+   "back": "Cost of the asset, estimated useful life, estimated scrap value, additions (capital expenditure) during life, method of depreciation, the expected usage/ output, the asset's repairs and maintenance, technology changes."
+  },
+  {
+   "front": "Methods of Depreciation — Straight Line Method and Writte... — Straight Line Method (SLM) / Fixed Instalment/ Original Cost Method",
+   "back": "An equal amount is charged every year over the useful life."
+  },
+  {
+   "front": "Methods of Depreciation — Straight Line Method and Writte... — Features",
+   "back": "Simple; depreciation is the same each year; book value falls in a straight line to scrap value; but the repair cost rises with age, so the total charge (depreciation + repairs) is unequal — a drawback."
+  },
+  {
+   "front": "Suitable for",
+   "back": "Assets with a fixed life and little obsolescence — leases, patents, copyrights, buildings, furniture."
+  },
+  {
+   "front": "SLM",
+   "back": "(1,00,000 − 10,000) ÷ 5 = Rs 18,000 per year. (Book value at the end of year 3 = 1,00,000 − 54,000 = Rs 46,000.)"
+  },
+  {
+   "front": "Depreciation for part of the year",
+   "back": "Charged for the period of use (pro rata, e.g. months) on additions during the year; for assets sold, depreciation up to the date of sale."
+  },
+  {
+   "front": "Under the Companies Act, 2013 (Schedule II)",
+   "back": "Depreciation is based on useful lives (e.g. buildings 60 years, general plant 15 years, computers 3 years, vehicles 8 years, furniture 10 years) with residual value normally not more than 5% of cost."
+  },
+  {
+   "front": "Journal entry",
+   "back": "Depreciation A/c Dr. / To Asset A/c. Then: Profit and Loss A/c Dr. / To Depreciation A/c. The asset account shows a reducing balance each year; in the balance sheet: the asset at WDV."
+  },
+  {
+   "front": "Under Method 2",
+   "back": "Asset Disposal A/c (Machinery Sale A/c): debit — asset at cost; credit — provision for depreciation on that asset and sale proceeds; the balance is profit or loss."
+  },
+  {
+   "front": "Ledger of asset (Method 1) — SLM",
+   "back": "Machinery A/c: Dr: To Bank 1,00,000 (Year 1) | Cr: By Depreciation 18,000; By Balance c/d 82,000. Year 2: To Balance b/d 82,000 | By Depreciation 18,000; By Balance c/d 64,000, etc."
+  },
+  {
+   "front": "Effects of depreciation",
+   "back": "Reduces profit (non-cash charge); retains funds in business; reduces book value; reduces tax liability. Depreciation does not itself provide funds unless profits are retained/invested."
+  },
+  {
+   "front": "Ind AS 16 (PPE) and AS 10",
+   "back": "Components approach; useful life and residual value reviewed at least annually; depreciation begins when the asset is available for use; the cost model or revaluation model."
+  },
+  {
+   "front": "Distinction",
+   "back": "Depreciation vs repairs: depreciation relates to the use and life of the asset (non-cash); repairs are actual cash costs to maintain the asset."
+  }
+ ]
+}

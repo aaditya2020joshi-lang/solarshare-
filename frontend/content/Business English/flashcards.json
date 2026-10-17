@@ -1,0 +1,664 @@
+{
+ "flashcards": [
+  {
+   "front": "Grammar",
+   "back": "The set of rules that govern how words are combined to form correct sentences. Word → phrase → clause → sentence → paragraph."
+  },
+  {
+   "front": "Noun",
+   "back": "Names a person, place, thing, animal, idea or quality."
+  },
+  {
+   "front": "Basics of English Grammar — Rules",
+   "back": "Use subjective case as subject (\"She and I attended\"), objective case as object (\"between you and me\"); a pronoun must agree with its antecedent in number and person."
+  },
+  {
+   "front": "Verb",
+   "back": "Expresses action, occurrence or state of being."
+  },
+  {
+   "front": "Three principal parts",
+   "back": "Base form, past simple, past participle (e.g. write–wrote–written)."
+  },
+  {
+   "front": "Interjection",
+   "back": "Expresses sudden emotion (Oh! Wow! Alas! Hurray!)."
+  },
+  {
+   "front": "Tenses — Uses",
+   "back": "Simple present — habits, facts, schedules (\"The meeting starts at 10\"); present continuous — now, temporary, planned future; present perfect — past action with present relevance (with already, yet, just, ever, never, since, for); simple past — finished action at a definite time;"
+  },
+  {
+   "front": "Tenses — Common mistakes",
+   "back": "\"I am knowing\" ✗ (stative verbs — know, believe, like, want, own — avoid continuous); \"He go to office\" ✗ → \"He goes\"; \"I have seen him yesterday\" ✗ → \"I saw him yesterday\"; \"since two years\" ✗ → \"for two years\"; sequence of tenses — \"I thought he is honest\" ✗ → \"was honest\"."
+  },
+  {
+   "front": "Subject–Verb Agreement — Rule",
+   "back": "A singular subject takes a singular verb; a plural subject takes a plural verb."
+  },
+  {
+   "front": "Relative clauses",
+   "back": "\"He is one of the employees who are efficient.\""
+  },
+  {
+   "front": "Construction of Sentences — By function",
+   "back": "Declarative (statement), interrogative (question), imperative (command/ request), exclamatory (emotion), plus optative (wish)."
+  },
+  {
+   "front": "Simple sentence",
+   "back": "One independent clause (\"The company launched a new product.\")."
+  },
+  {
+   "front": "Compound sentence",
+   "back": "Two or more independent clauses joined by a coordinating conjunction or semicolon (\"The company launched a product, and sales increased.\")."
+  },
+  {
+   "front": "Complex sentence",
+   "back": "One independent + one or more dependent clauses (\"Because the demand was high, the company increased production.\")."
+  },
+  {
+   "front": "Compound-complex sentence",
+   "back": "Two or more independent + at least one dependent clause."
+  },
+  {
+   "front": "Conditionals",
+   "back": "Zero (If you heat ice, it melts), first (If it rains, we will cancel), second (If I were the CEO, I would...), third (If I had known, I would have attended)."
+  },
+  {
+   "front": "Capitalisation",
+   "back": "First word of a sentence; proper nouns; days, months; titles; the pronoun \"I\"; headings."
+  },
+  {
+   "front": "Spelling",
+   "back": "Commonly confused words — affect/ effect, accept/ except, principal/ principle, stationary/ stationery, complement/ compliment, advice/ advise, there/ their/ they're, lose/ loose, than/ then, its/ it's, whose/ who's, council/ counsel, personal/ personnel, formally/ formerly, ensure/ insure/ assure."
+  },
+  {
+   "front": "Paragraph",
+   "back": "A group of related sentences developing one main idea. Usually 5–10 sentences (about 100–200 words)."
+  },
+  {
+   "front": "Parts",
+   "back": "Topic sentence (states the main idea — usually the first sentence); supporting sentences (explanations, examples, facts, statistics, reasons); concluding (closing) sentence (summarises or links to the next idea)."
+  },
+  {
+   "front": "Qualities",
+   "back": "Unity (all sentences relate to the main idea), coherence (logical flow; transitions; repeating key words; pronouns; parallel structure), completeness (adequate development), emphasis, clarity and conciseness, variety in sentence length."
+  },
+  {
+   "front": "Transitions (linking words)",
+   "back": "Addition (also, moreover, in addition), contrast (however, but, although, on the other hand), cause/ effect (therefore, as a result, because), sequence (first, next, finally), example (for instance, for example), conclusion (in conclusion, to sum up)."
+  },
+  {
+   "front": "Methods of developing a paragraph",
+   "back": "Examples, facts and statistics, comparison/ contrast, cause and effect, definition, classification, process, description, narration, reasons."
+  },
+  {
+   "front": "Paragraph Writing — Steps",
+   "back": "(1) choose the topic; (2) identify the purpose and audience; (3) write the topic sentence; (4) brainstorm supporting points; (5) arrange logically; (6) write the draft; (7) revise and edit."
+  },
+  {
+   "front": "Paragraph Styles — Descriptive paragraph",
+   "back": "Paints a picture in words of a person, place, object or experience using sensory details (sight, sound, smell, taste, touch), vivid adjectives and figurative language; follows spatial order (top to bottom, left to right, near to far)."
+  },
+  {
+   "front": "Paragraph Styles — Narrative paragraph",
+   "back": "Tells a story or recounts events in chronological order with characters, setting, plot; uses past tense and time transitions (first, then, later, finally); has a point or lesson."
+  },
+  {
+   "front": "Paragraph Styles — Expository paragraph",
+   "back": "Explains, informs or defines — gives facts, process, cause–effect, comparison; objective tone; uses logical order and signal words."
+  },
+  {
+   "front": "Paragraph Styles — Persuasive paragraph",
+   "back": "Convinces the reader to accept an opinion or take action; clear claim (stance), reasons/ evidence, appeals (logic, emotion, credibility), addresses counter-argument, strong call to action."
+  },
+  {
+   "front": "Essay",
+   "back": "A short, organised piece of non-fiction writing on a single topic, expressing the writer's ideas with a clear structure. Typical length 300–1,000 words."
+  },
+  {
+   "front": "Body paragraphs (3–4)",
+   "back": "Each with a topic sentence, evidence, explanation and link to the thesis."
+  },
+  {
+   "front": "Thesis statement",
+   "back": "A specific, debatable, one-sentence claim (\"Remote work improves productivity and employee wellbeing, so firms should adopt hybrid models.\") — not a fact or a question."
+  },
+  {
+   "front": "Body 1",
+   "back": "Reach and customer engagement. Body 2: low-cost marketing and brand building. Body 3: risks — misinformation, reputation damage, privacy."
+  },
+  {
+   "front": "Common errors",
+   "back": "Vague thesis, poor transitions, one-sided argument, repetition, long paragraphs, grammatical errors."
+  },
+  {
+   "front": "Essay vs report vs article",
+   "back": "Essay — personal argument; report — factual and formal; article — written for publication."
+  },
+  {
+   "front": "Reading comprehension",
+   "back": "The ability to read, understand, interpret and evaluate a text."
+  },
+  {
+   "front": "Intensive reading",
+   "back": "Careful, detailed reading of short texts for full understanding (study, contracts)."
+  },
+  {
+   "front": "Extensive reading",
+   "back": "Reading longer texts for pleasure/ general understanding (novels, magazines)."
+  },
+  {
+   "front": "Critical reading",
+   "back": "Analysing the author's purpose, bias and evidence."
+  },
+  {
+   "front": "SQ3R method",
+   "back": "Survey (preview), Question (turn headings into questions), Read, Recite (recall in own words), Review."
+  },
+  {
+   "front": "Guessing word meaning from context",
+   "back": "Use clues — synonyms, antonyms, examples, definitions, word parts (prefix, root, suffix)."
+  },
+  {
+   "front": "Non-fiction",
+   "back": "Biographies, autobiographies, memoirs, essays, travelogues, speeches, self-help."
+  },
+  {
+   "front": "Academic/ scientific texts",
+   "back": "Research papers, textbooks, abstracts — formal, technical, objective, citations."
+  },
+  {
+   "front": "Poetry and drama",
+   "back": "Imagery, figurative language, rhythm."
+  },
+  {
+   "front": "Persuasive/ advertising texts",
+   "back": "Slogans, ads, brochures, opinion pieces."
+  },
+  {
+   "front": "Digital texts",
+   "back": "Blogs, social media, websites, infographics."
+  },
+  {
+   "front": "Features of different tones",
+   "back": "Formal, informal, humorous, serious, optimistic, pessimistic, sarcastic, objective, critical, neutral."
+  },
+  {
+   "front": "Answering Comprehension Questions — Steps",
+   "back": "(1) read the passage once for the gist; (2) read the questions; (3) re-read to find answers; (4) answer in your own words in complete sentences; (5) check grammar and word limit."
+  },
+  {
+   "front": "Author's purpose",
+   "back": "To inform, persuade, entertain, describe, instruct. Tone clues: word choice (adjectives, adverbs), figurative language."
+  },
+  {
+   "front": "Passage B",
+   "back": "\"The company's profit rose by 12% in the third quarter, mainly due to higher exports, although costs also increased by 5%.\" Q: What caused the profit growth? — Higher exports."
+  },
+  {
+   "front": "Passage C",
+   "back": "\"Renewable energy, once considered expensive, is now the cheapest source of power in many regions, and countries are rapidly expanding solar and wind farms.\" Main idea: renewable energy has become affordable and is expanding."
+  },
+  {
+   "front": "Answering Comprehension Questions — Common errors",
+   "back": "Copying whole lines; answering from outside knowledge; ignoring the question word; ignoring word limit; wrong inference; not checking the title."
+  },
+  {
+   "front": "Business reading",
+   "back": "How to read a report (executive summary first, then findings, conclusion, recommendations), a contract (clauses, definitions, penalty), annual report (MD&A, balance sheet, notes), email chain (latest message, action items)."
+  },
+  {
+   "front": "Vocabulary",
+   "back": "The set of words a person knows and uses. Types: active (productive) — words used in speaking and writing; passive (receptive) — words understood but not used."
+  },
+  {
+   "front": "Why it matters",
+   "back": "Clear expression, confidence in speaking, better reading comprehension, professional impression, accuracy."
+  },
+  {
+   "front": "Word families",
+   "back": "Decide, decision, decisive, decisively; compounding (blackboard); conversion (a \"run\" / to \"run\")."
+  },
+  {
+   "front": "Relationships between words",
+   "back": "Synonyms (similar meaning — big/ large; buy/ purchase), antonyms (opposite — expand/ contract), homophones (same sound, different spelling — their/ there;"
+  },
+  {
+   "front": "Collocations",
+   "back": "Words that go together — make a decision, take a risk, do business, meet a deadline, heavy rain, strong tea, launch a product, close a deal, draw a conclusion."
+  },
+  {
+   "front": "Commonly confused words",
+   "back": "Affect/effect, adapt/adopt, beside/besides, continual/ continuous, eminent/ imminent, farther/ further, historic/ historical, lie/ lay, precede/ proceed."
+  },
+  {
+   "front": "Dialogue",
+   "back": "A conversation between two or more people written down. Purpose: to show how people speak and interact; used in plays, stories, language practice, business role plays."
+  },
+  {
+   "front": "Format (script style)",
+   "back": "Speaker's name followed by a colon, then the speech; each speaker begins a new line; stage directions in brackets; conversational, natural language; short sentences."
+  },
+  {
+   "front": "Useful expressions",
+   "back": "Greeting (Good morning, nice to meet you), asking (Could you tell me..., May I know...), agreeing (Absolutely, I agree), disagreeing politely (I see your point, but...), suggesting (How about..., Why don't we...), apologising (I'm sorry for the inconvenience), closing (Thank you for your time)."
+  },
+  {
+   "front": "Types of dialogues",
+   "back": "Formal (interview, meeting, customer service, negotiation), informal (friends, family), telephone, persuasive, problem–solution, sales (seller–buyer), complaint."
+  },
+  {
+   "front": "Sample 3 — Complaint dialogue (formal)",
+   "back": "Customer: \"I received a damaged phone.\" Support: \"I am sorry to hear that. May I have your order number?\" ... closing with a replacement."
+  },
+  {
+   "front": "Storytelling",
+   "back": "The art of narrating events with characters, setting and plot to engage and communicate a message — oral, written or visual."
+  },
+  {
+   "front": "Story structure",
+   "back": "Beginning (exposition) → rising action → climax → falling action → resolution (denouement) (Freytag's pyramid); three-act structure; hero's journey (Joseph Campbell)."
+  },
+  {
+   "front": "Storytelling — Techniques",
+   "back": "Start with a hook; use vivid sensory language (\"show, don't tell\"); dialogue; suspense; emotion; pace; humour; repetition; metaphors/ similes; a clear message; an ending that resonates."
+  },
+  {
+   "front": "Oral storytelling delivery",
+   "back": "Voice modulation (pitch, volume, pace), pauses, facial expressions and gestures, eye contact, posture, movement, use of props, audience interaction, practising and timing."
+  },
+  {
+   "front": "Storytelling — Tips",
+   "back": "Know your audience; keep it simple and short; have one message; make characters relatable; use concrete details; end with a lesson; practise aloud; rehearse timing; vary tone; handle nervousness by deep breathing."
+  },
+  {
+   "front": "Speaking skills (general)",
+   "back": "Fluency, accuracy, clarity, confidence; avoid fillers (um, you know); use the rule of three; active listening; body language; audience awareness; structure (opening–body–closing)."
+  },
+  {
+   "front": "Etiquette",
+   "back": "The accepted code of polite, respectful and professional behaviour in a social or professional setting. Business etiquette: the unwritten rules of behaviour that help people interact professionally, build trust and create a positive image."
+  },
+  {
+   "front": "Meaning, Importance and Principles of Business Etiquette — Importance",
+   "back": "Creates a positive first impression; builds trust and relationships; improves teamwork and communication; reflects the organisation's culture and brand; avoids misunderstandings and conflict; helps in career growth; supports cross-cultural business; boosts confidence."
+  },
+  {
+   "front": "Core principles",
+   "back": "Respect, courtesy, punctuality, honesty and integrity, professionalism, discretion/ confidentiality, consideration, accountability, good listening, cultural sensitivity, appropriate communication."
+  },
+  {
+   "front": "Etiquette vs manners vs protocol",
+   "back": "Manners — general social politeness; etiquette — situational rules; protocol — formal rules (diplomatic, ceremonial)."
+  },
+  {
+   "front": "First impressions",
+   "back": "Formed in the first 7–30 seconds from appearance, body language, handshake, greeting, tone."
+  },
+  {
+   "front": "Body language (non-verbal)",
+   "back": "Posture, eye contact, gestures, facial expressions, personal space (proxemics — social distance about 1.2–3.5 m), tone of voice. Avoid: crossed arms, fidgeting, pointing, slouching, looking at the phone."
+  },
+  {
+   "front": "Subject line",
+   "back": "Clear, specific and short (\"Meeting rescheduled to 3 pm, Friday\"); never blank."
+  },
+  {
+   "front": "Salutation",
+   "back": "\"Dear Mr. Rao,\" (formal), \"Hello Anita,\" (semi-formal); closing: \"Yours sincerely\"/ \"Best regards\"/ \"Kind regards\" + name, designation, contact."
+  },
+  {
+   "front": "To, Cc, Bcc",
+   "back": "To — main recipients; Cc — for information; Bcc — hidden copy (privacy for large groups). Reply all only when necessary. Forward carefully."
+  },
+  {
+   "front": "Tone",
+   "back": "Avoid ALL CAPS (shouting), excessive exclamation marks, emojis (in formal), slang, sarcasm; do not write when angry; be respectful in complaints."
+  },
+  {
+   "front": "Attachments",
+   "back": "Mention them in the body; use clear file names; compress large files; check before sending."
+  },
+  {
+   "front": "Email vs other channels",
+   "back": "Use calls for urgent/ sensitive matters."
+  },
+  {
+   "front": "Making a call",
+   "back": "Plan the purpose; call at a suitable time; identify yourself and the reason; ask \"Is this a good time?\"; keep it short; take notes."
+  },
+  {
+   "front": "Putting a caller on hold",
+   "back": "Ask permission (\"May I put you on hold for a moment?\"); thank for waiting; do not keep callers holding long; transfer correctly — tell the caller where you are transferring."
+  },
+  {
+   "front": "Taking messages",
+   "back": "Record caller's name, company, number, time/ date, message, action needed; repeat to confirm."
+  },
+  {
+   "front": "Handling difficult callers",
+   "back": "Stay calm, listen, apologise where appropriate, avoid arguing, offer solutions, escalate if needed."
+  },
+  {
+   "front": "Telephone Etiquette — Closing",
+   "back": "Summarise action points; thank the caller; let the caller hang up first; never hang up abruptly."
+  },
+  {
+   "front": "Useful phrases",
+   "back": "\"May I know who is calling?\"; \"Could you please spell that?\"; \"I am afraid he is not available\"; \"Can I take a message?\"; \"Thank you for calling.\""
+  },
+  {
+   "front": "Before the meal",
+   "back": "Arrive on time; follow the dress code; wait for the host to seat guests/ begin; napkin on the lap (after the host); turn off the phone."
+  },
+  {
+   "front": "Seating and ordering",
+   "back": "Wait to be seated; order moderately priced items; avoid messy dishes; follow the host's lead on courses; tell about dietary restrictions earlier."
+  },
+  {
+   "front": "Conversation",
+   "back": "Light topics; avoid politics, religion, personal matters; do business after ordering or at the end as per the host; include everyone; listen."
+  },
+  {
+   "front": "Paying the bill",
+   "back": "The host pays; if you invited, you pay; thank the host; tip appropriately; follow-up thank-you note."
+  },
+  {
+   "front": "Dining Etiquette — Indian context",
+   "back": "Vegetarian/ non-vegetarian preferences; eating with the right hand where customary; washing hands; respect for elders — wait for them to start; cross-cultural — avoid beef/ pork assumptions; do not waste food."
+  },
+  {
+   "front": "Alcohol",
+   "back": "Drink only if appropriate; limit consumption; no pressure."
+  },
+  {
+   "front": "Cubicle (open-plan) etiquette",
+   "back": "Keep noise low (calls, music with headphones); do not enter without knocking/ \"knocking\" on the cubicle wall; no strong food smells; respect \"do not disturb\" signs; keep the desk tidy; do not touch others' belongings; avoid loud conversations/ speaker calls — use meeting rooms; avoid eavesdropping; moderate perfume;"
+  },
+  {
+   "front": "Dress code",
+   "back": "Formal (suit/ saree/ salwar-kameez/ shirt-trousers, formal shoes), business casual, smart casual, casual Friday, uniform. Guidelines: clean, ironed, well-fitted clothes; modest; minimal jewellery and fragrance; neat grooming (hair, nails); appropriate footwear; adapt to the company/ occasion/ culture;"
+  },
+  {
+   "front": "Before",
+   "back": "Agenda circulated; purpose clear; invite relevant people; be on time; prepare; book the room; send pre-reads."
+  },
+  {
+   "front": "During",
+   "back": "Arrive early; silence phones; take notes; listen; don't interrupt; raise your hand/ speak when invited; stay on the topic and time; chair keeps order; respect all opinions; avoid side conversations and multitasking; greet and introduce; summarise decisions and assign actions."
+  },
+  {
+   "front": "After",
+   "back": "Circulate the minutes (decisions, responsible persons, deadlines) within 24 hours; follow up on actions."
+  },
+  {
+   "front": "Virtual meetings",
+   "back": "Test the technology; mute when not speaking; camera on if required; neutral background; good lighting; use the chat/ \"raise hand\" feature; look at the camera; avoid eating; join on time; share the screen carefully; record only with permission."
+  },
+  {
+   "front": "Statement (proposition)",
+   "back": "A sentence that is either true or false (not a question, command or exclamation)."
+  },
+  {
+   "front": "Standard form",
+   "back": "Premise 1; Premise 2; Therefore, Conclusion."
+  },
+  {
+   "front": "Abductive reasoning",
+   "back": "Inference to the best explanation."
+  },
+  {
+   "front": "Fallacies of formal logic",
+   "back": "Affirming the consequent (If P then Q; Q; therefore P ✗) and denying the antecedent (If P then Q; not P; therefore not Q ✗)."
+  },
+  {
+   "front": "Necessary vs sufficient condition",
+   "back": "A is sufficient for B if A guarantees B; A is necessary for B if B cannot occur without A."
+  },
+  {
+   "front": "Logic in business",
+   "back": "Decision making, negotiations, audits, problem solving, data interpretation, ethics."
+  },
+  {
+   "front": "Fallacy",
+   "back": "An error in reasoning that makes an argument unsound or invalid."
+  },
+  {
+   "front": "How to avoid fallacies",
+   "back": "Check relevance, sufficiency and acceptability of premises; look for hidden assumptions; stay on the issue; use enough, representative evidence."
+  },
+  {
+   "front": "Rhetoric",
+   "back": "The art of effective, persuasive communication, in speech or writing (Aristotle's *Rhetoric*). Its goal is to persuade or inform a particular audience in a particular situation."
+  },
+  {
+   "front": "Ethos (credibility/ character)",
+   "back": "Appeal to the speaker's credibility, authority, trustworthiness and ethics. Ways: qualifications and experience, expertise, reputation, honesty, fairness, citing reliable sources, professional tone, shared values."
+  },
+  {
+   "front": "Logos (logic/ reason)",
+   "back": "Appeal to reason, logic, facts, statistics, evidence, definitions, analogies, cause–effect reasoning. Example: \"Studies show that a 10% reduction in energy use saves Rs 5 lakh a year.\" Weakness: can be dry and may fail to move people."
+  },
+  {
+   "front": "Kairos",
+   "back": "The right time/ occasion for the appeal (the fourth appeal added by later scholars); Telos: purpose."
+  },
+  {
+   "front": "Rhetorical situation / triangle",
+   "back": "Speaker (writer), audience, message (text), plus context, purpose and medium. Rhetorical devices: repetition, rhetorical question, metaphor, simile, alliteration, anaphora, antithesis, hyperbole, rule of three, irony, analogy, parallelism."
+  },
+  {
+   "front": "Ad examples",
+   "back": "A toothpaste advertisement — \"9 out of 10 dentists recommend\" (ethos + logos); a charity advertisement with a crying child (pathos); a car advertisement with safety ratings (logos), a celebrity (ethos), a happy family (pathos)."
+  },
+  {
+   "front": "--- Ethos",
+   "back": "Logos of brands, experts, certifications, testimonials, celebrity, the credibility of the organisation."
+  },
+  {
+   "front": "--- Pathos",
+   "back": "Emotional images, faces, children, animals, music, colours, slogans arousing feelings."
+  },
+  {
+   "front": "--- Logos",
+   "back": "Facts, numbers, graphs, product features, comparisons, logical claims."
+  },
+  {
+   "front": "Picture Description and Analysis of Ethos, Pathos and Logos — Evaluate effectiveness",
+   "back": "Is the balance appropriate? Is it manipulative? Who is the target? What is missing?"
+  },
+  {
+   "front": "Picture Description and Analysis of Ethos, Pathos and Logos — Write the paragraph/ essay",
+   "back": "Introduction (what the picture is and its purpose), description, analysis of ethos, pathos, logos, conclusion (overall effectiveness)."
+  },
+  {
+   "front": "Evaluation",
+   "back": "Emotional force is strong, but the poster could add data on outcomes to strengthen logos."
+  },
+  {
+   "front": "Debate",
+   "back": "A structured, rule-governed discussion in which two sides present opposing arguments on a motion (resolution) to persuade an audience/ judges. Not a quarrel — focuses on reasoned argument, evidence, rebuttal and respectful exchange."
+  },
+  {
+   "front": "Sides",
+   "back": "Proposition (Government/ Affirmative/ For) — supports the motion and must define it; Opposition (Negative/ Against) — rejects it. Burden of proof lies on the proposition."
+  },
+  {
+   "front": "Asian Parliamentary",
+   "back": "Two teams of three; reply speeches; 7 minutes."
+  },
+  {
+   "front": "Oxford-style",
+   "back": "An audience votes before and after the debate."
+  },
+  {
+   "front": "Lincoln–Douglas",
+   "back": "One-on-one, value-focused; Public Forum; Policy debate (team, evidence-heavy); Karl Popper (cross-examination); World Schools style; Cross-examination debate."
+  },
+  {
+   "front": "Structure of a speech",
+   "back": "Introduction (greeting, define/ signpost), Body (arguments: claim–reason–evidence–impact), Rebuttal, Conclusion (summarise, closing line)."
+  },
+  {
+   "front": "Toulmin model",
+   "back": "Claim (the position), Grounds/ Data (evidence), Warrant (link between data and claim), Backing, Qualifier, Rebuttal."
+  },
+  {
+   "front": "Case building",
+   "back": "Define the motion; set the framework/ model; 2–3 substantive arguments; anticipate opposition; prepare rebuttals; signpost."
+  },
+  {
+   "front": "Flowing (note-taking)",
+   "back": "Record the arguments and responses in columns to track."
+  },
+  {
+   "front": "Delivery",
+   "back": "Clear voice, moderate pace, eye contact, gestures, confidence, time management."
+  },
+  {
+   "front": "Adjudication criteria",
+   "back": "Matter (content, logic, evidence), Manner (delivery, style), Method (structure, role fulfilment), Rebuttal/ Engagement."
+  },
+  {
+   "front": "Preparation tips",
+   "back": "Research both sides; understand terms; pick strong arguments rather than many; practise; keep to time; listen carefully."
+  },
+  {
+   "front": "Moderator (chair)",
+   "back": "A neutral facilitator who manages the process — does not take sides."
+  },
+  {
+   "front": "How to Moderate a Debate — Before",
+   "back": "Understand the motion and format; prepare the rules and time limits; coordinate with timekeepers and judges; set up the room and the speaking order; brief the speakers."
+  },
+  {
+   "front": "How to Moderate a Debate — Opening",
+   "back": "Welcome the audience; introduce the motion, the teams, the judges and the rules; explain timing signals and POI rules."
+  },
+  {
+   "front": "Q&A/ open floor",
+   "back": "Invite questions; ensure fairness; avoid long statements; paraphrase unclear questions."
+  },
+  {
+   "front": "How to Moderate a Debate — Closing",
+   "back": "Thank participants; summarise (neutrally); announce adjudication/ voting procedures; declare results (if required) and close with courtesy."
+  },
+  {
+   "front": "Qualities of a good moderator",
+   "back": "Neutrality, fairness, authority with politeness, knowledge of the format, time sense, active listening, clear voice, tact, quick thinking, respectful, composed under pressure."
+  },
+  {
+   "front": "Ethical vs unethical tactics",
+   "back": "Ethical — strong evidence, logical rebuttal, clear structure; unethical — personal attacks, distortion, shouting down, \"gish gallop\" (overwhelming with many weak points), misrepresenting opponents, hidden agenda."
+  },
+  {
+   "front": "Debate and democracy",
+   "back": "Debate promotes free speech, accountability and informed decisions."
+  },
+  {
+   "front": "Both-Side-Ism, Fallacy of Relativism and Principle of Cha... — Note",
+   "back": "Debate training requires arguing either side, which is a skill exercise and not a claim that both sides are equal; the judge's role is to assess the quality of argument."
+  },
+  {
+   "front": "Fallacy of relativism (relativist fallacy)",
+   "back": "The mistaken belief that \"all views/ truths are equally valid\" or \"truth is relative to each person\", therefore no view can be judged right or wrong."
+  },
+  {
+   "front": "Both-Side-Ism, Fallacy of Relativism and Principle of Cha... — Benefits",
+   "back": "Reduces misunderstanding; builds trust and civility; improves the quality of debate; makes rebuttals stronger and fairer; promotes learning; helps negotiation and conflict resolution."
+  },
+  {
+   "front": "Limits",
+   "back": "Charity doesn't mean accepting bad arguments, pretending a fallacy isn't one, or ignoring clear intent; apply reasonable charity."
+  },
+  {
+   "front": "Charity vs straw man",
+   "back": "Straw man — distort to defeat easily; charity — strengthen to engage honestly."
+  },
+  {
+   "front": "Sample short debate (motion",
+   "back": "\"This House believes that remote work should be the default for office jobs.\"):"
+  },
+  {
+   "front": "Presentation",
+   "back": "A structured oral (and visual) communication of information, ideas or findings to an audience to inform, persuade or demonstrate."
+  },
+  {
+   "front": "Time planning",
+   "back": "Rule — about 1–2 minutes per slide; opening 10%, body 80%, closing 10%."
+  },
+  {
+   "front": "Project presentation (academic/ business)",
+   "back": "Presents a project's problem, objectives, method, findings and recommendations — e.g. a market research project, feasibility study, business plan, case study, internship report, product launch."
+  },
+  {
+   "front": "Structure and Content of the Presentation — Opening",
+   "back": "Greeting, hook (question, story, fact, quote, statistic), introduce yourself/ team, topic and objective, agenda/ roadmap."
+  },
+  {
+   "front": "Structure and Content of the Presentation — Body",
+   "back": "3–5 key points, each with evidence, examples and visuals; transitions (\"Moving on to...\", \"As we can see...\")."
+  },
+  {
+   "front": "Structure and Content of the Presentation — Closing",
+   "back": "Summary of key points; conclusion/ recommendations; call to action; thank you and invitation for questions."
+  },
+  {
+   "front": "Storytelling in presentations",
+   "back": "Problem → solution → benefits; use stories and analogies; connect with the audience."
+  },
+  {
+   "front": "Sample presentation topic",
+   "back": "\"Analysing UPI Adoption among College Students\" — Problem: limited understanding of digital payment behaviour; Objective: study the extent and reasons for UPI usage; Method: a survey of 100 students; Findings: 92% use UPI daily; top reasons — convenience and cashback; main concern — fraud;"
+  },
+  {
+   "front": "Avoid",
+   "back": "Clutter, too many colours, heavy animation, low-quality images, copyright violations, spelling errors."
+  },
+  {
+   "front": "Guy Kawasaki's 10-20-30 rule",
+   "back": "10 slides, 20 minutes, 30-point minimum font (for pitch)."
+  },
+  {
+   "front": "Layout",
+   "back": "Alignment, white space, rule of thirds, visual hierarchy."
+  },
+  {
+   "front": "Colour psychology",
+   "back": "Blue — trust; green — growth; red — urgency; avoid red-green combos (colour-blind)."
+  },
+  {
+   "front": "Other visual aids",
+   "back": "Whiteboard, handouts, flip charts, models, props, demonstrations, posters."
+  },
+  {
+   "front": "Accessibility",
+   "back": "Alt-text, large font, captions, colour-blind-friendly palette."
+  },
+  {
+   "front": "Delivery, Group Presentations and Q&A — Verbal",
+   "back": "Clear voice, moderate pace, volume, pauses, emphasis, avoid fillers, simple language, vary tone."
+  },
+  {
+   "front": "Engaging the audience",
+   "back": "Questions, polls, stories, examples, humour (appropriate), interaction, demos."
+  },
+  {
+   "front": "Handling technical issues",
+   "back": "Backup (USB, cloud), PDF copy, adapters, a plan B without slides."
+  },
+  {
+   "front": "Roles",
+   "back": "Coordinator/ leader, researcher, designer, speaker(s), timekeeper, Q&A responders."
+  },
+  {
+   "front": "Don'ts",
+   "back": "Unequal speaking time; reading from the slides; arguing in front of the audience; unprepared handovers."
+  },
+  {
+   "front": "Feedback",
+   "back": "Seek and use feedback; self-evaluation; peer review; reflection."
+  }
+ ]
+}

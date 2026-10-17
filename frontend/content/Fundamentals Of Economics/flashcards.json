@@ -1,0 +1,672 @@
+{
+ "flashcards": [
+  {
+   "front": "Definitions and Scope of Economics — Focus",
+   "back": "Production, accumulation and distribution of wealth. Smith is called the Father of Economics."
+  },
+  {
+   "front": "Definitions and Scope of Economics — Other supporters",
+   "back": "J.B. Say, J.S. Mill, Walker."
+  },
+  {
+   "front": "Definitions and Scope of Economics — Features",
+   "back": "Studies ordinary people; studies material welfare only; economics is a social science; wealth is a means, not an end."
+  },
+  {
+   "front": "Subject matter",
+   "back": "Consumption, production, exchange (trade), distribution (rent, wages, interest, profit) and public finance."
+  },
+  {
+   "front": "Micro and macro divisions",
+   "back": "Study of individual units vs the whole economy."
+  },
+  {
+   "front": "Positive and normative",
+   "back": "What is vs what ought to be."
+  },
+  {
+   "front": "Helps understand national problems",
+   "back": "Poverty, unemployment, inflation, inequality, regional imbalance, population growth."
+  },
+  {
+   "front": "Helps understand international issues",
+   "back": "Exchange rates, balance of payments, WTO, globalisation."
+  },
+  {
+   "front": "Positive economics",
+   "back": "Deals with \"what is\", \"what was\", \"what will be\". Based on facts, can be tested and verified with data. Free from value judgements."
+  },
+  {
+   "front": "Normative economics",
+   "back": "Deals with \"what ought to be\". Based on opinions, ethics and value judgements. Cannot be proved true or false by data alone."
+  },
+  {
+   "front": "Both are interdependent",
+   "back": "Policy (normative) needs analysis of facts (positive)."
+  },
+  {
+   "front": "Economics as a science",
+   "back": "Has laws (law of demand, law of diminishing returns), uses scientific method (observation, hypothesis, testing, conclusion), but laws are tendencies, not exact like physical sciences, because human behaviour varies."
+  },
+  {
+   "front": "Methods of economic analysis",
+   "back": "Deductive (general to particular — logic, assumptions), inductive (particular to general — data, observation)."
+  },
+  {
+   "front": "Terms coined by Ragnar Frisch (1933)",
+   "back": "Micro = small, macro = large."
+  },
+  {
+   "front": "Microeconomics",
+   "back": "Study of individual economic units — a consumer, household, firm, industry, a single market."
+  },
+  {
+   "front": "Also called price theory. Main tool",
+   "back": "Marginal analysis. Method: partial equilibrium analysis (one market at a time)."
+  },
+  {
+   "front": "Method",
+   "back": "General equilibrium analysis."
+  },
+  {
+   "front": "Paradox of thrift and fallacy of composition show the two are linked",
+   "back": "What is true for the individual need not be true for the whole."
+  },
+  {
+   "front": "Limitations of micro",
+   "back": "Ignores whole-economy interlinkages; limitations of macro: ignores individual differences and structure."
+  },
+  {
+   "front": "Root cause",
+   "back": "Scarcity of resources + unlimited wants + alternative uses of resources = problem of choice."
+  },
+  {
+   "front": "Types of resources (factors of production)",
+   "back": "Land, labour, capital, entrepreneurship."
+  },
+  {
+   "front": "Fundamental Problems of an Economy — Optimum Allocation o... — How to produce? — choice of technique",
+   "back": "Labour-intensive vs capital-intensive; large scale vs small scale. Decided by relative factor prices and efficiency (least-cost combination)."
+  },
+  {
+   "front": "Capitalist (market) economy",
+   "back": "Solved by price mechanism; private ownership; profit motive; consumer sovereignty (e.g. USA)."
+  },
+  {
+   "front": "Socialist (command) economy",
+   "back": "Solved by central planning authority; state ownership (e.g. erstwhile USSR, China earlier)."
+  },
+  {
+   "front": "Mixed economy",
+   "back": "Both private and public sectors co-exist; market plus government regulation (e.g. India, UK, France)."
+  },
+  {
+   "front": "Outward (rightward) shift",
+   "back": "Economic growth — more resources, better technology, education, capital accumulation."
+  },
+  {
+   "front": "Inward shift",
+   "back": "Loss of resources — war, natural disasters, population decline."
+  },
+  {
+   "front": "Pivotal shift (rotation)",
+   "back": "Technology improves in only one good — only that axis intercept changes."
+  },
+  {
+   "front": "Straight-line PPC",
+   "back": "Constant opportunity cost (resources perfectly substitutable). Convex PPC: decreasing opportunity cost (rare)."
+  },
+  {
+   "front": "Uses of PPC",
+   "back": "Illustrates scarcity, choice, opportunity cost, unemployment, growth, and the central problems of what to produce."
+  },
+  {
+   "front": "Distinction",
+   "back": "Movement along the PPC = reallocating resources between goods; shift of PPC = change in productive capacity."
+  },
+  {
+   "front": "Forms of utility (Prof. Marshall)",
+   "back": "Form utility, place utility, time utility, service utility, possession utility."
+  },
+  {
+   "front": "Cardinal approach (Marshall)",
+   "back": "Utility can be measured in numbers called utils. Basis of marginal utility analysis."
+  },
+  {
+   "front": "Total Utility (TU)",
+   "back": "The sum of utilities obtained from consuming all units of a commodity. TU = ΣMU."
+  },
+  {
+   "front": "Marginal Utility (MU)",
+   "back": "The addition to total utility from consuming one more unit. MU = ΔTU/ΔQ, or MUn = TUn − TUn−1."
+  },
+  {
+   "front": "Definition of Utility and Marginal Utility — Explanation",
+   "back": "The first unit satisfies the most urgent want; later units satisfy less intense wants."
+  },
+  {
+   "front": "Definition of Utility and Marginal Utility — Applications",
+   "back": "Consumption, production (factor allocation), public finance, saving vs spending."
+  },
+  {
+   "front": "Indifference map",
+   "back": "A set of indifference curves; higher IC = higher satisfaction."
+  },
+  {
+   "front": "Assumptions of IC analysis",
+   "back": "Rationality; ordinal utility; non-satiation (more is better); diminishing MRS; transitivity/consistency of preferences; given tastes and income."
+  },
+  {
+   "front": "Budget constraint / budget line (price line)",
+   "back": "Shows all combinations of two goods a consumer can buy with a given income and given prices. Equation: M = Px·X + Py·Y."
+  },
+  {
+   "front": "Intercepts",
+   "back": "X-axis = M/Px; Y-axis = M/Py. Slope = −Px/Py (price ratio)."
+  },
+  {
+   "front": "Indifference Curve and Budget Constraint — Example",
+   "back": "Income Rs. 100, Px = Rs. 10, Py = Rs. 20 — maximum X = 10, maximum Y = 5."
+  },
+  {
+   "front": "Points on the line",
+   "back": "Affordable and exhaust income; inside: affordable but income left; outside: unaffordable."
+  },
+  {
+   "front": "Ordinal (Indifference curve) approach",
+   "back": "The consumer is in equilibrium where the budget line is tangent to the highest attainable indifference curve."
+  },
+  {
+   "front": "First-order (necessary) condition",
+   "back": "Slope of IC = slope of budget line, i.e. MRSxy = Px/Py (equivalent to MUx/MUy = Px/Py, giving MUx/Px = MUy/Py)."
+  },
+  {
+   "front": "Second-order (sufficient) condition",
+   "back": "IC must be convex to the origin at the point of tangency (MRS is diminishing)."
+  },
+  {
+   "front": "Price-consumption curve (PCC)",
+   "back": "Locus of equilibrium points as the price of one good changes. Used to derive the demand curve."
+  },
+  {
+   "front": "Substitution effect",
+   "back": "Change in consumption because of change in relative price, keeping real income constant — always negative."
+  },
+  {
+   "front": "Income effect",
+   "back": "Change in consumption due to change in real income — positive for normal goods, negative for inferior goods."
+  },
+  {
+   "front": "Demand function",
+   "back": "Qd = f(Px, Pr, Y, T, E, N, …) — i.e. demand depends on own price, price of related goods, income, tastes, expectations, population."
+  },
+  {
+   "front": "Demand — Price of the commodity",
+   "back": "Inverse relation (law of demand)."
+  },
+  {
+   "front": "Demand — Price of related goods",
+   "back": "Substitutes (tea–coffee): price of one rises, demand for the other rises. Complements (car–petrol): price of one rises, demand for the other falls."
+  },
+  {
+   "front": "Demand schedule",
+   "back": "A table showing quantity demanded at different prices. Individual demand schedule for one consumer; market demand schedule is a horizontal sum."
+  },
+  {
+   "front": "Demand curve",
+   "back": "Graphical representation of the demand schedule — price on Y axis, quantity on X axis; slopes downward from left to right."
+  },
+  {
+   "front": "Deriving the market demand curve",
+   "back": "Horizontal summation of all individual demand curves at each price."
+  },
+  {
+   "front": "Law of Demand",
+   "back": "Other things remaining the same (ceteris paribus), when the price of a commodity falls, its quantity demanded rises, and when price rises, quantity demanded falls — an inverse relationship between price and quantity. (Marshall.)"
+  },
+  {
+   "front": "Law of Demand and Exceptions — Assumptions",
+   "back": "No change in consumer's income; no change in tastes and fashion; no change in prices of related goods; no expectation of future price change; no change in population; no change in government policy; normal commodity."
+  },
+  {
+   "front": "Speculative markets — shares, gold, real estate",
+   "back": "Rising prices attract more buyers."
+  },
+  {
+   "front": "Demand curve shape",
+   "back": "Normally downward sloping (negative slope); upward sloping for exceptions."
+  },
+  {
+   "front": "Extension of demand",
+   "back": "Price falls, quantity demanded rises — downward movement."
+  },
+  {
+   "front": "Contraction of demand",
+   "back": "Price rises, quantity demanded falls — upward movement."
+  },
+  {
+   "front": "Increase in demand",
+   "back": "Rightward shift — more is demanded at each price."
+  },
+  {
+   "front": "Decrease in demand",
+   "back": "Leftward shift — less is demanded at each price."
+  },
+  {
+   "front": "Causes of an increase in demand",
+   "back": "Rise in income (normal goods); rise in price of substitutes; fall in price of complements; favourable change in taste; expectation of price rise; growth in population; advertising."
+  },
+  {
+   "front": "Price elasticity of demand (Ed)",
+   "back": "Percentage change in quantity demanded ÷ percentage change in price."
+  },
+  {
+   "front": "Elasticity of Demand and its Applications — Percentage (proportionate) method",
+   "back": "Ed = % change in Q ÷ % change in P."
+  },
+  {
+   "front": "Price falls from Rs. 10 to Rs. 8 and quantity rises from 100 to 120",
+   "back": "%ΔQ = 20%, %ΔP = −20%, so Ed = 1 (unitary)."
+  },
+  {
+   "front": "Price rises from Rs. 20 to Rs. 25; demand falls from 80 to 60",
+   "back": "%ΔQ = 25%, %ΔP = 25%, Ed = 1."
+  },
+  {
+   "front": "Price falls from Rs. 5 to Rs. 4; quantity rises from 50 to 80",
+   "back": "%ΔQ = 60%, %ΔP = 20%, Ed = 3 (elastic)."
+  },
+  {
+   "front": "Government — tax policy (tax goods with inelastic demand",
+   "back": "Petrol, tobacco, liquor for revenue); subsidies; minimum support prices."
+  },
+  {
+   "front": "Supply — Price of the commodity",
+   "back": "Direct relation — higher price, higher supply."
+  },
+  {
+   "front": "Supply — Cost of production / prices of factor inputs",
+   "back": "Higher costs reduce supply (supply curve shifts left)."
+  },
+  {
+   "front": "Supply — State of technology",
+   "back": "Improved technology lowers cost and increases supply."
+  },
+  {
+   "front": "Supply — Government policy",
+   "back": "Taxes reduce supply; subsidies increase supply."
+  },
+  {
+   "front": "Supply — Number of firms in the industry",
+   "back": "More firms mean more market supply."
+  },
+  {
+   "front": "Supply — Goals of the firm",
+   "back": "Profit maximisation vs sales maximisation."
+  },
+  {
+   "front": "Law of supply",
+   "back": "Other things remaining constant, as the price of a commodity rises, its quantity supplied rises, and as price falls, quantity supplied falls — a direct (positive) relationship between price and quantity supplied."
+  },
+  {
+   "front": "Law of Supply and Deriving the Supply Curve — Assumptions",
+   "back": "Cost of production constant; technology constant; no change in government policy; prices of related goods constant; no change in number of sellers; no expectations of price change; no change in natural conditions."
+  },
+  {
+   "front": "Supply curve",
+   "back": "Upward sloping from left to right. Individual supply curve — one firm; market supply curve is the horizontal sum of all individual supply curves."
+  },
+  {
+   "front": "Derivation of supply curve",
+   "back": "From the supply schedule by plotting price (Y) vs quantity supplied (X). In perfect competition, the firm's short-run supply curve is the portion of its MC curve above the AVC minimum (shutdown point)."
+  },
+  {
+   "front": "Change in quantity supplied",
+   "back": "Caused only by a change in the price of the good; shown by movement along the same supply curve. Expansion of supply (price rises, supply rises — upward movement); contraction of supply (price falls — downward movement)."
+  },
+  {
+   "front": "Change in supply",
+   "back": "Caused by changes in non-price factors; shown by shift of the whole supply curve. Increase in supply — rightward shift (technology improves, input prices fall, subsidy, more firms). Decrease in supply — leftward shift (higher input costs, taxes, bad weather, fewer firms)."
+  },
+  {
+   "front": "Surplus (excess supply)",
+   "back": "At a price above equilibrium, Qs > Qd — competition among sellers pushes price down."
+  },
+  {
+   "front": "Shortage (excess demand)",
+   "back": "At a price below equilibrium, Qd > Qs — competition among buyers pushes price up."
+  },
+  {
+   "front": "Stable equilibrium",
+   "back": "Forces automatically restore the equilibrium after a disturbance. Unstable equilibrium: forces push away from equilibrium."
+  },
+  {
+   "front": "Simultaneous shifts",
+   "back": "If demand and supply increase by the same proportion, price remains unchanged and quantity rises."
+  },
+  {
+   "front": "Price controls",
+   "back": "Price ceiling (maximum price below equilibrium, e.g. rent control, essential commodities) creates shortage and black markets. Price floor (minimum price above equilibrium, e.g. Minimum Support Price, minimum wage) creates surplus."
+  },
+  {
+   "front": "Algebraic solution",
+   "back": "If Qd = 100 − 5P and Qs = 20 + 3P, equilibrium: 100 − 5P = 20 + 3P, so 8P = 80, P = 10, Q = 50."
+  },
+  {
+   "front": "Elasticity of supply (Es)",
+   "back": "Degree of responsiveness of quantity supplied to a change in price. Es = %ΔQs ÷ %ΔP = (ΔQ/ΔP) × (P/Q). It is positive due to direct relation."
+  },
+  {
+   "front": "Geometric rule for a straight-line supply curve",
+   "back": "If it passes through the origin Es = 1; if it cuts the Y-axis, Es > 1; if it cuts the X-axis, Es < 1 (regardless of slope)."
+  },
+  {
+   "front": "Measurement methods",
+   "back": "Percentage method, point method, arc method."
+  },
+  {
+   "front": "Price rises from Rs. 10 to Rs. 12; supply rises from 100 to 130",
+   "back": "%ΔQ = 30%, %ΔP = 20%, Es = 1.5 (elastic)."
+  },
+  {
+   "front": "Price rises from Rs. 20 to Rs. 22; supply rises from 50 to 52",
+   "back": "%ΔQ = 4%, %ΔP = 10%, Es = 0.4 (inelastic)."
+  },
+  {
+   "front": "Elasticity of Supply and its Application — Applications",
+   "back": "Decides tax incidence (more of tax is borne by sellers with inelastic supply); helps in agricultural pricing and MSP; guides government on price stabilisation; helps firms in capacity planning; explains price volatility in agricultural markets (inelastic supply causes big price swings);"
+  },
+  {
+   "front": "Production",
+   "back": "The process of creating or adding utility (value) to goods and services — transforming inputs into outputs. Production does not mean creation of matter; it means creation of utility (form, place, time, service utility)."
+  },
+  {
+   "front": "Meaning and Definition of Production — Land",
+   "back": "All natural resources — soil, minerals, forests, water, climate. Features: gift of nature; fixed in supply (perfectly inelastic in total); passive factor; heterogeneous in fertility and location; immobile geographically. Reward: rent."
+  },
+  {
+   "front": "Meaning and Definition of Production — Labour",
+   "back": "Physical and mental human effort for a reward. Features: perishable; inseparable from labourer; active; varies in efficiency; weak bargaining power; supply is affected by population and wage rate. Reward: wages."
+  },
+  {
+   "front": "Meaning and Definition of Production — Entrepreneur / Organisation",
+   "back": "Coordinates other factors, takes decisions and bears risk and uncertainty. Functions: initiative, risk-bearing, innovation (Schumpeter), management, decision making. Reward: profit."
+  },
+  {
+   "front": "Types of capital",
+   "back": "Fixed vs circulating; physical vs human; private vs social."
+  },
+  {
+   "front": "Division of labour",
+   "back": "Splitting of production into small tasks — raises efficiency; limits: size of the market."
+  },
+  {
+   "front": "Production function",
+   "back": "The technical relationship between physical inputs and the maximum output that can be produced with a given state of technology. Q = f(L, K, N, O …), where Q = output; L = labour; K = capital; N = land; O = organisation."
+  },
+  {
+   "front": "Production Function — One Variable and Two Variable Inputs — Features",
+   "back": "Relates to a given period; assumes a given technology (change in technology shifts the function); shows the maximum output from given inputs (efficiency); inputs must be used in efficient combinations; defined for a specific product."
+  },
+  {
+   "front": "Production function with one variable input (short run)",
+   "back": "Q = f(L), with K fixed. Studied through Total Product (TP), Average Product (AP) and Marginal Product (MP)."
+  },
+  {
+   "front": "Production function with two variable inputs (long run)",
+   "back": "Q = f(L, K), studied through isoquants and returns to scale."
+  },
+  {
+   "front": "Cobb–Douglas production function",
+   "back": "Q = A·Lα·Kβ — α and β are output elasticities of labour and capital. If α + β = 1, constant returns to scale; >1 increasing; <1 decreasing. Suited to two-factor analysis."
+  },
+  {
+   "front": "Fixed proportion (Leontief) production function",
+   "back": "Inputs used in fixed ratios (L-shaped isoquants)."
+  },
+  {
+   "front": "Short-Run Production Function — Law of Variable Proportion — Assumptions",
+   "back": "Technology constant; at least one factor is fixed; variable factors are homogeneous; the possibility of varying factor proportions exists; short-run phenomenon."
+  },
+  {
+   "front": "Stage I — Increasing returns",
+   "back": "From origin to the point where AP is maximum (MP = AP). Not a rational stage to stop — fixed factors underutilised."
+  },
+  {
+   "front": "Stage II — Diminishing returns",
+   "back": "From maximum AP to the point where MP = 0 (TP maximum). The rational stage of production — the firm operates here."
+  },
+  {
+   "front": "Stage III — Negative returns",
+   "back": "MP < 0, TP falls. A rational producer never operates here."
+  },
+  {
+   "front": "Causes of increasing returns",
+   "back": "Better utilisation of fixed factors; division of labour and specialisation. Causes of diminishing returns: overuse of fixed factor; imperfect substitutability of factors; poor coordination. Causes of negative returns: overcrowding and managerial inefficiency."
+  },
+  {
+   "front": "Applicability",
+   "back": "Originally for agriculture (Ricardo, Malthus); applies to all production activities. Delayed by better technology, but not avoided."
+  },
+  {
+   "front": "Returns to scale",
+   "back": "How output changes when all inputs are changed in the same proportion (the scale changes), in the long run."
+  },
+  {
+   "front": "Increasing returns to scale (IRS)",
+   "back": "Output rises by a larger proportion than inputs (inputs double, output more than doubles). Causes: division of labour, indivisibility of factors, technical economies, managerial economies, marketing economies."
+  },
+  {
+   "front": "Constant returns to scale (CRS)",
+   "back": "Output rises in the same proportion (inputs double, output doubles). Typical when internal economies and diseconomies offset each other. Cobb–Douglas with α + β = 1."
+  },
+  {
+   "front": "Decreasing returns to scale (DRS)",
+   "back": "Output rises by a smaller proportion (inputs double, output less than doubles). Causes: managerial diseconomies, coordination problems, labour disputes, exhaustion of natural resources."
+  },
+  {
+   "front": "Typical firm",
+   "back": "IRS first, then CRS over a range, then DRS."
+  },
+  {
+   "front": "Isoquant (iso-product curve/equal-product curve)",
+   "back": "A curve showing all possible combinations of two inputs (labour and capital) that yield the same level of output."
+  },
+  {
+   "front": "Isoquant map",
+   "back": "Set of isoquants; a higher isoquant means higher output."
+  },
+  {
+   "front": "Marginal Rate of Technical Substitution (MRTSLK)",
+   "back": "The rate at which one input can be substituted for another without changing output; MRTS = −ΔK/ΔL = MPL/MPK. Diminishes along an isoquant."
+  },
+  {
+   "front": "Properties",
+   "back": "Slopes downward; convex to the origin (diminishing MRTS); two isoquants never intersect; higher isoquant means more output; do not touch the axes; not necessarily parallel."
+  },
+  {
+   "front": "Isoquant vs indifference curve",
+   "back": "Isoquants measure physical output (cardinal, can be labelled 100, 200); ICs measure satisfaction (ordinal). Both are convex and non-intersecting."
+  },
+  {
+   "front": "Marginal rate of substitution vs MRTS",
+   "back": "MRS relates to consumers (utility); MRTS relates to producers (output)."
+  },
+  {
+   "front": "Money (nominal) cost",
+   "back": "Total expenditure in money terms. Real cost: effort and sacrifice of the factor owners (Marshall: pains of labour, abstinence of capital)."
+  },
+  {
+   "front": "Opportunity cost",
+   "back": "Value of the next best alternative forgone."
+  },
+  {
+   "front": "TFC",
+   "back": "Constant at all outputs. TVC: rises with output. TC = TFC + TVC."
+  },
+  {
+   "front": "Long-run cost functions",
+   "back": "All costs are variable; no fixed cost."
+  },
+  {
+   "front": "Long-run Marginal Cost (LMC)",
+   "back": "Derived from short-run marginal costs; cuts LAC at its minimum; flatter than SMC."
+  },
+  {
+   "front": "Minimum efficient scale (MES)",
+   "back": "Lowest output at which LAC is minimised."
+  },
+  {
+   "front": "Economies of scale",
+   "back": "Reduction in average cost as output expands (scale of production rises)."
+  },
+  {
+   "front": "Technical",
+   "back": "Large machines, specialisation, indivisibility. Managerial: specialised managers. Marketing: bulk advertising and distribution. Financial: cheaper credit. Risk-bearing: diversification. Labour: division of labour. Purchasing: bulk discounts."
+  },
+  {
+   "front": "Diseconomies of scale",
+   "back": "Rise in AC when the firm becomes too large — management coordination problems, labour disputes, red tape, scarce inputs. External diseconomies: congestion, pollution, rising input prices."
+  },
+  {
+   "front": "Economies of scope",
+   "back": "Reduction in average cost when a firm produces a variety of related products together rather than separately (shared inputs: equipment, brand, distribution, R&D) — e.g. a dairy producing milk, curd and butter; a bank offering several services."
+  },
+  {
+   "front": "Difference",
+   "back": "Scale — about the volume of one product; scope — about the variety of products."
+  },
+  {
+   "front": "Under perfect competition",
+   "back": "Price is constant; AR = MR = P (horizontal line); TR is a straight line from the origin."
+  },
+  {
+   "front": "MR–AR–elasticity relation",
+   "back": "MR = AR × (e − 1)/e, and e = AR/(AR − MR)."
+  },
+  {
+   "front": "Supernormal (abnormal/economic) profit",
+   "back": "TR − TC > 0 beyond normal profit (AR > AC)."
+  },
+  {
+   "front": "Break-even point",
+   "back": "TR = TC (AR = AC; zero economic profit)."
+  },
+  {
+   "front": "TR–TC approach",
+   "back": "Profit is maximum where the vertical gap between TR and TC is greatest."
+  },
+  {
+   "front": "Profit maximisation vs other goals",
+   "back": "Sales maximisation (Baumol), managerial utility (Williamson), satisficing (Simon), growth."
+  },
+  {
+   "front": "Isocost line (equal-cost line)",
+   "back": "Shows all combinations of two inputs (labour and capital) that a firm can buy with a given total cost (outlay) and given factor prices. TC = w·L + r·K (w = wage rate, r = rental rate of capital)."
+  },
+  {
+   "front": "Isocost Line — Intercepts",
+   "back": "TC/w on the labour axis; TC/r on the capital axis. Slope = −w/r (ratio of factor prices)."
+  },
+  {
+   "front": "Shifts",
+   "back": "Increase in outlay — parallel outward shift; decrease — inward; change in w — rotates around the capital-axis intercept; change in r — rotates around the labour-axis intercept."
+  },
+  {
+   "front": "Analogy",
+   "back": "Isocost is to the producer what the budget line is to the consumer."
+  },
+  {
+   "front": "First-order condition",
+   "back": "MRTSLK = w/r (slope of isoquant = slope of isocost), which is MPL/MPK = w/r, or MPL/w = MPK/r."
+  },
+  {
+   "front": "Second-order condition",
+   "back": "Isoquant must be convex to the origin at the equilibrium point."
+  },
+  {
+   "front": "Maximising output subject to a cost constraint",
+   "back": "Reach the highest isoquant within the given isocost line."
+  },
+  {
+   "front": "Minimising cost for a given output",
+   "back": "Reach the lowest isocost line touching the given isoquant."
+  },
+  {
+   "front": "Effect of change in factor prices",
+   "back": "If wages rise relative to the price of capital, the firm substitutes capital for labour (new tangency on a steeper isocost line)."
+  },
+  {
+   "front": "Difference between consumer's and producer's equilibrium",
+   "back": "Consumer maximises satisfaction (ordinal); producer maximises output (cardinal)."
+  },
+  {
+   "front": "Market",
+   "back": "In economics, any arrangement (place, physical or virtual) in which buyers and sellers interact to exchange goods and services at a price. It need not be a specific place."
+  },
+  {
+   "front": "Essentials of a market",
+   "back": "A commodity; buyers and sellers; contact between them; a price; competition."
+  },
+  {
+   "front": "Meaning and Definition of Market — By area",
+   "back": "Local, regional, national, international."
+  },
+  {
+   "front": "Meaning and Definition of Market — By time (Marshall)",
+   "back": "Very short period (market period), short period, long period, very long period (secular)."
+  },
+  {
+   "front": "Meaning and Definition of Market — By competition (most important)",
+   "back": "Perfect competition and imperfect competition (monopoly, monopolistic competition, oligopoly, duopoly; also monopsony, oligopsony)."
+  },
+  {
+   "front": "Market structure depends on",
+   "back": "Number of buyers and sellers, nature of the product (homogeneous/differentiated), freedom of entry and exit, knowledge of market, mobility of factors, and control over price."
+  },
+  {
+   "front": "Price determination in perfect competition",
+   "back": "By interaction of industry demand and industry supply. The firm accepts that price."
+  },
+  {
+   "front": "Short-run equilibrium of the firm",
+   "back": "Condition MR = MC, with MC cutting MR from below. Three outcomes: supernormal profit (P > AC), normal profit (P = AC) and loss (P < AC but ≥ AVC). Shutdown if P < AVC. Firm's short-run supply curve = MC above minimum AVC."
+  },
+  {
+   "front": "Long-run equilibrium",
+   "back": "Free entry and exit make firms earn only normal profit: P = MR = SMC = SAC = LMC = LAC (minimum LAC). Firm produces at the optimum scale — maximum productive and allocative efficiency (P = MC). If supernormal profits exist, new firms enter and price falls; if losses, firms exit and price rises."
+  },
+  {
+   "front": "Perfect and Imperfect Competition — Merits",
+   "back": "Efficient allocation; consumer sovereignty; no exploitation; lowest price; optimum output. Demerits: unrealistic; no innovation or product variety; no economies of scale benefit beyond a limit; no advertising information."
+  },
+  {
+   "front": "Imperfect competition",
+   "back": "Any market where one or more of the conditions of perfect competition is not fulfilled — sellers have some control over price. Includes monopoly, monopolistic competition, oligopoly."
+  },
+  {
+   "front": "Monopoly (mono = single, poly = seller)",
+   "back": "A market with a single seller of a product having no close substitutes, with barriers to entry."
+  },
+  {
+   "front": "Regulation",
+   "back": "Price control, anti-trust law (Competition Act 2002 in India — CCI), nationalisation, taxation."
+  },
+  {
+   "front": "Monopolistic competition (Chamberlin, Joan Robinson, 1933)",
+   "back": "Many sellers selling differentiated but closely related (substitute) products."
+  },
+  {
+   "front": "Oligopoly (oligos = few)",
+   "back": "Market with a few large sellers, each aware of rivals' reactions."
+  },
+  {
+   "front": "Cournot duopoly model (1838)",
+   "back": "Two firms, each assumes the rival's output is fixed. Bertrand model: firms compete on price."
+  },
+  {
+   "front": "Other forms",
+   "back": "Monopsony (single buyer), oligopsony (few buyers), bilateral monopoly (single seller meets single buyer)."
+  }
+ ]
+}

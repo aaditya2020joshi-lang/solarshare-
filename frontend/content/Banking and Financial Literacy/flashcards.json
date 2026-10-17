@@ -1,0 +1,768 @@
+{
+ "flashcards": [
+  {
+   "front": "OECD/INFE definition",
+   "back": "A combination of financial awareness, knowledge, skills, attitudes and behaviours necessary to make sound financial decisions and ultimately achieve individual financial wellbeing."
+  },
+  {
+   "front": "RBI/NCFE view",
+   "back": "Financial literacy is the ability to make informed judgements and take effective decisions regarding the use and management of money."
+  },
+  {
+   "front": "Financial inclusion",
+   "back": "Access to affordable financial products (bank account, credit, insurance, pension) for all, especially weaker sections."
+  },
+  {
+   "front": "Skills",
+   "back": "Budgeting, saving, calculating EMI/returns, comparing products, reading statements."
+  },
+  {
+   "front": "Attitudes",
+   "back": "Long-term thinking, disciplined spending, willingness to plan."
+  },
+  {
+   "front": "Behaviour",
+   "back": "Actually saving, avoiding unnecessary debt, paying bills on time."
+  },
+  {
+   "front": "The \"big three\" financial literacy questions",
+   "back": "Interest compounding, inflation, risk diversification."
+  },
+  {
+   "front": "Rule of 72",
+   "back": "Years to double money ≈ 72 ÷ interest rate (%). Example: at 8%, money doubles in about 9 years."
+  },
+  {
+   "front": "Simple interest",
+   "back": "SI = P × R × T / 100. Compound interest: A = P(1 + r/100)n."
+  },
+  {
+   "front": "Financial institution",
+   "back": "An organisation that mobilises savings and channels them to productive users; provides financial services."
+  },
+  {
+   "front": "--- Development banks / specialised",
+   "back": "NABARD (agriculture and rural), SIDBI (small industry), EXIM Bank (foreign trade), NaBFID (infrastructure)."
+  },
+  {
+   "front": "Regulators",
+   "back": "RBI (banks, NBFCs, payment systems), SEBI (securities, mutual funds), IRDAI (insurance), PFRDA (pension), IFSCA (GIFT City), NABARD, NHB (housing finance sector development)."
+  },
+  {
+   "front": "Post offices",
+   "back": "India Post — world's largest postal network; also offers small savings schemes, Postal Life Insurance, India Post Payments Bank and money transfer — vital for rural financial inclusion."
+  },
+  {
+   "front": "Investment",
+   "back": "Commitment of money or resources today to acquire assets that are expected to generate income or appreciation in the future."
+  },
+  {
+   "front": "Investment — Types",
+   "back": "Financial investment (shares, bonds, FDs, mutual funds) vs real investment (land, gold, buildings, machinery)."
+  },
+  {
+   "front": "Risk",
+   "back": "The possibility that actual returns differ from expected returns. Return: gain or loss on an investment (income + capital appreciation)."
+  },
+  {
+   "front": "Risk–return trade-off",
+   "back": "Higher expected return means higher risk. Low risk: savings account, FD, government bonds, PPF; moderate: debt mutual funds, corporate bonds, gold; high: equity shares, equity funds, derivatives, crypto."
+  },
+  {
+   "front": "Types of risk",
+   "back": "Market risk, credit/default risk, interest-rate risk, inflation risk, liquidity risk, reinvestment risk, currency risk, political risk. Systematic (non-diversifiable) vs unsystematic (diversifiable)."
+  },
+  {
+   "front": "Real vs nominal return",
+   "back": "Real return ≈ nominal return − inflation."
+  },
+  {
+   "front": "Risk profiling",
+   "back": "Assessing an investor's risk capacity (financial ability to bear loss) and risk tolerance (psychological willingness) to match with suitable investments — required by SEBI for advisers and distributors (suitability)."
+  },
+  {
+   "front": "Traditional method",
+   "back": "A questionnaire (age, income, dependents, goals, horizon, reaction to a 20% fall)."
+  },
+  {
+   "front": "AI in Investment Risk Profiling — Benefits",
+   "back": "Personalisation, speed, lower cost, inclusion of small investors, dynamic updating of profile."
+  },
+  {
+   "front": "Concerns",
+   "back": "Data privacy, algorithmic bias, lack of transparency (\"black box\"), over-reliance, regulatory accountability, quality of data. Human oversight remains necessary."
+  },
+  {
+   "front": "Emergency fund",
+   "back": "Typically 3 to 6 months of expenses kept in liquid form."
+  },
+  {
+   "front": "Budget",
+   "back": "An estimate of income and expenditure for a future period."
+  },
+  {
+   "front": "Receipts",
+   "back": "Revenue receipts (tax and non-tax), capital receipts (borrowings, disinvestment, loan recoveries)."
+  },
+  {
+   "front": "Expenditure",
+   "back": "Revenue expenditure (salaries, interest, subsidies), capital expenditure (assets)."
+  },
+  {
+   "front": "Surplus budget",
+   "back": "Receipts > expenditure. Balanced budget: receipts = expenditure. Deficit budget: expenditure > receipts."
+  },
+  {
+   "front": "AI-driven personal finance apps",
+   "back": "Apps (examples: Cred, Jar, Groww, Paytm Money, INDmoney, Walnut, Money View, Fi Money) that use AI/ML to:"
+  },
+  {
+   "front": "Need",
+   "back": "Rapidly increasing complex products; digital finance and frauds; rising household debt; longer life expectancy and absence of social security; low savings in formal instruments; financial inclusion drives (Jan Dhan) require literate users; reducing exploitation by moneylenders and mis-selling."
+  },
+  {
+   "front": "Role of financial education in financial wellbeing",
+   "back": "Builds knowledge → changes behaviour → good decisions → financial resilience and wellbeing (ability to meet obligations, absorb shocks, achieve goals and have financial freedom)."
+  },
+  {
+   "front": "RBI initiatives",
+   "back": "Financial Literacy Centres (FLCs) and Centres for Financial Literacy (CFL) project, Financial Literacy Week, RBI Kehta Hai awareness campaign, comic books, Financial Awareness Messages (FAME) booklet, Sachet portal, bank ombudsman."
+  },
+  {
+   "front": "SEBI",
+   "back": "Securities Market Trainers, investor awareness programmes, SEBI Investor portal, \"saa₹thi\" app (note: SEBI's investor education app). IRDAI — Bima awareness. PFRDA — pension awareness."
+  },
+  {
+   "front": "Importance of financial planning",
+   "back": "Ensures goal achievement, avoids financial stress, secures family, builds wealth through disciplined saving, reduces tax, prepares for contingencies."
+  },
+  {
+   "front": "AI chatbots and voice assistants",
+   "back": "Answer queries about savings, budgeting, loans, frauds 24x7, in multiple (regional) languages — improving reach to the rural and first-time users."
+  },
+  {
+   "front": "Examples in practice",
+   "back": "Bank chatbots (SBI \"SIA\", HDFC Bank \"EVA\", ICICI \"iPal\"), UPI conversational payments (NPCI's \"Hello UPI\"), AI-enabled fraud-awareness campaigns, translations through Bhashini. The RBI and its innovation hub promote AI/ML tools for supervision and fraud detection (e.g."
+  },
+  {
+   "front": "AI for Financial Literacy Awareness — Uses",
+   "back": "Personalised learning; gamified quizzes; simulation of savings goals; alerts on phishing, vishing, fake loan apps; reminders; explaining terms in simple words."
+  },
+  {
+   "front": "Fraud awareness messages",
+   "back": "Never share OTP/PIN/CVV; verify callers; do not click unknown links; use only official apps; report on cybercrime.gov.in / 1930 helpline; use Sanchar Saathi / Chakshu for suspicious communication."
+  },
+  {
+   "front": "Limits/Risks",
+   "back": "Hallucination or incorrect advice, privacy concerns, digital divide, over-reliance, need for human help and grievance channel."
+  },
+  {
+   "front": "Primary",
+   "back": "Accepting deposits; lending/advances (loans, overdraft, cash credit, discounting of bills)."
+  },
+  {
+   "front": "Credit creation",
+   "back": "Banks create deposits through lending (money multiplier)."
+  },
+  {
+   "front": "Commercial banks",
+   "back": "Public sector (12 PSBs after mergers), private sector, foreign banks."
+  },
+  {
+   "front": "Development/Specialised banks",
+   "back": "NABARD, SIDBI, EXIM, NHB."
+  },
+  {
+   "front": "Regional Rural Banks",
+   "back": "Established 1975 (RRB Act 1976) to serve rural areas; owned by Centre (50%), State (15%), sponsor bank (35%)."
+  },
+  {
+   "front": "Nationalisation of banks",
+   "back": "14 banks in 1969; 6 more in 1980."
+  },
+  {
+   "front": "Remittances",
+   "back": "DD, pay order, NEFT, RTGS, IMPS, UPI; cheque collection."
+  },
+  {
+   "front": "Savings account",
+   "back": "For individuals; interest paid on daily balance (rate set by banks since 2011 deregulation); minimum balance rules; limited withdrawals; cheque/ATM facility."
+  },
+  {
+   "front": "Current account",
+   "back": "For businesses and professionals; no interest; unlimited transactions; overdraft facility; higher minimum balance."
+  },
+  {
+   "front": "Fixed (term) deposit",
+   "back": "Lump sum for fixed period (7 days to 10 years) at fixed rate; premature withdrawal with penalty; loan against FD; tax-saver FD with 5-year lock-in (Sec 80C, old regime); TDS applicable above limits."
+  },
+  {
+   "front": "Recurring deposit",
+   "back": "Fixed monthly instalments for a fixed tenor (6 months to 10 years)."
+  },
+  {
+   "front": "Nomination facility",
+   "back": "Nominee receives deposit on death of the holder; nominee is a trustee, not necessarily the owner."
+  },
+  {
+   "front": "Unclaimed deposits",
+   "back": "Accounts inoperative for 10 years go to the RBI's Depositor Education and Awareness (DEA) Fund; people can reclaim via banks (UDGAM portal to find unclaimed deposits)."
+  },
+  {
+   "front": "Formalities to Open Accounts and KYC Norms — Process",
+   "back": "Application form → photographs → KYC documents → introduction (not mandatory now) → initial deposit → specimen signature → account number, passbook/chequebook/ATM card."
+  },
+  {
+   "front": "KYC (Know Your Customer)",
+   "back": "Identifying and verifying a customer's identity and address; mandated by RBI Master Direction on KYC under the Prevention of Money Laundering Act (PMLA), 2002."
+  },
+  {
+   "front": "Formalities to Open Accounts and KYC Norms — Objectives",
+   "back": "Prevent money laundering, terror financing, identity theft and fraud; know customer's transaction profile."
+  },
+  {
+   "front": "Officially Valid Documents (OVDs)",
+   "back": "Aadhaar, passport, driving licence, voter ID, NREGA job card, letter from the National Population Register. PAN (or Form 60) is required for specified transactions."
+  },
+  {
+   "front": "Four elements of KYC policy",
+   "back": "Customer Acceptance Policy, Customer Identification Procedures, Monitoring of Transactions, Risk Management."
+  },
+  {
+   "front": "Periodic KYC updation",
+   "back": "Every 2 years (high risk), 8 years (medium), 10 years (low risk)."
+  },
+  {
+   "front": "Types of Loans — By security",
+   "back": "Secured (home, vehicle, gold, FD, loan against property) vs Unsecured (personal loan, credit card, education loan up to a limit)."
+  },
+  {
+   "front": "Types of Loans — By purpose",
+   "back": "Home, auto, education, personal, gold, agricultural (Kisan Credit Card), MSME, business, microfinance, loan against securities."
+  },
+  {
+   "front": "Overdraft (OD)",
+   "back": "Permission to withdraw more than the balance up to a limit. Cash credit (CC): working capital against stock/receivables."
+  },
+  {
+   "front": "Types of Loans — Example",
+   "back": "P = Rs 1,00,000, annual rate 12% (r = 0.01), n = 12: EMI ≈ Rs 8,885; total payment ≈ Rs 1,06,619; interest ≈ Rs 6,619."
+  },
+  {
+   "front": "CIBIL score",
+   "back": "3-digit number 300 to 900; 750+ considered good. CIBIL Rank (1–10) for commercial borrowers."
+  },
+  {
+   "front": "Improve",
+   "back": "Pay EMIs/bills on time, keep low utilisation, avoid multiple applications, maintain old accounts, check report for errors."
+  },
+  {
+   "front": "Traditional scoring",
+   "back": "Based on bureau data (history) — excludes \"credit invisible\" people (no history)."
+  },
+  {
+   "front": "AI/ML credit scoring",
+   "back": "Uses alternative data — utility bill payments, mobile and UPI transactions, GST returns, bank statement cash flows, e-commerce activity, social/behavioural signals (with consent) — to score thin-file customers, speed approval (minutes), and enable digital lending."
+  },
+  {
+   "front": "AI in Loan Approval and Credit Scoring — Techniques",
+   "back": "Logistic regression, decision trees, random forests, gradient boosting, neural networks; automated underwriting, document OCR, fraud checks."
+  },
+  {
+   "front": "AI in Loan Approval and Credit Scoring — Benefits",
+   "back": "Speed, reduced cost, inclusion of MSMEs and gig workers, lower default prediction error, consistency."
+  },
+  {
+   "front": "Risks",
+   "back": "Bias and discrimination, lack of explainability, privacy, data misuse, over-lending, predatory digital apps. RBI Digital Lending Directions — loans only through RBI-regulated entities; direct disbursal to borrower's bank account; Key Fact Statement (KFS); cooling-off period; no automatic limit increase without consent;"
+  },
+  {
+   "front": "E-banking channels",
+   "back": "Internet banking, mobile banking (apps), SMS banking, phone banking, ATMs, POS, UPI, kiosks, WhatsApp banking."
+  },
+  {
+   "front": "Advantages of cashless banking",
+   "back": "Convenience, speed, 24x7, lower cost, transparency, reduced cash handling and corruption, record for tax. Risks: phishing, vishing, skimming, SIM swap, malware, fake apps, cyber attacks."
+  },
+  {
+   "front": "Safe banking practices",
+   "back": "Never share OTP, CVV or PIN; use strong passwords and two-factor authentication; avoid public Wi-Fi; check URL (https); regularly check statements; enable alerts."
+  },
+  {
+   "front": "RBI zero-liability framework (2017)",
+   "back": "Zero liability if the fraud is due to bank's fault or third-party breach and reported within 3 working days; limited liability (Rs 5,000–25,000) if reported in 4–7 days; beyond 7 days as per bank policy."
+  },
+  {
+   "front": "Biometrics",
+   "back": "Fingerprint, iris, face, voice (voiceprint). Voice recognition verifies a customer on phone banking or voice-based UPI; facial recognition unlocks banking apps, supports video KYC and liveness detection (to stop deepfakes)."
+  },
+  {
+   "front": "Cashless Banking — Benefits",
+   "back": "Fast, convenient, hard to forget/steal. Risks: spoofing, deepfakes, privacy and data protection (Digital Personal Data Protection Act, 2023), false rejections, exclusion of people with disabilities. Usually used as part of multi-factor authentication."
+  },
+  {
+   "front": "Complaint redressal",
+   "back": "(1) complain to the bank's branch/ nodal/ principal nodal officer (written, with acknowledgement); (2) if no reply within 30 days or unsatisfied — approach the RBI Ombudsman under the RBI Integrated Ombudsman Scheme, 2021 (single portal cms.rbi.org.in, email and toll-free 14448, free of cost);"
+  },
+  {
+   "front": "Common complaints",
+   "back": "Unauthorised transactions, ATM failures, delay in credit, loan recovery harassment, cheque dishonour, charges, KYC issues, digital lending app harassment."
+  },
+  {
+   "front": "Cheque bounce",
+   "back": "Section 138, Negotiable Instruments Act — penalty up to 2 years imprisonment or fine up to twice the cheque amount, after statutory notice (30 days), reply time 15 days."
+  },
+  {
+   "front": "AI in fraud detection",
+   "back": "Real-time transaction monitoring; anomaly detection (unusual amount, location, device); supervised ML (classification of fraud vs genuine), unsupervised ML (clustering), graph analytics (mule account networks), behavioural biometrics, risk scoring of every UPI/card transaction in milliseconds; reducing false positives."
+  },
+  {
+   "front": "AML (Anti-Money Laundering)",
+   "back": "Money laundering = disguising proceeds of crime as legitimate. Stages: placement, layering, integration."
+  },
+  {
+   "front": "AI in AML",
+   "back": "Name screening against sanctions lists, network analysis, auto-generation of alerts and STRs, reduce false alerts, RegTech/SupTech; MuleHunter.AI."
+  },
+  {
+   "front": "Types of payment instruments",
+   "back": "Cash, cheque, demand draft, cards, wallets, bank transfers, UPI, e-mandates, CBDC."
+  },
+  {
+   "front": "Card networks",
+   "back": "Visa, Mastercard, American Express, UnionPay, JCB, Discover, RuPay (global tie-ups)."
+  },
+  {
+   "front": "Large-value systems",
+   "back": "Fedwire and CHIPS (USA), CHAPS (UK), TARGET2/T2 (Eurozone), CIPS (China), BOJ-NET (Japan)."
+  },
+  {
+   "front": "Retail/regional",
+   "back": "SEPA (Single Euro Payments Area), Faster Payments (UK), PIX (Brazil), FedNow (USA), PayNow (Singapore); international UPI linkages."
+  },
+  {
+   "front": "Digital wallets/fintech",
+   "back": "PayPal, Apple Pay, Google Pay, Alipay, WeChat Pay, Stripe, Wise."
+  },
+  {
+   "front": "Cross-border settlement",
+   "back": "Correspondent banking (Nostro/Vostro accounts), CLS Bank for forex settlement (payment vs payment). Remittances (Western Union, MoneyGram)."
+  },
+  {
+   "front": "Paper-based",
+   "back": "Cheques, demand drafts, pay orders, money orders."
+  },
+  {
+   "front": "Electronic",
+   "back": "RTGS, NEFT, IMPS, UPI, NACH, AePS, NFS, BBPS, NUUP (USSD), cards, PPIs."
+  },
+  {
+   "front": "IMPS",
+   "back": "Launched 2010; channel: mobile, internet, ATM, SMS; works on holidays."
+  },
+  {
+   "front": "NUUP",
+   "back": "National Unified USSD Platform — dial \\*99# for banking services without internet; supports balance, fund transfer, mini statement, in many languages."
+  },
+  {
+   "front": "eNACH / NACH",
+   "back": "National Automated Clearing House — bulk credit (salaries, dividends, pensions, subsidy) and bulk debit (EMIs, SIPs, insurance premiums); replaced ECS."
+  },
+  {
+   "front": "AePS",
+   "back": "Allows cash withdrawal, balance enquiry, mini statement, fund transfer, using Aadhaar number and fingerprint/iris at micro-ATMs of business correspondents; vital for rural and Jan Dhan accounts; risks of biometric cloning fraud."
+  },
+  {
+   "front": "Voice payments",
+   "back": "The user speaks a command (\"Pay Rs 500 to Ramesh\") — speech recognition + NLP convert it into a payment instruction; UPI-based voice assistants in regional languages (e.g. Hello UPI, Google Assistant and Alexa-based payments); helpful for first-time and visually-impaired users."
+  },
+  {
+   "front": "Biometric authentication",
+   "back": "Fingerprint, face, iris, voice, behavioural patterns (typing speed, swipe pattern). Aadhaar-based authentication, Face ID and fingerprint for apps and UPI PIN replacement."
+  },
+  {
+   "front": "AI role",
+   "back": "Voiceprint matching, liveness detection, anti-spoofing, anomaly detection, adaptive (risk-based) authentication."
+  },
+  {
+   "front": "AI-Powered Voice Payments and Biometric Authentication — Concerns",
+   "back": "Deepfake voice cloning, replay attacks, privacy of biometric data (DPDP Act 2023), misrecognition, accents; need for MFA and consent."
+  },
+  {
+   "front": "e-KYC",
+   "back": "Paperless identity verification using Aadhaar OTP or biometric through UIDAI; fast onboarding; the customer consents; used by banks, mutual funds, insurers, telcos."
+  },
+  {
+   "front": "eSign",
+   "back": "Online electronic signature service using Aadhaar authentication — legally valid under the IT Act, 2000 (Section 3A, Second Schedule); used for loan agreements, account opening, GST/ITR filing; Digital Signature Certificate (DSC) is a different (cryptographic key-based) method."
+  },
+  {
+   "front": "National Financial Switch (NFS)",
+   "back": "The largest network of shared ATMs in India — interlinks banks' ATMs so customers can use any bank's ATM; operated by NPCI since 2009 (launched by IDRBT in 2004); also supports cardless cash withdrawal and cash deposit."
+  },
+  {
+   "front": "RTGS (Real Time Gross Settlement)",
+   "back": "Funds transfer in real time, settled individually (gross) in RBI's books; min Rs 2 lakh with no upper limit; available 24x7x365 since December 2020; charges as per RBI cap; suitable for large-value transactions; irrevocable; needs beneficiary name, account no., IFSC."
+  },
+  {
+   "front": "NEFT (National Electronic Funds Transfer)",
+   "back": "Deferred net settlement in half-hourly batches (24x7 since 16 December 2019); no minimum and no maximum limit (bank-wise limits can apply); used for retail transfers; funds returned if undelivered within two hours."
+  },
+  {
+   "front": "Difference RTGS vs NEFT",
+   "back": "RTGS — large value, continuous gross, immediate; NEFT — retail, batches, net settlement."
+  },
+  {
+   "front": "Forex settlements",
+   "back": "Buying/selling currencies; spot (T+2), forward, swap; nostro and vostro accounts; SWIFT messages; Liberalised Remittance Scheme (LRS) — resident individuals can remit up to USD 2,50,000 per financial year for permitted purposes; CLS settles forex payment-versus-payment to reduce Herstatt (settlement) risk;"
+  },
+  {
+   "front": "Securities settlement",
+   "back": "The delivery of securities against payment — through clearing corporations (NSCCL, ICCL) and depositories (NSDL, CDSL); India follows T+1 rolling settlement for equities (since January 2023; optional T+0 introduced in 2024 for select shares); DvP (delivery versus payment);"
+  },
+  {
+   "front": "NLP (Natural Language Processing)",
+   "back": "AI that understands human language (text and speech)."
+  },
+  {
+   "front": "Uses in payments",
+   "back": "Chatbots to answer queries (transaction status, refunds, failed payments, limits, charges); voice assistants; sentiment analysis of complaints; intent classification and automated ticket routing; multilingual translation (Bhashini); automated dispute resolution and chargeback explanations; conversational payments (Hello UPI);"
+  },
+  {
+   "front": "NLP in Digital Payment Queries — Benefits",
+   "back": "24x7 support, lower cost, quick response, regional-language access, consistency."
+  },
+  {
+   "front": "Challenges",
+   "back": "Ambiguity and slang, code-mixing (Hinglish), accuracy, privacy of financial data, hallucination, need for human escalation, security of conversational channels (vishing)."
+  },
+  {
+   "front": "Post Office Savings Account (POSA)",
+   "back": "Minimum balance Rs 500; interest paid annually; cheque and ATM facility; single or joint (up to 3 adults); interest up to a limit is exempt under Section 80TTA (old regime)."
+  },
+  {
+   "front": "Recurring Deposit (RD)",
+   "back": "Tenure 5 years; minimum Rs 100 per month (multiples of Rs 10); interest compounded quarterly; loan facility up to 50% after 12 instalments; premature closure allowed after 3 years."
+  },
+  {
+   "front": "Time Deposit (TD)",
+   "back": "Tenures of 1, 2, 3 and 5 years; minimum Rs 1,000; interest compounded quarterly and paid annually; the 5-year TD qualifies for Sec 80C deduction."
+  },
+  {
+   "front": "Monthly Income Scheme (MIS)",
+   "back": "5-year scheme paying a monthly interest; maximum investment Rs 9 lakh (single) and Rs 15 lakh (joint); minimum Rs 1,000; premature closure after 1 year (with deduction)."
+  },
+  {
+   "front": "Kisan Vikas Patra (KVP)",
+   "back": "Certificate that doubles the investment in a fixed period (about 9 years 7 months at current rates); minimum Rs 1,000, no maximum limit; can be encashed after 2½ years; no 80C benefit; no TDS."
+  },
+  {
+   "front": "Mahila Samman Savings Certificate (MSSC)",
+   "back": "A 2-year scheme for women and girls (2023–2025), closed for new deposits after 31 March 2025."
+  },
+  {
+   "front": "India Post Payments Bank (IPPB)",
+   "back": "Launched 2018; a payments bank under the Department of Posts (100% government-owned); doorstep banking via postmen and Gramin Dak Sevaks with micro-ATMs and Aadhaar-enabled services; zero-balance accounts; DBT payments; bill payments; cannot lend; deposits up to Rs 2 lakh per customer."
+  },
+  {
+   "front": "Postal money transfer",
+   "back": "Money Order (MO) — traditional postal remittance; electronic Money Order (eMO) and Instant Money Order (iMO); International Money Transfer Service via Western Union (inward); IPPB remittances; India Post Payments through DAKPAY app."
+  },
+  {
+   "front": "AI for Fraud Detection and Account Security for Postal Ac... — Challenges",
+   "back": "Legacy systems, low digital literacy, rural connectivity, privacy."
+  },
+  {
+   "front": "Provident fund",
+   "back": "A compulsory/voluntary savings scheme to provide retirement benefits through accumulation of contributions plus interest."
+  },
+  {
+   "front": "Interest/ rate of return",
+   "back": "Declared every year by the Central Board of Trustees (CBT) and approved by the Finance Ministry; historically around 8–8.8% in recent years (for example 8.25% for FY 2024–25); credited annually; tax-free within limits (interest on employee contribution above Rs 2.5 lakh per year is taxable)."
+  },
+  {
+   "front": "Withdrawal rules",
+   "back": "Full withdrawal at retirement (58 years) or after 2 months of unemployment; partial withdrawals for marriage, education, illness, home purchase/construction."
+  },
+  {
+   "front": "Rules regarding investment of PF",
+   "back": "EPFO invests mainly in government securities, state development loans, public sector bonds and AAA-rated corporate bonds; since 2015 up to 15% in equity ETFs (Nifty/Sensex-based); investment pattern notified by the Ministry of Labour/Finance; trusts for exempted establishments must follow norms."
+  },
+  {
+   "front": "Growth of PF in India",
+   "back": "EPFO has become one of the world's largest social security organisations — over 7 crore active contributors and a corpus of more than Rs 25 lakh crore; digitisation through UAN, UMANG app, online claims, auto-settlement."
+  },
+  {
+   "front": "Pension",
+   "back": "Regular income after retirement. Pillars: (1) mandatory (EPF/EPS), (2) voluntary (NPS, PPF), (3) social assistance (NSAP, APY)."
+  },
+  {
+   "front": "Tier I",
+   "back": "Mandatory, locked till 60 (restricted withdrawal); Tier II: voluntary, flexible withdrawal."
+  },
+  {
+   "front": "Government employees",
+   "back": "The Unified Pension Scheme (UPS) has been offered from 1 April 2025 as an option alongside NPS (assured payout on 25+ years of service)."
+  },
+  {
+   "front": "Atal Pension Yojana (APY)",
+   "back": "For unorganised sector aged 18–40; guaranteed monthly pension of Rs 1,000–5,000 from age 60; government co-contribution earlier for eligible subscribers."
+  },
+  {
+   "front": "Other pension products",
+   "back": "PMSBY, PM-SYM, annuity plans from LIC and private insurers, pension plans of mutual funds, EPS, Old Pension Scheme (OPS) for government employees before 2004 (defined benefit)."
+  },
+  {
+   "front": "Defined benefit vs defined contribution",
+   "back": "DB — fixed pension formula by employer/state (OPS); DC — pension depends on contributions and returns (NPS)."
+  },
+  {
+   "front": "Two regimes",
+   "back": "New tax regime (default; lower slab rates; most deductions not allowed) and Old tax regime (higher slab rates but deductions and exemptions available)."
+  },
+  {
+   "front": "Section 80CCD(1B)",
+   "back": "Additional deduction up to Rs 50,000 for NPS. 80CCD(2): employer's contribution to NPS."
+  },
+  {
+   "front": "Other common deductions",
+   "back": "80E (interest on education loan — no limit, 8 years), 80EEA/24(b) (home loan interest up to Rs 2 lakh), 80TTA/TTB (savings interest: Rs 10,000/ Rs 50,000 for seniors), HRA, LTA, standard deduction (Rs 75,000 in the new regime for salaried — as per the latest changes)."
+  },
+  {
+   "front": "Who must file ITR",
+   "back": "Income above basic exemption limit; also in specified cases (foreign assets, high deposits, TDS thresholds). Due date: 31 July (non-audit individuals) of the assessment year; belated/revised returns allowed with fees."
+  },
+  {
+   "front": "Documents needed",
+   "back": "PAN, Aadhaar, Form 16 (salary), Form 26AS / AIS / TIS (tax credit statement), bank statements, interest certificates, investment proofs, capital gains statements."
+  },
+  {
+   "front": "Tax calculation basics",
+   "back": "Gross total income − deductions = taxable income; apply slab rates; add surcharge and 4% health and education cess; subtract rebate (Sec 87A) and TDS/advance tax → tax payable/refund."
+  },
+  {
+   "front": "Insurance",
+   "back": "A contract (policy) in which the insurer agrees to compensate the insured for specified losses in return for a premium. It transfers risk from an individual to the pool."
+  },
+  {
+   "front": "Parties/terms",
+   "back": "Insurer, insured/policyholder, premium, sum assured/ sum insured, policy, nominee, beneficiary, claim, rider, surrender value, maturity, lapse and revival, grace period (30 days for annual premium; 15 for monthly)."
+  },
+  {
+   "front": "Functions and importance",
+   "back": "Risk protection, certainty, savings, capital formation, social security, credit support, encourages investment (insurers hold large investments)."
+  },
+  {
+   "front": "Insurable interest — financial interest in the subject matter (in life",
+   "back": "At the time of taking the policy; in general insurance: at the time of loss)."
+  },
+  {
+   "front": "Regulator",
+   "back": "IRDAI (Insurance Regulatory and Development Authority of India), set up under the IRDA Act, 1999; Insurance Act, 1938. LIC established 1956 (nationalisation of life insurance); GIC and four subsidiaries 1973 (general insurance nationalisation); sector opened to private participation in 2000."
+  },
+  {
+   "front": "Insurance — Classification",
+   "back": "Life insurance and General (non-life) insurance (health, motor, property, marine, etc.)."
+  },
+  {
+   "front": "Life insurance",
+   "back": "Pays a sum on death or maturity; contract of assurance; insurable interest at inception."
+  },
+  {
+   "front": "Term insurance",
+   "back": "Pure protection, high cover at low premium, no maturity benefit (except return-of-premium variants); riders for critical illness and accidental death; best for earning members."
+  },
+  {
+   "front": "Endowment policy",
+   "back": "Savings + protection; pays sum assured on maturity or death; with/without profit (bonus); money-back plan pays survival benefits at intervals."
+  },
+  {
+   "front": "Whole life policy",
+   "back": "Cover for entire life (up to 99/100 years); maturity at death or at 100."
+  },
+  {
+   "front": "Pension (annuity) policies",
+   "back": "Build a retirement corpus; deferred annuity vs immediate annuity; annuity options (life, joint life, with return of purchase price)."
+  },
+  {
+   "front": "Premium determination",
+   "back": "Age, health, sum assured, term, lifestyle (smoking), occupation, gender; mortality tables."
+  },
+  {
+   "front": "Health insurance",
+   "back": "Covers hospitalisation and medical costs; indemnity (reimbursement) plans — pay actual expenses up to sum insured (mediclaim); fixed-benefit plans — pay a fixed sum on diagnosis (critical illness, hospital cash)."
+  },
+  {
+   "front": "Health Insurance Plans — Types",
+   "back": "Individual, family floater, senior citizen, group (employer), top-up/super top-up, critical illness, personal accident, maternity, disease-specific, government schemes."
+  },
+  {
+   "front": "Health Insurance Plans — Key terms",
+   "back": "Cashless vs reimbursement claim (network hospitals — TPA), waiting periods (initial 30 days; pre-existing diseases up to 3 years — reduced from 4 years;"
+  },
+  {
+   "front": "Government schemes",
+   "back": "Ayushman Bharat PM-JAY (health cover of Rs 5 lakh per family per year for eligible poor families; extended to all senior citizens aged 70+ in 2024), CGHS, ESIC for employees, PMSBY and PMJJBY."
+  },
+  {
+   "front": "Tax benefit",
+   "back": "Section 80D (see Unit 4)."
+  },
+  {
+   "front": "Choosing a policy",
+   "back": "Adequate cover (metro cities Rs 10 lakh+), network hospitals, claim settlement ratio, no room-rent cap, lifetime renewability, waiting periods."
+  },
+  {
+   "front": "Property insurance",
+   "back": "Covers loss/damage to physical property — fire and allied perils policy, Standard Fire and Special Perils, householder's/ home insurance (structure + contents; earthquake, flood, theft, burglary), commercial property, marine cargo, engineering insurance (CAR, EAR), machinery breakdown, consequential loss (business interruption)."
+  },
+  {
+   "front": "Key features",
+   "back": "Insured value (market vs reinstatement value), average clause (underinsurance penalty), deductibles, exclusions (war, nuclear, wear and tear), survey by a licensed surveyor after loss."
+  },
+  {
+   "front": "Automated claim processing",
+   "back": "Use of AI, OCR, RPA and straight-through processing — customers upload photos/documents on the app; AI extracts data, image-recognition estimates vehicle damage, checks policy coverage and fraud indicators, approves small claims in minutes and sends payment directly;"
+  },
+  {
+   "front": "Postal Life Insurance (PLI)",
+   "back": "Started 1884 — the oldest life insurance scheme in India; for government and semi-government employees, teachers and bank employees etc.; Rural Postal Life Insurance (RPLI): 1995 for rural population;"
+  },
+  {
+   "front": "General Insurance — Types — Meaning",
+   "back": "Long-term loan (tenure up to 30 years) to buy, construct, extend or repair a house; secured by mortgage of the property; LTV (Loan-to-Value) up to 75–90% depending on the loan amount (RBI norms)."
+  },
+  {
+   "front": "Terms",
+   "back": "EMI, down payment, processing fee, floating/fixed rate, prepayment, balance transfer, top-up loan, tax benefits (principal Sec 80C; interest Sec 24(b) up to Rs 2 lakh on self-occupied property in the old regime)."
+  },
+  {
+   "front": "Pradhan Mantri Awas Yojana (PMAY)",
+   "back": "Launched June 2015 with the vision \"Housing for All\"."
+  },
+  {
+   "front": "Eligibility",
+   "back": "Family should not own a pucca house; women ownership or co-ownership is encouraged."
+  },
+  {
+   "front": "Issues",
+   "back": "Privacy, accuracy, cost, regulatory acceptance, data quality."
+  },
+  {
+   "front": "Insurtech",
+   "back": "Digital-first insurers and aggregators (Policybazaar, Acko, Digit); online policy purchase; e-insurance account (EIA) to hold policies electronically; digital KYC."
+  },
+  {
+   "front": "Stock/ securities market",
+   "back": "A market where shares, bonds, derivatives and other securities are issued and traded. Provides capital to companies and investment avenues to investors; indicator of economic health."
+  },
+  {
+   "front": "Secondary market",
+   "back": "Trading of already-issued securities among investors through exchanges."
+  },
+  {
+   "front": "Instruments",
+   "back": "Equity shares, preference shares, bonds, debentures, G-secs, T-bills, derivatives (futures and options), mutual fund units, ETFs, REITs, InvITs."
+  },
+  {
+   "front": "Stock Market — Meaning, Structure, NSE, BSE, Index Funds — Other indices",
+   "back": "Nifty Next 50, Nifty Bank, Nifty IT, Nifty Midcap, BSE 500. Index construction: weighted by free-float market capitalisation."
+  },
+  {
+   "front": "Bull vs bear markets",
+   "back": "Rising vs falling markets; circuit breakers (market-wide 10%, 15%, 20%) and price bands stop panic movements."
+  },
+  {
+   "front": "Market capitalisation categories (SEBI)",
+   "back": "Large-cap (top 100), mid-cap (101–250), small-cap (251st onward)."
+  },
+  {
+   "front": "Securities frauds",
+   "back": "Insider trading, price manipulation (pump and dump, circular trading), front running, Ponzi schemes, fake advisors/tips (Telegram/WhatsApp), unauthorised trading, misuse of client funds, IPO frauds, \"algo\" scams, mule accounts and fake trading apps."
+  },
+  {
+   "front": "Insider trading",
+   "back": "Dealing in securities by someone with unpublished price-sensitive information (UPSI) — banned under the SEBI (Prohibition of Insider Trading) Regulations, 2015 and SEBI Act; penalties include fine up to Rs 25 crore or three times the profit, imprisonment up to 10 years."
+  },
+  {
+   "front": "AI/ML in surveillance",
+   "back": "Stock exchanges and SEBI use AI-based surveillance systems to analyse order patterns, anomaly detection for abnormal volumes/prices before announcements, network (graph) analysis to link related accounts, NLP on news, social media and filings, alerts for unusual trading, early-warning systems, risk-based supervision, ASM/GSM…"
+  },
+  {
+   "front": "Investor safeguards",
+   "back": "Use registered brokers and advisers (SEBI RIA/RA), verify through SEBI's database, never give login credentials/OTP, UPI handle ending @valid for brokers (verified handles), 2FA, enable trading alerts, Investor Protection Fund (IPF), investor grievance redressal through SCORES/ODR."
+  },
+  {
+   "front": "Related accounts",
+   "back": "Trading account (to place buy/sell orders with the broker) + Demat account (to hold) + Bank account (to settle funds) — the 3-in-1 account. Basic Services Demat Account (BSDA) for small investors with lower charges."
+  },
+  {
+   "front": "Intraday trading",
+   "back": "Shares are bought and sold on the same day (square off before market close); no delivery; uses margin/leverage; high risk, high turnover; brokerage is lower; taxed as speculative business income at slab rates."
+  },
+  {
+   "front": "Other forms",
+   "back": "F&O (futures and options), BTST/STBT, margin trading facility (MTF), short selling, algo trading, commodity and currency trading."
+  },
+  {
+   "front": "Order types",
+   "back": "Market order, limit order, stop-loss order, AMO (after-market order), IOC (immediate or cancel), GTT (good till triggered)."
+  },
+  {
+   "front": "Market charges",
+   "back": "STT (Securities Transaction Tax), GST on brokerage, stamp duty, SEBI turnover fee, exchange transaction charges."
+  },
+  {
+   "front": "Taxation (as per recent budgets; verify current rates)",
+   "back": "Listed equity — STCG 20%, LTCG 12.5% above Rs 1.25 lakh per year (changed in July 2024); dividends taxed at slab rates; intraday and F&O taxed as business income."
+  },
+  {
+   "front": "Mutual Savings Banks and Mutual Funds — By structure",
+   "back": "Open-ended (units bought/sold throughout at NAV; no fixed maturity), close-ended (fixed maturity; units traded on exchange; NFO period), interval funds."
+  },
+  {
+   "front": "Mutual Savings Banks and Mutual Funds — By objective",
+   "back": "Growth, income, balanced/ liquid, tax-saving."
+  },
+  {
+   "front": "Plans",
+   "back": "Direct (no distributor commission; lower expense ratio) vs Regular; Growth vs IDCW (Income Distribution cum Capital Withdrawal; formerly dividend)."
+  },
+  {
+   "front": "SEBI categorisation (2017)",
+   "back": "36 categories to standardise (equity 10, debt 16, hybrid 6, solution-oriented 2, other 2)."
+  },
+  {
+   "front": "Costs",
+   "back": "Expense ratio (annual fee as % of AUM), exit load (fee on early redemption), stamp duty, STT on equity funds."
+  },
+  {
+   "front": "Direct stock vs mutual fund",
+   "back": "MF gives diversification and professional management; direct stocks provide control but need research and carry concentrated risk."
+  },
+  {
+   "front": "Example 1",
+   "back": "Bought 100 units of a mutual fund at NAV Rs 20 (Rs 2,000), sold at NAV Rs 26 (Rs 2,600): ROI = (600 ÷ 2,000) × 100 = 30%."
+  },
+  {
+   "front": "Example 2",
+   "back": "Bought 50 shares at Rs 400 (Rs 20,000); received dividends of Rs 500; sold at Rs 460 (Rs 23,000): ROI = (3,000 + 500) ÷ 20,000 × 100 = 17.5%."
+  },
+  {
+   "front": "SIP (Systematic Investment Plan)",
+   "back": "Investing a fixed amount at regular intervals (monthly) in a mutual fund. Benefits: discipline, rupee-cost averaging (more units when NAV is low, fewer when NAV is high), power of compounding, no need to time the market, start with small sums (Rs 100–500)."
+  },
+  {
+   "front": "Future value of a SIP (annuity-due)",
+   "back": "FV = P × [((1 + i)n − 1) ÷ i] × (1 + i), where P = monthly instalment, i = monthly rate of return (annual ÷ 12), n = number of months."
+  },
+  {
+   "front": "Rupee-cost averaging example",
+   "back": "Invest Rs 1,000 per month; NAV = 10, 8, 12 → units = 100, 125, 83.33 → total 308.33 units for Rs 3,000; average cost = Rs 9.73 per unit (less than average NAV of Rs 10)."
+  },
+  {
+   "front": "Lump sum vs SIP",
+   "back": "Lump sum good when markets are low and the investor has a surplus; SIP spreads risk over time."
+  }
+ ]
+}

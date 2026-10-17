@@ -13,12 +13,13 @@ function loadContent() {
   if (!fs.existsSync(CONTENT_DIR)) return out;
   for (const dir of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
     if (!dir.isDirectory()) continue;
-    const entry = { subject: dir.name, tests: [], notes: [] };
+    const entry = { subject: dir.name, tests: [], notes: [], flashcards: [] };
     for (const file of fs.readdirSync(path.join(CONTENT_DIR, dir.name)).sort()) {
       if (!file.endsWith('.json')) continue;
       const data = JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, dir.name, file), 'utf8'));
       entry.tests.push(...(data.tests || []));
       entry.notes.push(...(data.notes || []));
+      entry.flashcards.push(...(data.flashcards || []));
     }
     out.push(entry);
   }
@@ -27,6 +28,23 @@ function loadContent() {
 
 const content = loadContent();
 const seededUsers = new Set();
+
+// Multi-row INSERT so a first-time seed takes a handful of round trips instead of thousands.
+async function insertRows(client, table, columns, rows, suffix = '') {
+  const CHUNK = Math.max(1, Math.floor(30000 / columns.length));
+  for (let i = 0; i < rows.length; i += CHUNK) {
+    const part = rows.slice(i, i + CHUNK);
+    const params = [];
+    const tuples = part.map((row) => {
+      const marks = row.map((value) => {
+        params.push(value);
+        return `$${params.length}`;
+      });
+      return `(${marks.join(', ')})`;
+    });
+    await client.query(`INSERT INTO ${table} (${columns.join(', ')}) VALUES ${tuples.join(', ')} ${suffix}`, params);
+  }
+}
 
 export async function seedUserContent(userId) {
   if (seededUsers.has(userId) || content.length === 0) return;
@@ -37,15 +55,13 @@ export async function seedUserContent(userId) {
     const done = new Set(
       (await client.query('SELECT item_key FROM seeded_content WHERE user_id = $1', [userId])).rows.map((r) => r.item_key)
     );
-    const mark = (key) =>
-      client.query('INSERT INTO seeded_content (user_id, item_key) VALUES ($1, $2) ON CONFLICT DO NOTHING', [userId, key]);
+    const marks = [];
 
-    for (const { subject, tests, notes } of content) {
-      const items = [
-        ...tests.map((t) => ({ kind: 'test', item: t })),
-        ...notes.map((n) => ({ kind: 'note', item: n })),
-      ].filter(({ kind, item }) => !done.has(`${subject}|${kind}|${item.title}`));
-      if (items.length === 0) continue;
+    for (const { subject, tests, notes, flashcards } of content) {
+      const newTests = tests.filter((t) => !done.has(`${subject}|test|${t.title}`));
+      const newNotes = notes.filter((n) => !done.has(`${subject}|note|${n.title}`));
+      const newCards = flashcards.filter((c) => !done.has(`${subject}|flashcard|${c.front}`));
+      if (newTests.length + newNotes.length + newCards.length === 0) continue;
 
       let subjectId = (
         await client.query('SELECT id FROM subjects WHERE user_id = $1 AND name = $2', [userId, subject])
@@ -56,36 +72,49 @@ export async function seedUserContent(userId) {
         ).rows[0].id;
       }
 
-      for (const { kind, item } of items) {
-        // Already imported by hand earlier: record it and move on rather than duplicating.
-        const table = kind === 'test' ? 'tests' : 'notes';
-        const dup = await client.query(`SELECT 1 FROM ${table} WHERE subject_id = $1 AND title = $2`, [subjectId, item.title]);
-        if (dup.rows.length > 0) {
-          await mark(`${subject}|${kind}|${item.title}`);
-          continue;
-        }
-        if (kind === 'test') {
-          const { rows } = await client.query(
-            'INSERT INTO tests (subject_id, user_id, title, duration_minutes) VALUES ($1, $2, $3, $4) RETURNING id',
-            [subjectId, userId, item.title, item.duration_minutes || 30]
-          );
-          for (const [i, q] of item.questions.entries()) {
-            await client.query(
-              `INSERT INTO questions (test_id, question_text, options, correct_index, explanation, order_index)
-               VALUES ($1, $2, $3, $4, $5, $6)`,
-              [rows[0].id, q.question_text, JSON.stringify(q.options), q.correct_index, q.explanation || null, i]
-            );
-          }
-        } else {
-          await client.query(
-            `INSERT INTO notes (subject_id, user_id, group_name, title, content, order_index)
-             VALUES ($1, $2, $3, $4, $5, (SELECT COALESCE(MAX(order_index), 0) + 1 FROM notes WHERE subject_id = $1))`,
-            [subjectId, userId, item.group_name || '', item.title, item.content]
-          );
-        }
-        await mark(`${subject}|${kind}|${item.title}`);
+      // Anything already there (imported by hand earlier) is recorded as seeded instead of duplicated.
+      const existing = async (table, column) =>
+        new Set(
+          (await client.query(`SELECT ${column} AS v FROM ${table} WHERE subject_id = $1`, [subjectId])).rows.map((r) => r.v)
+        );
+      const haveTests = await existing('tests', 'title');
+      const haveNotes = await existing('notes', 'title');
+      const haveCards = await existing('flashcards', 'front');
+
+      for (const t of newTests) {
+        marks.push([userId, `${subject}|test|${t.title}`]);
+        if (haveTests.has(t.title)) continue;
+        const { rows } = await client.query(
+          'INSERT INTO tests (subject_id, user_id, title, duration_minutes) VALUES ($1, $2, $3, $4) RETURNING id',
+          [subjectId, userId, t.title, t.duration_minutes || 30]
+        );
+        await insertRows(
+          client,
+          'questions',
+          ['test_id', 'question_text', 'options', 'correct_index', 'explanation', 'order_index'],
+          t.questions.map((q, i) => [rows[0].id, q.question_text, JSON.stringify(q.options), q.correct_index, q.explanation || null, i])
+        );
       }
+
+      let order = Number((await client.query('SELECT COALESCE(MAX(order_index), 0) AS m FROM notes WHERE subject_id = $1', [subjectId])).rows[0].m);
+      const noteRows = [];
+      for (const n of newNotes) {
+        marks.push([userId, `${subject}|note|${n.title}`]);
+        if (haveNotes.has(n.title)) continue;
+        noteRows.push([subjectId, userId, n.group_name || '', n.title, n.content, ++order]);
+      }
+      await insertRows(client, 'notes', ['subject_id', 'user_id', 'group_name', 'title', 'content', 'order_index'], noteRows);
+
+      const cardRows = [];
+      for (const c of newCards) {
+        marks.push([userId, `${subject}|flashcard|${c.front}`]);
+        if (haveCards.has(c.front)) continue;
+        cardRows.push([subjectId, userId, c.front, c.back]);
+      }
+      await insertRows(client, 'flashcards', ['subject_id', 'user_id', 'front', 'back'], cardRows);
     }
+
+    await insertRows(client, 'seeded_content', ['user_id', 'item_key'], marks, 'ON CONFLICT DO NOTHING');
     await client.query('COMMIT');
     seededUsers.add(userId);
   } catch (err) {
