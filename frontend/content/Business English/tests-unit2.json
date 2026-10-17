@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 2: Introduction to English Composition – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A paragraph is:",
+     "question_text": "Which sentence is the best topic sentence for a paragraph on the benefits of remote work for employees?",
      "options": [
-      "A page of writing",
-      "A group of related sentences developing one main idea, usually 5–8 sentences long",
-      "A single sentence",
-      "A list of words"
-     ],
-     "correct_index": 1,
-     "explanation": "It usually has a topic sentence, supporting sentences and a concluding sentence."
-    },
-    {
-     "question_text": "The three parts of a paragraph are:",
-     "options": [
-      "Heading, subheading and note",
-      "Topic sentence, supporting sentences and concluding sentence",
-      "Opening, middle and ending paragraphs",
-      "Title, body and signature"
-     ],
-     "correct_index": 1,
-     "explanation": "Each has a distinct function."
-    },
-    {
-     "question_text": "A topic sentence is:",
-     "options": [
-      "A transition word",
-      "The sentence that states the main idea of the paragraph, usually placed first",
-      "The last sentence",
-      "A supporting detail"
-     ],
-     "correct_index": 1,
-     "explanation": "It controls the content of the paragraph."
-    },
-    {
-     "question_text": "Which is the best topic sentence for a paragraph on \"Importance of punctuality\"?",
-     "options": [
-      "Punctuality is a habit that builds trust and success in both studies and work.",
-      "Clocks were invented long ago.",
-      "I woke up late yesterday.",
-      "Many people like to sleep."
+      "Remote work offers employees greater flexibility and saves the time spent commuting.",
+      "Offices were first built in the nineteenth century in large cities.",
+      "The company has 200 employees and three branch offices.",
+      "Many people like to eat lunch at home on weekdays."
      ],
      "correct_index": 0,
-     "explanation": "It states a clear, focused main idea."
+     "explanation": "It states the controlling idea."
     },
     {
-     "question_text": "Supporting sentences:",
+     "question_text": "A paragraph is said to have unity when:",
      "options": [
-      "Introduce a new topic",
-      "Repeat the title",
-      "End the paragraph",
-      "Develop the topic sentence with facts, examples and explanations"
+      "Every sentence begins with a connective",
+      "The sentences are of equal length",
+      "It contains at least ten sentences",
+      "All the sentences relate to a single controlling idea"
      ],
      "correct_index": 3,
-     "explanation": "They provide evidence for the main idea."
+     "explanation": "One idea."
     },
     {
-     "question_text": "A concluding sentence:",
+     "question_text": "Coherence in a paragraph is achieved mainly by:",
      "options": [
-      "Introduces a new idea",
-      "Starts a new paragraph",
-      "Summarises or restates the main idea and gives closure",
-      "Adds irrelevant details"
-     ],
-     "correct_index": 2,
-     "explanation": "It should not add new points."
-    },
-    {
-     "question_text": "Unity in a paragraph means:",
-     "options": [
-      "Every sentence relates to the single main idea",
-      "Using only simple words",
-      "Using long sentences",
-      "Using many ideas"
-     ],
-     "correct_index": 0,
-     "explanation": "Irrelevant sentences break unity."
-    },
-    {
-     "question_text": "Coherence in a paragraph means:",
-     "options": [
-      "Sentences are logically connected and flow smoothly",
-      "Sentences are random",
-      "Sentences are short",
-      "Sentences are long"
-     ],
-     "correct_index": 0,
-     "explanation": "It is achieved through order and transitions."
-    },
-    {
-     "question_text": "Coherence can be achieved by:",
-     "options": [
-      "Logical order, transitions and repeating key words or pronouns",
-      "Changing topics",
-      "Random order",
-      "Avoiding transitions"
-     ],
-     "correct_index": 0,
-     "explanation": "Consistent point of view also helps."
-    },
-    {
-     "question_text": "Transitions such as \"however\", \"for example\", \"therefore\" and \"first\" show, respectively:",
-     "options": [
-      "Example, result, sequence and contrast",
-      "Result, sequence, contrast and example",
-      "Sequence, contrast, example and result",
-      "Contrast, example, result and sequence"
-     ],
-     "correct_index": 3,
-     "explanation": "They link ideas across sentences."
-    },
-    {
-     "question_text": "Methods of developing a paragraph include:",
-     "options": [
-      "Only definitions",
-      "Examples, comparison, cause and effect, process and definition",
-      "Only lists",
-      "Only examples"
+      "Repeating the first sentence of the paragraph at the very end",
+      "Logical order and transitions that link the sentences together",
+      "Using only short sentences throughout the whole paragraph",
+      "Using as many long and difficult words as the writer can think of"
      ],
      "correct_index": 1,
-     "explanation": "The choice depends on the purpose."
+     "explanation": "Flow of ideas."
     },
     {
-     "question_text": "The first step in writing a paragraph is to:",
+     "question_text": "Which of the following is a transitional word that shows contrast?",
      "options": [
-      "Write the conclusion",
-      "Add transitions",
-      "Choose and narrow the topic, then plan the main idea",
-      "Proofread"
+      "Moreover",
+      "Similarly",
+      "However",
+      "Therefore"
      ],
      "correct_index": 2,
-     "explanation": "Then draft, revise and proofread."
+     "explanation": "Opposition."
     },
     {
-     "question_text": "The topic sentence in \"Exercise is vital. It improves heart health, builds strength and boosts mood.\" is:",
+     "question_text": "Which of the following is a transitional word that shows result?",
      "options": [
-      "It improves heart health.",
-      "Builds strength.",
-      "Exercise is vital.",
-      "Boosts mood."
+      "Consequently",
+      "Nevertheless",
+      "Likewise",
+      "In contrast"
      ],
-     "correct_index": 2,
-     "explanation": "The other sentences support it."
+     "correct_index": 0,
+     "explanation": "Cause and effect."
     },
     {
-     "question_text": "Remove the irrelevant sentence: \"Tea is popular in India. It is grown in Assam. Mountains are very tall. Many people drink it daily.\"",
+     "question_text": "Which of the following is a transitional word that shows addition?",
      "options": [
-      "It is grown in Assam.",
-      "Mountains are very tall.",
-      "Many people drink it daily.",
-      "Tea is popular in India."
+      "Furthermore",
+      "Otherwise",
+      "Although",
+      "Whereas"
+     ],
+     "correct_index": 0,
+     "explanation": "Adds information."
+    },
+    {
+     "question_text": "Choose the best transition: \"The product was cheaper than its rivals; ___, its quality was poor.\"",
+     "options": [
+      "similarly",
+      "however",
+      "therefore",
+      "moreover"
      ],
      "correct_index": 1,
-     "explanation": "It breaks the unity of the paragraph."
+     "explanation": "Contrast."
     },
     {
-     "question_text": "The most coherent order is: (a) First, mix the flour and water. (b) Making dough is simple. (c) Finally, rest it for an hour. (d) Next, knead it for ten minutes.",
+     "question_text": "Choose the best transition: \"The server crashed twice on Monday; ___, the clients lost the data.\"",
      "options": [
-      "b, a, d, c",
-      "d, c, b, a",
-      "a, b, c, d",
-      "c, d, a, b"
+      "as a result",
+      "for instance",
+      "in contrast",
+      "on the other hand"
      ],
      "correct_index": 0,
-     "explanation": "Topic sentence first, then steps in order."
+     "explanation": "Result."
     },
     {
-     "question_text": "A suitable concluding sentence for \"Reading builds vocabulary, improves concentration and reduces stress.\" is:",
+     "question_text": "The concluding sentence of a paragraph should:",
      "options": [
-      "Next, we will discuss cricket.",
-      "Reading was invented in 1500.",
-      "In short, reading is a simple habit with many benefits.",
-      "Pizza is also tasty."
+      "Repeat each detail in the paragraph",
+      "Sum up the main idea or give a closing thought",
+      "Contain a quotation always",
+      "Introduce an entirely new idea"
+     ],
+     "correct_index": 1,
+     "explanation": "Closure."
+    },
+    {
+     "question_text": "The thesis statement of an essay is usually placed:",
+     "options": [
+      "In the middle of the body",
+      "At the beginning of the conclusion",
+      "At the end of the introduction",
+      "After the references"
      ],
      "correct_index": 2,
-     "explanation": "It restates the main idea."
+     "explanation": "Statement of the central claim."
     },
     {
-     "question_text": "A descriptive paragraph:",
+     "question_text": "A good thesis statement is:",
      "options": [
-      "Tells a story",
-      "Explains a process",
-      "Argues a point",
-      "Paints a picture of a person, place or object using vivid details"
-     ],
-     "correct_index": 3,
-     "explanation": "It appeals to the senses."
-    },
-    {
-     "question_text": "Descriptive paragraphs commonly follow:",
-     "options": [
-      "Chronological order only",
-      "Order of importance only",
-      "Random order",
-      "Spatial order (e.g., top to bottom, left to right)"
-     ],
-     "correct_index": 3,
-     "explanation": "It helps the reader visualise."
-    },
-    {
-     "question_text": "Sensory details in description:",
-     "options": [
-      "Are not needed",
-      "Add confusion",
-      "Appeal to sight, sound, smell, taste and touch to make the scene vivid",
-      "Make it persuasive"
-     ],
-     "correct_index": 2,
-     "explanation": "They help the reader experience the scene."
-    },
-    {
-     "question_text": "The best opening for a descriptive paragraph on \"A busy railway station\" is:",
-     "options": [
-      "I went to the station yesterday and bought a ticket.",
-      "You should always buy a ticket.",
-      "The platform buzzed with the clatter of trolleys, shouting vendors and the steady hiss of arriving trains.",
-      "Railway stations are used to travel."
-     ],
-     "correct_index": 2,
-     "explanation": "It uses sound and visual details."
-    },
-    {
-     "question_text": "The best opening for a descriptive paragraph on \"Your college campus\" is:",
-     "options": [
-      "You must join this college.",
-      "First, I applied for admission.",
-      "Tall neem trees line the red-brick paths that wind between the library and the sunlit courtyard.",
-      "Colleges are important."
-     ],
-     "correct_index": 2,
-     "explanation": "It paints a scene."
-    },
-    {
-     "question_text": "The best opening for a descriptive paragraph on \"A rainy day\" is:",
-     "options": [
-      "Everyone should carry an umbrella.",
-      "Rain is caused by evaporation.",
-      "Yesterday I got wet.",
-      "Grey clouds sagged over the city as fat raindrops drummed on the tin roofs and the air smelt of wet earth."
-     ],
-     "correct_index": 3,
-     "explanation": "It appeals to sight, sound and smell."
-    },
-    {
-     "question_text": "The best opening for a descriptive paragraph on \"A marketplace during a festival\" is:",
-     "options": [
-      "The lanes glittered with strings of lights, and the air was thick with the smell of sweets, flowers and incense.",
-      "First, I entered the market.",
-      "Markets sell goods.",
-      "You should shop early."
+      "A specific and arguable claim that the essay will support",
+      "A list of the sources which the writer has used in the essay",
+      "A general fact that no reader would dispute or question",
+      "A question for which the essay offers no answer at all"
      ],
      "correct_index": 0,
-     "explanation": "It creates a vivid picture."
+     "explanation": "Focus."
     },
     {
-     "question_text": "The best opening for a descriptive paragraph on \"Your favourite place in your city\" is:",
+     "question_text": "Which of these is the best thesis statement for an essay?",
      "options": [
-      "The lakeside promenade glows golden at sunset, with cool breeze and the soft murmur of strolling families.",
-      "Cities have many places.",
-      "You must visit the lake.",
-      "I went there once."
-     ],
-     "correct_index": 0,
-     "explanation": "It gives sensory detail."
-    },
-    {
-     "question_text": "A narrative paragraph:",
-     "options": [
-      "Argues a point",
-      "Explains a process",
-      "Tells a story or recounts an event in sequence",
-      "Describes a scene"
+      "Social media is a thing which is used by a very large number of people today.",
+      "This essay is going to be about social media and the students.",
+      "Social media harms students' concentration, so schools should limit its use during study hours.",
+      "Social media sites were first started by some companies in the early 2000s."
      ],
      "correct_index": 2,
-     "explanation": "It has characters, setting and plot."
+     "explanation": "Specific and arguable."
+    },
+    {
+     "question_text": "The body paragraphs of an essay are meant to:",
+     "options": [
+      "Develop and support the thesis with evidence and explanation",
+      "Introduce the topic to the reader in a general manner",
+      "List the references used by the writer at the end of the essay",
+      "Apologise to the reader for the length of the essay"
+     ],
+     "correct_index": 0,
+     "explanation": "Support."
+    },
+    {
+     "question_text": "The conclusion of an essay should:",
+     "options": [
+      "Ask the reader for the permission to publish the essay",
+      "Restate the thesis and sum up the key points without a new argument",
+      "Quote a long passage from one of the sources used",
+      "Present a new argument which has not been discussed earlier"
+     ],
+     "correct_index": 1,
+     "explanation": "Wrap-up."
+    },
+    {
+     "question_text": "An essay on \"The impact of automation on jobs\" that gives arguments both for and against and then reaches a verdict is a(n):",
+     "options": [
+      "Narrative essay",
+      "Expository essay on a process",
+      "Descriptive essay",
+      "Argumentative essay"
+     ],
+     "correct_index": 3,
+     "explanation": "Takes a stance."
+    },
+    {
+     "question_text": "An essay that explains how to prepare a budget, step by step, is a(n):",
+     "options": [
+      "Expository (process) essay",
+      "Persuasive essay",
+      "Descriptive essay",
+      "Narrative essay"
+     ],
+     "correct_index": 0,
+     "explanation": "Explains."
+    },
+    {
+     "question_text": "An essay recounting a personal experience in time order is a(n):",
+     "options": [
+      "Narrative essay",
+      "Cause-and-effect essay",
+      "Comparative essay",
+      "Argumentative essay"
+     ],
+     "correct_index": 0,
+     "explanation": "Story."
+    },
+    {
+     "question_text": "An essay that uses vivid sensory details to portray a place is a(n):",
+     "options": [
+      "Descriptive essay",
+      "Argumentative essay",
+      "Process essay",
+      "Definition essay"
+     ],
+     "correct_index": 0,
+     "explanation": "Describes."
+    },
+    {
+     "question_text": "The chronological order of paragraph organisation arranges the details by:",
+     "options": [
+      "Alphabet",
+      "Space",
+      "Time sequence",
+      "Importance"
+     ],
+     "correct_index": 2,
+     "explanation": "First, next, finally."
+    },
+    {
+     "question_text": "Arranging the details of a paragraph from the least to the most important is called:",
+     "options": [
+      "Climactic order",
+      "Spatial order",
+      "Chronological order",
+      "Random order"
+     ],
+     "correct_index": 0,
+     "explanation": "Build-up."
+    },
+    {
+     "question_text": "The format of a formal business letter includes the sender's address, date, inside address, salutation, body, complimentary close and:",
+     "options": [
+      "Index",
+      "Signature",
+      "Abstract",
+      "Footnote"
+     ],
+     "correct_index": 1,
+     "explanation": "Standard elements."
+    },
+    {
+     "question_text": "If you begin a business letter with \"Dear Sir,\" you should close it with:",
+     "options": [
+      "Yours truly yours",
+      "Yours faithfully",
+      "Yours sincerely",
+      "Yours affectionately"
+     ],
+     "correct_index": 1,
+     "explanation": "Convention for an unknown name."
+    },
+    {
+     "question_text": "If you begin a business letter with \"Dear Mr Sharma,\" you should close it with:",
+     "options": [
+      "Yours lovingly",
+      "Yours faithfully",
+      "Yours sincerely",
+      "Yours obediently"
+     ],
+     "correct_index": 2,
+     "explanation": "Named recipient."
+    },
+    {
+     "question_text": "The subject line of a business e-mail should be:",
+     "options": [
+      "Written in capital letters entirely",
+      "Brief, specific and informative",
+      "Left blank to save time",
+      "Very long and detailed"
+     ],
+     "correct_index": 1,
+     "explanation": "Clarity."
+    },
+    {
+     "question_text": "Which is the most professional opening for an e-mail to a client you have never met?",
+     "options": [
+      "Hey there,",
+      "Yo Ms Mehta,",
+      "Hi buddy,",
+      "Dear Ms Mehta,"
+     ],
+     "correct_index": 3,
+     "explanation": "Formal salutation."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Introduction to English Composition – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The order used in a narrative paragraph is:",
+     "question_text": "Which closing is most appropriate in a formal business e-mail?",
      "options": [
-      "Chronological order",
-      "Order of importance",
-      "Spatial order",
-      "Random"
+      "Kind regards,",
+      "Ta ta,",
+      "Cheers mate,",
+      "Bye bye,"
      ],
      "correct_index": 0,
-     "explanation": "Events are narrated as they occurred."
+     "explanation": "Professional."
     },
     {
-     "question_text": "The tense mostly used in narration is:",
+     "question_text": "The tone of a formal business e-mail should be:",
      "options": [
-      "Future tense",
-      "Present perfect",
-      "Conditional",
-      "Past tense"
+      "Emotional and informal",
+      "Casual and humorous",
+      "Aggressive and demanding",
+      "Polite, clear and professional"
      ],
      "correct_index": 3,
-     "explanation": "Present tense may be used for effect."
+     "explanation": "Tone."
     },
     {
-     "question_text": "The best opening for a narrative paragraph on \"Your first day at college\" is:",
+     "question_text": "Which sentence is the most appropriate in a formal complaint letter?",
      "options": [
-      "Colleges have many departments.",
-      "On my first day at college, I walked through the gates nervous and clutching my timetable.",
-      "You should attend all lectures.",
-      "College education is important."
+      "Your company is the worst company that I have ever dealt with.",
+      "I am writing to bring to your attention that the goods delivered on 5 March were damaged.",
+      "You people are totally useless, and you sent me broken stuff again.",
+      "I demand an apology right now or else I will go to the press."
      ],
      "correct_index": 1,
-     "explanation": "It starts the story in sequence."
+     "explanation": "Courteous, factual."
     },
     {
-     "question_text": "The best opening for a narrative paragraph on \"A memorable journey\" is:",
+     "question_text": "A memo is generally used for:",
      "options": [
-      "Last summer, my family boarded the night train to Darjeeling, unaware how memorable the trip would be.",
-      "Travel broadens the mind.",
-      "You should always pack light.",
-      "Trains are cheaper than planes."
+      "Communication with customers outside the firm",
+      "Communication with the shareholders",
+      "Internal communication within an organisation",
+      "Communication with the government"
+     ],
+     "correct_index": 2,
+     "explanation": "Inside."
+    },
+    {
+     "question_text": "The heading of a memo typically includes:",
+     "options": [
+      "Dear Sir and Yours faithfully",
+      "Index and Bibliography",
+      "Abstract and Keywords",
+      "To, From, Date and Subject"
+     ],
+     "correct_index": 3,
+     "explanation": "Memo format."
+    },
+    {
+     "question_text": "A letter of inquiry is written to:",
+     "options": [
+      "Accept an order placed by a customer for the goods",
+      "Apologise for a delay in the delivery of the goods",
+      "Request information about the products or services of a firm",
+      "Complain about defective goods received from a supplier"
+     ],
+     "correct_index": 2,
+     "explanation": "Purpose."
+    },
+    {
+     "question_text": "A letter placing an order should clearly mention:",
+     "options": [
+      "Quantity, description, price, delivery date and payment terms",
+      "Only the date of the letter and the reference number",
+      "Only the name of the buyer and his address",
+      "Only the complaint which the buyer has about the last order"
      ],
      "correct_index": 0,
-     "explanation": "It sets up the events."
+     "explanation": "Details."
     },
     {
-     "question_text": "The best opening for a narrative paragraph on \"A time you solved a problem\" is:",
+     "question_text": "A letter of apology for a delay in delivery should:",
      "options": [
-      "Problems must be solved.",
-      "During my internship, the billing software crashed on the last day of the month, and I had to find a fix before evening.",
-      "You should learn to code.",
-      "Software is complicated."
-     ],
-     "correct_index": 1,
-     "explanation": "It names the event and context."
-    },
-    {
-     "question_text": "The best opening for a narrative paragraph on \"A lesson learnt from failure\" is:",
-     "options": [
-      "Failure is bad.",
-      "You must never fail.",
-      "When I failed my first accounting test, I felt crushed, but that moment taught me how to study.",
-      "Tests are held every year."
-     ],
-     "correct_index": 2,
-     "explanation": "It starts the story and hints at the lesson."
-    },
-    {
-     "question_text": "The best opening for a narrative paragraph on \"A day when everything went wrong\" is:",
-     "options": [
-      "Alarms are useful devices.",
-      "My alarm did not ring, and from that moment the day unravelled one mishap after another.",
-      "Mornings are important.",
-      "You should set two alarms."
-     ],
-     "correct_index": 1,
-     "explanation": "It begins the chain of events."
-    },
-    {
-     "question_text": "An expository paragraph:",
-     "options": [
-      "Describes a scene",
-      "Persuades the reader",
-      "Tells a story",
-      "Explains or informs about a topic using facts and examples"
+      "Avoid any mention of the delay in the delivery of the goods",
+      "Offer no solution to the customer for the delay caused",
+      "Blame the customer for the delay in the delivery of the goods",
+      "Express regret, explain briefly and state the corrective action"
      ],
      "correct_index": 3,
-     "explanation": "It is objective in tone."
+     "explanation": "Constructive."
     },
     {
-     "question_text": "Characteristics of expository writing include:",
+     "question_text": "A cover letter accompanies:",
      "options": [
-      "Emotional appeals",
-      "Personal opinion only",
-      "Clear, factual, logical and objective language",
-      "Vivid fantasy"
-     ],
-     "correct_index": 2,
-     "explanation": "It uses facts, definitions and examples."
-    },
-    {
-     "question_text": "The best topic sentence for an expository paragraph on \"How UPI works\" is:",
-     "options": [
-      "I used UPI yesterday.",
-      "UPI lets users transfer money instantly between bank accounts using a virtual payment address and a PIN.",
-      "UPI is the best thing ever.",
-      "Everyone must use UPI."
+      "A memo",
+      "A résumé or a curriculum vitae",
+      "A bank statement",
+      "A balance sheet"
      ],
      "correct_index": 1,
-     "explanation": "It explains the process objectively."
+     "explanation": "Job application."
     },
     {
-     "question_text": "The best topic sentence for an expository paragraph on \"Causes of inflation\" is:",
+     "question_text": "The first paragraph of a cover letter should:",
      "options": [
-      "Inflation is terrible.",
-      "Inflation is caused mainly by rising demand, higher production costs and an increase in money supply.",
-      "I hate high prices.",
-      "You should save more."
+      "Criticise the previous employer for the reasons of leaving",
+      "State the position applied for and how the writer learned of it",
+      "List all the previous salaries drawn by the writer in the past",
+      "Repeat the résumé of the applicant word for word"
      ],
      "correct_index": 1,
-     "explanation": "It states factual causes."
+     "explanation": "Opening."
     },
     {
-     "question_text": "The best topic sentence for an expository paragraph on \"The importance of financial literacy\" is:",
+     "question_text": "A résumé differs from a CV in that a résumé is generally:",
      "options": [
-      "I opened a bank account last year.",
-      "Money is nice.",
-      "Financial literacy helps people manage money, avoid debt and plan for the future.",
-      "Everyone must study finance."
+      "A list of the references",
+      "A letter of recommendation",
+      "A concise one- or two-page summary tailored to a job",
+      "A detailed multi-page document of the entire academic career"
      ],
      "correct_index": 2,
-     "explanation": "It informs about the significance."
+     "explanation": "Length and purpose."
     },
     {
-     "question_text": "The best topic sentence for an expository paragraph on \"How to prepare for an interview\" is:",
+     "question_text": "The \"career objective\" or \"summary\" section of a résumé should be:",
      "options": [
-      "You should never fear interviews.",
-      "Interviews are scary.",
-      "I once attended an interview.",
-      "Preparing for an interview involves researching the company, practising answers and planning your attire."
+      "Left blank always",
+      "A long life story of the applicant",
+      "A copy of the job advertisement",
+      "Brief and tailored to the job being applied for"
      ],
      "correct_index": 3,
-     "explanation": "It introduces the steps."
+     "explanation": "Focus."
     },
     {
-     "question_text": "The best topic sentence for an expository paragraph on \"The benefits of sleep\" is:",
+     "question_text": "Which of the following should NOT be included in a résumé?",
      "options": [
-      "Adequate sleep improves memory, mood and physical health.",
-      "Sleep is pleasant.",
-      "You must sleep eight hours.",
-      "I slept late yesterday."
+      "Irrelevant personal details such as the religion and the parents' income",
+      "Work experience of the applicant",
+      "Education and qualifications of the applicant",
+      "Skills and achievements of the applicant"
      ],
      "correct_index": 0,
-     "explanation": "It states factual benefits."
+     "explanation": "Irrelevant."
     },
     {
-     "question_text": "A persuasive paragraph:",
+     "question_text": "An effective résumé uses action verbs such as:",
      "options": [
-      "Tries to convince the reader to accept a viewpoint or take action",
-      "Only narrates",
-      "Only describes",
-      "Only explains"
-     ],
-     "correct_index": 0,
-     "explanation": "It uses reasons and evidence."
-    },
-    {
-     "question_text": "Elements of a persuasive paragraph include:",
-     "options": [
-      "A clear position, reasons, evidence and a call to action",
-      "Only questions",
-      "Only a story",
-      "Only description"
-     ],
-     "correct_index": 0,
-     "explanation": "It may also address counter-arguments."
-    },
-    {
-     "question_text": "The best topic sentence for a persuasive paragraph on \"Why students should learn financial skills\" is:",
-     "options": [
-      "I learnt finance last year.",
-      "Students attend college.",
-      "Students should learn financial skills because they prepare them to manage money wisely in adult life.",
-      "Finance involves numbers."
-     ],
-     "correct_index": 2,
-     "explanation": "It states a position with a reason."
-    },
-    {
-     "question_text": "The best topic sentence for a persuasive paragraph on \"Why plastic bags should be banned\" is:",
-     "options": [
-      "I carry a cloth bag.",
-      "Plastic was invented in 1907.",
-      "Plastic bags should be banned because they pollute the environment and harm wildlife.",
-      "Plastic bags are light."
-     ],
-     "correct_index": 2,
-     "explanation": "It takes a clear position."
-    },
-    {
-     "question_text": "The best topic sentence for a persuasive paragraph on \"Why companies should allow remote work\" is:",
-     "options": [
-      "Companies should allow remote work because it raises productivity and widens the talent pool.",
-      "I work from home.",
-      "Offices have desks.",
-      "Remote work began recently."
-     ],
-     "correct_index": 0,
-     "explanation": "It argues a case."
-    },
-    {
-     "question_text": "The best topic sentence for a persuasive paragraph on \"Why public transport should be preferred\" is:",
-     "options": [
-      "I took a bus yesterday.",
-      "Roads are long.",
-      "Public transport should be preferred because it reduces traffic, pollution and travel costs.",
-      "Buses have wheels."
-     ],
-     "correct_index": 2,
-     "explanation": "It gives a clear claim."
-    },
-    {
-     "question_text": "The best topic sentence for a persuasive paragraph on \"Why every student should do an internship\" is:",
-     "options": [
-      "Internships last two months.",
-      "Students study many subjects.",
-      "I did an internship.",
-      "Every student should do an internship because it gives practical experience that classrooms cannot offer."
+      "Very, really, quite",
+      "Maybe, perhaps, possibly",
+      "Was, is, being",
+      "Managed, developed, implemented"
      ],
      "correct_index": 3,
-     "explanation": "It states a claim with a reason."
+     "explanation": "Strong verbs."
     },
     {
-     "question_text": "The correct match is:",
+     "question_text": "A notice is a:",
      "options": [
-      "Descriptive – story; narrative – picture",
-      "Narrative – explain; descriptive – convince",
-      "Expository – convince; persuasive – explain",
-      "Descriptive – picture; narrative – story; expository – explain; persuasive – convince"
-     ],
-     "correct_index": 3,
-     "explanation": "Each has a different purpose."
-    },
-    {
-     "question_text": "\"The old banyan tree towered over the courtyard, its roots sprawling like giant fingers\" is:",
-     "options": [
-      "Persuasive",
-      "Narrative",
-      "Expository",
-      "Descriptive"
-     ],
-     "correct_index": 3,
-     "explanation": "It uses imagery to describe."
-    },
-    {
-     "question_text": "\"First, I opened the app. Then I entered the amount. Finally, I confirmed the payment.\" is:",
-     "options": [
-      "Descriptive",
-      "Expository (process)",
-      "Argumentative",
-      "Persuasive"
+      "Report of an investigation",
+      "Formal announcement to a group of people",
+      "Private letter to a friend",
+      "Contract between two parties"
      ],
      "correct_index": 1,
-     "explanation": "It explains the steps."
+     "explanation": "Public information."
     },
     {
-     "question_text": "\"You must vote. Your vote shapes the future.\" is:",
+     "question_text": "A notice should carry the:",
      "options": [
-      "Expository",
-      "Persuasive",
-      "Narrative",
-      "Descriptive"
+      "Name of every one of the readers of the notice",
+      "Telephone number of every one of the readers of the notice",
+      "Issuing body's name, date, heading, content and the issuer's signature",
+      "Photograph of the writer of the notice"
+     ],
+     "correct_index": 2,
+     "explanation": "Components."
+    },
+    {
+     "question_text": "An agenda for a meeting lists:",
+     "options": [
+      "The items to be discussed, in the order they will be taken up",
+      "The decisions which have already been taken at the meeting",
+      "The attendance of the members at the previous meeting only",
+      "The expenses which have been incurred for the meeting"
+     ],
+     "correct_index": 0,
+     "explanation": "Plan."
+    },
+    {
+     "question_text": "The minutes of a meeting record:",
+     "options": [
+      "The personal opinions of the minute-taker",
+      "The decisions taken and the actions assigned",
+      "The menu of the lunch",
+      "Every word spoken by each person"
      ],
      "correct_index": 1,
-     "explanation": "It tries to convince the reader to act."
+     "explanation": "Official record."
+    },
+    {
+     "question_text": "Minutes of the meeting are written in the:",
+     "options": [
+      "Future tense and direct speech",
+      "Present continuous tense",
+      "Imperative mood",
+      "Past tense and indirect speech"
+     ],
+     "correct_index": 3,
+     "explanation": "Convention."
+    },
+    {
+     "question_text": "A business report is:",
+     "options": [
+      "A structured document that presents facts and analysis on an issue",
+      "A letter of complaint written to a supplier of the goods",
+      "A personal diary which the manager keeps about his daily work",
+      "An advertisement for the company in the newspaper"
+     ],
+     "correct_index": 0,
+     "explanation": "Formal document."
+    },
+    {
+     "question_text": "The usual sequence of a formal report is:",
+     "options": [
+      "Findings, conclusion, title page, summary, introduction",
+      "Introduction, title page, recommendations, summary, findings",
+      "Recommendations, title page, findings, introduction, summary",
+      "Title page, summary, introduction, findings, conclusion, recommendations"
+     ],
+     "correct_index": 3,
+     "explanation": "Format."
+    },
+    {
+     "question_text": "The executive summary of a report is:",
+     "options": [
+      "A list of the references which have been used in the report",
+      "A detailed discussion of the methodology of the research only",
+      "A short overview of the purpose, findings and recommendations",
+      "An appendix of the raw data collected for the report"
+     ],
+     "correct_index": 2,
+     "explanation": "Condensed."
+    },
+    {
+     "question_text": "The recommendations section of a report should:",
+     "options": [
+      "Suggest specific actions that follow from the findings",
+      "Repeat the introduction of the report once again in full",
+      "Contain only the raw data collected by the researcher",
+      "Criticise the readers who have asked for the report"
+     ],
+     "correct_index": 0,
+     "explanation": "Action."
+    },
+    {
+     "question_text": "An appendix to a report is used for:",
+     "options": [
+      "The main argument which the report presents to the readers",
+      "The title of the report and the name of the writer",
+      "The conclusion which the report has drawn from the findings",
+      "Supporting material such as questionnaires and detailed tables"
+     ],
+     "correct_index": 3,
+     "explanation": "Extra material."
+    },
+    {
+     "question_text": "Which of the following is a primary source of data for a report?",
+     "options": [
+      "An encyclopedia",
+      "A newspaper article",
+      "A survey conducted by the writer",
+      "A published textbook"
+     ],
+     "correct_index": 2,
+     "explanation": "First-hand."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Introduction to English Composition – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "\"Last Sunday, my brother and I went trekking. We started early, reached the summit at noon and came back exhausted but happy.\" is:",
+     "question_text": "Which of the following is a secondary source of data?",
      "options": [
-      "Expository",
-      "Narrative",
-      "Persuasive",
-      "Descriptive"
+      "A questionnaire filled by respondents",
+      "A published government report",
+      "An observation made by the writer",
+      "An interview done by the writer"
      ],
      "correct_index": 1,
-     "explanation": "It tells events in sequence."
+     "explanation": "Second-hand."
     },
     {
-     "question_text": "An essay is:",
+     "question_text": "Plagiarism means:",
      "options": [
-      "A structured piece of writing on a topic with an introduction, body and conclusion",
-      "A poem",
-      "A letter",
-      "A single paragraph"
-     ],
-     "correct_index": 0,
-     "explanation": "It develops a central idea."
-    },
-    {
-     "question_text": "The parts of an essay are:",
-     "options": [
-      "Introduction, body and conclusion",
-      "Heading and footer",
-      "Question and answer",
-      "Title and author"
-     ],
-     "correct_index": 0,
-     "explanation": "The body has several paragraphs."
-    },
-    {
-     "question_text": "The function of an introduction is to:",
-     "options": [
-      "Hook the reader, give background and state the thesis",
-      "Give evidence",
-      "Summarise the essay",
-      "Add references"
-     ],
-     "correct_index": 0,
-     "explanation": "It sets up the essay."
-    },
-    {
-     "question_text": "Common ways to begin an essay (hooks) include:",
-     "options": [
-      "A citation list",
-      "An apology",
-      "A question, a quotation, a statistic or a short anecdote",
-      "A summary"
+      "Paraphrasing an idea and then citing the source in the text",
+      "Quoting a source in a proper manner with a full citation",
+      "Presenting another person's words or ideas as your own without credit",
+      "Summarising a work in a short form and giving credit to the author"
      ],
      "correct_index": 2,
-     "explanation": "A hook grabs attention."
+     "explanation": "Dishonesty."
     },
     {
-     "question_text": "A thesis statement is:",
+     "question_text": "To avoid plagiarism, a writer should:",
      "options": [
-      "A summary of a paragraph",
-      "A title",
-      "A sentence that states the central argument or main idea of the whole essay",
-      "A conclusion"
+      "Translate the text and claim that it is the writer's own work",
+      "Copy the text and delete the name of the author from it",
+      "Cite the sources and put borrowed words in quotation marks",
+      "Change a few of the words and not mention the source at all"
      ],
      "correct_index": 2,
-     "explanation": "It is usually at the end of the introduction."
+     "explanation": "Acknowledge."
     },
     {
-     "question_text": "The best thesis statement for an essay on \"Social media and business\" is:",
+     "question_text": "A paraphrase is:",
      "options": [
-      "Social media is popular.",
-      "I use social media.",
-      "This essay is about social media.",
-      "Social media transforms business by improving marketing reach, customer engagement and brand building."
-     ],
-     "correct_index": 3,
-     "explanation": "It states a clear, arguable point."
-    },
-    {
-     "question_text": "A thesis statement differs from a topic sentence in that a thesis statement:",
-     "options": [
-      "Is a title",
-      "Is a conclusion",
-      "Covers one paragraph",
-      "Covers the main idea of the whole essay, while a topic sentence covers one paragraph"
-     ],
-     "correct_index": 3,
-     "explanation": "Each topic sentence supports the thesis."
-    },
-    {
-     "question_text": "The function of body paragraphs is to:",
-     "options": [
-      "Conclude the essay",
-      "Introduce the topic",
-      "Develop and support the thesis with evidence, one main idea per paragraph",
-      "List references"
-     ],
-     "correct_index": 2,
-     "explanation": "They contain topic sentences and support."
-    },
-    {
-     "question_text": "A conclusion should restate the thesis and summarise the main points, while avoiding:",
-     "options": [
-      "Introducing new ideas or arguments",
-      "Closing",
-      "Restating",
-      "Summarising"
-     ],
-     "correct_index": 0,
-     "explanation": "New points belong in the body."
-    },
-    {
-     "question_text": "Types of essays include:",
-     "options": [
-      "Only descriptive",
-      "Only narrative",
-      "Only expository",
-      "Narrative, descriptive, expository and argumentative/persuasive"
-     ],
-     "correct_index": 3,
-     "explanation": "Each serves a different purpose."
-    },
-    {
-     "question_text": "An argumentative essay differs from a persuasive essay in that an argumentative essay:",
-     "options": [
-      "Has no evidence",
-      "Has no thesis",
-      "Relies on emotion",
-      "Relies mainly on logic and evidence, while a persuasive essay also uses emotional appeal"
-     ],
-     "correct_index": 3,
-     "explanation": "Both take a position."
-    },
-    {
-     "question_text": "The writing process consists of:",
-     "options": [
-      "Printing",
-      "Proofreading only",
-      "Pre-writing, drafting, revising, editing and proofreading",
-      "Drafting only"
-     ],
-     "correct_index": 2,
-     "explanation": "It is a recursive process."
-    },
-    {
-     "question_text": "Pre-writing techniques include:",
-     "options": [
-      "Proofreading",
-      "Brainstorming, free writing and mind mapping",
-      "Editing",
-      "Printing"
+      "A short title that is given to the original text by the writer",
+      "A restatement of an idea in your own words, with the source acknowledged",
+      "A translation of the original text into another language",
+      "An exact copy of the original text placed in quotation marks"
      ],
      "correct_index": 1,
-     "explanation": "They generate ideas before drafting."
+     "explanation": "Own words."
     },
     {
-     "question_text": "A mind map is:",
+     "question_text": "A summary differs from a paraphrase in that a summary is:",
      "options": [
-      "A map of a city",
-      "A diagram showing ideas branching from a central topic",
-      "A final draft",
-      "A list of sentences"
+      "A word-for-word copy of the original, with the quotation marks",
+      "About the same length as the original, with the words changed",
+      "A condensed version of the main points, much shorter than the original",
+      "An addition to the original text, with the comments of the writer"
+     ],
+     "correct_index": 2,
+     "explanation": "Shorter."
+    },
+    {
+     "question_text": "A précis of a passage is usually about what fraction of the original?",
+     "options": [
+      "One-third",
+      "Equal in length",
+      "Two-thirds",
+      "Twice the length"
+     ],
+     "correct_index": 0,
+     "explanation": "Standard."
+    },
+    {
+     "question_text": "The title of a précis should be:",
+     "options": [
+      "Left out always",
+      "Short and reflect the central idea of the passage",
+      "As long as the précis itself",
+      "A copy of the first sentence of the passage"
      ],
      "correct_index": 1,
-     "explanation": "It helps organise ideas visually."
+     "explanation": "Heading."
     },
     {
-     "question_text": "An outline is:",
+     "question_text": "A précis should be written in:",
      "options": [
-      "A structured plan listing the main points and sub-points of an essay",
-      "The final draft",
-      "A summary",
-      "A title page"
+      "The third person, in indirect speech, in the past or the present tense",
+      "The second person, in a style that addresses the reader",
+      "The first person, in the future tense, in a personal style",
+      "Direct speech, with the quotations from the original passage"
      ],
      "correct_index": 0,
-     "explanation": "It guides drafting."
+     "explanation": "Style."
     },
     {
-     "question_text": "Revising differs from editing in that revising:",
+     "question_text": "The ideal length of a paragraph in a formal essay is:",
      "options": [
-      "Improves content, organisation and ideas, while editing corrects grammar, spelling and style",
-      "Is the same as editing",
-      "Corrects spelling",
-      "Corrects grammar only"
+      "Long enough to develop one idea fully, usually five to eight sentences",
+      "A whole page without any break, so that the idea flows",
+      "A single sentence, so that the reader is not bored by it",
+      "Exactly three sentences in every case, whatever the idea"
      ],
      "correct_index": 0,
-     "explanation": "Revision comes first."
+     "explanation": "Typical length."
     },
     {
-     "question_text": "Proofreading is:",
+     "question_text": "A run-on error in a paragraph can be corrected by:",
      "options": [
-      "Brainstorming",
-      "The first draft",
-      "Outlining",
-      "The final check for spelling, punctuation and typing errors"
+      "Deleting all the commas from the sentence in the paragraph",
+      "Adding more clauses to the sentence without any punctuation",
+      "Using proper punctuation or a conjunction between the clauses",
+      "Writing the whole sentence in capital letters for clarity"
+     ],
+     "correct_index": 2,
+     "explanation": "Punctuation."
+    },
+    {
+     "question_text": "Which sentence uses the semicolon correctly?",
+     "options": [
+      "The meeting ended; late everyone was tired.",
+      "The meeting ended late; everyone was tired.",
+      "The meeting; ended late everyone was tired.",
+      "The meeting ended late; and everyone was tired."
+     ],
+     "correct_index": 1,
+     "explanation": "Joins two related independent clauses."
+    },
+    {
+     "question_text": "Which sentence uses the colon correctly?",
+     "options": [
+      "The report: has three parts the introduction, the findings and the conclusion.",
+      "The report has three parts the introduction: the findings and the conclusion.",
+      "The report has three parts: the introduction, the findings and the conclusion.",
+      "The report has: three parts the introduction, the findings and the conclusion."
+     ],
+     "correct_index": 2,
+     "explanation": "Colon after an independent clause introducing a list."
+    },
+    {
+     "question_text": "Which sentence uses the apostrophe correctly?",
+     "options": [
+      "The employees lounge's is on the second floor.",
+      "The employees's lounge is on the second floor.",
+      "The employee's lounge is for all the employees on the second floor.",
+      "The employees' lounge is on the second floor."
      ],
      "correct_index": 3,
-     "explanation": "It is done after editing."
+     "explanation": "Plural possessive."
     },
     {
-     "question_text": "Plagiarism is:",
+     "question_text": "Which sentence uses commas correctly?",
      "options": [
-      "Paraphrasing with credit",
-      "Using someone else's words or ideas without giving credit; it is avoided by citing sources and paraphrasing",
-      "Using your own ideas",
-      "Citing sources"
-     ],
-     "correct_index": 1,
-     "explanation": "It is academically dishonest."
-    },
-    {
-     "question_text": "The best thesis for a 200-word essay on \"Digital India\" is:",
-     "options": [
-      "Digital India is transforming governance, payments and education by expanding access to technology.",
-      "I like digital things.",
-      "Computers have screens.",
-      "Digital India is a topic."
-     ],
-     "correct_index": 0,
-     "explanation": "It states a clear central idea."
-    },
-    {
-     "question_text": "The best thesis for an essay on \"Importance of ethics in business\" is:",
-     "options": [
-      "Ethical practices build trust, protect reputation and ensure long-term business success.",
-      "I follow rules.",
-      "Ethics is a subject.",
-      "Businesses have owners."
-     ],
-     "correct_index": 0,
-     "explanation": "It is specific and arguable."
-    },
-    {
-     "question_text": "The best thesis for an essay on \"Role of women in the economy\" is:",
-     "options": [
-      "I know many women.",
-      "This essay is about women.",
-      "Women contribute to the economy as workers, entrepreneurs and consumers, and their participation drives growth.",
-      "Women are people."
+      "After the meeting we had, lunch with the clients.",
+      "After the meeting we, had lunch with the clients.",
+      "After the meeting, we had lunch with the clients.",
+      "After, the meeting we had lunch with the clients."
      ],
      "correct_index": 2,
-     "explanation": "It states a clear claim."
+     "explanation": "Comma after an introductory phrase."
     },
     {
-     "question_text": "The best thesis for an essay on \"Climate change and business\" is:",
+     "question_text": "Which sentence uses the hyphen correctly?",
      "options": [
-      "Climate is weather.",
-      "Climate change poses risks and opportunities for businesses, requiring sustainable practices.",
-      "I like cool weather.",
-      "Businesses have profits."
-     ],
-     "correct_index": 1,
-     "explanation": "It frames the argument."
-    },
-    {
-     "question_text": "The best thesis for an essay on \"Artificial intelligence: boon or bane?\" is:",
-     "options": [
-      "Artificial intelligence is more of a boon than a bane when used responsibly.",
-      "Robots are metal.",
-      "I use AI.",
-      "AI is a computer thing."
+      "She is a well-known author.",
+      "She is a well-known-author.",
+      "She is a wellknown author.",
+      "She is a well known-author."
      ],
      "correct_index": 0,
-     "explanation": "It takes a position on the question."
+     "explanation": "Compound modifier before a noun."
     },
     {
-     "question_text": "The best thesis for an essay on \"Start-ups and youth entrepreneurship\" is:",
+     "question_text": "The correct way to write the date in a formal British-style letter is:",
      "options": [
-      "Youth means young.",
-      "Start-ups are small.",
-      "Start-ups give young people opportunities to innovate, create jobs and boost the economy.",
-      "I want a job."
+      "12th. March, 2025",
+      "March, 12th, 2025",
+      "12/March/25",
+      "12 March 2025"
+     ],
+     "correct_index": 3,
+     "explanation": "Convention."
+    },
+    {
+     "question_text": "Which of the following is a formal word to replace \"get\" in \"get the approval\"?",
+     "options": [
+      "grab",
+      "catch",
+      "snatch",
+      "obtain"
+     ],
+     "correct_index": 3,
+     "explanation": "Register."
+    },
+    {
+     "question_text": "Which is more formal?",
+     "options": [
+      "We hate to say this.",
+      "We regret to inform you.",
+      "We feel bad about telling you.",
+      "We are sorry to tell you."
+     ],
+     "correct_index": 1,
+     "explanation": "Formality."
+    },
+    {
+     "question_text": "Choose the best concise version of: \"Due to the fact that the machine was broken, we were unable to complete the work.\"",
+     "options": [
+      "In view of the fact that the machine was broken, we could not complete.",
+      "Due to the fact of the machine being broken, we were unable to be able to complete the work.",
+      "The machine broke and because of this fact we had been unable to complete.",
+      "Because the machine was broken, we could not complete the work."
+     ],
+     "correct_index": 3,
+     "explanation": "Conciseness."
+    },
+    {
+     "question_text": "Choose the best concise version of: \"At this point in time, we are in the process of reviewing the proposal.\"",
+     "options": [
+      "We are in the process of reviewing now the proposal.",
+      "At this point in time, we are reviewing the proposal.",
+      "We are now reviewing the proposal.",
+      "Right at this moment in time we review the proposal."
      ],
      "correct_index": 2,
-     "explanation": "It states the central claim."
+     "explanation": "Remove wordiness."
+    },
+    {
+     "question_text": "Which sentence uses the active voice for clarity?",
+     "options": [
+      "The audit has been completed by the team.",
+      "The audit was completed by the team.",
+      "The team completed the audit.",
+      "The audit is being completed."
+     ],
+     "correct_index": 2,
+     "explanation": "Direct."
+    },
+    {
+     "question_text": "Which of the following is an example of jargon that should be avoided with a general audience?",
+     "options": [
+      "Leverage synergies to optimise the deliverables",
+      "Work together to finish the tasks",
+      "Meet the deadline",
+      "Improve the service"
+     ],
+     "correct_index": 0,
+     "explanation": "Technical language."
+    },
+    {
+     "question_text": "The \"you-attitude\" in business writing means:",
+     "options": [
+      "Using the word \"you\" in every sentence",
+      "Writing about the writer only",
+      "Focusing on the reader's needs and benefits",
+      "Being critical of the reader"
+     ],
+     "correct_index": 2,
+     "explanation": "Reader focus."
+    },
+    {
+     "question_text": "Which sentence reflects the you-attitude?",
+     "options": [
+      "I need to finish the refunds first.",
+      "We will process the refund when we have the time.",
+      "Our policy is to process refunds slowly.",
+      "You will receive your refund within five working days."
+     ],
+     "correct_index": 3,
+     "explanation": "Reader benefit."
+    },
+    {
+     "question_text": "A positive tone is shown in:",
+     "options": [
+      "It is impossible to deliver sooner.",
+      "Unfortunately, we are unable to deliver earlier.",
+      "We cannot deliver before Friday.",
+      "We will be able to deliver by Friday."
+     ],
+     "correct_index": 3,
+     "explanation": "Positive wording."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Introduction to English Composition – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The best opening for an essay on \"A visit to a bank\" is:",
+     "question_text": "Bad-news letters are usually organised by:",
      "options": [
-      "Banks hold money.",
-      "You must visit a bank.",
-      "Last Monday, I visited my local bank for the first time to open a savings account.",
-      "Money is paper."
-     ],
-     "correct_index": 2,
-     "explanation": "It starts a narrative essay."
-    },
-    {
-     "question_text": "The best thesis for an essay on \"My career goals\" is:",
-     "options": [
-      "Goals are targets.",
-      "I have goals.",
-      "My goal is to become a chartered accountant, and I am preparing through study and internships.",
-      "Careers are jobs."
-     ],
-     "correct_index": 2,
-     "explanation": "It states a clear personal goal."
-    },
-    {
-     "question_text": "The best thesis for an essay on \"Cashless economy\" is:",
-     "options": [
-      "A cashless economy increases transparency, convenience and efficiency but needs safe digital infrastructure.",
-      "I carry cash.",
-      "Cash is paper.",
-      "Economies are large."
-     ],
-     "correct_index": 0,
-     "explanation": "It states a balanced claim."
-    },
-    {
-     "question_text": "An outline for \"Work-life balance\" would most logically include:",
-     "options": [
-      "Introduction, importance, challenges, solutions, conclusion",
-      "Conclusion, title, introduction",
-      "Only an introduction",
-      "Only a conclusion"
-     ],
-     "correct_index": 0,
-     "explanation": "It follows a logical sequence."
-    },
-    {
-     "question_text": "An outline for \"Pros and cons of online education\" would most logically include:",
-     "options": [
-      "Conclusion only",
-      "Disadvantages only",
-      "Introduction only",
-      "Introduction, advantages, disadvantages, balanced conclusion"
+      "Opening with the apology alone and then nothing else",
+      "Leaving out the reasons for the bad news from the letter",
+      "Opening directly with the bad news and then stopping",
+      "Opening with a neutral buffer, then the reason, the bad news and a positive close"
      ],
      "correct_index": 3,
-     "explanation": "It treats both sides."
+     "explanation": "Indirect approach."
     },
     {
-     "question_text": "A good introduction for \"Importance of financial planning\" includes:",
+     "question_text": "Good-news messages are usually organised by:",
      "options": [
-      "Only a hook",
-      "Only a thesis",
-      "A hook, background and a thesis statement",
-      "Only background"
-     ],
-     "correct_index": 2,
-     "explanation": "E.g., a statistic, context and the central claim."
-    },
-    {
-     "question_text": "A good conclusion for \"Social media and business\" would:",
-     "options": [
-      "Restate the thesis, summarise the main points and end with a closing thought",
-      "Introduce new arguments",
-      "Stop abruptly",
-      "Repeat the introduction word for word"
-     ],
-     "correct_index": 0,
-     "explanation": "It gives closure."
-    },
-    {
-     "question_text": "The stronger version of the weak thesis \"This essay is about pollution\" is:",
-     "options": [
-      "This essay will talk about pollution.",
-      "Pollution is bad.",
-      "Pollution harms health and the economy, and stricter regulation is needed to control it.",
-      "I will write about pollution."
-     ],
-     "correct_index": 2,
-     "explanation": "It takes a clear, arguable position."
-    },
-    {
-     "question_text": "A style tip for formal essay writing is to:",
-     "options": [
-      "Use text-speak",
-      "Use slang",
-      "Use contractions",
-      "Use formal vocabulary, clear structure and an objective tone"
+      "Delaying the good news to the end",
+      "Beginning with a complaint",
+      "Beginning with the background only",
+      "Stating the good news first (direct approach)"
      ],
      "correct_index": 3,
-     "explanation": "Avoid first-person where possible."
+     "explanation": "Direct approach."
     },
     {
-     "question_text": "Contractions and slang should be avoided in formal essays because:",
+     "question_text": "The AIDA formula in persuasive writing stands for:",
      "options": [
-      "They sound informal and reduce credibility",
-      "They are unclear in all cases",
-      "They are illegal",
-      "They are long"
+      "Attention, Interest, Desire, Action",
+      "Analyse, Inform, Decide, Act",
+      "Audience, Intent, Data, Argument",
+      "Aim, Idea, Draft, Approve"
      ],
      "correct_index": 0,
-     "explanation": "Formal writing needs a professional tone."
+     "explanation": "Sales message."
     },
     {
-     "question_text": "A consistent tone in an essay is maintained by:",
+     "question_text": "In a sales letter, the \"Desire\" stage is created by:",
      "options": [
-      "Switching styles",
-      "Changing tone randomly",
-      "Choosing a style and vocabulary appropriate to the audience and keeping it throughout",
-      "Using slang in some places"
+      "Describing the history of the company in some detail",
+      "Giving the address of the shop in a prominent place",
+      "Listing the price of the product on the first line only",
+      "Showing how the product meets the reader's needs and benefits him"
      ],
-     "correct_index": 2,
-     "explanation": "Tone should match purpose."
+     "correct_index": 3,
+     "explanation": "Benefits."
     },
     {
-     "question_text": "An essay differs from a report in that an essay:",
+     "question_text": "The \"Action\" stage of AIDA is achieved by:",
      "options": [
-      "Is only numerical",
-      "Develops an argument in continuous prose, while a report presents organised findings with headings",
-      "Has no argument",
-      "Has headings and tables"
+      "Repeating the attention-getter used at the start of the message",
+      "Leaving the reader to decide what to do on his own",
+      "Ending the message with a joke to leave a good mood",
+      "Telling the reader what to do next and making it easy to do"
+     ],
+     "correct_index": 3,
+     "explanation": "Call to action."
+    },
+    {
+     "question_text": "A proposal is a document that:",
+     "options": [
+      "Reports an event that has taken place in the past",
+      "Offers a plan or a solution and seeks approval or funding",
+      "Complains about a product that has been bought",
+      "Records the minutes of a meeting that has been held"
      ],
      "correct_index": 1,
-     "explanation": "Reports are more structured."
+     "explanation": "Persuasive."
     },
     {
-     "question_text": "An essay is made coherent by:",
+     "question_text": "Which of the following should be avoided in business writing?",
      "options": [
-      "Avoiding transitions",
-      "Changing topics",
-      "Logical order, transitions and linking each paragraph to the thesis",
-      "Random order"
+      "Short paragraphs that are easy for the reader to follow",
+      "Clear headings that guide the reader to the sections",
+      "The active voice in the sentences that are written",
+      "Slang and abbreviations such as \"gonna\" and \"btw\""
+     ],
+     "correct_index": 3,
+     "explanation": "Informal."
+    },
+    {
+     "question_text": "The \"inverted pyramid\" style of writing places:",
+     "options": [
+      "The least important information first",
+      "The details first and the summary last",
+      "The conclusion last and the introduction first always",
+      "The most important information first"
+     ],
+     "correct_index": 3,
+     "explanation": "News style."
+    },
+    {
+     "question_text": "Proofreading should be done:",
+     "options": [
+      "Before writing the draft, to plan the content of the document",
+      "After writing, to check the spelling, grammar and punctuation",
+      "Only by the printer, after the document has been printed",
+      "Never, since the software does the work for the writer"
+     ],
+     "correct_index": 1,
+     "explanation": "Final check."
+    },
+    {
+     "question_text": "Which spelling is correct?",
+     "options": [
+      "Acommodation",
+      "Accomodation",
+      "Accomadation",
+      "Accommodation"
+     ],
+     "correct_index": 3,
+     "explanation": "Double c, double m."
+    },
+    {
+     "question_text": "Which spelling is correct?",
+     "options": [
+      "Occurrance",
+      "Occurence",
+      "Occurrence",
+      "Ocurrence"
      ],
      "correct_index": 2,
-     "explanation": "Each paragraph should flow into the next."
+     "explanation": "Double c, double r."
     },
     {
-     "question_text": "Revision is important because it:",
+     "question_text": "Which spelling is correct?",
      "options": [
-      "Adds errors",
-      "Is unnecessary",
-      "Improves clarity, organisation and quality of the draft",
-      "Shortens the essay"
+      "Recomend",
+      "Recommend",
+      "Reccomend",
+      "Recommned"
      ],
-     "correct_index": 2,
-     "explanation": "First drafts are rarely perfect."
+     "correct_index": 1,
+     "explanation": "Single c, double m."
     },
     {
-     "question_text": "A common essay error is:",
+     "question_text": "Which spelling is correct?",
      "options": [
-      "Good organisation",
-      "Accurate grammar",
-      "Weak thesis, poor organisation and grammar mistakes",
-      "Clear thesis"
+      "Seprate",
+      "Separate",
+      "Separete",
+      "Seperate"
      ],
-     "correct_index": 2,
-     "explanation": "Also irrelevant details and plagiarism."
+     "correct_index": 1,
+     "explanation": "-par-."
     },
     {
-     "question_text": "Useful phrases for an introduction, body and conclusion respectively are:",
+     "question_text": "Which spelling is correct?",
      "options": [
-      "\"In today's world…\", \"Furthermore…\", \"In conclusion…\"",
-      "\"Furthermore…\", \"In conclusion…\", \"In today's world…\"",
-      "\"In summary…\", \"In today's world…\", \"Furthermore…\"",
-      "\"In conclusion…\", \"Furthermore…\", \"In today's world…\""
+      "Necessary",
+      "Necesary",
+      "Neccesary",
+      "Neccessary"
      ],
      "correct_index": 0,
-     "explanation": "They signal each stage."
+     "explanation": "One c, two s."
     },
     {
-     "question_text": "An effective hook is:",
+     "question_text": "Which spelling is correct?",
      "options": [
-      "An apology",
-      "A summary",
-      "A long definition",
-      "A surprising fact, question or quotation that grabs attention, e.g., \"Did you know India makes over 100 crore UPI transactions a day?\""
-     ],
-     "correct_index": 3,
-     "explanation": "It leads into the thesis."
-    },
-    {
-     "question_text": "In body paragraphs, evidence is used by:",
-     "options": [
-      "Using only opinions",
-      "Using only questions",
-      "Supporting each claim with facts, statistics, examples or expert opinion",
-      "Avoiding examples"
+      "Embarras",
+      "Embarass",
+      "Embarrass",
+      "Embaras"
      ],
      "correct_index": 2,
-     "explanation": "Evidence makes arguments credible."
+     "explanation": "Double r, double s."
     },
     {
-     "question_text": "Counter-arguments in a persuasive essay are addressed by:",
+     "question_text": "Choose the correct word: \"The (affect/effect) of the policy on sales was positive.\"",
      "options": [
-      "Agreeing completely",
-      "Ignoring them",
-      "Acknowledging the opposing view and refuting it with evidence",
-      "Avoiding the topic"
+      "affects",
+      "affect",
+      "effect",
+      "effects"
      ],
      "correct_index": 2,
-     "explanation": "It strengthens the argument."
+     "explanation": "Noun."
     },
     {
-     "question_text": "A call to action is:",
+     "question_text": "Choose the correct word: \"Please send the document (to/too/two) me.\"",
      "options": [
-      "A thesis",
-      "A question",
-      "A summary",
-      "A closing statement urging readers to do something, e.g., \"Start saving today.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It is common in persuasive writing."
-    },
-    {
-     "question_text": "Word choice is improved by:",
-     "options": [
-      "Using slang",
-      "Using precise, specific and appropriate words instead of vague ones",
-      "Repeating words",
-      "Using long words always"
+      "tu",
+      "to",
+      "two",
+      "too"
      ],
      "correct_index": 1,
-     "explanation": "E.g., \"improve\" instead of \"make better\"."
+     "explanation": "Preposition."
     },
     {
-     "question_text": "A paragraph comparing online shopping and in-store shopping would use the pattern:",
+     "question_text": "Choose the correct word: \"(Their/There/They're) going to attend the seminar.\"",
      "options": [
-      "Chronological order",
-      "Random order",
-      "Spatial order",
-      "Point-by-point or block comparison with words like \"whereas\" and \"similarly\""
+      "There",
+      "They're",
+      "Theirs",
+      "Their"
+     ],
+     "correct_index": 1,
+     "explanation": "They are."
+    },
+    {
+     "question_text": "Choose the correct word: \"The company lost (its/it's) licence.\"",
+     "options": [
+      "its'",
+      "it's",
+      "it is",
+      "its"
      ],
      "correct_index": 3,
-     "explanation": "It highlights similarities and differences."
+     "explanation": "Possessive."
     },
     {
-     "question_text": "A good opening for a paragraph defining \"entrepreneur\" is:",
+     "question_text": "Choose the correct word: \"I would (of/have) attended if I had known.\"",
      "options": [
-      "An entrepreneur is a person who starts and manages a business, taking financial risks in the hope of profit.",
-      "I want to be rich.",
-      "Business is hard.",
-      "Entrepreneurs are people."
+      "have",
+      "of",
+      "ave",
+      "has"
      ],
      "correct_index": 0,
-     "explanation": "A definition names the term, class and distinguishing features."
+     "explanation": "Would have."
     },
     {
-     "question_text": "The best topic sentence for a cause-and-effect paragraph on \"Why people miss deadlines\" is:",
+     "question_text": "Choose the correct word: \"Fewer/Less: There were ___ complaints this month than last month.\"",
      "options": [
-      "I missed a deadline.",
-      "People miss deadlines mainly because of poor planning, procrastination and unrealistic time estimates.",
-      "You must meet deadlines.",
-      "Deadlines are dates."
+      "fewer",
+      "less",
+      "lesser",
+      "least"
      ],
-     "correct_index": 1,
-     "explanation": "It names the effect and causes."
+     "correct_index": 0,
+     "explanation": "Countable."
     },
     {
-     "question_text": "Notes: \"benefits of teamwork — shared workload, diverse ideas, faster solutions, better morale.\" The best paragraph is:",
+     "question_text": "Choose the correct word: \"Fewer/Less: We have ___ time than we need.\"",
      "options": [
-      "Teamwork. Workload. Ideas. Solutions. Morale.",
-      "Teamwork offers many benefits: it shares the workload, brings diverse ideas, speeds up solutions and improves morale.",
-      "Workers should wear uniforms.",
-      "Teamwork is hard and I dislike it."
+      "lesser",
+      "fewer",
+      "less",
+      "many"
+     ],
+     "correct_index": 2,
+     "explanation": "Uncountable."
+    },
+    {
+     "question_text": "Choose the correct word: \"(Who's/Whose) report is this?\"",
+     "options": [
+      "Who's",
+      "Whose",
+      "Whom",
+      "Who"
      ],
      "correct_index": 1,
-     "explanation": "It turns the points into connected sentences."
+     "explanation": "Possessive."
+    },
+    {
+     "question_text": "Choose the correct word: \"He is taller (then/than) his brother.\"",
+     "options": [
+      "that",
+      "thin",
+      "than",
+      "then"
+     ],
+     "correct_index": 2,
+     "explanation": "Comparison."
+    },
+    {
+     "question_text": "Choose the correct word: \"The (principal/principle) reason for the loss was poor planning.\"",
+     "options": [
+      "principle",
+      "principal",
+      "principled",
+      "principally"
+     ],
+     "correct_index": 1,
+     "explanation": "Main."
     }
    ]
   }

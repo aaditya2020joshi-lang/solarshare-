@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 3: Reading Comprehension – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Reading comprehension is:",
+     "question_text": "Read the passage and answer. \"Small shops in the town were once the centre of social life. People went there not only to buy provisions but also to exchange news. With the arrival of supermarkets, the shopkeeper's role as a community link has faded, though prices have fallen.\" What is the main idea of the passage?",
      "options": [
-      "Writing a summary only",
-      "Memorising a text",
-      "Reading aloud only",
-      "The ability to read a text, understand it and interpret its meaning"
+      "Supermarkets are better than small shops in every respect.",
+      "Prices in small shops were always lower than those in the supermarkets.",
+      "Supermarkets have lowered prices but weakened the social role of small shops.",
+      "Shopkeepers have always disliked the news and gossip of the town."
+     ],
+     "correct_index": 2,
+     "explanation": "Main idea."
+    },
+    {
+     "question_text": "\"The firm introduced a four-day week on a trial basis. Employee absenteeism fell by a fifth, yet clients complained that Fridays were hard to reach by phone.\" The passage suggests that the four-day week:",
+     "options": [
+      "Was a complete failure in every area of the firm's work.",
+      "Had no effect on either the employees or the clients.",
+      "Had both benefits for employees and drawbacks for client service.",
+      "Was welcomed by the clients more than by the employees."
+     ],
+     "correct_index": 2,
+     "explanation": "Balanced inference."
+    },
+    {
+     "question_text": "\"Rohan was not merely tired; he was utterly drained, as though every ounce of energy had been wrung out of him by the long negotiations.\" In this sentence, the word \"drained\" most nearly means:",
+     "options": [
+      "Cleansed",
+      "Dismissed",
+      "Emptied of water",
+      "Exhausted"
      ],
      "correct_index": 3,
-     "explanation": "It involves understanding, interpreting and evaluating."
+     "explanation": "Vocabulary in context."
     },
     {
-     "question_text": "The levels of comprehension are:",
+     "question_text": "\"Critics argue that the new tax will hurt the poor most. The government, however, insists that the revenue will fund schools and hospitals that mainly serve those very families.\" The author's tone is best described as:",
      "options": [
-      "Fast, slow and normal",
-      "Basic, advanced and expert",
-      "Literal, inferential and critical (evaluative)",
-      "Simple, medium and hard"
-     ],
-     "correct_index": 2,
-     "explanation": "Each goes deeper into the text."
-    },
-    {
-     "question_text": "Literal comprehension means:",
-     "options": [
-      "Guessing meaning",
-      "Judging the author",
-      "Understanding what is directly stated in the text",
-      "Reading between the lines"
-     ],
-     "correct_index": 2,
-     "explanation": "The answers are found in the text."
-    },
-    {
-     "question_text": "Inferential comprehension means:",
-     "options": [
-      "Memorising text",
-      "Reading only facts",
-      "Copying sentences",
-      "Understanding ideas that are implied but not directly stated"
-     ],
-     "correct_index": 3,
-     "explanation": "It requires reading between the lines."
-    },
-    {
-     "question_text": "Critical reading means:",
-     "options": [
-      "Reading aloud",
-      "Reading once",
-      "Reading quickly",
-      "Evaluating the text for accuracy, bias, logic and purpose"
-     ],
-     "correct_index": 3,
-     "explanation": "It questions what the author says."
-    },
-    {
-     "question_text": "Skimming is:",
-     "options": [
-      "Reading every word",
-      "Reading for a specific detail",
-      "Reading quickly to get the general idea of a text",
-      "Reading aloud"
-     ],
-     "correct_index": 2,
-     "explanation": "It is used for previewing material."
-    },
-    {
-     "question_text": "Scanning is:",
-     "options": [
-      "Reading aloud",
-      "Reading for the general idea",
-      "Reading slowly",
-      "Reading quickly to find a specific piece of information, such as a name or number"
-     ],
-     "correct_index": 3,
-     "explanation": "It is used with timetables and indexes."
-    },
-    {
-     "question_text": "Skimming differs from scanning in that skimming looks for _____ and scanning looks for _____:",
-     "options": [
-      "Specific information; the general idea",
-      "Every word; one word",
-      "The general idea; specific information",
-      "Details; summaries"
-     ],
-     "correct_index": 2,
-     "explanation": "Both are fast reading techniques."
-    },
-    {
-     "question_text": "Intensive reading is:",
-     "options": [
-      "Fast reading",
-      "Careful, detailed reading of a short text to understand it fully",
-      "Reading many books",
-      "Reading for pleasure"
-     ],
-     "correct_index": 1,
-     "explanation": "It is used for study and analysis."
-    },
-    {
-     "question_text": "Extensive reading is:",
-     "options": [
-      "Detailed study of a short text",
-      "Scanning",
-      "Reading longer texts or many books for general understanding and enjoyment",
-      "Skimming"
-     ],
-     "correct_index": 2,
-     "explanation": "It builds fluency and vocabulary."
-    },
-    {
-     "question_text": "Intensive reading differs from extensive reading in that intensive reading is:",
-     "options": [
-      "For fun",
-      "Detailed and slow, while extensive reading is broad and for pleasure",
-      "Broad and for pleasure",
-      "Fast"
-     ],
-     "correct_index": 1,
-     "explanation": "Both improve language skills."
-    },
-    {
-     "question_text": "Speed reading is:",
-     "options": [
-      "Reading aloud",
-      "Reading faster while keeping understanding",
-      "Reading without understanding",
-      "Skipping all text"
-     ],
-     "correct_index": 1,
-     "explanation": "It uses techniques to reduce regression."
-    },
-    {
-     "question_text": "SQ3R stands for:",
-     "options": [
-      "Scan, Question, Read, Repeat, Review",
-      "Survey, Quote, Reread, Recite, Revise",
-      "Survey, Question, Read, Recite, Review",
-      "Skim, Quote, Read, Rewrite, Revise"
-     ],
-     "correct_index": 2,
-     "explanation": "It is a study method for textbooks."
-    },
-    {
-     "question_text": "A strategy of effective reading is:",
-     "options": [
-      "Reading without purpose",
-      "Skipping headings",
-      "Reading once without notes",
-      "Previewing, predicting, annotating and summarising"
-     ],
-     "correct_index": 3,
-     "explanation": "Set a purpose before reading."
-    },
-    {
-     "question_text": "To predict content before reading, you should:",
-     "options": [
-      "Ignore the title",
-      "Look at the title, headings, images and first lines",
-      "Read the last page only",
-      "Close the book"
-     ],
-     "correct_index": 1,
-     "explanation": "It prepares the mind for the text."
-    },
-    {
-     "question_text": "To annotate a text, you:",
-     "options": [
-      "Underline key points and write brief notes in the margin",
-      "Copy the whole text",
-      "Skip the text",
-      "Erase words"
+      "Neutral, presenting two competing views",
+      "Angry at the critics of the tax",
+      "Strongly supportive of the government",
+      "Humorous about the poor"
      ],
      "correct_index": 0,
-     "explanation": "It aids understanding and revision."
+     "explanation": "Tone."
     },
     {
-     "question_text": "To summarise a paragraph, you:",
+     "question_text": "\"The study followed 500 students for ten years. Those who read for pleasure scored higher in vocabulary tests, but the researchers warn that this does not prove reading itself caused the improvement.\" The researchers' warning means that:",
      "options": [
-      "Add your opinion",
-      "Identify the main idea and restate it briefly in your own words",
-      "Add new ideas",
-      "Copy it fully"
+      "Vocabulary tests are a poor way to measure the reading skills.",
+      "A link between two things does not necessarily show that one caused the other.",
+      "Reading for pleasure has no benefit for the students at all.",
+      "The study was conducted on too many students to be reliable."
      ],
      "correct_index": 1,
-     "explanation": "A summary is much shorter."
+     "explanation": "Correlation versus causation."
     },
     {
-     "question_text": "The meaning of an unknown word can be guessed by:",
+     "question_text": "\"The company's profits rose by 12%, but its debt rose by 30%. Analysts are therefore cautious about celebrating the result.\" Why are analysts cautious?",
      "options": [
-      "Using clues from the surrounding words and sentences",
-      "Guessing randomly",
-      "Ignoring the sentence",
-      "Skipping it always"
+      "The debt of the company was repaid in full.",
+      "The profits actually fell during the year.",
+      "Analysts never celebrate any result of a company.",
+      "The rise in debt was larger than the rise in profits."
      ],
-     "correct_index": 0,
-     "explanation": "This is called using context."
+     "correct_index": 3,
+     "explanation": "Inference."
     },
     {
-     "question_text": "Context clues include:",
+     "question_text": "\"Although the manager appeared calm, the tapping of his foot betrayed his anxiety.\" What does the tapping of his foot suggest?",
      "options": [
-      "Page numbers",
-      "Author's name",
-      "Definitions, synonyms, antonyms and examples in the sentence",
-      "Font size"
+      "He was bored by the discussion.",
+      "He was happy about the decision.",
+      "He was nervous in spite of his calm look.",
+      "He wanted to leave the room at once."
      ],
      "correct_index": 2,
-     "explanation": "They hint at the meaning."
+     "explanation": "Inference from detail."
     },
     {
-     "question_text": "Knowing prefixes and roots helps in reading because:",
+     "question_text": "\"Urban farming, once seen as a hobby, is now being taken seriously by city planners. Rooftop gardens reduce heat, cut food miles and give residents fresh produce.\" Which of the following is NOT mentioned as a benefit of the rooftop gardens?",
      "options": [
-      "They reveal the meaning of unfamiliar words, e.g., \"un-\" means not",
-      "They are irrelevant",
-      "They have no meaning",
-      "They make words longer"
-     ],
-     "correct_index": 0,
-     "explanation": "E.g., \"unhappy\" = not happy."
-    },
-    {
-     "question_text": "A tip to improve reading speed is:",
-     "options": [
-      "Read aloud always",
-      "Read word by word",
-      "Re-read every line",
-      "Avoid subvocalisation and regression, and read in phrases"
-     ],
-     "correct_index": 3,
-     "explanation": "Practice and a purpose help."
-    },
-    {
-     "question_text": "Subvocalisation is _____, and regression is _____:",
-     "options": [
-      "Writing notes; reading notes",
-      "Reading aloud; skipping words",
-      "Reading fast; reading slow",
-      "Silently pronouncing words while reading; going back to re-read words"
-     ],
-     "correct_index": 3,
-     "explanation": "Both slow reading speed."
-    },
-    {
-     "question_text": "The genres of text include:",
-     "options": [
-      "Only fiction",
-      "Only news",
-      "Only poetry",
-      "Fiction, non-fiction, poetry, drama and news"
-     ],
-     "correct_index": 3,
-     "explanation": "Each has its own features."
-    },
-    {
-     "question_text": "A feature of fiction is that it:",
-     "options": [
-      "Is a news report",
-      "Is factual",
-      "Is a contract",
-      "Is an imaginative narrative with characters, plot and setting"
-     ],
-     "correct_index": 3,
-     "explanation": "It entertains."
-    },
-    {
-     "question_text": "The elements of a story are:",
-     "options": [
-      "Abstract and conclusion",
-      "Headlines and datelines",
-      "Characters, setting, plot, conflict and theme",
-      "Introduction and thesis"
+      "Providing fresh produce",
+      "Reducing heat in the city",
+      "Creating jobs for the unemployed",
+      "Cutting food transport miles"
      ],
      "correct_index": 2,
-     "explanation": "Plot includes beginning, climax and resolution."
+     "explanation": "Detail/NOT question."
+    },
+    {
+     "question_text": "\"The speaker's claim that every employee wants flexible hours is an overgeneralisation; the survey found that 40% preferred fixed schedules.\" The word \"overgeneralisation\" suggests that the claim:",
+     "options": [
+      "Holds true for most of the employees who took part in the survey",
+      "Applies the view of some people to everyone without justification",
+      "Rests on a very large sample of employees from different firms",
+      "Is fully supported by the results of the survey that was conducted"
+     ],
+     "correct_index": 1,
+     "explanation": "Critical reading."
+    },
+    {
+     "question_text": "\"By the time the rescue team arrived, the flood waters had begun to recede, leaving a layer of silt over the fields.\" The word \"recede\" means:",
+     "options": [
+      "Rise rapidly",
+      "Move back",
+      "Become dirty",
+      "Freeze"
+     ],
+     "correct_index": 1,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"A good leader listens more than speaks. By hearing the concerns of the team, she can fix small problems before they grow into crises.\" The passage mainly stresses that:",
+     "options": [
+      "Leaders should avoid speaking in meetings of the whole team",
+      "Small problems do not matter to the working of a team",
+      "Listening helps leaders prevent small problems from growing bigger",
+      "Teams face no crisis at all if the leader remains silent"
+     ],
+     "correct_index": 2,
+     "explanation": "Main idea."
+    },
+    {
+     "question_text": "\"Sales of electric scooters doubled last year. Yet charging stations remain scarce, so many buyers fear being stranded.\" The word \"Yet\" signals:",
+     "options": [
+      "A contrast between the growing sales and the poor infrastructure",
+      "A repetition of the point made in the earlier sentence",
+      "A cause of the doubling of the sales of electric scooters",
+      "An example of the confidence which the buyers have"
+     ],
+     "correct_index": 0,
+     "explanation": "Signal word."
+    },
+    {
+     "question_text": "\"In the survey, 70% of respondents said they trusted online reviews as much as personal recommendations.\" Which conclusion is best supported by this statement?",
+     "options": [
+      "All the respondents trust only personal recommendations.",
+      "Personal recommendations are no longer given by anyone.",
+      "Online reviews are always accurate.",
+      "A majority of respondents give online reviews a high level of trust."
+     ],
+     "correct_index": 3,
+     "explanation": "Supported conclusion."
+    },
+    {
+     "question_text": "\"The mayor promised to build a flyover within a year. Three years later, only the foundation stone stands as evidence of the promise.\" The tone of this passage is:",
+     "options": [
+      "Ironic",
+      "Respectful",
+      "Neutral",
+      "Cheerful"
+     ],
+     "correct_index": 0,
+     "explanation": "Tone."
+    },
+    {
+     "question_text": "\"Photosynthesis is the process by which plants convert sunlight, carbon dioxide and water into food and oxygen.\" According to the passage, which of the following is produced by plants during photosynthesis?",
+     "options": [
+      "Food and oxygen",
+      "Water and sunlight",
+      "Carbon dioxide and food",
+      "Sunlight and water"
+     ],
+     "correct_index": 0,
+     "explanation": "Detail."
+    },
+    {
+     "question_text": "\"The new software is intuitive; even first-time users can complete a task without training.\" The word \"intuitive\" means:",
+     "options": [
+      "Easy to understand and use naturally",
+      "Expensive to buy and maintain",
+      "Complex and hard to learn",
+      "Slow in its operation"
+     ],
+     "correct_index": 0,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"Because the customer had waited forty minutes, the cashier's apology sounded hollow to him.\" The word \"hollow\" here suggests that the apology was:",
+     "options": [
+      "Very loud and angry",
+      "Written on paper",
+      "Insincere or empty of real feeling",
+      "Too long and detailed"
+     ],
+     "correct_index": 2,
+     "explanation": "Figurative meaning."
+    },
+    {
+     "question_text": "\"Neither the budget cuts nor the hiring freeze, which the CEO described as temporary, has persuaded investors that the company is recovering.\" What does the sentence say about investors?",
+     "options": [
+      "They are ready to hire new staff.",
+      "They have not heard about the budget cuts.",
+      "They are fully confident about the recovery.",
+      "They remain unconvinced about the recovery."
+     ],
+     "correct_index": 3,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Choosing a career should not be a decision made in haste; it demands honest self-assessment, research and, ideally, some practical exposure.\" The author would most probably agree that:",
+     "options": [
+      "A career decision should be made carefully after reflection and research",
+      "Practical exposure to the jobs is unnecessary for most students",
+      "Students should choose a career as quickly as they possibly can",
+      "Self-assessment is a waste of time for a person choosing a career"
+     ],
+     "correct_index": 0,
+     "explanation": "Author's view."
+    },
+    {
+     "question_text": "\"Our delivery partner was late, which caused the delay. We regret the inconvenience and have arranged for a full refund.\" The purpose of this message is to:",
+     "options": [
+      "Apologise and compensate the customer",
+      "Advertise a new service",
+      "Ask the customer for more orders",
+      "Threaten the delivery partner"
+     ],
+     "correct_index": 0,
+     "explanation": "Purpose."
+    },
+    {
+     "question_text": "\"The more the company expanded, the less personal its culture became.\" This sentence suggests that:",
+     "options": [
+      "The company decided to shrink in order to improve culture.",
+      "The expansion had no effect on the company culture.",
+      "The company culture became friendlier after the expansion.",
+      "Growth in size reduced the closeness of the company's culture."
+     ],
+     "correct_index": 3,
+     "explanation": "Relationship."
+    },
+    {
+     "question_text": "\"Few people questioned the findings of the report, for the authority of its authors was beyond dispute.\" The writer implies that the findings were accepted mainly because of:",
+     "options": [
+      "The simplicity of the language",
+      "The reputation of the authors",
+      "The low price of the report",
+      "The size of the report"
+     ],
+     "correct_index": 1,
+     "explanation": "Reason."
+    },
+    {
+     "question_text": "\"The CEO's statement that the merger would 'create value for all' was dismissed by the union as empty rhetoric.\" The union's view is that the statement was:",
+     "options": [
+      "A threat to the shareholders",
+      "Impressive-sounding but without real substance",
+      "Detailed and well supported by data",
+      "A binding promise to the workers"
+     ],
+     "correct_index": 1,
+     "explanation": "Attitude."
+    },
+    {
+     "question_text": "\"Water is scarce in the region; farmers who once grew rice now cultivate millets, which need far less water.\" Which can be inferred from the passage?",
+     "options": [
+      "The region has an abundance of water for all its farmers",
+      "Rice needs less water than millets do in the region",
+      "Farmers have given up farming altogether in the region",
+      "Farmers have adapted their crops to the shortage of water in the region"
+     ],
+     "correct_index": 3,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Mr Rao, who joined as a clerk in 1990, retired last month as the general manager. His rise, he says, owes more to persistence than to talent.\" According to Mr Rao, his success is mainly due to:",
+     "options": [
+      "Persistence",
+      "Luck",
+      "Family influence",
+      "Talent"
+     ],
+     "correct_index": 0,
+     "explanation": "Detail."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 3: Reading Comprehension – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A news report follows the inverted pyramid, which means:",
+     "question_text": "\"The new office has an open plan. Staff say the noise is distracting, though managers claim collaboration has improved.\" Which statement best summarises the passage?",
      "options": [
-      "Chronological order only",
-      "Conclusion first and then headlines",
-      "Least important first",
-      "The most important information comes first, followed by details"
-     ],
-     "correct_index": 3,
-     "explanation": "It answers who, what, when, where, why."
-    },
-    {
-     "question_text": "An editorial is:",
-     "options": [
-      "A news report",
-      "An article expressing the opinion of the newspaper or editor on an issue",
-      "An advertisement",
-      "A letter"
-     ],
-     "correct_index": 1,
-     "explanation": "It aims to persuade."
-    },
-    {
-     "question_text": "Academic texts are characterised by:",
-     "options": [
-      "Formal tone, specialised vocabulary and cited sources",
-      "Humour",
-      "No structure",
-      "Slang"
-     ],
-     "correct_index": 0,
-     "explanation": "They are objective and evidence-based."
-    },
-    {
-     "question_text": "Business texts are characterised by:",
-     "options": [
-      "Long stories",
-      "Fiction",
-      "Poetic language",
-      "Clear, concise, purposeful language and a practical focus"
-     ],
-     "correct_index": 3,
-     "explanation": "They aim at action or decision."
-    },
-    {
-     "question_text": "Business documents one may need to read include:",
-     "options": [
-      "Comics",
-      "Reports, memos, emails, contracts and annual reports",
-      "Novels",
-      "Poems"
-     ],
-     "correct_index": 1,
-     "explanation": "Each has a purpose."
-    },
-    {
-     "question_text": "A report differs from a memo in that a report is:",
-     "options": [
-      "A short note",
-      "A detailed, formal document, while a memo is a short internal communication",
-      "An email",
-      "A letter"
-     ],
-     "correct_index": 1,
-     "explanation": "Memos are brief and routine."
-    },
-    {
-     "question_text": "An executive summary is:",
-     "options": [
-      "The full report",
-      "A short overview of the main points of a report for busy readers",
-      "The index",
-      "The title"
-     ],
-     "correct_index": 1,
-     "explanation": "It appears at the start."
-    },
-    {
-     "question_text": "To read an annual report, you should:",
-     "options": [
-      "Read only the cover",
-      "Skip the financials",
-      "Start with the executive summary and chairman's message, then check financial statements and notes",
-      "Read every word first"
+      "Managers dislike the open plan office more than the staff do",
+      "Everyone in the firm prefers the open plan office to the old one",
+      "Staff and managers disagree about the effects of the open plan office",
+      "The noise has been completely eliminated from the new office"
      ],
      "correct_index": 2,
-     "explanation": "Focus on key sections."
+     "explanation": "Summary."
     },
     {
-     "question_text": "When reading a contract, you should:",
+     "question_text": "\"His argument was cogent: every claim was backed by data, and each step followed logically from the last.\" The word \"cogent\" means:",
      "options": [
-      "Skim only",
-      "Read the first line only",
-      "Read carefully, focusing on obligations, rights, deadlines and penalties",
-      "Ignore terms"
-     ],
-     "correct_index": 2,
-     "explanation": "Terms have legal effect."
-    },
-    {
-     "question_text": "Characteristics of poetry include:",
-     "options": [
-      "Long paragraphs",
-      "Headlines",
-      "Plain facts",
-      "Rhythm, rhyme, imagery and compressed language"
+      "Emotional and loud",
+      "Confusing and illogical",
+      "Brief and incomplete",
+      "Convincing and logically sound"
      ],
      "correct_index": 3,
-     "explanation": "It uses figurative language."
+     "explanation": "Vocabulary."
     },
     {
-     "question_text": "Figurative language includes:",
+     "question_text": "\"Inflation erodes the value of savings; a rupee saved today will buy less tomorrow.\" In this sentence, \"erodes\" most nearly means:",
      "options": [
-      "Facts only",
-      "Simile, metaphor and personification",
-      "Statistics",
-      "Definitions"
+      "Doubles",
+      "Suddenly increases",
+      "Protects",
+      "Gradually reduces"
+     ],
+     "correct_index": 3,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"Despite her initial reservations, Meera accepted the transfer to the Chennai office and thrived there.\" The word \"reservations\" here means:",
+     "options": [
+      "Savings",
+      "Doubts",
+      "Bookings",
+      "Complaints to the court"
      ],
      "correct_index": 1,
-     "explanation": "E.g., \"time is money\"."
+     "explanation": "Context meaning."
     },
     {
-     "question_text": "A feature of persuasive texts is that they:",
+     "question_text": "\"The auditor noted that the firm's records were complete but disorganised; locating a single invoice took hours.\" Which conclusion is valid?",
      "options": [
-      "Use reasons, emotional appeals and a call to action",
-      "Only list facts",
-      "Only narrate",
-      "Only describe"
+      "The records were missing altogether from the files of the firm",
+      "The invoices in the records were found to be forged",
+      "The records existed but were hard to use efficiently",
+      "The auditor praised the filing system followed by the firm"
      ],
-     "correct_index": 0,
-     "explanation": "They aim to convince."
+     "correct_index": 2,
+     "explanation": "Inference."
     },
     {
-     "question_text": "Blogs differ from academic articles in that blogs are:",
+     "question_text": "\"Fast fashion lets shoppers renew their wardrobes cheaply, but it also generates mountains of textile waste.\" The author's attitude to fast fashion is:",
      "options": [
-      "Informal, personal and often opinion-based, while academic articles are formal and cited",
-      "Formal",
-      "Cited",
-      "Peer-reviewed"
+      "Wholly approving, as it benefits all the shoppers and the sellers",
+      "Indifferent, as it does not concern the shoppers or the sellers",
+      "Balanced, noting both an advantage and a drawback of it",
+      "Wholly dismissive, as it has no advantage whatever for anyone"
      ],
-     "correct_index": 0,
-     "explanation": "Blogs are easier to read."
+     "correct_index": 2,
+     "explanation": "Attitude."
     },
     {
-     "question_text": "The difficulty of a text depends on:",
+     "question_text": "\"The decline in the tiger population has been attributed to poaching and loss of habitat.\" In this sentence, \"attributed to\" means:",
      "options": [
-      "Paper type",
-      "Vocabulary, sentence length, structure and subject familiarity",
-      "Page number",
-      "Font colour"
+      "Contradicted by",
+      "Rewarded for",
+      "Compared with",
+      "Explained as being caused by"
+     ],
+     "correct_index": 3,
+     "explanation": "Meaning of phrase."
+    },
+    {
+     "question_text": "\"A start-up may fail not for lack of ideas but for lack of cash.\" The sentence emphasises that:",
+     "options": [
+      "Start-ups never have good ideas.",
+      "Cash shortage is a major cause of start-up failure.",
+      "Ideas are more costly than cash.",
+      "Failure is impossible with enough ideas."
      ],
      "correct_index": 1,
-     "explanation": "Prior knowledge matters."
+     "explanation": "Contrast."
     },
     {
-     "question_text": "A basic reading level differs from an advanced reading level in that basic texts have:",
+     "question_text": "\"The workshop was supposed to teach negotiation, yet most of the time was spent on slides about company history.\" The writer is:",
      "options": [
-      "Complex words",
-      "Longer sentences",
-      "Simple words and sentences, while advanced texts have complex vocabulary and ideas",
-      "Technical terms"
+      "Neutral about the content of the workshop",
+      "Pleased by the history lesson",
+      "Critical of the way the workshop was conducted",
+      "Praising the speaker's teaching skills"
      ],
      "correct_index": 2,
-     "explanation": "Intermediate lies in between."
+     "explanation": "Attitude."
     },
     {
-     "question_text": "The role of vocabulary in comprehension is that:",
+     "question_text": "\"Unlike his predecessor, who relished the limelight, the new chairman avoids public appearances.\" The word \"relished\" means:",
      "options": [
-      "A wide vocabulary makes it easier to understand texts",
-      "Vocabulary is only for writing",
-      "Vocabulary is irrelevant",
-      "Vocabulary hinders reading"
-     ],
-     "correct_index": 0,
-     "explanation": "Unknown words slow understanding."
-    },
-    {
-     "question_text": "Long and complex sentences affect comprehension by:",
-     "options": [
-      "Making it simpler",
-      "Making a text harder to follow",
-      "Having no effect",
-      "Making it shorter"
+      "Feared",
+      "Enjoyed",
+      "Ignored",
+      "Forgot"
      ],
      "correct_index": 1,
-     "explanation": "Short sentences are easier."
+     "explanation": "Vocabulary."
     },
     {
-     "question_text": "Tone is:",
+     "question_text": "\"The flight was cancelled; consequently, over two hundred passengers had to be rebooked.\" The word \"consequently\" shows:",
      "options": [
-      "The volume of the voice",
-      "The topic",
-      "The length of the text",
-      "The author's attitude toward the subject (e.g., formal, humorous, critical, optimistic, sarcastic)"
-     ],
-     "correct_index": 3,
-     "explanation": "It is shown through word choice."
-    },
-    {
-     "question_text": "The author's purpose can be to:",
-     "options": [
-      "Inform, persuade, entertain or describe",
-      "Hide",
-      "Delete",
-      "Close"
+      "Result",
+      "Addition",
+      "Example",
+      "Contrast"
      ],
      "correct_index": 0,
-     "explanation": "Identifying it helps understanding."
+     "explanation": "Logical connector."
     },
     {
-     "question_text": "The tone of \"The proposal is utterly ridiculous and a waste of time\" is:",
+     "question_text": "\"The marketing team's claim that the campaign boosted sales is questionable, as sales had been rising steadily before it began.\" The writer doubts the claim because:",
      "options": [
-      "Critical or scornful",
-      "Neutral",
-      "Admiring",
-      "Joyful"
+      "Sales were already rising before the campaign started.",
+      "Sales fell after the campaign ended.",
+      "The campaign was never actually launched.",
+      "The marketing team has no experience."
      ],
      "correct_index": 0,
-     "explanation": "The words are strongly negative."
+     "explanation": "Critical thinking."
     },
     {
-     "question_text": "The tone of \"We are delighted to announce our new scholarship programme\" is:",
+     "question_text": "\"Most of the passengers on the ferry were tourists; the few locals aboard kept to themselves.\" What does \"kept to themselves\" imply about the locals?",
      "options": [
-      "Critical",
-      "Angry",
-      "Joyful or positive",
-      "Sad"
-     ],
-     "correct_index": 2,
-     "explanation": "\"Delighted\" shows happiness."
-    },
-    {
-     "question_text": "A fact differs from an opinion in that a fact:",
-     "options": [
-      "Is a feeling",
-      "Cannot be verified",
-      "Can be verified, while an opinion is a personal belief",
-      "Is a belief"
-     ],
-     "correct_index": 2,
-     "explanation": "Opinions often use words like \"best\"."
-    },
-    {
-     "question_text": "\"India's financial year starts on 1 April\" is a:",
-     "options": [
-      "Opinion",
-      "Belief",
-      "Fact",
-      "Guess"
-     ],
-     "correct_index": 2,
-     "explanation": "It can be verified."
-    },
-    {
-     "question_text": "\"Online shopping is better than shopping in stores\" is a:",
-     "options": [
-      "Statistic",
-      "Law",
-      "Fact",
-      "Opinion"
+      "They were angry with the tourists.",
+      "They were carrying a lot of luggage.",
+      "They paid higher fares.",
+      "They did not mix with the others."
      ],
      "correct_index": 3,
-     "explanation": "\"Better\" is a judgement."
+     "explanation": "Idiom."
     },
     {
-     "question_text": "\"Water boils at 100 degrees Celsius at sea level\" is a:",
+     "question_text": "\"Remote workers report higher focus at home, but many say they miss the casual conversations that spark new ideas.\" Which idea does this support?",
      "options": [
-      "Opinion",
-      "Belief",
-      "Guess",
-      "Fact"
+      "Office conversations never produce any new ideas for the firm",
+      "Remote work gains focus but loses spontaneous interaction",
+      "Remote workers always prefer to work alone than in a team",
+      "Remote work is better than office work in every respect"
+     ],
+     "correct_index": 1,
+     "explanation": "Trade-off."
+    },
+    {
+     "question_text": "\"The treaty, signed in haste, soon revealed several gaps that both sides had overlooked.\" The word \"overlooked\" means:",
+     "options": [
+      "Rejected",
+      "Praised",
+      "Failed to notice",
+      "Inspected carefully"
+     ],
+     "correct_index": 2,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"She spoke so softly that those at the back of the hall could barely make out her words.\" The sentence tells us that:",
+     "options": [
+      "The speaker could hardly be heard at the back.",
+      "The hall was empty.",
+      "The speaker was shouting at the audience.",
+      "The audience refused to listen."
+     ],
+     "correct_index": 0,
+     "explanation": "Detail."
+    },
+    {
+     "question_text": "\"Savings, like seeds, grow only if they are given time.\" The author uses this comparison to show that:",
+     "options": [
+      "Savings should be spent quickly.",
+      "Patience is necessary for savings to grow.",
+      "Seeds are the best form of savings.",
+      "Time has no effect on savings."
+     ],
+     "correct_index": 1,
+     "explanation": "Analogy."
+    },
+    {
+     "question_text": "\"The report, though long, contains little that is new.\" The word \"though\" indicates:",
+     "options": [
+      "A cause for the length of the report that has been prepared",
+      "A contrast between the length of the report and its originality",
+      "An addition of new ideas to the report that has been prepared",
+      "An example of the originality of the report that is being read"
+     ],
+     "correct_index": 1,
+     "explanation": "Connector."
+    },
+    {
+     "question_text": "\"Having worked through the night, the engineers finally restored power by dawn.\" What can be inferred?",
+     "options": [
+      "Power was restored the previous evening.",
+      "The engineers worked for many hours without a break.",
+      "Power was never restored.",
+      "The engineers refused to work at night."
+     ],
+     "correct_index": 1,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"The court held that the clause was ambiguous and therefore had to be read in favour of the party that had not drafted it.\" \"Ambiguous\" means:",
+     "options": [
+      "Open to more than one interpretation",
+      "Very long and full of difficult technical terms",
+      "Clearly and exactly stated in simple words",
+      "Illegal under the law of contracts of the country"
+     ],
+     "correct_index": 0,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"A leader who takes credit for success but blames others for failure soon loses the trust of the team.\" The main point is that:",
+     "options": [
+      "Teams do not need trust in order to succeed in their work",
+      "A leader's dishonest behaviour destroys the trust of the team",
+      "Failure is always the fault of the leader of the team",
+      "Leaders should never take credit for the success of a project"
+     ],
+     "correct_index": 1,
+     "explanation": "Main point."
+    },
+    {
+     "question_text": "\"Microloans have helped thousands of women start small businesses, although critics note that high interest rates can trap borrowers in debt.\" The word \"although\" introduces:",
+     "options": [
+      "A repetition",
+      "An example of a business",
+      "A cause of the loans",
+      "A contrasting criticism"
      ],
      "correct_index": 3,
-     "explanation": "It is scientifically verifiable."
+     "explanation": "Connector."
+    },
+    {
+     "question_text": "\"The accountant's calm response to the audit query suggested that she had nothing to hide.\" The writer's inference is based on:",
+     "options": [
+      "Her friendship with the auditor",
+      "Her high salary",
+      "Her calm manner",
+      "Her long experience"
+     ],
+     "correct_index": 2,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Visitors are requested to leave their bags at the cloakroom, as large items are not permitted inside the gallery.\" The main purpose of this notice is to:",
+     "options": [
+      "Warn visitors about thieves",
+      "Advertise the cloakroom",
+      "Instruct visitors about a rule",
+      "Sell bags to visitors"
+     ],
+     "correct_index": 2,
+     "explanation": "Purpose."
+    },
+    {
+     "question_text": "\"When prices of onions soared, the government banned exports, to the dismay of farmers who had hoped for better returns.\" The farmers were:",
+     "options": [
+      "Surprised and pleased",
+      "Disappointed",
+      "Delighted",
+      "Indifferent"
+     ],
+     "correct_index": 1,
+     "explanation": "Vocabulary and inference."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 3: Reading Comprehension – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "\"Everyone should invest in mutual funds\" is a:",
+     "question_text": "\"This year's results are a clear improvement on last year's, which were poor.\" The sentence implies that last year's results were:",
      "options": [
-      "Opinion",
-      "Statistic",
-      "Fact",
-      "Law"
-     ],
-     "correct_index": 0,
-     "explanation": "\"Should\" signals a judgement."
-    },
-    {
-     "question_text": "The main idea of a passage is:",
-     "options": [
-      "A minor detail",
-      "The title only",
-      "The central point the author wants to convey, usually found in the topic sentence",
-      "The last word"
+      "Average",
+      "Unknown",
+      "Poor",
+      "Excellent"
      ],
      "correct_index": 2,
-     "explanation": "Look at the first and last sentences."
+     "explanation": "Detail."
     },
     {
-     "question_text": "Supporting details are:",
+     "question_text": "\"The proposal has the merit of simplicity, but it ignores the cost of implementation.\" The word \"merit\" means:",
      "options": [
-      "The main idea",
-      "The title",
-      "Facts, examples and explanations that support the main idea",
-      "The conclusion"
-     ],
-     "correct_index": 2,
-     "explanation": "They develop the main point."
-    },
-    {
-     "question_text": "An inference is:",
-     "options": [
-      "A quote",
-      "A direct statement",
-      "A fact",
-      "A conclusion drawn from clues in the text and prior knowledge"
+      "Fault",
+      "Cost",
+      "Delay",
+      "Advantage"
      ],
      "correct_index": 3,
-     "explanation": "E.g., wet roads suggest recent rain."
+     "explanation": "Vocabulary."
     },
     {
-     "question_text": "From \"Meera checked her watch every minute and kept staring at the door,\" we can infer that she was:",
+     "question_text": "\"Local bakeries have thrived by offering what chain stores cannot: freshly baked bread made to the neighbourhood's taste.\" The reason for the bakeries' success is:",
      "options": [
-      "Happy",
-      "Sleepy",
-      "Anxious or impatient, waiting for someone",
-      "Bored with her watch"
+      "Lower prices than the chain stores",
+      "Larger shops than the chain stores",
+      "Heavy advertising on television",
+      "Personalised products suited to local taste"
+     ],
+     "correct_index": 3,
+     "explanation": "Reason."
+    },
+    {
+     "question_text": "\"The senator's speech, full of statistics yet empty of ideas, left the audience unmoved.\" The senator's speech is described as:",
+     "options": [
+      "Short and witty",
+      "Moving and inspiring",
+      "Full of ideas but short of facts",
+      "Data-rich but lacking in substance"
+     ],
+     "correct_index": 3,
+     "explanation": "Tone/Meaning."
+    },
+    {
+     "question_text": "\"After years of loss, the airline returned to profit, thanks largely to falling fuel prices.\" The airline's return to profit was mainly due to:",
+     "options": [
+      "Higher ticket fares",
+      "New aircraft",
+      "Falling fuel prices",
+      "Fewer passengers"
      ],
      "correct_index": 2,
-     "explanation": "Her actions show impatience."
+     "explanation": "Cause."
     },
     {
-     "question_text": "From \"The streets were empty, shops closed, and the sky was grey and heavy,\" we can infer that:",
+     "question_text": "\"Though the project was delayed, the team's morale remained high.\" This means that:",
      "options": [
-      "It was probably a holiday or a stormy day",
-      "It was summer noon",
-      "It was a festival",
-      "It was a busy market day"
-     ],
-     "correct_index": 0,
-     "explanation": "The details suggest quiet and bad weather."
-    },
-    {
-     "question_text": "From \"The CEO cancelled all meetings and spent the whole evening with the finance team,\" we can infer that:",
-     "options": [
-      "There was an urgent financial issue",
-      "The CEO was bored",
-      "The team was celebrating",
-      "The CEO was on holiday"
-     ],
-     "correct_index": 0,
-     "explanation": "Cancelling meetings suggests urgency."
-    },
-    {
-     "question_text": "\"Reading between the lines\" means:",
-     "options": [
-      "Reading the blank space",
-      "Understanding implied meaning not directly stated",
-      "Reading every line twice",
-      "Reading fast"
+      "The delay caused the team to lose morale.",
+      "The delay did not lower the team's morale.",
+      "The project was completed on time.",
+      "The team had no morale."
      ],
      "correct_index": 1,
-     "explanation": "It is inferential comprehension."
+     "explanation": "Concession."
     },
     {
-     "question_text": "Reference questions ask:",
+     "question_text": "\"The principal praised Asha's initiative in organising the blood donation camp, which drew over 300 donors.\" Which word best describes Asha?",
      "options": [
-      "The author's name",
-      "The page number",
-      "What a pronoun or phrase refers to in the text, e.g., \"What does 'it' refer to?\"",
-      "The font"
+      "Dependent",
+      "Reluctant",
+      "Enterprising",
+      "Careless"
      ],
      "correct_index": 2,
-     "explanation": "They test understanding of links in the text."
+     "explanation": "Characterisation."
     },
     {
-     "question_text": "In \"The manager told the clerk that he would be promoted,\" the pronoun \"he\" most likely refers to:",
+     "question_text": "\"Honesty, according to the CEO, is non-negotiable; employees who falsify data are dismissed without a hearing.\" The word \"non-negotiable\" means:",
      "options": [
-      "The company",
-      "The manager only",
-      "Nobody",
-      "The clerk (though it is ambiguous)"
-     ],
-     "correct_index": 3,
-     "explanation": "The sentence is ambiguous; context decides."
-    },
-    {
-     "question_text": "A True/False/Not Given question asks you to:",
-     "options": [
-      "Guess",
-      "Copy the text",
-      "Decide whether the statement agrees with, contradicts or is not mentioned in the text",
-      "Write a summary"
-     ],
-     "correct_index": 2,
-     "explanation": "\"Not Given\" means there is no information."
-    },
-    {
-     "question_text": "To answer a multiple-choice comprehension question, you should:",
-     "options": [
-      "Always choose the longest option",
-      "Skip the text",
-      "Choose randomly",
-      "Read the question first, find the evidence in the text and eliminate wrong options"
-     ],
-     "correct_index": 3,
-     "explanation": "Check each option against the passage."
-    },
-    {
-     "question_text": "To answer a short-answer question, you should:",
-     "options": [
-      "Give a brief, direct answer based on the text, in your own words",
-      "Copy the whole passage",
-      "Write an essay",
-      "Leave it blank"
-     ],
-     "correct_index": 0,
-     "explanation": "Answer exactly what is asked."
-    },
-    {
-     "question_text": "To write a summary of a passage:",
-     "options": [
-      "Identify the main points and rewrite them concisely in your own words",
-      "Add opinions",
-      "Include all examples",
-      "Copy sentences"
-     ],
-     "correct_index": 0,
-     "explanation": "It should be about one-third of the length."
-    },
-    {
-     "question_text": "A suitable title for a passage should:",
-     "options": [
-      "Be unrelated",
-      "Be very long",
-      "Reflect the main idea and be short and catchy",
-      "Be a detail only"
-     ],
-     "correct_index": 2,
-     "explanation": "It captures the central theme."
-    },
-    {
-     "question_text": "The steps in answering a comprehension passage are:",
-     "options": [
-      "Read the passage, read the questions, locate evidence, answer and check",
-      "Guess",
-      "Skip the passage",
-      "Answer first, then read"
-     ],
-     "correct_index": 0,
-     "explanation": "Read twice if needed."
-    },
-    {
-     "question_text": "From \"Rohan arrived twenty minutes early, reviewed his notes calmly, greeted the receptionist politely, and answered each question with confidence,\" we can infer that Rohan was:",
-     "options": [
-      "Nervous",
-      "Rude",
-      "Late",
-      "Well prepared and confident"
-     ],
-     "correct_index": 3,
-     "explanation": "His actions show preparation."
-    },
-    {
-     "question_text": "\"The company's profit rose by 12% in the third quarter, mainly due to higher exports, although costs also increased by 5%.\" The profit growth was caused by:",
-     "options": [
-      "Higher costs",
-      "Lower profit",
-      "Higher exports",
-      "Lower exports"
-     ],
-     "correct_index": 2,
-     "explanation": "The passage states it directly."
-    },
-    {
-     "question_text": "The main idea of \"Renewable energy, once considered expensive, is now the cheapest source of power in many regions\" is:",
-     "options": [
-      "Renewable energy has become the cheapest power source in many regions",
-      "Power is costly",
-      "Energy is a topic",
-      "Renewable energy is expensive"
-     ],
-     "correct_index": 0,
-     "explanation": "It states the central change."
-    },
-    {
-     "question_text": "\"Anita saved Rs 2,000 every month for five years. She then used the money to start a small tailoring unit.\" This shows that Anita is:",
-     "options": [
-      "Disciplined and enterprising",
-      "Lazy",
-      "Careless",
-      "Wasteful"
-     ],
-     "correct_index": 0,
-     "explanation": "She saved regularly and started a business."
-    },
-    {
-     "question_text": "\"Although the new app was popular, many users complained that it drained their phone batteries.\" The complaint was:",
-     "options": [
-      "The app was costly",
-      "The app drained their phone batteries",
-      "The app was slow",
-      "The app was unpopular"
+      "Easy to change",
+      "Not open to compromise",
+      "Optional",
+      "Unclear"
      ],
      "correct_index": 1,
-     "explanation": "The complaint is the battery drain."
+     "explanation": "Meaning."
     },
     {
-     "question_text": "\"Due to heavy rainfall, the match was postponed to Sunday.\" The match was postponed because of:",
+     "question_text": "\"The scientists were cautiously optimistic about the trial results, noting that larger studies were needed.\" \"Cautiously optimistic\" suggests that the scientists were:",
      "options": [
-      "Injuries",
-      "Poor teams",
-      "Heavy rainfall",
-      "A holiday"
-     ],
-     "correct_index": 2,
-     "explanation": "\"Due to\" signals the cause."
-    },
-    {
-     "question_text": "\"The librarian placed a finger on her lips and glared at the noisy students.\" She wanted them to:",
-     "options": [
-      "Be quiet",
-      "Read aloud",
-      "Leave",
-      "Sing"
+      "Hopeful but careful not to overstate",
+      "Uninterested in the results",
+      "Certain of success",
+      "Pessimistic about the outcome"
      ],
      "correct_index": 0,
-     "explanation": "The gesture means \"silence\"."
+     "explanation": "Tone."
     },
     {
-     "question_text": "In \"Despite repeated warnings, the factory continued to dump waste into the river,\" \"despite\" shows:",
+     "question_text": "\"Prices of vegetables surged after the unseasonal rain destroyed crops in the region.\" The word \"surged\" means:",
      "options": [
-      "Contrast: the action continued against warnings",
-      "Time",
-      "Addition",
-      "Cause"
+      "Rose sharply",
+      "Disappeared",
+      "Remained stable",
+      "Fell slightly"
      ],
      "correct_index": 0,
-     "explanation": "It signals unexpected outcome."
+     "explanation": "Vocabulary."
     },
     {
-     "question_text": "In \"The manager's candid feedback surprised the team,\" \"candid\" means:",
+     "question_text": "\"He apologised profusely for the error, repeating his regret three times.\" The word \"profusely\" means:",
      "options": [
-      "Late",
-      "Honest and frank",
-      "Rude",
-      "Secret"
+      "Reluctantly",
+      "Briefly",
+      "Silently",
+      "In great abundance"
+     ],
+     "correct_index": 3,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"A brand's reputation is built slowly but can be destroyed in a day.\" The sentence expresses the idea that reputation is:",
+     "options": [
+      "Unimportant for brands",
+      "Fragile and takes long to build",
+      "Permanent once built",
+      "Easy to build and hard to destroy"
      ],
      "correct_index": 1,
-     "explanation": "The context suggests directness."
+     "explanation": "Idea."
+    },
+    {
+     "question_text": "\"Banks must keep a portion of deposits in reserve; this ensures that they can meet sudden withdrawals.\" The purpose of the reserve is to:",
+     "options": [
+      "Avoid paying the taxes",
+      "Increase the profits of the banks",
+      "Enable the banks to pay depositors on demand",
+      "Reduce the interest paid on loans"
+     ],
+     "correct_index": 2,
+     "explanation": "Purpose."
+    },
+    {
+     "question_text": "\"The film is a visual treat, but its plot meanders and its dialogue is stilted.\" The reviewer's overall view is:",
+     "options": [
+      "Entirely positive about the film, its plot and its dialogue",
+      "Mixed: praise for the visuals, criticism of the plot and dialogue",
+      "Entirely negative about the film, its visuals and its plot",
+      "Neutral, with no opinion about any part of the film"
+     ],
+     "correct_index": 1,
+     "explanation": "Evaluation."
+    },
+    {
+     "question_text": "\"Many job seekers now prepare for interviews by researching the firm's culture, rather than just its products.\" This shows a shift in:",
+     "options": [
+      "The number of the interviews",
+      "The salaries offered by firms",
+      "The products of the firms",
+      "The focus of the interview preparation"
+     ],
+     "correct_index": 3,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"The new policy encourages employees to learn on the job, rather than relying solely on classroom training.\" The policy favours:",
+     "options": [
+      "Learning through experience",
+      "Training by outside experts only",
+      "Only classroom training",
+      "No training at all"
+     ],
+     "correct_index": 0,
+     "explanation": "Detail."
+    },
+    {
+     "question_text": "\"Trade between the two countries has grown tenfold since the agreement was signed.\" The word \"tenfold\" means:",
+     "options": [
+      "Ten times as much",
+      "Ten times less",
+      "Ten years older",
+      "Ten per cent more"
+     ],
+     "correct_index": 0,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"The CEO denied the allegations but declined to answer further questions.\" What does this suggest?",
+     "options": [
+      "He did not wish to discuss the matter further.",
+      "He was not aware of the allegations.",
+      "He answered all the questions in detail.",
+      "He admitted that the allegations were true."
+     ],
+     "correct_index": 0,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Quality, once lost, is difficult to regain; customers who feel cheated seldom return.\" The writer stresses:",
+     "options": [
+      "The importance of maintaining quality",
+      "The ease of regaining customers",
+      "The irrelevance of quality",
+      "The unimportance of customers"
+     ],
+     "correct_index": 0,
+     "explanation": "Main idea."
+    },
+    {
+     "question_text": "\"As the deadline loomed, the office buzzed with activity.\" The word \"loomed\" here means:",
+     "options": [
+      "Passed",
+      "Approached threateningly",
+      "Was extended",
+      "Was cancelled"
+     ],
+     "correct_index": 1,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"Some economists argue that wages should rise with productivity; others contend that wages depend on market forces alone.\" The passage presents:",
+     "options": [
+      "A proof that the wages of workers are fixed by law",
+      "Only one view on how the wages should be decided",
+      "Two different views on how wages should be decided",
+      "A story about a worker who earns a low wage"
+     ],
+     "correct_index": 2,
+     "explanation": "Structure."
+    },
+    {
+     "question_text": "\"Her presentation was concise: ten slides, twelve minutes, one clear recommendation.\" The word \"concise\" means:",
+     "options": [
+      "Boring",
+      "Long and detailed",
+      "Brief and to the point",
+      "Confusing"
+     ],
+     "correct_index": 2,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"The factory's output has remained stagnant for two years despite heavy investment.\" The word \"stagnant\" means:",
+     "options": [
+      "Hard to measure",
+      "Declining sharply",
+      "Rapidly increasing",
+      "Not growing or changing"
+     ],
+     "correct_index": 3,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"The more transparent the process, the greater the public confidence in it.\" This implies that:",
+     "options": [
+      "Secrecy builds public confidence.",
+      "Transparency builds public confidence.",
+      "Transparency reduces the public's interest.",
+      "Public confidence is unrelated to the process."
+     ],
+     "correct_index": 1,
+     "explanation": "Relationship."
+    },
+    {
+     "question_text": "\"The bank's decision to waive the fee delighted its customers and cost it very little.\" The decision was:",
+     "options": [
+      "Popular with customers but very costly for the bank",
+      "Unpopular with customers but inexpensive for the bank",
+      "Unpopular with customers and costly for the bank",
+      "Popular with customers and inexpensive for the bank"
+     ],
+     "correct_index": 3,
+     "explanation": "Detail."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 3: Reading Comprehension – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The antonym of \"scarce\" in \"Water was abundant during the monsoon, though it was scarce in summer\" is:",
+     "question_text": "\"Even the most diligent worker may make errors when fatigued; hence the rule that shifts must not exceed nine hours.\" The rule on shift length exists because:",
      "options": [
-      "Little",
-      "Short",
-      "Rare",
-      "Abundant"
-     ],
-     "correct_index": 3,
-     "explanation": "The sentence contrasts them."
-    },
-    {
-     "question_text": "\"Break the ice\" in \"He told a joke to break the ice at the meeting\" means:",
-     "options": [
-      "To end the meeting",
-      "To argue",
-      "To destroy ice",
-      "To ease tension and start conversation"
-     ],
-     "correct_index": 3,
-     "explanation": "It is an idiom."
-    },
-    {
-     "question_text": "The phrasal verb \"carry out\" in \"The team will carry out a survey\" means:",
-     "options": [
-      "Remove",
-      "Cancel",
-      "Conduct or perform",
-      "Take outside"
+      "Workers are lazy",
+      "Workers dislike long shifts",
+      "Fatigue increases the chance of errors",
+      "Managers want to save wages"
      ],
      "correct_index": 2,
-     "explanation": "It means to perform a task."
+     "explanation": "Reason."
     },
     {
-     "question_text": "\"Bottom line\" in business reading means:",
+     "question_text": "\"The merger fell through when the two boards could not agree on who would lead the combined firm.\" The merger failed because of:",
      "options": [
-      "The last line of a page",
-      "The cheapest price",
-      "The final outcome, especially net profit or the key conclusion",
-      "The first point"
-     ],
-     "correct_index": 2,
-     "explanation": "It refers to net profit."
-    },
-    {
-     "question_text": "When reading a graph or chart described in a text, you should:",
-     "options": [
-      "Skip the numbers",
-      "Check the title, labels, units and trends before the details",
-      "Read the last line only",
-      "Ignore the labels"
-     ],
-     "correct_index": 1,
-     "explanation": "Look for patterns and comparisons."
-    },
-    {
-     "question_text": "To read an email chain efficiently, you should:",
-     "options": [
-      "Read only the first email",
-      "Ignore the chain",
-      "Start with the latest message and scan earlier ones for context",
-      "Read in random order"
-     ],
-     "correct_index": 2,
-     "explanation": "Check the subject and key actions."
-    },
-    {
-     "question_text": "Reading helps improve writing by:",
-     "options": [
-      "Exposing you to vocabulary, structures and styles",
-      "Reducing vocabulary",
-      "Replacing practice",
-      "Making you write less"
+      "A disagreement over leadership",
+      "An error in the accounts",
+      "A shortage of funds",
+      "A government ban"
      ],
      "correct_index": 0,
-     "explanation": "Good readers learn good models."
+     "explanation": "Cause."
     },
     {
-     "question_text": "The reliability of a source is evaluated by checking:",
+     "question_text": "\"His modesty was remarkable: though he had won three awards, he rarely mentioned them.\" This shows that he was:",
      "options": [
-      "Length",
-      "Colour",
-      "Font",
-      "Author credibility, publication, date, evidence and bias"
-     ],
-     "correct_index": 3,
-     "explanation": "Cross-check with other sources."
-    },
-    {
-     "question_text": "Bias in a text is:",
-     "options": [
-      "One-sided or prejudiced presentation; it can be detected by loaded words and missing viewpoints",
-      "A balanced view",
-      "A fact",
-      "A summary"
-     ],
-     "correct_index": 0,
-     "explanation": "Look for emotional language."
-    },
-    {
-     "question_text": "To read an editorial critically, you should:",
-     "options": [
-      "Accept everything",
-      "Identify the writer's position, evidence and possible bias",
-      "Skip it",
-      "Read the headline only"
+      "Bitter",
+      "Humble",
+      "Boastful",
+      "Careless"
      ],
      "correct_index": 1,
-     "explanation": "Editorials express opinions."
+     "explanation": "Characterisation."
     },
     {
-     "question_text": "When facing an unfamiliar topic in a comprehension passage:",
+     "question_text": "\"For months, rumours of layoffs circulated; when the announcement came, few were surprised.\" Why were few surprised?",
      "options": [
-      "Write about something else",
-      "Guess from memory",
-      "Rely on the text, not on prior knowledge, and use context to answer",
-      "Skip the passage"
-     ],
-     "correct_index": 2,
-     "explanation": "All answers are in the passage."
-    },
-    {
-     "question_text": "Regular reading is important for business students because it:",
-     "options": [
-      "Wastes time",
-      "Is unnecessary",
-      "Builds vocabulary, knowledge and analytical skills",
-      "Reduces knowledge"
-     ],
-     "correct_index": 2,
-     "explanation": "It also keeps them updated."
-    },
-    {
-     "question_text": "\"The shop opens at 9 am and closes at 8 pm, except on Sundays when it stays closed.\" The shop is closed on:",
-     "options": [
-      "Sundays",
-      "Every day",
-      "Mondays",
-      "Saturdays"
-     ],
-     "correct_index": 0,
-     "explanation": "The text states it directly."
-    },
-    {
-     "question_text": "Rs 2 lakh at 10% simple interest for two years gives interest of:",
-     "options": [
-      "Rs 4,000",
-      "Rs 40,000",
-      "Rs 42,000",
-      "Rs 20,000"
+      "The layoffs were cancelled.",
+      "The rumours had prepared them.",
+      "The announcement was about bonuses.",
+      "They had not heard any rumours."
      ],
      "correct_index": 1,
-     "explanation": "2,00,000 × 10% × 2."
+     "explanation": "Inference."
     },
     {
-     "question_text": "\"Our latest model is lighter, faster and cheaper than its predecessor\" is most likely:",
+     "question_text": "\"The museum is free on Sundays; on other days, a nominal fee of Rs 20 is charged.\" The word \"nominal\" means:",
      "options": [
-      "A poem",
-      "An advertisement or product description",
-      "A contract",
-      "A news report"
-     ],
-     "correct_index": 1,
-     "explanation": "It promotes a product."
-    },
-    {
-     "question_text": "The two aims of the new solar subsidy are:",
-     "options": [
-      "To close factories",
-      "To increase pollution and bills",
-      "To raise taxes and bills",
-      "To reduce electricity bills and cut carbon emissions"
-     ],
-     "correct_index": 3,
-     "explanation": "The passage states them."
-    },
-    {
-     "question_text": "\"Few employees attended the training, though it was mandatory\" implies that:",
-     "options": [
-      "Everyone attended",
-      "The training was cancelled",
-      "The training was optional",
-      "Many employees ignored a mandatory requirement"
-     ],
-     "correct_index": 3,
-     "explanation": "\"Few\" suggests low attendance."
-    },
-    {
-     "question_text": "The topic sentence in \"Teamwork improves results. Members share ideas, divide tasks and support each other.\" is:",
-     "options": [
-      "Members share ideas.",
-      "Support each other.",
-      "Teamwork improves results.",
-      "Divide tasks."
-     ],
-     "correct_index": 2,
-     "explanation": "The rest support it."
-    },
-    {
-     "question_text": "Headings and subheadings in a report:",
-     "options": [
-      "Are unnecessary",
-      "Make it longer",
-      "Hide the content",
-      "Show the structure and help readers find information quickly"
-     ],
-     "correct_index": 3,
-     "explanation": "They aid navigation."
-    },
-    {
-     "question_text": "To read a research abstract quickly, you should:",
-     "options": [
-      "Read the title only",
-      "Read every word slowly",
-      "Focus on the purpose, method, findings and conclusion",
-      "Skip it"
-     ],
-     "correct_index": 2,
-     "explanation": "The abstract summarises the study."
-    },
-    {
-     "question_text": "A main idea differs from a topic in that the main idea:",
-     "options": [
-      "Is the point the author makes about the topic, while the topic is the subject",
-      "Is the subject",
-      "Is a word",
-      "Is a title"
+      "Very small",
+      "Variable",
+      "Compulsory",
+      "Very large"
      ],
      "correct_index": 0,
-     "explanation": "Topic: \"teamwork\"; main idea: \"teamwork improves results\"."
+     "explanation": "Vocabulary."
     },
     {
-     "question_text": "Paraphrasing is:",
+     "question_text": "\"We urge all members to attend the annual meeting, where the new budget will be put to the vote.\" The tone of the message is:",
      "options": [
-      "Summarising in one word",
-      "Quoting text",
-      "Restating text in your own words while keeping the meaning, e.g., \"The company is facing money problems\"",
-      "Copying text"
-     ],
-     "correct_index": 2,
-     "explanation": "It avoids plagiarism."
-    },
-    {
-     "question_text": "Signal words in a passage are:",
-     "options": [
-      "Titles",
-      "Page numbers",
-      "Words like \"however\", \"therefore\" and \"for example\" that show relationships between ideas",
-      "Names"
-     ],
-     "correct_index": 2,
-     "explanation": "They help in reading logic."
-    },
-    {
-     "question_text": "The sequence of events in a passage is:",
-     "options": [
-      "The topic",
-      "The title",
-      "The order in which events happen, shown by words like first, then, finally",
-      "The author"
-     ],
-     "correct_index": 2,
-     "explanation": "It matters in narratives and processes."
-    },
-    {
-     "question_text": "Reading aloud helps comprehension by:",
-     "options": [
-      "Skipping words",
-      "Reducing understanding",
-      "Making reading faster",
-      "Slowing down, focusing attention and helping with pronunciation and rhythm"
+      "Sarcastic",
+      "Hostile",
+      "Casual and playful",
+      "Formal and persuasive"
      ],
      "correct_index": 3,
-     "explanation": "It engages listening as well."
+     "explanation": "Tone."
+    },
+    {
+     "question_text": "\"Students who attend the workshop will receive a certificate, provided they complete all the assignments.\" A student who skips the assignments will:",
+     "options": [
+      "Get a prize",
+      "Not get a certificate",
+      "Get a certificate",
+      "Get a refund"
+     ],
+     "correct_index": 1,
+     "explanation": "Condition."
+    },
+    {
+     "question_text": "\"A rise in interest rates makes borrowing costlier and tends to cool the demand for loans.\" The phrase \"cool the demand\" means:",
+     "options": [
+      "Stop the supply",
+      "Change the price of the loans",
+      "Increase the demand",
+      "Reduce the demand"
+     ],
+     "correct_index": 3,
+     "explanation": "Phrase."
+    },
+    {
+     "question_text": "\"The audience, many of whom had travelled hundreds of miles, rose to applaud the singer.\" The sentence indicates that the audience:",
+     "options": [
+      "Was uninterested",
+      "Left early",
+      "Showed great appreciation",
+      "Was disappointed"
+     ],
+     "correct_index": 2,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Gold is often considered a safe haven; when markets tumble, investors flock to it.\" The word \"tumble\" means:",
+     "options": [
+      "Close for the day",
+      "Open for trading",
+      "Rise slowly",
+      "Fall sharply"
+     ],
+     "correct_index": 3,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"The chairman spoke at length about the company's glorious past, but said little about its uncertain future.\" The speech reveals:",
+     "options": [
+      "An emphasis on the past rather than on the future",
+      "A detailed plan for the future of the company",
+      "A wish of the chairman to retire from his post",
+      "A decision to sell the company to a foreign buyer"
+     ],
+     "correct_index": 0,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Not all that glitters is gold, and not every bargain is a good deal.\" The message of the sentence is:",
+     "options": [
+      "Gold is cheap.",
+      "All bargains are good.",
+      "Appearances may be deceptive.",
+      "Deals are never useful."
+     ],
+     "correct_index": 2,
+     "explanation": "Moral."
+    },
+    {
+     "question_text": "\"The shopkeeper was reluctant to lower the price, which he considered fair.\" The word \"reluctant\" means:",
+     "options": [
+      "Unwilling",
+      "Eager",
+      "Forced",
+      "Surprised"
+     ],
+     "correct_index": 0,
+     "explanation": "Vocabulary."
+    },
+    {
+     "question_text": "\"The more she studied the contract, the more loopholes she found.\" The sentence suggests that the contract was:",
+     "options": [
+      "Very short",
+      "Perfect",
+      "Written in code",
+      "Poorly drafted"
+     ],
+     "correct_index": 3,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"The two candidates differ in style but not in substance: both promise lower taxes and more jobs.\" The statement implies that the candidates:",
+     "options": [
+      "Say similar things in different ways",
+      "Speak in exactly the same way",
+      "Have no promises",
+      "Disagree on everything"
+     ],
+     "correct_index": 0,
+     "explanation": "Comparison."
+    },
+    {
+     "question_text": "\"He was promoted not because he was senior but because he was capable.\" The reason for his promotion was his:",
+     "options": [
+      "Popularity",
+      "Capability",
+      "Age",
+      "Seniority"
+     ],
+     "correct_index": 1,
+     "explanation": "Detail."
+    },
+    {
+     "question_text": "\"The firm's slogan — 'Customers first' — rings hollow when complaints go unanswered for weeks.\" The writer suggests that the slogan is:",
+     "options": [
+      "Not supported by the firm's actions",
+      "Too long",
+      "Written in a foreign language",
+      "Always followed by the firm"
+     ],
+     "correct_index": 0,
+     "explanation": "Irony."
+    },
+    {
+     "question_text": "\"The tourists were warned to avoid the beach after dark, as the tide comes in swiftly.\" The reason for the warning is:",
+     "options": [
+      "The beach is closed",
+      "The tide rises quickly",
+      "The beach is too crowded",
+      "Tourists dislike the dark"
+     ],
+     "correct_index": 1,
+     "explanation": "Detail."
+    },
+    {
+     "question_text": "\"Debt, if used wisely, can finance growth; if used carelessly, it can end in ruin.\" The author's view of debt is that it:",
+     "options": [
+      "Is always harmful to the person or firm that borrows",
+      "Is always helpful to the person or firm that borrows",
+      "Is irrelevant to the growth of a person or a firm",
+      "Can be helpful or harmful depending on how it is used"
+     ],
+     "correct_index": 3,
+     "explanation": "Balanced view."
+    },
+    {
+     "question_text": "\"Among the survivors of the shipwreck was a boy of ten, who had clung to a plank for two days.\" What does \"clung to\" mean?",
+     "options": [
+      "Let go of",
+      "Looked at",
+      "Held on tightly",
+      "Pushed away"
+     ],
+     "correct_index": 2,
+     "explanation": "Phrase."
+    },
+    {
+     "question_text": "\"Having grown up in a village, he found the city's constant noise overwhelming.\" The word \"overwhelming\" suggests that the noise was:",
+     "options": [
+      "Pleasant",
+      "Hardly noticeable",
+      "Too much to bear",
+      "Welcome"
+     ],
+     "correct_index": 2,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"Honest feedback, delivered kindly, helps people grow; flattery does not.\" The writer prefers:",
+     "options": [
+      "Flattery",
+      "Criticism without kindness",
+      "Silence",
+      "Honest feedback"
+     ],
+     "correct_index": 3,
+     "explanation": "Preference."
+    },
+    {
+     "question_text": "\"All the exits were blocked by the crowd, leaving the manager no way of leaving the room.\" The manager was:",
+     "options": [
+      "Angry with the crowd",
+      "Late",
+      "Trapped",
+      "Free to leave"
+     ],
+     "correct_index": 2,
+     "explanation": "Inference."
+    },
+    {
+     "question_text": "\"The institute offers scholarships to students of merit, irrespective of income.\" \"Irrespective of income\" means:",
+     "options": [
+      "Only for the students from the rich families",
+      "Only for the students from the poor families",
+      "Depending on the income of the family",
+      "Without considering the income of the family"
+     ],
+     "correct_index": 3,
+     "explanation": "Phrase."
+    },
+    {
+     "question_text": "\"After the controversy, the minister was careful to weigh each word before speaking in public.\" The minister's behaviour shows:",
+     "options": [
+      "Caution",
+      "Anger",
+      "Indifference",
+      "Carelessness"
+     ],
+     "correct_index": 0,
+     "explanation": "Inference."
     }
    ]
   }
