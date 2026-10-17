@@ -1,0 +1,960 @@
+{
+ "flashcards": [
+  {
+   "front": "Bonjour",
+   "back": "Hello / Good morning / Good day (sounds like: bohn-zhoor)"
+  },
+  {
+   "front": "Bonsoir",
+   "back": "Good evening (used after about 6 pm) (sounds like: bohn-swahr)"
+  },
+  {
+   "front": "Bonne nuit",
+   "back": "Good night (when going to bed) (sounds like: bun nwee)"
+  },
+  {
+   "front": "Salut",
+   "back": "Hi / Bye (informal, with friends) (sounds like: sa-lü)"
+  },
+  {
+   "front": "Au revoir",
+   "back": "Goodbye (sounds like: oh ruh-vwahr)"
+  },
+  {
+   "front": "À bientôt",
+   "back": "See you soon (sounds like: ah byan-toh)"
+  },
+  {
+   "front": "À demain",
+   "back": "See you tomorrow (sounds like: ah duh-man)"
+  },
+  {
+   "front": "Merci",
+   "back": "Thank you (sounds like: mehr-see)"
+  },
+  {
+   "front": "Merci beaucoup",
+   "back": "Thank you very much (sounds like: mehr-see boh-koo)"
+  },
+  {
+   "front": "De rien",
+   "back": "You’re welcome (literally “of nothing”) (sounds like: duh ryan)"
+  },
+  {
+   "front": "S’il vous plaît",
+   "back": "Please (formal or to several people) (sounds like: seel voo pleh)"
+  },
+  {
+   "front": "S’il te plaît",
+   "back": "Please (informal, to one friend) (sounds like: seel tuh pleh)"
+  },
+  {
+   "front": "Excusez-moi",
+   "back": "Excuse me (sounds like: ex-kü-zay mwah)"
+  },
+  {
+   "front": "Pardon",
+   "back": "Sorry / Pardon me (sounds like: par-dohn)"
+  },
+  {
+   "front": "Désolé(e)",
+   "back": "I’m sorry (add “e” if you are female) (sounds like: day-zo-lay)"
+  },
+  {
+   "front": "Oui / Non",
+   "back": "Yes / No (sounds like: wee / nohn)"
+  },
+  {
+   "front": "D’accord",
+   "back": "OK / Agreed (sounds like: da-kor)"
+  },
+  {
+   "front": "Comment ça va ?",
+   "back": "How are you? (informal) (sounds like: ko-mohn sa va)"
+  },
+  {
+   "front": "Comment allez-vous ?",
+   "back": "How are you? (formal) (sounds like: ko-mohn ta-lay voo)"
+  },
+  {
+   "front": "Ça va bien",
+   "back": "I’m fine / Things are going well (sounds like: sa va byan)"
+  },
+  {
+   "front": "Pas mal",
+   "back": "Not bad (sounds like: pah mal)"
+  },
+  {
+   "front": "Comme ci, comme ça",
+   "back": "So-so (sounds like: kom see kom sa)"
+  },
+  {
+   "front": "Et vous ? / Et toi ?",
+   "back": "And you? (formal / informal) (sounds like: ay voo / ay twah)"
+  },
+  {
+   "front": "Je m’appelle Manu.",
+   "back": "My name is Manu."
+  },
+  {
+   "front": "Comment tu t’appelles ?",
+   "back": "What is your name? (informal)"
+  },
+  {
+   "front": "Comment vous appelez-vous ?",
+   "back": "What is your name? (formal)"
+  },
+  {
+   "front": "Enchanté(e).",
+   "back": "Nice to meet you."
+  },
+  {
+   "front": "Je suis indien / indienne.",
+   "back": "I am Indian (male / female)."
+  },
+  {
+   "front": "J’habite en Inde.",
+   "back": "I live in India."
+  },
+  {
+   "front": "J’ai trente ans.",
+   "back": "I am thirty years old (literally “I have thirty years”)."
+  },
+  {
+   "front": "Je suis étudiant(e).",
+   "back": "I am a student."
+  },
+  {
+   "front": "Je travaille dans un bureau.",
+   "back": "I work in an office."
+  },
+  {
+   "front": "Je parle hindi et un peu français.",
+   "back": "I speak Hindi and a little French."
+  },
+  {
+   "front": "Je ne comprends pas.",
+   "back": "I don’t understand."
+  },
+  {
+   "front": "Parlez plus lentement, s’il vous plaît.",
+   "back": "Please speak more slowly."
+  },
+  {
+   "front": "Comment dit-on … en français ?",
+   "back": "How do you say … in French?"
+  },
+  {
+   "front": "je (j’)",
+   "back": "I — notes: Not capitalised unless it starts a sentence"
+  },
+  {
+   "front": "tu",
+   "back": "you (one person) — notes: Informal"
+  },
+  {
+   "front": "il",
+   "back": "he / it (masculine)"
+  },
+  {
+   "front": "elle",
+   "back": "she / it (feminine)"
+  },
+  {
+   "front": "on",
+   "back": "one / we / people — notes: Very common in speech for “we”; uses the same verb form as il/elle"
+  },
+  {
+   "front": "nous",
+   "back": "we"
+  },
+  {
+   "front": "vous",
+   "back": "you (formal, or more than one person)"
+  },
+  {
+   "front": "ils",
+   "back": "they (masculine or mixed group)"
+  },
+  {
+   "front": "elles",
+   "back": "they (all feminine)"
+  },
+  {
+   "front": "Je mange du pain.",
+   "back": "I eat (some) bread. Je bois de l’eau. = I drink (some) water."
+  },
+  {
+   "front": "Il y a",
+   "back": "there is / there are (from avoir): Il y a un chat."
+  },
+  {
+   "front": "Take the infinitive (parler",
+   "back": "to speak), remove -er, then add the endings below."
+  },
+  {
+   "front": "parler",
+   "back": "to speak"
+  },
+  {
+   "front": "manger",
+   "back": "to eat"
+  },
+  {
+   "front": "aimer",
+   "back": "to like / love"
+  },
+  {
+   "front": "travailler",
+   "back": "to work"
+  },
+  {
+   "front": "habiter",
+   "back": "to live (reside)"
+  },
+  {
+   "front": "étudier",
+   "back": "to study"
+  },
+  {
+   "front": "regarder",
+   "back": "to watch / look at"
+  },
+  {
+   "front": "écouter",
+   "back": "to listen"
+  },
+  {
+   "front": "chanter",
+   "back": "to sing"
+  },
+  {
+   "front": "danser",
+   "back": "to dance"
+  },
+  {
+   "front": "donner",
+   "back": "to give"
+  },
+  {
+   "front": "chercher",
+   "back": "to look for"
+  },
+  {
+   "front": "jouer",
+   "back": "to play"
+  },
+  {
+   "front": "acheter",
+   "back": "to buy"
+  },
+  {
+   "front": "Je vais à l’école.",
+   "back": "I go to school."
+  },
+  {
+   "front": "Je vais manger.",
+   "back": "I am going to eat (aller + infinitive = near future)."
+  },
+  {
+   "front": "Je veux un café.",
+   "back": "I want a coffee. Je voudrais un café. = I would like a coffee (more polite)."
+  },
+  {
+   "front": "Il fait chaud.",
+   "back": "It is hot (weather uses faire)."
+  },
+  {
+   "front": "ne … pas",
+   "back": "not — example: Il n’est pas ici. (He is not here.)"
+  },
+  {
+   "front": "ne … jamais",
+   "back": "never — example: Je ne mange jamais de viande."
+  },
+  {
+   "front": "ne … rien",
+   "back": "nothing — example: Je ne comprends rien."
+  },
+  {
+   "front": "ne … plus",
+   "back": "no more / no longer — example: Il n’habite plus ici."
+  },
+  {
+   "front": "ne … personne",
+   "back": "nobody — example: Je ne connais personne."
+  },
+  {
+   "front": "qui",
+   "back": "who — example: Qui est-ce ? (Who is it?)"
+  },
+  {
+   "front": "que / qu’est-ce que",
+   "back": "what — example: Qu’est-ce que c’est ? (What is it?)"
+  },
+  {
+   "front": "où",
+   "back": "where — example: Où habites-tu ?"
+  },
+  {
+   "front": "quand",
+   "back": "when — example: Quand partez-vous ?"
+  },
+  {
+   "front": "pourquoi",
+   "back": "why — example: Pourquoi tu pleures ?"
+  },
+  {
+   "front": "parce que",
+   "back": "because — example: Parce que je suis fatigué."
+  },
+  {
+   "front": "comment",
+   "back": "how — example: Comment ça va ?"
+  },
+  {
+   "front": "combien",
+   "back": "how much / how many — example: Combien ça coûte ?"
+  },
+  {
+   "front": "quel / quelle",
+   "back": "which / what — example: Quelle heure est-il ? (What time is it?)"
+  },
+  {
+   "front": "Number 0 in French",
+   "back": "zéro"
+  },
+  {
+   "front": "Number 7 in French",
+   "back": "sept"
+  },
+  {
+   "front": "Number 14 in French",
+   "back": "quatorze"
+  },
+  {
+   "front": "Number 1 in French",
+   "back": "un / une"
+  },
+  {
+   "front": "Number 8 in French",
+   "back": "huit"
+  },
+  {
+   "front": "Number 15 in French",
+   "back": "quinze"
+  },
+  {
+   "front": "Number 2 in French",
+   "back": "deux"
+  },
+  {
+   "front": "Number 9 in French",
+   "back": "neuf"
+  },
+  {
+   "front": "Number 16 in French",
+   "back": "seize"
+  },
+  {
+   "front": "Number 3 in French",
+   "back": "trois"
+  },
+  {
+   "front": "Number 10 in French",
+   "back": "dix"
+  },
+  {
+   "front": "Number 17 in French",
+   "back": "dix-sept"
+  },
+  {
+   "front": "Number 4 in French",
+   "back": "quatre"
+  },
+  {
+   "front": "Number 11 in French",
+   "back": "onze"
+  },
+  {
+   "front": "Number 18 in French",
+   "back": "dix-huit"
+  },
+  {
+   "front": "Number 5 in French",
+   "back": "cinq"
+  },
+  {
+   "front": "Number 12 in French",
+   "back": "douze"
+  },
+  {
+   "front": "Number 19 in French",
+   "back": "dix-neuf"
+  },
+  {
+   "front": "Number 6 in French",
+   "back": "six"
+  },
+  {
+   "front": "Number 13 in French",
+   "back": "treize"
+  },
+  {
+   "front": "Number 20 in French",
+   "back": "vingt"
+  },
+  {
+   "front": "Number 60 in French",
+   "back": "soixante"
+  },
+  {
+   "front": "Number 30 in French",
+   "back": "trente"
+  },
+  {
+   "front": "Number 70 in French",
+   "back": "soixante-dix (60 + 10)"
+  },
+  {
+   "front": "Number 40 in French",
+   "back": "quarante"
+  },
+  {
+   "front": "Number 80 in French",
+   "back": "quatre-vingts (4 × 20)"
+  },
+  {
+   "front": "Number 50 in French",
+   "back": "cinquante"
+  },
+  {
+   "front": "Number 90 in French",
+   "back": "quatre-vingt-dix (4 × 20 + 10)"
+  },
+  {
+   "front": "21 = vingt et un, 22",
+   "back": "vingt-deux, 31 = trente et un, 71 = soixante et onze, 81 ="
+  },
+  {
+   "front": "100",
+   "back": "cent, 200 = deux cents, 1000 = mille, 1,000,000 = un million."
+  },
+  {
+   "front": "lundi",
+   "back": "Monday"
+  },
+  {
+   "front": "janvier",
+   "back": "January"
+  },
+  {
+   "front": "mardi",
+   "back": "Tuesday"
+  },
+  {
+   "front": "février",
+   "back": "February"
+  },
+  {
+   "front": "mercredi",
+   "back": "Wednesday"
+  },
+  {
+   "front": "mars",
+   "back": "March"
+  },
+  {
+   "front": "jeudi",
+   "back": "Thursday"
+  },
+  {
+   "front": "avril",
+   "back": "April"
+  },
+  {
+   "front": "vendredi",
+   "back": "Friday"
+  },
+  {
+   "front": "mai",
+   "back": "May"
+  },
+  {
+   "front": "samedi",
+   "back": "Saturday"
+  },
+  {
+   "front": "juin",
+   "back": "June"
+  },
+  {
+   "front": "dimanche",
+   "back": "Sunday"
+  },
+  {
+   "front": "juillet",
+   "back": "July"
+  },
+  {
+   "front": "août",
+   "back": "August"
+  },
+  {
+   "front": "septembre",
+   "back": "September"
+  },
+  {
+   "front": "octobre",
+   "back": "October"
+  },
+  {
+   "front": "novembre",
+   "back": "November"
+  },
+  {
+   "front": "décembre",
+   "back": "December"
+  },
+  {
+   "front": "Quelle heure est-il ?",
+   "back": "What time is it?"
+  },
+  {
+   "front": "Il est trois heures.",
+   "back": "It is three o’clock. Il est midi = noon. Il est minuit = midnight."
+  },
+  {
+   "front": "et quart",
+   "back": "quarter past; et demie = half past; moins le quart = quarter to."
+  },
+  {
+   "front": "le père / le papa",
+   "back": "father / dad"
+  },
+  {
+   "front": "la mère / la maman",
+   "back": "mother / mom"
+  },
+  {
+   "front": "le frère",
+   "back": "brother"
+  },
+  {
+   "front": "la sœur",
+   "back": "sister"
+  },
+  {
+   "front": "le fils",
+   "back": "son"
+  },
+  {
+   "front": "la fille",
+   "back": "daughter / girl"
+  },
+  {
+   "front": "le grand-père",
+   "back": "grandfather"
+  },
+  {
+   "front": "la grand-mère",
+   "back": "grandmother"
+  },
+  {
+   "front": "l’oncle",
+   "back": "uncle"
+  },
+  {
+   "front": "la tante",
+   "back": "aunt"
+  },
+  {
+   "front": "le mari",
+   "back": "husband"
+  },
+  {
+   "front": "la femme",
+   "back": "wife / woman"
+  },
+  {
+   "front": "l’ami / l’amie",
+   "back": "friend (m. / f.)"
+  },
+  {
+   "front": "l’enfant",
+   "back": "child"
+  },
+  {
+   "front": "rouge",
+   "back": "red"
+  },
+  {
+   "front": "bleu(e)",
+   "back": "blue"
+  },
+  {
+   "front": "vert(e)",
+   "back": "green"
+  },
+  {
+   "front": "jaune",
+   "back": "yellow"
+  },
+  {
+   "front": "noir(e)",
+   "back": "black"
+  },
+  {
+   "front": "blanc / blanche",
+   "back": "white"
+  },
+  {
+   "front": "gris(e)",
+   "back": "grey"
+  },
+  {
+   "front": "orange",
+   "back": "orange"
+  },
+  {
+   "front": "rose",
+   "back": "pink"
+  },
+  {
+   "front": "marron",
+   "back": "brown"
+  },
+  {
+   "front": "l’eau (f.)",
+   "back": "water"
+  },
+  {
+   "front": "le pain",
+   "back": "bread"
+  },
+  {
+   "front": "le lait",
+   "back": "milk"
+  },
+  {
+   "front": "le fromage",
+   "back": "cheese"
+  },
+  {
+   "front": "le café",
+   "back": "coffee"
+  },
+  {
+   "front": "le riz",
+   "back": "rice"
+  },
+  {
+   "front": "le thé",
+   "back": "tea"
+  },
+  {
+   "front": "la viande",
+   "back": "meat"
+  },
+  {
+   "front": "le jus",
+   "back": "juice"
+  },
+  {
+   "front": "le poisson",
+   "back": "fish"
+  },
+  {
+   "front": "la pomme",
+   "back": "apple"
+  },
+  {
+   "front": "l’œuf (m.)",
+   "back": "egg"
+  },
+  {
+   "front": "la banane",
+   "back": "banana"
+  },
+  {
+   "front": "le légume",
+   "back": "vegetable"
+  },
+  {
+   "front": "le petit déjeuner",
+   "back": "breakfast"
+  },
+  {
+   "front": "le déjeuner / le dîner",
+   "back": "lunch / dinner"
+  },
+  {
+   "front": "la maison",
+   "back": "house"
+  },
+  {
+   "front": "l’école (f.)",
+   "back": "school"
+  },
+  {
+   "front": "la ville",
+   "back": "city / town"
+  },
+  {
+   "front": "le bureau",
+   "back": "office / desk"
+  },
+  {
+   "front": "la rue",
+   "back": "street"
+  },
+  {
+   "front": "le magasin",
+   "back": "shop"
+  },
+  {
+   "front": "la gare",
+   "back": "train station"
+  },
+  {
+   "front": "l’hôpital (m.)",
+   "back": "hospital"
+  },
+  {
+   "front": "le livre",
+   "back": "book"
+  },
+  {
+   "front": "le stylo",
+   "back": "pen"
+  },
+  {
+   "front": "la voiture",
+   "back": "car"
+  },
+  {
+   "front": "le téléphone",
+   "back": "phone"
+  },
+  {
+   "front": "l’argent (m.)",
+   "back": "money / silver"
+  },
+  {
+   "front": "le travail",
+   "back": "work"
+  },
+  {
+   "front": "grand (adjective)",
+   "back": "big / tall — feminine: grande"
+  },
+  {
+   "front": "petit (adjective)",
+   "back": "small / short — feminine: petite"
+  },
+  {
+   "front": "bon (adjective)",
+   "back": "good — feminine: bonne"
+  },
+  {
+   "front": "mauvais (adjective)",
+   "back": "bad — feminine: mauvaise"
+  },
+  {
+   "front": "beau (adjective)",
+   "back": "beautiful — feminine: belle"
+  },
+  {
+   "front": "nouveau (adjective)",
+   "back": "new — feminine: nouvelle"
+  },
+  {
+   "front": "vieux (adjective)",
+   "back": "old — feminine: vieille"
+  },
+  {
+   "front": "heureux (adjective)",
+   "back": "happy — feminine: heureuse"
+  },
+  {
+   "front": "intéressant (adjective)",
+   "back": "interesting — feminine: intéressante"
+  },
+  {
+   "front": "facile (adjective)",
+   "back": "easy — feminine: facile"
+  },
+  {
+   "front": "difficile (adjective)",
+   "back": "difficult — feminine: difficile"
+  },
+  {
+   "front": "French for \"my\"",
+   "back": "masculine: mon; feminine: ma; plural: mes"
+  },
+  {
+   "front": "French for \"your (tu)\"",
+   "back": "masculine: ton; feminine: ta; plural: tes"
+  },
+  {
+   "front": "French for \"his / her / its\"",
+   "back": "masculine: son; feminine: sa; plural: ses"
+  },
+  {
+   "front": "French for \"our\"",
+   "back": "masculine: notre; feminine: notre; plural: nos"
+  },
+  {
+   "front": "French for \"your (vous)\"",
+   "back": "masculine: votre; feminine: votre; plural: vos"
+  },
+  {
+   "front": "French for \"their\"",
+   "back": "masculine: leur; feminine: leur; plural: leurs"
+  },
+  {
+   "front": "et",
+   "back": "and"
+  },
+  {
+   "front": "ou",
+   "back": "or"
+  },
+  {
+   "front": "mais",
+   "back": "but"
+  },
+  {
+   "front": "donc",
+   "back": "so / therefore"
+  },
+  {
+   "front": "avec",
+   "back": "with"
+  },
+  {
+   "front": "sans",
+   "back": "without"
+  },
+  {
+   "front": "dans",
+   "back": "in / inside"
+  },
+  {
+   "front": "sur",
+   "back": "on"
+  },
+  {
+   "front": "sous",
+   "back": "under"
+  },
+  {
+   "front": "devant / derrière",
+   "back": "in front of / behind"
+  },
+  {
+   "front": "à",
+   "back": "at / to / in"
+  },
+  {
+   "front": "de (d’)",
+   "back": "of / from"
+  },
+  {
+   "front": "en",
+   "back": "in / by / to (countries)"
+  },
+  {
+   "front": "pour",
+   "back": "for"
+  },
+  {
+   "front": "chez",
+   "back": "at the home of"
+  },
+  {
+   "front": "ici / là",
+   "back": "here / there"
+  },
+  {
+   "front": "très",
+   "back": "very"
+  },
+  {
+   "front": "trop",
+   "back": "too much"
+  },
+  {
+   "front": "beaucoup",
+   "back": "a lot"
+  },
+  {
+   "front": "un peu",
+   "back": "a little"
+  },
+  {
+   "front": "aussi",
+   "back": "also / too"
+  },
+  {
+   "front": "toujours",
+   "back": "always"
+  },
+  {
+   "front": "souvent",
+   "back": "often"
+  },
+  {
+   "front": "parfois",
+   "back": "sometimes"
+  },
+  {
+   "front": "pas du tout",
+   "back": "not at all"
+  },
+  {
+   "front": "peut-être",
+   "back": "maybe"
+  },
+  {
+   "front": "à + le",
+   "back": "au, à + les = aux: Je vais au marché. (I go to the market.)"
+  },
+  {
+   "front": "de + le",
+   "back": "du, de + les = des: le livre du professeur (the teacher’s book)."
+  },
+  {
+   "front": "Je voudrais …",
+   "back": "I would like …"
+  },
+  {
+   "front": "Où est la gare ?",
+   "back": "Where is the station?"
+  },
+  {
+   "front": "Combien ça coûte ?",
+   "back": "How much does it cost?"
+  },
+  {
+   "front": "L’addition, s’il vous plaît.",
+   "back": "The bill, please."
+  },
+  {
+   "front": "Je ne sais pas.",
+   "back": "I don’t know."
+  },
+  {
+   "front": "Pouvez-vous m’aider ?",
+   "back": "Can you help me?"
+  },
+  {
+   "front": "Parlez-vous anglais ?",
+   "back": "Do you speak English?"
+  },
+  {
+   "front": "Répétez, s’il vous plaît.",
+   "back": "Please repeat."
+  }
+ ]
+}

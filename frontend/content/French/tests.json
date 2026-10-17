@@ -1,0 +1,1306 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: French for Beginners – Full Test",
+   "duration_minutes": 40,
+   "questions": [
+    {
+     "question_text": "What does “Bonjour” mean?",
+     "options": [
+      "Hello / Good day",
+      "Goodbye",
+      "Thank you",
+      "Please"
+     ],
+     "correct_index": 0,
+     "explanation": "Bonjour is the standard daytime greeting."
+    },
+    {
+     "question_text": "Which phrase means “Goodbye”?",
+     "options": [
+      "Bonsoir",
+      "Au revoir",
+      "Enchanté",
+      "De rien"
+     ],
+     "correct_index": 1,
+     "explanation": "Au revoir is goodbye. Bonsoir is good evening."
+    },
+    {
+     "question_text": "How do you say “Please” politely to a stranger?",
+     "options": [
+      "S’il vous plaît",
+      "Salut",
+      "Pardon",
+      "Merci beaucoup"
+     ],
+     "correct_index": 0,
+     "explanation": "S’il vous plaît is the formal “please”. S’il te plaît is informal."
+    },
+    {
+     "question_text": "“De rien” is a reply to which word?",
+     "options": [
+      "Pardon",
+      "Oui",
+      "Merci",
+      "Bonjour"
+     ],
+     "correct_index": 2,
+     "explanation": "De rien means “you’re welcome” (literally “of nothing”)."
+    },
+    {
+     "question_text": "When do you say “Enchanté(e)”?",
+     "options": [
+      "When leaving",
+      "When ordering food",
+      "When meeting someone",
+      "When apologising"
+     ],
+     "correct_index": 2,
+     "explanation": "Enchanté(e) means “nice to meet you”."
+    },
+    {
+     "question_text": "Which is a good reply to “Comment ça va ?”",
+     "options": [
+      "Au revoir.",
+      "Je m’appelle Paul.",
+      "J’ai dix ans.",
+      "Ça va bien, merci."
+     ],
+     "correct_index": 3,
+     "explanation": "Comment ça va? asks “How are you?”. Ça va bien means “I’m fine”."
+    },
+    {
+     "question_text": "Which greeting is used in the evening?",
+     "options": [
+      "Bonjour",
+      "Bonsoir",
+      "Salut",
+      "Bonne chance"
+     ],
+     "correct_index": 1,
+     "explanation": "Bonsoir = good evening."
+    },
+    {
+     "question_text": "Which means “Excuse me”?",
+     "options": [
+      "De rien",
+      "Bonne nuit",
+      "À demain",
+      "Excusez-moi"
+     ],
+     "correct_index": 3,
+     "explanation": "Excusez-moi is used to get attention or politely interrupt."
+    },
+    {
+     "question_text": "The letter “h” in French is usually…",
+     "options": [
+      "Pronounced like English “h”",
+      "Pronounced “sh”",
+      "Pronounced “k”",
+      "Silent"
+     ],
+     "correct_index": 3,
+     "explanation": "H is silent in French: hôtel sounds like “oh-tel”."
+    },
+    {
+     "question_text": "What does “ç” (c with cedilla) sound like?",
+     "options": [
+      "“ch” as in chair",
+      "“s”",
+      "“sh”",
+      "“k”"
+     ],
+     "correct_index": 1,
+     "explanation": "The cedilla makes c soft: français."
+    },
+    {
+     "question_text": "How is “ou” pronounced in “vous”?",
+     "options": [
+      "Like “oo” in food",
+      "Like “oh”",
+      "Like “ow” in cow",
+      "Like “uh”"
+     ],
+     "correct_index": 0,
+     "explanation": "ou = “oo”."
+    },
+    {
+     "question_text": "Is the final “t” in “petit” pronounced?",
+     "options": [
+      "It sounds like “d”",
+      "No, it is silent",
+      "Only before a vowel in every case",
+      "Yes, always"
+     ],
+     "correct_index": 1,
+     "explanation": "Most final consonants are silent."
+    },
+    {
+     "question_text": "How is “oi” pronounced in “moi”?",
+     "options": [
+      "“ee”",
+      "“wah”",
+      "“oy”",
+      "“oh-ee”"
+     ],
+     "correct_index": 1,
+     "explanation": "oi = “wah”: moi sounds like “mwah”."
+    },
+    {
+     "question_text": "What does “ch” sound like in “chat”?",
+     "options": [
+      "“zh”",
+      "“ch” as in chair",
+      "“k”",
+      "“sh”"
+     ],
+     "correct_index": 3,
+     "explanation": "ch = “sh”."
+    },
+    {
+     "question_text": "The accent mark in “é” is called…",
+     "options": [
+      "accent grave",
+      "accent aigu",
+      "cédille",
+      "tréma"
+     ],
+     "correct_index": 1,
+     "explanation": "é = accent aigu, è = accent grave."
+    },
+    {
+     "question_text": "What is “liaison”?",
+     "options": [
+      "Rolling the r",
+      "Pronouncing a normally silent final consonant before a vowel",
+      "Dropping a vowel before another vowel",
+      "Adding an accent to a letter"
+     ],
+     "correct_index": 1,
+     "explanation": "Example: vous avez sounds like “voo-zah-vay”."
+    },
+    {
+     "question_text": "“Nous” means…",
+     "options": [
+      "you (formal)",
+      "I",
+      "we",
+      "they"
+     ],
+     "correct_index": 2,
+     "explanation": "Nous = we."
+    },
+    {
+     "question_text": "When do you use “vous”?",
+     "options": [
+      "Only for children",
+      "Only for “they”",
+      "Only for one close friend",
+      "For one person formally, or for several people"
+     ],
+     "correct_index": 3,
+     "explanation": "Vous is formal singular and all plural “you”."
+    },
+    {
+     "question_text": "Je ___ étudiant. (être)",
+     "options": [
+      "sommes",
+      "suis",
+      "es",
+      "est"
+     ],
+     "correct_index": 1,
+     "explanation": "je suis = I am."
+    },
+    {
+     "question_text": "Elle ___ une sœur. (avoir)",
+     "options": [
+      "as",
+      "ont",
+      "ai",
+      "a"
+     ],
+     "correct_index": 3,
+     "explanation": "elle a = she has."
+    },
+    {
+     "question_text": "Nous ___ français. (parler)",
+     "options": [
+      "parle",
+      "parlent",
+      "parlons",
+      "parlez"
+     ],
+     "correct_index": 2,
+     "explanation": "nous + -ons: nous parlons."
+    },
+    {
+     "question_text": "Ils ___ contents. (être)",
+     "options": [
+      "sont",
+      "êtes",
+      "est",
+      "sommes"
+     ],
+     "correct_index": 0,
+     "explanation": "ils sont = they are."
+    },
+    {
+     "question_text": "Vous ___ un livre. (avoir)",
+     "options": [
+      "avons",
+      "ont",
+      "avez",
+      "as"
+     ],
+     "correct_index": 2,
+     "explanation": "vous avez = you have."
+    },
+    {
+     "question_text": "Tu ___ à l’école. (aller)",
+     "options": [
+      "allons",
+      "vas",
+      "vais",
+      "va"
+     ],
+     "correct_index": 1,
+     "explanation": "tu vas = you go."
+    },
+    {
+     "question_text": "What does “Je m’appelle Sam” literally mean?",
+     "options": [
+      "I like Sam",
+      "I call myself Sam",
+      "I am Sam’s friend",
+      "I have Sam"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the normal way to say “My name is Sam”."
+    },
+    {
+     "question_text": "How do you say “I am 20 years old”?",
+     "options": [
+      "Je suis vingt ans",
+      "Je vais vingt ans",
+      "J’ai vingt ans",
+      "Je fais vingt ans"
+     ],
+     "correct_index": 2,
+     "explanation": "French uses avoir (to have) for age."
+    },
+    {
+     "question_text": "Which is the masculine “the”?",
+     "options": [
+      "une",
+      "le",
+      "les",
+      "la"
+     ],
+     "correct_index": 1,
+     "explanation": "le = the (masculine), la = the (feminine)."
+    },
+    {
+     "question_text": "Which article goes with “école” (school)?",
+     "options": [
+      "les",
+      "le",
+      "un",
+      "l’"
+     ],
+     "correct_index": 3,
+     "explanation": "Before a vowel, le/la become l’: l’école."
+    },
+    {
+     "question_text": "Choose the plural of “un livre”.",
+     "options": [
+      "un livres",
+      "les livre",
+      "des livres",
+      "des livre"
+     ],
+     "correct_index": 2,
+     "explanation": "un → des, and add -s to the noun."
+    },
+    {
+     "question_text": "Which means “a house” (feminine noun)?",
+     "options": [
+      "un maison",
+      "une maison",
+      "le maison",
+      "des maison"
+     ],
+     "correct_index": 1,
+     "explanation": "maison is feminine, so une."
+    },
+    {
+     "question_text": "Je bois ___ eau. (some water)",
+     "options": [
+      "de l’",
+      "de la",
+      "des",
+      "du"
+     ],
+     "correct_index": 0,
+     "explanation": "Partitive before a vowel: de l’eau."
+    },
+    {
+     "question_text": "Plural of “un gâteau”?",
+     "options": [
+      "des gâteaues",
+      "des gâteau",
+      "des gâteaus",
+      "des gâteaux"
+     ],
+     "correct_index": 3,
+     "explanation": "Nouns ending in -eau take -x."
+    },
+    {
+     "question_text": "Plural of “un journal”?",
+     "options": [
+      "des journales",
+      "des journal",
+      "des journaux",
+      "des journals"
+     ],
+     "correct_index": 2,
+     "explanation": "Most -al nouns become -aux."
+    },
+    {
+     "question_text": "Which sentence means “I don’t have a brother”?",
+     "options": [
+      "Je n’ai pas un frère.",
+      "Je pas ai frère.",
+      "Je n’ai pas de frère.",
+      "Je ne suis pas frère."
+     ],
+     "correct_index": 2,
+     "explanation": "After a negative, un/une/des become de."
+    },
+    {
+     "question_text": "“Trois” is…",
+     "options": [
+      "13",
+      "3",
+      "30",
+      "4"
+     ],
+     "correct_index": 1,
+     "explanation": "trois = 3."
+    },
+    {
+     "question_text": "How do you say 10?",
+     "options": [
+      "deux",
+      "six",
+      "sept",
+      "dix"
+     ],
+     "correct_index": 3,
+     "explanation": "dix = 10."
+    },
+    {
+     "question_text": "How do you say 20?",
+     "options": [
+      "quinze",
+      "vingt",
+      "trente",
+      "douze"
+     ],
+     "correct_index": 1,
+     "explanation": "vingt = 20."
+    },
+    {
+     "question_text": "What is 70 in standard French?",
+     "options": [
+      "soixante-dix",
+      "cinquante",
+      "septante",
+      "quatre-vingts"
+     ],
+     "correct_index": 0,
+     "explanation": "70 = 60 + 10. Septante is used in Belgium and Switzerland."
+    },
+    {
+     "question_text": "What is 80 in French?",
+     "options": [
+      "huitante",
+      "soixante-dix",
+      "quatre-vingt-dix",
+      "quatre-vingts"
+     ],
+     "correct_index": 3,
+     "explanation": "80 = 4 × 20."
+    },
+    {
+     "question_text": "“Cinq” is…",
+     "options": [
+      "50",
+      "5",
+      "15",
+      "6"
+     ],
+     "correct_index": 1,
+     "explanation": "cinq = 5, cinquante = 50."
+    },
+    {
+     "question_text": "What is 21 in French?",
+     "options": [
+      "vingt-une-et",
+      "vingt-un",
+      "deux-vingt",
+      "vingt et un"
+     ],
+     "correct_index": 3,
+     "explanation": "21, 31, 41, 51, 61 and 71 use “et un”."
+    },
+    {
+     "question_text": "“Lundi” is…",
+     "options": [
+      "Monday",
+      "Sunday",
+      "Friday",
+      "Tuesday"
+     ],
+     "correct_index": 0,
+     "explanation": "lundi = Monday."
+    },
+    {
+     "question_text": "“Rouge” means…",
+     "options": [
+      "red",
+      "yellow",
+      "blue",
+      "green"
+     ],
+     "correct_index": 0,
+     "explanation": "rouge = red."
+    },
+    {
+     "question_text": "“Le pain” means…",
+     "options": [
+      "milk",
+      "bread",
+      "rice",
+      "water"
+     ],
+     "correct_index": 1,
+     "explanation": "pain = bread."
+    },
+    {
+     "question_text": "“Le frère” means…",
+     "options": [
+      "uncle",
+      "brother",
+      "son",
+      "father"
+     ],
+     "correct_index": 1,
+     "explanation": "frère = brother."
+    },
+    {
+     "question_text": "“L’eau” means…",
+     "options": [
+      "tea",
+      "water",
+      "milk",
+      "egg"
+     ],
+     "correct_index": 1,
+     "explanation": "eau = water."
+    },
+    {
+     "question_text": "“Janvier” is which month?",
+     "options": [
+      "March",
+      "January",
+      "July",
+      "June"
+     ],
+     "correct_index": 1,
+     "explanation": "janvier = January."
+    },
+    {
+     "question_text": "“La voiture” means…",
+     "options": [
+      "the house",
+      "the car",
+      "the street",
+      "the phone"
+     ],
+     "correct_index": 1,
+     "explanation": "voiture = car."
+    },
+    {
+     "question_text": "“Demain” means…",
+     "options": [
+      "yesterday",
+      "today",
+      "tomorrow",
+      "now"
+     ],
+     "correct_index": 2,
+     "explanation": "demain = tomorrow, hier = yesterday."
+    },
+    {
+     "question_text": "“Est-ce que” is used to…",
+     "options": [
+      "Show possession",
+      "Make a sentence negative",
+      "Say “because”",
+      "Turn a statement into a yes/no question"
+     ],
+     "correct_index": 3,
+     "explanation": "Est-ce que tu parles français ? = Do you speak French?"
+    },
+    {
+     "question_text": "“Où” means…",
+     "options": [
+      "where",
+      "why",
+      "who",
+      "when"
+     ],
+     "correct_index": 0,
+     "explanation": "où = where."
+    },
+    {
+     "question_text": "“Pourquoi” means…",
+     "options": [
+      "why",
+      "what",
+      "how",
+      "which"
+     ],
+     "correct_index": 0,
+     "explanation": "pourquoi = why, parce que = because."
+    },
+    {
+     "question_text": "What is the feminine of “grand”?",
+     "options": [
+      "grand",
+      "grande",
+      "grande-e",
+      "grandes"
+     ],
+     "correct_index": 1,
+     "explanation": "Add -e for most feminine adjectives."
+    },
+    {
+     "question_text": "“My” before a feminine noun like “sœur” is…",
+     "options": [
+      "mon",
+      "mes",
+      "mien",
+      "ma"
+     ],
+     "correct_index": 3,
+     "explanation": "ma sœur. Use mon before feminine nouns starting with a vowel: mon amie."
+    },
+    {
+     "question_text": "“Il y a” means…",
+     "options": [
+      "he has",
+      "there is / there are",
+      "it is",
+      "he goes"
+     ],
+     "correct_index": 1,
+     "explanation": "Il y a un chat = There is a cat."
+    },
+    {
+     "question_text": "“Je ne parle pas anglais” means…",
+     "options": [
+      "I speak English well",
+      "I never speak",
+      "I do not speak English",
+      "I speak only English"
+     ],
+     "correct_index": 2,
+     "explanation": "ne … pas wraps the verb."
+    },
+    {
+     "question_text": "“Au” is a contraction of…",
+     "options": [
+      "à + la",
+      "de + le",
+      "de + les",
+      "à + le"
+     ],
+     "correct_index": 3,
+     "explanation": "à + le = au: Je vais au marché."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Greetings",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "What does “Bonjour” mean?",
+     "options": [
+      "Hello / Good day",
+      "Goodbye",
+      "Thank you",
+      "Please"
+     ],
+     "correct_index": 0,
+     "explanation": "Bonjour is the standard daytime greeting."
+    },
+    {
+     "question_text": "Which phrase means “Goodbye”?",
+     "options": [
+      "Bonsoir",
+      "Au revoir",
+      "Enchanté",
+      "De rien"
+     ],
+     "correct_index": 1,
+     "explanation": "Au revoir is goodbye. Bonsoir is good evening."
+    },
+    {
+     "question_text": "How do you say “Please” politely to a stranger?",
+     "options": [
+      "S’il vous plaît",
+      "Salut",
+      "Pardon",
+      "Merci beaucoup"
+     ],
+     "correct_index": 0,
+     "explanation": "S’il vous plaît is the formal “please”. S’il te plaît is informal."
+    },
+    {
+     "question_text": "“De rien” is a reply to which word?",
+     "options": [
+      "Pardon",
+      "Oui",
+      "Merci",
+      "Bonjour"
+     ],
+     "correct_index": 2,
+     "explanation": "De rien means “you’re welcome” (literally “of nothing”)."
+    },
+    {
+     "question_text": "When do you say “Enchanté(e)”?",
+     "options": [
+      "When leaving",
+      "When ordering food",
+      "When meeting someone",
+      "When apologising"
+     ],
+     "correct_index": 2,
+     "explanation": "Enchanté(e) means “nice to meet you”."
+    },
+    {
+     "question_text": "Which is a good reply to “Comment ça va ?”",
+     "options": [
+      "Au revoir.",
+      "Je m’appelle Paul.",
+      "J’ai dix ans.",
+      "Ça va bien, merci."
+     ],
+     "correct_index": 3,
+     "explanation": "Comment ça va? asks “How are you?”. Ça va bien means “I’m fine”."
+    },
+    {
+     "question_text": "Which greeting is used in the evening?",
+     "options": [
+      "Bonjour",
+      "Bonsoir",
+      "Salut",
+      "Bonne chance"
+     ],
+     "correct_index": 1,
+     "explanation": "Bonsoir = good evening."
+    },
+    {
+     "question_text": "Which means “Excuse me”?",
+     "options": [
+      "De rien",
+      "Bonne nuit",
+      "À demain",
+      "Excusez-moi"
+     ],
+     "correct_index": 3,
+     "explanation": "Excusez-moi is used to get attention or politely interrupt."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Sounds",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "The letter “h” in French is usually…",
+     "options": [
+      "Pronounced like English “h”",
+      "Pronounced “sh”",
+      "Pronounced “k”",
+      "Silent"
+     ],
+     "correct_index": 3,
+     "explanation": "H is silent in French: hôtel sounds like “oh-tel”."
+    },
+    {
+     "question_text": "What does “ç” (c with cedilla) sound like?",
+     "options": [
+      "“ch” as in chair",
+      "“s”",
+      "“sh”",
+      "“k”"
+     ],
+     "correct_index": 1,
+     "explanation": "The cedilla makes c soft: français."
+    },
+    {
+     "question_text": "How is “ou” pronounced in “vous”?",
+     "options": [
+      "Like “oo” in food",
+      "Like “oh”",
+      "Like “ow” in cow",
+      "Like “uh”"
+     ],
+     "correct_index": 0,
+     "explanation": "ou = “oo”."
+    },
+    {
+     "question_text": "Is the final “t” in “petit” pronounced?",
+     "options": [
+      "It sounds like “d”",
+      "No, it is silent",
+      "Only before a vowel in every case",
+      "Yes, always"
+     ],
+     "correct_index": 1,
+     "explanation": "Most final consonants are silent."
+    },
+    {
+     "question_text": "How is “oi” pronounced in “moi”?",
+     "options": [
+      "“ee”",
+      "“wah”",
+      "“oy”",
+      "“oh-ee”"
+     ],
+     "correct_index": 1,
+     "explanation": "oi = “wah”: moi sounds like “mwah”."
+    },
+    {
+     "question_text": "What does “ch” sound like in “chat”?",
+     "options": [
+      "“zh”",
+      "“ch” as in chair",
+      "“k”",
+      "“sh”"
+     ],
+     "correct_index": 3,
+     "explanation": "ch = “sh”."
+    },
+    {
+     "question_text": "The accent mark in “é” is called…",
+     "options": [
+      "accent grave",
+      "accent aigu",
+      "cédille",
+      "tréma"
+     ],
+     "correct_index": 1,
+     "explanation": "é = accent aigu, è = accent grave."
+    },
+    {
+     "question_text": "What is “liaison”?",
+     "options": [
+      "Rolling the r",
+      "Pronouncing a normally silent final consonant before a vowel",
+      "Dropping a vowel before another vowel",
+      "Adding an accent to a letter"
+     ],
+     "correct_index": 1,
+     "explanation": "Example: vous avez sounds like “voo-zah-vay”."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Pronouns and verbs",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "“Nous” means…",
+     "options": [
+      "you (formal)",
+      "I",
+      "we",
+      "they"
+     ],
+     "correct_index": 2,
+     "explanation": "Nous = we."
+    },
+    {
+     "question_text": "When do you use “vous”?",
+     "options": [
+      "Only for children",
+      "Only for “they”",
+      "Only for one close friend",
+      "For one person formally, or for several people"
+     ],
+     "correct_index": 3,
+     "explanation": "Vous is formal singular and all plural “you”."
+    },
+    {
+     "question_text": "Je ___ étudiant. (être)",
+     "options": [
+      "sommes",
+      "suis",
+      "es",
+      "est"
+     ],
+     "correct_index": 1,
+     "explanation": "je suis = I am."
+    },
+    {
+     "question_text": "Elle ___ une sœur. (avoir)",
+     "options": [
+      "as",
+      "ont",
+      "ai",
+      "a"
+     ],
+     "correct_index": 3,
+     "explanation": "elle a = she has."
+    },
+    {
+     "question_text": "Nous ___ français. (parler)",
+     "options": [
+      "parle",
+      "parlent",
+      "parlons",
+      "parlez"
+     ],
+     "correct_index": 2,
+     "explanation": "nous + -ons: nous parlons."
+    },
+    {
+     "question_text": "Ils ___ contents. (être)",
+     "options": [
+      "sont",
+      "êtes",
+      "est",
+      "sommes"
+     ],
+     "correct_index": 0,
+     "explanation": "ils sont = they are."
+    },
+    {
+     "question_text": "Vous ___ un livre. (avoir)",
+     "options": [
+      "avons",
+      "ont",
+      "avez",
+      "as"
+     ],
+     "correct_index": 2,
+     "explanation": "vous avez = you have."
+    },
+    {
+     "question_text": "Tu ___ à l’école. (aller)",
+     "options": [
+      "allons",
+      "vas",
+      "vais",
+      "va"
+     ],
+     "correct_index": 1,
+     "explanation": "tu vas = you go."
+    },
+    {
+     "question_text": "What does “Je m’appelle Sam” literally mean?",
+     "options": [
+      "I like Sam",
+      "I call myself Sam",
+      "I am Sam’s friend",
+      "I have Sam"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the normal way to say “My name is Sam”."
+    },
+    {
+     "question_text": "How do you say “I am 20 years old”?",
+     "options": [
+      "Je suis vingt ans",
+      "Je vais vingt ans",
+      "J’ai vingt ans",
+      "Je fais vingt ans"
+     ],
+     "correct_index": 2,
+     "explanation": "French uses avoir (to have) for age."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Nouns and articles",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "Which is the masculine “the”?",
+     "options": [
+      "une",
+      "le",
+      "les",
+      "la"
+     ],
+     "correct_index": 1,
+     "explanation": "le = the (masculine), la = the (feminine)."
+    },
+    {
+     "question_text": "Which article goes with “école” (school)?",
+     "options": [
+      "les",
+      "le",
+      "un",
+      "l’"
+     ],
+     "correct_index": 3,
+     "explanation": "Before a vowel, le/la become l’: l’école."
+    },
+    {
+     "question_text": "Choose the plural of “un livre”.",
+     "options": [
+      "un livres",
+      "les livre",
+      "des livres",
+      "des livre"
+     ],
+     "correct_index": 2,
+     "explanation": "un → des, and add -s to the noun."
+    },
+    {
+     "question_text": "Which means “a house” (feminine noun)?",
+     "options": [
+      "un maison",
+      "une maison",
+      "le maison",
+      "des maison"
+     ],
+     "correct_index": 1,
+     "explanation": "maison is feminine, so une."
+    },
+    {
+     "question_text": "Je bois ___ eau. (some water)",
+     "options": [
+      "de l’",
+      "de la",
+      "des",
+      "du"
+     ],
+     "correct_index": 0,
+     "explanation": "Partitive before a vowel: de l’eau."
+    },
+    {
+     "question_text": "Plural of “un gâteau”?",
+     "options": [
+      "des gâteaues",
+      "des gâteau",
+      "des gâteaus",
+      "des gâteaux"
+     ],
+     "correct_index": 3,
+     "explanation": "Nouns ending in -eau take -x."
+    },
+    {
+     "question_text": "Plural of “un journal”?",
+     "options": [
+      "des journales",
+      "des journal",
+      "des journaux",
+      "des journals"
+     ],
+     "correct_index": 2,
+     "explanation": "Most -al nouns become -aux."
+    },
+    {
+     "question_text": "Which sentence means “I don’t have a brother”?",
+     "options": [
+      "Je n’ai pas un frère.",
+      "Je pas ai frère.",
+      "Je n’ai pas de frère.",
+      "Je ne suis pas frère."
+     ],
+     "correct_index": 2,
+     "explanation": "After a negative, un/une/des become de."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Numbers",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "“Trois” is…",
+     "options": [
+      "13",
+      "3",
+      "30",
+      "4"
+     ],
+     "correct_index": 1,
+     "explanation": "trois = 3."
+    },
+    {
+     "question_text": "How do you say 10?",
+     "options": [
+      "deux",
+      "six",
+      "sept",
+      "dix"
+     ],
+     "correct_index": 3,
+     "explanation": "dix = 10."
+    },
+    {
+     "question_text": "How do you say 20?",
+     "options": [
+      "quinze",
+      "vingt",
+      "trente",
+      "douze"
+     ],
+     "correct_index": 1,
+     "explanation": "vingt = 20."
+    },
+    {
+     "question_text": "What is 70 in standard French?",
+     "options": [
+      "soixante-dix",
+      "cinquante",
+      "septante",
+      "quatre-vingts"
+     ],
+     "correct_index": 0,
+     "explanation": "70 = 60 + 10. Septante is used in Belgium and Switzerland."
+    },
+    {
+     "question_text": "What is 80 in French?",
+     "options": [
+      "huitante",
+      "soixante-dix",
+      "quatre-vingt-dix",
+      "quatre-vingts"
+     ],
+     "correct_index": 3,
+     "explanation": "80 = 4 × 20."
+    },
+    {
+     "question_text": "“Cinq” is…",
+     "options": [
+      "50",
+      "5",
+      "15",
+      "6"
+     ],
+     "correct_index": 1,
+     "explanation": "cinq = 5, cinquante = 50."
+    },
+    {
+     "question_text": "What is 21 in French?",
+     "options": [
+      "vingt-une-et",
+      "vingt-un",
+      "deux-vingt",
+      "vingt et un"
+     ],
+     "correct_index": 3,
+     "explanation": "21, 31, 41, 51, 61 and 71 use “et un”."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Vocabulary",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "“Lundi” is…",
+     "options": [
+      "Monday",
+      "Sunday",
+      "Friday",
+      "Tuesday"
+     ],
+     "correct_index": 0,
+     "explanation": "lundi = Monday."
+    },
+    {
+     "question_text": "“Rouge” means…",
+     "options": [
+      "red",
+      "yellow",
+      "blue",
+      "green"
+     ],
+     "correct_index": 0,
+     "explanation": "rouge = red."
+    },
+    {
+     "question_text": "“Le pain” means…",
+     "options": [
+      "milk",
+      "bread",
+      "rice",
+      "water"
+     ],
+     "correct_index": 1,
+     "explanation": "pain = bread."
+    },
+    {
+     "question_text": "“Le frère” means…",
+     "options": [
+      "uncle",
+      "brother",
+      "son",
+      "father"
+     ],
+     "correct_index": 1,
+     "explanation": "frère = brother."
+    },
+    {
+     "question_text": "“L’eau” means…",
+     "options": [
+      "tea",
+      "water",
+      "milk",
+      "egg"
+     ],
+     "correct_index": 1,
+     "explanation": "eau = water."
+    },
+    {
+     "question_text": "“Janvier” is which month?",
+     "options": [
+      "March",
+      "January",
+      "July",
+      "June"
+     ],
+     "correct_index": 1,
+     "explanation": "janvier = January."
+    },
+    {
+     "question_text": "“La voiture” means…",
+     "options": [
+      "the house",
+      "the car",
+      "the street",
+      "the phone"
+     ],
+     "correct_index": 1,
+     "explanation": "voiture = car."
+    },
+    {
+     "question_text": "“Demain” means…",
+     "options": [
+      "yesterday",
+      "today",
+      "tomorrow",
+      "now"
+     ],
+     "correct_index": 2,
+     "explanation": "demain = tomorrow, hier = yesterday."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: French for Beginners – Topic: Grammar",
+   "duration_minutes": 8,
+   "questions": [
+    {
+     "question_text": "“Est-ce que” is used to…",
+     "options": [
+      "Show possession",
+      "Make a sentence negative",
+      "Say “because”",
+      "Turn a statement into a yes/no question"
+     ],
+     "correct_index": 3,
+     "explanation": "Est-ce que tu parles français ? = Do you speak French?"
+    },
+    {
+     "question_text": "“Où” means…",
+     "options": [
+      "where",
+      "why",
+      "who",
+      "when"
+     ],
+     "correct_index": 0,
+     "explanation": "où = where."
+    },
+    {
+     "question_text": "“Pourquoi” means…",
+     "options": [
+      "why",
+      "what",
+      "how",
+      "which"
+     ],
+     "correct_index": 0,
+     "explanation": "pourquoi = why, parce que = because."
+    },
+    {
+     "question_text": "What is the feminine of “grand”?",
+     "options": [
+      "grand",
+      "grande",
+      "grande-e",
+      "grandes"
+     ],
+     "correct_index": 1,
+     "explanation": "Add -e for most feminine adjectives."
+    },
+    {
+     "question_text": "“My” before a feminine noun like “sœur” is…",
+     "options": [
+      "mon",
+      "mes",
+      "mien",
+      "ma"
+     ],
+     "correct_index": 3,
+     "explanation": "ma sœur. Use mon before feminine nouns starting with a vowel: mon amie."
+    },
+    {
+     "question_text": "“Il y a” means…",
+     "options": [
+      "he has",
+      "there is / there are",
+      "it is",
+      "he goes"
+     ],
+     "correct_index": 1,
+     "explanation": "Il y a un chat = There is a cat."
+    },
+    {
+     "question_text": "“Je ne parle pas anglais” means…",
+     "options": [
+      "I speak English well",
+      "I never speak",
+      "I do not speak English",
+      "I speak only English"
+     ],
+     "correct_index": 2,
+     "explanation": "ne … pas wraps the verb."
+    },
+    {
+     "question_text": "“Au” is a contraction of…",
+     "options": [
+      "à + la",
+      "de + le",
+      "de + les",
+      "à + le"
+     ],
+     "correct_index": 3,
+     "explanation": "à + le = au: Je vais au marché."
+    }
+   ]
+  }
+ ]
+}
