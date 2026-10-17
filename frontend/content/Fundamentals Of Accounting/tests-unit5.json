@@ -721,7 +721,7 @@
       "Cash Rs 6,000; bank Rs 13,000"
      ],
      "correct_index": 1,
-     "explanation": "Compute."
+     "explanation": "Cash 4,000 − 2,000; bank 12,000 + 6,000 − 5,000."
     },
     {
      "question_text": "A cheque deposited on 28 March is credited by the bank on 2 April. The cash book on 31 March shows a bank balance which is:",
@@ -904,7 +904,7 @@
       "The book is arithmetically correct"
      ],
      "correct_index": 3,
-     "explanation": "Check."
+     "explanation": "Both totals tally."
     },
     {
      "question_text": "The receipt column of the petty cash book shows Rs 6,000 (opening 1,000 and reimbursement 5,000). Total expenses Rs 4,250. Closing balance is:",
