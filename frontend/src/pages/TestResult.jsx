@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import client from '../api/client';
 import Spinner from '../components/Spinner';
+import Leaderboard from '../components/Leaderboard';
 import { CheckIcon, XIcon } from '../components/icons';
 
 export default function TestResult() {
@@ -43,6 +44,12 @@ export default function TestResult() {
         </div>
         <p className="text-gray-500 mt-1">{percent}% correct</p>
       </div>
+
+      {attempt.test_id && (
+        <div className="mb-8">
+          <Leaderboard url={`/leaderboard/test/${attempt.test_id}`} title="Leaderboard for this test" mode="test" />
+        </div>
+      )}
 
       <div className="flex flex-col gap-4">
         {questions.map((q, i) => {

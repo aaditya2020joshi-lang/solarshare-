@@ -10,6 +10,7 @@ import pushRoutes from './routes/push.js';
 import adminRoutes from './routes/admin.js';
 import flashcardsRoutes from './routes/flashcards.js';
 import notesRoutes from './routes/notes.js';
+import leaderboardRoutes from './routes/leaderboard.js';
 import searchRoutes from './routes/search.js';
 import askRoutes from './routes/ask.js';
 
@@ -29,6 +30,7 @@ app.use('/api/push', pushRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/flashcards', flashcardsRoutes);
 app.use('/api/notes', notesRoutes);
+app.use('/api/leaderboard', leaderboardRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/ask', askRoutes);
 

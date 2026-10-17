@@ -54,6 +54,7 @@ router.get(
     res.json({
       attempt: {
         id: attempt.id,
+        test_id: attempt.test_id,
         score: attempt.score,
         total: attempt.total,
         completed_at: attempt.completed_at,

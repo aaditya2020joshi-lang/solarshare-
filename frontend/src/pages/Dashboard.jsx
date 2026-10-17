@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Spinner from '../components/Spinner';
+import Leaderboard from '../components/Leaderboard';
 import { BookIcon, BellIcon, ClipboardIcon, ClockIcon } from '../components/icons';
 
 function formatDateTime(iso) {
@@ -129,6 +130,10 @@ export default function Dashboard() {
             </ul>
           )}
         </section>
+      </div>
+
+      <div className="mt-10">
+        <Leaderboard url="/leaderboard?limit=10" title="Leaderboard" />
       </div>
     </div>
   );
