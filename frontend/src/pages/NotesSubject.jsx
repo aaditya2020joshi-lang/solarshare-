@@ -85,7 +85,7 @@ function TestLinks({ tests }) {
   if (tests.length === 0) return null;
   return (
     <div className="mt-4 pt-3 border-t border-gray-100 dark:border-gray-800">
-      <div className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Test yourself on this unit</div>
+      <div className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Take a test now</div>
       <div className="flex flex-wrap gap-2">
         {tests.map((t) => (
           <Link
@@ -93,7 +93,7 @@ function TestLinks({ tests }) {
             to={`/tests/${t.id}/take`}
             className="text-sm font-semibold text-white bg-gradient-to-r from-brand-600 to-sky-accent px-3 py-1.5 rounded-lg shadow-sm hover:shadow-md transition-all"
           >
-            {t.title.split('–').pop().trim()} · {t.question_count} Qs
+            Test now: {t.title.split('–').pop().trim()} · {t.question_count} Qs
           </Link>
         ))}
       </div>
