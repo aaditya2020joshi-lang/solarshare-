@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 2: Planning and Decision Making – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Planning is:",
+     "question_text": "A company decides in January that it will launch its new product only after assessing last year's sales and likely demand for the coming year. This step is part of:",
      "options": [
-      "Deciding in advance what to do, how to do it, when to do it and who will do it",
-      "Recruiting staff",
-      "Carrying out plans",
-      "Controlling results"
-     ],
-     "correct_index": 0,
-     "explanation": "It bridges the gap between where we are and where we want to go."
-    },
-    {
-     "question_text": "According to Koontz, planning is:",
-     "options": [
-      "Deciding in advance what to do, how to do it, when to do it and who is to do it",
-      "Controlling the budget",
-      "Hiring people",
-      "Recording results"
-     ],
-     "correct_index": 0,
-     "explanation": "It bridges the gap from where we are to where we want to go."
-    },
-    {
-     "question_text": "A feature of planning is that it is:",
-     "options": [
-      "Unrelated to objectives",
-      "A lower-level function only",
-      "Goal-oriented, futuristic, continuous and pervasive",
-      "Done once"
-     ],
-     "correct_index": 2,
-     "explanation": "It involves choice among alternatives."
-    },
-    {
-     "question_text": "Planning is called the primary function of management because:",
-     "options": [
-      "It precedes all other functions, which depend on plans",
-      "It is done last",
-      "It is easy",
-      "It is optional"
-     ],
-     "correct_index": 0,
-     "explanation": "Organising, staffing, directing and controlling follow plans."
-    },
-    {
-     "question_text": "Planning is a pervasive function because it:",
-     "options": [
-      "Is done by top management only",
-      "Is done by one department",
-      "Is not required",
-      "Is required at all levels and in all departments"
+      "Directing the sales team towards targets",
+      "Controlling the performance of the sales staff",
+      "Staffing the marketing department",
+      "Forecasting as the basis for planning"
      ],
      "correct_index": 3,
-     "explanation": "Every manager plans."
+     "explanation": "Planning is based on forecasts."
     },
     {
-     "question_text": "Planning is a continuous process because:",
+     "question_text": "\"Planning is looking ahead\" and \"control is looking back\" implies that:",
      "options": [
-      "It ends after approval",
-      "Plans are revised as conditions change",
-      "It never changes",
-      "It is done once"
-     ],
-     "correct_index": 1,
-     "explanation": "There is a plan for each period."
-    },
-    {
-     "question_text": "Planning is futuristic because:",
-     "options": [
-      "It looks ahead and anticipates future conditions",
-      "It looks only at the past",
-      "It ignores forecasts",
-      "It is routine"
-     ],
-     "correct_index": 0,
-     "explanation": "It is based on forecasts."
-    },
-    {
-     "question_text": "The importance of planning includes:",
-     "options": [
-      "Increasing waste",
-      "Providing direction, reducing uncertainty and facilitating control",
-      "Removing objectives",
-      "Eliminating control"
-     ],
-     "correct_index": 1,
-     "explanation": "Plans give a framework for action."
-    },
-    {
-     "question_text": "Planning reduces uncertainty by:",
-     "options": [
-      "Ignoring the future",
-      "Making assumptions only",
-      "Anticipating changes and preparing for them",
-      "Removing risk entirely"
+      "Planning and control have no relation to each other",
+      "Control is performed before planning in all situations",
+      "Planning is forward-looking while control is a review of past performance",
+      "Both planning and control are concerned only with the future"
      ],
      "correct_index": 2,
-     "explanation": "Forecasting helps managers get ready."
+     "explanation": "Time orientation."
     },
     {
-     "question_text": "Planning facilitates control by:",
+     "question_text": "Which of the following is a limitation of planning?",
      "options": [
-      "Ignoring performance",
-      "Providing standards against which actual performance is compared",
-      "Replacing control",
-      "Eliminating standards"
-     ],
-     "correct_index": 1,
-     "explanation": "There is no control without plans."
-    },
-    {
-     "question_text": "Planning and controlling are called \"inseparable twins\" because:",
-     "options": [
-      "They are the same",
-      "They are unrelated",
-      "They are independent",
-      "Planning sets the standards and controlling checks performance against them"
+      "It facilitates control by setting the standards of performance",
+      "It reduces the risk of uncertainty in the decisions taken by managers",
+      "It provides direction to the efforts of the people in an organisation",
+      "It may not work in a dynamic environment where conditions change quickly"
      ],
      "correct_index": 3,
-     "explanation": "Each depends on the other."
+     "explanation": "Rigidity in a changing environment."
     },
     {
-     "question_text": "A limitation of planning is that it:",
+     "question_text": "A firm prepares a plan to open 10 new outlets over five years. This is best described as:",
      "options": [
-      "Is costless",
-      "Needs no time",
-      "Leads to rigidity and may not work in a dynamic environment",
-      "Is always accurate"
-     ],
-     "correct_index": 2,
-     "explanation": "It is also time-consuming and costly."
-    },
-    {
-     "question_text": "Planning leads to rigidity because:",
-     "options": [
-      "Plans are changed daily",
-      "Managers may stick to the plan even when circumstances change",
-      "Plans are flexible",
-      "Plans do not exist"
-     ],
-     "correct_index": 1,
-     "explanation": "Employees may follow plans blindly."
-    },
-    {
-     "question_text": "Planning does not work well in a dynamic environment because:",
-     "options": [
-      "The environment is stable",
-      "Changes may make plans out of date quickly",
-      "Forecasts are exact",
-      "Plans are short"
-     ],
-     "correct_index": 1,
-     "explanation": "It becomes difficult to forecast."
-    },
-    {
-     "question_text": "Limitations of planning can be overcome by:",
-     "options": [
-      "Ignoring change",
-      "Making plans rigid",
-      "Making plans flexible, reviewing them regularly and involving staff",
-      "Avoiding planning"
-     ],
-     "correct_index": 2,
-     "explanation": "Contingency plans help."
-    },
-    {
-     "question_text": "Planning differs from forecasting in that forecasting:",
-     "options": [
-      "Controls",
-      "Decides actions",
-      "Staffs",
-      "Predicts future conditions, while planning decides what to do about them"
+      "A tactical budget",
+      "A single-use standing plan",
+      "A short-range operational plan",
+      "A long-range strategic plan"
      ],
      "correct_index": 3,
-     "explanation": "Forecasts are a premise for plans."
+     "explanation": "Long time horizon."
     },
     {
-     "question_text": "Planning differs from budgeting in that a budget:",
+     "question_text": "A plan made for a one-time project, which is not likely to be repeated, is a:",
      "options": [
-      "Is a numerical statement of expected results and a type of plan, whereas planning is broader",
-      "Is broader than planning",
-      "Is not a plan",
-      "Is a policy"
+      "Single-use plan",
+      "Standing plan",
+      "Policy",
+      "Rule"
      ],
      "correct_index": 0,
-     "explanation": "Budgets express plans in numbers."
+     "explanation": "Programme, project, budget."
     },
     {
-     "question_text": "Types of plans (Koontz) include:",
+     "question_text": "Which among the following is a standing plan?",
      "options": [
-      "Mission, objectives, strategies, policies, procedures, rules, programmes and budgets",
-      "Only rules",
-      "Only budgets",
-      "Only strategies"
+      "Policy",
+      "Budget for a campaign",
+      "Project",
+      "Programme"
      ],
      "correct_index": 0,
-     "explanation": "They form a hierarchy."
+     "explanation": "Used repeatedly."
     },
     {
-     "question_text": "A mission is:",
+     "question_text": "A hotel's rule that \"all guests must be greeted within one minute of arrival\" is best classified as:",
      "options": [
-      "The basic purpose or reason for the existence of an organisation",
-      "A budget",
-      "A daily task",
-      "A rule"
-     ],
-     "correct_index": 0,
-     "explanation": "It answers \"why do we exist?\"."
-    },
-    {
-     "question_text": "SMART objectives are:",
-     "options": [
-      "Strategic, Managed, Adopted, Revised, Tested",
-      "Simple, Modern, Accurate, Real, Timely",
-      "Specific, Measurable, Achievable, Relevant and Time-bound",
-      "Short, Medium, Annual, Recurring, Temporary"
-     ],
-     "correct_index": 2,
-     "explanation": "They are clear targets with a deadline."
-    },
-    {
-     "question_text": "A strategy is:",
-     "options": [
-      "A method",
-      "A rule",
-      "A comprehensive plan to achieve long-term objectives considering the environment and competition",
-      "A daily routine"
-     ],
-     "correct_index": 2,
-     "explanation": "It decides the direction of the organisation."
-    },
-    {
-     "question_text": "The components of a strategy include:",
-     "options": [
-      "Environmental scanning, resource allocation and competitive positioning",
-      "Wages",
-      "Rules and procedures",
-      "Daily tasks"
-     ],
-     "correct_index": 0,
-     "explanation": "It also involves a choice of businesses."
-    },
-    {
-     "question_text": "A policy is:",
-     "options": [
-      "A rule",
-      "A method",
-      "A general guideline for decision making, e.g., a promotion or pricing policy",
-      "A fixed step-by-step process"
-     ],
-     "correct_index": 2,
-     "explanation": "It gives the framework for decisions."
-    },
-    {
-     "question_text": "A procedure is:",
-     "options": [
-      "A general guide",
-      "A budget",
-      "A rule",
-      "A chronological sequence of steps to carry out a task, e.g., a purchase procedure"
-     ],
-     "correct_index": 3,
-     "explanation": "It specifies how work is done."
-    },
-    {
-     "question_text": "A method is:",
-     "options": [
-      "A policy",
-      "A mission",
-      "A budget",
-      "The way in which a single step of a procedure is performed"
-     ],
-     "correct_index": 3,
-     "explanation": "It is more detailed than a procedure."
-    }
-   ]
-  },
-  {
-   "title": "Unit 2: Planning and Decision Making – Practice Test 2",
-   "duration_minutes": 25,
-   "questions": [
-    {
-     "question_text": "A rule is:",
-     "options": [
-      "A mission",
-      "A guideline",
       "A strategy",
-      "A specific, definite statement of what to do or not to do, with no discretion, e.g., \"No smoking\""
-     ],
-     "correct_index": 3,
-     "explanation": "It must be followed strictly."
-    },
-    {
-     "question_text": "A programme is:",
-     "options": [
-      "A single rule",
-      "A comprehensive plan that includes objectives, policies, procedures and resources for a set of activities",
-      "A mission",
-      "A single policy"
-     ],
-     "correct_index": 1,
-     "explanation": "E.g., a plan for launching a new product."
-    },
-    {
-     "question_text": "A project is:",
-     "options": [
-      "A standing plan",
-      "A single-use plan with a specific objective and fixed time, e.g., constructing a plant",
+      "A programme",
       "A rule",
       "A policy"
      ],
-     "correct_index": 1,
-     "explanation": "It is part of a programme."
-    },
-    {
-     "question_text": "A budget is:",
-     "options": [
-      "A rule",
-      "A statement of expected results expressed in numerical terms",
-      "A mission",
-      "A policy"
-     ],
-     "correct_index": 1,
-     "explanation": "It is a financial or quantitative plan."
-    },
-    {
-     "question_text": "A policy differs from a procedure and a rule in that a policy is:",
-     "options": [
-      "A flexible guide for thinking, a procedure is a series of steps, and a rule is a rigid directive",
-      "A budget",
-      "A series of steps",
-      "A fixed rule"
-     ],
-     "correct_index": 0,
-     "explanation": "Rules allow no discretion."
-    },
-    {
-     "question_text": "Policy differs from procedure in that policy:",
-     "options": [
-      "Guides decisions, while procedure guides actions in sequence",
-      "Is rigid",
-      "Is a budget",
-      "Guides actions"
-     ],
-     "correct_index": 0,
-     "explanation": "Policy is general; procedure is specific."
-    },
-    {
-     "question_text": "Policy differs from strategy in that a policy is:",
-     "options": [
-      "A guide for decisions within limits, while a strategy is a plan to deal with competition and the environment",
-      "Long-term only",
-      "A competitive plan",
-      "A budget"
-     ],
-     "correct_index": 0,
-     "explanation": "Strategy is about direction and positioning."
-    },
-    {
-     "question_text": "Strategic plans are made by _____, tactical plans by _____, and operational plans by _____:",
-     "options": [
-      "Middle; top; lower",
-      "All the same",
-      "Top management; middle management; lower management",
-      "Lower; middle; top"
-     ],
      "correct_index": 2,
-     "explanation": "They differ in time frame and scope."
+     "explanation": "Specific action, no discretion."
     },
     {
-     "question_text": "Single-use plans differ from standing plans in that single-use plans:",
+     "question_text": "Policies differ from rules in that policies:",
      "options": [
-      "Are used repeatedly",
-      "Are rules",
-      "Are made for one occasion, e.g., a project, whereas standing plans are used repeatedly, e.g., policies",
-      "Are policies"
+      "Specify exactly what must be done with no scope for discretion",
+      "Give general guidelines for decision making and leave some discretion",
+      "Cover only the one-time activities of the organisation",
+      "Are framed by the lowest level of management alone"
      ],
-     "correct_index": 2,
-     "explanation": "Standing plans: policies, procedures, rules."
+     "correct_index": 1,
+     "explanation": "Policy allows judgement."
     },
     {
-     "question_text": "A contingency plan is:",
+     "question_text": "A procedure is a:",
      "options": [
-      "The main plan",
-      "A rule",
-      "A budget",
-      "A backup plan to be used if the original plan fails or conditions change"
+      "Series of steps to be followed in a chronological order for a recurring task",
+      "Statement of what is allowed or not allowed in a particular situation",
+      "General guideline that is used to channel the thinking in decision making",
+      "Plan to be followed only for a one-time project of the organisation"
+     ],
+     "correct_index": 0,
+     "explanation": "Step by step."
+    },
+    {
+     "question_text": "\"No smoking in the factory premises\" is a:",
+     "options": [
+      "Policy",
+      "Rule",
+      "Method",
+      "Procedure"
+     ],
+     "correct_index": 1,
+     "explanation": "Specific and rigid."
+    },
+    {
+     "question_text": "Which of the following describes a \"method\" as a type of plan?",
+     "options": [
+      "The sequence of steps followed in the recruitment of the staff",
+      "A broad guideline for the delegation of authority in a firm",
+      "A plan for the construction of a new factory building in the town",
+      "The way in which a given task is to be performed, such as billing"
      ],
      "correct_index": 3,
-     "explanation": "It prepares the firm for uncertain events."
+     "explanation": "Specific technique."
+    },
+    {
+     "question_text": "The plan which states the funds required for a specific project for the next year is a:",
+     "options": [
+      "Method",
+      "Policy",
+      "Rule",
+      "Budget"
+     ],
+     "correct_index": 3,
+     "explanation": "Numerical plan."
+    },
+    {
+     "question_text": "A strategy differs from a policy because a strategy:",
+     "options": [
+      "Is only a guideline for the routine decisions of the lower levels",
+      "Is framed after decisions on the routine rules have been taken",
+      "Is a comprehensive plan to meet competition and the environment",
+      "Deals only with the internal working of a single department"
+     ],
+     "correct_index": 2,
+     "explanation": "Competitive plan."
     },
     {
      "question_text": "The first step in the planning process is:",
      "options": [
-      "Implementing the plan",
-      "Evaluating alternatives",
+      "Setting objectives",
+      "Selecting an alternative",
+      "Identifying alternatives",
+      "Developing premises"
+     ],
+     "correct_index": 0,
+     "explanation": "Starting point."
+    },
+    {
+     "question_text": "Developing planning premises means:",
+     "options": [
+      "Reviewing the results of the plans after they have been put into action",
+      "Choosing the best among several alternative courses of action available",
+      "Converting the plans into budgets and numerical targets",
+      "Establishing the assumptions about the future conditions in which plans will operate"
+     ],
+     "correct_index": 3,
+     "explanation": "Forecasts and assumptions."
+    },
+    {
+     "question_text": "Which of the following is a step of the planning process that comes AFTER evaluating the alternatives?",
+     "options": [
       "Developing premises",
-      "Setting objectives"
+      "Setting objectives",
+      "Identifying alternative courses of action",
+      "Selecting an alternative"
      ],
      "correct_index": 3,
-     "explanation": "Everything else is guided by objectives."
+     "explanation": "Order of the steps."
     },
     {
-     "question_text": "Setting objectives is the first step because:",
+     "question_text": "The last step of the planning process is:",
      "options": [
-      "It is optional",
-      "It is the last step",
-      "It gives direction to all further steps",
-      "It is a formality"
-     ],
-     "correct_index": 2,
-     "explanation": "Plans are designed to achieve objectives."
-    },
-    {
-     "question_text": "A planning premise is:",
-     "options": [
-      "An assumption about the future environment in which the plan will operate",
-      "A rule",
-      "A budget",
-      "An objective"
-     ],
-     "correct_index": 0,
-     "explanation": "It forms the base of the plan."
-    },
-    {
-     "question_text": "Planning premises are classified as:",
-     "options": [
-      "Cheap and costly",
-      "Past and present",
-      "Large and small",
-      "Internal and external, tangible and intangible, controllable and uncontrollable"
-     ],
-     "correct_index": 3,
-     "explanation": "They help make forecasts consistent."
-    },
-    {
-     "question_text": "Internal premises relate to _____, and external premises relate to _____:",
-     "options": [
-      "Policies; laws",
-      "Resources; policies",
-      "The environment; the organisation",
-      "The organisation (e.g., policies, resources); the environment (e.g., economy, laws)"
-     ],
-     "correct_index": 3,
-     "explanation": "The firm can control internal premises."
-    },
-    {
-     "question_text": "Tangible premises can be _____, and intangible premises _____:",
-     "options": [
-      "Internal; external",
-      "Controlled; uncontrolled",
-      "Measured in numbers (e.g., costs); are hard to measure (e.g., morale)",
-      "Not measured; measured"
-     ],
-     "correct_index": 2,
-     "explanation": "Both affect planning."
-    },
-    {
-     "question_text": "Controllable premises are those that:",
-     "options": [
-      "Cannot be influenced",
-      "The organisation can influence, while uncontrollable ones, like government policy, it cannot",
-      "Are external only",
-      "Do not exist"
+      "Evaluation of alternatives",
+      "Follow up action",
+      "Formulation of derivative plans",
+      "Selection of an alternative"
      ],
      "correct_index": 1,
-     "explanation": "Managers focus on those they can influence."
+     "explanation": "Monitoring."
     },
     {
-     "question_text": "Planning premises are the foundation of planning because:",
+     "question_text": "Derivative plans are the plans that:",
      "options": [
-      "They are irrelevant",
-      "Plans are based on assumptions about the future",
-      "They are rules",
-      "Plans need no assumptions"
-     ],
-     "correct_index": 1,
-     "explanation": "Wrong premises give wrong plans."
-    },
-    {
-     "question_text": "Forecasting techniques include:",
-     "options": [
-      "Trend analysis, regression, expert opinion (Delphi) and market surveys",
-      "Gantt charts only",
-      "Policies",
-      "Rules"
-     ],
-     "correct_index": 0,
-     "explanation": "They predict future values."
-    },
-    {
-     "question_text": "The Delphi technique is:",
-     "options": [
-      "A forecasting method using anonymous, repeated rounds of expert opinion until consensus",
-      "A survey of customers",
-      "A group meeting",
-      "A rule"
-     ],
-     "correct_index": 0,
-     "explanation": "Experts do not meet face to face."
-    },
-    {
-     "question_text": "A SWOT analysis examines:",
-     "options": [
-      "Strategy, wages, output, time",
-      "Sales, work, orders, targets",
-      "Suppliers, workers, owners, trade",
-      "Strengths, weaknesses, opportunities and threats"
-     ],
-     "correct_index": 3,
-     "explanation": "Internal strengths/weaknesses and external opportunities/threats."
-    },
-    {
-     "question_text": "A PESTLE analysis examines:",
-     "options": [
-      "Planning, execution, staffing, targets, leadership, evaluation",
-      "Political, Economic, Social, Technological, Legal and Environmental factors",
-      "Profit, equity, stock, tax, loans, earnings",
-      "Product, entry, sales, trade, labour, economy"
-     ],
-     "correct_index": 1,
-     "explanation": "It scans the external macro environment."
-    },
-    {
-     "question_text": "The BCG matrix categories are:",
-     "options": [
-      "Stars, cash cows, question marks and dogs",
-      "High, low, medium, none",
-      "Rules, policies, procedures, programmes",
-      "Stars, moons, planets, suns"
-     ],
-     "correct_index": 0,
-     "explanation": "Based on market growth and relative market share."
-    },
-    {
-     "question_text": "Porter's five forces include:",
-     "options": [
-      "Threat of new entrants, bargaining power of buyers and suppliers, threat of substitutes and rivalry",
-      "Product, price, place, promotion, people",
-      "Planning, organising, staffing, directing, controlling",
-      "Men, money, materials, machines, methods"
-     ],
-     "correct_index": 0,
-     "explanation": "It analyses industry competition."
-    },
-    {
-     "question_text": "A characteristic of a good policy is that it is:",
-     "options": [
-      "Rigid",
-      "Contradictory",
-      "Clear, consistent, flexible and in line with objectives",
-      "Vague"
+      "Are made by the top management alone for the entire company",
+      "Are prepared only after the main plan has been completed in full",
+      "Support the main plan by covering its parts, like purchase and hiring",
+      "Replace the main plan when the main plan fails to meet its objectives"
      ],
      "correct_index": 2,
-     "explanation": "It should also be stable and understood."
+     "explanation": "Supporting plans."
+    },
+    {
+     "question_text": "Which of the following is NOT an advantage of planning?",
+     "options": [
+      "It promotes innovative ideas among the managers of the firm",
+      "It provides direction to the efforts of the people in the firm",
+      "It guarantees success of the firm under all conditions",
+      "It reduces the overlapping and wasteful activities in the firm"
+     ],
+     "correct_index": 2,
+     "explanation": "Planning cannot guarantee success."
+    },
+    {
+     "question_text": "Planning is a \"primary function\" because:",
+     "options": [
+      "It precedes the other functions of management",
+      "It is a function that is performed once",
+      "It is the only function that is needed",
+      "It is performed by the owners alone"
+     ],
+     "correct_index": 0,
+     "explanation": "Basis for others."
+    },
+    {
+     "question_text": "Which of the following is a type of decision that is routine and repetitive?",
+     "options": [
+      "Non-programmed decision",
+      "Crisis decision",
+      "Programmed decision",
+      "Strategic decision"
+     ],
+     "correct_index": 2,
+     "explanation": "Standard procedure."
+    },
+    {
+     "question_text": "Deciding to merge with a competitor is a:",
+     "options": [
+      "Minor, administrative decision",
+      "Routine, tactical decision",
+      "Non-programmed, strategic decision",
+      "Programmed, operational decision"
+     ],
+     "correct_index": 2,
+     "explanation": "Unique and long-term."
+    },
+    {
+     "question_text": "Reordering stationery when stock falls to a minimum level is a:",
+     "options": [
+      "Strategic decision",
+      "Non-programmed decision",
+      "Crisis decision",
+      "Programmed decision"
+     ],
+     "correct_index": 3,
+     "explanation": "Routine."
+    },
+    {
+     "question_text": "Which of the following is characteristic of a strategic decision?",
+     "options": [
+      "Routine, short-term, with little impact on the firm",
+      "Taken by the first-line supervisors at their discretion",
+      "Long-term, high-risk, with major impact on the organisation",
+      "Made by following a set of fixed rules and procedures"
+     ],
+     "correct_index": 2,
+     "explanation": "Made at the top level."
+    },
+    {
+     "question_text": "Which of the following is a tactical (administrative) decision?",
+     "options": [
+      "Allocation of the budget among departments of the firm",
+      "Choosing the markets in which the firm will operate",
+      "Deciding whether the firm should diversify into a new industry",
+      "Deciding the overall mission of the company"
+     ],
+     "correct_index": 0,
+     "explanation": "Middle level."
     }
    ]
   },
   {
+   "rev": 2,
+   "title": "Unit 2: Planning and Decision Making – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An operating decision is generally taken by:",
+     "options": [
+      "Lower-level managers on routine day-to-day matters",
+      "The Board of Directors in its quarterly meetings",
+      "Shareholders in the annual general meeting of the company",
+      "Top management, on long-term and risky issues of the firm"
+     ],
+     "correct_index": 0,
+     "explanation": "Daily activities."
+    },
+    {
+     "question_text": "The rational decision-making model assumes that the decision maker:",
+     "options": [
+      "Takes decisions only on the basis of intuition",
+      "Has limited information and settles for any acceptable alternative",
+      "Has complete information and chooses the best alternative",
+      "Is influenced mainly by emotions and social pressure"
+     ],
+     "correct_index": 2,
+     "explanation": "Optimising."
+    },
+    {
+     "question_text": "Herbert Simon's \"bounded rationality\" means that managers:",
+     "options": [
+      "Take their decisions only on the basis of their emotions",
+      "Are fully rational and have perfect information at all times",
+      "Decide within the limits of their information and ability",
+      "Avoid taking decisions in all the situations of uncertainty"
+     ],
+     "correct_index": 2,
+     "explanation": "Limited rationality."
+    },
+    {
+     "question_text": "\"Satisficing\" means:",
+     "options": [
+      "Choosing an alternative that is good enough rather than the best",
+      "Rejecting all the alternatives that are available to the manager",
+      "Choosing the alternative that maximises the profit for the firm",
+      "Choosing the alternative which is cheapest for the firm"
+     ],
+     "correct_index": 0,
+     "explanation": "Simon."
+    },
+    {
+     "question_text": "Which step comes first in the decision-making process?",
+     "options": [
+      "Identifying the problem",
+      "Developing alternatives",
+      "Implementing the decision",
+      "Evaluating alternatives"
+     ],
+     "correct_index": 0,
+     "explanation": "Start."
+    },
+    {
+     "question_text": "After a decision is implemented, the manager should:",
+     "options": [
+      "Develop a new set of alternatives without checking the results",
+      "Delegate the matter to the shareholders of the company",
+      "Close the matter as the decision is final and cannot be changed",
+      "Follow up to check whether it is achieving the desired result"
+     ],
+     "correct_index": 3,
+     "explanation": "Feedback."
+    },
+    {
+     "question_text": "Which of the following tools is used to evaluate alternatives by comparing the costs and benefits?",
+     "options": [
+      "Organisation chart",
+      "Job description",
+      "Cost-benefit analysis",
+      "Gantt chart"
+     ],
+     "correct_index": 2,
+     "explanation": "Evaluation tool."
+    },
+    {
+     "question_text": "A decision tree helps a manager to:",
+     "options": [
+      "Schedule the activities of a project on a time scale",
+      "Record the minutes of the meetings in the organisation",
+      "Map the alternatives and outcomes with their probabilities and payoffs",
+      "Draw the organisation structure of the firm in a hierarchy"
+     ],
+     "correct_index": 2,
+     "explanation": "Sequential decisions."
+    },
+    {
+     "question_text": "A decision matrix with probabilities gives the expected value. For a project with a 60% chance of a Rs 50 lakh profit and a 40% chance of a Rs 10 lakh loss, the expected value is:",
+     "options": [
+      "Rs 30 lakh",
+      "Rs 26 lakh",
+      "Rs 34 lakh",
+      "Rs 40 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "0.6×50 − 0.4×10."
+    },
+    {
+     "question_text": "Project A: 50% chance of Rs 80 lakh, 50% chance of Rs 0. Project B: sure profit of Rs 35 lakh. A risk-neutral manager using expected value would:",
+     "options": [
+      "Reject both projects as risky",
+      "Choose B as its expected value is Rs 35 lakh",
+      "Be indifferent between the two projects",
+      "Choose A as its expected value is Rs 40 lakh"
+     ],
+     "correct_index": 3,
+     "explanation": "40 > 35."
+    },
+    {
+     "question_text": "SWOT analysis stands for:",
+     "options": [
+      "Strengths, weaknesses, opportunities and threats",
+      "Sales, workforce, operations and training",
+      "Standards, wages, objectives and targets",
+      "Strategy, work, organisation and technology"
+     ],
+     "correct_index": 0,
+     "explanation": "Strategic tool."
+    },
+    {
+     "question_text": "In a SWOT analysis, \"a competitor entering the market\" is a:",
+     "options": [
+      "Threat",
+      "Weakness",
+      "Strength",
+      "Opportunity"
+     ],
+     "correct_index": 0,
+     "explanation": "External, negative."
+    },
+    {
+     "question_text": "In a SWOT analysis, \"a highly skilled workforce\" is a:",
+     "options": [
+      "Threat",
+      "Strength",
+      "Weakness",
+      "Opportunity"
+     ],
+     "correct_index": 1,
+     "explanation": "Internal, positive."
+    },
+    {
+     "question_text": "In a SWOT analysis, \"a change in government policy that benefits the industry\" is an:",
+     "options": [
+      "Threat",
+      "Opportunity",
+      "Strength",
+      "Weakness"
+     ],
+     "correct_index": 1,
+     "explanation": "External, positive."
+    },
+    {
+     "question_text": "The BCG matrix classifies business units by:",
+     "options": [
+      "Market growth rate and relative market share",
+      "Profit margin and the cost of production",
+      "Level of technology and the age of the firm",
+      "Number of employees and the amount of capital"
+     ],
+     "correct_index": 0,
+     "explanation": "Two dimensions."
+    },
+    {
+     "question_text": "In the BCG matrix, a business with a high market share in a low-growth market is a:",
+     "options": [
+      "Dog",
+      "Question mark",
+      "Cash cow",
+      "Star"
+     ],
+     "correct_index": 2,
+     "explanation": "Generates cash."
+    },
+    {
+     "question_text": "A business with a high market share in a high-growth market is called a:",
+     "options": [
+      "Dog",
+      "Star",
+      "Question mark",
+      "Cash cow"
+     ],
+     "correct_index": 1,
+     "explanation": "Needs investment, high potential."
+    },
+    {
+     "question_text": "A business with a low market share in a low-growth market is a:",
+     "options": [
+      "Cash cow",
+      "Dog",
+      "Star",
+      "Question mark"
+     ],
+     "correct_index": 1,
+     "explanation": "Candidate for divestment."
+    },
+    {
+     "question_text": "A business unit with a low market share in a high-growth market is a:",
+     "options": [
+      "Dog",
+      "Question mark",
+      "Cash cow",
+      "Star"
+     ],
+     "correct_index": 1,
+     "explanation": "Uncertain future."
+    },
+    {
+     "question_text": "Porter's generic strategies include:",
+     "options": [
+      "Stability, growth and retrenchment",
+      "Stars, cash cows and dogs",
+      "Strengths, weaknesses and opportunities",
+      "Cost leadership, differentiation and focus"
+     ],
+     "correct_index": 3,
+     "explanation": "Competitive strategies."
+    },
+    {
+     "question_text": "A firm that offers low-priced products by cutting costs in all operations follows:",
+     "options": [
+      "Focus",
+      "Differentiation",
+      "Diversification",
+      "Cost leadership"
+     ],
+     "correct_index": 3,
+     "explanation": "Low cost."
+    },
+    {
+     "question_text": "A firm that offers unique features and premium products valued by customers is following:",
+     "options": [
+      "Retrenchment",
+      "Stability",
+      "Differentiation",
+      "Cost leadership"
+     ],
+     "correct_index": 2,
+     "explanation": "Unique."
+    },
+    {
+     "question_text": "A strategy of serving a particular niche segment of the market is:",
+     "options": [
+      "Cost leadership",
+      "Stability strategy",
+      "Focus strategy",
+      "Divestment"
+     ],
+     "correct_index": 2,
+     "explanation": "Narrow market."
+    },
+    {
+     "question_text": "Porter's five forces model is used to analyse:",
+     "options": [
+      "Financial performance and ratios",
+      "Organisational structure and design",
+      "Industry competition and attractiveness",
+      "Employee motivation and morale"
+     ],
+     "correct_index": 2,
+     "explanation": "Five forces."
+    },
+    {
+     "question_text": "Which of the following is NOT one of Porter's five forces?",
+     "options": [
+      "Government regulation",
+      "Bargaining power of suppliers",
+      "Threat of new entrants",
+      "Threat of substitutes"
+     ],
+     "correct_index": 0,
+     "explanation": "Not among the five."
+    }
+   ]
+  },
+  {
+   "rev": 2,
    "title": "Unit 2: Planning and Decision Making – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The types of policies include:",
+     "question_text": "A firm decides to keep its present strategy and continue serving the same customers with the same products. This is a:",
      "options": [
-      "Rules and procedures",
-      "Originated, appealed, imposed and implied; or general and departmental",
-      "Programmes",
-      "Budgets"
+      "Stability strategy",
+      "Retrenchment strategy",
+      "Turnaround strategy",
+      "Growth strategy"
+     ],
+     "correct_index": 0,
+     "explanation": "Maintaining status quo."
+    },
+    {
+     "question_text": "Entering a new market with new products is called:",
+     "options": [
+      "Market development",
+      "Diversification",
+      "Product development",
+      "Market penetration"
      ],
      "correct_index": 1,
-     "explanation": "They differ by their source."
+     "explanation": "Ansoff matrix."
     },
     {
-     "question_text": "Functional policies are:",
+     "question_text": "Selling more of the existing products in the existing markets is:",
      "options": [
-      "Policies for functional areas such as marketing, finance and HR (e.g., credit policy)",
-      "Rules",
-      "Budget policies",
-      "Policies for the whole organisation"
-     ],
-     "correct_index": 0,
-     "explanation": "They guide each function."
-    },
-    {
-     "question_text": "A purchase procedure typically begins with:",
-     "options": [
-      "Delivery only",
-      "Payment, then order",
-      "Requisition, then inviting quotations, order placement, receipt and payment",
-      "Receipt only"
-     ],
-     "correct_index": 2,
-     "explanation": "Each step is in sequence."
-    },
-    {
-     "question_text": "A recruitment procedure typically includes:",
-     "options": [
-      "Only advertisement",
-      "Only interviews",
-      "Identifying vacancies, advertising, screening, tests and interviews, and selection",
-      "Only payroll"
-     ],
-     "correct_index": 2,
-     "explanation": "It leads to selection and placement."
-    },
-    {
-     "question_text": "Policies and procedures are needed to:",
-     "options": [
-      "Remove delegation",
-      "Increase confusion",
-      "Ensure consistency and save time in decision making",
-      "Slow decisions"
-     ],
-     "correct_index": 2,
-     "explanation": "They guide uniform action."
-    },
-    {
-     "question_text": "Decision making is:",
-     "options": [
-      "Choosing the best alternative from the available alternatives",
-      "Controlling",
-      "Gathering facts",
-      "Implementing"
-     ],
-     "correct_index": 0,
-     "explanation": "It is at the heart of management."
-    },
-    {
-     "question_text": "Herbert Simon said that decision making:",
-     "options": [
-      "Is synonymous with management",
-      "Is unimportant",
-      "Is a gamble",
-      "Is only for top managers"
-     ],
-     "correct_index": 0,
-     "explanation": "\"Management is decision making.\""
-    },
-    {
-     "question_text": "A characteristic of decision making is that it:",
-     "options": [
-      "Is always certain",
-      "Has no choice",
-      "Is routine only",
-      "Involves a choice among alternatives and a commitment to action"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a goal-directed process."
-    },
-    {
-     "question_text": "Decision making is important because:",
-     "options": [
-      "It is optional",
-      "It affects nothing",
-      "It determines the success of every function",
-      "It is rare"
-     ],
-     "correct_index": 2,
-     "explanation": "Every plan involves decisions."
-    },
-    {
-     "question_text": "Programmed decisions are:",
-     "options": [
-      "Routine, repetitive decisions made by rules and procedures, e.g., reordering stock",
-      "Unique decisions",
-      "Non-routine",
-      "Strategic decisions"
-     ],
-     "correct_index": 0,
-     "explanation": "Lower levels handle many."
-    },
-    {
-     "question_text": "Non-programmed decisions are:",
-     "options": [
-      "Rule-based",
-      "Routine decisions",
-      "Unique, non-routine decisions with no set procedure, e.g., launching a new business",
-      "Repeated"
-     ],
-     "correct_index": 2,
-     "explanation": "Top managers handle them."
-    },
-    {
-     "question_text": "Programmed decisions differ from non-programmed decisions in that programmed decisions are:",
-     "options": [
-      "Unstructured",
-      "Novel",
-      "Strategic",
-      "Routine and structured, while non-programmed are novel and unstructured"
-     ],
-     "correct_index": 3,
-     "explanation": "They differ in nature and level."
-    },
-    {
-     "question_text": "Strategic decisions are made by _____, tactical by _____, operational by _____:",
-     "options": [
-      "Top; middle; lower management",
-      "All the same",
-      "Lower; middle; top",
-      "Middle; lower; top"
-     ],
-     "correct_index": 0,
-     "explanation": "They differ in scope and time horizon."
-    },
-    {
-     "question_text": "Group decisions are:",
-     "options": [
-      "Made by one person",
-      "Made by owners",
-      "Made by a group of people, as opposed to individual decisions made by one person",
-      "Made by machines"
-     ],
-     "correct_index": 2,
-     "explanation": "They are slower but better informed."
-    },
-    {
-     "question_text": "Basic decisions are:",
-     "options": [
-      "Daily",
-      "Major, one-time decisions involving large investment, while routine decisions are repetitive",
-      "Small",
-      "Routine"
+      "Product development",
+      "Market penetration",
+      "Diversification",
+      "Market development"
      ],
      "correct_index": 1,
-     "explanation": "E.g., location of a plant."
+     "explanation": "Ansoff."
     },
     {
-     "question_text": "Organisational decisions are made in the capacity of:",
+     "question_text": "Selling the existing products in new markets is:",
      "options": [
-      "A customer",
-      "A worker",
-      "A manager and can be delegated, while personal decisions concern the manager as an individual",
-      "An individual"
-     ],
-     "correct_index": 2,
-     "explanation": "Personal decisions cannot be delegated."
-    },
-    {
-     "question_text": "The decision-making environments are:",
-     "options": [
-      "Top, middle and lower",
-      "Past, present and future",
-      "Certainty, risk and uncertainty",
-      "Loss, profit, break-even"
-     ],
-     "correct_index": 2,
-     "explanation": "They differ in knowledge of outcomes."
-    },
-    {
-     "question_text": "Simon's three phases of decision making are:",
-     "options": [
-      "Input, process, output",
-      "Analysis, synthesis, review",
-      "Intelligence, design and choice",
-      "Planning, doing, checking"
-     ],
-     "correct_index": 2,
-     "explanation": "Intelligence finds problems; design develops alternatives; choice selects."
-    },
-    {
-     "question_text": "The rational decision-making process begins with:",
-     "options": [
-      "Identifying the problem",
-      "Implementing",
-      "Evaluating",
-      "Selecting an alternative"
-     ],
-     "correct_index": 0,
-     "explanation": "Then collect information, develop alternatives, evaluate and choose."
-    },
-    {
-     "question_text": "The rational model assumes that the decision maker:",
-     "options": [
-      "Chooses randomly",
-      "Ignores goals",
-      "Has no information",
-      "Has complete information and chooses the best alternative to maximise results"
-     ],
-     "correct_index": 3,
-     "explanation": "It is an ideal model."
-    },
-    {
-     "question_text": "Bounded rationality means:",
-     "options": [
-      "They have unlimited ability",
-      "They never decide",
-      "Decision makers have limited information and ability, so they \"satisfice\" by choosing an acceptable solution",
-      "They maximise"
-     ],
-     "correct_index": 2,
-     "explanation": "Satisficing means choosing the first satisfactory option."
-    },
-    {
-     "question_text": "The four decision-making styles of Rowe and Mason are:",
-     "options": [
-      "Fast, slow, medium, none",
-      "Rational, emotional, social, moral",
-      "Directive, analytical, conceptual and behavioural",
-      "Strategic, tactical, operational, routine"
-     ],
-     "correct_index": 2,
-     "explanation": "They differ in tolerance for ambiguity and focus."
-    },
-    {
-     "question_text": "The directive style is:",
-     "options": [
-      "People-oriented",
-      "Creative",
-      "Slow and analytical",
-      "Fast and focused on results with low tolerance of ambiguity"
-     ],
-     "correct_index": 3,
-     "explanation": "Decisions are made quickly with little information."
-    },
-    {
-     "question_text": "The analytical style is:",
-     "options": [
-      "Intuitive",
-      "Careful and data-driven with a high tolerance for ambiguity",
-      "Emotional",
-      "Quick"
+      "Diversification",
+      "Market development",
+      "Product development",
+      "Market penetration"
      ],
      "correct_index": 1,
-     "explanation": "They want complete information."
+     "explanation": "Ansoff."
     },
     {
-     "question_text": "The conceptual style is:",
+     "question_text": "Launching new products in the existing market is:",
      "options": [
-      "Short-term",
-      "Rigid",
-      "Routine",
-      "Creative and long-term, with many options considered"
+      "Market development",
+      "Product development",
+      "Diversification",
+      "Market penetration"
+     ],
+     "correct_index": 1,
+     "explanation": "Ansoff."
+    },
+    {
+     "question_text": "A firm sells off a loss-making division to reduce its operations. This is:",
+     "options": [
+      "Diversification",
+      "Stability",
+      "Growth by acquisition",
+      "Retrenchment (divestment)"
      ],
      "correct_index": 3,
-     "explanation": "They are idea-oriented."
+     "explanation": "Shrinking."
+    },
+    {
+     "question_text": "MBO stands for:",
+     "options": [
+      "Management by observation",
+      "Management by objectives",
+      "Management by operations",
+      "Management by organisation"
+     ],
+     "correct_index": 1,
+     "explanation": "Drucker."
+    },
+    {
+     "question_text": "The Gantt chart is a tool used for:",
+     "options": [
+      "Evaluating decision alternatives by their payoffs",
+      "Calculating profits of the departments",
+      "Comparing competitor strategies",
+      "Scheduling activities against time"
+     ],
+     "correct_index": 3,
+     "explanation": "Bar chart."
+    },
+    {
+     "question_text": "PERT and CPM are techniques used for:",
+     "options": [
+      "Planning and controlling the complex projects",
+      "Appraising the performance of workers",
+      "Recruiting and selecting the staff",
+      "Analysing the financial statements"
+     ],
+     "correct_index": 0,
+     "explanation": "Network analysis."
+    },
+    {
+     "question_text": "In a project network, the critical path is the:",
+     "options": [
+      "Path with the greatest number of resources allotted to it",
+      "Path with the minimum cost of all the activities involved",
+      "Longest path, which fixes the minimum project time",
+      "Shortest path, which has the least number of activities"
+     ],
+     "correct_index": 2,
+     "explanation": "Zero slack."
+    },
+    {
+     "question_text": "If an activity on the critical path is delayed, the project completion time will:",
+     "options": [
+      "Be reduced, because the other activities speed up",
+      "Remain the same, because of the available slack",
+      "Be delayed by the same amount",
+      "Not be affected, as the critical path changes at once"
+     ],
+     "correct_index": 2,
+     "explanation": "No slack."
+    },
+    {
+     "question_text": "Float or slack in a network refers to:",
+     "options": [
+      "The time between the start and the end of the project",
+      "The time an activity can be delayed without delaying the project",
+      "The time taken by the critical activities of the project",
+      "The cost of the activities on the critical path"
+     ],
+     "correct_index": 1,
+     "explanation": "Spare time."
+    },
+    {
+     "question_text": "An activity has earliest start 5, earliest finish 9, latest finish 12. The slack of this activity is:",
+     "options": [
+      "7 days",
+      "3 days",
+      "0 days",
+      "4 days"
+     ],
+     "correct_index": 1,
+     "explanation": "LF − EF."
+    },
+    {
+     "question_text": "Network paths: A-B-D takes 4+6+5 = 15 days; A-C-D takes 4+8+5 = 17 days. The project duration is:",
+     "options": [
+      "16 days",
+      "15 days",
+      "17 days",
+      "32 days"
+     ],
+     "correct_index": 2,
+     "explanation": "Longest path."
+    },
+    {
+     "question_text": "In PERT, the expected time is computed as (O + 4M + P)/6. For O = 4, M = 6, P = 14, te is:",
+     "options": [
+      "7 days",
+      "9 days",
+      "6 days",
+      "8 days"
+     ],
+     "correct_index": 0,
+     "explanation": "(4 + 24 + 14)/6."
+    },
+    {
+     "question_text": "Forecasting differs from planning in that forecasting:",
+     "options": [
+      "Predicts future conditions, while planning decides the course of action",
+      "Decides the course of action, while planning predicts the future",
+      "Is not required in any planning exercise",
+      "Is performed after the plans are executed"
+     ],
+     "correct_index": 0,
+     "explanation": "Basis for planning."
+    },
+    {
+     "question_text": "Zero-based budgeting means that:",
+     "options": [
+      "Budgets are prepared by adding a percentage to last year's figures",
+      "The budget for the year is fixed at zero for all departments",
+      "Only the capital expenditure is budgeted for the period",
+      "Every item of expense must be justified afresh in each budget period"
+     ],
+     "correct_index": 3,
+     "explanation": "Starting from zero."
+    },
+    {
+     "question_text": "A flexible budget is one that:",
+     "options": [
+      "Is prepared by the top management alone",
+      "Is fixed for the period and cannot be changed",
+      "Is prepared only for the sales of the firm",
+      "Can be adjusted to the actual level of activity"
+     ],
+     "correct_index": 3,
+     "explanation": "Different output levels."
+    },
+    {
+     "question_text": "A budget of Rs 2,00,000 is fixed for 10,000 units. If the actual activity is 12,000 units, a flexible budget for the variable costs of Rs 15 per unit would allow:",
+     "options": [
+      "Rs 1,80,000 for variable costs",
+      "Rs 1,50,000 for variable costs",
+      "Rs 2,00,000 for variable costs",
+      "Rs 2,40,000 for variable costs"
+     ],
+     "correct_index": 0,
+     "explanation": "12,000 × 15."
+    },
+    {
+     "question_text": "Which of these is a quantitative objective?",
+     "options": [
+      "Increase sales by 12% next year",
+      "Improve the image of the firm",
+      "Become a good employer",
+      "Be known for quality"
+     ],
+     "correct_index": 0,
+     "explanation": "Measurable."
+    },
+    {
+     "question_text": "Management by exception is a principle of:",
+     "options": [
+      "Planning — managers set all the standards",
+      "Staffing — managers recruit only the exceptional people",
+      "Controlling — managers deal with major deviations only",
+      "Directing — managers motivate only the best employees"
+     ],
+     "correct_index": 2,
+     "explanation": "Focus on important deviations."
+    },
+    {
+     "question_text": "The planning premises that are within the control of the organisation are called:",
+     "options": [
+      "Internal premises",
+      "Tangible premises",
+      "External premises",
+      "Intangible premises"
+     ],
+     "correct_index": 0,
+     "explanation": "Policies, resources."
+    },
+    {
+     "question_text": "Which of these is an EXTERNAL planning premise?",
+     "options": [
+      "Management skills",
+      "Availability of capital",
+      "Existing policies of the firm",
+      "Government policy"
+     ],
+     "correct_index": 3,
+     "explanation": "Outside the firm."
+    },
+    {
+     "question_text": "Which of these is an example of a short-range plan?",
+     "options": [
+      "The operating budget for the next quarter",
+      "The 5-year plan for the expansion of capacity",
+      "The 10-year plan to enter international markets",
+      "The vision statement of the firm"
+     ],
+     "correct_index": 0,
+     "explanation": "Time horizon."
+    },
+    {
+     "question_text": "\"Plan A and, if it fails, Plan B for the same problem\" shows planning's:",
+     "options": [
+      "Lack of any forecast about the future events",
+      "Rigidity, through the fixed plans for the future",
+      "Flexibility, through contingency plans",
+      "Dependence on the outsiders for the decisions"
+     ],
+     "correct_index": 2,
+     "explanation": "Contingency."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 2: Planning and Decision Making – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "The behavioural style is:",
+     "question_text": "Contingency planning involves:",
      "options": [
-      "People-oriented, concerned with the acceptance of the decision by others",
-      "Fast",
-      "Rule-based",
-      "Data-focused"
+      "Preparing a single plan which cannot be modified in the future",
+      "Avoiding forecasts of the future conditions altogether",
+      "Preparing alternative plans in case events do not go as expected",
+      "Waiting for a crisis to occur before preparing any plan for it"
      ],
-     "correct_index": 0,
-     "explanation": "They prefer consensus and teamwork."
+     "correct_index": 2,
+     "explanation": "Backup."
     },
     {
-     "question_text": "A participative decision style:",
+     "question_text": "A \"programme\" as a type of plan is:",
      "options": [
-      "Ignores staff",
-      "Involves subordinates in the decision process",
-      "Is autocratic",
-      "Is made by the manager alone"
+      "A numerical statement of the expected income of the firm",
+      "A standing plan used for the repeated activities of the organisation",
+      "A rule laid down by the top management for all the employees",
+      "A single-use plan covering objectives, policies and resources for an undertaking"
+     ],
+     "correct_index": 3,
+     "explanation": "Single use."
+    },
+    {
+     "question_text": "The main difference between a programme and a project is that a project is:",
+     "options": [
+      "A smaller and more specific part of a programme",
+      "A standing plan used again and again",
+      "The larger activity which includes many programmes",
+      "A plan that is made by the shareholders"
+     ],
+     "correct_index": 0,
+     "explanation": "Part of a programme."
+    },
+    {
+     "question_text": "Opportunity cost in decision making refers to:",
+     "options": [
+      "The cost already incurred in the decision",
+      "The value of the best alternative that is given up",
+      "The cost of implementing the decision",
+      "The cost that cannot be recovered"
      ],
      "correct_index": 1,
-     "explanation": "It increases commitment."
+     "explanation": "Foregone benefit."
     },
     {
-     "question_text": "An advantage of group decision making is:",
+     "question_text": "Sunk costs should be:",
      "options": [
-      "Faster decisions",
-      "More information and diverse views, with greater acceptance",
-      "No conflict",
-      "Lower cost"
+      "Used to compute the profit of the decision",
+      "Added to the cost of the new alternative",
+      "Given the highest weight in decisions",
+      "Ignored in decisions about the future"
+     ],
+     "correct_index": 3,
+     "explanation": "Irrelevant."
+    },
+    {
+     "question_text": "Groupthink in group decision making is the tendency of:",
+     "options": [
+      "Members to give many different opinions on a subject",
+      "The leader to take decisions without consulting any member",
+      "Members to agree to preserve harmony instead of evaluating alternatives",
+      "Members to avoid attending the meetings of the group"
+     ],
+     "correct_index": 2,
+     "explanation": "Conformity."
+    },
+    {
+     "question_text": "In the Delphi technique, the group members:",
+     "options": [
+      "Are guided by the leader's opinion in all the rounds",
+      "Vote on the alternatives secretly in one round only",
+      "Meet face to face to discuss the problem in an open forum",
+      "Give their opinions anonymously in several rounds of questionnaires"
+     ],
+     "correct_index": 3,
+     "explanation": "Experts."
+    },
+    {
+     "question_text": "The key rule in brainstorming is that:",
+     "options": [
+      "Criticism of ideas is withheld while the ideas are being generated",
+      "Only the practical ideas may be spoken in the session",
+      "Only the leader is allowed to suggest ideas to the group",
+      "Each idea is evaluated as soon as it has been put forward"
+     ],
+     "correct_index": 0,
+     "explanation": "Quantity of ideas."
+    },
+    {
+     "question_text": "The nominal group technique involves:",
+     "options": [
+      "Open discussion without any structure or any written ideas",
+      "Opinions being collected from outsiders by post or e-mail",
+      "The leader selecting the solution without a discussion",
+      "Writing ideas individually, then discussing and ranking them by vote"
+     ],
+     "correct_index": 3,
+     "explanation": "Structured."
+    },
+    {
+     "question_text": "Intuitive decision making relies on:",
+     "options": [
+      "Statistical analysis only",
+      "Written rules only",
+      "Group voting",
+      "Experience and gut feeling"
+     ],
+     "correct_index": 3,
+     "explanation": "Quick decisions."
+    },
+    {
+     "question_text": "Which of the following is a feature of decision making?",
+     "options": [
+      "It is a one-time event",
+      "It involves a choice among the alternatives",
+      "It is done only at the top level",
+      "It does not involve any risk"
      ],
      "correct_index": 1,
-     "explanation": "Group decisions often improve quality."
+     "explanation": "Selection."
     },
     {
-     "question_text": "A disadvantage of group decision making is that it:",
+     "question_text": "Decision making is a \"continuous process\" because:",
      "options": [
-      "Is cheaper",
-      "Is faster",
-      "Lacks views",
-      "Takes more time and may suffer from groupthink"
-     ],
-     "correct_index": 3,
-     "explanation": "It also may be dominated by a few members."
-    },
-    {
-     "question_text": "Groupthink is:",
-     "options": [
-      "Rational thinking",
-      "Individual thinking",
-      "Creative thinking",
-      "A tendency of group members to seek agreement and ignore alternatives"
-     ],
-     "correct_index": 3,
-     "explanation": "It suppresses dissent."
-    },
-    {
-     "question_text": "Brainstorming is:",
-     "options": [
-      "A technique to generate many ideas without criticism",
-      "A survey",
-      "A voting method",
-      "A meeting for criticism"
-     ],
-     "correct_index": 0,
-     "explanation": "Evaluation comes later."
-    },
-    {
-     "question_text": "The nominal group technique:",
-     "options": [
-      "Has experts remain anonymous",
-      "Has members write ideas independently, then discuss and rank them by voting",
-      "Is a survey",
-      "Has members discuss freely"
+      "A single decision is enough for the whole life of the organisation",
+      "Managers keep making decisions on one problem or another all the time",
+      "Decisions are made only at the start of the year",
+      "Only the top management takes any decision"
      ],
      "correct_index": 1,
-     "explanation": "It reduces domination by a few."
+     "explanation": "Never-ending."
     },
     {
-     "question_text": "A decision tree is:",
+     "question_text": "A manager decides to pursue the course that gives the highest expected profit even though it carries some risk. The manager is:",
      "options": [
-      "A diagram showing decision alternatives, chance events and outcomes to compare expected values",
-      "An organisation chart",
-      "A family tree",
-      "A budget"
+      "A risk-neutral decision maker",
+      "A risk-avoiding decision maker",
+      "A risk-averse decision maker",
+      "An intuitive decision maker"
      ],
      "correct_index": 0,
-     "explanation": "It helps in decisions under risk."
+     "explanation": "Maximising expected value."
     },
     {
-     "question_text": "Payoffs of 50,000, 20,000 and −10,000 with probabilities 0.3, 0.5, 0.2. The EMV is:",
+     "question_text": "The difference between planning and decision making is that:",
      "options": [
-      "Rs 60,000",
-      "Rs 15,000",
-      "Rs 20,000",
-      "Rs 23,000"
+      "Both are exactly the same in every respect of the process",
+      "Planning is a single step in the process of decision making",
+      "Decision making is the function of the lowest level alone",
+      "Decision making selects a course of action, one step in planning"
      ],
      "correct_index": 3,
-     "explanation": "15,000 + 10,000 − 2,000."
+     "explanation": "Planning involves decisions."
     },
     {
-     "question_text": "Option A: 60% chance of Rs 1,00,000 and 40% chance of Rs 20,000; Option B: certain Rs 70,000. The better option is:",
+     "question_text": "The \"hierarchy of plans\" runs from:",
      "options": [
-      "Option A, since EMV is Rs 80,000",
-      "Neither",
-      "They are equal",
-      "Option B, since EMV of A is Rs 68,000"
-     ],
-     "correct_index": 3,
-     "explanation": "A = 60,000 + 8,000 = 68,000 < 70,000."
-    },
-    {
-     "question_text": "Plans A, B, C have payoffs (40, 10), (30, 20) and (25, 25). The maximin choice is:",
-     "options": [
-      "Plan C",
-      "Plan B",
-      "Plan A",
-      "None"
-     ],
-     "correct_index": 0,
-     "explanation": "The minimum payoffs are 10, 20 and 25; the best minimum is 25."
-    },
-    {
-     "question_text": "For the same plans, the maximax choice is:",
-     "options": [
-      "None",
-      "Plan C",
-      "Plan A",
-      "Plan B"
-     ],
-     "correct_index": 2,
-     "explanation": "The maximum payoffs are 40, 30 and 25."
-    },
-    {
-     "question_text": "The minimax regret criterion chooses the alternative that:",
-     "options": [
-      "Maximises profit",
-      "Minimises cost",
-      "Minimises the maximum regret (opportunity loss)",
-      "Maximises the minimum"
-     ],
-     "correct_index": 2,
-     "explanation": "Regret is the difference from the best outcome in each state."
-    },
-    {
-     "question_text": "A common decision-making error is:",
-     "options": [
-      "Gathering data",
-      "Using analysis",
-      "Consulting experts",
-      "Relying on biases and heuristics instead of analysis"
-     ],
-     "correct_index": 3,
-     "explanation": "Bias distorts judgment."
-    },
-    {
-     "question_text": "Heuristics are:",
-     "options": [
-      "Computer programs",
-      "Exact formulas",
-      "Mental shortcuts or rules of thumb used in decision making",
-      "Laws"
-     ],
-     "correct_index": 2,
-     "explanation": "They save time but may cause bias."
-    },
-    {
-     "question_text": "Anchoring bias is:",
-     "options": [
-      "Relying on the latest information",
-      "Overconfidence",
-      "Giving too much weight to the first information received, e.g., a first price offered",
-      "Ignoring all information"
-     ],
-     "correct_index": 2,
-     "explanation": "Later judgments stay close to the anchor."
-    },
-    {
-     "question_text": "Confirmation bias is:",
-     "options": [
-      "Ignoring beliefs",
-      "Seeking all evidence",
-      "Overconfidence",
-      "Seeking information that supports one's existing beliefs and ignoring contradicting evidence"
-     ],
-     "correct_index": 3,
-     "explanation": "It limits open evaluation."
-    },
-    {
-     "question_text": "Availability bias is:",
-     "options": [
-      "Judging by facts",
-      "Judging by statistics",
-      "Judging likelihood by how easily examples come to mind",
-      "Ignoring examples"
-     ],
-     "correct_index": 2,
-     "explanation": "Vivid or recent events seem more likely."
-    },
-    {
-     "question_text": "Overconfidence bias is:",
-     "options": [
-      "Having no confidence",
-      "Underestimating ability",
-      "Being realistic",
-      "Overestimating one's own knowledge or ability to predict"
-     ],
-     "correct_index": 3,
-     "explanation": "It leads to excessive risk."
-    },
-    {
-     "question_text": "Hindsight bias is:",
-     "options": [
-      "Predicting the future",
-      "Forgetting",
-      "Ignoring results",
-      "Believing after an event that one \"knew it all along\""
-     ],
-     "correct_index": 3,
-     "explanation": "It distorts learning from outcomes."
-    },
-    {
-     "question_text": "The framing effect is:",
-     "options": [
-      "Ignoring information",
-      "Reaching different decisions depending on how the same information is presented",
-      "Presenting facts",
-      "Making no decision"
+      "Policies to the mission and then to the budgets and rules",
+      "Mission to objectives, strategies, policies, procedures, rules and budgets",
+      "Budgets to the mission and then to the rules and policies",
+      "Rules to procedures, policies, strategies, objectives and mission"
      ],
      "correct_index": 1,
-     "explanation": "E.g., 90% survival vs 10% mortality."
+     "explanation": "Broad to specific."
     },
     {
-     "question_text": "The sunk cost fallacy is:",
+     "question_text": "A firm with Rs 10 crore turnover aims for Rs 12 crore next year. The expected growth target is:",
      "options": [
-      "Ignoring past cost",
-      "Controlling costs",
-      "Continuing with a decision because of past investment that cannot be recovered",
-      "Stopping on time"
+      "2%",
+      "20%",
+      "10%",
+      "12%"
+     ],
+     "correct_index": 1,
+     "explanation": "Increase of 2 on 10."
+    },
+    {
+     "question_text": "If a firm sets an objective of 15% growth on sales of Rs 80 lakh, the target sales are:",
+     "options": [
+      "Rs 95 lakh",
+      "Rs 92 lakh",
+      "Rs 87 lakh",
+      "Rs 96 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "80 × 1.15."
+    },
+    {
+     "question_text": "The \"SMART\" objectives are those which are:",
+     "options": [
+      "Standard, mechanical, automatic, regular and timed",
+      "Simple, modern, accurate, reliable and tested",
+      "Specific, measurable, achievable, relevant and time-bound",
+      "Strategic, managed, assessed, recorded and traced"
      ],
      "correct_index": 2,
-     "explanation": "Only future costs and benefits matter."
+     "explanation": "Well-formed objectives."
     },
     {
-     "question_text": "Escalation of commitment is:",
+     "question_text": "The objective \"to be the best in the industry\" lacks which SMART criterion?",
      "options": [
-      "Increasing commitment to a failing course of action despite negative evidence",
-      "Ending a project",
-      "Reviewing a plan",
-      "Reducing commitment"
+      "Achievable",
+      "Specific and measurable",
+      "Relevant",
+      "Time-bound"
      ],
-     "correct_index": 0,
-     "explanation": "It is related to the sunk cost fallacy."
+     "correct_index": 1,
+     "explanation": "Too vague."
     },
     {
-     "question_text": "The self-serving bias is:",
+     "question_text": "When a firm adopts a policy of promoting from within, it affects:",
      "options": [
-      "Crediting successes to oneself and blaming failures on external factors",
-      "Crediting others",
-      "Ignoring results",
-      "Blaming oneself"
+      "The budget for the purchase of materials",
+      "Decisions about recruitment and promotions",
+      "The procedure for the preparation of accounts",
+      "The firm's rules for pricing"
      ],
-     "correct_index": 0,
-     "explanation": "It distorts evaluation of performance."
+     "correct_index": 1,
+     "explanation": "Staffing policy."
     },
     {
-     "question_text": "Managers can reduce decision biases by:",
+     "question_text": "The process of identifying the organisation's strengths, weaknesses, opportunities and threats helps in:",
      "options": [
-      "Avoiding analysis",
-      "Ignoring feedback",
-      "Seeking diverse views, using data, and having structured decision processes",
-      "Relying on instinct"
+      "Recruitment of workers",
+      "Maintenance of machines",
+      "Strategic planning",
+      "Payroll processing"
      ],
      "correct_index": 2,
-     "explanation": "Devil's advocate and checklists also help."
+     "explanation": "Environmental scanning."
+    },
+    {
+     "question_text": "Environmental scanning means:",
+     "options": [
+      "Reviewing the internal accounts of the organisation each year",
+      "Cleaning the premises of the firm at periodic intervals",
+      "Scanning the documents of the applicants at the time of hiring",
+      "Monitoring the external environment for opportunities and threats"
+     ],
+     "correct_index": 3,
+     "explanation": "External analysis."
+    },
+    {
+     "question_text": "PESTEL analysis examines:",
+     "options": [
+      "Political, economic, social, technological, environmental and legal factors",
+      "Planning, execution, supervision, training, evaluation and learning",
+      "Profit, earnings, sales, targets, expenses and losses",
+      "People, equipment, stock, time, effort and leadership"
+     ],
+     "correct_index": 0,
+     "explanation": "Macro environment."
+    },
+    {
+     "question_text": "A firm that plans to merge with another to increase its market share is following:",
+     "options": [
+      "A retrenchment strategy",
+      "A growth strategy",
+      "A divestment strategy",
+      "A stability strategy"
+     ],
+     "correct_index": 1,
+     "explanation": "Expansion."
+    },
+    {
+     "question_text": "Which of the following is true about planning?",
+     "options": [
+      "It is concerned only with the past performance",
+      "It is performed only once at the time of the start",
+      "It is required only at the top level of the firm",
+      "It is pervasive, continuous and future-oriented"
+     ],
+     "correct_index": 3,
+     "explanation": "Features of planning."
     }
    ]
   }

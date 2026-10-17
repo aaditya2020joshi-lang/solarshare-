@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 4: Staffing – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Staffing is the management function of:",
+     "question_text": "Staffing is the managerial function that deals with:",
      "options": [
-      "Filling and keeping filled positions in the organisation structure with the right people",
-      "Controlling costs",
-      "Setting goals",
-      "Designing structure"
-     ],
-     "correct_index": 0,
-     "explanation": "It covers recruitment, selection, training, appraisal and compensation."
-    },
-    {
-     "question_text": "Staffing differs from human resource management in that staffing is:",
-     "options": [
-      "Wider than HRM",
-      "Not a function",
-      "A function of management concerned with manning positions, while HRM is a wider function covering all people matters",
-      "The same"
+      "Guiding and motivating the people to put in their best efforts",
+      "Setting the objectives and the plans for the units of the firm",
+      "Filling and keeping filled the positions in the organisation structure",
+      "Comparing the actual results against the standards that were set"
      ],
      "correct_index": 2,
-     "explanation": "HRM includes welfare, industrial relations and so on."
+     "explanation": "Koontz and O'Donnell."
     },
     {
-     "question_text": "The importance of staffing includes:",
+     "question_text": "Which of these is the correct sequence of the staffing process?",
      "options": [
-      "Removing training",
-      "Increasing costs only",
-      "Removing control",
-      "Obtaining competent personnel and improving performance and morale"
+      "Manpower planning, recruitment, selection, placement, training",
+      "Selection, recruitment, manpower planning, placement, appraisal",
+      "Placement, selection, recruitment, appraisal, manpower planning",
+      "Recruitment, manpower planning, training, selection, placement"
+     ],
+     "correct_index": 0,
+     "explanation": "Process order."
+    },
+    {
+     "question_text": "Human resource planning means:",
+     "options": [
+      "Forecasting the demand for and supply of employees to meet future needs",
+      "Training the existing employees in the use of the new technology",
+      "Fixing the salary scales for the various jobs in the organisation",
+      "Selecting the candidates who are best suited for the current vacancies"
+     ],
+     "correct_index": 0,
+     "explanation": "Right number, right kind, right time."
+    },
+    {
+     "question_text": "The process of searching for prospective employees and encouraging them to apply is:",
+     "options": [
+      "Selection",
+      "Recruitment",
+      "Induction",
+      "Placement"
+     ],
+     "correct_index": 1,
+     "explanation": "Attracting candidates."
+    },
+    {
+     "question_text": "Choosing the best candidates from among the applicants is:",
+     "options": [
+      "Recruitment",
+      "Promotion",
+      "Selection",
+      "Orientation"
+     ],
+     "correct_index": 2,
+     "explanation": "Picking."
+    },
+    {
+     "question_text": "Recruitment is called a positive process while selection is a negative process because:",
+     "options": [
+      "Recruitment attracts many candidates while selection rejects the unsuitable ones",
+      "Both of them reject the candidates who do not have the right qualifications",
+      "Recruitment rejects candidates while selection attracts many applicants",
+      "Both of them attract the candidates who are available in the market"
+     ],
+     "correct_index": 0,
+     "explanation": "Recruitment widens; selection narrows."
+    },
+    {
+     "question_text": "Filling a vacancy by promoting an existing employee is an example of:",
+     "options": [
+      "Internal source of recruitment",
+      "Indirect recruitment through media",
+      "External source of recruitment",
+      "Direct recruitment through campus"
+     ],
+     "correct_index": 0,
+     "explanation": "From within."
+    },
+    {
+     "question_text": "Which of the following is an external source of recruitment?",
+     "options": [
+      "Promotion of a junior",
+      "Campus recruitment",
+      "Transfer from another department",
+      "Recall of former employees on leave"
+     ],
+     "correct_index": 1,
+     "explanation": "Outside the firm."
+    },
+    {
+     "question_text": "An advantage of internal recruitment is that it:",
+     "options": [
+      "Motivates the existing employees and reduces the cost of hiring",
+      "Brings in new ideas and experience from outside the firm",
+      "Avoids any dissatisfaction among employees who are not promoted",
+      "Gives a larger pool of candidates to choose from"
+     ],
+     "correct_index": 0,
+     "explanation": "Morale and cost."
+    },
+    {
+     "question_text": "A disadvantage of external recruitment is that it:",
+     "options": [
+      "Limits the choice to a few candidates in the firm",
+      "Leads to stagnation in the organisation",
+      "Prevents the entry of fresh talent into the firm",
+      "Is costly and may demotivate the existing employees"
      ],
      "correct_index": 3,
-     "explanation": "It ensures continuous survival and growth."
+     "explanation": "Costs and morale."
     },
     {
-     "question_text": "The first step in the staffing process is:",
+     "question_text": "Recruitment through advertisements in newspapers is an example of:",
+     "options": [
+      "Transfer",
+      "Internal recruitment",
+      "External recruitment",
+      "Employee referral"
+     ],
+     "correct_index": 2,
+     "explanation": "Public media."
+    },
+    {
+     "question_text": "Placing the employee on the job for which he or she is selected is:",
      "options": [
       "Placement",
-      "Estimating manpower requirements",
-      "Selection",
-      "Training"
-     ],
-     "correct_index": 1,
-     "explanation": "Then recruitment, selection, placement, training, appraisal and compensation."
-    },
-    {
-     "question_text": "Human resource planning is:",
-     "options": [
-      "Forecasting the organisation's future demand for and supply of human resources",
-      "Hiring on demand",
-      "Termination",
-      "Training only"
-     ],
-     "correct_index": 0,
-     "explanation": "It ensures the right number of people with the right skills."
-    },
-    {
-     "question_text": "An objective of HRP is to:",
-     "options": [
-      "Increase turnover",
-      "Eliminate employees",
-      "Ensure optimum use of human resources and avoid surplus or shortage",
-      "Avoid planning"
-     ],
-     "correct_index": 2,
-     "explanation": "It also prepares for future needs."
-    },
-    {
-     "question_text": "The steps in HRP start with:",
-     "options": [
-      "Analysing organisational objectives and forecasting demand",
-      "Appraisal",
-      "Selection",
-      "Training"
-     ],
-     "correct_index": 0,
-     "explanation": "Then supply forecast, gap analysis and action."
-    },
-    {
-     "question_text": "Methods of forecasting HR demand include:",
-     "options": [
-      "Managerial judgment, workload analysis and ratio-trend analysis",
-      "Medical tests",
-      "Rewards",
-      "Interviews"
-     ],
-     "correct_index": 0,
-     "explanation": "They estimate the number of people needed."
-    },
-    {
-     "question_text": "The supply of human resources is forecast by:",
-     "options": [
-      "Appraising only",
-      "Analysing the internal supply (skills inventory, replacement charts) and the external labour market",
-      "Ignoring staff",
-      "Training"
-     ],
-     "correct_index": 1,
-     "explanation": "It considers turnover and promotions."
-    },
-    {
-     "question_text": "A skills inventory is:",
-     "options": [
-      "A payroll",
-      "A list of tools",
-      "A budget",
-      "A record of employees' skills, qualifications and experience"
-     ],
-     "correct_index": 3,
-     "explanation": "It helps in internal placement."
-    },
-    {
-     "question_text": "A replacement chart shows:",
-     "options": [
-      "Present employees and potential replacements for each key position",
-      "Leaves",
-      "Salaries",
-      "Costs"
-     ],
-     "correct_index": 0,
-     "explanation": "It supports succession planning."
-    },
-    {
-     "question_text": "Measures to handle a surplus include:",
-     "options": [
-      "New recruitment",
-      "Raising wages",
-      "Overtime",
-      "Hiring freeze, voluntary retirement and retrenchment"
-     ],
-     "correct_index": 3,
-     "explanation": "Also reduced working hours."
-    },
-    {
-     "question_text": "Measures to handle a shortage include:",
-     "options": [
-      "Retrenchment",
-      "Hiring freeze",
-      "Layoffs",
-      "Recruitment, overtime and outsourcing"
-     ],
-     "correct_index": 3,
-     "explanation": "Training can fill skill gaps."
-    },
-    {
-     "question_text": "Job analysis is:",
-     "options": [
-      "The process of collecting information about the duties and requirements of a job",
-      "Recruiting",
-      "Appraisal",
-      "Selecting employees"
-     ],
-     "correct_index": 0,
-     "explanation": "It leads to job description and specification."
-    },
-    {
-     "question_text": "A job description is:",
-     "options": [
-      "A salary slip",
-      "A contract",
-      "The qualifications needed",
-      "A written statement of what a job involves: title, duties and responsibilities"
-     ],
-     "correct_index": 3,
-     "explanation": "It describes the job."
-    },
-    {
-     "question_text": "A job specification is:",
-     "options": [
-      "The pay",
-      "The duties",
-      "The location",
-      "A statement of the qualifications, skills and traits needed to perform the job"
-     ],
-     "correct_index": 3,
-     "explanation": "It describes the person."
-    },
-    {
-     "question_text": "A job description differs from a job specification in that the description:",
-     "options": [
-      "Lists the person's qualities",
-      "Lists the job's duties, while the specification lists the person's qualities required",
-      "Neither is written",
-      "Both are the same"
-     ],
-     "correct_index": 1,
-     "explanation": "Both come from job analysis."
-    },
-    {
-     "question_text": "Recruitment is:",
-     "options": [
-      "Firing employees",
-      "Training employees",
-      "The process of searching for prospective employees and stimulating them to apply",
-      "Selecting the best"
-     ],
-     "correct_index": 2,
-     "explanation": "It creates a pool of candidates."
-    },
-    {
-     "question_text": "Recruitment is called a positive process because it:",
-     "options": [
-      "Rejects candidates",
-      "Eliminates people",
-      "Reduces applicants",
-      "Attracts as many candidates as possible"
-     ],
-     "correct_index": 3,
-     "explanation": "Selection is negative because it rejects."
-    },
-    {
-     "question_text": "Internal sources of recruitment include:",
-     "options": [
-      "Employment exchanges",
-      "Advertisements",
-      "Campus recruitment",
-      "Promotion, transfer and referrals by present employees"
-     ],
-     "correct_index": 3,
-     "explanation": "They fill vacancies from within."
-    },
-    {
-     "question_text": "External sources of recruitment include:",
-     "options": [
-      "Advertisements, campus recruitment and employment exchanges",
+      "Training",
       "Promotion",
-      "Transfer",
-      "Demotion"
+      "Induction"
      ],
      "correct_index": 0,
-     "explanation": "They bring in new talent."
+     "explanation": "Right person, right job."
     },
     {
-     "question_text": "A merit of internal sources is _____, and a demerit is _____:",
+     "question_text": "Induction or orientation helps the new employee to:",
      "options": [
-      "Wide choice; high cost",
-      "High cost; fresh ideas",
-      "Motivation of employees and lower cost; limited choice and no fresh ideas",
-      "Fresh ideas; high cost"
+      "Learn the technical skills required for the promotion",
+      "Get transferred to a department of his own choice",
+      "Become familiar with the organisation and its rules",
+      "Get a higher salary in the first year of service"
      ],
      "correct_index": 2,
-     "explanation": "Internal recruitment is cheaper."
+     "explanation": "Settling in."
     },
     {
-     "question_text": "A merit of external sources is _____, and a demerit is _____:",
+     "question_text": "The correct order of the steps in the selection process is:",
      "options": [
-      "Motivation; no choice",
-      "Low cost; limited choice",
-      "Familiarity; speed",
-      "Wide choice and fresh ideas; high cost and demotivation of present staff"
+      "Job offer, test, interview, screening, medical exam, reference check",
+      "Reference check, interview, test, job offer, medical exam, screening",
+      "Preliminary screening, selection test, interview, reference check, medical exam, job offer",
+      "Interview, preliminary screening, medical exam, job offer, reference check, test"
+     ],
+     "correct_index": 2,
+     "explanation": "Funnel."
+    },
+    {
+     "question_text": "Which of these tests measures the ability of a candidate to learn a skill in the future?",
+     "options": [
+      "Personality test",
+      "Intelligence test",
+      "Achievement test",
+      "Aptitude test"
      ],
      "correct_index": 3,
-     "explanation": "They are more costly and slow."
+     "explanation": "Potential."
     },
     {
-     "question_text": "Campus recruitment is:",
+     "question_text": "A test of the candidate's existing knowledge and skills is an:",
      "options": [
-      "Walk-in interviews",
-      "Internal recruitment",
-      "Recruiting by advertisement",
-      "Recruiting students directly from colleges and institutes"
-     ],
-     "correct_index": 3,
-     "explanation": "Fresh talent is hired."
-    },
-    {
-     "question_text": "Employment exchanges are:",
-     "options": [
-      "Government agencies that bring jobseekers and employers together",
-      "Banks",
-      "Private firms",
-      "Courts"
+      "Achievement or proficiency test of current competence",
+      "Personality test of the traits and the temperament",
+      "Aptitude test of the capacity to learn in future",
+      "Interest test of the preferences for the type of work"
      ],
      "correct_index": 0,
-     "explanation": "They maintain registers of jobseekers."
+     "explanation": "Current skills."
+    },
+    {
+     "question_text": "Training is defined as a process aimed at:",
+     "options": [
+      "Fixing the salary of the employees for their jobs",
+      "Preparing the employees for higher positions in the future",
+      "Choosing the best employees for the senior positions",
+      "Improving the knowledge and skills of the employees for the present job"
+     ],
+     "correct_index": 3,
+     "explanation": "Present job."
+    },
+    {
+     "question_text": "Development is a process that focuses on:",
+     "options": [
+      "The orientation of the new employees to the working conditions",
+      "The immediate skill needs of the employee in the present job",
+      "The termination of the employee in cases of poor performance",
+      "The long-term growth of the employee to take on future responsibilities"
+     ],
+     "correct_index": 3,
+     "explanation": "Future."
+    },
+    {
+     "question_text": "The difference between training and development is that training is:",
+     "options": [
+      "For managers only while development is for the workers only",
+      "For the workers only while development is for the managers only",
+      "Career-oriented and long-term while development is job-oriented and short-term",
+      "Job-oriented and short-term while development is career-oriented and long-term"
+     ],
+     "correct_index": 3,
+     "explanation": "Scope."
+    },
+    {
+     "question_text": "Which of the following is an on-the-job training method?",
+     "options": [
+      "Lectures",
+      "Job rotation",
+      "Case studies",
+      "Simulation"
+     ],
+     "correct_index": 1,
+     "explanation": "Learn while working."
+    },
+    {
+     "question_text": "Which of the following is an off-the-job training method?",
+     "options": [
+      "Job rotation across departments",
+      "Apprenticeship under a skilled worker",
+      "Classroom lectures",
+      "Coaching by a superior"
+     ],
+     "correct_index": 2,
+     "explanation": "Away from the work."
+    },
+    {
+     "question_text": "Vestibule training is a method in which:",
+     "options": [
+      "Employees learn by moving from one job to another job in the firm",
+      "Employees are trained in a simulated work environment away from the actual shop floor",
+      "Employees learn by watching a skilled worker at the actual workplace",
+      "Employees learn through the case studies in a classroom"
+     ],
+     "correct_index": 1,
+     "explanation": "Replica of the workplace."
+    },
+    {
+     "question_text": "Apprenticeship training combines:",
+     "options": [
+      "Only the classroom learning of the theory",
+      "Only the simulation of the work environment",
+      "Only the reading of books and manuals",
+      "On-the-job experience with the theoretical learning"
+     ],
+     "correct_index": 3,
+     "explanation": "Earn while you learn."
+    },
+    {
+     "question_text": "In the \"case study\" method of training:",
+     "options": [
+      "Trainees move across various departments of the firm",
+      "Trainees analyse real or imaginary situations and suggest solutions",
+      "Trainees are given lectures by the experts",
+      "Trainees work with the actual machines under supervision"
+     ],
+     "correct_index": 1,
+     "explanation": "Problem solving."
+    },
+    {
+     "question_text": "Role playing as a training method is useful for developing:",
+     "options": [
+      "Technical skills in using machines",
+      "Physical skills required on the shop floor",
+      "Knowledge of company rules and policies",
+      "Interpersonal and communication skills"
+     ],
+     "correct_index": 3,
+     "explanation": "Behaviour."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 4: Staffing – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Placement agencies and headhunters:",
+     "question_text": "Performance appraisal is the process of:",
      "options": [
-      "Train employees",
-      "Set wages",
-      "Search for and recommend suitable candidates for managerial positions on behalf of employers",
-      "Fire employees"
+      "Selecting the candidates who are applying for a job in the firm",
+      "Training the employees in the new methods of production",
+      "Deciding the pay scales for the various posts in the firm",
+      "Evaluating the performance of employees against the set standards"
+     ],
+     "correct_index": 3,
+     "explanation": "Rating."
+    },
+    {
+     "question_text": "Which of the following is NOT a purpose of performance appraisal?",
+     "options": [
+      "Deciding on the promotions and transfers of employees",
+      "Giving feedback on the work to the employees",
+      "Selecting candidates for vacancies from outside the firm",
+      "Identifying the training needs of the employees"
      ],
      "correct_index": 2,
-     "explanation": "They charge a fee."
+     "explanation": "Not for external selection."
     },
     {
-     "question_text": "Recruitment differs from selection in that recruitment is:",
+     "question_text": "The \"halo effect\" in performance appraisal is when:",
      "options": [
-      "Choosing",
-      "Attracting candidates, while selection is choosing the right ones",
-      "Rejecting",
-      "Placing"
+      "A rater is harsh on all the employees without exception",
+      "A rater lets one outstanding trait influence the rating on all the other traits",
+      "A rater is influenced by the most recent performance of the employee",
+      "A rater rates all employees as average to avoid conflicts with them"
      ],
      "correct_index": 1,
-     "explanation": "Recruitment is positive; selection is negative."
+     "explanation": "Rating bias."
     },
     {
-     "question_text": "Selection is:",
+     "question_text": "The \"central tendency\" error in appraisal occurs when the rater:",
      "options": [
-      "Attracting applicants",
-      "Appraisal",
-      "The process of choosing the most suitable candidate from among the applicants",
-      "Training"
+      "Rates all employees very low",
+      "Rates all employees very high",
+      "Rates all employees near the average",
+      "Rates only the recent performance"
      ],
      "correct_index": 2,
-     "explanation": "It involves screening and testing."
+     "explanation": "Avoids extremes."
     },
     {
-     "question_text": "Selection is called a negative process because:",
+     "question_text": "A 360-degree appraisal involves feedback from:",
      "options": [
-      "It rejects the unsuitable candidates",
-      "It attracts candidates",
-      "It promotes candidates",
-      "It trains candidates"
-     ],
-     "correct_index": 0,
-     "explanation": "Only a few are chosen."
-    },
-    {
-     "question_text": "The steps in the selection process include:",
-     "options": [
-      "Termination",
-      "Screening, tests, interview, reference check, medical exam and offer",
-      "Promotion",
-      "Training and appraisal"
+      "The employee being appraised, through self-rating alone",
+      "Superiors, peers, subordinates and sometimes customers",
+      "The HR department of the firm, through the records alone",
+      "The immediate superior of the employee alone"
      ],
      "correct_index": 1,
-     "explanation": "In that order."
+     "explanation": "Multi-source."
     },
     {
-     "question_text": "Preliminary screening is:",
+     "question_text": "Management by Objectives as an appraisal method evaluates employees on the basis of:",
      "options": [
-      "The final interview",
-      "Training",
-      "A medical test",
-      "Eliminating unqualified candidates by reviewing applications"
-     ],
-     "correct_index": 3,
-     "explanation": "It saves time later."
-    },
-    {
-     "question_text": "Selection tests include:",
-     "options": [
-      "Reference",
-      "Aptitude, intelligence, personality, interest and trade tests",
-      "Interviews",
-      "Medical tests only"
+      "Their seniority and length of service in the firm",
+      "Achievement of the jointly agreed targets",
+      "Their personality traits as seen by the superior",
+      "Their attendance and punctuality in the firm"
      ],
      "correct_index": 1,
-     "explanation": "They measure suitability."
+     "explanation": "Results."
     },
     {
-     "question_text": "An aptitude test measures:",
+     "question_text": "The \"graphic rating scale\" appraises employees by:",
      "options": [
-      "Interests",
-      "Personality",
-      "Health",
-      "A person's potential to learn or perform a job"
-     ],
-     "correct_index": 3,
-     "explanation": "It tests capacity for training."
-    },
-    {
-     "question_text": "A personality test measures:",
-     "options": [
-      "Traits such as emotional stability, motivation and temperament",
-      "Skills",
-      "Knowledge",
-      "Health"
-     ],
-     "correct_index": 0,
-     "explanation": "It tests behaviour patterns."
-    },
-    {
-     "question_text": "A good selection test must have:",
-     "options": [
-      "Complexity",
-      "High cost",
-      "Length",
-      "Validity and reliability"
-     ],
-     "correct_index": 3,
-     "explanation": "Validity means it measures what it should; reliability means consistent results."
-    },
-    {
-     "question_text": "Types of interviews include:",
-     "options": [
-      "Structured, unstructured, panel, stress and behavioural",
-      "Online only",
-      "Group only",
-      "Written only"
-     ],
-     "correct_index": 0,
-     "explanation": "They vary in format."
-    },
-    {
-     "question_text": "A structured interview:",
-     "options": [
-      "Is casual",
-      "Is a test",
-      "Has no fixed questions",
-      "Uses a fixed set of pre-planned questions for all candidates"
-     ],
-     "correct_index": 3,
-     "explanation": "It ensures consistency."
-    },
-    {
-     "question_text": "An unstructured interview:",
-     "options": [
-      "Is a form",
-      "Has fixed questions",
-      "Is a test",
-      "Has no fixed questions and the conversation flows freely"
-     ],
-     "correct_index": 3,
-     "explanation": "It allows depth but is less consistent."
-    },
-    {
-     "question_text": "A behavioural interview:",
-     "options": [
-      "Is a test",
-      "Asks candidates how they behaved in past situations to predict future behaviour",
-      "Is written",
-      "Asks hypothetical questions only"
-     ],
-     "correct_index": 1,
-     "explanation": "Past behaviour predicts future performance."
-    },
-    {
-     "question_text": "A reference check is carried out to:",
-     "options": [
-      "Promote the candidate",
-      "Appraise the candidate",
-      "Verify the candidate's background and character",
-      "Train the candidate"
+      "Describing the critical incidents in the essay form",
+      "Checking the employees against the standard time",
+      "Rating the traits on a scale from poor to excellent",
+      "Comparing the employees against each other in a ranking"
      ],
      "correct_index": 2,
-     "explanation": "It confirms information given."
+     "explanation": "Scale."
     },
     {
-     "question_text": "A medical examination is required to:",
+     "question_text": "Ranking employees from best to worst is the:",
      "options": [
-      "Verify references",
-      "Ensure the candidate is physically fit for the job",
-      "Test intelligence",
-      "Train"
-     ],
-     "correct_index": 1,
-     "explanation": "It protects the organisation."
-    },
-    {
-     "question_text": "A job offer is:",
-     "options": [
-      "A proposal of employment, and an appointment letter confirms the terms of employment",
-      "A reference",
-      "An interview",
-      "A test"
+      "Ranking method",
+      "Management by objectives method",
+      "Critical incident method",
+      "Graphic scale method"
      ],
      "correct_index": 0,
-     "explanation": "The appointment letter makes it formal."
+     "explanation": "Order of merit."
     },
     {
-     "question_text": "Placement is:",
+     "question_text": "Compensation to employees includes:",
+     "options": [
+      "Only the basic salary that is paid every month",
+      "Wages, salaries, bonuses and benefits",
+      "Only the share in the profits paid out every year",
+      "Only the bonus that is paid on the festival days"
+     ],
+     "correct_index": 1,
+     "explanation": "Total pay."
+    },
+    {
+     "question_text": "Job evaluation is a process of:",
+     "options": [
+      "Estimating the cost of the training given on the job",
+      "Determining the relative worth of jobs in the organisation",
+      "Evaluating the performance of the employee on the job",
+      "Judging the qualifications of the candidates for the job"
+     ],
+     "correct_index": 1,
+     "explanation": "Pay structure."
+    },
+    {
+     "question_text": "Which of these methods of job evaluation is the simplest?",
+     "options": [
+      "Ranking method",
+      "Classification method",
+      "Point method",
+      "Factor comparison method"
+     ],
+     "correct_index": 0,
+     "explanation": "Orders jobs by importance."
+    },
+    {
+     "question_text": "A pay structure based on equal pay for equal work is dependent upon:",
      "options": [
       "Recruitment",
-      "Training",
-      "Appraisal",
-      "Putting the selected person on the right job"
+      "Induction",
+      "Performance appraisal",
+      "Job evaluation"
      ],
      "correct_index": 3,
-     "explanation": "It matches person and job."
+     "explanation": "Fairness."
     },
     {
-     "question_text": "Selection differs from placement in that selection is:",
+     "question_text": "A wage incentive paid for exceeding the production target is an example of:",
      "options": [
-      "Choosing the candidate, while placement is assigning them to a job",
-      "Training",
-      "Appraisal",
-      "Assigning the job"
-     ],
-     "correct_index": 0,
-     "explanation": "Placement follows selection."
-    },
-    {
-     "question_text": "Employee orientation (induction) is:",
-     "options": [
-      "Appraisal",
-      "Selection",
-      "Training for promotion",
-      "Introducing a new employee to the organisation, job and colleagues"
-     ],
-     "correct_index": 3,
-     "explanation": "It helps in adjustment."
-    },
-    {
-     "question_text": "The contents of an induction programme include:",
-     "options": [
-      "Appraisal",
-      "Termination",
-      "The company history, policies, rules, job duties and benefits",
-      "Salary negotiations"
+      "Fringe benefit",
+      "Non-financial incentive",
+      "Financial incentive",
+      "Statutory benefit"
      ],
      "correct_index": 2,
-     "explanation": "It also includes introductions."
+     "explanation": "Pay linked to output."
     },
     {
-     "question_text": "An advantage of induction is that it:",
+     "question_text": "Stock options for employees are a:",
      "options": [
-      "Slows work",
-      "Reduces anxiety and turnover and speeds up adjustment",
-      "Increases anxiety",
-      "Increases turnover"
-     ],
-     "correct_index": 1,
-     "explanation": "New employees settle in quickly."
-    },
-    {
-     "question_text": "Training is:",
-     "options": [
-      "A process of increasing the knowledge and skills of employees for a particular job",
-      "Selection",
-      "Education in general",
-      "Appraisal"
-     ],
-     "correct_index": 0,
-     "explanation": "It is job-oriented."
-    },
-    {
-     "question_text": "Development is:",
-     "options": [
-      "Short-term training",
-      "A long-term process of growth of managers' abilities for future roles",
-      "Appraisal",
-      "Selection"
-     ],
-     "correct_index": 1,
-     "explanation": "It is career-oriented."
-    },
-    {
-     "question_text": "Training differs from development in that training is:",
-     "options": [
-      "Career-oriented",
-      "Education",
-      "Long-term",
-      "Job-oriented and short-term, development is career-oriented and long-term"
+      "Non-financial incentive",
+      "Short-term incentive",
+      "Statutory benefit",
+      "Long-term financial incentive"
      ],
      "correct_index": 3,
-     "explanation": "Training suits operatives; development suits managers."
+     "explanation": "Ownership."
+    },
+    {
+     "question_text": "Promotion means:",
+     "options": [
+      "Removal from the service of the organisation",
+      "Movement to another position at the same level of pay",
+      "Movement to a higher position with greater responsibility and pay",
+      "Movement to a lower position in the organisation"
+     ],
+     "correct_index": 2,
+     "explanation": "Upward move."
+    },
+    {
+     "question_text": "Transfer means:",
+     "options": [
+      "A move to a lower position in the hierarchy, with less pay",
+      "A termination of the services of the employee by the firm",
+      "A move to a higher position in the hierarchy, with more pay",
+      "A move to another job at the same level, without any change in pay"
+     ],
+     "correct_index": 3,
+     "explanation": "Lateral."
+    },
+    {
+     "question_text": "Which of the following is an example of a lateral movement?",
+     "options": [
+      "Promotion from clerk to the senior clerk",
+      "Demotion from manager to the assistant",
+      "Transfer from sales to marketing at the same level",
+      "Dismissal for misconduct"
+     ],
+     "correct_index": 2,
+     "explanation": "Same grade."
+    },
+    {
+     "question_text": "\"Retrenchment\" refers to:",
+     "options": [
+      "Termination of services of the employees due to surplus staff",
+      "Resignation of the employees on their own wish",
+      "Retirement of employees at the age of superannuation",
+      "Promotion of employees to a higher level"
+     ],
+     "correct_index": 0,
+     "explanation": "Layoff."
+    },
+    {
+     "question_text": "Which of the following is a typical cause of employee turnover?",
+     "options": [
+      "Good relations with the superiors",
+      "Poor working conditions and low pay",
+      "Fair appraisal and clear career paths",
+      "Job security and recognition"
+     ],
+     "correct_index": 1,
+     "explanation": "Dissatisfaction."
+    },
+    {
+     "question_text": "The concept of \"labour turnover\" is computed as the number of separations during a period divided by the:",
+     "options": [
+      "Average number of employees during the period",
+      "Total wages paid during the period",
+      "Number of new joiners in the period",
+      "Number of vacancies in the period"
+     ],
+     "correct_index": 0,
+     "explanation": "Rate."
+    },
+    {
+     "question_text": "If 20 employees leave during the year and the average number of employees is 200, the labour turnover is:",
+     "options": [
+      "100%",
+      "10%",
+      "20%",
+      "2%"
+     ],
+     "correct_index": 1,
+     "explanation": "20/200."
+    },
+    {
+     "question_text": "HR planning estimates the demand for employees on the basis of:",
+     "options": [
+      "Number of customers who buy from the firm",
+      "Past profits and the dividends paid in earlier years",
+      "Number of the shareholders registered in the firm",
+      "Business plans, technology and expected growth"
+     ],
+     "correct_index": 3,
+     "explanation": "Demand forecast."
+    },
+    {
+     "question_text": "In forecasting the supply of employees, HR planners consider:",
+     "options": [
+      "Government taxes and the subsidies for the firm",
+      "Retirements, resignations, promotions and transfers",
+      "Prices of the raw materials and fuel for the firm",
+      "Sales targets and the profit margins of the firm"
+     ],
+     "correct_index": 1,
+     "explanation": "Internal supply."
+    },
+    {
+     "question_text": "The \"job analysis\" results in:",
+     "options": [
+      "Job description and job specification",
+      "Induction and training",
+      "Performance appraisal and rewards",
+      "Placement and promotion"
+     ],
+     "correct_index": 0,
+     "explanation": "Foundation."
+    },
+    {
+     "question_text": "A job enrichment programme aims at:",
+     "options": [
+      "Moving the employees from one job to another at regular intervals",
+      "Reducing the work load of the employee in the job",
+      "Adding the responsibility and decision making to the job to motivate the employee",
+      "Increasing the number of the tasks of the same level in the job"
+     ],
+     "correct_index": 2,
+     "explanation": "Vertical loading."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 4: Staffing – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Training differs from education in that training is:",
+     "question_text": "Job enlargement involves:",
      "options": [
-      "Long-term",
-      "Theoretical",
-      "Job-specific and practical, while education is general and theoretical",
-      "General"
-     ],
-     "correct_index": 2,
-     "explanation": "Education builds general knowledge."
-    },
-    {
-     "question_text": "Training is important because it:",
-     "options": [
-      "Improves performance, reduces errors and prepares employees for change",
-      "Increases cost only",
-      "Reduces motivation",
-      "Increases errors"
+      "Adding more tasks of the same level to a job",
+      "Giving more authority and responsibility in the job",
+      "Moving the employee to another department",
+      "Reducing the number of tasks in the job"
      ],
      "correct_index": 0,
-     "explanation": "It raises morale."
+     "explanation": "Horizontal loading."
     },
     {
-     "question_text": "The training process begins with:",
+     "question_text": "Job rotation means:",
      "options": [
-      "Content design",
-      "Delivery",
-      "Identifying training needs",
-      "Evaluation"
-     ],
-     "correct_index": 2,
-     "explanation": "Then set objectives, design the programme, conduct and evaluate."
-    },
-    {
-     "question_text": "Training needs analysis examines:",
-     "options": [
-      "Organisational, task and person needs",
-      "Only wages",
-      "Only profits",
-      "Only sales"
+      "Moving employees between jobs to reduce boredom and build skills",
+      "Increasing the number of the tasks within the same job",
+      "Dismissing the employees after they complete a few years",
+      "Adding the higher-level duties to the job of the employee"
      ],
      "correct_index": 0,
-     "explanation": "It finds who needs which training."
+     "explanation": "Variety."
     },
     {
-     "question_text": "Kirkpatrick's four levels of evaluation are:",
+     "question_text": "A company introduces flexible working hours. This is an example of:",
      "options": [
-      "Input, process, output, outcome",
-      "Plan, do, check, act",
-      "Reaction, learning, behaviour and results",
-      "Aptitude, attitude, ability, action"
-     ],
-     "correct_index": 2,
-     "explanation": "From trainees' reactions to organisational results."
-    },
-    {
-     "question_text": "On-the-job training methods include:",
-     "options": [
-      "Simulation",
-      "Vestibule",
-      "Coaching, job rotation, understudy and apprenticeship",
-      "Case study and role play"
-     ],
-     "correct_index": 2,
-     "explanation": "Training is given at the workplace."
-    },
-    {
-     "question_text": "Coaching is:",
-     "options": [
-      "A lecture",
-      "Guidance of a trainee by a superior who teaches by instruction and feedback",
-      "A simulation",
-      "A test"
-     ],
-     "correct_index": 1,
-     "explanation": "It is a one-to-one approach."
-    },
-    {
-     "question_text": "Job rotation is:",
-     "options": [
-      "Selection",
-      "Moving employees across different jobs to widen their skills",
-      "Promotion",
-      "Termination"
-     ],
-     "correct_index": 1,
-     "explanation": "It reduces monotony."
-    },
-    {
-     "question_text": "An understudy is:",
-     "options": [
-      "A person trained to take over the superior's job when needed",
-      "A mentor",
-      "An apprentice",
-      "A coach"
-     ],
-     "correct_index": 0,
-     "explanation": "It prepares future leaders."
-    },
-    {
-     "question_text": "Apprenticeship training:",
-     "options": [
-      "Is a seminar",
-      "Is a lecture",
-      "Is a test",
-      "Combines classroom learning with practical work under experts over a period"
-     ],
-     "correct_index": 3,
-     "explanation": "Common in skilled trades."
-    },
-    {
-     "question_text": "Mentoring is:",
-     "options": [
-      "A test",
-      "A lecture",
-      "A simulation",
-      "A relationship in which an experienced person guides a junior's career"
-     ],
-     "correct_index": 3,
-     "explanation": "It is broader than coaching."
-    },
-    {
-     "question_text": "A merit of on-the-job training is _____, and a demerit is _____:",
-     "options": [
-      "Practical and low cost; disruption of work and untrained trainers",
-      "Disruption; practicality",
-      "No practice; no cost",
-      "Theoretical; high cost"
-     ],
-     "correct_index": 0,
-     "explanation": "Learning is real but may disturb production."
-    },
-    {
-     "question_text": "Off-the-job training methods include:",
-     "options": [
-      "Coaching",
-      "Understudy",
+      "Job enrichment",
+      "Job evaluation",
       "Job rotation",
-      "Case studies, role play, simulation, vestibule and sensitivity training"
+      "Alternative work arrangements"
      ],
      "correct_index": 3,
-     "explanation": "Training is given away from the workplace."
+     "explanation": "Flexible schedule."
     },
     {
-     "question_text": "The case study method:",
+     "question_text": "Employee referral as a source of recruitment is:",
      "options": [
-      "Uses real or imaginary business situations to develop analytical skills",
-      "Uses simulation",
-      "Uses lectures",
-      "Uses movies"
-     ],
-     "correct_index": 0,
-     "explanation": "Trainees suggest solutions."
-    },
-    {
-     "question_text": "Role playing is:",
-     "options": [
-      "A lecture",
-      "Reading a case",
-      "Acting out a situation to understand behaviours and develop interpersonal skills",
-      "A test"
-     ],
-     "correct_index": 2,
-     "explanation": "It builds empathy."
-    },
-    {
-     "question_text": "Simulation is:",
-     "options": [
-      "A training method that reproduces real situations in a safe environment",
-      "An interview",
-      "A lecture",
-      "A case"
-     ],
-     "correct_index": 0,
-     "explanation": "E.g., flight simulators."
-    },
-    {
-     "question_text": "Vestibule training is:",
-     "options": [
-      "A seminar",
-      "On-the-job coaching",
-      "Training in a replica of the workplace, away from the production floor",
-      "A lecture"
-     ],
-     "correct_index": 2,
-     "explanation": "It avoids disruption of production."
-    },
-    {
-     "question_text": "Sensitivity training:",
-     "options": [
-      "Is a lecture",
-      "Develops awareness of oneself and others through group interaction",
-      "Is a test",
-      "Teaches technical skills"
-     ],
-     "correct_index": 1,
-     "explanation": "It improves interpersonal skills."
-    },
-    {
-     "question_text": "A merit of off-the-job training is _____, and a demerit is _____:",
-     "options": [
-      "Practical; cheap",
-      "Expert instruction and no disruption; high cost and less realistic",
-      "Disruptive; cheap",
-      "Low cost; realistic"
-     ],
-     "correct_index": 1,
-     "explanation": "Trainees may not transfer learning."
-    },
-    {
-     "question_text": "On-the-job training differs from off-the-job training in that it takes place:",
-     "options": [
-      "At the workplace, while the latter is away from it",
-      "Away from the work",
-      "In a classroom",
-      "At home"
-     ],
-     "correct_index": 0,
-     "explanation": "OJT is practical; off-the-job is conceptual."
-    },
-    {
-     "question_text": "Management development programmes aim to:",
-     "options": [
-      "Recruit",
-      "Terminate",
-      "Improve managers' knowledge, skills and attitudes for higher responsibilities",
-      "Train workers"
-     ],
-     "correct_index": 2,
-     "explanation": "They prepare managers for future roles."
-    },
-    {
-     "question_text": "Performance appraisal is:",
-     "options": [
-      "Training",
-      "Selection",
-      "Recruitment",
-      "The systematic evaluation of an employee's performance and potential"
+      "Costly and time-consuming, and open to public scrutiny",
+      "Rarely available in practice in any large organisation",
+      "Formal and impersonal, since agencies are involved",
+      "Quick and cheap, but it may lead to favouritism"
      ],
      "correct_index": 3,
-     "explanation": "It is the basis for rewards and promotions."
+     "explanation": "Existing employees recommend."
     },
     {
-     "question_text": "An objective of performance appraisal is to:",
+     "question_text": "Campus recruitment is useful for hiring:",
      "options": [
-      "Fire staff always",
-      "Provide a basis for pay, promotion, training and feedback",
-      "Reduce pay",
-      "Hire staff"
+      "Part-time workers for the odd jobs",
+      "Experienced professionals for the senior positions",
+      "Retired persons for the advisory posts",
+      "Fresh graduates with no experience"
      ],
-     "correct_index": 1,
-     "explanation": "It also motivates employees."
+     "correct_index": 3,
+     "explanation": "Colleges."
     },
     {
-     "question_text": "The process of performance appraisal starts with:",
+     "question_text": "Walk-in interviews are an example of:",
      "options": [
-      "Feedback",
-      "Rewarding",
-      "Establishing performance standards",
-      "Training"
+      "Internal recruitment",
+      "Indirect recruitment",
+      "Direct recruitment",
+      "Third-party recruitment"
      ],
      "correct_index": 2,
-     "explanation": "Then communicate, measure, compare and give feedback."
+     "explanation": "Candidates visit the firm."
     },
     {
-     "question_text": "Appraisal methods are classified into:",
+     "question_text": "Hiring workers through a placement agency or a consultant is:",
      "options": [
-      "Only traditional",
-      "Traditional (ranking, grading, rating scale) and modern (MBO, BARS, 360-degree)",
-      "Neither",
-      "Only modern"
+      "Internal recruitment",
+      "Campus recruitment",
+      "Third-party recruitment",
+      "Direct recruitment"
+     ],
+     "correct_index": 2,
+     "explanation": "Agencies."
+    },
+    {
+     "question_text": "Temporary staff hired through a contractor is an example of:",
+     "options": [
+      "Permanent employment on the rolls of the firm",
+      "Outsourcing or contract staffing",
+      "Internal transfer of the staff within the firm",
+      "Job rotation among the employees of the firm"
      ],
      "correct_index": 1,
-     "explanation": "Modern methods are results-oriented."
+     "explanation": "Flexible workforce."
+    },
+    {
+     "question_text": "In a structured interview:",
+     "options": [
+      "The panel decides the questions after the interview ends",
+      "Candidates are not asked any questions by the panel",
+      "Questions are pre-planned and are the same for every candidate",
+      "Questions are asked at random without any prior plan"
+     ],
+     "correct_index": 2,
+     "explanation": "Standard."
+    },
+    {
+     "question_text": "In a stress interview, the interviewer:",
+     "options": [
+      "Asks only the simple questions in a friendly manner",
+      "Deliberately creates pressure to see how the candidate reacts",
+      "Conducts the interview over the telephone",
+      "Allows the candidate to ask all the questions"
+     ],
+     "correct_index": 1,
+     "explanation": "Test of composure."
+    },
+    {
+     "question_text": "The \"reference check\" in the selection process is done to:",
+     "options": [
+      "Orient the candidate to the work",
+      "Decide the salary of the candidate",
+      "Verify the information given by the candidate",
+      "Test the technical skills of the candidate"
+     ],
+     "correct_index": 2,
+     "explanation": "Verification."
+    },
+    {
+     "question_text": "A medical examination in selection ensures that the candidate is:",
+     "options": [
+      "Experienced in the job",
+      "Qualified for the job",
+      "Physically fit for the job",
+      "Technically skilled for the job"
+     ],
+     "correct_index": 2,
+     "explanation": "Fitness."
+    },
+    {
+     "question_text": "The letter that informs the selected candidate of terms of employment is:",
+     "options": [
+      "Application letter",
+      "Resignation letter",
+      "Appointment letter",
+      "Reference letter"
+     ],
+     "correct_index": 2,
+     "explanation": "Offer."
+    },
+    {
+     "question_text": "Which of the following is a statutory fringe benefit in India?",
+     "options": [
+      "Company car",
+      "Provident fund",
+      "Stock option",
+      "Performance bonus"
+     ],
+     "correct_index": 1,
+     "explanation": "Required by law."
+    },
+    {
+     "question_text": "The Employees' State Insurance scheme provides:",
+     "options": [
+      "Retirement pensions for managers of the registered companies",
+      "Housing loans for the senior employees of the firm",
+      "Education loans for the children of the employees",
+      "Medical care and cash benefits during sickness and injury"
+     ],
+     "correct_index": 3,
+     "explanation": "Social security."
+    },
+    {
+     "question_text": "Gratuity is paid to an employee:",
+     "options": [
+      "Only if the firm earns a profit in that particular year",
+      "On retirement, resignation or death after the minimum service",
+      "Every month along with the regular salary of the employee",
+      "Only on the festival days of the year, as a gift"
+     ],
+     "correct_index": 1,
+     "explanation": "Terminal benefit."
+    },
+    {
+     "question_text": "A minimum wage, as per law, is meant to:",
+     "options": [
+      "Ensure a basic standard of living for workers",
+      "Limit the maximum salary of the managers",
+      "Reduce the labour turnover to nil",
+      "Keep the profits of the employers high"
+     ],
+     "correct_index": 0,
+     "explanation": "Floor."
+    },
+    {
+     "question_text": "A \"fair wage\" is one which lies:",
+     "options": [
+      "Below the level of the minimum wage",
+      "Without any relation to the minimum wage",
+      "Above the level of the maximum wage",
+      "Between the minimum wage and the living wage"
+     ],
+     "correct_index": 3,
+     "explanation": "Intermediate."
+    },
+    {
+     "question_text": "Training needs are best identified through:",
+     "options": [
+      "Seniority of employees",
+      "Performance appraisal and gap analysis",
+      "Salary of employees",
+      "Random selection of employees"
+     ],
+     "correct_index": 1,
+     "explanation": "Skill gaps."
+    },
+    {
+     "question_text": "The first step in the training process is:",
+     "options": [
+      "Assessment of the training needs",
+      "Delivery of the programme",
+      "Evaluation of the training programme",
+      "Selection of the trainer"
+     ],
+     "correct_index": 0,
+     "explanation": "Need analysis."
+    },
+    {
+     "question_text": "The last step in the training process is:",
+     "options": [
+      "Evaluation of the training programme",
+      "Implementation of the programme",
+      "Design of the programme",
+      "Needs assessment"
+     ],
+     "correct_index": 0,
+     "explanation": "Feedback."
+    },
+    {
+     "question_text": "Kirkpatrick's levels for the evaluation of training are:",
+     "options": [
+      "Reaction, learning, behaviour and results",
+      "Strength, weakness, opportunity and threat",
+      "Recruitment, selection, placement and induction",
+      "Planning, organising, directing and controlling"
+     ],
+     "correct_index": 0,
+     "explanation": "Four levels."
+    },
+    {
+     "question_text": "Coaching as a method of development means:",
+     "options": [
+      "Rotation of the jobs among the various departments",
+      "On-the-job guidance given by a superior to a subordinate",
+      "Classroom lectures that are given by a faculty member",
+      "Simulation of the work that is done in a laboratory"
+     ],
+     "correct_index": 1,
+     "explanation": "One-to-one."
+    },
+    {
+     "question_text": "Mentoring involves:",
+     "options": [
+      "Compulsory lectures that are given by the top executives",
+      "The use of machines and software to teach the employees",
+      "Written tests that are used to evaluate the employees",
+      "A senior and experienced person guiding a junior in career growth"
+     ],
+     "correct_index": 3,
+     "explanation": "Career guidance."
+    },
+    {
+     "question_text": "E-learning as a training method has the advantage of:",
+     "options": [
+      "Low cost of preparing the courseware",
+      "Flexibility of time and place for the learners",
+      "Immediate hands-on practice on the machines",
+      "Face-to-face interaction with the trainer"
+     ],
+     "correct_index": 1,
+     "explanation": "Anywhere, anytime."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 4: Staffing – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "In the ranking method:",
+     "question_text": "The process of terminating the services of an employee as a punishment is:",
      "options": [
-      "Employees are tested",
-      "Employees are graded",
-      "Employees are ranked from best to worst",
-      "Employees are compared in pairs"
+      "Layoff",
+      "Transfer",
+      "Retrenchment",
+      "Dismissal"
      ],
-     "correct_index": 2,
-     "explanation": "It is simple but gives no detail."
+     "correct_index": 3,
+     "explanation": "Misconduct."
     },
     {
-     "question_text": "In the paired comparison method:",
+     "question_text": "In a layoff, the employee is:",
      "options": [
-      "Employees are tested",
-      "Employees are graded",
-      "Each employee is compared with every other employee in pairs",
-      "Employees are ranked directly"
+      "Transferred to another unit of the organisation",
+      "Temporarily without work due to a lack of demand but not terminated",
+      "Permanently removed from the services of the organisation",
+      "Promoted to a higher position in the organisation"
      ],
-     "correct_index": 2,
-     "explanation": "The one preferred most times ranks highest."
+     "correct_index": 1,
+     "explanation": "Temporary."
     },
     {
-     "question_text": "The number of comparisons needed for 8 employees in the paired comparison method is:",
+     "question_text": "A voluntary retirement scheme is aimed at:",
      "options": [
-      "28",
-      "16",
-      "8",
-      "56"
+      "Training the employees in the new skills needed by the firm",
+      "Increasing the workforce through the hiring of new staff",
+      "Promoting the senior employees to the higher posts in the firm",
+      "Reducing the workforce by offering attractive terms to those opting out"
+     ],
+     "correct_index": 3,
+     "explanation": "Downsizing."
+    },
+    {
+     "question_text": "\"Right person for the right job\" refers to:",
+     "options": [
+      "Placement",
+      "Training",
+      "Recruitment",
+      "Appraisal"
      ],
      "correct_index": 0,
-     "explanation": "n(n − 1)/2 = 8 × 7 / 2."
+     "explanation": "Matching."
     },
     {
-     "question_text": "In the grading method:",
+     "question_text": "The advantage of staffing is that it:",
      "options": [
-      "Employees are placed in grades such as A, B, C based on performance",
-      "Employees are tested",
-      "Employees are ranked",
-      "Employees are paired"
+      "Ensures competent persons for the various jobs",
+      "Maintains the stock of materials of the firm",
+      "Prepares the financial statements of the firm",
+      "Fixes the prices of the products of the firm"
      ],
      "correct_index": 0,
-     "explanation": "Standards are defined for each grade."
+     "explanation": "Competence."
     },
     {
-     "question_text": "The forced distribution method:",
+     "question_text": "An HR manager finds that the firm will need 50 more engineers next year. This is the result of:",
      "options": [
-      "Pairs all",
-      "Ranks all",
-      "Places employees in predetermined proportions across performance categories (bell curve)",
-      "Grades none"
+      "Performance appraisal",
+      "Human resource planning",
+      "Induction",
+      "Job evaluation"
      ],
-     "correct_index": 2,
-     "explanation": "It prevents leniency."
+     "correct_index": 1,
+     "explanation": "Forecast."
     },
     {
-     "question_text": "A graphic rating scale:",
+     "question_text": "A firm has 500 employees and plans to increase output by 20%. If employee productivity is unchanged, the additional employees needed are:",
      "options": [
-      "Rates employees on traits like quality and initiative on a scale",
-      "Ranks employees",
-      "Pairs employees",
-      "Grades employees"
+      "50",
+      "100",
+      "20",
+      "120"
+     ],
+     "correct_index": 1,
+     "explanation": "20% of 500."
+    },
+    {
+     "question_text": "If the firm in the previous question improves productivity by 10%, the employees needed for 20% more output (approximately) are:",
+     "options": [
+      "About 545",
+      "About 600",
+      "About 450",
+      "About 500"
      ],
      "correct_index": 0,
-     "explanation": "It is widely used."
+     "explanation": "600/1.1."
     },
     {
-     "question_text": "The checklist method:",
+     "question_text": "A firm has 40 vacancies and gets 400 applications. Of these 100 pass the test and 20 qualify at the interview. The selection ratio is:",
      "options": [
-      "Pairs employees",
-      "Uses a list of statements about behaviour, which the rater ticks if applicable",
-      "Ranks employees",
-      "Uses essays"
-     ],
-     "correct_index": 1,
-     "explanation": "Weights may be assigned."
-    },
-    {
-     "question_text": "The essay method:",
-     "options": [
-      "Ranks",
-      "Requires the rater to describe the employee's strengths, weaknesses and potential in writing",
-      "Uses a checklist",
-      "Uses a scale"
-     ],
-     "correct_index": 1,
-     "explanation": "It is detailed but subjective."
-    },
-    {
-     "question_text": "The critical incident method:",
-     "options": [
-      "Uses a scale",
-      "Uses essays only",
-      "Records specific effective and ineffective behaviours of the employee during the period",
-      "Ranks employees"
+      "10% (40 of 400)",
+      "50% (20 of 40)",
+      "5% (20 of 400)",
+      "25% (100 of 400)"
      ],
      "correct_index": 2,
-     "explanation": "It focuses on actual events."
+     "explanation": "20/400."
     },
     {
-     "question_text": "The field review method:",
+     "question_text": "\"Equal pay for equal work\" is a principle enshrined in:",
      "options": [
-      "Uses a scale",
-      "Uses self-appraisal",
-      "Uses an expert from HR to interview supervisors and assess employees",
-      "Ranks"
+      "The Constitution of India as a directive principle",
+      "The Companies Act as a requirement for the dividends",
+      "The Income Tax Act as a deduction",
+      "The Sale of Goods Act as a clause"
+     ],
+     "correct_index": 0,
+     "explanation": "Article 39(d)."
+    },
+    {
+     "question_text": "Under the Equal Remuneration principle, a male and a female worker doing the same job must be:",
+     "options": [
+      "Paid based on the age",
+      "Paid based on the marital status",
+      "Paid based on gender",
+      "Paid the same remuneration"
+     ],
+     "correct_index": 3,
+     "explanation": "No discrimination."
+    },
+    {
+     "question_text": "Talent management involves:",
+     "options": [
+      "Preparing the annual budget of the firm for the next year",
+      "Selecting the machines for use in the factory of the firm",
+      "Attracting, developing and retaining high-performing employees",
+      "Auditing the accounts of the firm at the end of the year"
      ],
      "correct_index": 2,
-     "explanation": "It reduces supervisor bias."
+     "explanation": "Strategic HR."
     },
     {
-     "question_text": "A confidential report is:",
+     "question_text": "Succession planning is the process of:",
      "options": [
-      "A peer report",
-      "An open report",
-      "A customer report",
-      "A report prepared by the superior about the subordinate and kept secret"
+      "Preparing employees to fill key positions when they fall vacant",
+      "Distributing the profits of the company to its shareholders",
+      "Recording the minutes of the meetings of the board of directors",
+      "Selecting new shareholders for the company at a general meeting"
      ],
-     "correct_index": 3,
-     "explanation": "Common in government."
+     "correct_index": 0,
+     "explanation": "Future leaders."
     },
     {
-     "question_text": "MBO as an appraisal method:",
+     "question_text": "The \"grievance redressal\" system in an organisation aims to:",
      "options": [
-      "Uses essays",
-      "Uses a scale",
-      "Ranks employees",
-      "Evaluates performance by the achievement of jointly set objectives"
-     ],
-     "correct_index": 3,
-     "explanation": "It is a results-oriented method."
-    },
-    {
-     "question_text": "BARS (Behaviourally Anchored Rating Scales):",
-     "options": [
-      "Rank employees",
-      "Use essays",
-      "Rate performance using scales anchored with specific behavioural examples",
-      "Use pairs"
+      "Punish the employees who complain",
+      "Ignore the complaints of the employees",
+      "Resolve the complaints of the employees fairly and quickly",
+      "Increase the number of complaints from the employees"
      ],
      "correct_index": 2,
-     "explanation": "It combines critical incidents and rating scales."
+     "explanation": "Employee relations."
     },
     {
-     "question_text": "The 360-degree appraisal collects feedback from:",
+     "question_text": "An exit interview is held with employees who:",
      "options": [
-      "The employee only",
-      "Superiors, peers, subordinates, customers and self",
-      "Customers only",
-      "The superior only"
+      "Are leaving the organisation, to learn their reasons for leaving",
+      "Are undergoing a training programme, to know its usefulness",
+      "Have just joined the organisation, to know their first impressions",
+      "Are about to be promoted, to know their future plans"
+     ],
+     "correct_index": 0,
+     "explanation": "Feedback."
+    },
+    {
+     "question_text": "Employee engagement refers to:",
+     "options": [
+      "The number of hours that the employees work in a week",
+      "The emotional commitment of employees to the organisation",
+      "The amount of salary that the employees get in a month",
+      "The average age of the employees working in the firm"
      ],
      "correct_index": 1,
-     "explanation": "It gives a complete view."
+     "explanation": "Commitment."
     },
     {
-     "question_text": "The assessment centre method:",
+     "question_text": "The Indian law on sexual harassment at the workplace requires every organisation to have:",
      "options": [
-      "Uses a single interview",
-      "Evaluates candidates through exercises, simulations and tests by trained assessors",
-      "Uses a checklist",
-      "Uses a scale"
-     ],
-     "correct_index": 1,
-     "explanation": "It is used for managerial potential."
-    },
-    {
-     "question_text": "Human resource accounting as an appraisal method:",
-     "options": [
-      "Uses essays",
-      "Measures employees' contribution in monetary terms (value to the organisation)",
-      "Ranks employees",
-      "Grades employees"
-     ],
-     "correct_index": 1,
-     "explanation": "It treats people as assets."
-    },
-    {
-     "question_text": "The balanced scorecard evaluates performance from:",
-     "options": [
-      "One perspective",
-      "Only customer",
-      "Financial, customer, internal process and learning and growth perspectives",
-      "Only financial"
+      "A board committee on audit",
+      "A works council",
+      "An Internal Complaints Committee",
+      "A trade union"
      ],
      "correct_index": 2,
-     "explanation": "Kaplan and Norton."
+     "explanation": "POSH Act, 2013."
     },
     {
-     "question_text": "The halo effect is:",
+     "question_text": "Diversity management at the workplace aims at:",
      "options": [
-      "Ignoring traits",
-      "Rating low on all",
-      "Rating accurately",
-      "Rating an employee high on all traits because of one outstanding trait"
+      "Fixing an identical salary for all the employees of the firm",
+      "Hiring employees from only one background to avoid conflict",
+      "Removing employees of different backgrounds from the firm",
+      "Valuing differences among employees in gender, age and background"
      ],
      "correct_index": 3,
-     "explanation": "It biases appraisal."
+     "explanation": "Inclusion."
     },
     {
-     "question_text": "The central tendency error is:",
+     "question_text": "Which of the following is a non-financial incentive?",
      "options": [
-      "Rating all high",
-      "Rating all employees as average to avoid extreme ratings",
-      "Rating accurately",
-      "Rating all low"
-     ],
-     "correct_index": 1,
-     "explanation": "It hides differences."
-    },
-    {
-     "question_text": "The leniency error is:",
-     "options": [
-      "Rating average",
-      "Rating lower",
-      "Rating accurately",
-      "Rating employees higher than they deserve"
-     ],
-     "correct_index": 3,
-     "explanation": "The opposite is strictness."
-    },
-    {
-     "question_text": "Appraisal errors can be minimised by:",
-     "options": [
-      "Using one rater",
-      "Ignoring bias",
-      "Using vague criteria",
-      "Training raters, using multiple raters and clear criteria"
-     ],
-     "correct_index": 3,
-     "explanation": "Objective standards help."
-    },
-    {
-     "question_text": "A good appraisal system is:",
-     "options": [
-      "Secret",
-      "Biased",
-      "Subjective",
-      "Valid, reliable, fair, objective and acceptable"
-     ],
-     "correct_index": 3,
-     "explanation": "It should give regular feedback."
-    },
-    {
-     "question_text": "Compensation is:",
-     "options": [
-      "Only wages",
-      "The total financial and non-financial rewards given to employees for their work",
-      "Only perks",
-      "Only bonus"
-     ],
-     "correct_index": 1,
-     "explanation": "It includes pay, incentives and benefits."
-    },
-    {
-     "question_text": "Fringe benefits are:",
-     "options": [
-      "Fines",
-      "Only bonus",
-      "Additional benefits beyond wages, such as medical insurance, housing and pension",
-      "Only wages"
+      "Profit sharing among all the employees of the firm",
+      "A year-end bonus linked to the profits of the firm",
+      "Recognition and an opportunity for growth in the firm",
+      "Stock options granted to the senior employees of the firm"
      ],
      "correct_index": 2,
-     "explanation": "They improve morale and retention."
+     "explanation": "Not money."
     },
     {
-     "question_text": "Staffing contributes to organisational success by:",
+     "question_text": "Payment of wages on the basis of the number of units produced is:",
      "options": [
-      "Removing structure",
-      "Removing objectives",
-      "Providing competent people who improve productivity and morale",
-      "Raising costs only"
+      "Time rate system",
+      "Differential rate system",
+      "Profit sharing",
+      "Piece rate system"
+     ],
+     "correct_index": 3,
+     "explanation": "Output."
+    },
+    {
+     "question_text": "Payment of wages on the basis of the time worked is:",
+     "options": [
+      "Piece rate system",
+      "Time rate system",
+      "Incentive system",
+      "Bonus system"
+     ],
+     "correct_index": 1,
+     "explanation": "Hours."
+    },
+    {
+     "question_text": "If a worker produces 40 units at a piece rate of Rs 15 per unit, the earning is:",
+     "options": [
+      "Rs 375",
+      "Rs 150",
+      "Rs 55",
+      "Rs 600"
+     ],
+     "correct_index": 3,
+     "explanation": "40 × 15."
+    },
+    {
+     "question_text": "A worker is paid Rs 120 per hour for 8 hours and Rs 150 per hour for overtime of 2 hours. Total pay is:",
+     "options": [
+      "Rs 1,020",
+      "Rs 1,380",
+      "Rs 1,260",
+      "Rs 1,560"
      ],
      "correct_index": 2,
-     "explanation": "People are the key resource."
+     "explanation": "960 + 300."
+    },
+    {
+     "question_text": "A good training programme has:",
+     "options": [
+      "Clear objectives linked to the performance gaps of the employees",
+      "A fixed schedule irrespective of the needs of the employees",
+      "No evaluation of its results after the programme ends",
+      "Trainees who are selected at random from the staff"
+     ],
+     "correct_index": 0,
+     "explanation": "Planning."
+    },
+    {
+     "question_text": "The HRM function is described as:",
+     "options": [
+      "Needed only in the large firms",
+      "Concerned only with salaries",
+      "A one-time activity at the start",
+      "Pervasive, continuous and people-oriented"
+     ],
+     "correct_index": 3,
+     "explanation": "Characteristics."
     }
    ]
   }
