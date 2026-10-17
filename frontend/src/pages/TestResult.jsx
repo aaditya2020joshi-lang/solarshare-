@@ -3,7 +3,17 @@ import { Link, useParams } from 'react-router-dom';
 import client from '../api/client';
 import Spinner from '../components/Spinner';
 import Leaderboard from '../components/Leaderboard';
+import Confetti from '../components/Confetti';
 import { CheckIcon, XIcon } from '../components/icons';
+
+function praise(percent) {
+  if (percent === 100) return { emoji: '🏆', title: 'Perfect score!', text: 'Every single answer right. You are unstoppable!', party: 120 };
+  if (percent >= 90) return { emoji: '🎉', title: 'Congratulations!', text: 'Outstanding work. You really know this topic.', party: 100 };
+  if (percent >= 75) return { emoji: '🌟', title: 'Great job!', text: 'Strong result. A little more polish and you will be at the top.', party: 60 };
+  if (percent >= 60) return { emoji: '👍', title: 'Good effort!', text: 'Solid score. Review the ones you missed and try again.', party: 0 };
+  if (percent >= 40) return { emoji: '💪', title: 'Keep going!', text: 'You are getting there. Read the explanations below and retake it.', party: 0 };
+  return { emoji: '🌱', title: "Don't give up!", text: 'Every expert started here. Go through the notes, then try again.', party: 0 };
+}
 
 export default function TestResult() {
   const { id } = useParams();
@@ -30,6 +40,7 @@ export default function TestResult() {
   if (!attempt) return <p className="text-center py-24 text-gray-500">Result not found.</p>;
 
   const percent = Math.round((attempt.score / attempt.total) * 100);
+  const mood = praise(percent);
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-10">
@@ -43,7 +54,15 @@ export default function TestResult() {
           {attempt.score}/{attempt.total}
         </div>
         <p className="text-gray-500 mt-1">{percent}% correct</p>
+        <div className="mt-6 rounded-2xl border border-brand-200 dark:border-gray-700 bg-brand-50 dark:bg-gray-900 px-5 py-4">
+          <div className="text-4xl mb-1" role="img" aria-label="celebration">
+            {mood.emoji}
+          </div>
+          <div className="text-lg font-display font-bold text-gray-900 dark:text-white">{mood.title}</div>
+          <p className="text-sm text-gray-600 dark:text-gray-400">{mood.text}</p>
+        </div>
       </div>
+      {mood.party > 0 && <Confetti pieces={mood.party} />}
 
       {attempt.test_id && (
         <div className="mb-8">
