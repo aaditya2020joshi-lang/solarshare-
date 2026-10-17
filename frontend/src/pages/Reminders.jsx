@@ -44,7 +44,9 @@ export default function Reminders() {
     setSubmitting(true);
     setError('');
     try {
-      await client.post('/reminders', { title, message, remind_at: remindAt, repeat });
+      // The date field has no timezone, so turn it into an exact moment in this browser's timezone
+      // before sending. Otherwise the server (which runs in UTC) would read it as UTC.
+      await client.post('/reminders', { title, message, remind_at: new Date(remindAt).toISOString(), repeat });
       setTitle('');
       setMessage('');
       setRemindAt('');
