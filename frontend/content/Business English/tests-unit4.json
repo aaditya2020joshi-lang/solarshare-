@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 4: Speaking Skills: Vocabulary, Dialogue Writing and Storytelling – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Active vocabulary differs from passive vocabulary in that active vocabulary is:",
+     "options": [
+      "Words in a dictionary",
+      "Words we use in speaking and writing, while passive vocabulary is words we understand but rarely use",
+      "Words we never use",
+      "Words we only read"
+     ],
+     "correct_index": 1,
+     "explanation": "Passive vocabulary is usually larger."
+    },
+    {
+     "question_text": "Vocabulary development is important for business because it:",
+     "options": [
+      "Improves clarity, precision and professional impression in communication",
+      "Reduces clarity",
+      "Makes writing longer",
+      "Is unnecessary"
+     ],
+     "correct_index": 0,
+     "explanation": "The right word saves time and avoids misunderstanding."
+    },
+    {
+     "question_text": "Prefixes are:",
+     "options": [
+      "Letters at the end",
+      "Roots",
+      "Phrases",
+      "Letters added at the beginning of a word to change its meaning, e.g., un-, re-, dis-, pre-, mis-"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Unhappy\" = not happy."
+    },
+    {
+     "question_text": "Suffixes are:",
+     "options": [
+      "Phrases",
+      "Letters added at the end of a word to form new words, e.g., -tion, -ment, -ness, -able, -ful",
+      "Roots",
+      "Letters at the beginning"
+     ],
+     "correct_index": 1,
+     "explanation": "They often change the part of speech."
+    },
+    {
+     "question_text": "A root word is:",
+     "options": [
+      "The basic part of a word that carries its core meaning, e.g., \"act\" in action, active, actor",
+      "A phrase",
+      "A prefix",
+      "A suffix"
+     ],
+     "correct_index": 0,
+     "explanation": "Words formed from it make a word family."
+    },
+    {
+     "question_text": "The roots bene, mal, port, dict and graph mean:",
+     "options": [
+      "Good, bad, carry, say and write",
+      "Write, say, good, carry, bad",
+      "Bad, good, say, carry, write",
+      "Carry, say, good, bad, write"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., benefit, malfunction, transport, dictate, photograph."
+    },
+    {
+     "question_text": "Adding -tion, -ment, -ness, -able and -ful respectively to \"act/ manage/ kind/ break/ care\" can give:",
+     "options": [
+      "acted, managed, kinder, breaks, caring",
+      "acting, managing, kindly, breaking, caring",
+      "action, management, kindness, breakable, careful",
+      "actor, manager, kind, broken, cared"
+     ],
+     "correct_index": 2,
+     "explanation": "Suffixes form nouns and adjectives."
+    },
+    {
+     "question_text": "A word family of \"decide\" includes:",
+     "options": [
+      "decision, decisive and indecisive",
+      "deciding only",
+      "decor, decorate",
+      "decline, decay"
+     ],
+     "correct_index": 0,
+     "explanation": "Related forms share a root."
+    },
+    {
+     "question_text": "Compounding is:",
+     "options": [
+      "Adding a suffix",
+      "Adding a prefix",
+      "Joining two words to form a new word, e.g., notebook, bookshelf, headline",
+      "Using a phrase"
+     ],
+     "correct_index": 2,
+     "explanation": "Compounds may be written as one word, hyphenated or separate."
+    },
+    {
+     "question_text": "Synonyms of \"big\", \"buy\" and \"begin\" are:",
+     "options": [
+      "large, purchase and start",
+      "tiny, rent and finish",
+      "small, sell and end",
+      "huge, sell and stop"
+     ],
+     "correct_index": 0,
+     "explanation": "Synonyms have similar meanings."
+    },
+    {
+     "question_text": "Antonyms of \"expand\", \"scarce\" and \"accept\" are:",
+     "options": [
+      "contract, abundant and reject",
+      "extend, rare and agree",
+      "widen, short and receive",
+      "grow, little and take"
+     ],
+     "correct_index": 0,
+     "explanation": "Antonyms have opposite meanings."
+    },
+    {
+     "question_text": "Homophones are words that:",
+     "options": [
+      "Have opposite meanings",
+      "Sound the same but have different meanings and spellings, e.g., \"write\" and \"right\"",
+      "Mean the same",
+      "Look the same"
+     ],
+     "correct_index": 1,
+     "explanation": "Other pairs: \"their/there\", \"bare/bear\"."
+    },
+    {
+     "question_text": "Homonyms are words that:",
+     "options": [
+      "Are opposites",
+      "Have the same spelling or sound but different meanings, e.g., \"bank\" (river or money)",
+      "Have the same meaning",
+      "Sound different"
+     ],
+     "correct_index": 1,
+     "explanation": "\"Bat\" and \"light\" are also homonyms."
+    },
+    {
+     "question_text": "Collocations are:",
+     "options": [
+      "Opposite words",
+      "Words that commonly go together, e.g., \"make a decision\", \"meet a deadline\"",
+      "Long words",
+      "Random words"
+     ],
+     "correct_index": 1,
+     "explanation": "They sound natural."
+    },
+    {
+     "question_text": "\"Break the ice\" means:",
+     "options": [
+      "To start a conversation and ease tension",
+      "To argue",
+      "To destroy ice",
+      "To end a meeting"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used in social and business settings."
+    },
+    {
+     "question_text": "\"Bite the bullet\" means:",
+     "options": [
+      "To eat something",
+      "To shoot",
+      "To face a difficult situation bravely",
+      "To avoid a problem"
+     ],
+     "correct_index": 2,
+     "explanation": "It means to endure something unpleasant."
+    },
+    {
+     "question_text": "\"A blessing in disguise\" means:",
+     "options": [
+      "A disguise",
+      "Something that seems bad but turns out good",
+      "A curse",
+      "A religious act"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., losing a job that leads to a better one."
+    },
+    {
+     "question_text": "\"Back to square one\" means:",
+     "options": [
+      "Starting again from the beginning",
+      "Making progress",
+      "Finishing a task",
+      "Moving forward"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used when efforts fail."
+    },
+    {
+     "question_text": "\"Cut corners\" means:",
+     "options": [
+      "To cut paper",
+      "To be careful",
+      "To do something in the cheapest or quickest way, often sacrificing quality",
+      "To take a shortcut path"
+     ],
+     "correct_index": 2,
+     "explanation": "It often implies reduced quality."
+    },
+    {
+     "question_text": "\"In the red\" means:",
+     "options": [
+      "Being angry",
+      "Making a profit",
+      "Owing money or making a loss",
+      "Being famous"
+     ],
+     "correct_index": 2,
+     "explanation": "It comes from red ink for losses."
+    },
+    {
+     "question_text": "\"The ball is in your court\" means:",
+     "options": [
+      "You have won",
+      "It is your turn to take action or decide",
+      "You are playing tennis",
+      "You have lost"
+     ],
+     "correct_index": 1,
+     "explanation": "The responsibility is now yours."
+    },
+    {
+     "question_text": "\"Spill the beans\" means:",
+     "options": [
+      "To lose money",
+      "To cook beans",
+      "To reveal a secret",
+      "To make a mess"
+     ],
+     "correct_index": 2,
+     "explanation": "It is used for disclosing secrets."
+    },
+    {
+     "question_text": "\"Think outside the box\" means:",
+     "options": [
+      "To think creatively and unconventionally",
+      "To think quickly",
+      "To think inside a box",
+      "To avoid thinking"
+     ],
+     "correct_index": 0,
+     "explanation": "It encourages new ideas."
+    },
+    {
+     "question_text": "\"On the same page\" means:",
+     "options": [
+      "To read the same book",
+      "To be in the same room",
+      "To share the same understanding or agreement",
+      "To have the same job"
+     ],
+     "correct_index": 2,
+     "explanation": "It is common in meetings."
+    },
+    {
+     "question_text": "Which sentence uses \"hit the nail on the head\" correctly?",
+     "options": [
+      "\"She hit the nail on the head with joy.\"",
+      "\"He hit the nail on the head by mistake.\"",
+      "\"The nail hit the head.\"",
+      "\"Your analysis of the problem hit the nail on the head.\""
+     ],
+     "correct_index": 3,
+     "explanation": "It means to describe something exactly right."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Speaking Skills: Vocabulary, Dialogue Writing and Storytelling – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The phrasal verbs \"set up\", \"carry out\" and \"call off\" mean:",
+     "options": [
+      "Cancel; perform; establish",
+      "Establish; perform; cancel",
+      "Cancel; establish; perform",
+      "Perform; cancel; establish"
+     ],
+     "correct_index": 1,
+     "explanation": "A phrasal verb is a verb plus a particle."
+    },
+    {
+     "question_text": "\"Look into\" means:",
+     "options": [
+      "To investigate",
+      "To look inside",
+      "To ignore",
+      "To admire"
+     ],
+     "correct_index": 0,
+     "explanation": "\"The team will look into the complaint.\""
+    },
+    {
+     "question_text": "\"Turn down\" means:",
+     "options": [
+      "To lower the volume only",
+      "To turn around",
+      "To reject or refuse",
+      "To accept"
+     ],
+     "correct_index": 2,
+     "explanation": "\"She turned down the offer.\""
+    },
+    {
+     "question_text": "\"Come up with\" means:",
+     "options": [
+      "To think of or produce an idea",
+      "To meet",
+      "To arrive",
+      "To climb"
+     ],
+     "correct_index": 0,
+     "explanation": "\"He came up with a plan.\""
+    },
+    {
+     "question_text": "The one word for \"a person who loves books\" is:",
+     "options": [
+      "Bibliophile",
+      "Philanthropist",
+      "Linguist",
+      "Misanthrope"
+     ],
+     "correct_index": 0,
+     "explanation": "It comes from Greek \"biblio\" (book)."
+    },
+    {
+     "question_text": "The one word for \"agreed by all\" is:",
+     "options": [
+      "Popular",
+      "Unanimous",
+      "Anonymous",
+      "Common"
+     ],
+     "correct_index": 1,
+     "explanation": "\"The decision was unanimous.\""
+    },
+    {
+     "question_text": "The one word for \"present everywhere\" is:",
+     "options": [
+      "Omnipotent",
+      "Omniscient",
+      "Obsolete",
+      "Omnipresent"
+     ],
+     "correct_index": 3,
+     "explanation": "Omnipresent means found everywhere."
+    },
+    {
+     "question_text": "The one word for \"a life story written by oneself\" is:",
+     "options": [
+      "Autobiography",
+      "Diary",
+      "Biography",
+      "Memoir"
+     ],
+     "correct_index": 0,
+     "explanation": "A biography is written by another person."
+    },
+    {
+     "question_text": "The one word for \"of unknown authorship\" is:",
+     "options": [
+      "Authentic",
+      "Obscure",
+      "Unanimous",
+      "Anonymous"
+     ],
+     "correct_index": 3,
+     "explanation": "Anonymous means without a known name."
+    },
+    {
+     "question_text": "The one word for \"one who helps mankind\" is:",
+     "options": [
+      "Optimist",
+      "Pessimist",
+      "Misanthrope",
+      "Philanthropist"
+     ],
+     "correct_index": 3,
+     "explanation": "It comes from Greek \"philos\" (loving) and \"anthropos\" (man)."
+    },
+    {
+     "question_text": "The one word for \"exclusive control of the market\" is:",
+     "options": [
+      "Monopoly",
+      "Duopoly",
+      "Monarchy",
+      "Oligopoly"
+     ],
+     "correct_index": 0,
+     "explanation": "It means a single seller controls the market."
+    },
+    {
+     "question_text": "The one word for \"that which cannot be avoided\" is:",
+     "options": [
+      "Indelible",
+      "Invisible",
+      "Incredible",
+      "Inevitable"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Death is inevitable.\""
+    },
+    {
+     "question_text": "Revenue, turnover, dividend, asset and liability are, respectively:",
+     "options": [
+      "Loss; sales; salary; asset; bill",
+      "Expenses; profit; tax; loan; debt",
+      "Profit; sales; interest; stock; debt",
+      "Income earned; total sales; share of profit paid to shareholders; resource owned; obligation owed"
+     ],
+     "correct_index": 3,
+     "explanation": "They are basic business terms."
+    },
+    {
+     "question_text": "A stakeholder is _____, and a merger is _____:",
+     "options": [
+      "An owner only; the splitting of a company",
+      "Anyone affected by or interested in a business; the combining of two companies",
+      "A supplier; a tax",
+      "A customer; a loan"
+     ],
+     "correct_index": 1,
+     "explanation": "Acquisition is one company taking over another."
+    },
+    {
+     "question_text": "\"Adapt\" differs from \"adopt\" in that \"adapt\" means _____ and \"adopt\" means _____:",
+     "options": [
+      "To copy; to create",
+      "To reject; to accept",
+      "To adjust to new conditions; to take up or accept",
+      "To take up; to adjust"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Adapt to change; adopt a policy.\""
+    },
+    {
+     "question_text": "\"Continual\" differs from \"continuous\" in that \"continual\" means _____ and \"continuous\" means _____:",
+     "options": [
+      "Without a break; repeated",
+      "Short; long",
+      "Rare; frequent",
+      "Repeated at intervals; without a break"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Continual interruptions\" versus \"continuous rain\"."
+    },
+    {
+     "question_text": "\"Eminent\" differs from \"imminent\" in that \"eminent\" means _____ and \"imminent\" means _____:",
+     "options": [
+      "Rare; common",
+      "About to happen; famous",
+      "Large; small",
+      "Famous or respected; about to happen"
+     ],
+     "correct_index": 3,
+     "explanation": "\"An eminent scholar\"; \"imminent danger\"."
+    },
+    {
+     "question_text": "\"Farther\" differs from \"further\" in that \"farther\" is used for _____ and \"further\" for _____:",
+     "options": [
+      "Physical distance; additional or more",
+      "Additional; distance",
+      "Time; space",
+      "Quantity; quality"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Walk farther; ask for further details.\""
+    },
+    {
+     "question_text": "Denotation is _____, and connotation is _____:",
+     "options": [
+      "The spelling; the sound",
+      "The root; the suffix",
+      "The literal dictionary meaning; the emotional or cultural associations",
+      "The emotional meaning; the dictionary meaning"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Home\" denotes a house but connotes warmth."
+    },
+    {
+     "question_text": "Formal register differs from informal register in that formal language:",
+     "options": [
+      "Uses contractions",
+      "Uses slang",
+      "Uses abbreviations",
+      "Uses polished vocabulary and avoids contractions, e.g., \"I would like to enquire\" instead of \"I wanna ask\""
+     ],
+     "correct_index": 3,
+     "explanation": "Choose register by audience."
+    },
+    {
+     "question_text": "Ways of building vocabulary include:",
+     "options": [
+      "Skipping new words",
+      "Memorising lists once",
+      "Avoiding reading",
+      "Reading widely, using a dictionary, learning words in context and revising regularly"
+     ],
+     "correct_index": 3,
+     "explanation": "Using new words in speech also helps."
+    },
+    {
+     "question_text": "To use a dictionary effectively, you should:",
+     "options": [
+      "Check meaning, pronunciation, part of speech and example sentences",
+      "Skip examples",
+      "Look only at the first meaning",
+      "Ignore the part of speech"
+     ],
+     "correct_index": 0,
+     "explanation": "Context determines the right meaning."
+    },
+    {
+     "question_text": "A thesaurus should be used carefully because:",
+     "options": [
+      "All synonyms are identical",
+      "It has no words",
+      "Synonyms are not always interchangeable in meaning or tone",
+      "It is always wrong"
+     ],
+     "correct_index": 2,
+     "explanation": "Check the usage of the chosen word."
+    },
+    {
+     "question_text": "Spaced repetition is:",
+     "options": [
+      "Learning all words at once",
+      "Revising words at increasing intervals to improve memory",
+      "Reading once",
+      "Memorising overnight"
+     ],
+     "correct_index": 1,
+     "explanation": "It strengthens long-term retention."
+    },
+    {
+     "question_text": "Learning words in context helps because:",
+     "options": [
+      "It is slower",
+      "It is unnatural",
+      "It shows how a word is used, its meaning and collocations",
+      "It removes meaning"
+     ],
+     "correct_index": 2,
+     "explanation": "It improves usage."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Speaking Skills: Vocabulary, Dialogue Writing and Storytelling – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The stress in \"product\" (noun) and \"produce\" (verb) is respectively on:",
+     "options": [
+      "The first syllable (PROduct) and the second syllable (proDUCE)",
+      "The second and first",
+      "The second and second",
+      "The first and first"
+     ],
+     "correct_index": 0,
+     "explanation": "Noun-verb pairs often shift stress."
+    },
+    {
+     "question_text": "Intonation is:",
+     "options": [
+      "The length of words",
+      "The rise and fall of the voice in speech; rising intonation is used for yes/no questions",
+      "The speed of speech",
+      "The loudness of the voice"
+     ],
+     "correct_index": 1,
+     "explanation": "Falling intonation is used for statements."
+    },
+    {
+     "question_text": "Which word has a silent letter?",
+     "options": [
+      "Cat",
+      "Book",
+      "Table",
+      "Knife"
+     ],
+     "correct_index": 3,
+     "explanation": "Other examples: hour, psychology, write, listen."
+    },
+    {
+     "question_text": "A dialogue is:",
+     "options": [
+      "A report",
+      "A conversation between two or more people",
+      "A story",
+      "A speech by one person"
+     ],
+     "correct_index": 1,
+     "explanation": "It can be written or spoken."
+    },
+    {
+     "question_text": "The purpose of dialogue writing is to:",
+     "options": [
+      "Report facts",
+      "Write essays",
+      "Write letters",
+      "Show how people speak and interact, and develop communication skills"
+     ],
+     "correct_index": 3,
+     "explanation": "It practises natural conversation."
+    },
+    {
+     "question_text": "The format of a dialogue includes:",
+     "options": [
+      "Speaker names followed by a colon and their words, on separate lines",
+      "Paragraphs only",
+      "Bullet points only",
+      "Headings only"
+     ],
+     "correct_index": 0,
+     "explanation": "Each turn starts on a new line."
+    },
+    {
+     "question_text": "A rule of dialogue writing is:",
+     "options": [
+      "Use only one speaker",
+      "Use no punctuation",
+      "Use long paragraphs",
+      "Keep the sentences short, natural and appropriate to the speakers and context"
+     ],
+     "correct_index": 3,
+     "explanation": "Each speaker should have a clear role."
+    },
+    {
+     "question_text": "Expressions for agreeing, disagreeing, suggesting and apologising respectively are:",
+     "options": [
+      "\"Exactly\", \"I see it differently\", \"How about…?\", \"I'm sorry\"",
+      "\"How about…?\", \"I'm sorry\", \"Exactly\", \"I see it differently\"",
+      "\"I see it differently\", \"How about…?\", \"Exactly\", \"I'm sorry\"",
+      "\"I'm sorry\", \"Exactly\", \"How about…?\", \"I see it differently\""
+     ],
+     "correct_index": 0,
+     "explanation": "Choose by function."
+    },
+    {
+     "question_text": "A formal dialogue opens with a _____ and closes with a _____:",
+     "options": [
+      "Question; silence",
+      "Command; apology",
+      "Slang; joke",
+      "Polite greeting; courteous thanks or farewell"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Good morning, sir… Thank you for your time.\""
+    },
+    {
+     "question_text": "A formal dialogue differs from an informal dialogue in that a formal dialogue:",
+     "options": [
+      "Is among friends",
+      "Uses slang",
+      "Uses contractions only",
+      "Uses polite, standard language, while an informal one uses casual language"
+     ],
+     "correct_index": 3,
+     "explanation": "Context determines formality."
+    },
+    {
+     "question_text": "In a dialogue between a customer and a bank officer on opening an account, the officer would most likely say:",
+     "options": [
+      "\"Come tomorrow.\"",
+      "\"Good morning, how may I help you? Please fill in this form and attach your KYC documents.\"",
+      "\"I don't know.\"",
+      "\"What do you want?\""
+     ],
+     "correct_index": 1,
+     "explanation": "It is polite and relevant."
+    },
+    {
+     "question_text": "In a dialogue between two colleagues on a project deadline, a suitable line is:",
+     "options": [
+      "\"Where is the moon?\"",
+      "\"I like pizza.\"",
+      "\"We need to finish the report by Friday; can you share the data today?\"",
+      "\"It rained yesterday.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It stays on topic."
+    },
+    {
+     "question_text": "In a dialogue between a teacher and a student on a missed assignment, a suitable student line is:",
+     "options": [
+      "\"Not my problem.\"",
+      "\"I'm sorry, ma'am. I was ill; may I submit it tomorrow?\"",
+      "\"I don't care.\"",
+      "\"Go away.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It is polite and gives a reason."
+    },
+    {
+     "question_text": "In an interview dialogue, a suitable candidate line is:",
+     "options": [
+      "\"Thank you for the opportunity. I have studied accounting and completed an internship.\"",
+      "\"I want money.\"",
+      "\"Hurry up.\"",
+      "\"I don't know why I'm here.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It is professional and relevant."
+    },
+    {
+     "question_text": "In a dialogue between a shopkeeper and a customer on a discount, a suitable customer line is:",
+     "options": [
+      "\"Give it free.\"",
+      "\"I will steal it.\"",
+      "\"Your shop is bad.\"",
+      "\"Could you offer a discount if I buy two?\""
+     ],
+     "correct_index": 3,
+     "explanation": "It is polite bargaining."
+    },
+    {
+     "question_text": "In a dialogue with a customer-care executive about a damaged product, a suitable customer line is:",
+     "options": [
+      "\"The product arrived damaged; I would like a replacement, please.\"",
+      "\"I don't want anything.\"",
+      "\"Good night.\"",
+      "\"You are useless.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It states the problem and the request."
+    },
+    {
+     "question_text": "In a dialogue between two friends planning a trip, a suitable line is:",
+     "options": [
+      "\"Accounting is hard.\"",
+      "\"Please sign here.\"",
+      "\"Mars is far.\"",
+      "\"Let's go to Goa in December; what's our budget?\""
+     ],
+     "correct_index": 3,
+     "explanation": "It is casual and relevant."
+    },
+    {
+     "question_text": "A telephone dialogue between a receptionist and a caller typically begins with:",
+     "options": [
+      "\"Not available.\"",
+      "\"Hello you.\"",
+      "\"Good morning, ABC Company, how may I help you?\"",
+      "\"What?\""
+     ],
+     "correct_index": 2,
+     "explanation": "It is a polite standard opening."
+    },
+    {
+     "question_text": "In a dialogue between a manager and an employee seeking leave, a suitable employee line is:",
+     "options": [
+      "\"Leave is boring.\"",
+      "\"May I request leave from 10 to 12 October for a family function?\"",
+      "\"I am taking leave.\"",
+      "\"You can't stop me.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It makes a polite request."
+    },
+    {
+     "question_text": "In a dialogue between a doctor and a patient, a suitable doctor line is:",
+     "options": [
+      "\"What symptoms are you having, and since when?\"",
+      "\"Go away.\"",
+      "\"Pay me first.\"",
+      "\"Nothing is wrong.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It asks relevant questions."
+    },
+    {
+     "question_text": "In a dialogue between a salesperson and a client on a new product, a suitable salesperson line is:",
+     "options": [
+      "\"Buy it now.\"",
+      "\"Our new model is lighter and more energy-efficient; may I show you a demonstration?\"",
+      "\"It is cheap junk.\"",
+      "\"I don't know the product.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It informs and invites."
+    },
+    {
+     "question_text": "In a dialogue between two students on exam preparation, a suitable line is:",
+     "options": [
+      "\"Bring me tea.\"",
+      "\"Exams do not exist.\"",
+      "\"I like cricket.\"",
+      "\"Shall we revise the ledger chapter together tonight?\""
+     ],
+     "correct_index": 3,
+     "explanation": "It is relevant and friendly."
+    },
+    {
+     "question_text": "In a dialogue between an insurance agent and a customer, a suitable agent line is:",
+     "options": [
+      "\"Pay me and go.\"",
+      "\"Insurance is useless.\"",
+      "\"This plan gives you life cover of Rs 10 lakh for a small annual premium.\"",
+      "\"I don't sell it.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It explains the product."
+    },
+    {
+     "question_text": "In a dialogue between a travel agent and a customer booking a ticket, a suitable agent line is:",
+     "options": [
+      "\"Which date would you like to travel, and do you prefer a window seat?\"",
+      "\"Pay later maybe.\"",
+      "\"Tickets are not available ever.\"",
+      "\"Go walking.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It collects booking details."
+    },
+    {
+     "question_text": "In a dialogue between a manager and a team about an urgent change in plan, a suitable manager line is:",
+     "options": [
+      "\"Go home.\"",
+      "\"Let's celebrate.\"",
+      "\"The client has moved the deadline up to Monday, so we must reorganise our tasks today.\"",
+      "\"Nothing has changed.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It communicates the change clearly."
+    }
+   ]
+  },
+  {
+   "title": "Unit 4: Speaking Skills: Vocabulary, Dialogue Writing and Storytelling – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Storytelling is:",
+     "options": [
+      "The art of narrating events to engage and communicate a message",
+      "Reading a report",
+      "Writing a ledger",
+      "Solving problems"
+     ],
+     "correct_index": 0,
+     "explanation": "Its purposes include entertaining, teaching and persuading."
+    },
+    {
+     "question_text": "The elements of a story are:",
+     "options": [
+      "Title and author only",
+      "Headline and byline",
+      "Characters, setting, plot, conflict and theme",
+      "Abstract and index"
+     ],
+     "correct_index": 2,
+     "explanation": "They form the structure."
+    },
+    {
+     "question_text": "Plot, conflict, climax and resolution mean respectively:",
+     "options": [
+      "The problem; the outcome; the sequence; the climax",
+      "The climax; the plot; the resolution; the conflict",
+      "The sequence of events; the problem; the turning point; the outcome",
+      "The outcome; the sequence; the problem; the turning point"
+     ],
+     "correct_index": 2,
+     "explanation": "Together they make the story's arc."
+    },
+    {
+     "question_text": "Freytag's pyramid has the stages:",
+     "options": [
+      "Introduction, body, conclusion",
+      "Exposition, rising action, climax, falling action and resolution",
+      "Hook, thesis, evidence",
+      "Plan, do, check, act"
+     ],
+     "correct_index": 1,
+     "explanation": "It describes dramatic structure."
+    },
+    {
+     "question_text": "The hero's journey is:",
+     "options": [
+      "A report",
+      "A story pattern in which a hero leaves home, faces challenges and returns changed",
+      "A travel plan",
+      "A biography"
+     ],
+     "correct_index": 1,
+     "explanation": "Joseph Campbell described it."
+    },
+    {
+     "question_text": "The point of view in a story is:",
+     "options": [
+      "The perspective from which it is told, such as first person or third person",
+      "The title",
+      "The setting",
+      "The moral"
+     ],
+     "correct_index": 0,
+     "explanation": "\"I\" is first person; \"he/she\" is third."
+    },
+    {
+     "question_text": "\"Show\" differs from \"tell\" in that \"show\" uses:",
+     "options": [
+      "Uses summary",
+      "States facts",
+      "Is shorter",
+      "Vivid details and actions, while \"tell\" states facts directly"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Her hands trembled\" shows nervousness; \"she was nervous\" tells it."
+    },
+    {
+     "question_text": "Storytelling techniques include:",
+     "options": [
+      "Only facts",
+      "Only dates",
+      "Only lists",
+      "Hook, vivid details, dialogue, suspense and emotion"
+     ],
+     "correct_index": 3,
+     "explanation": "They engage the audience."
+    },
+    {
+     "question_text": "A story with the moral \"Honesty is the best policy\" would most likely show:",
+     "options": [
+      "A character who tells the truth and is rewarded or trusted",
+      "A character who steals",
+      "A character who ignores problems",
+      "A character who lies and succeeds"
+     ],
+     "correct_index": 0,
+     "explanation": "The plot illustrates the moral."
+    },
+    {
+     "question_text": "A story with the moral \"Unity is strength\" would most likely show:",
+     "options": [
+      "One character succeeding alone",
+      "Characters leaving",
+      "Characters quarrelling",
+      "Characters working together and succeeding where they failed alone"
+     ],
+     "correct_index": 3,
+     "explanation": "Cooperation is the lesson."
+    },
+    {
+     "question_text": "The best continuation of \"The lights went out and then…\" is:",
+     "options": [
+      "…a faint knock echoed through the dark house.",
+      "…tea is grown in Assam.",
+      "…accounting standards are issued by ICAI.",
+      "…the report was ready."
+     ],
+     "correct_index": 0,
+     "explanation": "It builds suspense."
+    },
+    {
+     "question_text": "A short story on \"A small act of kindness\" would most likely show:",
+     "options": [
+      "A long debate",
+      "A big crime",
+      "A simple helpful gesture that makes a big difference to someone",
+      "A budget plan"
+     ],
+     "correct_index": 2,
+     "explanation": "It reinforces the theme."
+    },
+    {
+     "question_text": "A story from a customer's point of view is told:",
+     "options": [
+      "In the first person (\"I\") or from the customer's perspective",
+      "As a report",
+      "In the manager's voice",
+      "As a list"
+     ],
+     "correct_index": 0,
+     "explanation": "The narrator is the customer."
+    },
+    {
+     "question_text": "To deliver a story orally, you should:",
+     "options": [
+      "Speak very fast",
+      "Read in a flat voice",
+      "Use voice modulation, pauses, gestures and eye contact",
+      "Avoid eye contact"
+     ],
+     "correct_index": 2,
+     "explanation": "It engages listeners."
+    },
+    {
+     "question_text": "The role of voice modulation and pauses in storytelling is to:",
+     "options": [
+      "Hide the plot",
+      "Create emphasis, suspense and emotion",
+      "Shorten the story",
+      "Reduce interest"
+     ],
+     "correct_index": 1,
+     "explanation": "They guide the listener's attention."
+    },
+    {
+     "question_text": "Business storytelling is:",
+     "options": [
+      "Writing fiction only",
+      "Using stories to communicate ideas, brand values or data in presentations, marketing and leadership",
+      "Accounting",
+      "Writing contracts"
+     ],
+     "correct_index": 1,
+     "explanation": "It makes messages memorable."
+    },
+    {
+     "question_text": "The STAR method stands for:",
+     "options": [
+      "Situation, Task, Action, Result",
+      "Skill, Time, Action, Reward",
+      "Start, Talk, Answer, Review",
+      "Strategy, Target, Approach, Result"
+     ],
+     "correct_index": 0,
+     "explanation": "It structures answers in interviews."
+    },
+    {
+     "question_text": "Storytelling helps in interviews by:",
+     "options": [
+      "Avoiding examples",
+      "Reducing confidence",
+      "Illustrating skills with real examples in a clear structure",
+      "Making answers vague"
+     ],
+     "correct_index": 2,
+     "explanation": "Use STAR stories."
+    },
+    {
+     "question_text": "Storytelling helps in a sales pitch by:",
+     "options": [
+      "Avoiding emotion",
+      "Hiding the product",
+      "Confusing the client",
+      "Connecting emotionally with the client and showing the product's value through a relatable story"
+     ],
+     "correct_index": 3,
+     "explanation": "Stories are more memorable than facts alone."
+    },
+    {
+     "question_text": "A tip for effective storytelling is to:",
+     "options": [
+      "Memorise without understanding",
+      "Know your audience, keep a clear structure and be authentic",
+      "Use long irrelevant details",
+      "Avoid emotion"
+     ],
+     "correct_index": 1,
+     "explanation": "Practise before delivery."
+    },
+    {
+     "question_text": "A way to overcome nervousness while speaking is:",
+     "options": [
+      "Avoid practising",
+      "Speak very fast",
+      "Prepare well, practise, breathe deeply and focus on the message",
+      "Avoid eye contact"
+     ],
+     "correct_index": 2,
+     "explanation": "Positive visualisation also helps."
+    },
+    {
+     "question_text": "Filler words such as \"um\", \"like\" and \"you know\" can be reduced by:",
+     "options": [
+      "Speaking faster",
+      "Pausing silently, practising and slowing down",
+      "Ignoring them",
+      "Adding more fillers"
+     ],
+     "correct_index": 1,
+     "explanation": "Silence is better than fillers."
+    },
+    {
+     "question_text": "Active listening means:",
+     "options": [
+      "Looking at the phone",
+      "Pretending to listen",
+      "Fully concentrating, understanding and responding to the speaker",
+      "Interrupting"
+     ],
+     "correct_index": 2,
+     "explanation": "It includes nodding, paraphrasing and asking questions."
+    },
+    {
+     "question_text": "Body language is important while speaking because it:",
+     "options": [
+      "Reduces credibility always",
+      "Replaces words",
+      "Reinforces or contradicts the spoken message and builds credibility",
+      "Has no effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Posture, gestures and eye contact matter."
+    },
+    {
+     "question_text": "A short speech is structured as:",
+     "options": [
+      "Opening (hook), body (2–3 key points) and conclusion (summary/call to action)",
+      "Only a body",
+      "Only an opening",
+      "Conclusion, body, opening"
+     ],
+     "correct_index": 0,
+     "explanation": "Keep it clear and brief."
+    }
+   ]
+  }
+ ]
+}

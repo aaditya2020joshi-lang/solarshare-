@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 2: Introduction to English Composition – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A paragraph is:",
+     "options": [
+      "A page of writing",
+      "A group of related sentences developing one main idea, usually 5–8 sentences long",
+      "A single sentence",
+      "A list of words"
+     ],
+     "correct_index": 1,
+     "explanation": "It usually has a topic sentence, supporting sentences and a concluding sentence."
+    },
+    {
+     "question_text": "The three parts of a paragraph are:",
+     "options": [
+      "Heading, subheading and note",
+      "Topic sentence, supporting sentences and concluding sentence",
+      "Opening, middle and ending paragraphs",
+      "Title, body and signature"
+     ],
+     "correct_index": 1,
+     "explanation": "Each has a distinct function."
+    },
+    {
+     "question_text": "A topic sentence is:",
+     "options": [
+      "A transition word",
+      "The sentence that states the main idea of the paragraph, usually placed first",
+      "The last sentence",
+      "A supporting detail"
+     ],
+     "correct_index": 1,
+     "explanation": "It controls the content of the paragraph."
+    },
+    {
+     "question_text": "Which is the best topic sentence for a paragraph on \"Importance of punctuality\"?",
+     "options": [
+      "Punctuality is a habit that builds trust and success in both studies and work.",
+      "Clocks were invented long ago.",
+      "I woke up late yesterday.",
+      "Many people like to sleep."
+     ],
+     "correct_index": 0,
+     "explanation": "It states a clear, focused main idea."
+    },
+    {
+     "question_text": "Supporting sentences:",
+     "options": [
+      "Introduce a new topic",
+      "Repeat the title",
+      "End the paragraph",
+      "Develop the topic sentence with facts, examples and explanations"
+     ],
+     "correct_index": 3,
+     "explanation": "They provide evidence for the main idea."
+    },
+    {
+     "question_text": "A concluding sentence:",
+     "options": [
+      "Introduces a new idea",
+      "Starts a new paragraph",
+      "Summarises or restates the main idea and gives closure",
+      "Adds irrelevant details"
+     ],
+     "correct_index": 2,
+     "explanation": "It should not add new points."
+    },
+    {
+     "question_text": "Unity in a paragraph means:",
+     "options": [
+      "Every sentence relates to the single main idea",
+      "Using only simple words",
+      "Using long sentences",
+      "Using many ideas"
+     ],
+     "correct_index": 0,
+     "explanation": "Irrelevant sentences break unity."
+    },
+    {
+     "question_text": "Coherence in a paragraph means:",
+     "options": [
+      "Sentences are logically connected and flow smoothly",
+      "Sentences are random",
+      "Sentences are short",
+      "Sentences are long"
+     ],
+     "correct_index": 0,
+     "explanation": "It is achieved through order and transitions."
+    },
+    {
+     "question_text": "Coherence can be achieved by:",
+     "options": [
+      "Logical order, transitions and repeating key words or pronouns",
+      "Changing topics",
+      "Random order",
+      "Avoiding transitions"
+     ],
+     "correct_index": 0,
+     "explanation": "Consistent point of view also helps."
+    },
+    {
+     "question_text": "Transitions such as \"however\", \"for example\", \"therefore\" and \"first\" show, respectively:",
+     "options": [
+      "Example, result, sequence and contrast",
+      "Result, sequence, contrast and example",
+      "Sequence, contrast, example and result",
+      "Contrast, example, result and sequence"
+     ],
+     "correct_index": 3,
+     "explanation": "They link ideas across sentences."
+    },
+    {
+     "question_text": "Methods of developing a paragraph include:",
+     "options": [
+      "Only definitions",
+      "Examples, comparison, cause and effect, process and definition",
+      "Only lists",
+      "Only examples"
+     ],
+     "correct_index": 1,
+     "explanation": "The choice depends on the purpose."
+    },
+    {
+     "question_text": "The first step in writing a paragraph is to:",
+     "options": [
+      "Write the conclusion",
+      "Add transitions",
+      "Choose and narrow the topic, then plan the main idea",
+      "Proofread"
+     ],
+     "correct_index": 2,
+     "explanation": "Then draft, revise and proofread."
+    },
+    {
+     "question_text": "The topic sentence in \"Exercise is vital. It improves heart health, builds strength and boosts mood.\" is:",
+     "options": [
+      "It improves heart health.",
+      "Builds strength.",
+      "Exercise is vital.",
+      "Boosts mood."
+     ],
+     "correct_index": 2,
+     "explanation": "The other sentences support it."
+    },
+    {
+     "question_text": "Remove the irrelevant sentence: \"Tea is popular in India. It is grown in Assam. Mountains are very tall. Many people drink it daily.\"",
+     "options": [
+      "It is grown in Assam.",
+      "Mountains are very tall.",
+      "Many people drink it daily.",
+      "Tea is popular in India."
+     ],
+     "correct_index": 1,
+     "explanation": "It breaks the unity of the paragraph."
+    },
+    {
+     "question_text": "The most coherent order is: (a) First, mix the flour and water. (b) Making dough is simple. (c) Finally, rest it for an hour. (d) Next, knead it for ten minutes.",
+     "options": [
+      "b, a, d, c",
+      "d, c, b, a",
+      "a, b, c, d",
+      "c, d, a, b"
+     ],
+     "correct_index": 0,
+     "explanation": "Topic sentence first, then steps in order."
+    },
+    {
+     "question_text": "A suitable concluding sentence for \"Reading builds vocabulary, improves concentration and reduces stress.\" is:",
+     "options": [
+      "Next, we will discuss cricket.",
+      "Reading was invented in 1500.",
+      "In short, reading is a simple habit with many benefits.",
+      "Pizza is also tasty."
+     ],
+     "correct_index": 2,
+     "explanation": "It restates the main idea."
+    },
+    {
+     "question_text": "A descriptive paragraph:",
+     "options": [
+      "Tells a story",
+      "Explains a process",
+      "Argues a point",
+      "Paints a picture of a person, place or object using vivid details"
+     ],
+     "correct_index": 3,
+     "explanation": "It appeals to the senses."
+    },
+    {
+     "question_text": "Descriptive paragraphs commonly follow:",
+     "options": [
+      "Chronological order only",
+      "Order of importance only",
+      "Random order",
+      "Spatial order (e.g., top to bottom, left to right)"
+     ],
+     "correct_index": 3,
+     "explanation": "It helps the reader visualise."
+    },
+    {
+     "question_text": "Sensory details in description:",
+     "options": [
+      "Are not needed",
+      "Add confusion",
+      "Appeal to sight, sound, smell, taste and touch to make the scene vivid",
+      "Make it persuasive"
+     ],
+     "correct_index": 2,
+     "explanation": "They help the reader experience the scene."
+    },
+    {
+     "question_text": "The best opening for a descriptive paragraph on \"A busy railway station\" is:",
+     "options": [
+      "I went to the station yesterday and bought a ticket.",
+      "You should always buy a ticket.",
+      "The platform buzzed with the clatter of trolleys, shouting vendors and the steady hiss of arriving trains.",
+      "Railway stations are used to travel."
+     ],
+     "correct_index": 2,
+     "explanation": "It uses sound and visual details."
+    },
+    {
+     "question_text": "The best opening for a descriptive paragraph on \"Your college campus\" is:",
+     "options": [
+      "You must join this college.",
+      "First, I applied for admission.",
+      "Tall neem trees line the red-brick paths that wind between the library and the sunlit courtyard.",
+      "Colleges are important."
+     ],
+     "correct_index": 2,
+     "explanation": "It paints a scene."
+    },
+    {
+     "question_text": "The best opening for a descriptive paragraph on \"A rainy day\" is:",
+     "options": [
+      "Everyone should carry an umbrella.",
+      "Rain is caused by evaporation.",
+      "Yesterday I got wet.",
+      "Grey clouds sagged over the city as fat raindrops drummed on the tin roofs and the air smelt of wet earth."
+     ],
+     "correct_index": 3,
+     "explanation": "It appeals to sight, sound and smell."
+    },
+    {
+     "question_text": "The best opening for a descriptive paragraph on \"A marketplace during a festival\" is:",
+     "options": [
+      "The lanes glittered with strings of lights, and the air was thick with the smell of sweets, flowers and incense.",
+      "First, I entered the market.",
+      "Markets sell goods.",
+      "You should shop early."
+     ],
+     "correct_index": 0,
+     "explanation": "It creates a vivid picture."
+    },
+    {
+     "question_text": "The best opening for a descriptive paragraph on \"Your favourite place in your city\" is:",
+     "options": [
+      "The lakeside promenade glows golden at sunset, with cool breeze and the soft murmur of strolling families.",
+      "Cities have many places.",
+      "You must visit the lake.",
+      "I went there once."
+     ],
+     "correct_index": 0,
+     "explanation": "It gives sensory detail."
+    },
+    {
+     "question_text": "A narrative paragraph:",
+     "options": [
+      "Argues a point",
+      "Explains a process",
+      "Tells a story or recounts an event in sequence",
+      "Describes a scene"
+     ],
+     "correct_index": 2,
+     "explanation": "It has characters, setting and plot."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Introduction to English Composition – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The order used in a narrative paragraph is:",
+     "options": [
+      "Chronological order",
+      "Order of importance",
+      "Spatial order",
+      "Random"
+     ],
+     "correct_index": 0,
+     "explanation": "Events are narrated as they occurred."
+    },
+    {
+     "question_text": "The tense mostly used in narration is:",
+     "options": [
+      "Future tense",
+      "Present perfect",
+      "Conditional",
+      "Past tense"
+     ],
+     "correct_index": 3,
+     "explanation": "Present tense may be used for effect."
+    },
+    {
+     "question_text": "The best opening for a narrative paragraph on \"Your first day at college\" is:",
+     "options": [
+      "Colleges have many departments.",
+      "On my first day at college, I walked through the gates nervous and clutching my timetable.",
+      "You should attend all lectures.",
+      "College education is important."
+     ],
+     "correct_index": 1,
+     "explanation": "It starts the story in sequence."
+    },
+    {
+     "question_text": "The best opening for a narrative paragraph on \"A memorable journey\" is:",
+     "options": [
+      "Last summer, my family boarded the night train to Darjeeling, unaware how memorable the trip would be.",
+      "Travel broadens the mind.",
+      "You should always pack light.",
+      "Trains are cheaper than planes."
+     ],
+     "correct_index": 0,
+     "explanation": "It sets up the events."
+    },
+    {
+     "question_text": "The best opening for a narrative paragraph on \"A time you solved a problem\" is:",
+     "options": [
+      "Problems must be solved.",
+      "During my internship, the billing software crashed on the last day of the month, and I had to find a fix before evening.",
+      "You should learn to code.",
+      "Software is complicated."
+     ],
+     "correct_index": 1,
+     "explanation": "It names the event and context."
+    },
+    {
+     "question_text": "The best opening for a narrative paragraph on \"A lesson learnt from failure\" is:",
+     "options": [
+      "Failure is bad.",
+      "You must never fail.",
+      "When I failed my first accounting test, I felt crushed, but that moment taught me how to study.",
+      "Tests are held every year."
+     ],
+     "correct_index": 2,
+     "explanation": "It starts the story and hints at the lesson."
+    },
+    {
+     "question_text": "The best opening for a narrative paragraph on \"A day when everything went wrong\" is:",
+     "options": [
+      "Alarms are useful devices.",
+      "My alarm did not ring, and from that moment the day unravelled one mishap after another.",
+      "Mornings are important.",
+      "You should set two alarms."
+     ],
+     "correct_index": 1,
+     "explanation": "It begins the chain of events."
+    },
+    {
+     "question_text": "An expository paragraph:",
+     "options": [
+      "Describes a scene",
+      "Persuades the reader",
+      "Tells a story",
+      "Explains or informs about a topic using facts and examples"
+     ],
+     "correct_index": 3,
+     "explanation": "It is objective in tone."
+    },
+    {
+     "question_text": "Characteristics of expository writing include:",
+     "options": [
+      "Emotional appeals",
+      "Personal opinion only",
+      "Clear, factual, logical and objective language",
+      "Vivid fantasy"
+     ],
+     "correct_index": 2,
+     "explanation": "It uses facts, definitions and examples."
+    },
+    {
+     "question_text": "The best topic sentence for an expository paragraph on \"How UPI works\" is:",
+     "options": [
+      "I used UPI yesterday.",
+      "UPI lets users transfer money instantly between bank accounts using a virtual payment address and a PIN.",
+      "UPI is the best thing ever.",
+      "Everyone must use UPI."
+     ],
+     "correct_index": 1,
+     "explanation": "It explains the process objectively."
+    },
+    {
+     "question_text": "The best topic sentence for an expository paragraph on \"Causes of inflation\" is:",
+     "options": [
+      "Inflation is terrible.",
+      "Inflation is caused mainly by rising demand, higher production costs and an increase in money supply.",
+      "I hate high prices.",
+      "You should save more."
+     ],
+     "correct_index": 1,
+     "explanation": "It states factual causes."
+    },
+    {
+     "question_text": "The best topic sentence for an expository paragraph on \"The importance of financial literacy\" is:",
+     "options": [
+      "I opened a bank account last year.",
+      "Money is nice.",
+      "Financial literacy helps people manage money, avoid debt and plan for the future.",
+      "Everyone must study finance."
+     ],
+     "correct_index": 2,
+     "explanation": "It informs about the significance."
+    },
+    {
+     "question_text": "The best topic sentence for an expository paragraph on \"How to prepare for an interview\" is:",
+     "options": [
+      "You should never fear interviews.",
+      "Interviews are scary.",
+      "I once attended an interview.",
+      "Preparing for an interview involves researching the company, practising answers and planning your attire."
+     ],
+     "correct_index": 3,
+     "explanation": "It introduces the steps."
+    },
+    {
+     "question_text": "The best topic sentence for an expository paragraph on \"The benefits of sleep\" is:",
+     "options": [
+      "Adequate sleep improves memory, mood and physical health.",
+      "Sleep is pleasant.",
+      "You must sleep eight hours.",
+      "I slept late yesterday."
+     ],
+     "correct_index": 0,
+     "explanation": "It states factual benefits."
+    },
+    {
+     "question_text": "A persuasive paragraph:",
+     "options": [
+      "Tries to convince the reader to accept a viewpoint or take action",
+      "Only narrates",
+      "Only describes",
+      "Only explains"
+     ],
+     "correct_index": 0,
+     "explanation": "It uses reasons and evidence."
+    },
+    {
+     "question_text": "Elements of a persuasive paragraph include:",
+     "options": [
+      "A clear position, reasons, evidence and a call to action",
+      "Only questions",
+      "Only a story",
+      "Only description"
+     ],
+     "correct_index": 0,
+     "explanation": "It may also address counter-arguments."
+    },
+    {
+     "question_text": "The best topic sentence for a persuasive paragraph on \"Why students should learn financial skills\" is:",
+     "options": [
+      "I learnt finance last year.",
+      "Students attend college.",
+      "Students should learn financial skills because they prepare them to manage money wisely in adult life.",
+      "Finance involves numbers."
+     ],
+     "correct_index": 2,
+     "explanation": "It states a position with a reason."
+    },
+    {
+     "question_text": "The best topic sentence for a persuasive paragraph on \"Why plastic bags should be banned\" is:",
+     "options": [
+      "I carry a cloth bag.",
+      "Plastic was invented in 1907.",
+      "Plastic bags should be banned because they pollute the environment and harm wildlife.",
+      "Plastic bags are light."
+     ],
+     "correct_index": 2,
+     "explanation": "It takes a clear position."
+    },
+    {
+     "question_text": "The best topic sentence for a persuasive paragraph on \"Why companies should allow remote work\" is:",
+     "options": [
+      "Companies should allow remote work because it raises productivity and widens the talent pool.",
+      "I work from home.",
+      "Offices have desks.",
+      "Remote work began recently."
+     ],
+     "correct_index": 0,
+     "explanation": "It argues a case."
+    },
+    {
+     "question_text": "The best topic sentence for a persuasive paragraph on \"Why public transport should be preferred\" is:",
+     "options": [
+      "I took a bus yesterday.",
+      "Roads are long.",
+      "Public transport should be preferred because it reduces traffic, pollution and travel costs.",
+      "Buses have wheels."
+     ],
+     "correct_index": 2,
+     "explanation": "It gives a clear claim."
+    },
+    {
+     "question_text": "The best topic sentence for a persuasive paragraph on \"Why every student should do an internship\" is:",
+     "options": [
+      "Internships last two months.",
+      "Students study many subjects.",
+      "I did an internship.",
+      "Every student should do an internship because it gives practical experience that classrooms cannot offer."
+     ],
+     "correct_index": 3,
+     "explanation": "It states a claim with a reason."
+    },
+    {
+     "question_text": "The correct match is:",
+     "options": [
+      "Descriptive – story; narrative – picture",
+      "Narrative – explain; descriptive – convince",
+      "Expository – convince; persuasive – explain",
+      "Descriptive – picture; narrative – story; expository – explain; persuasive – convince"
+     ],
+     "correct_index": 3,
+     "explanation": "Each has a different purpose."
+    },
+    {
+     "question_text": "\"The old banyan tree towered over the courtyard, its roots sprawling like giant fingers\" is:",
+     "options": [
+      "Persuasive",
+      "Narrative",
+      "Expository",
+      "Descriptive"
+     ],
+     "correct_index": 3,
+     "explanation": "It uses imagery to describe."
+    },
+    {
+     "question_text": "\"First, I opened the app. Then I entered the amount. Finally, I confirmed the payment.\" is:",
+     "options": [
+      "Descriptive",
+      "Expository (process)",
+      "Argumentative",
+      "Persuasive"
+     ],
+     "correct_index": 1,
+     "explanation": "It explains the steps."
+    },
+    {
+     "question_text": "\"You must vote. Your vote shapes the future.\" is:",
+     "options": [
+      "Expository",
+      "Persuasive",
+      "Narrative",
+      "Descriptive"
+     ],
+     "correct_index": 1,
+     "explanation": "It tries to convince the reader to act."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Introduction to English Composition – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "\"Last Sunday, my brother and I went trekking. We started early, reached the summit at noon and came back exhausted but happy.\" is:",
+     "options": [
+      "Expository",
+      "Narrative",
+      "Persuasive",
+      "Descriptive"
+     ],
+     "correct_index": 1,
+     "explanation": "It tells events in sequence."
+    },
+    {
+     "question_text": "An essay is:",
+     "options": [
+      "A structured piece of writing on a topic with an introduction, body and conclusion",
+      "A poem",
+      "A letter",
+      "A single paragraph"
+     ],
+     "correct_index": 0,
+     "explanation": "It develops a central idea."
+    },
+    {
+     "question_text": "The parts of an essay are:",
+     "options": [
+      "Introduction, body and conclusion",
+      "Heading and footer",
+      "Question and answer",
+      "Title and author"
+     ],
+     "correct_index": 0,
+     "explanation": "The body has several paragraphs."
+    },
+    {
+     "question_text": "The function of an introduction is to:",
+     "options": [
+      "Hook the reader, give background and state the thesis",
+      "Give evidence",
+      "Summarise the essay",
+      "Add references"
+     ],
+     "correct_index": 0,
+     "explanation": "It sets up the essay."
+    },
+    {
+     "question_text": "Common ways to begin an essay (hooks) include:",
+     "options": [
+      "A citation list",
+      "An apology",
+      "A question, a quotation, a statistic or a short anecdote",
+      "A summary"
+     ],
+     "correct_index": 2,
+     "explanation": "A hook grabs attention."
+    },
+    {
+     "question_text": "A thesis statement is:",
+     "options": [
+      "A summary of a paragraph",
+      "A title",
+      "A sentence that states the central argument or main idea of the whole essay",
+      "A conclusion"
+     ],
+     "correct_index": 2,
+     "explanation": "It is usually at the end of the introduction."
+    },
+    {
+     "question_text": "The best thesis statement for an essay on \"Social media and business\" is:",
+     "options": [
+      "Social media is popular.",
+      "I use social media.",
+      "This essay is about social media.",
+      "Social media transforms business by improving marketing reach, customer engagement and brand building."
+     ],
+     "correct_index": 3,
+     "explanation": "It states a clear, arguable point."
+    },
+    {
+     "question_text": "A thesis statement differs from a topic sentence in that a thesis statement:",
+     "options": [
+      "Is a title",
+      "Is a conclusion",
+      "Covers one paragraph",
+      "Covers the main idea of the whole essay, while a topic sentence covers one paragraph"
+     ],
+     "correct_index": 3,
+     "explanation": "Each topic sentence supports the thesis."
+    },
+    {
+     "question_text": "The function of body paragraphs is to:",
+     "options": [
+      "Conclude the essay",
+      "Introduce the topic",
+      "Develop and support the thesis with evidence, one main idea per paragraph",
+      "List references"
+     ],
+     "correct_index": 2,
+     "explanation": "They contain topic sentences and support."
+    },
+    {
+     "question_text": "A conclusion should restate the thesis and summarise the main points, while avoiding:",
+     "options": [
+      "Introducing new ideas or arguments",
+      "Closing",
+      "Restating",
+      "Summarising"
+     ],
+     "correct_index": 0,
+     "explanation": "New points belong in the body."
+    },
+    {
+     "question_text": "Types of essays include:",
+     "options": [
+      "Only descriptive",
+      "Only narrative",
+      "Only expository",
+      "Narrative, descriptive, expository and argumentative/persuasive"
+     ],
+     "correct_index": 3,
+     "explanation": "Each serves a different purpose."
+    },
+    {
+     "question_text": "An argumentative essay differs from a persuasive essay in that an argumentative essay:",
+     "options": [
+      "Has no evidence",
+      "Has no thesis",
+      "Relies on emotion",
+      "Relies mainly on logic and evidence, while a persuasive essay also uses emotional appeal"
+     ],
+     "correct_index": 3,
+     "explanation": "Both take a position."
+    },
+    {
+     "question_text": "The writing process consists of:",
+     "options": [
+      "Printing",
+      "Proofreading only",
+      "Pre-writing, drafting, revising, editing and proofreading",
+      "Drafting only"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a recursive process."
+    },
+    {
+     "question_text": "Pre-writing techniques include:",
+     "options": [
+      "Proofreading",
+      "Brainstorming, free writing and mind mapping",
+      "Editing",
+      "Printing"
+     ],
+     "correct_index": 1,
+     "explanation": "They generate ideas before drafting."
+    },
+    {
+     "question_text": "A mind map is:",
+     "options": [
+      "A map of a city",
+      "A diagram showing ideas branching from a central topic",
+      "A final draft",
+      "A list of sentences"
+     ],
+     "correct_index": 1,
+     "explanation": "It helps organise ideas visually."
+    },
+    {
+     "question_text": "An outline is:",
+     "options": [
+      "A structured plan listing the main points and sub-points of an essay",
+      "The final draft",
+      "A summary",
+      "A title page"
+     ],
+     "correct_index": 0,
+     "explanation": "It guides drafting."
+    },
+    {
+     "question_text": "Revising differs from editing in that revising:",
+     "options": [
+      "Improves content, organisation and ideas, while editing corrects grammar, spelling and style",
+      "Is the same as editing",
+      "Corrects spelling",
+      "Corrects grammar only"
+     ],
+     "correct_index": 0,
+     "explanation": "Revision comes first."
+    },
+    {
+     "question_text": "Proofreading is:",
+     "options": [
+      "Brainstorming",
+      "The first draft",
+      "Outlining",
+      "The final check for spelling, punctuation and typing errors"
+     ],
+     "correct_index": 3,
+     "explanation": "It is done after editing."
+    },
+    {
+     "question_text": "Plagiarism is:",
+     "options": [
+      "Paraphrasing with credit",
+      "Using someone else's words or ideas without giving credit; it is avoided by citing sources and paraphrasing",
+      "Using your own ideas",
+      "Citing sources"
+     ],
+     "correct_index": 1,
+     "explanation": "It is academically dishonest."
+    },
+    {
+     "question_text": "The best thesis for a 200-word essay on \"Digital India\" is:",
+     "options": [
+      "Digital India is transforming governance, payments and education by expanding access to technology.",
+      "I like digital things.",
+      "Computers have screens.",
+      "Digital India is a topic."
+     ],
+     "correct_index": 0,
+     "explanation": "It states a clear central idea."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Importance of ethics in business\" is:",
+     "options": [
+      "Ethical practices build trust, protect reputation and ensure long-term business success.",
+      "I follow rules.",
+      "Ethics is a subject.",
+      "Businesses have owners."
+     ],
+     "correct_index": 0,
+     "explanation": "It is specific and arguable."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Role of women in the economy\" is:",
+     "options": [
+      "I know many women.",
+      "This essay is about women.",
+      "Women contribute to the economy as workers, entrepreneurs and consumers, and their participation drives growth.",
+      "Women are people."
+     ],
+     "correct_index": 2,
+     "explanation": "It states a clear claim."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Climate change and business\" is:",
+     "options": [
+      "Climate is weather.",
+      "Climate change poses risks and opportunities for businesses, requiring sustainable practices.",
+      "I like cool weather.",
+      "Businesses have profits."
+     ],
+     "correct_index": 1,
+     "explanation": "It frames the argument."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Artificial intelligence: boon or bane?\" is:",
+     "options": [
+      "Artificial intelligence is more of a boon than a bane when used responsibly.",
+      "Robots are metal.",
+      "I use AI.",
+      "AI is a computer thing."
+     ],
+     "correct_index": 0,
+     "explanation": "It takes a position on the question."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Start-ups and youth entrepreneurship\" is:",
+     "options": [
+      "Youth means young.",
+      "Start-ups are small.",
+      "Start-ups give young people opportunities to innovate, create jobs and boost the economy.",
+      "I want a job."
+     ],
+     "correct_index": 2,
+     "explanation": "It states the central claim."
+    }
+   ]
+  },
+  {
+   "title": "Unit 2: Introduction to English Composition – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The best opening for an essay on \"A visit to a bank\" is:",
+     "options": [
+      "Banks hold money.",
+      "You must visit a bank.",
+      "Last Monday, I visited my local bank for the first time to open a savings account.",
+      "Money is paper."
+     ],
+     "correct_index": 2,
+     "explanation": "It starts a narrative essay."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"My career goals\" is:",
+     "options": [
+      "Goals are targets.",
+      "I have goals.",
+      "My goal is to become a chartered accountant, and I am preparing through study and internships.",
+      "Careers are jobs."
+     ],
+     "correct_index": 2,
+     "explanation": "It states a clear personal goal."
+    },
+    {
+     "question_text": "The best thesis for an essay on \"Cashless economy\" is:",
+     "options": [
+      "A cashless economy increases transparency, convenience and efficiency but needs safe digital infrastructure.",
+      "I carry cash.",
+      "Cash is paper.",
+      "Economies are large."
+     ],
+     "correct_index": 0,
+     "explanation": "It states a balanced claim."
+    },
+    {
+     "question_text": "An outline for \"Work-life balance\" would most logically include:",
+     "options": [
+      "Introduction, importance, challenges, solutions, conclusion",
+      "Conclusion, title, introduction",
+      "Only an introduction",
+      "Only a conclusion"
+     ],
+     "correct_index": 0,
+     "explanation": "It follows a logical sequence."
+    },
+    {
+     "question_text": "An outline for \"Pros and cons of online education\" would most logically include:",
+     "options": [
+      "Conclusion only",
+      "Disadvantages only",
+      "Introduction only",
+      "Introduction, advantages, disadvantages, balanced conclusion"
+     ],
+     "correct_index": 3,
+     "explanation": "It treats both sides."
+    },
+    {
+     "question_text": "A good introduction for \"Importance of financial planning\" includes:",
+     "options": [
+      "Only a hook",
+      "Only a thesis",
+      "A hook, background and a thesis statement",
+      "Only background"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., a statistic, context and the central claim."
+    },
+    {
+     "question_text": "A good conclusion for \"Social media and business\" would:",
+     "options": [
+      "Restate the thesis, summarise the main points and end with a closing thought",
+      "Introduce new arguments",
+      "Stop abruptly",
+      "Repeat the introduction word for word"
+     ],
+     "correct_index": 0,
+     "explanation": "It gives closure."
+    },
+    {
+     "question_text": "The stronger version of the weak thesis \"This essay is about pollution\" is:",
+     "options": [
+      "This essay will talk about pollution.",
+      "Pollution is bad.",
+      "Pollution harms health and the economy, and stricter regulation is needed to control it.",
+      "I will write about pollution."
+     ],
+     "correct_index": 2,
+     "explanation": "It takes a clear, arguable position."
+    },
+    {
+     "question_text": "A style tip for formal essay writing is to:",
+     "options": [
+      "Use text-speak",
+      "Use slang",
+      "Use contractions",
+      "Use formal vocabulary, clear structure and an objective tone"
+     ],
+     "correct_index": 3,
+     "explanation": "Avoid first-person where possible."
+    },
+    {
+     "question_text": "Contractions and slang should be avoided in formal essays because:",
+     "options": [
+      "They sound informal and reduce credibility",
+      "They are unclear in all cases",
+      "They are illegal",
+      "They are long"
+     ],
+     "correct_index": 0,
+     "explanation": "Formal writing needs a professional tone."
+    },
+    {
+     "question_text": "A consistent tone in an essay is maintained by:",
+     "options": [
+      "Switching styles",
+      "Changing tone randomly",
+      "Choosing a style and vocabulary appropriate to the audience and keeping it throughout",
+      "Using slang in some places"
+     ],
+     "correct_index": 2,
+     "explanation": "Tone should match purpose."
+    },
+    {
+     "question_text": "An essay differs from a report in that an essay:",
+     "options": [
+      "Is only numerical",
+      "Develops an argument in continuous prose, while a report presents organised findings with headings",
+      "Has no argument",
+      "Has headings and tables"
+     ],
+     "correct_index": 1,
+     "explanation": "Reports are more structured."
+    },
+    {
+     "question_text": "An essay is made coherent by:",
+     "options": [
+      "Avoiding transitions",
+      "Changing topics",
+      "Logical order, transitions and linking each paragraph to the thesis",
+      "Random order"
+     ],
+     "correct_index": 2,
+     "explanation": "Each paragraph should flow into the next."
+    },
+    {
+     "question_text": "Revision is important because it:",
+     "options": [
+      "Adds errors",
+      "Is unnecessary",
+      "Improves clarity, organisation and quality of the draft",
+      "Shortens the essay"
+     ],
+     "correct_index": 2,
+     "explanation": "First drafts are rarely perfect."
+    },
+    {
+     "question_text": "A common essay error is:",
+     "options": [
+      "Good organisation",
+      "Accurate grammar",
+      "Weak thesis, poor organisation and grammar mistakes",
+      "Clear thesis"
+     ],
+     "correct_index": 2,
+     "explanation": "Also irrelevant details and plagiarism."
+    },
+    {
+     "question_text": "Useful phrases for an introduction, body and conclusion respectively are:",
+     "options": [
+      "\"In today's world…\", \"Furthermore…\", \"In conclusion…\"",
+      "\"Furthermore…\", \"In conclusion…\", \"In today's world…\"",
+      "\"In summary…\", \"In today's world…\", \"Furthermore…\"",
+      "\"In conclusion…\", \"Furthermore…\", \"In today's world…\""
+     ],
+     "correct_index": 0,
+     "explanation": "They signal each stage."
+    },
+    {
+     "question_text": "An effective hook is:",
+     "options": [
+      "An apology",
+      "A summary",
+      "A long definition",
+      "A surprising fact, question or quotation that grabs attention, e.g., \"Did you know India makes over 100 crore UPI transactions a day?\""
+     ],
+     "correct_index": 3,
+     "explanation": "It leads into the thesis."
+    },
+    {
+     "question_text": "In body paragraphs, evidence is used by:",
+     "options": [
+      "Using only opinions",
+      "Using only questions",
+      "Supporting each claim with facts, statistics, examples or expert opinion",
+      "Avoiding examples"
+     ],
+     "correct_index": 2,
+     "explanation": "Evidence makes arguments credible."
+    },
+    {
+     "question_text": "Counter-arguments in a persuasive essay are addressed by:",
+     "options": [
+      "Agreeing completely",
+      "Ignoring them",
+      "Acknowledging the opposing view and refuting it with evidence",
+      "Avoiding the topic"
+     ],
+     "correct_index": 2,
+     "explanation": "It strengthens the argument."
+    },
+    {
+     "question_text": "A call to action is:",
+     "options": [
+      "A thesis",
+      "A question",
+      "A summary",
+      "A closing statement urging readers to do something, e.g., \"Start saving today.\""
+     ],
+     "correct_index": 3,
+     "explanation": "It is common in persuasive writing."
+    },
+    {
+     "question_text": "Word choice is improved by:",
+     "options": [
+      "Using slang",
+      "Using precise, specific and appropriate words instead of vague ones",
+      "Repeating words",
+      "Using long words always"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., \"improve\" instead of \"make better\"."
+    },
+    {
+     "question_text": "A paragraph comparing online shopping and in-store shopping would use the pattern:",
+     "options": [
+      "Chronological order",
+      "Random order",
+      "Spatial order",
+      "Point-by-point or block comparison with words like \"whereas\" and \"similarly\""
+     ],
+     "correct_index": 3,
+     "explanation": "It highlights similarities and differences."
+    },
+    {
+     "question_text": "A good opening for a paragraph defining \"entrepreneur\" is:",
+     "options": [
+      "An entrepreneur is a person who starts and manages a business, taking financial risks in the hope of profit.",
+      "I want to be rich.",
+      "Business is hard.",
+      "Entrepreneurs are people."
+     ],
+     "correct_index": 0,
+     "explanation": "A definition names the term, class and distinguishing features."
+    },
+    {
+     "question_text": "The best topic sentence for a cause-and-effect paragraph on \"Why people miss deadlines\" is:",
+     "options": [
+      "I missed a deadline.",
+      "People miss deadlines mainly because of poor planning, procrastination and unrealistic time estimates.",
+      "You must meet deadlines.",
+      "Deadlines are dates."
+     ],
+     "correct_index": 1,
+     "explanation": "It names the effect and causes."
+    },
+    {
+     "question_text": "Notes: \"benefits of teamwork — shared workload, diverse ideas, faster solutions, better morale.\" The best paragraph is:",
+     "options": [
+      "Teamwork. Workload. Ideas. Solutions. Morale.",
+      "Teamwork offers many benefits: it shares the workload, brings diverse ideas, speeds up solutions and improves morale.",
+      "Workers should wear uniforms.",
+      "Teamwork is hard and I dislike it."
+     ],
+     "correct_index": 1,
+     "explanation": "It turns the points into connected sentences."
+    }
+   ]
+  }
+ ]
+}

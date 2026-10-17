@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 7: Fundamentals of Debating – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A debate differs from a quarrel in that a debate is:",
+     "options": [
+      "A structured, rule-governed exchange of arguments on a motion, while a quarrel is an emotional dispute",
+      "A shouting match",
+      "Without rules",
+      "An emotional dispute"
+     ],
+     "correct_index": 0,
+     "explanation": "A discussion is open and cooperative; a debate is competitive."
+    },
+    {
+     "question_text": "A motion in a debate is:",
+     "options": [
+      "The winning team",
+      "The statement or proposition being debated, e.g., \"This House believes that cash should be abolished\"",
+      "A vote",
+      "A speech"
+     ],
+     "correct_index": 1,
+     "explanation": "The two sides argue for and against it."
+    },
+    {
+     "question_text": "The types of motions include:",
+     "options": [
+      "Only policy",
+      "Only fact",
+      "Only value",
+      "Policy (actions), value (judgements) and fact (truth claims)"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., \"THW ban single-use plastics\" is a policy motion."
+    },
+    {
+     "question_text": "THB, THW and THR stand for:",
+     "options": [
+      "This Hall Believes, Would, Regrets",
+      "The House Believes, Wants, Rules",
+      "This House Buys, Wins, Rejects",
+      "This House Believes, This House Would, This House Regrets"
+     ],
+     "correct_index": 3,
+     "explanation": "They are common motion openers."
+    },
+    {
+     "question_text": "The proposition (government) and the opposition respectively:",
+     "options": [
+      "Judge; time",
+      "Argue against; support",
+      "Moderate; count",
+      "Support the motion and argue against it"
+     ],
+     "correct_index": 3,
+     "explanation": "Each side builds a case."
+    },
+    {
+     "question_text": "The burden of proof in a debate lies mainly on:",
+     "options": [
+      "The proposition, which must prove the motion",
+      "The opposition",
+      "The audience",
+      "The judges"
+     ],
+     "correct_index": 0,
+     "explanation": "The opposition may simply disprove it."
+    },
+    {
+     "question_text": "Defining the motion is important because:",
+     "options": [
+      "It is unnecessary",
+      "It reduces debate",
+      "It sets the scope of the debate and avoids misunderstandings",
+      "It confuses the audience"
+     ],
+     "correct_index": 2,
+     "explanation": "The proposition usually defines."
+    },
+    {
+     "question_text": "Debating as a rhetorical strategy means:",
+     "options": [
+      "Insulting",
+      "Avoiding evidence",
+      "Shouting",
+      "Using structured argument and persuasion to convince an audience"
+     ],
+     "correct_index": 3,
+     "explanation": "It trains reasoned persuasion."
+    },
+    {
+     "question_text": "A benefit of debating is:",
+     "options": [
+      "More arguments",
+      "Less knowledge",
+      "Improved critical thinking, communication and confidence",
+      "Poor speaking"
+     ],
+     "correct_index": 2,
+     "explanation": "It also builds research skills."
+    },
+    {
+     "question_text": "The British Parliamentary format has:",
+     "options": [
+      "Two teams of three",
+      "Two teams of two",
+      "One team",
+      "Four teams of two speakers each: Opening Government, Opening Opposition, Closing Government and Closing Opposition"
+     ],
+     "correct_index": 3,
+     "explanation": "Speeches are usually seven minutes."
+    },
+    {
+     "question_text": "Roles in a parliamentary debate include:",
+     "options": [
+      "Chair, treasurer, secretary",
+      "Teacher, student",
+      "Prime Minister, Deputy PM, Leader of Opposition, Members and Whips",
+      "Principal, clerk"
+     ],
+     "correct_index": 2,
+     "explanation": "Each speaker has a defined task."
+    },
+    {
+     "question_text": "The Asian Parliamentary format has:",
+     "options": [
+      "Four teams of two",
+      "Three teams",
+      "Two teams of three speakers (PM, Deputy PM and Government Whip versus the opposition), plus reply speeches",
+      "Two teams of two"
+     ],
+     "correct_index": 2,
+     "explanation": "Reply speeches are given by the first or second speaker."
+    },
+    {
+     "question_text": "The Oxford-style debate is:",
+     "options": [
+      "A talk show",
+      "A formal debate in which the audience votes before and after to decide the winner by the shift in opinion",
+      "A debate with no judge",
+      "A quiz"
+     ],
+     "correct_index": 1,
+     "explanation": "It is popular for public debates."
+    },
+    {
+     "question_text": "The Lincoln–Douglas format is:",
+     "options": [
+      "A debate with four teams",
+      "A talk show",
+      "A team debate on policy",
+      "A one-on-one debate focused on values and ethics"
+     ],
+     "correct_index": 3,
+     "explanation": "It is common in US schools."
+    },
+    {
+     "question_text": "Policy debate is:",
+     "options": [
+      "An informal debate",
+      "A quiz",
+      "A team debate (two per team) focused on a policy proposal, with heavy use of evidence",
+      "A one-person debate"
+     ],
+     "correct_index": 2,
+     "explanation": "It tests plans and counter-plans."
+    },
+    {
+     "question_text": "The Karl Popper format has:",
+     "options": [
+      "Two teams of three with cross-examination between speeches",
+      "Four teams",
+      "No cross-examination",
+      "One team"
+     ],
+     "correct_index": 0,
+     "explanation": "It builds questioning skills."
+    },
+    {
+     "question_text": "The World Schools style has:",
+     "options": [
+      "Teams of three speakers with a reply speech, mixing prepared and impromptu motions",
+      "One speaker",
+      "No reply speech",
+      "Four speakers"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used at international school competitions."
+    },
+    {
+     "question_text": "Compared with the Lincoln–Douglas format, British Parliamentary debate is:",
+     "options": [
+      "A team format with four teams, while LD is one-on-one",
+      "Value-based only",
+      "One-on-one",
+      "Policy-free"
+     ],
+     "correct_index": 0,
+     "explanation": "Formats differ in teams and style."
+    },
+    {
+     "question_text": "The structure of a debating speech is:",
+     "options": [
+      "Introduction, signposting, arguments with rebuttal, and conclusion",
+      "Only conclusion",
+      "Only introduction",
+      "Only rebuttal"
+     ],
+     "correct_index": 0,
+     "explanation": "It should be clear and timed."
+    },
+    {
+     "question_text": "The Toulmin model of argument consists of:",
+     "options": [
+      "Thesis, antithesis, synthesis",
+      "Premise only",
+      "Claim, grounds (data), warrant, backing, qualifier and rebuttal",
+      "Ethos, pathos, logos"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a framework for analysing arguments."
+    },
+    {
+     "question_text": "In the Toulmin model, the claim, grounds and warrant are respectively:",
+     "options": [
+      "The assertion; the evidence; the link between evidence and claim",
+      "The evidence; the claim; the link",
+      "The link; the claim; the evidence",
+      "The assertion; the link; the evidence"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., claim: ban plastics; grounds: pollution data; warrant: pollution is harmful."
+    },
+    {
+     "question_text": "PEEL stands for:",
+     "options": [
+      "Plan, Execute, Evaluate, Learn",
+      "Premise, Example, Effect, Logic",
+      "Present, Explain, Evaluate, Link",
+      "Point, Evidence, Explain, Link"
+     ],
+     "correct_index": 3,
+     "explanation": "It structures an argument paragraph."
+    },
+    {
+     "question_text": "Types of evidence in a debate include:",
+     "options": [
+      "Guesses",
+      "Statistics, expert opinion, examples and case studies",
+      "Gossip",
+      "Rumours"
+     ],
+     "correct_index": 1,
+     "explanation": "Evidence should be relevant and credible."
+    },
+    {
+     "question_text": "To build a case for a motion, you should:",
+     "options": [
+      "Wait to hear the opponent",
+      "Write nothing",
+      "Define the motion, set a framework and develop 2–3 strong arguments with evidence",
+      "Avoid research"
+     ],
+     "correct_index": 2,
+     "explanation": "Anticipate rebuttals."
+    },
+    {
+     "question_text": "A framework (or model) in a debate is:",
+     "options": [
+      "A set of criteria or a plan that defines how the debate should be judged or how the proposition will operate",
+      "A speech",
+      "A vote",
+      "A time limit"
+     ],
+     "correct_index": 0,
+     "explanation": "It helps judges evaluate arguments."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Fundamentals of Debating – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "To prepare 2–3 strong arguments, you should:",
+     "options": [
+      "Choose distinct, well-evidenced points that support the motion",
+      "Use one point only",
+      "Use many weak points",
+      "Avoid evidence"
+     ],
+     "correct_index": 0,
+     "explanation": "Quality is better than quantity."
+    },
+    {
+     "question_text": "Rebuttal is:",
+     "options": [
+      "Repeating your argument",
+      "Insulting",
+      "Responding to and refuting the opponent's arguments, by identifying the argument, stating the response, giving evidence and showing the impact",
+      "Ignoring the opponent"
+     ],
+     "correct_index": 2,
+     "explanation": "It is central to debate."
+    },
+    {
+     "question_text": "Rebuttal techniques include:",
+     "options": [
+      "Agreeing",
+      "Insulting",
+      "Ignoring",
+      "Denying the premise, showing irrelevance, providing counter-evidence, showing the argument is weak and turning it"
+     ],
+     "correct_index": 3,
+     "explanation": "Choose the strongest response."
+    },
+    {
+     "question_text": "\"Turning\" an argument means:",
+     "options": [
+      "Showing that the opponent's argument actually supports your side",
+      "Ignoring it",
+      "Rejecting the argument",
+      "Agreeing with it"
+     ],
+     "correct_index": 0,
+     "explanation": "It is a powerful form of rebuttal."
+    },
+    {
+     "question_text": "A Point of Information (POI) is:",
+     "options": [
+      "A time signal",
+      "A vote",
+      "A short question or remark offered to the speaker during their speech, which they may accept or decline",
+      "A rebuttal speech"
+     ],
+     "correct_index": 2,
+     "explanation": "It is offered politely by standing and saying \"On that point, sir/madam.\""
+    },
+    {
+     "question_text": "A speaker should accept:",
+     "options": [
+      "All of them",
+      "About one or two POIs per speech, to show confidence and engagement",
+      "Ten",
+      "None ever"
+     ],
+     "correct_index": 1,
+     "explanation": "They should decline politely if disruptive."
+    },
+    {
+     "question_text": "Flowing is:",
+     "options": [
+      "Timing",
+      "Speaking fluently",
+      "Taking structured notes of all arguments and rebuttals during a debate",
+      "Writing the speech"
+     ],
+     "correct_index": 2,
+     "explanation": "It helps in rebuttal and judging."
+    },
+    {
+     "question_text": "Adjudication criteria in a debate include:",
+     "options": [
+      "Age, gender, height",
+      "Cost, speed, quality",
+      "Colour, size, shape",
+      "Matter (content), manner (delivery) and method (structure)"
+     ],
+     "correct_index": 3,
+     "explanation": "Judges also consider responsiveness."
+    },
+    {
+     "question_text": "Matter, manner and method refer to:",
+     "options": [
+      "Time, place, event",
+      "Who speaks, when, where",
+      "Tone, volume, pitch",
+      "What is said, how it is said and how it is organised"
+     ],
+     "correct_index": 3,
+     "explanation": "They are the basis of scoring."
+    },
+    {
+     "question_text": "The best opening for a one-minute proposition speech on \"Social media does more harm than good\" is:",
+     "options": [
+      "\"Social media has many apps.\"",
+      "\"I like social media.\"",
+      "\"I don't know the topic.\"",
+      "\"Social media harms mental health, spreads misinformation and wastes time, and today I will prove its harms outweigh its benefits.\""
+     ],
+     "correct_index": 3,
+     "explanation": "It states the position and arguments."
+    },
+    {
+     "question_text": "The best opening for an opposition speech on the same motion is:",
+     "options": [
+      "\"I agree with the other side.\"",
+      "\"This motion is wrong because I say so.\"",
+      "\"Social media connects people, creates opportunities and spreads information; its benefits outweigh its harms.\"",
+      "\"Social media is bad.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It takes the opposite stance with reasons."
+    },
+    {
+     "question_text": "The best opening for a proposition speech on \"Cash should be abolished\" is:",
+     "options": [
+      "\"Cash is paper.\"",
+      "\"Cash exists.\"",
+      "\"Abolishing cash would reduce crime, tax evasion and corruption while making transactions faster.\"",
+      "\"I like coins.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It states a claim and reasons."
+    },
+    {
+     "question_text": "The best opening for an opposition speech on \"Cash should be abolished\" is:",
+     "options": [
+      "\"Cash should go.\"",
+      "\"I love cash.\"",
+      "\"The banks are open.\"",
+      "\"Abolishing cash would exclude the poor and the elderly and fail when technology breaks.\""
+     ],
+     "correct_index": 3,
+     "explanation": "It argues against."
+    },
+    {
+     "question_text": "A good rebuttal to \"Online education cannot replace classroom teaching\" is:",
+     "options": [
+      "\"I hate classrooms.\"",
+      "\"Online education offers flexibility, wider access and interactive tools, and studies show comparable outcomes.\"",
+      "\"You are wrong.\"",
+      "\"Whatever.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It gives reasons and evidence."
+    },
+    {
+     "question_text": "A good rebuttal to \"Artificial intelligence will take away all jobs\" is:",
+     "options": [
+      "\"You don't know AI.\"",
+      "\"AI automates tasks but also creates new jobs and roles, as earlier technologies did.\"",
+      "\"Jobs don't exist.\"",
+      "\"AI is great.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It counters with a historical argument."
+    },
+    {
+     "question_text": "An argument for \"This House would ban single-use plastics\" is:",
+     "options": [
+      "They are light",
+      "They pollute oceans and harm wildlife",
+      "They are cheap",
+      "They are convenient"
+     ],
+     "correct_index": 1,
+     "explanation": "Other arguments: waste burden, health effects."
+    },
+    {
+     "question_text": "An argument against \"This House would ban single-use plastics\" is:",
+     "options": [
+      "Plastics are free",
+      "A ban can hurt small businesses and substitutes may have their own environmental costs",
+      "Plastics are harmless",
+      "Nobody uses them"
+     ],
+     "correct_index": 1,
+     "explanation": "Alternatives may be costly."
+    },
+    {
+     "question_text": "A good opening for a debate on \"Remote work should be the default\" is:",
+     "options": [
+      "\"Hello, bye.\"",
+      "\"Good evening. Today we will show that remote work increases productivity and widens opportunities.\"",
+      "\"Work is boring.\"",
+      "\"I don't like offices.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It greets and states the stance."
+    },
+    {
+     "question_text": "A strong case for \"Financial literacy should be compulsory in schools\" is that:",
+     "options": [
+      "It is easy",
+      "It prepares students to manage money, avoid debt and plan for the future",
+      "It reduces learning",
+      "It wastes time"
+     ],
+     "correct_index": 1,
+     "explanation": "It gives practical life skills."
+    },
+    {
+     "question_text": "A strong case against \"Financial literacy should be compulsory in schools\" is that:",
+     "options": [
+      "The curriculum is already crowded, and it may be better taught by families or as an elective",
+      "Finance is useless",
+      "Students dislike it",
+      "Schools are free"
+     ],
+     "correct_index": 0,
+     "explanation": "It raises practical objections."
+    },
+    {
+     "question_text": "A moderator is:",
+     "options": [
+      "A debater",
+      "A judge who votes",
+      "A neutral person who manages the debate, enforces rules and keeps the discussion fair",
+      "A timekeeper only"
+     ],
+     "correct_index": 2,
+     "explanation": "They do not take sides."
+    },
+    {
+     "question_text": "Before the debate, a moderator should:",
+     "options": [
+      "Avoid preparation",
+      "Choose winners",
+      "Understand the motion and format, brief the speakers and confirm time rules",
+      "Take a side"
+     ],
+     "correct_index": 2,
+     "explanation": "They should prepare introductions."
+    },
+    {
+     "question_text": "A moderator should open a debate by:",
+     "options": [
+      "Welcoming the audience, introducing the motion and speakers, and explaining the rules",
+      "Starting with an opinion",
+      "Insulting a team",
+      "Beginning without introduction"
+     ],
+     "correct_index": 0,
+     "explanation": "It sets the tone."
+    },
+    {
+     "question_text": "A moderator manages time by:",
+     "options": [
+      "Keeping strict time limits with signals or a timekeeper",
+      "Ignoring time",
+      "Letting speakers run",
+      "Ending randomly"
+     ],
+     "correct_index": 0,
+     "explanation": "Fairness requires equal time."
+    },
+    {
+     "question_text": "When a speaker exceeds time, the moderator should:",
+     "options": [
+      "Politely but firmly signal and ask them to conclude",
+      "Insult them",
+      "Allow unlimited time",
+      "Ignore it"
+     ],
+     "correct_index": 0,
+     "explanation": "Be consistent with all speakers."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Fundamentals of Debating – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "When there are personal attacks, the moderator should:",
+     "options": [
+      "Intervene calmly, remind speakers to address arguments and not people",
+      "Ignore it",
+      "Join in",
+      "Encourage it"
+     ],
+     "correct_index": 0,
+     "explanation": "Maintain respect."
+    },
+    {
+     "question_text": "A moderator maintains neutrality by:",
+     "options": [
+      "Mocking a side",
+      "Supporting one side",
+      "Avoiding personal opinions and treating both sides equally",
+      "Voting"
+     ],
+     "correct_index": 2,
+     "explanation": "Neutrality ensures fairness."
+    },
+    {
+     "question_text": "When the audience disrupts, the moderator should:",
+     "options": [
+      "Insult them",
+      "Join the disruption",
+      "Stop the debate forever",
+      "Politely request silence and continue"
+     ],
+     "correct_index": 3,
+     "explanation": "Keep control calmly."
+    },
+    {
+     "question_text": "The audience Q&A should be conducted by:",
+     "options": [
+      "Skipping it",
+      "Letting people shout",
+      "Answering all himself",
+      "Inviting brief, relevant questions, allocating time fairly and directing them to speakers"
+     ],
+     "correct_index": 3,
+     "explanation": "Keep it orderly."
+    },
+    {
+     "question_text": "A moderator should close a debate by:",
+     "options": [
+      "Criticising speakers",
+      "Thanking the speakers and audience, summarising neutrally and announcing the result procedure",
+      "Giving a personal opinion",
+      "Ending abruptly"
+     ],
+     "correct_index": 1,
+     "explanation": "Leave on a positive note."
+    },
+    {
+     "question_text": "Qualities of a good moderator include:",
+     "options": [
+      "Neutrality, fairness, authority with politeness and time sense",
+      "Rudeness",
+      "Bias",
+      "Indifference"
+     ],
+     "correct_index": 0,
+     "explanation": "Active listening and tact help too."
+    },
+    {
+     "question_text": "A challenge a moderator faces is:",
+     "options": [
+      "Silent audience",
+      "Dominant speakers or heated exchanges, handled with firm, polite control",
+      "Calm speakers",
+      "No challenge"
+     ],
+     "correct_index": 1,
+     "explanation": "Prepare rules in advance."
+    },
+    {
+     "question_text": "A good opening script for a moderator introducing a debate on \"Cashless economy\" is:",
+     "options": [
+      "\"Good afternoon, everyone. Today's motion is 'This House believes India should become a cashless economy.' Let us welcome our speakers.\"",
+      "\"Let's fight.\"",
+      "\"Cash is bad.\"",
+      "\"I support the motion.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It is neutral and informative."
+    },
+    {
+     "question_text": "A good closing script for a moderator is:",
+     "options": [
+      "\"Goodbye.\"",
+      "\"That was bad.\"",
+      "\"Thank you to our speakers and audience for a thoughtful debate. The adjudicators will now announce the result.\"",
+      "\"The first team is better.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It is courteous."
+    },
+    {
+     "question_text": "Moderating an online debate differs in that:",
+     "options": [
+      "There is no moderator",
+      "Technology is not needed",
+      "The audience is absent",
+      "The moderator must also manage technology, muting and chat, and keep equal speaking time"
+     ],
+     "correct_index": 3,
+     "explanation": "Clear digital rules help."
+    },
+    {
+     "question_text": "Ethics of debating include:",
+     "options": [
+      "Cheating",
+      "Honesty, respect, fair use of evidence and attacking arguments not people",
+      "Lying",
+      "Insulting"
+     ],
+     "correct_index": 1,
+     "explanation": "Accept the result gracefully."
+    },
+    {
+     "question_text": "One should attack arguments and not people because:",
+     "options": [
+      "Arguments are boring",
+      "People are weak",
+      "Personal attacks are irrelevant (ad hominem) and unfair",
+      "It is easier"
+     ],
+     "correct_index": 2,
+     "explanation": "Debating tests ideas."
+    },
+    {
+     "question_text": "Honesty is important in debating, and sources should be:",
+     "options": [
+      "Invented",
+      "Distorted",
+      "Hidden",
+      "Cited accurately and not fabricated"
+     ],
+     "correct_index": 3,
+     "explanation": "Credibility depends on it."
+    },
+    {
+     "question_text": "Cherry-picking evidence is:",
+     "options": [
+      "Citing sources",
+      "Selecting only evidence that supports your side while ignoring contrary evidence",
+      "Using accurate evidence",
+      "Using all evidence"
+     ],
+     "correct_index": 1,
+     "explanation": "It is unethical."
+    },
+    {
+     "question_text": "A \"gish gallop\" is:",
+     "options": [
+      "Speaking slowly",
+      "Using evidence",
+      "Overwhelming an opponent with many rapid, weak arguments so they cannot respond to all",
+      "Giving one strong argument"
+     ],
+     "correct_index": 2,
+     "explanation": "It is an unethical tactic."
+    },
+    {
+     "question_text": "Unethical debating tactics include:",
+     "options": [
+      "Misrepresenting evidence, insulting and deliberately wasting time",
+      "Listening",
+      "Being polite",
+      "Using evidence"
+     ],
+     "correct_index": 0,
+     "explanation": "They undermine fairness."
+    },
+    {
+     "question_text": "To accept a result gracefully, one should:",
+     "options": [
+      "Complain",
+      "Leave angrily",
+      "Argue with judges",
+      "Congratulate the winners and learn from feedback"
+     ],
+     "correct_index": 3,
+     "explanation": "Sportsmanship matters."
+    },
+    {
+     "question_text": "The ethical use of emotion in debating is to:",
+     "options": [
+      "Deceive",
+      "Exploit fear",
+      "Replace arguments",
+      "Support arguments with honest emotion without manipulating the audience"
+     ],
+     "correct_index": 3,
+     "explanation": "Emotion should complement logic."
+    },
+    {
+     "question_text": "Debating promotes democracy and free speech by:",
+     "options": [
+      "Banning views",
+      "Encouraging open exchange of views and respect for differing opinions",
+      "Silencing opponents",
+      "Avoiding disagreement"
+     ],
+     "correct_index": 1,
+     "explanation": "It practises civil disagreement."
+    },
+    {
+     "question_text": "Both-side-ism is:",
+     "options": [
+      "Presenting both fairly",
+      "Presenting two sides as equally valid even when evidence strongly favours one (false balance)",
+      "Hearing one side",
+      "Ignoring evidence"
+     ],
+     "correct_index": 1,
+     "explanation": "It can mislead audiences."
+    },
+    {
+     "question_text": "An example of false balance in media is:",
+     "options": [
+      "Reporting facts",
+      "Reporting evidence",
+      "Reporting the consensus",
+      "Giving equal airtime to a climate scientist and a climate denier as though evidence is equal"
+     ],
+     "correct_index": 3,
+     "explanation": "It creates the impression of a 50–50 debate."
+    },
+    {
+     "question_text": "Both-side-ism is problematic because:",
+     "options": [
+      "It misrepresents the weight of evidence and can spread misinformation",
+      "It is helpful",
+      "It is fair always",
+      "It is accurate"
+     ],
+     "correct_index": 0,
+     "explanation": "Not all views are equally supported."
+    },
+    {
+     "question_text": "The media can avoid both-side-ism by:",
+     "options": [
+      "Being biased",
+      "Giving equal time to every view",
+      "Ignoring facts",
+      "Weighing evidence, labelling claims accurately and not giving equal weight to unsupported views"
+     ],
+     "correct_index": 3,
+     "explanation": "Report the weight of evidence."
+    },
+    {
+     "question_text": "Debating both sides of a motion differs from both-side-ism in that debating:",
+     "options": [
+      "Is misinformation",
+      "Is unethical",
+      "Claims both sides are equal",
+      "Is a training exercise with assigned sides, not a claim that both sides are equally true"
+     ],
+     "correct_index": 3,
+     "explanation": "It builds understanding."
+    },
+    {
+     "question_text": "The fallacy of relativism is:",
+     "options": [
+      "Weighing arguments",
+      "Using evidence",
+      "Claiming that all views are equally valid because truth depends on the person or culture",
+      "Being open-minded"
+     ],
+     "correct_index": 2,
+     "explanation": "It ignores objective evidence."
+    }
+   ]
+  },
+  {
+   "title": "Unit 7: Fundamentals of Debating – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An example of subjective relativism is:",
+     "options": [
+      "\"Water boils at 100°C.\"",
+      "\"2 + 2 = 4.\"",
+      "\"That's true for you, but not for me,\" about a factual claim",
+      "\"The earth is round.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It denies shared standards of truth."
+    },
+    {
+     "question_text": "The claim \"all truth is relative\" is self-defeating because:",
+     "options": [
+      "It is logical",
+      "If it is true, then it is itself only relative and cannot be universally true",
+      "It is factual",
+      "It is proven"
+     ],
+     "correct_index": 1,
+     "explanation": "It undermines itself."
+    },
+    {
+     "question_text": "Tolerance of persons differs from acceptance of all ideas in that one can:",
+     "options": [
+      "Respect people while still criticising their ideas",
+      "Avoid disagreement",
+      "Hate people",
+      "Accept all ideas"
+     ],
+     "correct_index": 0,
+     "explanation": "Tolerance does not mean agreement."
+    },
+    {
+     "question_text": "Cultural relativism is:",
+     "options": [
+      "Judging cultures by one standard",
+      "The view that all cultures are the same",
+      "Ignoring culture",
+      "The view that a culture's practices should be understood within its own context; it becomes a fallacy when it excuses harmful practices from criticism"
+     ],
+     "correct_index": 3,
+     "explanation": "Understanding is not the same as endorsement."
+    },
+    {
+     "question_text": "The principle of charity is:",
+     "options": [
+      "Interpreting it in its weakest form",
+      "Interpreting an opponent's argument in its strongest, most reasonable form before responding",
+      "Attacking it",
+      "Ignoring it"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes fair debate."
+    },
+    {
+     "question_text": "Philosophers associated with the principle of charity include:",
+     "options": [
+      "Aristotle",
+      "Donald Davidson and W.V. Quine (and Neil Wilson)",
+      "Socrates",
+      "Plato"
+     ],
+     "correct_index": 1,
+     "explanation": "It is used in interpreting speech and arguments."
+    },
+    {
+     "question_text": "Steel-manning is:",
+     "options": [
+      "Restating an opponent's argument in its strongest form before rebutting it",
+      "Ignoring it",
+      "Misrepresenting the argument",
+      "Insulting the opponent"
+     ],
+     "correct_index": 0,
+     "explanation": "It is the opposite of straw-manning."
+    },
+    {
+     "question_text": "Rapoport's rules (popularised by Daniel Dennett) say that you should first:",
+     "options": [
+      "Ignore",
+      "Insult",
+      "Rebut at once",
+      "Re-express the opponent's position so clearly that they say \"I wish I'd put it that way\", then list agreements, mention what you learned, and only then rebut"
+     ],
+     "correct_index": 3,
+     "explanation": "It encourages generous engagement."
+    },
+    {
+     "question_text": "The principle of charity differs from the straw man fallacy in that charity:",
+     "options": [
+      "Distorts it",
+      "Ignores it",
+      "Strengthens the opponent's argument before responding, while the straw man weakens or distorts it",
+      "Weakens it"
+     ],
+     "correct_index": 2,
+     "explanation": "They are opposites."
+    },
+    {
+     "question_text": "A benefit of the principle of charity in debates is that it:",
+     "options": [
+      "Weakens arguments",
+      "Promotes fair, productive and respectful debate and reveals real points of disagreement",
+      "Increases conflict",
+      "Avoids evidence"
+     ],
+     "correct_index": 1,
+     "explanation": "It improves understanding."
+    },
+    {
+     "question_text": "A limit of the principle of charity is that it:",
+     "options": [
+      "Forbids rebuttal",
+      "Requires accepting all arguments",
+      "Has no limits",
+      "Does not require accepting obviously bad faith, nonsense or hateful arguments"
+     ],
+     "correct_index": 3,
+     "explanation": "One should still criticise weak arguments."
+    },
+    {
+     "question_text": "The strongest charitable restatement of \"Taxes are theft\" is:",
+     "options": [
+      "\"Taxes are great.\"",
+      "\"You are a thief.\"",
+      "\"Taxation involves taking resources without individual consent, so it needs strong justification and limits.\"",
+      "\"Taxes are not real.\""
+     ],
+     "correct_index": 2,
+     "explanation": "It captures the best version."
+    },
+    {
+     "question_text": "The strongest charitable restatement of \"Remote work kills creativity\" is:",
+     "options": [
+      "\"Offices are free.\"",
+      "\"Face-to-face interaction may spark spontaneous idea sharing that remote work can reduce.\"",
+      "\"People are lazy.\"",
+      "\"Remote work is useless.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It identifies a plausible concern."
+    },
+    {
+     "question_text": "\"All opinions on climate change deserve equal airtime\" is an example of:",
+     "options": [
+      "Valid reasoning",
+      "Both-side-ism (false balance)",
+      "Ad hominem",
+      "Principle of charity"
+     ],
+     "correct_index": 1,
+     "explanation": "It ignores the weight of evidence."
+    },
+    {
+     "question_text": "\"Who are you to say my culture is wrong? It's all relative\" is an example of:",
+     "options": [
+      "Principle of charity",
+      "The relativist fallacy",
+      "Straw man",
+      "Ad hominem"
+     ],
+     "correct_index": 1,
+     "explanation": "It avoids evaluating practices."
+    },
+    {
+     "question_text": "The principle of charity differs from both-side-ism and relativism in that it:",
+     "options": [
+      "Denies truth",
+      "Avoids evidence",
+      "Treats all views as equal",
+      "Concerns the quality of interpreting arguments, not treating all views as equal"
+     ],
+     "correct_index": 3,
+     "explanation": "It still allows criticism."
+    },
+    {
+     "question_text": "In a short debate on \"Cashless payments are better than cash,\" a charitable rebuttal would begin:",
+     "options": [
+      "\"Cash is trash.\"",
+      "\"I understand your concern about those without digital access; however, UPI inclusion programmes are narrowing that gap.\"",
+      "\"You are silly.\"",
+      "\"I won't listen.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It acknowledges before responding."
+    },
+    {
+     "question_text": "These concepts improve workplace discussions by:",
+     "options": [
+      "Avoiding evidence",
+      "Increasing conflict",
+      "Reducing listening",
+      "Encouraging respectful listening, evidence-based arguments and better decisions"
+     ],
+     "correct_index": 3,
+     "explanation": "They build constructive dialogue."
+    },
+    {
+     "question_text": "A good opening for a proposition speech on \"Online education is better than classroom education\" is:",
+     "options": [
+      "\"Education is a word.\"",
+      "\"Online education offers flexibility, affordability and wider access, making it better than classroom education.\"",
+      "\"Classrooms are lovely.\"",
+      "\"I am tired.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It states the stance and reasons."
+    },
+    {
+     "question_text": "A good opening for an opposition speech on the same motion is:",
+     "options": [
+      "\"I agree with the proposition.\"",
+      "\"Classroom education offers interaction, discipline and hands-on learning that online education cannot match.\"",
+      "\"Education is boring.\"",
+      "\"Online is great.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It argues for classrooms."
+    },
+    {
+     "question_text": "A good rebuttal to \"If we allow remote work, productivity will fall\" is:",
+     "options": [
+      "\"Studies show remote workers are often as productive or more, with fewer commute-related losses.\"",
+      "\"Productivity is not important.\"",
+      "\"Offices are bad.\"",
+      "\"You are wrong.\""
+     ],
+     "correct_index": 0,
+     "explanation": "It cites evidence."
+    },
+    {
+     "question_text": "The role of the timekeeper in a debate is to:",
+     "options": [
+      "Moderate",
+      "Track speaking time and signal speakers when time is nearly up or over",
+      "Judge arguments",
+      "Debate"
+     ],
+     "correct_index": 1,
+     "explanation": "They knock or show cards at set times."
+    },
+    {
+     "question_text": "The role of the Whip in a parliamentary debate is to:",
+     "options": [
+      "Open the debate",
+      "Introduce new arguments",
+      "Time speakers",
+      "Summarise the team's case and respond to the opposition's main points without introducing new arguments"
+     ],
+     "correct_index": 3,
+     "explanation": "The Whip speech closes the team's case."
+    },
+    {
+     "question_text": "A definitional challenge is:",
+     "options": [
+      "Disputing the proposition's definition of the motion as unfair or unreasonable",
+      "Agreeing with the definition",
+      "Ignoring the motion",
+      "Timing"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used when a definition is too narrow."
+    },
+    {
+     "question_text": "To handle a hostile Point of Information, a debater should:",
+     "options": [
+      "Lose temper",
+      "Stay calm, answer briefly or decline politely and continue the argument",
+      "Insult the opponent",
+      "Stop speaking"
+     ],
+     "correct_index": 1,
+     "explanation": "Composure impresses judges."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1249 @@
+{
+ "tests": [
+  {
+   "title": "Unit 1: Introduction to English Grammar – Practice Test 1",
+   "duration_minutes": 28,
+   "questions": [
+    {
+     "question_text": "Grammar is:",
+     "options": [
+      "A style of handwriting",
+      "The set of rules governing how words combine to form correct sentences",
+      "The study of speaking only",
+      "A list of difficult words"
+     ],
+     "correct_index": 1,
+     "explanation": "It covers word forms and sentence structure."
+    },
+    {
+     "question_text": "The eight parts of speech are:",
+     "options": [
+      "Letter, word, phrase, clause, sentence, paragraph, essay, book",
+      "Noun, pronoun, verb, adjective, adverb, preposition, conjunction and interjection",
+      "Subject, object, verb, tense, voice, mood, case, number",
+      "Noun, verb, clause, phrase, tense, voice, mood, article"
+     ],
+     "correct_index": 1,
+     "explanation": "Every word belongs to one of these classes."
+    },
+    {
+     "question_text": "A noun is a word that names:",
+     "options": [
+      "A quality of a noun",
+      "An action",
+      "A person, place, thing, animal, idea or quality",
+      "A link between clauses"
+     ],
+     "correct_index": 2,
+     "explanation": "Types include proper, common, collective, abstract, material, countable and uncountable nouns."
+    },
+    {
+     "question_text": "A proper noun differs from a common noun in that a proper noun:",
+     "options": [
+      "Names a general class",
+      "Is always plural",
+      "Never takes a capital",
+      "Names a particular person, place or thing and begins with a capital letter"
+     ],
+     "correct_index": 3,
+     "explanation": "Delhi and Infosys are proper; city and company are common."
+    },
+    {
+     "question_text": "Which is a collective noun?",
+     "options": [
+      "Honesty",
+      "Delhi",
+      "Committee",
+      "Gold"
+     ],
+     "correct_index": 2,
+     "explanation": "Team, board and jury are also collective nouns."
+    },
+    {
+     "question_text": "Which is an abstract noun?",
+     "options": [
+      "Delhi",
+      "Gold",
+      "Table",
+      "Honesty"
+     ],
+     "correct_index": 3,
+     "explanation": "Abstract nouns name qualities or ideas, like freedom and management."
+    },
+    {
+     "question_text": "Which noun is uncountable?",
+     "options": [
+      "Information",
+      "Laptop",
+      "Book",
+      "Chair"
+     ],
+     "correct_index": 0,
+     "explanation": "Advice, furniture, luggage and news are also uncountable."
+    },
+    {
+     "question_text": "The plurals of criterion, analysis and datum are:",
+     "options": [
+      "Criterias, analyses and data",
+      "Criteria, analyses and data",
+      "Criteria, analysis and datas",
+      "Criterions, analysises and datums"
+     ],
+     "correct_index": 1,
+     "explanation": "These are irregular plurals from Latin and Greek."
+    },
+    {
+     "question_text": "A pronoun is a word used:",
+     "options": [
+      "To join sentences",
+      "To show action",
+      "In place of a noun",
+      "To describe a noun"
+     ],
+     "correct_index": 2,
+     "explanation": "Types include personal, possessive, reflexive, relative and demonstrative."
+    },
+    {
+     "question_text": "Choose: \"Between you and ___, the plan will work.\"",
+     "options": [
+      "myself",
+      "me",
+      "mine",
+      "I"
+     ],
+     "correct_index": 1,
+     "explanation": "After a preposition, the object form \"me\" is used."
+    },
+    {
+     "question_text": "Correct: \"Me and him attended the meeting.\"",
+     "options": [
+      "I and him attended the meeting.",
+      "Me and he attended the meeting.",
+      "He and I attended the meeting.",
+      "Him and me attended the meeting."
+     ],
+     "correct_index": 2,
+     "explanation": "Subject pronouns are required, and \"I\" comes last."
+    },
+    {
+     "question_text": "A verb is a word that:",
+     "options": [
+      "Joins two clauses",
+      "Names a person",
+      "Describes a noun",
+      "Expresses an action, state or occurrence"
+     ],
+     "correct_index": 3,
+     "explanation": "Types include action, linking, auxiliary and modal verbs."
+    },
+    {
+     "question_text": "A transitive verb differs from an intransitive verb in that a transitive verb:",
+     "options": [
+      "Is always past",
+      "Takes an object, e.g., \"She wrote a report\"",
+      "Is always passive",
+      "Takes no object"
+     ],
+     "correct_index": 1,
+     "explanation": "\"He arrived\" is intransitive."
+    },
+    {
+     "question_text": "Which is a modal verb?",
+     "options": [
+      "Write",
+      "Might",
+      "Go",
+      "Become"
+     ],
+     "correct_index": 1,
+     "explanation": "Modals include can, could, may, might, shall, should, will, would, must and ought to."
+    },
+    {
+     "question_text": "The three forms of \"write\" are:",
+     "options": [
+      "write, written, wrote",
+      "write, wrote, written",
+      "write, wrote, wrote",
+      "write, writed, written"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an irregular verb."
+    },
+    {
+     "question_text": "The three forms of \"begin\" are:",
+     "options": [
+      "begin, begun, began",
+      "begin, began, begun",
+      "begin, begined, begun",
+      "begin, began, began"
+     ],
+     "correct_index": 1,
+     "explanation": "Another irregular verb."
+    },
+    {
+     "question_text": "The three forms of \"choose\" are:",
+     "options": [
+      "choose, chose, chose",
+      "choose, chose, chosen",
+      "choose, choosed, chosen",
+      "choose, chosen, chose"
+     ],
+     "correct_index": 1,
+     "explanation": "\"Chosen\" is the past participle."
+    },
+    {
+     "question_text": "The three forms of \"bring\" are:",
+     "options": [
+      "bring, brought, bringed",
+      "bring, bringed, bringed",
+      "bring, brought, brought",
+      "bring, brang, brung"
+     ],
+     "correct_index": 2,
+     "explanation": "The past tense and participle are the same."
+    },
+    {
+     "question_text": "A phrasal verb is:",
+     "options": [
+      "A verb combined with a preposition or adverb that gives a new meaning, e.g., \"carry out\"",
+      "A linking verb",
+      "A modal verb",
+      "A noun phrase"
+     ],
+     "correct_index": 0,
+     "explanation": "Other examples: give up and look after."
+    },
+    {
+     "question_text": "Stative verbs such as \"know\" and \"believe\" are not used in the continuous form because they:",
+     "options": [
+      "Describe states, not actions in progress",
+      "Are always past",
+      "Describe actions",
+      "Are always future"
+     ],
+     "correct_index": 0,
+     "explanation": "\"I am knowing\" is incorrect."
+    },
+    {
+     "question_text": "An adjective is a word that:",
+     "options": [
+      "Describes or modifies a noun",
+      "Describes a verb",
+      "Joins sentences",
+      "Names a person"
+     ],
+     "correct_index": 0,
+     "explanation": "Types include quality, quantity, number and demonstrative adjectives."
+    },
+    {
+     "question_text": "The comparative and superlative of \"good\" are:",
+     "options": [
+      "gooder and goodest",
+      "better and best",
+      "best and better",
+      "more good and most good"
+     ],
+     "correct_index": 1,
+     "explanation": "It is an irregular adjective."
+    },
+    {
+     "question_text": "The comparative and superlative of \"bad\" are:",
+     "options": [
+      "worse and worst",
+      "more bad and most bad",
+      "worst and worse",
+      "badder and baddest"
+     ],
+     "correct_index": 0,
+     "explanation": "Irregular, like good and little."
+    },
+    {
+     "question_text": "The comparative and superlative of \"little\" are:",
+     "options": [
+      "less and least",
+      "lesser and lest",
+      "more little and most little",
+      "littler and littlest"
+     ],
+     "correct_index": 0,
+     "explanation": "It is used for quantity."
+    },
+    {
+     "question_text": "The correct order of adjectives is:",
+     "options": [
+      "a big wooden old table",
+      "a wooden old big table",
+      "an old big wooden table",
+      "a big old wooden table"
+     ],
+     "correct_index": 3,
+     "explanation": "Order: opinion, size, age, shape, colour, material."
+    },
+    {
+     "question_text": "An adverb is a word that:",
+     "options": [
+      "Modifies a verb, an adjective or another adverb",
+      "Joins clauses",
+      "Modifies a noun",
+      "Names a thing"
+     ],
+     "correct_index": 0,
+     "explanation": "Types: manner, time, place, frequency and degree."
+    },
+    {
+     "question_text": "\"Hard\" differs from \"hardly\" in that \"hard\" means _____ and \"hardly\" means _____:",
+     "options": [
+      "Quickly; slowly",
+      "Very easily; with difficulty",
+      "With great effort; scarcely",
+      "Scarcely; with great effort"
+     ],
+     "correct_index": 2,
+     "explanation": "\"He works hard\" versus \"He hardly works\"."
+    },
+    {
+     "question_text": "A preposition is a word that:",
+     "options": [
+      "Joins clauses",
+      "Modifies verbs",
+      "Names things",
+      "Shows the relation of a noun or pronoun to another word, e.g., \"in the morning\", \"on Monday\""
+     ],
+     "correct_index": 3,
+     "explanation": "Time: at, on, in; place: in, on, under."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to English Grammar – Practice Test 2",
+   "duration_minutes": 28,
+   "questions": [
+    {
+     "question_text": "Fill in: \"He has been working here ___ 2019.\"",
+     "options": [
+      "from",
+      "during",
+      "for",
+      "since"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Since\" is used with a point in time."
+    },
+    {
+     "question_text": "Fill in: \"She is good ___ mathematics.\"",
+     "options": [
+      "at",
+      "on",
+      "of",
+      "in"
+     ],
+     "correct_index": 0,
+     "explanation": "The fixed phrase is \"good at\"."
+    },
+    {
+     "question_text": "Fill in: \"The manager is different ___ his predecessor.\"",
+     "options": [
+      "with",
+      "from",
+      "to",
+      "than"
+     ],
+     "correct_index": 1,
+     "explanation": "The standard preposition is \"different from\"."
+    },
+    {
+     "question_text": "Fill in: \"We divided the profit ___ the three partners.\"",
+     "options": [
+      "within",
+      "among",
+      "between",
+      "upon"
+     ],
+     "correct_index": 1,
+     "explanation": "\"Between\" is for two, \"among\" for more than two."
+    },
+    {
+     "question_text": "A conjunction is a word that:",
+     "options": [
+      "Describes a noun",
+      "Names an idea",
+      "Joins words, phrases or clauses",
+      "Describes a verb"
+     ],
+     "correct_index": 2,
+     "explanation": "Types: coordinating, subordinating and correlative."
+    },
+    {
+     "question_text": "Combine using \"although\": \"He was tired. He finished the report.\"",
+     "options": [
+      "Although he finished the report, he was tired.",
+      "Although he was tired, he finished the report.",
+      "He was tired although, he finished the report.",
+      "Although he was tired, but he finished the report."
+     ],
+     "correct_index": 1,
+     "explanation": "\"Although\" cannot be used with \"but\"."
+    },
+    {
+     "question_text": "Combine using \"either…or\": \"Send an email. Call the client.\"",
+     "options": [
+      "Either send an email nor call the client.",
+      "Either send an email, or not call the client.",
+      "Either send an email or call the client.",
+      "Send either an email and call the client."
+     ],
+     "correct_index": 2,
+     "explanation": "\"Either\" pairs with \"or\"."
+    },
+    {
+     "question_text": "Conjunctive adverbs include:",
+     "options": [
+      "in, on and at",
+      "and, but and or",
+      "because, since and if",
+      "however, therefore and moreover"
+     ],
+     "correct_index": 3,
+     "explanation": "They link independent clauses and need a semicolon or full stop before them."
+    },
+    {
+     "question_text": "We use \"an\" before:",
+     "options": [
+      "Any plural noun",
+      "A consonant sound",
+      "A vowel sound, e.g., \"an hour\" and \"an MBA\"",
+      "Any proper noun"
+     ],
+     "correct_index": 2,
+     "explanation": "The sound matters, not the spelling."
+    },
+    {
+     "question_text": "The article is omitted before:",
+     "options": [
+      "Plural and uncountable nouns used in a general sense, and names of most people",
+      "All proper nouns",
+      "Singular countable nouns",
+      "Any adjective"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., \"Honesty is the best policy\"."
+    },
+    {
+     "question_text": "The twelve tenses are formed by combining:",
+     "options": [
+      "Direct and indirect",
+      "Singular and plural",
+      "Past, present and future with simple, continuous, perfect and perfect continuous aspects",
+      "Active and passive"
+     ],
+     "correct_index": 2,
+     "explanation": "3 times × 4 aspects = 12."
+    },
+    {
+     "question_text": "The structure of the present perfect tense is:",
+     "options": [
+      "has/have + past participle",
+      "did + verb",
+      "was/were + verb + ing",
+      "will + verb"
+     ],
+     "correct_index": 0,
+     "explanation": "\"She has completed the report.\""
+    },
+    {
+     "question_text": "The simple past differs from the present perfect in that the simple past:",
+     "options": [
+      "Has no time reference",
+      "Refers to a completed action at a definite past time, while the present perfect links the past to the present",
+      "Refers to the future",
+      "Is used with \"since\" only"
+     ],
+     "correct_index": 1,
+     "explanation": "\"I saw him yesterday\" versus \"I have seen him\"."
+    },
+    {
+     "question_text": "Fill in: \"She has lived in Pune ___ ten years.\"",
+     "options": [
+      "from",
+      "for",
+      "by",
+      "since"
+     ],
+     "correct_index": 1,
+     "explanation": "\"For\" is used with a period; \"since\" with a point in time like 2015."
+    },
+    {
+     "question_text": "Correct: \"I have seen him yesterday.\"",
+     "options": [
+      "I had seen him yesterday.",
+      "I have saw him yesterday.",
+      "I saw him yesterday.",
+      "I am seeing him yesterday."
+     ],
+     "correct_index": 2,
+     "explanation": "The present perfect is not used with a definite past time."
+    },
+    {
+     "question_text": "Correct: \"He go to the office by bus.\"",
+     "options": [
+      "He is go to the office by bus.",
+      "He goes to the office by bus.",
+      "He gone to the office by bus.",
+      "He going to the office by bus."
+     ],
+     "correct_index": 1,
+     "explanation": "A third-person singular subject takes \"-s\"."
+    },
+    {
+     "question_text": "Correct: \"I am knowing him for long.\"",
+     "options": [
+      "I knew him for long.",
+      "I have known him for long.",
+      "I was knowing him for long.",
+      "I am known him for long."
+     ],
+     "correct_index": 1,
+     "explanation": "\"Know\" is stative and used in the perfect tense here."
+    },
+    {
+     "question_text": "Correct (reported speech): \"She said that she is busy.\"",
+     "options": [
+      "She said that she has been busy.",
+      "She said that she will be busy.",
+      "She said that she were busy.",
+      "She said that she was busy."
+     ],
+     "correct_index": 3,
+     "explanation": "The tense backshifts after a past reporting verb."
+    },
+    {
+     "question_text": "The sequence of tenses means that:",
+     "options": [
+      "A past tense in the main clause is usually followed by a past form in the subordinate clause",
+      "All verbs must be present",
+      "All verbs must be future",
+      "Tenses are random"
+     ],
+     "correct_index": 0,
+     "explanation": "\"I thought he was honest.\""
+    },
+    {
+     "question_text": "The past continuous tense is used to:",
+     "options": [
+      "Describe a future action",
+      "Describe an action in progress at a past moment, e.g., \"I was working at 8 pm\"",
+      "Describe a completed action",
+      "Describe a habit in the present"
+     ],
+     "correct_index": 1,
+     "explanation": "Structure: was/were + verb + ing."
+    },
+    {
+     "question_text": "The rule of subject–verb agreement is:",
+     "options": [
+      "The verb is always singular",
+      "The verb agrees with the object",
+      "The verb is always plural",
+      "A singular subject takes a singular verb and a plural subject takes a plural verb"
+     ],
+     "correct_index": 3,
+     "explanation": "Check the real subject."
+    },
+    {
+     "question_text": "Choose: \"The news ___ shocking.\"",
+     "options": [
+      "is",
+      "were",
+      "have",
+      "are"
+     ],
+     "correct_index": 0,
+     "explanation": "\"News\" is an uncountable noun treated as singular."
+    },
+    {
+     "question_text": "Choose: \"Each of the employees ___ a locker.\"",
+     "options": [
+      "has",
+      "are having",
+      "have",
+      "were having"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Each\" takes a singular verb."
+    },
+    {
+     "question_text": "Choose: \"A number of students ___ absent.\"",
+     "options": [
+      "was",
+      "has been",
+      "is",
+      "are"
+     ],
+     "correct_index": 3,
+     "explanation": "\"A number of\" takes a plural verb."
+    },
+    {
+     "question_text": "Choose: \"The number of students ___ increasing.\"",
+     "options": [
+      "is",
+      "have been",
+      "are",
+      "were"
+     ],
+     "correct_index": 0,
+     "explanation": "\"The number of\" takes a singular verb."
+    },
+    {
+     "question_text": "Choose: \"Neither the manager nor the employees ___ present.\"",
+     "options": [
+      "is",
+      "has been",
+      "was",
+      "were"
+     ],
+     "correct_index": 3,
+     "explanation": "With neither…nor, the verb agrees with the nearer subject."
+    },
+    {
+     "question_text": "Choose: \"The committee ___ decided to extend the deadline.\"",
+     "options": [
+      "were",
+      "has",
+      "have",
+      "are"
+     ],
+     "correct_index": 1,
+     "explanation": "A collective noun acting as a unit takes a singular verb."
+    },
+    {
+     "question_text": "Choose: \"Ten lakh rupees ___ a large amount.\"",
+     "options": [
+      "were",
+      "have been",
+      "are",
+      "is"
+     ],
+     "correct_index": 3,
+     "explanation": "A sum of money is treated as a single amount."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to English Grammar – Practice Test 3",
+   "duration_minutes": 28,
+   "questions": [
+    {
+     "question_text": "Choose: \"The manager, along with his team, ___ attending.\"",
+     "options": [
+      "were",
+      "have been",
+      "is",
+      "are"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Along with\" does not make the subject plural."
+    },
+    {
+     "question_text": "Choose: \"Mathematics ___ my favourite subject.\"",
+     "options": [
+      "were",
+      "are",
+      "have been",
+      "is"
+     ],
+     "correct_index": 3,
+     "explanation": "Names of subjects ending in -s take singular verbs."
+    },
+    {
+     "question_text": "Choose: \"Bread and butter ___ my breakfast.\"",
+     "options": [
+      "were",
+      "is",
+      "are",
+      "have been"
+     ],
+     "correct_index": 1,
+     "explanation": "Two subjects forming one idea take a singular verb."
+    },
+    {
+     "question_text": "A sentence is:",
+     "options": [
+      "A single word",
+      "A phrase",
+      "A group of words without meaning",
+      "A group of words that expresses a complete thought"
+     ],
+     "correct_index": 3,
+     "explanation": "It has a subject and a predicate."
+    },
+    {
+     "question_text": "A phrase differs from a clause in that a phrase:",
+     "options": [
+      "Is always a sentence",
+      "Has no subject–verb pair, while a clause does",
+      "Is always independent",
+      "Has a subject and verb"
+     ],
+     "correct_index": 1,
+     "explanation": "\"In the morning\" is a phrase."
+    },
+    {
+     "question_text": "An independent clause:",
+     "options": [
+      "Can stand alone as a sentence, while a dependent clause cannot",
+      "Has no verb",
+      "Cannot stand alone",
+      "Has no subject"
+     ],
+     "correct_index": 0,
+     "explanation": "A dependent clause begins with a subordinator such as \"because\"."
+    },
+    {
+     "question_text": "According to function, sentences are classified as:",
+     "options": [
+      "Simple, compound and complex",
+      "Direct and indirect",
+      "Active and passive",
+      "Declarative, interrogative, imperative and exclamatory"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., statement, question, command and exclamation."
+    },
+    {
+     "question_text": "According to structure, sentences are classified as:",
+     "options": [
+      "Simple, compound, complex and compound-complex",
+      "Positive and negative",
+      "Active and passive",
+      "Declarative and interrogative"
+     ],
+     "correct_index": 0,
+     "explanation": "They differ by the number and type of clauses."
+    },
+    {
+     "question_text": "\"Because it was raining, the match was cancelled\" is a:",
+     "options": [
+      "Compound-complex sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence"
+     ],
+     "correct_index": 2,
+     "explanation": "It has one dependent and one independent clause."
+    },
+    {
+     "question_text": "\"The report was ready, but the client did not arrive\" is a:",
+     "options": [
+      "Compound-complex sentence",
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence"
+     ],
+     "correct_index": 2,
+     "explanation": "Two independent clauses are joined by \"but\"."
+    },
+    {
+     "question_text": "\"I stayed home because I was ill, and my sister cooked dinner\" is a:",
+     "options": [
+      "Compound-complex sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Simple sentence"
+     ],
+     "correct_index": 0,
+     "explanation": "Two independent clauses and one dependent clause."
+    },
+    {
+     "question_text": "The six basic sentence patterns include:",
+     "options": [
+      "S–V, S–V–O, S–V–C, S–V–IO–DO, S–V–O–C and S–V–A",
+      "Only S–V",
+      "Only S–V–C",
+      "Only S–V–O"
+     ],
+     "correct_index": 0,
+     "explanation": "S = subject, V = verb, O = object, C = complement, A = adverbial."
+    },
+    {
+     "question_text": "Parallel structure means:",
+     "options": [
+      "Using different forms in a list",
+      "Using the same grammatical form for items in a list",
+      "Using only nouns",
+      "Using only verbs"
+     ],
+     "correct_index": 1,
+     "explanation": "\"She likes swimming, reading and cooking\" is parallel."
+    },
+    {
+     "question_text": "Correct: \"She likes swimming, to read and cooking.\"",
+     "options": [
+      "She likes swimming, reading and cooking.",
+      "She like swimming, reading and cooking.",
+      "She likes swimming, to read and to cook.",
+      "She likes to swim, reading and cooking."
+     ],
+     "correct_index": 0,
+     "explanation": "All items should use the -ing form."
+    },
+    {
+     "question_text": "A sentence fragment is:",
+     "options": [
+      "A compound sentence",
+      "A long sentence",
+      "A complete sentence",
+      "A group of words that lacks a subject or a complete verb, e.g., \"Because he was late.\""
+     ],
+     "correct_index": 3,
+     "explanation": "It is corrected by adding a main clause."
+    },
+    {
+     "question_text": "A run-on sentence is:",
+     "options": [
+      "A short sentence",
+      "A fragment",
+      "Two independent clauses joined without proper punctuation or a conjunction",
+      "A simple sentence"
+     ],
+     "correct_index": 2,
+     "explanation": "\"He was late he missed the train\" is a run-on."
+    },
+    {
+     "question_text": "Correct the run-on: \"He was late he missed the train.\"",
+     "options": [
+      "He was late; and he missed the train.",
+      "He was late, so he missed the train.",
+      "He was late he, missed the train.",
+      "He was late, he missed the train."
+     ],
+     "correct_index": 1,
+     "explanation": "Use a conjunction or a semicolon."
+    },
+    {
+     "question_text": "A comma splice is:",
+     "options": [
+      "Using a semicolon",
+      "Omitting a comma",
+      "Joining two independent clauses with only a comma",
+      "Using too many commas"
+     ],
+     "correct_index": 2,
+     "explanation": "\"The meeting ended, everyone left\" is a splice."
+    },
+    {
+     "question_text": "Correct the comma splice: \"The meeting ended, everyone left.\"",
+     "options": [
+      "The meeting, ended everyone left.",
+      "The meeting ended everyone left.",
+      "The meeting ended; everyone left.",
+      "The meeting ended, everyone, left."
+     ],
+     "correct_index": 2,
+     "explanation": "A semicolon or a full stop is needed."
+    },
+    {
+     "question_text": "A dangling modifier is:",
+     "options": [
+      "A modifier that is correct",
+      "A modifier next to its noun",
+      "A modifier that does not clearly attach to the word it is meant to modify",
+      "A noun phrase"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Walking down the road, the bus hit him\" is dangling."
+    },
+    {
+     "question_text": "Correct the dangling modifier: \"Walking down the road, the bus hit him.\"",
+     "options": [
+      "While he was walking down the road, the bus hit him.",
+      "The bus hit him, walking down the road.",
+      "Walking, the bus hit him down the road.",
+      "Walking down the road, the bus hit him."
+     ],
+     "correct_index": 0,
+     "explanation": "The subject of the participle must be clear."
+    },
+    {
+     "question_text": "A misplaced modifier is:",
+     "options": [
+      "A conjunction",
+      "A modifier next to its word",
+      "A verb",
+      "A modifier placed far from the word it describes, creating confusion"
+     ],
+     "correct_index": 3,
+     "explanation": "\"She almost drove for two hours\" is misplaced."
+    },
+    {
+     "question_text": "Correct: \"She almost drove for two hours.\"",
+     "options": [
+      "She almost drove two for hours.",
+      "She drove for almost two hours.",
+      "She drove almost for two hours.",
+      "Almost she drove for two hours."
+     ],
+     "correct_index": 1,
+     "explanation": "\"Almost\" should modify \"two hours\"."
+    },
+    {
+     "question_text": "Redundancy means:",
+     "options": [
+      "Using short sentences",
+      "Using synonyms",
+      "Using precise words",
+      "Using unnecessary words that repeat the meaning, e.g., \"return back\""
+     ],
+     "correct_index": 3,
+     "explanation": "It weakens business writing."
+    },
+    {
+     "question_text": "Remove redundancy: \"Please return back the free gift.\"",
+     "options": [
+      "Please back return the gift.",
+      "Please return the free gift back.",
+      "Please return the gift.",
+      "Please return back the gift."
+     ],
+     "correct_index": 2,
+     "explanation": "\"Return\" already means \"give back\"; a gift is free."
+    },
+    {
+     "question_text": "Passive: \"The manager approved the plan.\"",
+     "options": [
+      "The plan is approved by the manager.",
+      "The plan was approved by the manager.",
+      "The plan has been approved the manager.",
+      "The manager was approved by the plan."
+     ],
+     "correct_index": 1,
+     "explanation": "The past tense becomes \"was + past participle\"."
+    },
+    {
+     "question_text": "Passive: \"The company will launch a new product.\"",
+     "options": [
+      "A new product will launch by the company.",
+      "A new product would be launched the company.",
+      "A new product is launched by the company.",
+      "A new product will be launched by the company."
+     ],
+     "correct_index": 3,
+     "explanation": "Use \"will be + past participle\"."
+    },
+    {
+     "question_text": "Passive: \"They are preparing the budget.\"",
+     "options": [
+      "The budget was being prepared by them.",
+      "The budget is being prepared by them.",
+      "The budget is prepared by them.",
+      "The budget has been prepared by them."
+     ],
+     "correct_index": 1,
+     "explanation": "Present continuous becomes \"is being + past participle\"."
+    }
+   ]
+  },
+  {
+   "title": "Unit 1: Introduction to English Grammar – Practice Test 4",
+   "duration_minutes": 27,
+   "questions": [
+    {
+     "question_text": "Passive: \"She has written the report.\"",
+     "options": [
+      "The report was written by her.",
+      "The report has been written by her.",
+      "The report had been written by her.",
+      "The report is written by her."
+     ],
+     "correct_index": 1,
+     "explanation": "Present perfect becomes \"has been + past participle\"."
+    },
+    {
+     "question_text": "Active: \"The bill was paid by the client.\"",
+     "options": [
+      "The client pays the bill.",
+      "The client paid the bill.",
+      "The client has paid the bill.",
+      "The client was paying the bill."
+     ],
+     "correct_index": 1,
+     "explanation": "Keep the same tense."
+    },
+    {
+     "question_text": "The passive voice is preferred when:",
+     "options": [
+      "You want to sound forceful",
+      "You want longer sentences",
+      "The doer is important",
+      "The doer is unknown or unimportant, or the action matters more"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., \"The files were deleted.\""
+    },
+    {
+     "question_text": "Indirect speech: He said, \"I am busy.\"",
+     "options": [
+      "He said that he will be busy.",
+      "He said that I was busy.",
+      "He said that he was busy.",
+      "He said that he is busy."
+     ],
+     "correct_index": 2,
+     "explanation": "The present tense becomes past."
+    },
+    {
+     "question_text": "Indirect speech: She asked, \"Where do you live?\"",
+     "options": [
+      "She asked where I lived.",
+      "She asked where I live.",
+      "She asked where do I live.",
+      "She asked that where I lived."
+     ],
+     "correct_index": 0,
+     "explanation": "Reported questions use statement word order."
+    },
+    {
+     "question_text": "Indirect speech: The manager said to us, \"Submit the report by Monday.\"",
+     "options": [
+      "The manager told us to submit the report by Monday.",
+      "The manager told us that submit the report by Monday.",
+      "The manager asked us submit the report by Monday.",
+      "The manager said us to submit the report by Monday."
+     ],
+     "correct_index": 0,
+     "explanation": "A command is reported with \"told + to\"."
+    },
+    {
+     "question_text": "Indirect speech: He said, \"I will call you tomorrow.\"",
+     "options": [
+      "He said that he will call you tomorrow.",
+      "He said that I would call him next day.",
+      "He said that he would call me the next day.",
+      "He said that he would call you tomorrow."
+     ],
+     "correct_index": 2,
+     "explanation": "\"Will\" becomes \"would\" and \"tomorrow\" becomes \"the next day\"."
+    },
+    {
+     "question_text": "Direct speech: She said that she had finished her work.",
+     "options": [
+      "She said, \"I had finished my work.\"",
+      "She said, \"She had finished her work.\"",
+      "She said, \"I have finished my work.\"",
+      "She said, \"I finish my work.\""
+     ],
+     "correct_index": 2,
+     "explanation": "Past perfect becomes present perfect and the pronoun changes."
+    },
+    {
+     "question_text": "In reported speech, \"now\", \"today\", \"here\" and \"yesterday\" generally become:",
+     "options": [
+      "soon, tonight, everywhere and last day",
+      "later, tomorrow, there and the next day",
+      "now, today, here and yesterday",
+      "then, that day, there and the previous day"
+     ],
+     "correct_index": 3,
+     "explanation": "Time and place words shift."
+    },
+    {
+     "question_text": "The first conditional is used for:",
+     "options": [
+      "An impossible past situation",
+      "A general truth",
+      "A hypothetical present situation",
+      "A real or likely future situation, e.g., \"If you pay today, we will deliver tomorrow\""
+     ],
+     "correct_index": 3,
+     "explanation": "The structure is if + present, will + verb."
+    },
+    {
+     "question_text": "Complete: \"If I had known the price, I ___ the laptop.\"",
+     "options": [
+      "will buy",
+      "would buy",
+      "would have bought",
+      "bought"
+     ],
+     "correct_index": 2,
+     "explanation": "The third conditional uses if + past perfect, would have + past participle."
+    },
+    {
+     "question_text": "Which sentence uses \"must\" for obligation in a business context?",
+     "options": [
+      "\"Employees must wear ID cards.\"",
+      "\"Employees might wear ID cards.\"",
+      "\"Employees may wear ID cards.\"",
+      "\"Employees can wear ID cards.\""
+     ],
+     "correct_index": 0,
+     "explanation": "\"Must\" shows strong obligation."
+    },
+    {
+     "question_text": "\"May\" differs from \"might\" in that \"might\":",
+     "options": [
+      "Shows ability",
+      "Shows obligation",
+      "Shows a more remote or less certain possibility",
+      "Shows certainty"
+     ],
+     "correct_index": 2,
+     "explanation": "\"It may rain\" is more likely than \"it might rain\"."
+    },
+    {
+     "question_text": "A comma is used to:",
+     "options": [
+      "Show possession",
+      "End a sentence",
+      "Join two independent clauses without a conjunction",
+      "Separate items in a list and after introductory phrases"
+     ],
+     "correct_index": 3,
+     "explanation": "It also sets off non-essential clauses."
+    },
+    {
+     "question_text": "A semicolon is used to:",
+     "options": [
+      "Join two closely related independent clauses, e.g., \"The report is ready; the client has not arrived.\"",
+      "End a question",
+      "Start a sentence",
+      "Show possession"
+     ],
+     "correct_index": 0,
+     "explanation": "It can also separate complex list items."
+    },
+    {
+     "question_text": "A colon is used to:",
+     "options": [
+      "Join two sentences",
+      "Introduce a list, explanation or quotation",
+      "Show possession",
+      "End a question"
+     ],
+     "correct_index": 1,
+     "explanation": "\"Bring three things: ID, form and fee.\""
+    },
+    {
+     "question_text": "Correct: \"The companys policy is clear.\"",
+     "options": [
+      "The companys' policy is clear.",
+      "The company's policy is clear.",
+      "The companies policy is clear.",
+      "The company policy's is clear."
+     ],
+     "correct_index": 1,
+     "explanation": "An apostrophe + s shows possession for a singular noun."
+    },
+    {
+     "question_text": "\"Its\" differs from \"it's\" in that \"its\" is _____ and \"it's\" is _____:",
+     "options": [
+      "Short for \"it is\"; a possessive",
+      "A possessive; short for \"it is\" or \"it has\"",
+      "Both possessive",
+      "Both short forms"
+     ],
+     "correct_index": 1,
+     "explanation": "\"The company changed its policy; it's effective today.\""
+    },
+    {
+     "question_text": "Punctuate correctly: \"however the committee agreed to the proposal\"",
+     "options": [
+      "However; the committee agreed to the proposal.",
+      "However the committee agreed, to the proposal.",
+      "However the committee, agreed to the proposal.",
+      "However, the committee agreed to the proposal."
+     ],
+     "correct_index": 3,
+     "explanation": "A comma follows the introductory \"however\"."
+    },
+    {
+     "question_text": "Punctuate correctly: \"she asked are you coming to the meeting\"",
+     "options": [
+      "She asked are you coming to the meeting.",
+      "She asked, \"are you coming to the meeting.\"",
+      "She asked \"Are you coming to the meeting\".",
+      "She asked, \"Are you coming to the meeting?\""
+     ],
+     "correct_index": 3,
+     "explanation": "Use a comma, quotation marks and a question mark."
+    },
+    {
+     "question_text": "\"Affect\" is usually a _____ and \"effect\" is usually a _____:",
+     "options": [
+      "Verb; noun",
+      "Adjective; noun",
+      "Noun; verb",
+      "Verb; adverb"
+     ],
+     "correct_index": 0,
+     "explanation": "\"The delay will affect sales; the effect was clear.\""
+    },
+    {
+     "question_text": "\"Principal\" differs from \"principle\" in that \"principal\" means _____ and \"principle\" means _____:",
+     "options": [
+      "A rule or belief; chief",
+      "A teacher; a student",
+      "Chief or head; a rule or belief",
+      "A loan; a fee"
+     ],
+     "correct_index": 2,
+     "explanation": "\"The principal gave a principle-based speech.\""
+    },
+    {
+     "question_text": "\"Advice\" is a _____ and \"advise\" is a _____:",
+     "options": [
+      "Noun; adjective",
+      "Noun; verb",
+      "Verb; noun",
+      "Adjective; verb"
+     ],
+     "correct_index": 1,
+     "explanation": "\"I advise you to take his advice.\""
+    },
+    {
+     "question_text": "\"Ensure\", \"insure\" and \"assure\" mean respectively:",
+     "options": [
+      "To make certain; to cover with insurance; to promise or reassure",
+      "To reassure; to cover; to promise",
+      "To promise; to make certain; to cover",
+      "To cover; to promise; to make certain"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Ensure quality, insure the goods, assure the client.\""
+    },
+    {
+     "question_text": "Capital letters are used for:",
+     "options": [
+      "Every noun",
+      "The first word of a sentence, proper nouns and the pronoun \"I\"",
+      "Every verb",
+      "Every adjective"
+     ],
+     "correct_index": 1,
+     "explanation": "Also days, months and titles before names."
+    },
+    {
+     "question_text": "Rewrite concisely: \"Due to the fact that the market was down, we had to postpone the launch.\"",
+     "options": [
+      "Due to the fact that the market was down, we postponed the launch.",
+      "Because of the fact that the market was down, we had to postpone it.",
+      "The market being down, the launch postponement was had.",
+      "Because the market was down, we postponed the launch."
+     ],
+     "correct_index": 3,
+     "explanation": "\"Due to the fact that\" can be replaced by \"because\"."
+    },
+    {
+     "question_text": "Grammatical accuracy is important in business communication because it:",
+     "options": [
+      "Replaces content",
+      "Is only for exams",
+      "Makes writing longer",
+      "Builds credibility, avoids misunderstanding and projects professionalism"
+     ],
+     "correct_index": 3,
+     "explanation": "Errors can damage trust and cause costly mistakes."
+    }
+   ]
+  }
+ ]
+}

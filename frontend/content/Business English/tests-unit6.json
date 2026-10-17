@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 6: Logical Thinking: Logic, Rhetoric — Ethos, Pathos and Logos – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Logic is the study of correct reasoning, and its father is considered to be:",
+     "options": [
+      "Euclid",
+      "Socrates",
+      "Aristotle",
+      "Plato"
+     ],
+     "correct_index": 2,
+     "explanation": "Aristotle developed the first formal logic (syllogisms)."
+    },
+    {
+     "question_text": "A statement (proposition) is:",
+     "options": [
+      "An exclamation",
+      "A command",
+      "A question",
+      "A sentence that is either true or false"
+     ],
+     "correct_index": 3,
+     "explanation": "It makes a claim about the world."
+    },
+    {
+     "question_text": "Which is NOT a proposition?",
+     "options": [
+      "\"2 + 2 = 5.\"",
+      "\"Delhi is the capital of India.\"",
+      "\"Water boils at 100°C.\"",
+      "\"Close the door.\""
+     ],
+     "correct_index": 3,
+     "explanation": "Commands, questions and exclamations are not propositions."
+    },
+    {
+     "question_text": "An argument is:",
+     "options": [
+      "A quarrel",
+      "A shout",
+      "A disagreement",
+      "A set of statements in which premises are offered in support of a conclusion"
+     ],
+     "correct_index": 3,
+     "explanation": "It aims to establish a claim by reasons."
+    },
+    {
+     "question_text": "Premises are _____, and the conclusion is _____:",
+     "options": [
+      "The claim; the reason",
+      "The opinion; the fact",
+      "The question; the answer",
+      "The reasons or evidence; the claim being supported"
+     ],
+     "correct_index": 3,
+     "explanation": "The conclusion follows from the premises."
+    },
+    {
+     "question_text": "Premise indicators include \"because\", \"since\" and \"as\", and conclusion indicators include:",
+     "options": [
+      "\"therefore\", \"hence\" and \"thus\"",
+      "\"if\", \"when\"",
+      "\"and\", \"but\"",
+      "\"because\", \"since\""
+     ],
+     "correct_index": 0,
+     "explanation": "They signal the structure of an argument."
+    },
+    {
+     "question_text": "In \"Because it is raining, the match will be cancelled,\" the premise is _____ and the conclusion is _____:",
+     "options": [
+      "The match will be cancelled; it is raining",
+      "It is raining; it is raining",
+      "The match; the rain",
+      "It is raining; the match will be cancelled"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Because\" introduces the premise."
+    },
+    {
+     "question_text": "In \"Sales rose since we cut prices, so cutting prices works,\" the conclusion is:",
+     "options": [
+      "Sales rose",
+      "We cut prices",
+      "Prices are low",
+      "Cutting prices works"
+     ],
+     "correct_index": 3,
+     "explanation": "\"So\" indicates the conclusion."
+    },
+    {
+     "question_text": "Deductive reasoning is:",
+     "options": [
+      "Reasoning from specific cases to a general probable conclusion",
+      "Reasoning from general premises to a specific conclusion that necessarily follows, e.g., \"All humans are mortal; Socrates is human; so Socrates is mortal\"",
+      "Random",
+      "Guessing"
+     ],
+     "correct_index": 1,
+     "explanation": "If the premises are true, the conclusion must be true."
+    },
+    {
+     "question_text": "Inductive reasoning is:",
+     "options": [
+      "Certain reasoning",
+      "Reasoning from specific observations to a general, probable conclusion, e.g., \"The sun has risen every day, so it will rise tomorrow\"",
+      "Reasoning from general to specific",
+      "Guessing"
+     ],
+     "correct_index": 1,
+     "explanation": "The conclusion is probable, not certain."
+    },
+    {
+     "question_text": "Abductive reasoning is:",
+     "options": [
+      "Random",
+      "Certain deduction",
+      "Inferring the most likely explanation for an observation",
+      "Mathematical proof"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., a wet road suggests it has rained."
+    },
+    {
+     "question_text": "Deductive reasoning differs from inductive reasoning in that deductive reasoning:",
+     "options": [
+      "Gives certain conclusions, while inductive gives probable conclusions",
+      "Is uncertain",
+      "Goes from specific to general",
+      "Gives probable"
+     ],
+     "correct_index": 0,
+     "explanation": "Deductive moves from general to specific."
+    },
+    {
+     "question_text": "An argument is valid if:",
+     "options": [
+      "The conclusion follows logically from the premises, and sound if it is valid and all premises are true",
+      "It is persuasive",
+      "The premises are true only",
+      "The conclusion is true only"
+     ],
+     "correct_index": 0,
+     "explanation": "Soundness requires both validity and true premises."
+    },
+    {
+     "question_text": "A valid but unsound argument is:",
+     "options": [
+      "\"All birds can fly; penguins are birds; so penguins can fly.\"",
+      "\"It rains; the road is wet.\"",
+      "\"Some birds fly; penguins are birds.\"",
+      "\"All men are mortal; Socrates is a man; so Socrates is mortal.\""
+     ],
+     "correct_index": 0,
+     "explanation": "The logic is valid but the first premise is false."
+    },
+    {
+     "question_text": "A cogent inductive argument is one that:",
+     "options": [
+      "Is deductive",
+      "Is strong and has true premises",
+      "Has false premises",
+      "Is weak"
+     ],
+     "correct_index": 1,
+     "explanation": "It is the inductive equivalent of soundness."
+    },
+    {
+     "question_text": "A syllogism is:",
+     "options": [
+      "A poem",
+      "A deductive argument with two premises and a conclusion (major premise, minor premise, conclusion)",
+      "A fallacy",
+      "A one-premise argument"
+     ],
+     "correct_index": 1,
+     "explanation": "Example: All men are mortal; Socrates is a man; so Socrates is mortal."
+    },
+    {
+     "question_text": "The four categorical propositions A, E, I and O are:",
+     "options": [
+      "All S are P; No S are P; Some S are P; Some S are not P",
+      "No S are P; All S are P; Some S are not P; Some S are P",
+      "All S are P; Some S are P; No S are P; Some S are not P",
+      "Some S are P; All S are P; No S are P; Some S are not P"
+     ],
+     "correct_index": 0,
+     "explanation": "They are universal affirmative, universal negative, particular affirmative and particular negative."
+    },
+    {
+     "question_text": "\"Some managers are not leaders\" is an example of:",
+     "options": [
+      "An I statement",
+      "An A statement",
+      "An E statement",
+      "An O statement"
+     ],
+     "correct_index": 3,
+     "explanation": "It is particular negative."
+    },
+    {
+     "question_text": "\"All managers are leaders; Anita is a manager; therefore Anita is a leader\" is:",
+     "options": [
+      "Invalid",
+      "Valid (and sound only if the first premise is true)",
+      "Inductive",
+      "A fallacy"
+     ],
+     "correct_index": 1,
+     "explanation": "The conclusion follows from the premises."
+    },
+    {
+     "question_text": "\"All birds fly; penguins are birds; so penguins fly\" is:",
+     "options": [
+      "Sound",
+      "Valid but unsound",
+      "Inductive",
+      "Invalid and unsound"
+     ],
+     "correct_index": 1,
+     "explanation": "The first premise is false."
+    },
+    {
+     "question_text": "A rule of a valid categorical syllogism is that:",
+     "options": [
+      "The middle term appears in the conclusion",
+      "Both premises may be particular",
+      "Any two premises give a conclusion",
+      "The middle term must be distributed at least once, and no conclusion can follow from two negative premises"
+     ],
+     "correct_index": 3,
+     "explanation": "Also, a negative premise requires a negative conclusion."
+    },
+    {
+     "question_text": "Modus ponens is: \"If P then Q; P; therefore Q.\" An example is:",
+     "options": [
+      "\"If it rains, the road is wet; it doesn't rain; so the road isn't wet.\"",
+      "\"If it rains, the road is wet; it rains; so the road is wet.\"",
+      "\"If it rains, the road is wet; the road is wet; so it rains.\"",
+      "\"It rains or the road is wet.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It affirms the antecedent."
+    },
+    {
+     "question_text": "Modus tollens is: \"If P then Q; not Q; therefore not P.\" An example is:",
+     "options": [
+      "\"If it rains, the road is wet; it rains; so the road is wet.\"",
+      "\"If it rains, the road is wet; the road isn't wet; so it didn't rain.\"",
+      "\"It rains or the road is wet.\"",
+      "\"If it rains, the road is wet; the road is wet; so it rained.\""
+     ],
+     "correct_index": 1,
+     "explanation": "It denies the consequent."
+    },
+    {
+     "question_text": "A hypothetical syllogism is:",
+     "options": [
+      "\"If P then Q; if Q then R; therefore if P then R\"",
+      "\"P and Q; therefore P\"",
+      "\"If P then Q; P; Q\"",
+      "\"P or Q; not P; therefore Q\""
+     ],
+     "correct_index": 0,
+     "explanation": "It chains conditional statements."
+    },
+    {
+     "question_text": "A disjunctive syllogism is:",
+     "options": [
+      "\"P or Q; not P; therefore Q\"",
+      "\"If P then Q; if Q then R\"",
+      "\"If P then Q; P; therefore Q\"",
+      "\"All A are B\""
+     ],
+     "correct_index": 0,
+     "explanation": "It eliminates one option."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Logical Thinking: Logic, Rhetoric — Ethos, Pathos and Logos – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Affirming the consequent is a fallacy, e.g.,:",
+     "options": [
+      "\"If it rains, the road is wet; the road is dry; so it didn't rain.\"",
+      "\"If it rains, the road is wet; the road is wet; so it rained.\"",
+      "\"It rains or not.\"",
+      "\"If it rains, the road is wet; it rains; so the road is wet.\""
+     ],
+     "correct_index": 1,
+     "explanation": "The road could be wet for other reasons."
+    },
+    {
+     "question_text": "Denying the antecedent is a fallacy, e.g.,:",
+     "options": [
+      "\"If it rains, the road is wet; the road is dry; so it didn't rain.\"",
+      "\"If it rains, the road is wet; it didn't rain; so the road isn't wet.\"",
+      "\"It rains or not.\"",
+      "\"If it rains, the road is wet; it rained; so it is wet.\""
+     ],
+     "correct_index": 1,
+     "explanation": "The road may be wet for other reasons."
+    },
+    {
+     "question_text": "Logical connectives include:",
+     "options": [
+      "Plus and minus",
+      "Debit and credit",
+      "And, or, not, if…then and if and only if",
+      "Noun and verb"
+     ],
+     "correct_index": 2,
+     "explanation": "They combine statements."
+    },
+    {
+     "question_text": "\"P → Q\" (if P then Q) is false only when:",
+     "options": [
+      "Both are false",
+      "P is false and Q is true",
+      "Both are true",
+      "P is true and Q is false"
+     ],
+     "correct_index": 3,
+     "explanation": "All other cases are true."
+    },
+    {
+     "question_text": "\"P and Q\" is true:",
+     "options": [
+      "When either is true",
+      "When both are false",
+      "Always",
+      "Only when both P and Q are true"
+     ],
+     "correct_index": 3,
+     "explanation": "It is false if either is false."
+    },
+    {
+     "question_text": "\"P or Q\" (inclusive) is false:",
+     "options": [
+      "When both are true",
+      "When either is false",
+      "Only when both P and Q are false",
+      "Always"
+     ],
+     "correct_index": 2,
+     "explanation": "It is true if at least one is true."
+    },
+    {
+     "question_text": "\"Not P\" is true when:",
+     "options": [
+      "P is false",
+      "P is true",
+      "P is both",
+      "Never"
+     ],
+     "correct_index": 0,
+     "explanation": "Negation reverses the truth value."
+    },
+    {
+     "question_text": "\"If P then Q\" with P false and Q true is:",
+     "options": [
+      "False",
+      "True",
+      "Undefined",
+      "Impossible"
+     ],
+     "correct_index": 1,
+     "explanation": "The conditional is false only with a true antecedent and false consequent."
+    },
+    {
+     "question_text": "A necessary condition is one that _____, and a sufficient condition is one that _____:",
+     "options": [
+      "Guarantees the outcome; must be present",
+      "Must be present for the outcome; guarantees the outcome",
+      "Is optional; is required",
+      "Is irrelevant; is relevant"
+     ],
+     "correct_index": 1,
+     "explanation": "Oxygen is necessary for fire; a lit match in dry grass is sufficient."
+    },
+    {
+     "question_text": "Critical thinking is:",
+     "options": [
+      "The ability to analyse and evaluate information objectively; skills include analysis, inference and evaluation",
+      "Memorising",
+      "Guessing",
+      "Believing everything"
+     ],
+     "correct_index": 0,
+     "explanation": "It involves questioning assumptions."
+    },
+    {
+     "question_text": "Socratic questioning is:",
+     "options": [
+      "Answering only",
+      "Giving commands",
+      "Giving lectures",
+      "A method of asking probing questions to examine ideas and assumptions"
+     ],
+     "correct_index": 3,
+     "explanation": "It stimulates critical thinking."
+    },
+    {
+     "question_text": "Logic is used in business decision making to:",
+     "options": [
+      "Guess",
+      "Delay work",
+      "Evaluate options, avoid fallacies and justify decisions",
+      "Avoid decisions"
+     ],
+     "correct_index": 2,
+     "explanation": "It supports sound analysis."
+    },
+    {
+     "question_text": "\"Every company I have worked with delays payments, so all companies delay payments\" is:",
+     "options": [
+      "Sound",
+      "Deductive reasoning",
+      "Valid",
+      "Inductive reasoning (a hasty generalisation)"
+     ],
+     "correct_index": 3,
+     "explanation": "It generalises from limited cases."
+    },
+    {
+     "question_text": "\"All banks are regulated by RBI; SBI is a bank; so SBI is regulated by RBI\" is:",
+     "options": [
+      "Deductive reasoning",
+      "A fallacy",
+      "Abductive reasoning",
+      "Inductive reasoning"
+     ],
+     "correct_index": 0,
+     "explanation": "It moves from a general rule to a specific case."
+    },
+    {
+     "question_text": "A formal fallacy is an error in _____, and an informal fallacy is an error in _____:",
+     "options": [
+      "Content; structure",
+      "The logical structure of the argument; content, language or relevance",
+      "Premises; conclusion",
+      "Language; structure"
+     ],
+     "correct_index": 1,
+     "explanation": "Affirming the consequent is formal; ad hominem is informal."
+    },
+    {
+     "question_text": "The ad hominem fallacy is:",
+     "options": [
+      "Citing evidence",
+      "Attacking the argument",
+      "Attacking the person instead of the argument, e.g., \"You can't trust his plan; he is a failure.\"",
+      "Agreeing"
+     ],
+     "correct_index": 2,
+     "explanation": "The person's character is irrelevant to the argument's merit."
+    },
+    {
+     "question_text": "The straw man fallacy is:",
+     "options": [
+      "Representing it fairly",
+      "Agreeing",
+      "Misrepresenting an opponent's argument to make it easier to attack",
+      "Citing evidence"
+     ],
+     "correct_index": 2,
+     "explanation": "\"You want less spending, so you want schools closed.\""
+    },
+    {
+     "question_text": "A false dilemma is:",
+     "options": [
+      "Presenting only two options when more exist, e.g., \"Either you are with us or against us.\"",
+      "Presenting the right options",
+      "Presenting none",
+      "Presenting many options"
+     ],
+     "correct_index": 0,
+     "explanation": "It oversimplifies."
+    },
+    {
+     "question_text": "The slippery slope fallacy is:",
+     "options": [
+      "Claiming that one step will inevitably lead to extreme consequences without proof",
+      "Giving evidence",
+      "Describing a hill",
+      "Making a plan"
+     ],
+     "correct_index": 0,
+     "explanation": "\"If we allow one late arrival, soon nobody will come on time.\""
+    },
+    {
+     "question_text": "An appeal to authority is a fallacy when:",
+     "options": [
+      "Evidence is cited",
+      "An irrelevant or unqualified authority is cited as proof, e.g., a film star endorsing medical advice",
+      "An expert in the field is cited",
+      "A study is cited"
+     ],
+     "correct_index": 1,
+     "explanation": "The authority must be relevant."
+    },
+    {
+     "question_text": "The bandwagon fallacy is:",
+     "options": [
+      "Claiming something is true or good because many people believe or do it",
+      "Following evidence",
+      "Following logic",
+      "Following experts"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Everyone uses it, so it must be best.\""
+    },
+    {
+     "question_text": "Circular reasoning (begging the question) is:",
+     "options": [
+      "An argument whose conclusion is already assumed in its premise, e.g., \"The Bible is true because it says so\"",
+      "An inductive argument",
+      "A deductive argument",
+      "A valid argument"
+     ],
+     "correct_index": 0,
+     "explanation": "It goes round in a circle."
+    },
+    {
+     "question_text": "A red herring fallacy is:",
+     "options": [
+      "Citing evidence",
+      "Staying on topic",
+      "Introducing an irrelevant topic to divert attention from the issue",
+      "Making a plan"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Why worry about pollution when there is poverty?\""
+    },
+    {
+     "question_text": "Hasty generalisation is:",
+     "options": [
+      "Using a large sample",
+      "Giving evidence",
+      "Using valid logic",
+      "Drawing a general conclusion from a small or unrepresentative sample"
+     ],
+     "correct_index": 3,
+     "explanation": "\"My two employees were late, so all staff are lazy.\""
+    },
+    {
+     "question_text": "The post hoc fallacy is:",
+     "options": [
+      "Assuming that because B followed A, A caused B",
+      "Proving causation",
+      "Using a control",
+      "Using statistics"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Since the CEO changed, profits fell, so the CEO caused it.\""
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Logical Thinking: Logic, Rhetoric — Ethos, Pathos and Logos – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "An appeal to emotion is a fallacy when:",
+     "options": [
+      "Facts are given",
+      "Logic is used",
+      "Emotions replace logical reasons, e.g., \"Think of the poor children if you reject this.\"",
+      "Evidence is cited"
+     ],
+     "correct_index": 2,
+     "explanation": "Emotion should support, not replace, evidence."
+    },
+    {
+     "question_text": "Tu quoque (\"you too\") is:",
+     "options": [
+      "Making a plan",
+      "Accepting criticism",
+      "Citing evidence",
+      "Rejecting criticism by pointing out the critic's own faults"
+     ],
+     "correct_index": 3,
+     "explanation": "\"You tell me not to smoke, but you smoke!\""
+    },
+    {
+     "question_text": "An appeal to ignorance is:",
+     "options": [
+      "Using logic",
+      "Using statistics",
+      "Claiming something is true because it has not been proven false",
+      "Citing evidence"
+     ],
+     "correct_index": 2,
+     "explanation": "\"No one has proved ghosts don't exist, so they exist.\""
+    },
+    {
+     "question_text": "Equivocation is:",
+     "options": [
+      "Using evidence",
+      "Using one meaning",
+      "Using a word with two meanings in an argument, leading to a misleading conclusion",
+      "Using precise words"
+     ],
+     "correct_index": 2,
+     "explanation": "\"A feather is light; what is light cannot be dark; so a feather cannot be dark.\""
+    },
+    {
+     "question_text": "The genetic fallacy is:",
+     "options": [
+      "Judging by logic",
+      "Judging by evidence",
+      "Judging an idea by its origin rather than its merit",
+      "Judging by merit"
+     ],
+     "correct_index": 2,
+     "explanation": "\"This idea came from a rival, so it is wrong.\""
+    },
+    {
+     "question_text": "A loaded question is:",
+     "options": [
+      "A simple question",
+      "An easy question",
+      "A neutral question",
+      "A question that contains an unfair assumption, e.g., \"Have you stopped cheating?\""
+     ],
+     "correct_index": 3,
+     "explanation": "It traps the respondent."
+    },
+    {
+     "question_text": "The fallacy of composition is _____, and the fallacy of division is _____:",
+     "options": [
+      "The opposite",
+      "Both are the same",
+      "Neither is a fallacy",
+      "Assuming what is true of the parts is true of the whole; assuming what is true of the whole is true of the parts"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Each player is great, so the team is great\" is composition."
+    },
+    {
+     "question_text": "The appeal to tradition is:",
+     "options": [
+      "Arguing from evidence",
+      "Arguing something is right because it has always been done that way",
+      "Arguing from facts",
+      "Arguing from logic"
+     ],
+     "correct_index": 1,
+     "explanation": "\"We've always done it this way.\""
+    },
+    {
+     "question_text": "\"You can't trust his budget plan; he was fired from his last job\" is:",
+     "options": [
+      "False dilemma",
+      "Straw man",
+      "Bandwagon",
+      "Ad hominem"
+     ],
+     "correct_index": 3,
+     "explanation": "It attacks the person."
+    },
+    {
+     "question_text": "\"Everyone in the office uses this software, so it must be the best\" is:",
+     "options": [
+      "Red herring",
+      "Ad hominem",
+      "Circular reasoning",
+      "Bandwagon"
+     ],
+     "correct_index": 3,
+     "explanation": "Popularity is not proof."
+    },
+    {
+     "question_text": "\"Either you support this policy or you hate the country\" is:",
+     "options": [
+      "Ad hominem",
+      "A false dilemma",
+      "Bandwagon",
+      "Post hoc"
+     ],
+     "correct_index": 1,
+     "explanation": "It ignores other options."
+    },
+    {
+     "question_text": "\"He is guilty because he looks suspicious\" is:",
+     "options": [
+      "Inductive reasoning",
+      "An appeal to appearance/unsupported assumption (hasty judgement)",
+      "A valid argument",
+      "A syllogism"
+     ],
+     "correct_index": 1,
+     "explanation": "Appearance is not evidence of guilt."
+    },
+    {
+     "question_text": "\"Since the CEO changed, profits have fallen, so the CEO is the cause\" is:",
+     "options": [
+      "Ad hominem",
+      "Straw man",
+      "Bandwagon",
+      "Post hoc"
+     ],
+     "correct_index": 3,
+     "explanation": "It confuses sequence with cause."
+    },
+    {
+     "question_text": "\"My friend got a high return from this scheme, so it is risk free\" is:",
+     "options": [
+      "Straw man",
+      "Red herring",
+      "Ad hominem",
+      "Hasty generalisation"
+     ],
+     "correct_index": 3,
+     "explanation": "One case does not prove the absence of risk."
+    },
+    {
+     "question_text": "\"If we allow one late arrival, soon no one will come on time\" is:",
+     "options": [
+      "Red herring",
+      "Slippery slope",
+      "Ad hominem",
+      "Bandwagon"
+     ],
+     "correct_index": 1,
+     "explanation": "It predicts a chain of extreme consequences."
+    },
+    {
+     "question_text": "Fallacies can be avoided by:",
+     "options": [
+      "Using emotion only",
+      "Ignoring evidence",
+      "Checking evidence, staying on topic and examining assumptions",
+      "Attacking people"
+     ],
+     "correct_index": 2,
+     "explanation": "Critical thinking helps."
+    },
+    {
+     "question_text": "Rhetoric is:",
+     "options": [
+      "The study of animals",
+      "The art of effective and persuasive speaking or writing",
+      "The study of money",
+      "The study of numbers"
+     ],
+     "correct_index": 1,
+     "explanation": "It aims to influence the audience."
+    },
+    {
+     "question_text": "The classic work \"Rhetoric\" was written by:",
+     "options": [
+      "Cicero",
+      "Socrates",
+      "Aristotle",
+      "Plato"
+     ],
+     "correct_index": 2,
+     "explanation": "He identified three modes of persuasion."
+    },
+    {
+     "question_text": "The three rhetorical appeals are:",
+     "options": [
+      "Ethics, politics, logic",
+      "Speech, writing, tone",
+      "Ethos, pathos and logos",
+      "Logic, reason and truth"
+     ],
+     "correct_index": 2,
+     "explanation": "They are credibility, emotion and logic."
+    },
+    {
+     "question_text": "Ethos is:",
+     "options": [
+      "An appeal to logic",
+      "An appeal to emotion",
+      "An appeal to credibility or character, e.g., \"As a doctor with 20 years of experience…\"",
+      "An appeal to time"
+     ],
+     "correct_index": 2,
+     "explanation": "It builds trust."
+    },
+    {
+     "question_text": "Ethos is established by:",
+     "options": [
+      "Humour only",
+      "Expertise, honesty, experience and good character",
+      "Statistics only",
+      "Emotion only"
+     ],
+     "correct_index": 1,
+     "explanation": "Credentials and fairness build it."
+    },
+    {
+     "question_text": "Pathos is:",
+     "options": [
+      "An appeal to time",
+      "An appeal to credibility",
+      "An appeal to logic",
+      "An appeal to emotion, e.g., \"Think of the children who will suffer\""
+     ],
+     "correct_index": 3,
+     "explanation": "It moves the audience to feel."
+    },
+    {
+     "question_text": "Advertisements use pathos by:",
+     "options": [
+      "Using only statistics",
+      "Using only experts",
+      "Using emotional images, music and stories to create feelings",
+      "Using only facts"
+     ],
+     "correct_index": 2,
+     "explanation": "E.g., happy families."
+    },
+    {
+     "question_text": "Logos is:",
+     "options": [
+      "An appeal to logic and reason, e.g., \"Studies show this method reduces costs by 25%\"",
+      "An appeal to credibility",
+      "An appeal to emotion",
+      "An appeal to time"
+     ],
+     "correct_index": 0,
+     "explanation": "It uses facts and evidence."
+    },
+    {
+     "question_text": "Sources of logos include:",
+     "options": [
+      "Reputation",
+      "Humour",
+      "Facts, statistics, logical reasoning and examples",
+      "Emotions"
+     ],
+     "correct_index": 2,
+     "explanation": "They support claims."
+    }
+   ]
+  },
+  {
+   "title": "Unit 6: Logical Thinking: Logic, Rhetoric — Ethos, Pathos and Logos – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Kairos is:",
+     "options": [
+      "Logic",
+      "The opportune moment or timing for an argument",
+      "Credibility",
+      "Emotion"
+     ],
+     "correct_index": 1,
+     "explanation": "A message must suit the occasion."
+    },
+    {
+     "question_text": "The rhetorical triangle consists of:",
+     "options": [
+      "Speaker, audience and message (subject)",
+      "Past, present, future",
+      "Ethos, pathos, logos",
+      "Beginning, middle, end"
+     ],
+     "correct_index": 0,
+     "explanation": "It shows how communication works."
+    },
+    {
+     "question_text": "Rhetorical devices include:",
+     "options": [
+      "Only numbers",
+      "Only dates",
+      "Only facts",
+      "Metaphor, repetition, rhetorical question, rule of three and analogy"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., \"Veni, vidi, vici\"."
+    },
+    {
+     "question_text": "The weakness of relying on pathos alone is that it:",
+     "options": [
+      "Can manipulate and lacks evidence",
+      "Is too logical",
+      "Is factual",
+      "Is credible"
+     ],
+     "correct_index": 0,
+     "explanation": "Ethos can be weak if the speaker is unknown; logos can be dry."
+    },
+    {
+     "question_text": "A balance of ethos, pathos and logos is necessary because:",
+     "options": [
+      "They conflict",
+      "None is needed",
+      "Credibility, emotion and logic together make persuasion stronger",
+      "One is enough"
+     ],
+     "correct_index": 2,
+     "explanation": "Each supports the others."
+    },
+    {
+     "question_text": "In Martin Luther King Jr.'s \"I Have a Dream\", the vivid imagery of a better future is mainly:",
+     "options": [
+      "Logos",
+      "Ethos only",
+      "Pathos",
+      "Statistics"
+     ],
+     "correct_index": 2,
+     "explanation": "It also uses ethos (moral authority) and logos (constitutional promises)."
+    },
+    {
+     "question_text": "\"9 out of 10 dentists recommend\" in a toothpaste ad is mainly:",
+     "options": [
+      "None",
+      "Kairos",
+      "Ethos and logos (expert authority and statistics)",
+      "Pathos"
+     ],
+     "correct_index": 2,
+     "explanation": "It cites experts and numbers."
+    },
+    {
+     "question_text": "\"As a doctor with twenty years of experience, I advise you to exercise daily\" is:",
+     "options": [
+      "Logos",
+      "Ethos",
+      "Pathos",
+      "Kairos"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses credibility."
+    },
+    {
+     "question_text": "\"Think of the children who will suffer if we do nothing\" is:",
+     "options": [
+      "Kairos",
+      "Ethos",
+      "Logos",
+      "Pathos"
+     ],
+     "correct_index": 3,
+     "explanation": "It appeals to emotion."
+    },
+    {
+     "question_text": "\"Studies show that this method reduces costs by 25%\" is:",
+     "options": [
+      "Kairos",
+      "Logos",
+      "Pathos",
+      "Ethos"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses data."
+    },
+    {
+     "question_text": "Picture description involves:",
+     "options": [
+      "Writing a story only",
+      "Ignoring the picture",
+      "Copying words",
+      "Observing, organising and describing what you see in order, then interpreting it"
+     ],
+     "correct_index": 3,
+     "explanation": "Steps: overview, details, mood and interpretation."
+    },
+    {
+     "question_text": "The foreground, middle ground and background are:",
+     "options": [
+      "Sounds",
+      "The parts of a picture nearest, in the middle and furthest from the viewer",
+      "Colours",
+      "Emotions"
+     ],
+     "correct_index": 1,
+     "explanation": "Describe them in order."
+    },
+    {
+     "question_text": "Phrases used to describe positions in a picture include:",
+     "options": [
+      "\"in the foreground\", \"on the left\", \"in the background\" and \"next to\"",
+      "\"however\", \"although\"",
+      "\"because\", \"therefore\"",
+      "\"first\", \"second\", \"third\""
+     ],
+     "correct_index": 0,
+     "explanation": "They show location."
+    },
+    {
+     "question_text": "Colour symbolism: red often signals _____ and green often signals _____:",
+     "options": [
+      "Sadness; joy",
+      "Danger or passion; nature, growth or safety",
+      "Wealth; poverty",
+      "Calm; danger"
+     ],
+     "correct_index": 1,
+     "explanation": "Colours carry meanings that vary by culture."
+    },
+    {
+     "question_text": "A good description of a charity poster with a child holding an empty bowl would:",
+     "options": [
+      "Describe the child, the empty bowl and the mood of hunger, noting the emotional impact",
+      "Write about cars",
+      "Describe only the colours",
+      "Ignore the child"
+     ],
+     "correct_index": 0,
+     "explanation": "It captures subject and feeling."
+    },
+    {
+     "question_text": "In the charity poster \"Rs 50 feeds a child. Registered NGO.\", \"Registered NGO\" is _____, and \"Rs 50 feeds a child\" is _____:",
+     "options": [
+      "Pathos; ethos",
+      "Ethos; logos",
+      "Logos; pathos",
+      "Kairos; ethos"
+     ],
+     "correct_index": 1,
+     "explanation": "Credibility and a concrete figure."
+    },
+    {
+     "question_text": "A smartwatch advertisement showing an athlete at sunrise would be described as:",
+     "options": [
+      "A crowded market",
+      "A picture of rain",
+      "An athlete running along a beach in golden sunrise light wearing the watch",
+      "A cooking scene"
+     ],
+     "correct_index": 2,
+     "explanation": "It conveys energy and motivation."
+    },
+    {
+     "question_text": "In the smartwatch advertisement, the athlete at sunrise appeals mainly through:",
+     "options": [
+      "Pathos (aspiration and motivation), with logos in the features listed",
+      "Only ethos",
+      "None",
+      "Only logos"
+     ],
+     "correct_index": 0,
+     "explanation": "It sells a lifestyle."
+    },
+    {
+     "question_text": "A bank's home-loan advertisement showing a happy family would be described as:",
+     "options": [
+      "A factory",
+      "A closed shop",
+      "A smiling family in front of their new home",
+      "A polluted river"
+     ],
+     "correct_index": 2,
+     "explanation": "It shows the benefit emotionally."
+    },
+    {
+     "question_text": "The home-loan advertisement appeals through:",
+     "options": [
+      "Pathos (family security), ethos (the bank's reputation) and logos (interest rate)",
+      "Only logos",
+      "None",
+      "Only pathos"
+     ],
+     "correct_index": 0,
+     "explanation": "It combines all three."
+    },
+    {
+     "question_text": "A picture of a polluted river with persuasive appeals would show:",
+     "options": [
+      "A beach holiday",
+      "A shopping mall",
+      "Dirty water and dead fish (pathos) with facts on pollution (logos) and an environmental group (ethos)",
+      "A clean river"
+     ],
+     "correct_index": 2,
+     "explanation": "It urges action."
+    },
+    {
+     "question_text": "A picture of students planting trees would appeal through:",
+     "options": [
+      "None",
+      "Pathos (hope), logos (benefits of trees) and ethos (a school or NGO)",
+      "Only ethos",
+      "Only logos"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes environmental action."
+    },
+    {
+     "question_text": "In a health-insurance advertisement, ethos might be shown by:",
+     "options": [
+      "Humour",
+      "Colour",
+      "The insurer's long experience and claim settlement record",
+      "A scary image"
+     ],
+     "correct_index": 2,
+     "explanation": "Pathos would be a sick family; logos the coverage figures."
+    },
+    {
+     "question_text": "The effectiveness of an advertisement is evaluated by:",
+     "options": [
+      "Its colour only",
+      "Its length",
+      "Its clarity, appeal, credibility, target audience fit and results",
+      "Its font only"
+     ],
+     "correct_index": 2,
+     "explanation": "Does it achieve its purpose?"
+    },
+    {
+     "question_text": "Emotional appeal becomes manipulation when it:",
+     "options": [
+      "Uses honest emotion",
+      "Uses logic",
+      "Uses facts",
+      "Exploits fear or guilt to deceive or pressure without honest reasons"
+     ],
+     "correct_index": 3,
+     "explanation": "Ethical persuasion respects the audience."
+    }
+   ]
+  }
+ ]
+}

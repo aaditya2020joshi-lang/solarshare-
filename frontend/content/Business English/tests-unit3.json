@@ -1,0 +1,1128 @@
+{
+ "tests": [
+  {
+   "title": "Unit 3: Reading Comprehension – Practice Test 1",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "Reading comprehension is:",
+     "options": [
+      "Writing a summary only",
+      "Memorising a text",
+      "Reading aloud only",
+      "The ability to read a text, understand it and interpret its meaning"
+     ],
+     "correct_index": 3,
+     "explanation": "It involves understanding, interpreting and evaluating."
+    },
+    {
+     "question_text": "The levels of comprehension are:",
+     "options": [
+      "Fast, slow and normal",
+      "Basic, advanced and expert",
+      "Literal, inferential and critical (evaluative)",
+      "Simple, medium and hard"
+     ],
+     "correct_index": 2,
+     "explanation": "Each goes deeper into the text."
+    },
+    {
+     "question_text": "Literal comprehension means:",
+     "options": [
+      "Guessing meaning",
+      "Judging the author",
+      "Understanding what is directly stated in the text",
+      "Reading between the lines"
+     ],
+     "correct_index": 2,
+     "explanation": "The answers are found in the text."
+    },
+    {
+     "question_text": "Inferential comprehension means:",
+     "options": [
+      "Memorising text",
+      "Reading only facts",
+      "Copying sentences",
+      "Understanding ideas that are implied but not directly stated"
+     ],
+     "correct_index": 3,
+     "explanation": "It requires reading between the lines."
+    },
+    {
+     "question_text": "Critical reading means:",
+     "options": [
+      "Reading aloud",
+      "Reading once",
+      "Reading quickly",
+      "Evaluating the text for accuracy, bias, logic and purpose"
+     ],
+     "correct_index": 3,
+     "explanation": "It questions what the author says."
+    },
+    {
+     "question_text": "Skimming is:",
+     "options": [
+      "Reading every word",
+      "Reading for a specific detail",
+      "Reading quickly to get the general idea of a text",
+      "Reading aloud"
+     ],
+     "correct_index": 2,
+     "explanation": "It is used for previewing material."
+    },
+    {
+     "question_text": "Scanning is:",
+     "options": [
+      "Reading aloud",
+      "Reading for the general idea",
+      "Reading slowly",
+      "Reading quickly to find a specific piece of information, such as a name or number"
+     ],
+     "correct_index": 3,
+     "explanation": "It is used with timetables and indexes."
+    },
+    {
+     "question_text": "Skimming differs from scanning in that skimming looks for _____ and scanning looks for _____:",
+     "options": [
+      "Specific information; the general idea",
+      "Every word; one word",
+      "The general idea; specific information",
+      "Details; summaries"
+     ],
+     "correct_index": 2,
+     "explanation": "Both are fast reading techniques."
+    },
+    {
+     "question_text": "Intensive reading is:",
+     "options": [
+      "Fast reading",
+      "Careful, detailed reading of a short text to understand it fully",
+      "Reading many books",
+      "Reading for pleasure"
+     ],
+     "correct_index": 1,
+     "explanation": "It is used for study and analysis."
+    },
+    {
+     "question_text": "Extensive reading is:",
+     "options": [
+      "Detailed study of a short text",
+      "Scanning",
+      "Reading longer texts or many books for general understanding and enjoyment",
+      "Skimming"
+     ],
+     "correct_index": 2,
+     "explanation": "It builds fluency and vocabulary."
+    },
+    {
+     "question_text": "Intensive reading differs from extensive reading in that intensive reading is:",
+     "options": [
+      "For fun",
+      "Detailed and slow, while extensive reading is broad and for pleasure",
+      "Broad and for pleasure",
+      "Fast"
+     ],
+     "correct_index": 1,
+     "explanation": "Both improve language skills."
+    },
+    {
+     "question_text": "Speed reading is:",
+     "options": [
+      "Reading aloud",
+      "Reading faster while keeping understanding",
+      "Reading without understanding",
+      "Skipping all text"
+     ],
+     "correct_index": 1,
+     "explanation": "It uses techniques to reduce regression."
+    },
+    {
+     "question_text": "SQ3R stands for:",
+     "options": [
+      "Scan, Question, Read, Repeat, Review",
+      "Survey, Quote, Reread, Recite, Revise",
+      "Survey, Question, Read, Recite, Review",
+      "Skim, Quote, Read, Rewrite, Revise"
+     ],
+     "correct_index": 2,
+     "explanation": "It is a study method for textbooks."
+    },
+    {
+     "question_text": "A strategy of effective reading is:",
+     "options": [
+      "Reading without purpose",
+      "Skipping headings",
+      "Reading once without notes",
+      "Previewing, predicting, annotating and summarising"
+     ],
+     "correct_index": 3,
+     "explanation": "Set a purpose before reading."
+    },
+    {
+     "question_text": "To predict content before reading, you should:",
+     "options": [
+      "Ignore the title",
+      "Look at the title, headings, images and first lines",
+      "Read the last page only",
+      "Close the book"
+     ],
+     "correct_index": 1,
+     "explanation": "It prepares the mind for the text."
+    },
+    {
+     "question_text": "To annotate a text, you:",
+     "options": [
+      "Underline key points and write brief notes in the margin",
+      "Copy the whole text",
+      "Skip the text",
+      "Erase words"
+     ],
+     "correct_index": 0,
+     "explanation": "It aids understanding and revision."
+    },
+    {
+     "question_text": "To summarise a paragraph, you:",
+     "options": [
+      "Add your opinion",
+      "Identify the main idea and restate it briefly in your own words",
+      "Add new ideas",
+      "Copy it fully"
+     ],
+     "correct_index": 1,
+     "explanation": "A summary is much shorter."
+    },
+    {
+     "question_text": "The meaning of an unknown word can be guessed by:",
+     "options": [
+      "Using clues from the surrounding words and sentences",
+      "Guessing randomly",
+      "Ignoring the sentence",
+      "Skipping it always"
+     ],
+     "correct_index": 0,
+     "explanation": "This is called using context."
+    },
+    {
+     "question_text": "Context clues include:",
+     "options": [
+      "Page numbers",
+      "Author's name",
+      "Definitions, synonyms, antonyms and examples in the sentence",
+      "Font size"
+     ],
+     "correct_index": 2,
+     "explanation": "They hint at the meaning."
+    },
+    {
+     "question_text": "Knowing prefixes and roots helps in reading because:",
+     "options": [
+      "They reveal the meaning of unfamiliar words, e.g., \"un-\" means not",
+      "They are irrelevant",
+      "They have no meaning",
+      "They make words longer"
+     ],
+     "correct_index": 0,
+     "explanation": "E.g., \"unhappy\" = not happy."
+    },
+    {
+     "question_text": "A tip to improve reading speed is:",
+     "options": [
+      "Read aloud always",
+      "Read word by word",
+      "Re-read every line",
+      "Avoid subvocalisation and regression, and read in phrases"
+     ],
+     "correct_index": 3,
+     "explanation": "Practice and a purpose help."
+    },
+    {
+     "question_text": "Subvocalisation is _____, and regression is _____:",
+     "options": [
+      "Writing notes; reading notes",
+      "Reading aloud; skipping words",
+      "Reading fast; reading slow",
+      "Silently pronouncing words while reading; going back to re-read words"
+     ],
+     "correct_index": 3,
+     "explanation": "Both slow reading speed."
+    },
+    {
+     "question_text": "The genres of text include:",
+     "options": [
+      "Only fiction",
+      "Only news",
+      "Only poetry",
+      "Fiction, non-fiction, poetry, drama and news"
+     ],
+     "correct_index": 3,
+     "explanation": "Each has its own features."
+    },
+    {
+     "question_text": "A feature of fiction is that it:",
+     "options": [
+      "Is a news report",
+      "Is factual",
+      "Is a contract",
+      "Is an imaginative narrative with characters, plot and setting"
+     ],
+     "correct_index": 3,
+     "explanation": "It entertains."
+    },
+    {
+     "question_text": "The elements of a story are:",
+     "options": [
+      "Abstract and conclusion",
+      "Headlines and datelines",
+      "Characters, setting, plot, conflict and theme",
+      "Introduction and thesis"
+     ],
+     "correct_index": 2,
+     "explanation": "Plot includes beginning, climax and resolution."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Reading Comprehension – Practice Test 2",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "A news report follows the inverted pyramid, which means:",
+     "options": [
+      "Chronological order only",
+      "Conclusion first and then headlines",
+      "Least important first",
+      "The most important information comes first, followed by details"
+     ],
+     "correct_index": 3,
+     "explanation": "It answers who, what, when, where, why."
+    },
+    {
+     "question_text": "An editorial is:",
+     "options": [
+      "A news report",
+      "An article expressing the opinion of the newspaper or editor on an issue",
+      "An advertisement",
+      "A letter"
+     ],
+     "correct_index": 1,
+     "explanation": "It aims to persuade."
+    },
+    {
+     "question_text": "Academic texts are characterised by:",
+     "options": [
+      "Formal tone, specialised vocabulary and cited sources",
+      "Humour",
+      "No structure",
+      "Slang"
+     ],
+     "correct_index": 0,
+     "explanation": "They are objective and evidence-based."
+    },
+    {
+     "question_text": "Business texts are characterised by:",
+     "options": [
+      "Long stories",
+      "Fiction",
+      "Poetic language",
+      "Clear, concise, purposeful language and a practical focus"
+     ],
+     "correct_index": 3,
+     "explanation": "They aim at action or decision."
+    },
+    {
+     "question_text": "Business documents one may need to read include:",
+     "options": [
+      "Comics",
+      "Reports, memos, emails, contracts and annual reports",
+      "Novels",
+      "Poems"
+     ],
+     "correct_index": 1,
+     "explanation": "Each has a purpose."
+    },
+    {
+     "question_text": "A report differs from a memo in that a report is:",
+     "options": [
+      "A short note",
+      "A detailed, formal document, while a memo is a short internal communication",
+      "An email",
+      "A letter"
+     ],
+     "correct_index": 1,
+     "explanation": "Memos are brief and routine."
+    },
+    {
+     "question_text": "An executive summary is:",
+     "options": [
+      "The full report",
+      "A short overview of the main points of a report for busy readers",
+      "The index",
+      "The title"
+     ],
+     "correct_index": 1,
+     "explanation": "It appears at the start."
+    },
+    {
+     "question_text": "To read an annual report, you should:",
+     "options": [
+      "Read only the cover",
+      "Skip the financials",
+      "Start with the executive summary and chairman's message, then check financial statements and notes",
+      "Read every word first"
+     ],
+     "correct_index": 2,
+     "explanation": "Focus on key sections."
+    },
+    {
+     "question_text": "When reading a contract, you should:",
+     "options": [
+      "Skim only",
+      "Read the first line only",
+      "Read carefully, focusing on obligations, rights, deadlines and penalties",
+      "Ignore terms"
+     ],
+     "correct_index": 2,
+     "explanation": "Terms have legal effect."
+    },
+    {
+     "question_text": "Characteristics of poetry include:",
+     "options": [
+      "Long paragraphs",
+      "Headlines",
+      "Plain facts",
+      "Rhythm, rhyme, imagery and compressed language"
+     ],
+     "correct_index": 3,
+     "explanation": "It uses figurative language."
+    },
+    {
+     "question_text": "Figurative language includes:",
+     "options": [
+      "Facts only",
+      "Simile, metaphor and personification",
+      "Statistics",
+      "Definitions"
+     ],
+     "correct_index": 1,
+     "explanation": "E.g., \"time is money\"."
+    },
+    {
+     "question_text": "A feature of persuasive texts is that they:",
+     "options": [
+      "Use reasons, emotional appeals and a call to action",
+      "Only list facts",
+      "Only narrate",
+      "Only describe"
+     ],
+     "correct_index": 0,
+     "explanation": "They aim to convince."
+    },
+    {
+     "question_text": "Blogs differ from academic articles in that blogs are:",
+     "options": [
+      "Informal, personal and often opinion-based, while academic articles are formal and cited",
+      "Formal",
+      "Cited",
+      "Peer-reviewed"
+     ],
+     "correct_index": 0,
+     "explanation": "Blogs are easier to read."
+    },
+    {
+     "question_text": "The difficulty of a text depends on:",
+     "options": [
+      "Paper type",
+      "Vocabulary, sentence length, structure and subject familiarity",
+      "Page number",
+      "Font colour"
+     ],
+     "correct_index": 1,
+     "explanation": "Prior knowledge matters."
+    },
+    {
+     "question_text": "A basic reading level differs from an advanced reading level in that basic texts have:",
+     "options": [
+      "Complex words",
+      "Longer sentences",
+      "Simple words and sentences, while advanced texts have complex vocabulary and ideas",
+      "Technical terms"
+     ],
+     "correct_index": 2,
+     "explanation": "Intermediate lies in between."
+    },
+    {
+     "question_text": "The role of vocabulary in comprehension is that:",
+     "options": [
+      "A wide vocabulary makes it easier to understand texts",
+      "Vocabulary is only for writing",
+      "Vocabulary is irrelevant",
+      "Vocabulary hinders reading"
+     ],
+     "correct_index": 0,
+     "explanation": "Unknown words slow understanding."
+    },
+    {
+     "question_text": "Long and complex sentences affect comprehension by:",
+     "options": [
+      "Making it simpler",
+      "Making a text harder to follow",
+      "Having no effect",
+      "Making it shorter"
+     ],
+     "correct_index": 1,
+     "explanation": "Short sentences are easier."
+    },
+    {
+     "question_text": "Tone is:",
+     "options": [
+      "The volume of the voice",
+      "The topic",
+      "The length of the text",
+      "The author's attitude toward the subject (e.g., formal, humorous, critical, optimistic, sarcastic)"
+     ],
+     "correct_index": 3,
+     "explanation": "It is shown through word choice."
+    },
+    {
+     "question_text": "The author's purpose can be to:",
+     "options": [
+      "Inform, persuade, entertain or describe",
+      "Hide",
+      "Delete",
+      "Close"
+     ],
+     "correct_index": 0,
+     "explanation": "Identifying it helps understanding."
+    },
+    {
+     "question_text": "The tone of \"The proposal is utterly ridiculous and a waste of time\" is:",
+     "options": [
+      "Critical or scornful",
+      "Neutral",
+      "Admiring",
+      "Joyful"
+     ],
+     "correct_index": 0,
+     "explanation": "The words are strongly negative."
+    },
+    {
+     "question_text": "The tone of \"We are delighted to announce our new scholarship programme\" is:",
+     "options": [
+      "Critical",
+      "Angry",
+      "Joyful or positive",
+      "Sad"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Delighted\" shows happiness."
+    },
+    {
+     "question_text": "A fact differs from an opinion in that a fact:",
+     "options": [
+      "Is a feeling",
+      "Cannot be verified",
+      "Can be verified, while an opinion is a personal belief",
+      "Is a belief"
+     ],
+     "correct_index": 2,
+     "explanation": "Opinions often use words like \"best\"."
+    },
+    {
+     "question_text": "\"India's financial year starts on 1 April\" is a:",
+     "options": [
+      "Opinion",
+      "Belief",
+      "Fact",
+      "Guess"
+     ],
+     "correct_index": 2,
+     "explanation": "It can be verified."
+    },
+    {
+     "question_text": "\"Online shopping is better than shopping in stores\" is a:",
+     "options": [
+      "Statistic",
+      "Law",
+      "Fact",
+      "Opinion"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Better\" is a judgement."
+    },
+    {
+     "question_text": "\"Water boils at 100 degrees Celsius at sea level\" is a:",
+     "options": [
+      "Opinion",
+      "Belief",
+      "Guess",
+      "Fact"
+     ],
+     "correct_index": 3,
+     "explanation": "It is scientifically verifiable."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Reading Comprehension – Practice Test 3",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "\"Everyone should invest in mutual funds\" is a:",
+     "options": [
+      "Opinion",
+      "Statistic",
+      "Fact",
+      "Law"
+     ],
+     "correct_index": 0,
+     "explanation": "\"Should\" signals a judgement."
+    },
+    {
+     "question_text": "The main idea of a passage is:",
+     "options": [
+      "A minor detail",
+      "The title only",
+      "The central point the author wants to convey, usually found in the topic sentence",
+      "The last word"
+     ],
+     "correct_index": 2,
+     "explanation": "Look at the first and last sentences."
+    },
+    {
+     "question_text": "Supporting details are:",
+     "options": [
+      "The main idea",
+      "The title",
+      "Facts, examples and explanations that support the main idea",
+      "The conclusion"
+     ],
+     "correct_index": 2,
+     "explanation": "They develop the main point."
+    },
+    {
+     "question_text": "An inference is:",
+     "options": [
+      "A quote",
+      "A direct statement",
+      "A fact",
+      "A conclusion drawn from clues in the text and prior knowledge"
+     ],
+     "correct_index": 3,
+     "explanation": "E.g., wet roads suggest recent rain."
+    },
+    {
+     "question_text": "From \"Meera checked her watch every minute and kept staring at the door,\" we can infer that she was:",
+     "options": [
+      "Happy",
+      "Sleepy",
+      "Anxious or impatient, waiting for someone",
+      "Bored with her watch"
+     ],
+     "correct_index": 2,
+     "explanation": "Her actions show impatience."
+    },
+    {
+     "question_text": "From \"The streets were empty, shops closed, and the sky was grey and heavy,\" we can infer that:",
+     "options": [
+      "It was probably a holiday or a stormy day",
+      "It was summer noon",
+      "It was a festival",
+      "It was a busy market day"
+     ],
+     "correct_index": 0,
+     "explanation": "The details suggest quiet and bad weather."
+    },
+    {
+     "question_text": "From \"The CEO cancelled all meetings and spent the whole evening with the finance team,\" we can infer that:",
+     "options": [
+      "There was an urgent financial issue",
+      "The CEO was bored",
+      "The team was celebrating",
+      "The CEO was on holiday"
+     ],
+     "correct_index": 0,
+     "explanation": "Cancelling meetings suggests urgency."
+    },
+    {
+     "question_text": "\"Reading between the lines\" means:",
+     "options": [
+      "Reading the blank space",
+      "Understanding implied meaning not directly stated",
+      "Reading every line twice",
+      "Reading fast"
+     ],
+     "correct_index": 1,
+     "explanation": "It is inferential comprehension."
+    },
+    {
+     "question_text": "Reference questions ask:",
+     "options": [
+      "The author's name",
+      "The page number",
+      "What a pronoun or phrase refers to in the text, e.g., \"What does 'it' refer to?\"",
+      "The font"
+     ],
+     "correct_index": 2,
+     "explanation": "They test understanding of links in the text."
+    },
+    {
+     "question_text": "In \"The manager told the clerk that he would be promoted,\" the pronoun \"he\" most likely refers to:",
+     "options": [
+      "The company",
+      "The manager only",
+      "Nobody",
+      "The clerk (though it is ambiguous)"
+     ],
+     "correct_index": 3,
+     "explanation": "The sentence is ambiguous; context decides."
+    },
+    {
+     "question_text": "A True/False/Not Given question asks you to:",
+     "options": [
+      "Guess",
+      "Copy the text",
+      "Decide whether the statement agrees with, contradicts or is not mentioned in the text",
+      "Write a summary"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Not Given\" means there is no information."
+    },
+    {
+     "question_text": "To answer a multiple-choice comprehension question, you should:",
+     "options": [
+      "Always choose the longest option",
+      "Skip the text",
+      "Choose randomly",
+      "Read the question first, find the evidence in the text and eliminate wrong options"
+     ],
+     "correct_index": 3,
+     "explanation": "Check each option against the passage."
+    },
+    {
+     "question_text": "To answer a short-answer question, you should:",
+     "options": [
+      "Give a brief, direct answer based on the text, in your own words",
+      "Copy the whole passage",
+      "Write an essay",
+      "Leave it blank"
+     ],
+     "correct_index": 0,
+     "explanation": "Answer exactly what is asked."
+    },
+    {
+     "question_text": "To write a summary of a passage:",
+     "options": [
+      "Identify the main points and rewrite them concisely in your own words",
+      "Add opinions",
+      "Include all examples",
+      "Copy sentences"
+     ],
+     "correct_index": 0,
+     "explanation": "It should be about one-third of the length."
+    },
+    {
+     "question_text": "A suitable title for a passage should:",
+     "options": [
+      "Be unrelated",
+      "Be very long",
+      "Reflect the main idea and be short and catchy",
+      "Be a detail only"
+     ],
+     "correct_index": 2,
+     "explanation": "It captures the central theme."
+    },
+    {
+     "question_text": "The steps in answering a comprehension passage are:",
+     "options": [
+      "Read the passage, read the questions, locate evidence, answer and check",
+      "Guess",
+      "Skip the passage",
+      "Answer first, then read"
+     ],
+     "correct_index": 0,
+     "explanation": "Read twice if needed."
+    },
+    {
+     "question_text": "From \"Rohan arrived twenty minutes early, reviewed his notes calmly, greeted the receptionist politely, and answered each question with confidence,\" we can infer that Rohan was:",
+     "options": [
+      "Nervous",
+      "Rude",
+      "Late",
+      "Well prepared and confident"
+     ],
+     "correct_index": 3,
+     "explanation": "His actions show preparation."
+    },
+    {
+     "question_text": "\"The company's profit rose by 12% in the third quarter, mainly due to higher exports, although costs also increased by 5%.\" The profit growth was caused by:",
+     "options": [
+      "Higher costs",
+      "Lower profit",
+      "Higher exports",
+      "Lower exports"
+     ],
+     "correct_index": 2,
+     "explanation": "The passage states it directly."
+    },
+    {
+     "question_text": "The main idea of \"Renewable energy, once considered expensive, is now the cheapest source of power in many regions\" is:",
+     "options": [
+      "Renewable energy has become the cheapest power source in many regions",
+      "Power is costly",
+      "Energy is a topic",
+      "Renewable energy is expensive"
+     ],
+     "correct_index": 0,
+     "explanation": "It states the central change."
+    },
+    {
+     "question_text": "\"Anita saved Rs 2,000 every month for five years. She then used the money to start a small tailoring unit.\" This shows that Anita is:",
+     "options": [
+      "Disciplined and enterprising",
+      "Lazy",
+      "Careless",
+      "Wasteful"
+     ],
+     "correct_index": 0,
+     "explanation": "She saved regularly and started a business."
+    },
+    {
+     "question_text": "\"Although the new app was popular, many users complained that it drained their phone batteries.\" The complaint was:",
+     "options": [
+      "The app was costly",
+      "The app drained their phone batteries",
+      "The app was slow",
+      "The app was unpopular"
+     ],
+     "correct_index": 1,
+     "explanation": "The complaint is the battery drain."
+    },
+    {
+     "question_text": "\"Due to heavy rainfall, the match was postponed to Sunday.\" The match was postponed because of:",
+     "options": [
+      "Injuries",
+      "Poor teams",
+      "Heavy rainfall",
+      "A holiday"
+     ],
+     "correct_index": 2,
+     "explanation": "\"Due to\" signals the cause."
+    },
+    {
+     "question_text": "\"The librarian placed a finger on her lips and glared at the noisy students.\" She wanted them to:",
+     "options": [
+      "Be quiet",
+      "Read aloud",
+      "Leave",
+      "Sing"
+     ],
+     "correct_index": 0,
+     "explanation": "The gesture means \"silence\"."
+    },
+    {
+     "question_text": "In \"Despite repeated warnings, the factory continued to dump waste into the river,\" \"despite\" shows:",
+     "options": [
+      "Contrast: the action continued against warnings",
+      "Time",
+      "Addition",
+      "Cause"
+     ],
+     "correct_index": 0,
+     "explanation": "It signals unexpected outcome."
+    },
+    {
+     "question_text": "In \"The manager's candid feedback surprised the team,\" \"candid\" means:",
+     "options": [
+      "Late",
+      "Honest and frank",
+      "Rude",
+      "Secret"
+     ],
+     "correct_index": 1,
+     "explanation": "The context suggests directness."
+    }
+   ]
+  },
+  {
+   "title": "Unit 3: Reading Comprehension – Practice Test 4",
+   "duration_minutes": 25,
+   "questions": [
+    {
+     "question_text": "The antonym of \"scarce\" in \"Water was abundant during the monsoon, though it was scarce in summer\" is:",
+     "options": [
+      "Little",
+      "Short",
+      "Rare",
+      "Abundant"
+     ],
+     "correct_index": 3,
+     "explanation": "The sentence contrasts them."
+    },
+    {
+     "question_text": "\"Break the ice\" in \"He told a joke to break the ice at the meeting\" means:",
+     "options": [
+      "To end the meeting",
+      "To argue",
+      "To destroy ice",
+      "To ease tension and start conversation"
+     ],
+     "correct_index": 3,
+     "explanation": "It is an idiom."
+    },
+    {
+     "question_text": "The phrasal verb \"carry out\" in \"The team will carry out a survey\" means:",
+     "options": [
+      "Remove",
+      "Cancel",
+      "Conduct or perform",
+      "Take outside"
+     ],
+     "correct_index": 2,
+     "explanation": "It means to perform a task."
+    },
+    {
+     "question_text": "\"Bottom line\" in business reading means:",
+     "options": [
+      "The last line of a page",
+      "The cheapest price",
+      "The final outcome, especially net profit or the key conclusion",
+      "The first point"
+     ],
+     "correct_index": 2,
+     "explanation": "It refers to net profit."
+    },
+    {
+     "question_text": "When reading a graph or chart described in a text, you should:",
+     "options": [
+      "Skip the numbers",
+      "Check the title, labels, units and trends before the details",
+      "Read the last line only",
+      "Ignore the labels"
+     ],
+     "correct_index": 1,
+     "explanation": "Look for patterns and comparisons."
+    },
+    {
+     "question_text": "To read an email chain efficiently, you should:",
+     "options": [
+      "Read only the first email",
+      "Ignore the chain",
+      "Start with the latest message and scan earlier ones for context",
+      "Read in random order"
+     ],
+     "correct_index": 2,
+     "explanation": "Check the subject and key actions."
+    },
+    {
+     "question_text": "Reading helps improve writing by:",
+     "options": [
+      "Exposing you to vocabulary, structures and styles",
+      "Reducing vocabulary",
+      "Replacing practice",
+      "Making you write less"
+     ],
+     "correct_index": 0,
+     "explanation": "Good readers learn good models."
+    },
+    {
+     "question_text": "The reliability of a source is evaluated by checking:",
+     "options": [
+      "Length",
+      "Colour",
+      "Font",
+      "Author credibility, publication, date, evidence and bias"
+     ],
+     "correct_index": 3,
+     "explanation": "Cross-check with other sources."
+    },
+    {
+     "question_text": "Bias in a text is:",
+     "options": [
+      "One-sided or prejudiced presentation; it can be detected by loaded words and missing viewpoints",
+      "A balanced view",
+      "A fact",
+      "A summary"
+     ],
+     "correct_index": 0,
+     "explanation": "Look for emotional language."
+    },
+    {
+     "question_text": "To read an editorial critically, you should:",
+     "options": [
+      "Accept everything",
+      "Identify the writer's position, evidence and possible bias",
+      "Skip it",
+      "Read the headline only"
+     ],
+     "correct_index": 1,
+     "explanation": "Editorials express opinions."
+    },
+    {
+     "question_text": "When facing an unfamiliar topic in a comprehension passage:",
+     "options": [
+      "Write about something else",
+      "Guess from memory",
+      "Rely on the text, not on prior knowledge, and use context to answer",
+      "Skip the passage"
+     ],
+     "correct_index": 2,
+     "explanation": "All answers are in the passage."
+    },
+    {
+     "question_text": "Regular reading is important for business students because it:",
+     "options": [
+      "Wastes time",
+      "Is unnecessary",
+      "Builds vocabulary, knowledge and analytical skills",
+      "Reduces knowledge"
+     ],
+     "correct_index": 2,
+     "explanation": "It also keeps them updated."
+    },
+    {
+     "question_text": "\"The shop opens at 9 am and closes at 8 pm, except on Sundays when it stays closed.\" The shop is closed on:",
+     "options": [
+      "Sundays",
+      "Every day",
+      "Mondays",
+      "Saturdays"
+     ],
+     "correct_index": 0,
+     "explanation": "The text states it directly."
+    },
+    {
+     "question_text": "Rs 2 lakh at 10% simple interest for two years gives interest of:",
+     "options": [
+      "Rs 4,000",
+      "Rs 40,000",
+      "Rs 42,000",
+      "Rs 20,000"
+     ],
+     "correct_index": 1,
+     "explanation": "2,00,000 × 10% × 2."
+    },
+    {
+     "question_text": "\"Our latest model is lighter, faster and cheaper than its predecessor\" is most likely:",
+     "options": [
+      "A poem",
+      "An advertisement or product description",
+      "A contract",
+      "A news report"
+     ],
+     "correct_index": 1,
+     "explanation": "It promotes a product."
+    },
+    {
+     "question_text": "The two aims of the new solar subsidy are:",
+     "options": [
+      "To close factories",
+      "To increase pollution and bills",
+      "To raise taxes and bills",
+      "To reduce electricity bills and cut carbon emissions"
+     ],
+     "correct_index": 3,
+     "explanation": "The passage states them."
+    },
+    {
+     "question_text": "\"Few employees attended the training, though it was mandatory\" implies that:",
+     "options": [
+      "Everyone attended",
+      "The training was cancelled",
+      "The training was optional",
+      "Many employees ignored a mandatory requirement"
+     ],
+     "correct_index": 3,
+     "explanation": "\"Few\" suggests low attendance."
+    },
+    {
+     "question_text": "The topic sentence in \"Teamwork improves results. Members share ideas, divide tasks and support each other.\" is:",
+     "options": [
+      "Members share ideas.",
+      "Support each other.",
+      "Teamwork improves results.",
+      "Divide tasks."
+     ],
+     "correct_index": 2,
+     "explanation": "The rest support it."
+    },
+    {
+     "question_text": "Headings and subheadings in a report:",
+     "options": [
+      "Are unnecessary",
+      "Make it longer",
+      "Hide the content",
+      "Show the structure and help readers find information quickly"
+     ],
+     "correct_index": 3,
+     "explanation": "They aid navigation."
+    },
+    {
+     "question_text": "To read a research abstract quickly, you should:",
+     "options": [
+      "Read the title only",
+      "Read every word slowly",
+      "Focus on the purpose, method, findings and conclusion",
+      "Skip it"
+     ],
+     "correct_index": 2,
+     "explanation": "The abstract summarises the study."
+    },
+    {
+     "question_text": "A main idea differs from a topic in that the main idea:",
+     "options": [
+      "Is the point the author makes about the topic, while the topic is the subject",
+      "Is the subject",
+      "Is a word",
+      "Is a title"
+     ],
+     "correct_index": 0,
+     "explanation": "Topic: \"teamwork\"; main idea: \"teamwork improves results\"."
+    },
+    {
+     "question_text": "Paraphrasing is:",
+     "options": [
+      "Summarising in one word",
+      "Quoting text",
+      "Restating text in your own words while keeping the meaning, e.g., \"The company is facing money problems\"",
+      "Copying text"
+     ],
+     "correct_index": 2,
+     "explanation": "It avoids plagiarism."
+    },
+    {
+     "question_text": "Signal words in a passage are:",
+     "options": [
+      "Titles",
+      "Page numbers",
+      "Words like \"however\", \"therefore\" and \"for example\" that show relationships between ideas",
+      "Names"
+     ],
+     "correct_index": 2,
+     "explanation": "They help in reading logic."
+    },
+    {
+     "question_text": "The sequence of events in a passage is:",
+     "options": [
+      "The topic",
+      "The title",
+      "The order in which events happen, shown by words like first, then, finally",
+      "The author"
+     ],
+     "correct_index": 2,
+     "explanation": "It matters in narratives and processes."
+    },
+    {
+     "question_text": "Reading aloud helps comprehension by:",
+     "options": [
+      "Skipping words",
+      "Reducing understanding",
+      "Making reading faster",
+      "Slowing down, focusing attention and helping with pronunciation and rhythm"
+     ],
+     "correct_index": 3,
+     "explanation": "It engages listening as well."
+    }
+   ]
+  }
+ ]
+}
