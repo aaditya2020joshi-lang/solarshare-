@@ -78,13 +78,7 @@ router.post(
     const note = noteRows[0];
     if (!note) return res.status(404).json({ error: 'Note not found.' });
 
-    const title = `Topic quiz – ${note.title}`;
-    const { rows: existing } = await pool.query(
-      'SELECT id FROM tests WHERE subject_id = $1 AND user_id = $2 AND title = $3',
-      [note.subject_id, req.userId, title]
-    );
-    if (existing[0]) return res.json({ test_id: existing[0].id });
-
+    const baseTitle = `Topic quiz – ${note.title}`;
     const cleanTitle = note.title.replace(/^[\d.]+\s*/, '');
     const titleStems = topicWords(cleanTitle, 8).filter((w) => !TITLE_GENERIC.has(w)).map(stem);
     const bodyStems = topicWords(note.content, 14).map(stem);
@@ -126,7 +120,36 @@ router.post(
       scored.push({ q, score: tHits * 10 + bHits * 2 + inUnit * 4 });
     }
     scored.sort((a, b) => b.score - a.score);
-    const picked = scored.slice(0, TOPIC_SIZE).map((x) => x.q);
+
+    // Questions used in earlier quizzes on this topic, so each press tries to bring new ones.
+    const likeBase = `${baseTitle.replace(/[\%_]/g, '\$&')}%`;
+    const { rows: oldTests } = await pool.query(
+      `SELECT t.id, (SELECT COUNT(*) FROM attempts a WHERE a.test_id = t.id)::int AS attempts
+       FROM tests t WHERE t.subject_id = $1 AND t.user_id = $2 AND t.title LIKE $3`,
+      [note.subject_id, req.userId, likeBase]
+    );
+    const usedBefore = new Set();
+    if (oldTests.length) {
+      const { rows: oldQs } = await pool.query(
+        'SELECT question_text FROM questions WHERE test_id = ANY($1::int[])',
+        [oldTests.map((t) => t.id)]
+      );
+      for (const r of oldQs) usedBefore.add(r.question_text.toLowerCase());
+    }
+
+    // Take the best-matching candidates, shuffle them, and put never-used questions first.
+    const shuffle = (arr) => {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i -= 1) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+    const candidates = shuffle(scored.slice(0, TOPIC_SIZE * 4).map((x) => x.q));
+    const fresh = candidates.filter((q) => !usedBefore.has(q.question_text.toLowerCase()));
+    const stale = candidates.filter((q) => usedBefore.has(q.question_text.toLowerCase()));
+    const picked = [...fresh, ...stale].slice(0, TOPIC_SIZE);
 
     // Topic is thinly covered: top up with questions from the same unit that share the note's key terms.
     if (picked.length < TOPIC_MIN && unit) {
@@ -149,15 +172,28 @@ router.post(
       return res.status(400).json({ error: 'Not enough questions on this topic yet. Try the unit tests instead.' });
     }
 
+    // Old unattempted quizzes on this topic are just clutter; attempted ones stay for the results history.
+    const unattempted = oldTests.filter((t) => t.attempts === 0).map((t) => t.id);
+    if (unattempted.length) {
+      await pool.query('DELETE FROM questions WHERE test_id = ANY($1::int[])', [unattempted]);
+      await pool.query('DELETE FROM tests WHERE id = ANY($1::int[])', [unattempted]);
+    }
+    const title = `${baseTitle} · Set ${oldTests.filter((t) => t.attempts > 0).length + 1}`;
+
     const { rows: created } = await pool.query(
       'INSERT INTO tests (subject_id, user_id, title, duration_minutes) VALUES ($1, $2, $3, $4) RETURNING id',
       [note.subject_id, req.userId, title, Math.max(10, picked.length)]
     );
-    for (let i = 0; i < picked.length; i += 1) {
-      const q = picked[i];
+    const ordered = shuffle(picked);
+    for (let i = 0; i < ordered.length; i += 1) {
+      const q = ordered[i];
+      const opts = JSON.parse(q.options);
+      const order = shuffle(opts.map((_, k) => k));
+      const newOptions = order.map((k) => opts[k]);
+      const newCorrect = order.indexOf(q.correct_index);
       await pool.query(
         'INSERT INTO questions (test_id, question_text, options, correct_index, explanation, order_index) VALUES ($1, $2, $3, $4, $5, $6)',
-        [created[0].id, q.question_text, q.options, q.correct_index, q.explanation, i]
+        [created[0].id, q.question_text, JSON.stringify(newOptions), newCorrect, q.explanation, i]
       );
     }
     res.json({ test_id: created[0].id, count: picked.length });
