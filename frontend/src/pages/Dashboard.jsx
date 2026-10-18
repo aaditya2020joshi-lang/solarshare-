@@ -54,13 +54,11 @@ export default function Dashboard() {
   const testCount = subjects.reduce((sum, s) => sum + s.test_count, 0);
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-10">
-      <div className="hidden xl:block fixed left-4 top-24 w-64 z-10">
+    <div className="max-w-6xl mx-auto px-4 py-10 lg:flex lg:gap-6 lg:items-start">
+      <div className="mb-6 lg:mb-0 lg:w-56 lg:shrink-0 lg:sticky lg:top-24">
         <SiteTime />
       </div>
-      <div className="xl:hidden mb-6">
-        <SiteTime />
-      </div>
+      <div className="min-w-0 flex-1">
       <h1 className="text-2xl font-display font-bold text-gray-900 dark:text-white mb-1">
         Welcome back{user?.name ? `, ${user.name}` : ''}
       </h1>
@@ -157,6 +155,7 @@ export default function Dashboard() {
 
       <div className="mt-10">
         <Leaderboard url="/leaderboard?limit=10" title="Leaderboard" />
+      </div>
       </div>
     </div>
   );
