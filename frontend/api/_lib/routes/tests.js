@@ -122,7 +122,7 @@ router.post(
     scored.sort((a, b) => b.score - a.score);
 
     // Questions used in earlier quizzes on this topic, so each press tries to bring new ones.
-    const likeBase = `${baseTitle.replace(/[\%_]/g, '\$&')}%`;
+    const likeBase = `${baseTitle.replace(/[\\%_]/g, '\\$&')}%`;
     const { rows: oldTests } = await pool.query(
       `SELECT t.id, (SELECT COUNT(*) FROM attempts a WHERE a.test_id = t.id)::int AS attempts
        FROM tests t WHERE t.subject_id = $1 AND t.user_id = $2 AND t.title LIKE $3`,
