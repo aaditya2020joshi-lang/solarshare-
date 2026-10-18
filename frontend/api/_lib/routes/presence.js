@@ -29,6 +29,13 @@ router.post(
          last_seen = now()`,
       [req.userId]
     );
+    // Keep a per-day record that mirrors today's counter, for the history view.
+    await pool.query(
+      `INSERT INTO site_time_daily (user_id, day, seconds)
+       SELECT user_id, today_date, today_seconds FROM site_time WHERE user_id = $1
+       ON CONFLICT (user_id, day) DO UPDATE SET seconds = EXCLUDED.seconds`,
+      [req.userId]
+    );
     res.json({ ok: true });
   })
 );
@@ -39,6 +46,20 @@ router.post(
   asyncHandler(async (req, res) => {
     await pool.query("UPDATE site_time SET last_seen = now() - interval '5 minutes' WHERE user_id = $1", [req.userId]);
     res.json({ ok: true });
+  })
+);
+
+router.get(
+  '/history',
+  asyncHandler(async (req, res) => {
+    const target = Number(req.query.user_id) || req.userId;
+    const { rows } = await pool.query(
+      `SELECT to_char(day, 'YYYY-MM-DD') AS day, seconds FROM site_time_daily
+       WHERE user_id = $1 AND day >= ${TODAY} - 59 ORDER BY day DESC`,
+      [target]
+    );
+    const { rows: who } = await pool.query('SELECT name FROM users WHERE id = $1', [target]);
+    res.json({ user_id: target, name: who[0]?.name || '', days: rows.map((r) => ({ day: r.day, seconds: Number(r.seconds) })) });
   })
 );
 

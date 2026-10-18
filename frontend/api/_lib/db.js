@@ -114,6 +114,13 @@ export function ensureSchema() {
         today_date DATE NOT NULL DEFAULT CURRENT_DATE,
         last_seen TIMESTAMPTZ NOT NULL DEFAULT now()
       );
+
+      CREATE TABLE IF NOT EXISTS site_time_daily (
+        user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+        day DATE NOT NULL,
+        seconds INTEGER NOT NULL DEFAULT 0,
+        PRIMARY KEY (user_id, day)
+      );
     `).then(() => true);
   }
   return schemaReady;
