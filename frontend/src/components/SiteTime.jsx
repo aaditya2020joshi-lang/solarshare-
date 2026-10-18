@@ -87,6 +87,10 @@ function fmtShort(totalSeconds) {
 
 export default function SiteTime() {
   const [historyFor, setHistoryFor] = useState(null);
+  const [users, setUsers] = useState([]);
+  const [me, setMe] = useState(null);
+  const [tick, setTick] = useState(0);
+  const [fetchedAt, setFetchedAt] = useState(Date.now());
 
   useEffect(() => {
     let alive = true;
