@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import NatureBackground from './components/NatureBackground';
 import ProtectedRoute from './components/ProtectedRoute';
 import AdminRoute from './components/AdminRoute';
 import Login from './pages/Login';
@@ -22,6 +23,7 @@ import NotFound from './pages/NotFound';
 export default function App() {
   return (
     <div className="min-h-screen transition-colors">
+      <NatureBackground />
       <Navbar />
       <Routes>
         <Route
