@@ -26,6 +26,7 @@ export default async function handler(req, res) {
 
   let sent = 0;
   for (const reminder of due) {
+    let delivered = false;
     try {
       await sendNotificationToUser(reminder.user_id, {
         title: reminder.title,
@@ -33,9 +34,14 @@ export default async function handler(req, res) {
         url: '/reminders',
       });
       sent += 1;
+      delivered = true;
     } catch (err) {
       console.error(`Failed to send reminder ${reminder.id}:`, err.message);
     }
+
+    // Keep retrying a failed send for 15 minutes, then give up so it does not loop forever.
+    const overdueMs = Date.now() - new Date(reminder.remind_at).getTime();
+    if (!delivered && overdueMs < 15 * 60 * 1000) continue;
 
     if (reminder.repeat === 'none') {
       await pool.query('UPDATE reminders SET sent = 1 WHERE id = $1', [reminder.id]);
