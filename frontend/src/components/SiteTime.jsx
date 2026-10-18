@@ -87,36 +87,6 @@ function fmtShort(totalSeconds) {
 
 export default function SiteTime() {
   const [historyFor, setHistoryFor] = useState(null);
-  const [editing, setEditing] = useState(null);
-  const [hrs, setHrs] = useState('');
-  const [mins, setMins] = useState('');
-  const [editError, setEditError] = useState('');
-
-  function setToday(u) {
-    const total = Math.floor(u.today_seconds / 60);
-    setHrs(String(Math.floor(total / 60)));
-    setMins(String(total % 60));
-    setEditError('');
-    setEditing(u);
-  }
-
-  async function saveToday(e) {
-    e.preventDefault();
-    const minutes = (Number(hrs) || 0) * 60 + (Number(mins) || 0);
-    try {
-      await client.post('/presence/set-today', { minutes });
-      const res = await client.get('/presence');
-      setUsers(res.data.users);
-      setFetchedAt(Date.now());
-      setEditing(null);
-    } catch (err) {
-      setEditError(err.response?.data?.error || 'Could not save.');
-    }
-  }
-  const [users, setUsers] = useState([]);
-  const [me, setMe] = useState(null);
-  const [tick, setTick] = useState(0);
-  const [fetchedAt, setFetchedAt] = useState(Date.now());
 
   useEffect(() => {
     let alive = true;
@@ -178,15 +148,6 @@ export default function SiteTime() {
               <div className="text-xs text-gray-500 mt-1">
                 Today{live ? ' · running' : notOpened ? '' : ' · stopped'} · Total {fmt(totalShown)}
               </div>
-              {u.id === me && (
-                <button
-                  type="button"
-                  onClick={() => setToday(u)}
-                  className="mt-2 mr-3 text-xs font-medium text-gray-600 dark:text-gray-400 hover:underline"
-                >
-                  Set today's time
-                </button>
-              )}
               <button
                 type="button"
                 onClick={() => setHistoryFor(u)}
@@ -194,40 +155,6 @@ export default function SiteTime() {
               >
                 History
               </button>
-              {editing && editing.id === u.id && (
-        <form onSubmit={saveToday} className="mt-2 rounded-xl border border-gray-200 dark:border-gray-800 p-3">
-          <div className="text-xs text-gray-500 mb-2">Set today's study time</div>
-          <div className="flex items-center gap-2 text-sm">
-            <input
-              type="number"
-              min="0"
-              max="24"
-              value={hrs}
-              onChange={(e) => setHrs(e.target.value)}
-              className="w-14 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 px-2 py-1 text-gray-900 dark:text-white"
-            />
-            <span className="text-gray-500">h</span>
-            <input
-              type="number"
-              min="0"
-              max="59"
-              value={mins}
-              onChange={(e) => setMins(e.target.value)}
-              className="w-14 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 px-2 py-1 text-gray-900 dark:text-white"
-            />
-            <span className="text-gray-500">m</span>
-          </div>
-          {editError && <p className="text-xs text-red-600 mt-1">{editError}</p>}
-          <div className="flex gap-2 mt-2">
-            <button type="submit" className="text-xs font-semibold text-white bg-brand-600 rounded-lg px-3 py-1">
-              Save
-            </button>
-            <button type="button" onClick={() => setEditing(null)} className="text-xs text-gray-500">
-              Cancel
-            </button>
-          </div>
-        </form>
-      )}
             </li>
           );
         })}
