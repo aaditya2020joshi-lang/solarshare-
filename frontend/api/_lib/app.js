@@ -13,6 +13,7 @@ import notesRoutes from './routes/notes.js';
 import leaderboardRoutes from './routes/leaderboard.js';
 import searchRoutes from './routes/search.js';
 import syllabusRoutes from './routes/syllabus.js';
+import presenceRoutes from './routes/presence.js';
 import askRoutes from './routes/ask.js';
 
 export const app = express();
@@ -35,6 +36,7 @@ app.use('/api/leaderboard', leaderboardRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/syllabus-search', syllabusRoutes);
 app.use('/api/ask', askRoutes);
+app.use('/api/presence', presenceRoutes);
 
 app.use((err, req, res, next) => {
   console.error(err);

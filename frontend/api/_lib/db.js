@@ -106,6 +106,14 @@ export function ensureSchema() {
         item_key TEXT NOT NULL,
         PRIMARY KEY (user_id, item_key)
       );
+
+      CREATE TABLE IF NOT EXISTS site_time (
+        user_id INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+        total_seconds INTEGER NOT NULL DEFAULT 0,
+        today_seconds INTEGER NOT NULL DEFAULT 0,
+        today_date DATE NOT NULL DEFAULT CURRENT_DATE,
+        last_seen TIMESTAMPTZ NOT NULL DEFAULT now()
+      );
     `).then(() => true);
   }
   return schemaReady;

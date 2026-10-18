@@ -5,6 +5,7 @@ import { useAuth } from '../context/AuthContext';
 import Spinner from '../components/Spinner';
 import Leaderboard from '../components/Leaderboard';
 import AskSyllabus from '../components/AskSyllabus';
+import SiteTime from '../components/SiteTime';
 import { computeStreak } from '../utils/celebrate';
 import { BookIcon, BellIcon, ClipboardIcon, ClockIcon } from '../components/icons';
 
@@ -54,6 +55,12 @@ export default function Dashboard() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
+      <div className="hidden xl:block fixed left-4 top-24 w-64 z-10">
+        <SiteTime />
+      </div>
+      <div className="xl:hidden mb-6">
+        <SiteTime />
+      </div>
       <h1 className="text-2xl font-display font-bold text-gray-900 dark:text-white mb-1">
         Welcome back{user?.name ? `, ${user.name}` : ''}
       </h1>
