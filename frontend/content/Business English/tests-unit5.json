@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 5: Business Etiquettes – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Etiquette differs from manners and protocol in that etiquette is:",
+     "question_text": "You are introducing your newly hired executive to a senior client at a conference. In standard business protocol, you should say:",
      "options": [
-      "A fashion",
-      "A tax",
-      "The accepted code of polite behaviour in a setting, while manners are personal habits of courtesy and protocol is formal rules for official occasions",
-      "A law"
-     ],
-     "correct_index": 2,
-     "explanation": "Protocol governs state and diplomatic events."
-    },
-    {
-     "question_text": "Business etiquette is:",
-     "options": [
-      "Legal rules only",
-      "Casual behaviour",
-      "The accepted standards of professional behaviour in the workplace",
-      "Social media rules"
-     ],
-     "correct_index": 2,
-     "explanation": "It covers greetings, dress, communication and meetings."
-    },
-    {
-     "question_text": "Business etiquette is important because it:",
-     "options": [
-      "Wastes time",
-      "Builds professional relationships, trust and a positive image",
-      "Is unnecessary",
-      "Increases conflict"
-     ],
-     "correct_index": 1,
-     "explanation": "It helps careers and company reputation."
-    },
-    {
-     "question_text": "A principle of business etiquette is:",
-     "options": [
-      "Respect, courtesy, punctuality and consideration for others",
-      "Ignoring others",
-      "Arrogance",
-      "Rudeness"
-     ],
-     "correct_index": 0,
-     "explanation": "Honesty and professionalism matter too."
-    },
-    {
-     "question_text": "A first impression is formed:",
-     "options": [
-      "After one year",
-      "After a week",
-      "After a month",
-      "Within the first few seconds (often cited as about 7 seconds) of meeting"
+      "\"This is Ms Rao and that is Mr Kapoor; please talk among yourselves.\"",
+      "\"Ms Rao, meet Mr Kapoor, our most important client.\"",
+      "\"Mr Kapoor, this is just one of our junior staff members.\"",
+      "\"Mr Kapoor, may I introduce Ms Rao, our new executive?\""
      ],
      "correct_index": 3,
-     "explanation": "It is hard to change later."
+     "explanation": "The more senior person is named first."
     },
     {
-     "question_text": "In a business setting, one should greet and introduce oneself by:",
+     "question_text": "Two senior colleagues from your firm and a client from another firm are to be introduced. The correct order is to introduce:",
      "options": [
-      "Hugging",
-      "Looking down",
-      "Staying silent",
-      "Smiling, making eye contact, offering a handshake and stating name and role clearly"
+      "The client to your colleagues, since they are senior in your firm",
+      "Your colleagues to the client, since the client is the guest of honour",
+      "Your juniors first, and then the client",
+      "All three simultaneously, leaving titles aside"
+     ],
+     "correct_index": 1,
+     "explanation": "Guest takes precedence."
+    },
+    {
+     "question_text": "During a visit to Japan, your host hands you his business card with both hands. The most respectful response is to:",
+     "options": [
+      "Take it with one hand and slip it into your back pocket",
+      "Write a note on it to remember the meeting",
+      "Accept it with both hands, study it briefly and place it respectfully before you",
+      "Glance at it and pass it to your assistant"
+     ],
+     "correct_index": 2,
+     "explanation": "Japanese card etiquette."
+    },
+    {
+     "question_text": "In a Western business setting, a good handshake is:",
+     "options": [
+      "Replaced by a bow in all the situations",
+      "Firm and brief, with eye contact",
+      "Very tight and long, to show strength",
+      "Gentle and prolonged, avoiding eye contact"
+     ],
+     "correct_index": 1,
+     "explanation": "Convention."
+    },
+    {
+     "question_text": "You meet a senior client for the first time at an Indian firm. The safest way to address him is by:",
+     "options": [
+      "First name, as it makes the meeting friendly",
+      "Title and surname, until he invites you to use the first name",
+      "His designation alone, without a name",
+      "A nickname, to show familiarity"
+     ],
+     "correct_index": 1,
+     "explanation": "Formal address first."
+    },
+    {
+     "question_text": "Your phone rings loudly while a client is presenting in an important meeting. The best response is to:",
+     "options": [
+      "Silence it at once, apologise briefly and return the call later",
+      "Answer it and tell the caller you will call back",
+      "Step out noisily and take the call at length",
+      "Let it ring out, as silencing it will draw more attention"
+     ],
+     "correct_index": 0,
+     "explanation": "Minimise disruption."
+    },
+    {
+     "question_text": "You expect an urgent call from your hospital during a meeting. The most considerate approach is to:",
+     "options": [
+      "Inform the chair beforehand, keep the phone on vibrate and step out if it rings",
+      "Skip the meeting without telling anyone",
+      "Put the phone on the table and answer it at the table",
+      "Keep the phone on loud, since it is urgent"
+     ],
+     "correct_index": 0,
+     "explanation": "Prior intimation."
+    },
+    {
+     "question_text": "You realise you will be 20 minutes late for an appointment with a client. You should:",
+     "options": [
+      "Call or message ahead to inform the client, apologise and give a new arrival time",
+      "Arrive and apologise briefly without any earlier notice",
+      "Send a message after the meeting is over",
+      "Cancel the meeting a few minutes before it starts"
+     ],
+     "correct_index": 0,
+     "explanation": "Advance courtesy."
+    },
+    {
+     "question_text": "In business, being punctual generally means arriving:",
+     "options": [
+      "On time or a few minutes early",
+      "Exactly when the senior person arrives",
+      "About fifteen minutes late to avoid the awkward waiting",
+      "Whenever you can finish your previous task"
+     ],
+     "correct_index": 0,
+     "explanation": "Respect for time."
+    },
+    {
+     "question_text": "You answer a call at your reception desk. The best greeting is:",
+     "options": [
+      "\"Good morning, Sunrise Traders, Priya speaking. How may I help you?\"",
+      "\"Hello, please tell me quickly what you need.\"",
+      "\"Yes? Who is this?\"",
+      "\"Sunrise Traders. Hold on.\""
+     ],
+     "correct_index": 0,
+     "explanation": "Identify the firm and yourself."
+    },
+    {
+     "question_text": "A caller asks for a colleague who is on leave. The best response is:",
+     "options": [
+      "\"Why are you calling him? Is it important?\"",
+      "\"He is on leave till Monday. May I take a message or connect you to someone else?\"",
+      "\"I do not know where he is. Try again some other time.\"",
+      "\"He is not here. Call later.\""
+     ],
+     "correct_index": 1,
+     "explanation": "Helpful."
+    },
+    {
+     "question_text": "Before transferring a call, you should:",
+     "options": [
+      "Ask the caller to call again on another number",
+      "Transfer it quietly so that the caller is not troubled",
+      "Tell the caller who you are transferring them to and why",
+      "Put the caller on hold for as long as it takes to find someone"
+     ],
+     "correct_index": 2,
+     "explanation": "Transparency."
+    },
+    {
+     "question_text": "You want to use the speakerphone for a call in an open-plan office. The best course is to:",
+     "options": [
+      "Use it freely, since the office is meant for working",
+      "Avoid it or move to a meeting room to avoid disturbing others",
+      "Use it at a low volume at your desk",
+      "Use it only if your call is not confidential"
+     ],
+     "correct_index": 1,
+     "explanation": "Consideration for others."
+    },
+    {
+     "question_text": "You receive a company-wide email and wish to confirm your attendance. You should:",
+     "options": [
+      "Reply to all, to show others that you are attending",
+      "Not reply at all since the email was addressed to many",
+      "Reply only to the sender, since others need not see your reply",
+      "Forward it to the HR and the CEO"
+     ],
+     "correct_index": 2,
+     "explanation": "Avoid unnecessary replies to all."
+    },
+    {
+     "question_text": "An email typed entirely in capital letters is generally read as:",
+     "options": [
+      "Extra emphasis on grammar",
+      "A formal tone",
+      "Shouting",
+      "Politeness"
+     ],
+     "correct_index": 2,
+     "explanation": "Netiquette."
+    },
+    {
+     "question_text": "You need to send a confidential salary file to your manager. The safest practice is to:",
+     "options": [
+      "Check the recipient's address and protect the file with a password",
+      "Copy the team to be transparent",
+      "Send it as a text message so that no record is kept",
+      "Send it from a personal account to avoid the company server"
+     ],
+     "correct_index": 0,
+     "explanation": "Confidentiality."
+    },
+    {
+     "question_text": "Which subject line best suits an email asking a client to approve a quotation?",
+     "options": [
+      "\"Hi – please see the attachment when you get time\"",
+      "\"URGENT!!! PLEASE READ THIS EMAIL IMMEDIATELY\"",
+      "\"Quotation sent as discussed over phone yesterday\"",
+      "\"Quotation for office furniture – approval needed by Friday\""
      ],
      "correct_index": 3,
-     "explanation": "Be polite and confident."
+     "explanation": "Specific, with action and date."
     },
     {
-     "question_text": "In introductions, the correct order is to introduce:",
+     "question_text": "Your email thread contains an internal comment criticising the client. Before forwarding the thread to the client, you should:",
      "options": [
-      "The senior to the junior",
-      "The junior to the senior and the colleague to the client",
-      "Everyone at once",
-      "The client to the colleague"
+      "Remove the internal comments and check that you are allowed to share the rest",
+      "Forward it and apologise only if the client objects",
+      "Forward it as it is, since it shows full transparency",
+      "Add the client's competitor in copy to be fair"
+     ],
+     "correct_index": 0,
+     "explanation": "Review before forwarding."
+    },
+    {
+     "question_text": "Your out-of-office auto-reply should preferably include:",
+     "options": [
+      "Your home address and personal phone number for any emergencies",
+      "The dates of absence and an alternative contact for urgent matters",
+      "Only the words \"I am away\" so that your privacy is protected",
+      "A detailed reason for your absence along with the place of travel"
      ],
      "correct_index": 1,
-     "explanation": "Mention the more important person's name first."
+     "explanation": "Helpfulness."
     },
     {
-     "question_text": "Business card etiquette is to:",
+     "question_text": "On a video call you should:",
      "options": [
-      "Give and receive cards with both hands, read them and keep them respectfully",
-      "Pocket them without looking",
-      "Write on them in front of the giver",
-      "Throw them"
+      "Mute the microphone when not speaking and look at the camera while speaking",
+      "Multitask in the background without letting others know",
+      "Switch off the camera without telling others",
+      "Keep the microphone on in order to participate freely"
      ],
      "correct_index": 0,
-     "explanation": "It is especially important in Japan."
+     "explanation": "Etiquette."
     },
     {
-     "question_text": "The right way to address colleagues and clients is:",
+     "question_text": "The most suitable background for a client video call is:",
      "options": [
-      "By appropriate titles and surnames until invited to use first names",
-      "By nicknames immediately",
-      "By shouting",
-      "By ignoring names"
-     ],
-     "correct_index": 0,
-     "explanation": "Follow the culture and hierarchy."
-    },
-    {
-     "question_text": "The importance of a handshake is that it:",
-     "options": [
-      "Is unimportant",
-      "Creates a positive first impression; it should be firm, brief and with eye contact",
-      "Should be limp",
-      "Should be very long"
-     ],
-     "correct_index": 1,
-     "explanation": "Always follow cultural norms."
-    },
-    {
-     "question_text": "Positive body language includes:",
-     "options": [
-      "Crossed arms",
-      "Looking away",
-      "Eye contact, a smile, open posture, nodding and a firm handshake",
-      "Slouching"
-     ],
-     "correct_index": 2,
-     "explanation": "Negative gestures include fidgeting and checking the phone."
-    },
-    {
-     "question_text": "Proxemics is:",
-     "options": [
-      "The study of personal space and distance in communication",
-      "The study of writing",
-      "The study of dress",
-      "The study of speech"
-     ],
-     "correct_index": 0,
-     "explanation": "Comfortable distance varies across cultures."
-    },
-    {
-     "question_text": "In high-context cultures such as Japan and India, communication is:",
-     "options": [
-      "Written only",
-      "Explicit",
-      "Indirect and relies on context, while low-context cultures like the US and Germany are direct and explicit",
-      "Direct"
-     ],
-     "correct_index": 2,
-     "explanation": "Understanding the difference avoids misunderstanding."
-    },
-    {
-     "question_text": "A tip for cross-cultural business etiquette is to:",
-     "options": [
-      "Ignore customs",
-      "Research the culture, respect customs, be patient and avoid assumptions",
-      "Assume everyone is the same",
-      "Use slang"
-     ],
-     "correct_index": 1,
-     "explanation": "Observe and adapt."
-    },
-    {
-     "question_text": "Punctuality differs across cultures in that:",
-     "options": [
-      "Germany and Japan expect strict punctuality, while some cultures are more relaxed about time",
-      "Late is always preferred",
-      "Nobody cares",
-      "All cultures are identical"
-     ],
-     "correct_index": 0,
-     "explanation": "It is best to be on time always."
-    },
-    {
-     "question_text": "A gift-giving etiquette is that in Japan, gifts are:",
-     "options": [
-      "Given without wrapping",
-      "Opened immediately",
-      "Thrown",
-      "Wrapped neatly and given and received with both hands"
+      "A cluttered room to show that you are working hard",
+      "A moving virtual background with a video playing",
+      "A busy kitchen so that it looks natural",
+      "A neutral, uncluttered wall or a plain virtual background"
      ],
      "correct_index": 3,
-     "explanation": "In China avoid clocks; in India avoid giving leather items to Hindus in some settings."
+     "explanation": "Professional look."
     },
     {
-     "question_text": "Email etiquette is:",
+     "question_text": "A meeting begins with the chair saying:",
      "options": [
-      "The accepted rules for writing professional emails, including tone, clarity and courtesy",
-      "Slang writing",
-      "Text speak",
-      "Casual writing"
-     ],
-     "correct_index": 0,
-     "explanation": "It includes subject lines, greetings and closings."
-    },
-    {
-     "question_text": "A good subject line is:",
-     "options": [
-      "Blank",
-      "Clear and specific, e.g., \"Meeting request: Project review on 15 Oct\"",
-      "\"Hi\"",
-      "\"Hello\""
-     ],
-     "correct_index": 1,
-     "explanation": "It tells the reader the purpose."
-    },
-    {
-     "question_text": "A formal email uses the salutation and closing:",
-     "options": [
-      "\"Sup,\" and \"Later,\"",
-      "\"Hey,\" and \"Bye,\"",
-      "\"Dear Mr Sharma,\" and \"Yours sincerely,\"",
-      "\"Yo,\" and \"Cheers,\""
-     ],
-     "correct_index": 2,
-     "explanation": "Use \"Dear Sir/Madam,\" when the name is unknown."
-    },
-    {
-     "question_text": "To, Cc and Bcc differ in that To is for _____, Cc for _____, and Bcc for _____:",
-     "options": [
-      "Main; hidden; informed",
-      "Informed; hidden; main",
-      "Main recipients; people to be informed; hidden recipients",
-      "Hidden recipients; main; informed"
-     ],
-     "correct_index": 2,
-     "explanation": "Bcc recipients are not visible to others."
-    },
-    {
-     "question_text": "\"Reply all\" should be used:",
-     "options": [
-      "Always",
-      "Only when everyone on the email needs the reply",
-      "For jokes",
-      "Never"
-     ],
-     "correct_index": 1,
-     "explanation": "Otherwise reply to the sender only."
-    },
-    {
-     "question_text": "ALL CAPS should be avoided in emails because:",
-     "options": [
-      "It looks like shouting and is rude",
-      "It is clear",
-      "It is polite",
-      "It is professional"
-     ],
-     "correct_index": 0,
-     "explanation": "Use normal capitalisation."
-    },
-    {
-     "question_text": "The ideal response time for business emails is:",
-     "options": [
-      "After a month",
-      "Never",
-      "Within 24 hours (one business day)",
-      "After a week"
-     ],
-     "correct_index": 2,
-     "explanation": "Acknowledge sooner if the answer will take time."
-    },
-    {
-     "question_text": "Attachments should be handled by:",
-     "options": [
-      "Sending unnamed files",
-      "Sending huge files always",
-      "Sending without mention",
-      "Naming files clearly, keeping sizes reasonable and mentioning them in the email"
+      "\"Let us begin with the item that is most interesting.\"",
+      "\"I forgot to prepare, so let us see how it goes.\"",
+      "\"Let us wait for everybody to arrive and talk about the weekend.\"",
+      "\"The purpose of this meeting is to approve the budget; our agenda has three items.\""
      ],
      "correct_index": 3,
-     "explanation": "Check that the attachment is included."
+     "explanation": "Set the objective."
     },
     {
-     "question_text": "An out-of-office reply is:",
+     "question_text": "A colleague is explaining a proposal and you notice a serious error. The best response is to:",
      "options": [
-      "A greeting",
-      "An automatic message informing senders that you are away and when you will respond",
-      "A complaint",
-      "A spam message"
+      "Whisper to a neighbour and laugh",
+      "Wait until they finish, then raise it politely with a question",
+      "Interrupt immediately and correct them in front of everyone",
+      "Say nothing and raise it with the director later"
      ],
      "correct_index": 1,
-     "explanation": "It may include an alternative contact."
+     "explanation": "Respect while correcting."
+    },
+    {
+     "question_text": "You strongly disagree with a colleague's idea at a meeting. The best approach is to:",
+     "options": [
+      "Acknowledge the point and explain your reasoning calmly with evidence",
+      "Raise your voice so that your objection is clear",
+      "Walk out of the meeting",
+      "Mock the idea to expose its weakness"
+     ],
+     "correct_index": 0,
+     "explanation": "Professional disagreement."
+    },
+    {
+     "question_text": "A client hands you a business card at the beginning of a meeting. The respectful action is to:",
+     "options": [
+      "Put it in your bag without looking at it",
+      "Read it carefully and place it on the table in front of you",
+      "Fold it and keep it in your pocket",
+      "Write the notes of the meeting on it"
+     ],
+     "correct_index": 1,
+     "explanation": "Respect for the person."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Business Etiquettes – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "In email tone, one should avoid:",
+     "question_text": "At the end of the meeting, you should pick up business cards received and:",
      "options": [
-      "Clarity",
-      "Politeness",
-      "Courtesy",
-      "Rude, emotional or sarcastic language"
+      "Leave them on the table for the cleaner",
+      "Put them in your back pocket",
+      "Place them carefully in a card holder",
+      "Throw away those you do not need"
+     ],
+     "correct_index": 2,
+     "explanation": "Respect."
+    },
+    {
+     "question_text": "At a business lunch, you should begin eating:",
+     "options": [
+      "After you finish a phone call",
+      "Immediately after your food is served",
+      "After the host begins or invites everyone to start",
+      "Before the guests to show appreciation"
+     ],
+     "correct_index": 2,
+     "explanation": "Dining etiquette."
+    },
+    {
+     "question_text": "At a formal dinner, the napkin should be:",
+     "options": [
+      "Used to clean the cutlery",
+      "Placed on the table before you sit",
+      "Placed on your lap after the host has done so",
+      "Tucked into the collar of your shirt"
+     ],
+     "correct_index": 2,
+     "explanation": "Table manners."
+    },
+    {
+     "question_text": "At a business dinner, the best time to start talking about business is:",
+     "options": [
+      "While the others are eating, so that the meeting is brief",
+      "As soon as you sit down, to show that you are keen",
+      "After the main course, or when the host raises the topic",
+      "Before the food is ordered, so that time is not wasted"
+     ],
+     "correct_index": 2,
+     "explanation": "Follow the host."
+    },
+    {
+     "question_text": "When dining with a client, the best choice from the menu is:",
+     "options": [
+      "The messiest dish that you like",
+      "The most expensive dish, to show you are enjoying yourself",
+      "Whatever is cheapest on the menu, whatever your taste",
+      "A moderately priced dish that is easy to eat"
      ],
      "correct_index": 3,
-     "explanation": "Always keep it professional."
+     "explanation": "Courtesy."
     },
     {
-     "question_text": "A suitable opening line for an email requesting a meeting with a client is:",
+     "question_text": "Your host says, \"Dinner is on me.\" You should:",
      "options": [
-      "\"I would like to request a meeting at your convenience to discuss the proposal.\"",
-      "\"You must meet me.\"",
-      "\"Meet me now.\"",
-      "\"I need your time.\""
+      "Insist on splitting the bill equally",
+      "Leave without a word of thanks",
+      "Thank him graciously and not argue about the bill",
+      "Examine the bill for errors"
      ],
-     "correct_index": 0,
-     "explanation": "It is polite and clear."
+     "correct_index": 2,
+     "explanation": "Grace."
     },
     {
-     "question_text": "A suitable opening line apologising for a delivery delay is:",
+     "question_text": "Which dress is most suitable for a first meeting with a client at a corporate office?",
      "options": [
-      "\"Wait.\"",
-      "\"We sincerely apologise for the delay in delivering your order.\"",
-      "\"Delivery is late, so what?\"",
-      "\"It isn't our fault.\""
+      "Smart-casual with sports shoes",
+      "Party wear with bright colours",
+      "Formal business attire in neutral colours",
+      "Whatever you wore the previous day"
+     ],
+     "correct_index": 2,
+     "explanation": "Professional appearance."
+    },
+    {
+     "question_text": "\"Business casual\" dress usually means:",
+     "options": [
+      "Ripped jeans and a printed T-shirt with a bold slogan on it",
+      "Beach clothes such as shorts and flip-flops with a plain shirt",
+      "Neat clothes such as a collared shirt and trousers, but not necessarily a suit",
+      "Formal evening wear such as a tuxedo or a long gown"
+     ],
+     "correct_index": 2,
+     "explanation": "Dress code."
+    },
+    {
+     "question_text": "Pointing at a person with a finger while speaking is generally regarded as:",
+     "options": [
+      "A formal gesture",
+      "Rude in many cultures",
+      "A sign of friendliness",
+      "A gesture of emphasis"
      ],
      "correct_index": 1,
-     "explanation": "It takes responsibility politely."
+     "explanation": "Body language."
     },
     {
-     "question_text": "A suitable opening line requesting three days' leave is:",
+     "question_text": "In India, greeting with folded hands (Namaste) in a business meeting is:",
      "options": [
-      "\"I would like to request leave from 10 to 12 October due to a family function.\"",
-      "\"Give me leave.\"",
-      "\"I am not coming.\"",
-      "\"I'm taking leave.\""
-     ],
-     "correct_index": 0,
-     "explanation": "It states dates and reason."
-    },
-    {
-     "question_text": "A suitable opening line thanking an interviewer is:",
-     "options": [
-      "\"Did I get it?\"",
-      "\"Call me.\"",
-      "\"Interview was long.\"",
-      "\"Thank you for taking the time to interview me for the position.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It is courteous."
-    },
-    {
-     "question_text": "A suitable opening line requesting a quotation from a vendor is:",
-     "options": [
-      "\"Kindly send us a quotation for the supply of 100 office chairs.\"",
-      "\"Cheap rates?\"",
-      "\"Send price.\"",
-      "\"Reply fast.\""
-     ],
-     "correct_index": 0,
-     "explanation": "It states the need clearly."
-    },
-    {
-     "question_text": "A suitable opening line complaining about a defective product is:",
-     "options": [
-      "\"Refund now.\"",
-      "\"I am angry.\"",
-      "\"Your product is garbage.\"",
-      "\"I am writing to inform you that the product I received on 5 October is defective.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It is factual and polite."
-    },
-    {
-     "question_text": "A suitable opening line announcing a team meeting is:",
-     "options": [
-      "\"Meeting!\"",
-      "\"Come on Monday.\"",
-      "\"There will be a team meeting on Monday at 10 am in the conference room.\"",
-      "\"Be there.\""
+      "A sign of weakness in negotiations",
+      "Appropriate only for religious events",
+      "Respectful and acceptable",
+      "An insult to the visitors"
      ],
      "correct_index": 2,
-     "explanation": "It gives date, time and place."
+     "explanation": "Cultural etiquette."
     },
     {
-     "question_text": "A suitable opening line declining a job offer politely is:",
+     "question_text": "In Japan, a bow when greeting is:",
      "options": [
-      "\"Not interested.\"",
-      "\"Your job is bad.\"",
-      "\"Thank you for the offer; after careful consideration, I regret to decline.\"",
-      "\"No.\""
+      "A sign of weakness",
+      "A rude gesture",
+      "An expression of anger",
+      "A common sign of respect"
+     ],
+     "correct_index": 3,
+     "explanation": "Cultural etiquette."
+    },
+    {
+     "question_text": "In several Middle Eastern cultures, offering something with the left hand is regarded as:",
+     "options": [
+      "Neutral",
+      "Respectful",
+      "Disrespectful",
+      "Formal"
      ],
      "correct_index": 2,
-     "explanation": "It is polite and clear."
+     "explanation": "Cultural etiquette."
     },
     {
-     "question_text": "A professional rewrite of \"hey, send me the report asap!!!\" is:",
+     "question_text": "When dealing with colleagues from a different culture, you should:",
      "options": [
-      "\"Dear Rohan, could you please send me the report by 5 pm today? Thank you.\"",
-      "\"HEY SEND REPORT!!!\"",
-      "\"Report?\"",
-      "\"Send now!\""
+      "Learn about their customs and show respect for them",
+      "Insist that they follow your customs",
+      "Joke about the customs to ease the tension",
+      "Ignore their customs, since business is universal"
      ],
      "correct_index": 0,
-     "explanation": "It is polite and specific."
+     "explanation": "Cultural sensitivity."
     },
     {
-     "question_text": "An improved subject line for \"Hi\" is:",
+     "question_text": "A \"high-context\" culture is one in which communication relies:",
      "options": [
-      "\"Request for budget approval: Marketing Q3\"",
-      "\"Hey\"",
-      "\"Hello\"",
-      "\"Urgent!!!\""
+      "Heavily on non-verbal cues, relationships and shared understanding",
+      "Entirely on explicit written words and clear instructions",
+      "On numbers and data alone",
+      "On loud and forceful speech"
      ],
      "correct_index": 0,
-     "explanation": "It tells the reader the purpose."
+     "explanation": "Edward Hall."
     },
     {
-     "question_text": "Netiquette means:",
+     "question_text": "In many Western countries, steady eye contact in a conversation signals:",
      "options": [
-      "Net profit",
-      "Rules of polite and responsible behaviour online, such as being respectful and avoiding spam",
-      "Net worth",
-      "Internet speed"
+      "Honesty and attention",
+      "Boredom",
+      "Disrespect",
+      "Aggression always"
+     ],
+     "correct_index": 0,
+     "explanation": "Cultural variation."
+    },
+    {
+     "question_text": "In most Western business settings, a comfortable personal distance in conversation is about:",
+     "options": [
+      "Sitting on the same chair",
+      "An arm's length",
+      "Ten metres",
+      "Face-to-face closeness"
      ],
      "correct_index": 1,
-     "explanation": "Think before you post."
+     "explanation": "Proxemics."
     },
     {
-     "question_text": "Professional social-media etiquette includes:",
+     "question_text": "A foreign client gives you an expensive gift. The right step is to:",
      "options": [
-      "Keeping posts respectful, avoiding confidential information and protecting your reputation",
-      "Posting private company data",
-      "Posting everything",
-      "Using abusive language"
-     ],
-     "correct_index": 0,
-     "explanation": "Employers may check profiles."
-    },
-    {
-     "question_text": "Telephone etiquette is:",
-     "options": [
-      "Shouting",
-      "Polite and professional behaviour on phone calls",
-      "Ignoring calls",
-      "Casual talk"
+      "Ask him how much it cost and offer to pay him back later",
+      "Be aware of the customs, thank him and follow your company's gift policy",
+      "Accept it silently and keep it to yourself without informing anyone",
+      "Refuse it rudely, saying that you do not accept any gifts at all"
      ],
      "correct_index": 1,
-     "explanation": "It includes greetings, listening and closing."
+     "explanation": "Gift policy."
     },
     {
-     "question_text": "A professional phone greeting is:",
+     "question_text": "Accepting expensive gifts from a supplier may create:",
      "options": [
-      "\"Who's this?\"",
-      "\"Yeah?\"",
-      "\"What do you want?\"",
-      "\"Good morning, ABC Company. This is Anita speaking. How may I help you?\""
+      "A holiday for the buyer",
+      "A discount",
+      "A bonus",
+      "A conflict of interest"
      ],
      "correct_index": 3,
-     "explanation": "It names the firm and speaker."
+     "explanation": "Ethics."
     },
     {
-     "question_text": "While making a business call, you should:",
+     "question_text": "You notice an error in a colleague's report. The best action is to:",
      "options": [
-      "Hang up",
-      "Shout",
-      "Start talking at once",
-      "Introduce yourself, state the purpose and ask if it is a convenient time"
+      "Post it on the team's group chat",
+      "Announce it in the next team meeting",
+      "Ignore it, as it is not your report",
+      "Tell the colleague privately and politely"
      ],
      "correct_index": 3,
-     "explanation": "Be brief and polite."
+     "explanation": "Discretion."
     },
     {
-     "question_text": "To put a caller on hold, you should:",
+     "question_text": "Gossiping about colleagues at the workplace tends to:",
      "options": [
-      "Hang up",
-      "Leave them silently",
-      "Ignore them",
-      "Ask permission, explain why and thank them for holding; when transferring, tell them who you are transferring to"
-     ],
-     "correct_index": 3,
-     "explanation": "Do not keep them waiting long."
-    },
-    {
-     "question_text": "While taking a message, note:",
-     "options": [
-      "Only the name",
-      "Nothing",
-      "Caller's name, number, time, purpose and the person it is for",
-      "The weather"
-     ],
-     "correct_index": 2,
-     "explanation": "Repeat the details to confirm."
-    },
-    {
-     "question_text": "To handle an angry caller:",
-     "options": [
-      "Shout back",
-      "Argue",
-      "Stay calm, listen, apologise where appropriate and offer a solution",
-      "Hang up"
-     ],
-     "correct_index": 2,
-     "explanation": "Do not take it personally."
-    },
-    {
-     "question_text": "A call should be closed by:",
-     "options": [
-      "Hanging up abruptly",
-      "Ignoring them",
-      "Summarising actions, thanking the caller and saying goodbye politely",
-      "Saying \"bye\" only"
-     ],
-     "correct_index": 2,
-     "explanation": "Let the caller end it if possible."
-    },
-    {
-     "question_text": "A suitable line from a receptionist to a visitor wanting to meet the manager is:",
-     "options": [
-      "\"He's busy.\"",
-      "\"I don't know.\"",
-      "\"Come tomorrow.\"",
-      "\"May I have your name and the purpose of your visit? I will check if he is available.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It is polite and helpful."
-    },
-    {
-     "question_text": "When taking a message for an absent manager, a suitable line is:",
-     "options": [
-      "\"Call later.\"",
-      "\"He isn't here.\"",
-      "\"I don't care.\"",
-      "\"Mr Rao is out of the office. May I take a message?\""
-     ],
-     "correct_index": 3,
-     "explanation": "It offers help."
-    },
-    {
-     "question_text": "Mobile phone etiquette in meetings is to:",
-     "options": [
-      "Take selfies",
-      "Play music",
-      "Switch the phone to silent and avoid using it",
-      "Answer calls loudly"
-     ],
-     "correct_index": 2,
-     "explanation": "If urgent, step out."
-    },
-    {
-     "question_text": "Dining etiquette is:",
-     "options": [
-      "Cooking skills",
-      "The set of manners to follow while eating, especially at formal and business meals",
-      "Eating alone",
-      "Eating fast"
+      "Help in networking",
+      "Damage trust and professionalism",
+      "Improve team spirit",
+      "Raise productivity"
      ],
      "correct_index": 1,
-     "explanation": "It includes table manners and conversation."
+     "explanation": "Workplace conduct."
     },
     {
-     "question_text": "Before a business dinner, one should:",
+     "question_text": "Taking credit for a colleague's work is:",
      "options": [
-      "Arrive on time, wait for the host to be seated and place the napkin on the lap",
-      "Start eating first",
-      "Order for others",
-      "Arrive late"
+      "Unethical and harms trust in the team",
+      "Acceptable if the manager does not mind",
+      "A clever way to build a career",
+      "A normal part of office life"
      ],
      "correct_index": 0,
-     "explanation": "Follow the host's lead."
+     "explanation": "Integrity."
+    },
+    {
+     "question_text": "You realise you made an error in a report that has already been sent to a client. The right course is to:",
+     "options": [
+      "Inform your manager and the client, apologise and send a corrected report",
+      "Blame a junior colleague for the error if the client complains",
+      "Hope that the client does not notice and say nothing about it",
+      "Resign from the job at once as you have lost the trust"
+     ],
+     "correct_index": 0,
+     "explanation": "Accountability."
+    },
+    {
+     "question_text": "You need a colleague's stapler. You should:",
+     "options": [
+      "Take it and keep it",
+      "Ask for permission and return it after use",
+      "Take it when he is away",
+      "Sell it to him"
+     ],
+     "correct_index": 1,
+     "explanation": "Respect."
+    },
+    {
+     "question_text": "Which of the following social media actions by an employee is appropriate?",
+     "options": [
+      "Posting details of a client's contract",
+      "Sharing internal documents",
+      "Criticising the manager on a public page",
+      "Not sharing the confidential company information"
+     ],
+     "correct_index": 3,
+     "explanation": "Social media policy."
+    },
+    {
+     "question_text": "Before posting a photo of your colleague on social media, you should:",
+     "options": [
+      "Tag their manager",
+      "Assume it is fine if it is a group photo",
+      "Post it first and delete later if asked",
+      "Take their permission"
+     ],
+     "correct_index": 3,
+     "explanation": "Privacy."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Business Etiquettes – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "At a formal table, cutlery is used:",
+     "question_text": "Your professional networking profile should have:",
      "options": [
-      "Only with hands",
-      "From the inside out",
-      "From the outside in, with the fork on the left and the knife on the right",
-      "Randomly"
-     ],
-     "correct_index": 2,
-     "explanation": "Dessert cutlery is placed above the plate."
-    },
-    {
-     "question_text": "BMW in table setting means:",
-     "options": [
-      "Bowl, Meal, Wine",
-      "Bread (left), Meal (centre), Water (right)",
-      "Bread, Milk, Wine",
-      "Butter, Meat, Water"
+      "Slightly exaggerated achievements to impress the recruiters",
+      "A clear, professional photograph and accurate information",
+      "A selfie taken at a party with friends and relatives",
+      "No personal information so that your privacy is protected"
      ],
      "correct_index": 1,
-     "explanation": "It helps remember where things are."
+     "explanation": "Personal branding."
     },
     {
-     "question_text": "Napkin and bread plate etiquette: the napkin goes _____ and the bread plate is on the _____:",
+     "question_text": "A stranger sends you a connection request on a professional network. A good practice is to:",
      "options": [
-      "On the table; right",
-      "On the plate; left",
-      "On your lap; left",
-      "On your shoulder; right"
+      "Block all unknown persons",
+      "Ignore all requests",
+      "Check their profile and accept if there is a genuine professional link",
+      "Accept all requests blindly to build numbers"
      ],
      "correct_index": 2,
-     "explanation": "Use your own bread plate."
+     "explanation": "Networking."
     },
     {
-     "question_text": "At a business lunch, one should order:",
+     "question_text": "After meeting a potential partner at a networking event, the best follow-up is:",
      "options": [
-      "Easy-to-eat, moderately priced dishes",
-      "Nothing ever",
-      "The most expensive dish",
-      "Messy food"
-     ],
-     "correct_index": 0,
-     "explanation": "Follow the host's suggestions."
-    },
-    {
-     "question_text": "Topics to avoid during a business meal include:",
-     "options": [
-      "Food",
-      "Politics, religion and personal problems",
-      "Weather",
-      "Business plans"
+      "A message after a year",
+      "A short personalised message within a day or two",
+      "A bulk message to all the contacts",
+      "No contact, to avoid disturbing him"
      ],
      "correct_index": 1,
-     "explanation": "Keep conversation light and appropriate."
+     "explanation": "Follow-up."
     },
     {
-     "question_text": "In a business meal, the bill is paid by:",
+     "question_text": "When leaving a job, it is professional to:",
      "options": [
-      "The guest",
-      "Everyone equally always",
-      "The youngest",
-      "The host (the person who invited)"
+      "Give proper notice, hand over your work and thank your colleagues",
+      "Criticise the company in a farewell email to all",
+      "Take the company files with you",
+      "Leave without notice"
+     ],
+     "correct_index": 0,
+     "explanation": "Exit etiquette."
+    },
+    {
+     "question_text": "In a lift, good manners include:",
+     "options": [
+      "Pushing in first so that the door does not close on you",
+      "Standing in the doorway to hold the lift for a friend",
+      "Taking a call loudly so that it ends before the floor",
+      "Letting people exit first and keeping conversation low"
      ],
      "correct_index": 3,
-     "explanation": "The guest should thank the host."
+     "explanation": "Courtesy."
     },
     {
-     "question_text": "To signal that you have finished eating, you should:",
+     "question_text": "When you pass a senior colleague in the corridor, the polite thing is to:",
      "options": [
-      "Push the plate away",
-      "Throw the napkin",
-      "Place the knife and fork together on the plate (parallel, like 4 o'clock)",
-      "Leave the table"
+      "Stare at them",
+      "Ignore them",
+      "Hurry away",
+      "Greet with a smile and a nod"
      ],
-     "correct_index": 2,
-     "explanation": "The waiter understands you are done."
+     "correct_index": 3,
+     "explanation": "Courtesy."
     },
     {
-     "question_text": "In an Indian professional dining setting, it is polite to:",
+     "question_text": "When you wish to enter a colleague's cabin, you should:",
      "options": [
-      "Wash hands, wait for elders to start and respect dietary preferences",
-      "Ignore preferences",
-      "Use the left hand for eating always",
-      "Eat first"
+      "Shout from the door",
+      "Sit down at once",
+      "Enter without a word",
+      "Knock or ask for permission before entering"
+     ],
+     "correct_index": 3,
+     "explanation": "Privacy."
+    },
+    {
+     "question_text": "In a shared office kitchen, good behaviour is to:",
+     "options": [
+      "Clean up after yourself",
+      "Take others' food",
+      "Leave food to rot in the fridge",
+      "Leave dishes in the sink for the staff"
      ],
      "correct_index": 0,
-     "explanation": "The right hand is used where customary."
+     "explanation": "Shared space."
     },
     {
-     "question_text": "Alcohol etiquette in business is to:",
+     "question_text": "Wearing strong perfume to the office is:",
      "options": [
-      "Drink moderately or decline politely, and never pressurise others",
-      "Mock non-drinkers",
-      "Drink heavily",
-      "Insist others drink"
+      "Best avoided, as it may bother others",
+      "Mandatory",
+      "A sign of professionalism",
+      "Encouraged"
      ],
      "correct_index": 0,
-     "explanation": "Follow company policy."
+     "explanation": "Consideration."
     },
     {
-     "question_text": "An office etiquette rule is to:",
+     "question_text": "Eating a meal at your desk while a client sits across the table is:",
      "options": [
-      "Be late",
-      "Be loud",
-      "Be punctual, respect colleagues' time and keep the workplace tidy",
-      "Gossip"
+      "Always acceptable",
+      "A sign of friendliness",
+      "Unprofessional",
+      "Required"
      ],
      "correct_index": 2,
-     "explanation": "Also dress appropriately and use shared items carefully."
+     "explanation": "Meeting etiquette."
     },
     {
-     "question_text": "Punctuality in the office shows:",
+     "question_text": "You disagree with your manager's decision. The best step is to:",
      "options": [
-      "Arrogance",
-      "Respect and reliability",
-      "Carelessness",
-      "Weakness"
+      "Post your complaint on social media",
+      "Complain to your colleagues",
+      "Refuse to work on the decision",
+      "Express your concerns privately and respectfully"
+     ],
+     "correct_index": 3,
+     "explanation": "Professional conduct."
+    },
+    {
+     "question_text": "An \"open door policy\" in an organisation means that:",
+     "options": [
+      "Only senior employees may enter",
+      "Employees may approach the manager freely with concerns",
+      "Employees must not enter the manager's room",
+      "The door must be kept physically open"
      ],
      "correct_index": 1,
-     "explanation": "Being late wastes others' time."
+     "explanation": "Access."
     },
     {
-     "question_text": "The best way to deal with office gossip is to:",
+     "question_text": "\"Netiquette\" refers to:",
      "options": [
-      "Spread it",
-      "Argue publicly",
-      "Avoid participating and not spread rumours",
-      "Encourage it"
+      "The rules to be followed while using the net banking",
+      "The laws relating to the crimes committed on the internet",
+      "The good manners to be followed while communicating online",
+      "The rules of fishing with nets as laid down by law"
      ],
      "correct_index": 2,
-     "explanation": "Stay professional."
+     "explanation": "Online etiquette."
     },
     {
-     "question_text": "The POSH Act is:",
+     "question_text": "You should put people in the \"CC\" field of an email when they:",
      "options": [
-      "The Personal Salary Act",
-      "The Public Office Safety Act",
-      "The Prevention of Sexual Harassment at Workplace Act, 2013",
-      "The Profit Share Act"
-     ],
-     "correct_index": 2,
-     "explanation": "It requires an Internal Committee."
-    },
-    {
-     "question_text": "Cubicle etiquette is:",
-     "options": [
-      "Shouting over the wall",
-      "Taking others' items",
-      "Keeping noise low and respecting neighbours' space",
-      "Playing loud music"
-     ],
-     "correct_index": 2,
-     "explanation": "Respect privacy."
-    },
-    {
-     "question_text": "An open-plan office rule is to:",
-     "options": [
-      "Eat smelly food",
-      "Take loud calls",
-      "Keep your voice down, use headphones and avoid strong smells",
-      "Shout"
-     ],
-     "correct_index": 2,
-     "explanation": "Be mindful of shared space."
-    },
-    {
-     "question_text": "In a cubicle, phone calls should be:",
-     "options": [
-      "Taken quietly or in a meeting room",
-      "Avoided entirely",
-      "Loud on speaker",
-      "Answered with music playing"
-     ],
-     "correct_index": 0,
-     "explanation": "It avoids disturbing others."
-    },
-    {
-     "question_text": "To respect others' privacy in a shared workspace, you should:",
-     "options": [
-      "Not read others' screens or papers and knock before entering",
-      "Enter without asking",
-      "Read their emails",
-      "Use their desk"
-     ],
-     "correct_index": 0,
-     "explanation": "Ask before borrowing."
-    },
-    {
-     "question_text": "Types of dress code include:",
-     "options": [
-      "Business formal, business casual, smart casual and casual",
-      "None",
-      "Only formal",
-      "Only casual"
-     ],
-     "correct_index": 0,
-     "explanation": "Follow the company's policy."
-    },
-    {
-     "question_text": "Business formal attire is:",
-     "options": [
-      "A suit with a tie or formal Indian wear, polished shoes and neat grooming",
-      "Shorts",
-      "Jeans",
-      "T-shirts"
-     ],
-     "correct_index": 0,
-     "explanation": "It is used in conservative settings."
-    },
-    {
-     "question_text": "Business casual is:",
-     "options": [
-      "Smart but relaxed clothing like trousers and a collared shirt without a tie",
-      "Pyjamas",
-      "Sportswear",
-      "Beachwear"
-     ],
-     "correct_index": 0,
-     "explanation": "Less formal than a suit."
-    },
-    {
-     "question_text": "For interview attire, choose:",
-     "options": [
-      "Torn jeans",
-      "Party wear",
-      "Flashy clothes",
-      "Clean, well-fitted, conservative clothes appropriate to the company"
+      "Are the main recipients",
+      "Are your competitors",
+      "Have to be kept unaware",
+      "Need to be informed, but need not act"
      ],
      "correct_index": 3,
-     "explanation": "When unsure, dress slightly more formally."
+     "explanation": "Information only."
     },
     {
-     "question_text": "For video calls, dress:",
+     "question_text": "\"BCC\" in an email is used to:",
      "options": [
-      "Without caring",
-      "In pyjamas",
-      "Professionally from head to toe and have a neat background",
-      "Casual"
+      "Block an email so that it is not delivered to a person",
+      "Mark an email as urgent so that it is read first",
+      "Send a copy without revealing the recipient to the others",
+      "Send a copy only to your boss as a confidential note"
      ],
      "correct_index": 2,
-     "explanation": "Treat it like an in-person meeting."
+     "explanation": "Privacy of recipients."
     },
     {
-     "question_text": "In office dressing, avoid:",
+     "question_text": "When inviting a client to a meeting, a good invitation includes:",
      "options": [
-      "Clothes that are too revealing, wrinkled, dirty or with offensive slogans",
-      "Clean clothes",
-      "Ironed clothes",
-      "Neat clothes"
+      "Only the venue",
+      "No details to keep it brief",
+      "Only the date and time",
+      "The date, time, venue and agenda"
+     ],
+     "correct_index": 3,
+     "explanation": "Planning."
+    },
+    {
+     "question_text": "The right way to end a business call is to:",
+     "options": [
+      "Put the receiver down hard",
+      "Say nothing and wait for the other person to hang up",
+      "Hang up abruptly",
+      "Thank the person, confirm the next steps and say goodbye politely"
+     ],
+     "correct_index": 3,
+     "explanation": "Closure."
+    },
+    {
+     "question_text": "If you cannot understand a caller's accent, you should:",
+     "options": [
+      "Laugh and ask him to speak in another language",
+      "Pretend to understand and guess the rest of the message",
+      "Politely ask the caller to repeat or to speak more slowly",
+      "Hang up and wait for the caller to call back again"
+     ],
+     "correct_index": 2,
+     "explanation": "Courtesy."
+    },
+    {
+     "question_text": "An angry customer calls to complain. The best response is to:",
+     "options": [
+      "Argue to defend the company",
+      "Listen calmly, apologise and offer a solution",
+      "Raise your voice to match his",
+      "Put the call on hold forever"
+     ],
+     "correct_index": 1,
+     "explanation": "Customer care."
+    },
+    {
+     "question_text": "The saying \"mind your Ps and Qs\" urges a person to:",
+     "options": [
+      "Keep the profit and quality",
+      "Be polite and mind one's manners",
+      "Check the price and quantity",
+      "Review proofs and queries"
+     ],
+     "correct_index": 1,
+     "explanation": "Manners."
+    },
+    {
+     "question_text": "Which statement is an example of tact?",
+     "options": [
+      "\"I am afraid we cannot approve this in its present form; may we suggest changes?\"",
+      "\"You will not understand the plan even if I explain it to you.\"",
+      "\"This plan is useless, and we cannot approve it in any form.\"",
+      "\"I do not wish to say anything about the plan at this stage.\""
      ],
      "correct_index": 0,
-     "explanation": "Dress to the setting."
+     "explanation": "Sensitive."
     },
     {
-     "question_text": "Dress influences perception because:",
+     "question_text": "A thank-you note after a job interview is best sent:",
      "options": [
-      "It has no effect",
-      "Nobody sees clothes",
-      "Clothes are irrelevant",
-      "People judge competence and professionalism partly by appearance"
+      "Within 24 hours",
+      "Only after receiving an offer",
+      "Never, as it may annoy the interviewer",
+      "After a month"
      ],
-     "correct_index": 3,
-     "explanation": "It affects first impressions."
+     "correct_index": 0,
+     "explanation": "Follow-up."
     },
     {
-     "question_text": "Meeting etiquette is:",
+     "question_text": "The interviewer is ten minutes late. A candidate should:",
      "options": [
-      "Casual chat",
-      "Using phones",
-      "Shouting",
-      "Polite behaviour before, during and after a meeting"
+      "Complain loudly to the staff",
+      "Leave at once",
+      "Call the CEO",
+      "Wait patiently and politely"
      ],
      "correct_index": 3,
-     "explanation": "It includes punctuality and listening."
+     "explanation": "Professional conduct."
+    },
+    {
+     "question_text": "The best response to \"What is your weakness?\" at an interview is to:",
+     "options": [
+      "Say that you have none",
+      "Say that you are a perfectionist and work too hard",
+      "Name a real area of improvement and say how you are working on it",
+      "Refuse to answer"
+     ],
+     "correct_index": 2,
+     "explanation": "Honest answer."
+    },
+    {
+     "question_text": "When meeting someone new, a good practice is to:",
+     "options": [
+      "Avoid using their name",
+      "Call them by the first name of someone you know",
+      "Use their name in the conversation to remember it",
+      "Ask them to repeat it several times"
+     ],
+     "correct_index": 2,
+     "explanation": "Rapport."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 5: Business Etiquettes – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "To prepare for a meeting, you should:",
+     "question_text": "Small talk before a meeting helps mainly to:",
      "options": [
-      "Read the agenda, prepare points and arrive on time",
-      "Arrive late",
-      "Ignore the agenda",
-      "Skip preparation"
-     ],
-     "correct_index": 0,
-     "explanation": "Bring required documents."
-    },
-    {
-     "question_text": "An agenda is:",
-     "options": [
-      "A list of topics to be discussed at a meeting with time and place",
-      "The minutes",
-      "A report",
-      "A summary"
-     ],
-     "correct_index": 0,
-     "explanation": "It is circulated in advance."
-    },
-    {
-     "question_text": "During a meeting, one should:",
-     "options": [
-      "Interrupt",
-      "Talk over others",
-      "Listen actively, speak when appropriate and avoid interrupting",
-      "Use the phone"
-     ],
-     "correct_index": 2,
-     "explanation": "Stay focused."
-    },
-    {
-     "question_text": "The role of the chairperson is to:",
-     "options": [
-      "Avoid decisions",
-      "Leave early",
-      "Conduct the meeting, keep to the agenda and ensure everyone gets a chance to speak",
-      "Take minutes only"
-     ],
-     "correct_index": 2,
-     "explanation": "They also summarise decisions."
-    },
-    {
-     "question_text": "Minutes of a meeting are:",
-     "options": [
-      "A report on sales",
-      "A written record of the discussion and decisions of a meeting",
-      "A speech",
-      "The agenda"
+      "Delay the decisions",
+      "Build rapport and ease the atmosphere",
+      "Hide the agenda",
+      "Waste time"
      ],
      "correct_index": 1,
-     "explanation": "They contain date, attendees, items and decisions."
+     "explanation": "Relationship."
     },
     {
-     "question_text": "Minutes should include:",
+     "question_text": "Which topic should be avoided in small talk with a new client?",
      "options": [
-      "Only jokes",
-      "Only names",
-      "Only a title",
-      "Date, time, place, attendees, decisions and action items"
+      "Religion and politics",
+      "The weather",
+      "Travel",
+      "A common interest such as cricket"
      ],
-     "correct_index": 3,
-     "explanation": "They should be concise and accurate."
+     "correct_index": 0,
+     "explanation": "Sensitive topics."
     },
     {
-     "question_text": "An agenda for a staff meeting typically includes:",
+     "question_text": "Offering your seat to a senior or an elderly colleague shows:",
      "options": [
-      "Nothing",
-      "Only a conclusion",
-      "Call to order, minutes of the last meeting, agenda items and any other business",
-      "Only gossip"
+      "Respect and consideration",
+      "Lack of confidence",
+      "Weakness",
+      "A wish to leave"
+     ],
+     "correct_index": 0,
+     "explanation": "Courtesy."
+    },
+    {
+     "question_text": "A first impression is mainly formed within:",
+     "options": [
+      "The first month",
+      "The first year",
+      "The first few seconds",
+      "The first meeting only"
      ],
      "correct_index": 2,
-     "explanation": "It ends with the next meeting date."
+     "explanation": "Primacy."
     },
     {
-     "question_text": "Virtual meeting etiquette includes:",
+     "question_text": "An invitation carries \"RSVP\". You should:",
      "options": [
-      "Multitasking openly",
-      "Joining on time, muting when not speaking and using the camera appropriately",
-      "Interrupting",
-      "Eating loudly"
+      "Reply only if you plan not to attend",
+      "Reply to say whether you will attend or not",
+      "Ignore it",
+      "Attend without telling"
      ],
      "correct_index": 1,
-     "explanation": "Test technology beforehand."
+     "explanation": "Respond."
     },
     {
-     "question_text": "A quorum is:",
+     "question_text": "\"Dress for the role you want\" at an interview suggests that you should:",
      "options": [
-      "The agenda",
-      "The chairperson",
-      "The minutes",
-      "The minimum number of members required to hold a valid meeting"
-     ],
-     "correct_index": 3,
-     "explanation": "Without it, decisions may not be valid."
-    },
-    {
-     "question_text": "To disagree politely in a meeting, say:",
-     "options": [
-      "\"I see it differently; may I share another perspective?\"",
-      "\"No.\"",
-      "\"That's silly.\"",
-      "\"You are wrong.\""
-     ],
-     "correct_index": 0,
-     "explanation": "Respect others' views."
-    },
-    {
-     "question_text": "To handle interruptions in a meeting, one should:",
-     "options": [
-      "Politely ask to finish the point or defer questions to the end",
-      "Ignore",
-      "Leave",
-      "Shout"
-     ],
-     "correct_index": 0,
-     "explanation": "Stay calm."
-    },
-    {
-     "question_text": "Lift etiquette is to:",
-     "options": [
-      "Push in",
-      "Block the door",
-      "Talk loudly",
-      "Let people exit first, press the floor politely and keep conversations quiet"
-     ],
-     "correct_index": 3,
-     "explanation": "Make room for others."
-    },
-    {
-     "question_text": "The etiquette for visiting a client's office is to:",
-     "options": [
-      "Arrive on time, greet the receptionist politely and dress professionally",
-      "Arrive late",
-      "Ignore staff",
-      "Dress casually"
-     ],
-     "correct_index": 0,
-     "explanation": "Follow the client's rules."
-    },
-    {
-     "question_text": "The etiquette for hosting a guest is to:",
-     "options": [
-      "Leave",
-      "Welcome warmly, offer refreshments and make them comfortable",
-      "Be rude",
-      "Ignore the guest"
+      "Wear a costume",
+      "Dress neatly and appropriately for the job",
+      "Wear the most expensive clothes you can buy",
+      "Wear sports clothes"
      ],
      "correct_index": 1,
-     "explanation": "Be attentive."
+     "explanation": "Appearance."
     },
     {
-     "question_text": "At networking events, one should:",
+     "question_text": "A hand-written thank-you note after receiving a favour from a client is:",
      "options": [
-      "Introduce yourself, listen actively and follow up afterwards",
-      "Push business cards on everyone",
-      "Stay on the phone",
-      "Avoid talking"
-     ],
-     "correct_index": 0,
-     "explanation": "Be genuine."
-    },
-    {
-     "question_text": "A thank-you note is important because it:",
-     "options": [
-      "Shows appreciation and builds relationships",
-      "Is rude",
-      "Is unnecessary",
-      "Wastes time"
-     ],
-     "correct_index": 0,
-     "explanation": "Send it promptly."
-    },
-    {
-     "question_text": "Criticism should be handled professionally by:",
-     "options": [
-      "Retaliating",
-      "Arguing",
-      "Ignoring it",
-      "Listening calmly, not reacting emotionally and learning from it"
-     ],
-     "correct_index": 3,
-     "explanation": "Seek feedback to improve."
-    },
-    {
-     "question_text": "Business travel etiquette includes:",
-     "options": [
-      "Being loud",
-      "Ignoring customs",
-      "Being late",
-      "Being punctual, respecting local customs and keeping a professional image"
-     ],
-     "correct_index": 3,
-     "explanation": "Pack appropriately."
-    },
-    {
-     "question_text": "Good etiquette can help your career by:",
-     "options": [
-      "Building trust, relationships and a positive reputation",
-      "Reducing opportunities",
-      "Having no effect",
-      "Creating conflict"
-     ],
-     "correct_index": 0,
-     "explanation": "People prefer working with courteous colleagues."
-    },
-    {
-     "question_text": "In gift exchange etiquette in business, one should:",
-     "options": [
-      "Give secretly",
-      "Follow company policy, choose appropriate modest gifts and avoid anything that looks like a bribe",
-      "Demand gifts",
-      "Give expensive gifts always"
+      "Outdated",
+      "A thoughtful gesture",
+      "Rude",
+      "Unprofessional"
      ],
      "correct_index": 1,
-     "explanation": "Check cultural norms."
+     "explanation": "Gratitude."
     },
     {
-     "question_text": "The etiquette for a job interview is to:",
+     "question_text": "Two participants start talking at once in a meeting. The chair should:",
      "options": [
-      "Arrive early, dress well, be polite and prepared, and thank the interviewer",
-      "Interrupt",
-      "Arrive late",
-      "Dress casually"
-     ],
-     "correct_index": 0,
-     "explanation": "Maintain eye contact."
-    },
-    {
-     "question_text": "A suitable line to decline a meeting invitation politely is:",
-     "options": [
-      "\"Meetings are useless.\"",
-      "\"I won't come.\"",
-      "\"No time.\"",
-      "\"Thank you for the invitation; unfortunately I have a prior commitment and cannot attend.\""
+      "Ask both of them to leave the room till they calm down",
+      "Raise his voice to silence both of them at once",
+      "Ignore both of them and move on to the next item",
+      "Politely give the floor to one and ask the other to wait"
      ],
      "correct_index": 3,
-     "explanation": "It is polite and gives a reason."
+     "explanation": "Facilitation."
     },
     {
-     "question_text": "A suitable line to follow up on a pending payment is:",
+     "question_text": "A misunderstanding develops by email. The best step is to:",
      "options": [
-      "\"Where is my money?\"",
-      "\"Pay now or else.\"",
-      "\"This is a gentle reminder that invoice 123 dated 5 October is yet to be paid.\"",
-      "\"You are cheating.\""
+      "Copy the boss on every message",
+      "Ignore it",
+      "Send an angry email",
+      "Call or meet to clear it up"
+     ],
+     "correct_index": 3,
+     "explanation": "Resolve quickly."
+    },
+    {
+     "question_text": "An effective apology at work is:",
+     "options": [
+      "Vague and delayed",
+      "Sarcastic",
+      "Sincere, specific and followed by corrective action",
+      "Given through a third person"
      ],
      "correct_index": 2,
-     "explanation": "It is firm but polite."
+     "explanation": "Genuine."
     },
     {
-     "question_text": "A formal email differs from an informal email in that a formal email:",
+     "question_text": "In a team meeting a quiet member should be:",
      "options": [
-      "Has no structure",
-      "Uses emojis",
-      "Uses slang",
-      "Uses polite, standard language and structure, e.g., \"Dear Sir\", while an informal one is casual, e.g., \"Hi Raj\""
+      "Encouraged to share their views",
+      "Ignored",
+      "Mocked",
+      "Asked to leave"
      ],
-     "correct_index": 3,
-     "explanation": "Choose by audience."
+     "correct_index": 0,
+     "explanation": "Inclusion."
     },
     {
-     "question_text": "A common etiquette mistake made by new employees is:",
+     "question_text": "An employee wishing to go on leave should:",
      "options": [
-      "Being polite",
-      "Being punctual",
-      "Being prepared",
-      "Being late, using phones in meetings or being unfamiliar with norms"
+      "Just stay away",
+      "Ask a colleague to inform for him",
+      "Inform after returning",
+      "Apply in advance and arrange the handover of work"
      ],
      "correct_index": 3,
-     "explanation": "Observe and learn the workplace culture."
+     "explanation": "Responsibility."
+    },
+    {
+     "question_text": "Taking long personal calls during working hours is:",
+     "options": [
+      "Required",
+      "Unprofessional unless unavoidable",
+      "Encouraged",
+      "Standard"
+     ],
+     "correct_index": 1,
+     "explanation": "Time use."
+    },
+    {
+     "question_text": "The business expression \"touch base\" means to:",
+     "options": [
+      "Cancel a meeting",
+      "Play baseball",
+      "Make brief contact to check in",
+      "Sign a contract"
+     ],
+     "correct_index": 2,
+     "explanation": "Jargon."
+    },
+    {
+     "question_text": "\"Please find attached\" in an email means that:",
+     "options": [
+      "A file is missing",
+      "A file is private",
+      "A file is deleted",
+      "A file is attached to the email"
+     ],
+     "correct_index": 3,
+     "explanation": "Phrase."
+    },
+    {
+     "question_text": "A client emails a complaint. The best first response is to:",
+     "options": [
+      "Forward it to a competitor to show how fair you are",
+      "Acknowledge it promptly and assure the client it is being looked into",
+      "Defend yourself aggressively and explain why the client is wrong",
+      "Ignore it till the client sends a reminder and a legal notice"
+     ],
+     "correct_index": 1,
+     "explanation": "Prompt."
+    },
+    {
+     "question_text": "Good behaviour in a virtual meeting includes:",
+     "options": [
+      "Joining on time, dressing appropriately and not multitasking",
+      "Wearing nightwear since the camera shows only your face",
+      "Joining a few minutes late to avoid waiting for the others",
+      "Browsing other pages during the call to save your time"
+     ],
+     "correct_index": 0,
+     "explanation": "Online meetings."
+    },
+    {
+     "question_text": "A colleague's \"Do not disturb\" status should be respected unless:",
+     "options": [
+      "You want to chat",
+      "You need a joke",
+      "You are bored",
+      "There is a genuine emergency"
+     ],
+     "correct_index": 3,
+     "explanation": "Boundaries."
+    },
+    {
+     "question_text": "When you have to refuse a client's request, you should:",
+     "options": [
+      "Refuse rudely, so that the client does not ask again",
+      "Refuse without a reason, to save time for both of you",
+      "Refuse politely, give the reason and offer an alternative if possible",
+      "Ignore the request, in the hope that the client forgets it"
+     ],
+     "correct_index": 2,
+     "explanation": "Tact."
+    },
+    {
+     "question_text": "One good way to show respect for colleagues' time is to:",
+     "options": [
+      "Come a little late so that everyone else has arrived",
+      "Talk about the matters that are off the agenda",
+      "Overrun the time slot so that every point is covered",
+      "Come prepared to meetings and keep to the agenda"
+     ],
+     "correct_index": 3,
+     "explanation": "Respect."
+    },
+    {
+     "question_text": "A person who offers to help a new colleague without being asked displays:",
+     "options": [
+      "Laziness",
+      "Initiative and courtesy",
+      "Ignorance",
+      "Interference"
+     ],
+     "correct_index": 1,
+     "explanation": "Goodwill."
+    },
+    {
+     "question_text": "Good practice for workplace emails includes:",
+     "options": [
+      "Typing in capitals",
+      "Leaving the subject line blank",
+      "Using slang",
+      "Proofreading before sending"
+     ],
+     "correct_index": 3,
+     "explanation": "Quality."
+    },
+    {
+     "question_text": "Using a colleague's computer without permission is:",
+     "options": [
+      "Required when the colleague is on leave for a day",
+      "Friendly, because it shows trust among the colleagues",
+      "A breach of etiquette and possibly of company policy",
+      "Allowed if the colleague is a friend of yours in the firm"
+     ],
+     "correct_index": 2,
+     "explanation": "Privacy."
+    },
+    {
+     "question_text": "When you do not wish to take an alcoholic drink at a business function, the polite approach is to:",
+     "options": [
+      "Simply say, \"No, thank you,\" without making an issue",
+      "Leave the function",
+      "Pretend to drink",
+      "Explain at length why you do not drink"
+     ],
+     "correct_index": 0,
+     "explanation": "Choice."
+    },
+    {
+     "question_text": "The ultimate purpose of business etiquette is to:",
+     "options": [
+      "Build respect, trust and good relationships",
+      "Impress people with wealth",
+      "Waste time",
+      "Gain control over others"
+     ],
+     "correct_index": 0,
+     "explanation": "Goal."
     }
    ]
   }

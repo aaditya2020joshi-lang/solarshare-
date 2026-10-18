@@ -1,1126 +1,1130 @@
 {
  "tests": [
   {
+   "rev": 2,
    "title": "Unit 8: Project Presentation – Practice Test 1",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A presentation is:",
+     "question_text": "Before preparing a project presentation, the first thing a presenter should establish is the:",
      "options": [
-      "A structured delivery of information to an audience, usually with visual aids, to inform, persuade or train",
-      "A letter",
-      "A written report only",
-      "A private conversation"
+      "Font to be used on the title slide",
+      "Colour scheme to be used in the template",
+      "Purpose and the audience of the presentation",
+      "Number of slides to be shown on the day"
+     ],
+     "correct_index": 2,
+     "explanation": "Audience analysis."
+    },
+    {
+     "question_text": "A presenter has to present a project to senior managers who have only ten minutes. The most appropriate approach is to:",
+     "options": [
+      "Lead with the conclusion and recommendation and support it briefly",
+      "Spend most of the time on the methodology of the study",
+      "Show all the data collected, leaving the managers to draw their conclusions",
+      "Begin with the history of the subject and go through every detail"
      ],
      "correct_index": 0,
-     "explanation": "Its purposes include informing, persuading, motivating and training."
+     "explanation": "Executives want the bottom line."
     },
     {
-     "question_text": "The first step in planning a presentation is to:",
+     "question_text": "A presentation to a technical audience of engineers differs from one to the board of directors in that the former can:",
      "options": [
-      "Define the purpose and analyse the audience",
-      "Practise",
-      "Design the slides",
-      "Print handouts"
+      "Leave out the data and graphs",
+      "Include more technical detail and terminology",
+      "Skip the conclusion",
+      "Avoid explaining the method used"
+     ],
+     "correct_index": 1,
+     "explanation": "Match depth to audience."
+    },
+    {
+     "question_text": "A typical structure for a project presentation is:",
+     "options": [
+      "Introduction, objectives, method, findings, conclusion and recommendations",
+      "Conclusion, thanks, findings, method, introduction and objectives",
+      "Method, anecdotes, thanks, objectives, apology and the conclusion",
+      "Findings, apology, objectives, thanks, conclusion and recommendations"
      ],
      "correct_index": 0,
-     "explanation": "Then organise content, design visuals and rehearse."
+     "explanation": "Logical flow."
     },
     {
-     "question_text": "Audience analysis is important because:",
+     "question_text": "The \"objective\" slide in a project presentation should:",
      "options": [
-      "It confuses the speaker",
-      "It is unnecessary",
-      "It shortens the talk",
-      "It lets you tailor content, language and examples to their needs and knowledge"
-     ],
-     "correct_index": 3,
-     "explanation": "Different audiences need different approaches."
-    },
-    {
-     "question_text": "The purpose and objectives of a presentation should be defined as:",
-     "options": [
-      "Personal opinions",
-      "Unrelated ideas",
-      "Vague statements",
-      "Clear, specific and measurable statements of what you want the audience to know, feel or do"
-     ],
-     "correct_index": 3,
-     "explanation": "SMART objectives help."
-    },
-    {
-     "question_text": "Content should be organised:",
-     "options": [
-      "In reverse",
-      "Logically with a clear opening, body and closing, with key points in order",
-      "Randomly",
-      "Without structure"
+      "Show the full text of the report",
+      "State clearly what the project set out to achieve",
+      "List the names of all the team members' families",
+      "Describe the weather on the day of the study"
      ],
      "correct_index": 1,
-     "explanation": "Use a clear flow."
+     "explanation": "Purpose."
     },
     {
-     "question_text": "The rule of three in presentations means:",
+     "question_text": "The best number of key messages for a short presentation is generally:",
      "options": [
-      "Use three slides",
-      "Use three colours",
-      "Speak three minutes",
-      "People remember ideas best in groups of three, so structure key points in threes"
+      "As many as the speaker can recall",
+      "Twenty-five",
+      "Fifteen or more",
+      "Three or fewer"
      ],
      "correct_index": 3,
-     "explanation": "E.g., \"tell them what you'll say, say it, summarise.\""
+     "explanation": "Focus."
     },
     {
-     "question_text": "A common guideline for slide timing is:",
+     "question_text": "A general guideline for slides is that each slide should carry:",
      "options": [
-      "Ten seconds per slide",
-      "About one to two minutes per slide",
-      "One hour per slide",
-      "Ten minutes per slide"
+      "The complete speech of the presenter",
+      "A different idea in each corner",
+      "One main idea with limited text",
+      "Several paragraphs of text copied from the report"
+     ],
+     "correct_index": 2,
+     "explanation": "Clarity."
+    },
+    {
+     "question_text": "A commonly suggested minimum font size for readable slides is about:",
+     "options": [
+      "12 points for body text",
+      "24 points for body text",
+      "8 points for body text",
+      "10 points for body text"
      ],
      "correct_index": 1,
-     "explanation": "Avoid too many slides."
+     "explanation": "Visibility."
     },
     {
-     "question_text": "A common division of time is:",
+     "question_text": "The \"6x6 rule\" for slides suggests:",
      "options": [
-      "50% opening",
-      "About 10–15% opening, 70–75% body and 10–15% closing",
-      "Equal thirds always",
-      "80% closing"
+      "Six slides for every six minutes of the speaking time",
+      "Six colours with six fonts used consistently in a deck",
+      "No more than six bullet points with no more than six words each",
+      "Six speakers with six slides each in a team presentation"
+     ],
+     "correct_index": 2,
+     "explanation": "Brevity guideline."
+    },
+    {
+     "question_text": "Which slide design helps the audience read most easily?",
+     "options": [
+      "Yellow text on a white background for a bright look",
+      "Dark text on a light background, or the reverse, with strong contrast",
+      "Light grey text on a white background for a soft look",
+      "Red text on a green background to attract attention"
      ],
      "correct_index": 1,
-     "explanation": "The body gets most of the time."
+     "explanation": "Contrast."
     },
     {
-     "question_text": "A project presentation is:",
+     "question_text": "For showing the change in sales over five years, the most suitable chart is a:",
      "options": [
-      "A presentation of the work, findings and conclusions of a project, e.g., a survey on digital payments",
-      "A song",
-      "A casual chat",
-      "A game"
+      "Table with no heading",
+      "Pie chart",
+      "Line chart",
+      "Scatter plot with no axes"
+     ],
+     "correct_index": 2,
+     "explanation": "Trend over time."
+    },
+    {
+     "question_text": "For showing the share of each product in total sales in one year, the most suitable chart is a:",
+     "options": [
+      "Histogram of ages",
+      "Line chart over five years",
+      "Scatter plot of prices",
+      "Pie chart or a stacked bar"
+     ],
+     "correct_index": 3,
+     "explanation": "Parts of a whole."
+    },
+    {
+     "question_text": "For comparing the sales of five regions in one year, the most suitable chart is a:",
+     "options": [
+      "Bar chart",
+      "Pie chart with thirty slices",
+      "Line chart with a single point",
+      "Radar chart with no labels"
      ],
      "correct_index": 0,
-     "explanation": "It is common in academic and business settings."
+     "explanation": "Comparison across categories."
     },
     {
-     "question_text": "The standard structure of a presentation is:",
+     "question_text": "A chart in a presentation should always have:",
      "options": [
-      "Title only",
-      "Body only",
-      "Opening, body and closing",
-      "Closing only"
+      "The raw data table printed in small type below it",
+      "3D effects that make every chart look attractive",
+      "A clear title, labelled axes and a legend where needed",
+      "Only decorative colours chosen to match the company logo"
      ],
      "correct_index": 2,
-     "explanation": "Opening introduces, body develops, closing summarises."
+     "explanation": "Readability."
     },
     {
-     "question_text": "Elements of a good opening include:",
+     "question_text": "A pie chart is a poor choice when:",
      "options": [
-      "A greeting, hook, introduction of self and topic, objective and agenda",
-      "Reading slides",
-      "A long apology",
-      "A joke only"
-     ],
-     "correct_index": 0,
-     "explanation": "It captures attention quickly."
-    },
-    {
-     "question_text": "Ways to begin a presentation include:",
-     "options": [
-      "Reading the title only",
-      "Silence only",
-      "A question, a story, a statistic, a quotation or a bold statement",
-      "Apologising"
-     ],
-     "correct_index": 2,
-     "explanation": "These are common hooks."
-    },
-    {
-     "question_text": "A hook is:",
-     "options": [
-      "A conclusion",
-      "A slide",
-      "An attention-grabbing opening, e.g., \"Did you know 9 out of 10 online frauds start with a link?\"",
-      "A summary"
-     ],
-     "correct_index": 2,
-     "explanation": "It makes the audience want to listen."
-    },
-    {
-     "question_text": "An agenda slide:",
-     "options": [
-      "Shows the title",
-      "Lists references",
-      "Gives the conclusion",
-      "Outlines the topics that will be covered in the presentation"
-     ],
-     "correct_index": 3,
-     "explanation": "It helps the audience follow the structure."
-    },
-    {
-     "question_text": "The body of a presentation should include:",
-     "options": [
-      "Only opinions",
-      "Key points supported by evidence, examples and visuals in logical order",
-      "Irrelevant jokes",
-      "Only references"
+      "The audience wants to see the share of each part",
+      "There are many small categories that are hard to compare",
+      "There are only two or three categories to be compared",
+      "The parts of the chart add up to 100 per cent"
      ],
      "correct_index": 1,
-     "explanation": "Keep it focused on the objectives."
+     "explanation": "Too many slices."
     },
     {
-     "question_text": "Transitions are:",
+     "question_text": "A \"call to action\" at the end of a presentation tells the audience:",
      "options": [
-      "Fonts",
-      "Slide animations only",
-      "Titles",
-      "Words or phrases that link ideas or sections, e.g., \"Moving on to…\", \"Next…\", \"In contrast…\", \"As a result…\", \"To summarise…\""
-     ],
-     "correct_index": 3,
-     "explanation": "They help the audience follow."
-    },
-    {
-     "question_text": "A presentation should be concluded by:",
-     "options": [
-      "Apologising",
-      "Fading out",
-      "Introducing new points",
-      "Summarising key points, restating the main message and ending with a call to action or strong closing"
-     ],
-     "correct_index": 3,
-     "explanation": "Leave a lasting impression."
-    },
-    {
-     "question_text": "A call to action is:",
-     "options": [
-      "A question",
-      "A summary",
-      "A quote",
-      "A request that tells the audience what to do next, e.g., \"Start a SIP today.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It turns information into action."
-    },
-    {
-     "question_text": "A suitable slide-by-slide outline for \"Analysing UPI Adoption among College Students\" is:",
-     "options": [
-      "Title; conclusion; title",
-      "Findings only",
-      "Title; objectives; methodology; findings; analysis; conclusion and recommendations; references",
-      "References only"
+      "The list of the references",
+      "The name of the presenter",
+      "What you want them to do next",
+      "The time of the next break"
      ],
      "correct_index": 2,
-     "explanation": "It follows a standard project format."
+     "explanation": "Closing."
     },
     {
-     "question_text": "A suitable outline for \"Customer Satisfaction in Online Banking\" includes:",
+     "question_text": "The best way to handle a slide with a complex diagram is to:",
      "options": [
-      "Only findings",
-      "Only title",
-      "Title, objectives, survey method, satisfaction findings, issues, recommendations and conclusion",
-      "Only conclusion"
+      "Read each label aloud without explaining",
+      "Show it in small print",
+      "Build it step by step so that the audience can follow",
+      "Show it for two seconds"
      ],
      "correct_index": 2,
-     "explanation": "It covers the project flow."
+     "explanation": "Progressive disclosure."
     },
     {
-     "question_text": "A suitable outline for \"A Business Plan for a Campus Café\" includes:",
+     "question_text": "Reading the slides word for word is a poor practice because it:",
      "options": [
-      "Only a title",
-      "Only menu",
-      "Only costs",
-      "Idea, market, product/menu, costs, revenue projection, marketing and conclusion"
+      "Makes the audience read ahead and lose interest in the speaker",
+      "Reduces the time available for the speaker to talk",
+      "Helps the audience to follow the written text easily",
+      "Shows that the speaker knows the content thoroughly"
+     ],
+     "correct_index": 0,
+     "explanation": "Redundancy."
+    },
+    {
+     "question_text": "Visual aids should be used mainly to:",
+     "options": [
+      "Display as much data as possible",
+      "Support and clarify the speaker's message",
+      "Replace the speaker altogether",
+      "Distract the audience while the speaker rests"
+     ],
+     "correct_index": 1,
+     "explanation": "Supportive role."
+    },
+    {
+     "question_text": "Using too many animations and sound effects in a presentation can:",
+     "options": [
+      "Distract the audience and weaken the message",
+      "Help the audience to remember all the points",
+      "Reduce the chances of any error",
+      "Strengthen every message"
+     ],
+     "correct_index": 0,
+     "explanation": "Overuse."
+    },
+    {
+     "question_text": "Which of the following is an advisable practice for using images on slides?",
+     "options": [
+      "Use high-quality images that are relevant to the point",
+      "Use unrelated images to entertain the audience",
+      "Use as many images as can fit in a slide",
+      "Use blurry images to save the file size"
+     ],
+     "correct_index": 0,
+     "explanation": "Relevance."
+    },
+    {
+     "question_text": "If you are presenting a project to a client, the title slide should contain:",
+     "options": [
+      "The names of the competitors",
+      "The full list of the project expenses",
+      "The project title, presenter's name, organisation and date",
+      "The details of the personal life of the presenter"
+     ],
+     "correct_index": 2,
+     "explanation": "Basic information."
+    },
+    {
+     "question_text": "An \"executive summary\" slide gives:",
+     "options": [
+      "The full list of references used in the study",
+      "The project budget in complete detail",
+      "The raw data collected in the survey",
+      "A brief overview of the project and its main conclusion"
      ],
      "correct_index": 3,
-     "explanation": "It follows a business plan structure."
+     "explanation": "Summary."
     },
     {
-     "question_text": "A suitable outline for \"Impact of Social Media on Buying Behaviour\" includes:",
+     "question_text": "A project presentation typically ends with:",
      "options": [
-      "Only an introduction",
-      "Only a title",
-      "Introduction, objectives, research method, findings, discussion and recommendations",
-      "Only recommendations"
+      "A summary of key points, recommendations and an invitation for questions",
+      "A blank slide to indicate the end of the session",
+      "A new topic that was not covered in the main part",
+      "An apology for the time taken by the presentation"
      ],
-     "correct_index": 2,
-     "explanation": "It shows the research process."
+     "correct_index": 0,
+     "explanation": "Closure."
     },
     {
-     "question_text": "A suitable outline for \"Feasibility of an Electric Scooter Rental Start-up\" includes:",
+     "question_text": "The best way to start a presentation is to:",
      "options": [
-      "Only risks",
-      "Only a title",
-      "Problem, market analysis, financials, risks, feasibility conclusion",
-      "Only financials"
-     ],
-     "correct_index": 2,
-     "explanation": "Feasibility studies assess viability."
-    },
-    {
-     "question_text": "A good introduction for \"Financial literacy among youth\" is:",
-     "options": [
-      "\"Money.\"",
-      "\"Hi. I don't know.\"",
-      "\"Let's start.\"",
-      "\"Good morning. Today I will show why understanding money early shapes a young person's future.\""
+      "Begin with a long personal story unrelated to the topic",
+      "Start reading the first slide without any greeting",
+      "Begin by saying that you are nervous and may make mistakes",
+      "Greet the audience, introduce yourself and the topic, and say why it matters"
      ],
      "correct_index": 3,
-     "explanation": "It greets and sets context."
-    },
-    {
-     "question_text": "A good closing for \"Financial literacy among youth\" is:",
-     "options": [
-      "\"I'm done.\"",
-      "\"Thanks, bye.\"",
-      "\"In short, financial literacy builds confident young adults; start learning today.\"",
-      "\"That's all.\""
-     ],
-     "correct_index": 2,
-     "explanation": "It summarises and urges action."
+     "explanation": "Opening."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 8: Project Presentation – Practice Test 2",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "A good hook for a presentation on \"Cybersecurity in banking\" is:",
+     "question_text": "Which of the following techniques helps to control nervousness before a presentation?",
      "options": [
-      "\"Cybersecurity is a subject.\"",
-      "\"Today is Monday.\"",
-      "\"Banks have computers.\"",
-      "\"Every minute, someone loses money to an online banking scam. Could it be you?\""
-     ],
-     "correct_index": 3,
-     "explanation": "It grabs attention."
-    },
-    {
-     "question_text": "Good objectives for \"Mutual funds: awareness among students\" are:",
-     "options": [
-      "\"To get marks.\"",
-      "\"To measure students' awareness of mutual funds, identify barriers and recommend ways to improve literacy.\"",
-      "\"To finish the project.\"",
-      "\"To talk about mutual funds.\""
+      "Drinking several cups of coffee beforehand",
+      "Rehearsing aloud and practising deep breathing",
+      "Reading the slides for the first time on the stage",
+      "Avoiding any practice before the presentation"
      ],
      "correct_index": 1,
-     "explanation": "They are specific and measurable."
+     "explanation": "Preparation."
     },
     {
-     "question_text": "A methodology slide for a survey on digital payments should state:",
+     "question_text": "Rehearsing a presentation in front of a friend or a mirror helps to:",
      "options": [
-      "Only the title",
-      "Only the conclusion",
-      "Only the results",
-      "The sample size, sampling method, tools (questionnaire) and period"
-     ],
-     "correct_index": 3,
-     "explanation": "It explains how data was collected."
-    },
-    {
-     "question_text": "The best findings slide for \"92% use UPI daily, 60% fear fraud, 45% use cashback offers\" is:",
-     "options": [
-      "A long paragraph",
-      "A bar chart or concise bullets: UPI daily 92%, fear fraud 60%, cashback 45%",
-      "Unrelated text",
-      "A blank slide"
+      "Remove the need for any slides",
+      "Improve timing, delivery and confidence",
+      "Make the presentation longer",
+      "Eliminate all questions from the audience"
      ],
      "correct_index": 1,
-     "explanation": "Visuals make data clear."
+     "explanation": "Practice."
     },
     {
-     "question_text": "A good conclusion and recommendations slide for the UPI project states:",
+     "question_text": "A presenter who stands behind the lectern with arms folded and looks at the screen appears:",
      "options": [
-      "An apology",
-      "Only references",
-      "A new topic",
-      "Key findings and actions, e.g., \"Raise fraud awareness and promote safe UPI practices.\""
+      "Confident and in full command of the audience",
+      "Disengaged, and may lose the audience's attention",
+      "Respectful and professional to the audience",
+      "Friendly and open to the audience"
+     ],
+     "correct_index": 1,
+     "explanation": "Body language."
+    },
+    {
+     "question_text": "Effective use of gestures in a presentation means that the gestures should be:",
+     "options": [
+      "Constant and repeated regardless of the message",
+      "Natural and support the message",
+      "Wide and fast at all times",
+      "Avoided entirely"
+     ],
+     "correct_index": 1,
+     "explanation": "Delivery."
+    },
+    {
+     "question_text": "The speaker's pace should be:",
+     "options": [
+      "As fast as possible to cover everything",
+      "Uniform without a single pause",
+      "So slow that the audience loses interest",
+      "Moderate, with pauses to let key points sink in"
      ],
      "correct_index": 3,
-     "explanation": "It closes the project."
+     "explanation": "Delivery."
     },
     {
-     "question_text": "Principles of effective slide design include:",
+     "question_text": "When the audience seems confused, the presenter should:",
      "options": [
-      "Simplicity, readability, consistency and visual hierarchy",
-      "Clutter",
-      "Tiny fonts",
-      "Many animations"
+      "Tell the audience to read the report after the session",
+      "Ignore the confusion and move ahead with the next slide",
+      "Speed up to finish all the content in the given time",
+      "Pause, check understanding and restate the point more simply"
+     ],
+     "correct_index": 3,
+     "explanation": "Responsiveness."
+    },
+    {
+     "question_text": "When you do not know the answer to a question from the audience, the best response is to:",
+     "options": [
+      "Ignore the question completely",
+      "Admit honestly and offer to find out and revert",
+      "Blame the questioner for asking it",
+      "Make up an answer to avoid embarrassment"
+     ],
+     "correct_index": 1,
+     "explanation": "Honesty."
+    },
+    {
+     "question_text": "A hostile question is asked by a member of the audience. The presenter should:",
+     "options": [
+      "Argue back until the questioner withdraws the question",
+      "Raise the voice to dominate the room and the questioner",
+      "End the session at once and leave the stage",
+      "Stay calm, acknowledge the concern and answer with facts"
+     ],
+     "correct_index": 3,
+     "explanation": "Poise."
+    },
+    {
+     "question_text": "Before answering a question from a large audience, it is advisable to:",
+     "options": [
+      "Repeat or paraphrase the question so that everyone hears it",
+      "Start answering at once in a low voice to save time",
+      "Skip it altogether if it is a long question",
+      "Ask the questioner to repeat it three times in a loud voice"
      ],
      "correct_index": 0,
-     "explanation": "One main idea per slide."
+     "explanation": "Clarity."
     },
     {
-     "question_text": "The 6×6 rule says:",
+     "question_text": "The part of a presentation devoted to taking the audience's queries is the:",
      "options": [
-      "Six images, six charts",
-      "No more than six bullets per slide and six words per bullet",
-      "Six colours, six fonts",
-      "Six slides, six minutes"
-     ],
-     "correct_index": 1,
-     "explanation": "It prevents text overload."
-    },
-    {
-     "question_text": "The 10-20-30 rule (Guy Kawasaki) says:",
-     "options": [
-      "10 bullets, 20 words, 30 slides",
-      "10 colours, 20 fonts, 30 images",
-      "10 slides, 20 minutes and a font of at least 30 points",
-      "10 minutes, 20 slides, 30 words"
-     ],
-     "correct_index": 2,
-     "explanation": "It keeps presentations short and readable."
-    },
-    {
-     "question_text": "Recommended font sizes are:",
-     "options": [
-      "8–10 pt",
-      "4 pt",
-      "Titles around 32–44 pt and body text about 24–28 pt",
-      "100 pt"
-     ],
-     "correct_index": 2,
-     "explanation": "Large enough for the back row."
-    },
-    {
-     "question_text": "When choosing colours, one should:",
-     "options": [
-      "Use random colours",
-      "Use low contrast",
-      "Use high contrast, limit the palette and avoid red-green combinations for colour-blind viewers",
-      "Use neon colours"
-     ],
-     "correct_index": 2,
-     "explanation": "Add labels or patterns too."
-    },
-    {
-     "question_text": "The right chart: bar for _____, line for _____, and pie for _____:",
-     "options": [
-      "Parts of a whole; time; categories",
-      "Trends; comparison; trends",
-      "Comparing categories; trends over time; parts of a whole",
-      "Time; whole; categories"
-     ],
-     "correct_index": 2,
-     "explanation": "Use pie charts only for few categories."
-    },
-    {
-     "question_text": "The best slide version of \"Our survey of 100 students found that most use UPI daily because of convenience, though some worry about fraud\" is:",
-     "options": [
-      "A blank slide",
-      "The full sentence in tiny font",
-      "Title: UPI Usage (n = 100); bullets: most use UPI daily; reason: convenience; concern: fraud",
-      "A joke"
-     ],
-     "correct_index": 2,
-     "explanation": "Short key points."
-    },
-    {
-     "question_text": "Common mistakes in slide design include:",
-     "options": [
-      "Too much text, small fonts, poor contrast and distracting animations",
-      "Good contrast",
-      "Clear fonts",
-      "Simple design"
-     ],
-     "correct_index": 0,
-     "explanation": "Also inconsistent layouts."
-    },
-    {
-     "question_text": "Visual aids other than slides include:",
-     "options": [
-      "Nothing",
-      "Handouts, charts, models, flip charts and videos",
-      "Only slides",
-      "Only text"
-     ],
-     "correct_index": 1,
-     "explanation": "Choose the aid that suits the audience."
-    },
-    {
-     "question_text": "Animations and transitions should be used:",
-     "options": [
-      "Never to emphasise",
-      "Sparingly, to support understanding not distract",
-      "Heavily",
-      "On every word"
-     ],
-     "correct_index": 1,
-     "explanation": "Keep them consistent."
-    },
-    {
-     "question_text": "Presentation tools include:",
-     "options": [
-      "Notepad",
-      "Calculators",
-      "PowerPoint, Google Slides, Canva and Keynote",
-      "Excel only"
-     ],
-     "correct_index": 2,
-     "explanation": "Choose one suited to your needs."
-    },
-    {
-     "question_text": "Presenter view and speaker notes allow:",
-     "options": [
-      "Nothing",
-      "The speaker to see notes, the next slide and a timer while the audience sees only the slide",
-      "The audience to see notes",
-      "Editing only"
-     ],
-     "correct_index": 1,
-     "explanation": "They help delivery."
-    },
-    {
-     "question_text": "To make a presentation accessible, one should:",
-     "options": [
-      "Avoid captions",
-      "Use tiny fonts",
-      "Use low contrast",
-      "Use alt text, readable fonts, high contrast and captions"
+      "Rehearsal session",
+      "Debriefing session",
+      "Briefing session",
+      "Question-and-answer (Q&A) session"
      ],
      "correct_index": 3,
-     "explanation": "Consider all viewers."
+     "explanation": "Interaction."
     },
     {
-     "question_text": "On slides, sources are cited by:",
+     "question_text": "The word \"Q&A\" in the context of a presentation means:",
      "options": [
-      "Adding a short source line (author, year) and a full references slide",
-      "Hiding them",
-      "Not citing",
-      "Copying without credit"
+      "Questions and Answers",
+      "Queries and Approvals",
+      "Quantity and Accuracy",
+      "Quality and Assurance"
      ],
      "correct_index": 0,
-     "explanation": "It avoids plagiarism."
+     "explanation": "Interaction."
     },
     {
-     "question_text": "Copyright issues with images arise when:",
+     "question_text": "A handout in a presentation is:",
      "options": [
-      "Images are everywhere",
-      "Images are free to copy",
-      "Images have no owner",
-      "Images are used without permission or licence; use royalty-free or credited images"
+      "The full script of the speech to be read out by the presenter",
+      "The evaluation form to be filled in by the audience",
+      "A slide showing only the title and the name of the presenter",
+      "A document given to the audience with the key information or data"
      ],
      "correct_index": 3,
-     "explanation": "Check licences like Creative Commons."
+     "explanation": "Supporting material."
     },
     {
-     "question_text": "Verbal delivery skills include:",
+     "question_text": "The best time to distribute detailed handouts is generally:",
      "options": [
-      "Shouting",
-      "Monotone",
-      "Clear voice, appropriate pace, volume, pauses and emphasis",
-      "Mumbling"
+      "In the middle, so that the audience may read during the talk",
+      "Never, since handouts are not useful in a presentation",
+      "After the presentation, so that the audience attends to the speaker",
+      "At the start, so that the audience may read ahead of the speaker"
      ],
      "correct_index": 2,
-     "explanation": "Avoid fillers."
+     "explanation": "Keep attention on the speaker."
     },
     {
-     "question_text": "Non-verbal delivery skills include:",
+     "question_text": "A project report differs from a presentation in that the report is:",
      "options": [
-      "Fidgeting",
-      "Slouching",
-      "Turning your back",
-      "Posture, gestures, facial expressions and eye contact"
+      "More detailed and written for reading at leisure",
+      "Shorter and meant to be spoken only to an audience",
+      "Always prepared in the form of slides and charts",
+      "Not required at all in the case of a project"
+     ],
+     "correct_index": 0,
+     "explanation": "Different media."
+    },
+    {
+     "question_text": "In a team presentation, the speakers should:",
+     "options": [
+      "Avoid looking at one another to appear independent",
+      "Compete to speak the longest to impress the evaluators",
+      "Plan the order, rehearse the hand-overs and keep to their time",
+      "Speak together to show unity in front of the audience"
+     ],
+     "correct_index": 2,
+     "explanation": "Coordination."
+    },
+    {
+     "question_text": "A smooth hand-over from one team member to the next is done by:",
+     "options": [
+      "Reading out the next speaker's slide before he arrives",
+      "Saying nothing and walking away from the stage quickly",
+      "Summarising briefly and introducing the next speaker and topic",
+      "Interrupting the previous speaker as soon as the time is up"
+     ],
+     "correct_index": 2,
+     "explanation": "Transition."
+    },
+    {
+     "question_text": "If the projector fails in the middle of a presentation, the best approach is to:",
+     "options": [
+      "Blame the organisers for the failure of the equipment",
+      "Cancel the presentation and ask for another day",
+      "Stand silently until the equipment is repaired",
+      "Stay calm, use a backup such as a printed copy and continue"
      ],
      "correct_index": 3,
-     "explanation": "They reinforce the message."
+     "explanation": "Contingency."
     },
     {
-     "question_text": "Eye contact during a presentation should be:",
+     "question_text": "It is wise to reach the venue early in order to:",
      "options": [
-      "On one person always",
-      "Spread across the audience, holding each person for a few seconds",
-      "On the floor",
-      "On the screen"
+      "Test the equipment, slides and the sound",
+      "Avoid rehearsing",
+      "Skip the slides",
+      "Meet the audience for a long chat"
+     ],
+     "correct_index": 0,
+     "explanation": "Preparation."
+    },
+    {
+     "question_text": "A backup copy of the presentation should be kept:",
+     "options": [
+      "Only on the laptop",
+      "Only in memory",
+      "On a pen drive and in the cloud",
+      "Nowhere"
+     ],
+     "correct_index": 2,
+     "explanation": "Risk management."
+    },
+    {
+     "question_text": "The time given for a presentation is 10 minutes. A suitable number of slides is about:",
+     "options": [
+      "100",
+      "60",
+      "8 to 10",
+      "40"
+     ],
+     "correct_index": 2,
+     "explanation": "About one a minute."
+    },
+    {
+     "question_text": "If your presentation overruns the time allotted, the audience is likely to:",
+     "options": [
+      "Reward you for the additional effort made",
+      "Lose interest, and the organisers may ask you to stop",
+      "Appreciate the extra content that you have added",
+      "Not notice the extra time you have taken"
      ],
      "correct_index": 1,
-     "explanation": "It builds connection."
+     "explanation": "Time discipline."
     },
     {
-     "question_text": "Gestures should be:",
+     "question_text": "Citing sources on a slide or at the end of the presentation:",
      "options": [
-      "Random",
-      "Excessive",
-      "Natural, purposeful and not distracting",
-      "Absent"
+      "Is required only for the sources which are in print",
+      "Is a waste of time in a short presentation",
+      "Shows credibility and avoids plagiarism",
+      "Reduces the trust of the audience in the findings"
      ],
      "correct_index": 2,
-     "explanation": "Use open-hand gestures."
+     "explanation": "Integrity."
     },
     {
-     "question_text": "Nervousness is caused by fear of judgement, lack of preparation and inexperience, and can be controlled by:",
+     "question_text": "Using data from a competitor's confidential report in your presentation without permission is:",
      "options": [
-      "Preparation, practice, deep breathing and positive visualisation",
-      "Skipping the opening",
-      "Rushing",
-      "Avoiding practice"
+      "Smart research",
+      "Required",
+      "Unethical and may be illegal",
+      "A matter of style"
+     ],
+     "correct_index": 2,
+     "explanation": "Ethics."
+    },
+    {
+     "question_text": "The most appropriate dress for presenting a project to clients is:",
+     "options": [
+      "Casual beachwear",
+      "Formal or smart business attire",
+      "Party dress",
+      "Any torn clothing"
+     ],
+     "correct_index": 1,
+     "explanation": "Appearance."
+    },
+    {
+     "question_text": "The audience of your presentation is a mix of experts and beginners. You should:",
+     "options": [
+      "Explain key terms briefly and build up gradually",
+      "Use only technical terms",
+      "Speak only to the experts",
+      "Use only simple words and omit the data"
      ],
      "correct_index": 0,
-     "explanation": "Practice reduces anxiety."
+     "explanation": "Mixed audience."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 8: Project Presentation – Practice Test 3",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "Ways to engage the audience include:",
+     "question_text": "A storyboard used in preparing a presentation helps to:",
      "options": [
-      "Monotone speech",
-      "Questions, polls, stories, examples and eye contact",
-      "Reading slides",
-      "Ignoring them"
-     ],
-     "correct_index": 1,
-     "explanation": "Interaction keeps attention."
-    },
-    {
-     "question_text": "One should not read directly from the slides because it:",
-     "options": [
-      "Bores the audience and makes you seem unprepared",
-      "Is polite",
-      "Is impressive",
-      "Is required"
-     ],
-     "correct_index": 0,
-     "explanation": "Slides are visual aids, not scripts."
-    },
-    {
-     "question_text": "To rehearse a presentation, one should:",
-     "options": [
-      "Practise aloud, time it, and get feedback",
-      "Read once",
-      "Never practise",
-      "Memorise only"
-     ],
-     "correct_index": 0,
-     "explanation": "Record yourself if possible."
-    },
-    {
-     "question_text": "To manage time during a presentation, one should:",
-     "options": [
-      "Add more slides",
-      "Rehearse with a timer, keep key points flexible and watch the clock",
-      "Ignore time",
-      "Rush at the end"
-     ],
-     "correct_index": 1,
-     "explanation": "Prioritise key messages."
-    },
-    {
-     "question_text": "When technology fails, one should:",
-     "options": [
-      "Stay calm and continue with backups such as printed notes or handouts",
-      "Panic",
-      "Stop completely",
-      "Blame others"
-     ],
-     "correct_index": 0,
-     "explanation": "Have a plan B."
-    },
-    {
-     "question_text": "Backups to keep include:",
-     "options": [
-      "A copy on a pen drive and in the cloud, a PDF version and printed notes",
-      "Nothing",
-      "Only the laptop",
-      "Only memory"
-     ],
-     "correct_index": 0,
-     "explanation": "Also carry adapters."
-    },
-    {
-     "question_text": "A group presentation is:",
-     "options": [
-      "An exam",
-      "A solo presentation",
-      "A debate",
-      "A presentation delivered by a team, with each member presenting part of the content"
+      "Evaluate the presentation after the audience has left",
+      "Record the audio of the presentation for later use",
+      "Print the final slides in the form of a booklet",
+      "Plan the sequence and content of slides before designing them"
      ],
      "correct_index": 3,
-     "explanation": "It needs coordination."
+     "explanation": "Planning tool."
     },
     {
-     "question_text": "Roles within a group presentation include:",
+     "question_text": "Mind mapping in planning a presentation helps to:",
      "options": [
-      "Audience only",
-      "Only one speaker",
-      "Introducer, content presenters, tech handler and Q&A closer",
-      "No roles"
+      "Choose the font and the colours of all the slides",
+      "Organise ideas and their links visually before choosing a structure",
+      "Time the speech of each member of the team exactly",
+      "Replace the slides with a single diagram on the board"
      ],
-     "correct_index": 2,
-     "explanation": "Define roles beforehand."
+     "correct_index": 1,
+     "explanation": "Brainstorming."
     },
     {
-     "question_text": "In a group presentation, content should be divided:",
+     "question_text": "The \"rule of three\" in presentations suggests that:",
      "options": [
-      "By height",
-      "Unequally",
-      "Randomly",
-      "According to strengths and logical sections with equal contribution"
+      "Each slide should use three colours and three fonts",
+      "The speaker should use only three gestures",
+      "The presentation should not last more than three minutes",
+      "Grouping points in threes makes them easier to remember"
      ],
      "correct_index": 3,
-     "explanation": "Ensure a smooth flow."
+     "explanation": "Memory aid."
     },
     {
-     "question_text": "A smooth hand-over between team members includes:",
+     "question_text": "A \"hook\" at the start of a presentation is:",
      "options": [
-      "Interrupting",
-      "Silence",
-      "A linking sentence such as \"Now my colleague Riya will explain the findings.\"",
-      "Walking away"
-     ],
-     "correct_index": 2,
-     "explanation": "It maintains flow."
-    },
-    {
-     "question_text": "A do of group presentations is:",
-     "options": [
-      "Exceed time",
-      "Rehearse together and keep to time limits",
-      "Argue on stage",
-      "Ignore teammates"
+      "The list of contents shown to the audience on the first slide",
+      "An attention-grabbing opening such as a question, a fact or a story",
+      "The title slide with the logo and the name of the firm",
+      "The conclusion that is shown in advance to the audience"
      ],
      "correct_index": 1,
-     "explanation": "A don't is to contradict teammates."
+     "explanation": "Engagement."
     },
     {
-     "question_text": "When not speaking, team members should:",
+     "question_text": "\"Tell them what you will tell them, tell them, then tell them what you told them\" describes:",
      "options": [
-      "Stand attentively and support the speaker",
-      "Use phones",
-      "Talk among themselves",
-      "Leave"
-     ],
-     "correct_index": 0,
-     "explanation": "Body language still matters."
-    },
-    {
-     "question_text": "To prepare for the Q&A session, one should:",
-     "options": [
-      "Avoid thinking about it",
-      "Prepare nothing",
-      "Anticipate likely questions and prepare answers",
-      "Leave"
-     ],
-     "correct_index": 2,
-     "explanation": "Review your data."
-    },
-    {
-     "question_text": "When you cannot answer a question, you should:",
-     "options": [
-      "Admit it honestly and offer to find out later",
-      "Insult the questioner",
-      "Ignore it",
-      "Make up an answer"
-     ],
-     "correct_index": 0,
-     "explanation": "Honesty builds credibility."
-    },
-    {
-     "question_text": "To handle a hostile question:",
-     "options": [
-      "Insult",
-      "Argue",
-      "Stay calm, acknowledge the concern and answer factually",
-      "Ignore"
-     ],
-     "correct_index": 2,
-     "explanation": "Do not get defensive."
-    },
-    {
-     "question_text": "You should repeat or paraphrase a question because it:",
-     "options": [
-      "Confuses",
-      "Ensures everyone heard and gives you time to think",
-      "Is impolite",
-      "Wastes time"
-     ],
-     "correct_index": 1,
-     "explanation": "It confirms understanding."
-    },
-    {
-     "question_text": "A Q&A session is closed by:",
-     "options": [
-      "Leaving",
-      "Arguing",
-      "Ending abruptly",
-      "Thanking the audience and summarising the key message"
+      "The method of conducting the question-and-answer session",
+      "A method of slide design using repeated slides",
+      "A way to confuse the audience with repeated points",
+      "The structure of an introduction, body and conclusion"
      ],
      "correct_index": 3,
-     "explanation": "Leave a final strong point."
+     "explanation": "Repetition for retention."
     },
     {
-     "question_text": "Common questions after a project presentation include:",
+     "question_text": "A \"signpost\" phrase in a presentation is, for example:",
      "options": [
-      "Sample size, methodology, limitations and recommendations",
-      "Your age",
-      "Colour of the slides",
-      "Your favourite film"
+      "\"Now let me move on to the findings.\"",
+      "\"That is all I know.\"",
+      "\"Please do not interrupt.\"",
+      "\"Um, so...\""
      ],
      "correct_index": 0,
-     "explanation": "Be ready to justify choices."
+     "explanation": "Navigation."
     },
     {
-     "question_text": "Evaluation criteria of a presentation include:",
+     "question_text": "When presenting numbers, the speaker should:",
      "options": [
-      "Content, structure, delivery, visuals, timing and Q&A handling",
-      "Only slides",
-      "Only looks",
-      "Only voice"
+      "Round them and highlight the one or two figures that matter most",
+      "Read every number from the table in order to be precise",
+      "Skip the numbers and describe the trends in words alone",
+      "Use only fractions so that the audience can follow easily"
      ],
      "correct_index": 0,
-     "explanation": "Rubrics define each."
+     "explanation": "Clarity."
     },
     {
-     "question_text": "A rubric for a project presentation would typically include:",
+     "question_text": "Which is the most effective way to express \"profit rose from Rs 12,48,500 to Rs 15,01,200\"?",
      "options": [
-      "No criteria",
-      "Only marks",
-      "Criteria such as content, organisation, delivery, visuals and teamwork, with score levels",
-      "One word"
+      "\"The profit has moved up somewhat since the last year.\"",
+      "\"Profit is now higher than it was in the earlier year.\"",
+      "\"Profit rose by about 20 per cent, from Rs 12.5 lakh to Rs 15 lakh.\"",
+      "\"Rs 12,48,500 and Rs 15,01,200 are the two figures.\""
      ],
      "correct_index": 2,
-     "explanation": "It makes grading transparent."
+     "explanation": "Round and interpret."
     },
     {
-     "question_text": "Peer evaluation is:",
+     "question_text": "The percentage increase from Rs 12.5 lakh to Rs 15 lakh is:",
      "options": [
-      "Parent grading",
-      "Assessment of a presentation by classmates using given criteria",
-      "Teacher only",
-      "Self-grading"
-     ],
-     "correct_index": 1,
-     "explanation": "It offers different viewpoints."
-    },
-    {
-     "question_text": "Feedback improves presentation skills by:",
-     "options": [
-      "Having no effect",
-      "Identifying strengths and areas for improvement",
-      "Hurting confidence only",
-      "Being unnecessary"
-     ],
-     "correct_index": 1,
-     "explanation": "Act on it in the next presentation."
-    },
-    {
-     "question_text": "Plagiarism in presentations is:",
-     "options": [
-      "Citing sources",
-      "Using your own ideas",
-      "Using others' content, images or ideas without credit",
-      "Using original data"
-     ],
-     "correct_index": 2,
-     "explanation": "Always cite sources."
-    },
-    {
-     "question_text": "Ethical considerations for survey data include:",
-     "options": [
-      "Revealing identities",
-      "Faking data",
-      "Ignoring consent",
-      "Consent, confidentiality, honesty in reporting and no manipulation"
+      "25%",
+      "2.5%",
+      "15%",
+      "20%"
      ],
      "correct_index": 3,
-     "explanation": "Respect participants."
+     "explanation": "(15 − 12.5)/12.5."
     },
     {
-     "question_text": "A presentation checklist includes:",
+     "question_text": "A bar chart shows that sales were 40 units in January and 60 units in February. The percentage growth is:",
      "options": [
-      "Only slides",
-      "Objective, content, visuals, rehearsal, equipment check and backups",
-      "Only notes",
-      "Only clothes"
+      "60%",
+      "20%",
+      "50%",
+      "33%"
+     ],
+     "correct_index": 2,
+     "explanation": "20/40."
+    },
+    {
+     "question_text": "If the y-axis of a bar chart starts at 90 instead of 0 for bars of 92 and 95, the chart may:",
+     "options": [
+      "Have no effect on how the bars are perceived",
+      "Reduce the visual difference between the bars",
+      "Remove the visual difference between the bars",
+      "Exaggerate the visual difference between the bars"
+     ],
+     "correct_index": 3,
+     "explanation": "Misleading scale."
+    },
+    {
+     "question_text": "A presenter who uses a chart with a truncated axis to exaggerate a result is guilty of:",
+     "options": [
+      "Using colour",
+      "Following the rule",
+      "Good design",
+      "Misleading the audience"
+     ],
+     "correct_index": 3,
+     "explanation": "Ethics in data visualisation."
+    },
+    {
+     "question_text": "\"Data storytelling\" is the practice of:",
+     "options": [
+      "Combining data, visuals and narrative to explain an insight",
+      "Reading out all the data from the table in sequence",
+      "Telling jokes about the data to keep the audience awake",
+      "Hiding the data that does not support the conclusion"
+     ],
+     "correct_index": 0,
+     "explanation": "Communication."
+    },
+    {
+     "question_text": "The most helpful title for a chart of monthly sales is:",
+     "options": [
+      "\"Sales\"",
+      "\"Sales rose steadily from January to June, peaking in June\"",
+      "\"Chart 1: Monthly sales for the first six months\"",
+      "\"Data for the first half of the year\""
      ],
      "correct_index": 1,
-     "explanation": "It avoids last-minute problems."
+     "explanation": "Informative title."
+    },
+    {
+     "question_text": "In presenting a business proposal, the \"benefits\" section should:",
+     "options": [
+      "Describe only the technical features of the proposal",
+      "Be skipped in a short presentation to save time",
+      "Show how the proposal helps the audience, preferably with numbers",
+      "Be kept for the end of the question and answer session"
+     ],
+     "correct_index": 2,
+     "explanation": "Audience focus."
+    },
+    {
+     "question_text": "\"Features\" versus \"benefits\": which statement expresses a benefit?",
+     "options": [
+      "\"This software will save your team ten hours a week.\"",
+      "\"This software was developed in 2020.\"",
+      "\"This software has a blue interface.\"",
+      "\"This software has a cloud-based database.\""
+     ],
+     "correct_index": 0,
+     "explanation": "What it does for the user."
+    },
+    {
+     "question_text": "In a business presentation, a SWOT slide would show:",
+     "options": [
+      "Strengths, weaknesses, opportunities and threats",
+      "Staff, work, output and time",
+      "Sales, wages, orders and taxes",
+      "Schedule, workload, overheads and tasks"
+     ],
+     "correct_index": 0,
+     "explanation": "Analysis."
+    },
+    {
+     "question_text": "A Gantt chart in a project presentation shows:",
+     "options": [
+      "Profits against costs",
+      "Tasks against a timeline",
+      "Customers against products",
+      "Strengths against weaknesses"
+     ],
+     "correct_index": 1,
+     "explanation": "Schedule."
+    },
+    {
+     "question_text": "A project timeline slide helps the audience to see:",
+     "options": [
+      "The location of the offices of the team members",
+      "The names of the members of the audience present",
+      "The sequence of the activities and their deadlines",
+      "The total profit made by the firm during the year"
+     ],
+     "correct_index": 2,
+     "explanation": "Schedule."
+    },
+    {
+     "question_text": "A risk matrix slide helps to show:",
+     "options": [
+      "The marketing plan of the project",
+      "The likelihood and the impact of possible risks",
+      "The names of the employees of the project",
+      "The profits of each year of the project"
+     ],
+     "correct_index": 1,
+     "explanation": "Risk assessment."
+    },
+    {
+     "question_text": "In the budget slide of a project, the presenter should show:",
+     "options": [
+      "The salary of every employee working on the project",
+      "Every receipt and bill relating to the project",
+      "The major cost heads with their totals and the source of funding",
+      "Only the grand total without any break-up of the costs"
+     ],
+     "correct_index": 2,
+     "explanation": "Clarity."
+    },
+    {
+     "question_text": "Return on investment (ROI) is computed as:",
+     "options": [
+      "Profit multiplied by cost, expressed as a percentage",
+      "Sales divided by profit, expressed as a percentage",
+      "Cost divided by net benefit, expressed as a percentage",
+      "Net benefit divided by cost, expressed as a percentage"
+     ],
+     "correct_index": 3,
+     "explanation": "Financial case."
+    },
+    {
+     "question_text": "A project costs Rs 5 lakh and gives a net benefit of Rs 1 lakh per year. The payback period is:",
+     "options": [
+      "1 year",
+      "0.2 years",
+      "10 years",
+      "5 years"
+     ],
+     "correct_index": 3,
+     "explanation": "5/1."
+    },
+    {
+     "question_text": "A project costs Rs 8 lakh and returns a net gain of Rs 2 lakh. The ROI is:",
+     "options": [
+      "25%",
+      "40%",
+      "10%",
+      "16%"
+     ],
+     "correct_index": 0,
+     "explanation": "2/8."
+    },
+    {
+     "question_text": "Milestones in a project plan are:",
+     "options": [
+      "The names of the members who are leading the tasks",
+      "Key points of progress or achievement in the project",
+      "Distances between the offices of the team members",
+      "The rewards given to the team at the end of the project"
+     ],
+     "correct_index": 1,
+     "explanation": "Checkpoints."
     }
    ]
   },
   {
+   "rev": 2,
    "title": "Unit 8: Project Presentation – Practice Test 4",
    "duration_minutes": 25,
    "questions": [
     {
-     "question_text": "For a presentation, one should dress:",
+     "question_text": "The stakeholders of a project include:",
      "options": [
-      "Casually always",
-      "Neatly and professionally as per the occasion",
-      "Very flashy",
-      "Sloppily"
-     ],
-     "correct_index": 1,
-     "explanation": "Dress suits the audience."
-    },
-    {
-     "question_text": "Storytelling makes a presentation more effective by:",
-     "options": [
-      "Reducing clarity",
-      "Making it confusing",
-      "Replacing facts",
-      "Making points memorable and emotionally engaging"
-     ],
-     "correct_index": 3,
-     "explanation": "Use short relevant stories."
-    },
-    {
-     "question_text": "A data story is:",
-     "options": [
-      "A spreadsheet",
-      "A narrative that explains data with context, visuals and a message",
-      "A table only",
-      "A formula"
-     ],
-     "correct_index": 1,
-     "explanation": "It makes numbers meaningful."
-    },
-    {
-     "question_text": "To present statistics to a non-technical audience, one should:",
-     "options": [
-      "Show raw tables",
-      "Use simple language, round numbers, visuals and analogies",
-      "Read all numbers",
-      "Use jargon"
-     ],
-     "correct_index": 1,
-     "explanation": "Highlight the insight."
-    },
-    {
-     "question_text": "A five-minute business pitch usually covers:",
-     "options": [
-      "Only costs",
-      "Problem, solution, market, business model, team and ask",
-      "Only jokes",
-      "Only history"
-     ],
-     "correct_index": 1,
-     "explanation": "Keep it brief and persuasive."
-    },
-    {
-     "question_text": "To adapt a presentation to a virtual audience, one should:",
-     "options": [
-      "Avoid interaction",
-      "Read slides",
-      "Skip testing",
-      "Keep slides simple, engage often and test the technology"
-     ],
-     "correct_index": 3,
-     "explanation": "Use polls and chat."
-    },
-    {
-     "question_text": "Polls such as Mentimeter are used to:",
-     "options": [
-      "Engage the audience by collecting live responses",
-      "Replace the speaker",
-      "Hide results",
-      "Delay the talk"
+      "All the people or groups affected by or interested in it",
+      "Only the owners who have put the capital in the project",
+      "Only the staff who are working on the project",
+      "Only the customers who will use the final product"
      ],
      "correct_index": 0,
-     "explanation": "They add interactivity."
+     "explanation": "Interested parties."
     },
     {
-     "question_text": "A best practice of online presentations is:",
+     "question_text": "The scope of a project defines:",
      "options": [
-      "Check audio and video, use a clear background and keep the audience engaged",
-      "Ignore audio",
-      "Use a noisy place",
-      "Keep video off always"
+      "What is and what is not included in the work to be done",
+      "The profits that the project is expected to earn",
+      "The names of the team members who will do the work",
+      "The order in which the speakers will present the project"
      ],
      "correct_index": 0,
-     "explanation": "Rehearse with the platform."
+     "explanation": "Boundaries."
     },
     {
-     "question_text": "A good 2-minute self-introduction for a team presentation includes:",
+     "question_text": "Deliverables of a project are:",
      "options": [
-      "Life story",
-      "Jokes only",
-      "Name, role, a key fact and the topic you will cover",
-      "Complaints"
+      "The list of the risks identified at the start",
+      "The tangible outputs or results to be handed over",
+      "The fonts and the layouts of the slides",
+      "The list of the members of the audience present"
+     ],
+     "correct_index": 1,
+     "explanation": "Outputs."
+    },
+    {
+     "question_text": "Feedback on a presentation is most useful when it is:",
+     "options": [
+      "Vague and critical of the presenter's personality",
+      "Specific, balanced and aimed at improvement",
+      "Only praise without any suggestion for change",
+      "Given a year after the presentation"
+     ],
+     "correct_index": 1,
+     "explanation": "Constructive."
+    },
+    {
+     "question_text": "After a presentation, a speaker should:",
+     "options": [
+      "Blame the audience if the response was poor",
+      "Forget the presentation as soon as it is over",
+      "Avoid asking for any feedback from the audience",
+      "Reflect on the feedback and note the areas for improvement"
+     ],
+     "correct_index": 3,
+     "explanation": "Learning."
+    },
+    {
+     "question_text": "The \"elevator pitch\" for a project should take about:",
+     "options": [
+      "1 hour",
+      "15 minutes",
+      "30 to 60 seconds",
+      "5 hours"
      ],
      "correct_index": 2,
-     "explanation": "Keep it brief."
+     "explanation": "Short pitch."
     },
     {
-     "question_text": "A smooth hand-over script is:",
+     "question_text": "An effective elevator pitch includes:",
      "options": [
-      "\"That covers the findings; now my teammate will present the recommendations.\"",
-      "\"I'm done.\"",
-      "\"Your turn.\"",
-      "Silence"
+      "Who you are, the problem, your solution and the benefit",
+      "Every detail of the project in the order it was done",
+      "Only the price at which the product will be sold",
+      "Your whole life history and the history of your firm"
      ],
      "correct_index": 0,
-     "explanation": "It links sections."
+     "explanation": "Concise."
     },
     {
-     "question_text": "To present a failure honestly, one should:",
+     "question_text": "A good problem statement in a project presentation:",
      "options": [
-      "State what happened, lessons learnt and next steps",
-      "Blame others",
-      "Hide it",
-      "Ignore it"
-     ],
-     "correct_index": 0,
-     "explanation": "Honesty builds trust."
-    },
-    {
-     "question_text": "To handle a time overrun:",
-     "options": [
-      "Stop abruptly",
-      "Skip less important points and move to the conclusion",
-      "Keep talking",
-      "Rush every point"
-     ],
-     "correct_index": 1,
-     "explanation": "Prioritise key messages."
-    },
-    {
-     "question_text": "A strong closing line is:",
-     "options": [
-      "\"I'm finished.\"",
-      "\"That's it.\"",
-      "\"Thank you for nothing.\"",
-      "\"Remember: small savings today build big security tomorrow.\""
-     ],
-     "correct_index": 3,
-     "explanation": "It is memorable and ties to the message."
-    },
-    {
-     "question_text": "When presenting a pitch to investors, one should highlight:",
-     "options": [
-      "Only logos",
-      "Only history",
-      "Only your hobby",
-      "The problem, solution, market size, traction, financials and the ask"
-     ],
-     "correct_index": 3,
-     "explanation": "Be clear and concise."
-    },
-    {
-     "question_text": "An agenda slide for a project on mutual funds would list:",
-     "options": [
-      "Only references",
-      "Introduction, objectives, methodology, findings, conclusion",
-      "Only findings",
-      "Only a title"
-     ],
-     "correct_index": 1,
-     "explanation": "It previews the flow."
-    },
-    {
-     "question_text": "To present survey results with a bar chart, you:",
-     "options": [
-      "Use a table of raw data",
-      "Use a pie with 20 slices",
-      "Plot categories on one axis and percentages on the other, with a clear title and labels, e.g., UPI 92%, fear fraud 60%",
-      "Show no labels"
+      "Praises the project and the team that carried it out",
+      "Lists the results obtained by the team in the study",
+      "Describes the issue the project addresses and why it matters",
+      "Describes the members of the team and their roles"
      ],
      "correct_index": 2,
-     "explanation": "Keep it uncluttered."
+     "explanation": "Foundation."
     },
     {
-     "question_text": "A title slide contains:",
+     "question_text": "A literature review in a project report summarises:",
      "options": [
-      "Only conclusions",
-      "Only findings",
-      "The topic, presenter's name, date and institution",
-      "Only references"
+      "The names of the authors of the report only",
+      "The profits earned by the firm in earlier years",
+      "What earlier studies have said on the topic",
+      "The opinions of the speaker on the topic"
      ],
      "correct_index": 2,
-     "explanation": "It introduces the presentation."
+     "explanation": "Background."
     },
     {
-     "question_text": "A references slide lists:",
+     "question_text": "The sample size is mentioned in the presentation of a market survey so that the audience can:",
      "options": [
-      "Only images",
-      "The agenda",
-      "Nothing",
-      "All sources used in a consistent citation style, e.g., author, year, title"
+      "Be impressed by the effort of the team",
+      "Reduce the data to be remembered",
+      "Count the number of the slides in advance",
+      "Judge the reliability of the findings"
      ],
      "correct_index": 3,
-     "explanation": "It gives credit."
+     "explanation": "Credibility."
     },
     {
-     "question_text": "A presentation differs from a speech in that a presentation:",
+     "question_text": "A survey of only 20 people used to claim that \"all customers in India prefer our product\" is:",
      "options": [
-      "Uses visual aids and structured content, while a speech relies mainly on words",
-      "Uses no aids",
-      "Has no structure",
-      "Has no audience"
-     ],
-     "correct_index": 0,
-     "explanation": "Both need good delivery."
-    },
-    {
-     "question_text": "To make a presentation persuasive, one should:",
-     "options": [
-      "Know the audience, use ethos, pathos and logos, and end with a call to action",
-      "Avoid evidence",
-      "Use jargon",
-      "Avoid a call to action"
-     ],
-     "correct_index": 0,
-     "explanation": "Use evidence and stories."
-    },
-    {
-     "question_text": "To explain a complex idea simply, one should:",
-     "options": [
-      "Use many details",
-      "Use analogies, examples and visuals and avoid jargon",
-      "Use jargon",
-      "Use long sentences"
+      "A random experiment that proves the preference",
+      "Too small a sample to support such a general claim",
+      "A perfectly adequate basis for such a claim",
+      "A census of all the customers of the product in India"
      ],
      "correct_index": 1,
-     "explanation": "Break it into small steps."
+     "explanation": "Sample size."
     },
     {
-     "question_text": "A storyboard in presentation design is:",
+     "question_text": "A questionnaire for a survey should contain:",
      "options": [
-      "A sketch or plan of the slides and flow before creating them",
-      "A final deck",
-      "A film",
-      "A script only"
+      "Clear, unbiased and relevant questions",
+      "Complex jargon that shows the researcher's expertise",
+      "Offensive questions that provoke a strong response",
+      "Leading questions that guide the respondent to the answer"
      ],
      "correct_index": 0,
-     "explanation": "It helps organise ideas."
+     "explanation": "Design."
     },
     {
-     "question_text": "To conclude a presentation on a failed project, one should:",
+     "question_text": "A leading question in a survey is one that:",
      "options": [
-      "Summarise lessons learnt and recommendations for the future",
-      "Hide the failure",
-      "Blame others",
-      "Apologise repeatedly"
+      "Suggests the answer that the researcher wants",
+      "Asks about the leaders of the organisation",
+      "Asks the respondent for his name and address",
+      "Is placed first in the questionnaire"
      ],
      "correct_index": 0,
-     "explanation": "It turns failure into learning."
+     "explanation": "Bias."
     },
     {
-     "question_text": "What makes a presentation memorable is:",
+     "question_text": "Which survey question is biased?",
      "options": [
-      "Many slides",
-      "Reading",
-      "A clear message, stories, strong visuals and a confident delivery",
-      "Long text"
-     ],
-     "correct_index": 2,
-     "explanation": "Simplicity helps recall."
-    },
-    {
-     "question_text": "Qualities of a good presenter include:",
-     "options": [
-      "Monotone",
-      "Arrogance",
-      "Nervousness",
-      "Confidence, clarity, preparation and audience engagement"
+      "\"What did you like most about our service?\"",
+      "\"What can we do to improve our service?\"",
+      "\"How would you rate our service on a scale from 1 to 5?\"",
+      "\"Don't you agree that our excellent service deserves five stars?\""
      ],
      "correct_index": 3,
-     "explanation": "They are authentic and adaptable."
+     "explanation": "Leading."
+    },
+    {
+     "question_text": "Primary data are those that are:",
+     "options": [
+      "Taken from old records of the organisation",
+      "Taken from the newspapers and the periodicals",
+      "Taken from existing books and published reports",
+      "Collected first-hand by the researcher for the study"
+     ],
+     "correct_index": 3,
+     "explanation": "Original."
+    },
+    {
+     "question_text": "Secondary data are:",
+     "options": [
+      "Imaginary",
+      "Already collected by others and used by the researcher",
+      "Not useful",
+      "Collected through the researcher's own survey"
+     ],
+     "correct_index": 1,
+     "explanation": "Existing."
+    },
+    {
+     "question_text": "A pilot study is:",
+     "options": [
+      "The final study carried out after the main one",
+      "A study conducted on airline pilots in a training centre",
+      "A study conducted without collecting any data at all",
+      "A small preliminary study to test the methods before the main study"
+     ],
+     "correct_index": 3,
+     "explanation": "Trial run."
+    },
+    {
+     "question_text": "In the conclusion slide, you should:",
+     "options": [
+      "Restate the main findings and the recommendations",
+      "Introduce fresh data that has not been discussed earlier",
+      "Repeat all the earlier slides in a shorter form",
+      "Apologise to the audience for the findings of the study"
+     ],
+     "correct_index": 0,
+     "explanation": "Wrap-up."
+    },
+    {
+     "question_text": "Recommendations in a project should be:",
+     "options": [
+      "Impossible to carry out so that no one blames the team",
+      "Vague and general so that no one can object",
+      "Specific, realistic and linked to the findings",
+      "Unrelated to the findings to show originality"
+     ],
+     "correct_index": 2,
+     "explanation": "Actionable."
+    },
+    {
+     "question_text": "A \"limitations\" slide in a project presentation is used to:",
+     "options": [
+      "Praise the study and the team that carried it out",
+      "Criticise the earlier studies done on the same topic",
+      "Hide the weaknesses of the study from the audience",
+      "State honestly what the study could not cover and its weaknesses"
+     ],
+     "correct_index": 3,
+     "explanation": "Transparency."
+    },
+    {
+     "question_text": "A \"Thank you\" slide at the end should be accompanied by:",
+     "options": [
+      "Another full set of slides on the same topic",
+      "Contact details and an invitation for questions",
+      "A blank screen and a long silence",
+      "A set of jokes to leave the audience in good humour"
+     ],
+     "correct_index": 1,
+     "explanation": "Closing."
+    },
+    {
+     "question_text": "Good eye contact in a presentation means:",
+     "options": [
+      "Looking at the floor to keep the thoughts in order",
+      "Looking at one person only, such as the head of the panel",
+      "Looking at the screen throughout the presentation",
+      "Looking at different parts of the audience in turn while speaking"
+     ],
+     "correct_index": 3,
+     "explanation": "Engagement."
+    },
+    {
+     "question_text": "Using the laser pointer or cursor effectively means:",
+     "options": [
+      "Indicating the relevant part briefly without waving it around",
+      "Keeping it moving all the time to hold the audience's gaze",
+      "Using it to circle every word on each of the slides",
+      "Pointing it at the audience to draw their attention"
+     ],
+     "correct_index": 0,
+     "explanation": "Aid."
+    },
+    {
+     "question_text": "The best attitude of a presenter towards the audience is:",
+     "options": [
+      "Superior and dismissive of the audience's doubts",
+      "Respectful, enthusiastic and audience-centred",
+      "Indifferent to the reaction of the audience",
+      "Nervous and apologetic about the content"
+     ],
+     "correct_index": 1,
+     "explanation": "Attitude."
+    },
+    {
+     "question_text": "The primary measure of a successful project presentation is whether the audience:",
+     "options": [
+      "Admired the dress and style of the speaker",
+      "Clapped for the longest time at the end of the talk",
+      "Understood the message and acted as intended",
+      "Remembered the colours used in the slides"
+     ],
+     "correct_index": 2,
+     "explanation": "Outcome."
     }
    ]
   }
