@@ -94,7 +94,7 @@ html.dark body {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)), url('/wallpaper.jpg');
+  background-image: linear-gradient(rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.18)), url('/wallpaper.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
