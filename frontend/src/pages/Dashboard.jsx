@@ -4,6 +4,7 @@ import client from '../api/client';
 import { useAuth } from '../context/AuthContext';
 import Spinner from '../components/Spinner';
 import Leaderboard from '../components/Leaderboard';
+import AskSyllabus from '../components/AskSyllabus';
 import { computeStreak } from '../utils/celebrate';
 import { BookIcon, BellIcon, ClipboardIcon, ClockIcon } from '../components/icons';
 
@@ -57,6 +58,8 @@ export default function Dashboard() {
         Welcome back{user?.name ? `, ${user.name}` : ''}
       </h1>
       <p className="text-gray-600 dark:text-gray-400 mb-8">Here's where your studying stands.</p>
+
+      <AskSyllabus />
 
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-10">
         <div className="rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-5">

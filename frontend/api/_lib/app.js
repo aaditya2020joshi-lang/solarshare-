@@ -12,6 +12,7 @@ import flashcardsRoutes from './routes/flashcards.js';
 import notesRoutes from './routes/notes.js';
 import leaderboardRoutes from './routes/leaderboard.js';
 import searchRoutes from './routes/search.js';
+import syllabusRoutes from './routes/syllabus.js';
 import askRoutes from './routes/ask.js';
 
 export const app = express();
@@ -32,6 +33,7 @@ app.use('/api/flashcards', flashcardsRoutes);
 app.use('/api/notes', notesRoutes);
 app.use('/api/leaderboard', leaderboardRoutes);
 app.use('/api/search', searchRoutes);
+app.use('/api/syllabus-search', syllabusRoutes);
 app.use('/api/ask', askRoutes);
 
 app.use((err, req, res, next) => {
