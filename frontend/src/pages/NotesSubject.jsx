@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import client from '../api/client';
 import Spinner from '../components/Spinner';
 import { TrashIcon } from '../components/icons';
@@ -77,6 +77,39 @@ function NoteBody({ content }) {
         }
         return <p key={i}>{b.text}</p>;
       })}
+    </div>
+  );
+}
+
+function TopicQuiz({ noteId }) {
+  const navigate = useNavigate();
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState('');
+
+  async function start() {
+    setBusy(true);
+    setError('');
+    try {
+      const res = await client.post('/tests/topic', { note_id: noteId });
+      navigate(`/tests/${res.data.test_id}/take`);
+    } catch (err) {
+      setError(err.response?.data?.error || 'Could not build a quiz for this topic.');
+      setBusy(false);
+    }
+  }
+
+  return (
+    <div className="mt-4 pt-3 border-t border-gray-100 dark:border-gray-800">
+      <div className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-2">Test this topic</div>
+      <button
+        type="button"
+        onClick={start}
+        disabled={busy}
+        className="text-sm font-semibold text-white bg-gradient-to-r from-emerald-600 to-sky-accent px-3 py-1.5 rounded-lg shadow-sm hover:shadow-md transition-all disabled:opacity-60"
+      >
+        {busy ? 'Building your quiz…' : 'Quiz me on this topic'}
+      </button>
+      {error && <p className="text-xs text-red-600 mt-2">{error}</p>}
     </div>
   );
 }
@@ -262,6 +295,7 @@ export default function NotesSubject() {
                 {openId === n.id && (
                   <div className="px-4 pb-4 border-t border-gray-100 dark:border-gray-800 pt-3">
                     <NoteBody content={n.content} />
+                    <TopicQuiz noteId={n.id} />
                     <TestLinks tests={testsForNote(n)} />
                   </div>
                 )}

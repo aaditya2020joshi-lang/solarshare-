@@ -13,6 +13,7 @@ const BEST_PER_TEST = `
   FROM attempts a
   JOIN tests t ON t.id = a.test_id
   JOIN subjects s ON s.id = t.subject_id
+  WHERE t.title NOT LIKE 'Topic quiz%'
   GROUP BY a.user_id, s.name, t.title
 `;
 
