@@ -49,6 +49,35 @@ router.post(
   })
 );
 
+// Lets a user correct their own time for today, e.g. when they studied before the timer was switched on.
+router.post(
+  '/set-today',
+  asyncHandler(async (req, res) => {
+    const minutes = Math.round(Number(req.body?.minutes));
+    if (!Number.isFinite(minutes) || minutes < 0 || minutes > 24 * 60) {
+      return res.status(400).json({ error: 'Enter a time between 0 and 24 hours.' });
+    }
+    const seconds = minutes * 60;
+    await pool.query(
+      `INSERT INTO site_time (user_id, total_seconds, today_seconds, today_date, last_seen)
+       VALUES ($1, $2, $2, ${TODAY}, now())
+       ON CONFLICT (user_id) DO UPDATE SET
+         total_seconds = site_time.total_seconds
+           - (CASE WHEN site_time.today_date = ${TODAY} THEN site_time.today_seconds ELSE 0 END) + $2,
+         today_seconds = $2,
+         today_date = ${TODAY},
+         last_seen = now()`,
+      [req.userId, seconds]
+    );
+    await pool.query(
+      `INSERT INTO site_time_daily (user_id, day, seconds) VALUES ($1, ${TODAY}, $2)
+       ON CONFLICT (user_id, day) DO UPDATE SET seconds = EXCLUDED.seconds`,
+      [req.userId, seconds]
+    );
+    res.json({ ok: true });
+  })
+);
+
 router.get(
   '/history',
   asyncHandler(async (req, res) => {
