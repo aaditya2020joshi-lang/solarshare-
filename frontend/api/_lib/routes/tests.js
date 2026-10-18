@@ -115,9 +115,11 @@ router.post(
       const tHits = hits(texts[i], tStems);
       const bHits = hits(texts[i], bStems);
       const inUnit = unit && q.test_title.startsWith(`${unit}:`) ? 1 : 0;
-      // A question must mention the topic name, or several specific terms of the note from the same unit.
-      if (tHits === 0 && !(inUnit && bHits >= 3)) continue;
-      scored.push({ q, score: tHits * 10 + bHits * 2 + inUnit * 4 });
+      // Questions written specially for this topic always qualify and come first.
+      const isBank = q.test_title === `Question bank – ${note.title}`;
+      // Otherwise a question must mention the topic name, or several specific terms of the note from the same unit.
+      if (!isBank && tHits === 0 && !(inUnit && bHits >= 3)) continue;
+      scored.push({ q, score: tHits * 10 + bHits * 2 + inUnit * 4 + (isBank ? 100 : 0) });
     }
     scored.sort((a, b) => b.score - a.score);
 

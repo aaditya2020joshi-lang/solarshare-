@@ -1,0 +1,816 @@
+{
+ "tests": [
+  {
+   "title": "Question bank – 1.4 Microeconomics vs Macroeconomics",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which pair of terms was introduced by Ragnar Frisch in 1933 to separate the study of individual units from the study of the whole economy?",
+     "options": [
+      "Positive and normative economics",
+      "Static and dynamic economics",
+      "Microeconomics and macroeconomics",
+      "Partial and general equilibrium"
+     ],
+     "correct_index": 2,
+     "explanation": "Frisch."
+    },
+    {
+     "question_text": "Which of the following is a topic of microeconomics rather than macroeconomics?",
+     "options": [
+      "National income of the economy",
+      "Price determination in a single market",
+      "Balance of payments of a country",
+      "General price level and inflation"
+     ],
+     "correct_index": 1,
+     "explanation": "Micro versus macro."
+    },
+    {
+     "question_text": "Which of the following is a topic of macroeconomics rather than microeconomics?",
+     "options": [
+      "Wage fixation in one industry",
+      "Demand and supply of one commodity",
+      "Determination of national income and employment",
+      "Cost curves of a single firm"
+     ],
+     "correct_index": 2,
+     "explanation": "Macro."
+    },
+    {
+     "question_text": "Microeconomics is also called price theory because its central problem is:",
+     "options": [
+      "Price determination and the allocation of resources",
+      "Determination of the money supply",
+      "Determination of national income",
+      "Determination of the balance of payments"
+     ],
+     "correct_index": 0,
+     "explanation": "Price theory."
+    },
+    {
+     "question_text": "Macroeconomics is also called income and employment theory and is associated with:",
+     "options": [
+      "Adam Smith and the Wealth of Nations",
+      "Alfred Marshall and the Principles of Economics",
+      "Lionel Robbins and the Essay on Nature and Significance",
+      "J. M. Keynes and his General Theory of 1936"
+     ],
+     "correct_index": 3,
+     "explanation": "Keynes."
+    },
+    {
+     "question_text": "Partial equilibrium analysis, the usual method of microeconomics, studies:",
+     "options": [
+      "Only the government budget",
+      "One market at a time, with other things given",
+      "Only international trade",
+      "The whole economy through totals and averages"
+     ],
+     "correct_index": 1,
+     "explanation": "Partial equilibrium."
+    },
+    {
+     "question_text": "The method used in macroeconomics is described as aggregative because it:",
+     "options": [
+      "Studies each firm's cost curve",
+      "Studies the economy through totals and averages like total output and the general price level",
+      "Studies only one commodity at a time",
+      "Studies each household separately"
+     ],
+     "correct_index": 1,
+     "explanation": "Aggregative."
+    },
+    {
+     "question_text": "A study of why the price of onions rose in a city market in one month is mostly:",
+     "options": [
+      "Microeconomic analysis",
+      "Macroeconomic analysis",
+      "Public finance only",
+      "International trade theory only"
+     ],
+     "correct_index": 0,
+     "explanation": "Single market."
+    },
+    {
+     "question_text": "A study of why the general price level of the country rose by 6% in a year is mostly:",
+     "options": [
+      "Consumer behaviour analysis",
+      "Cost analysis of a firm",
+      "Microeconomic analysis",
+      "Macroeconomic analysis"
+     ],
+     "correct_index": 3,
+     "explanation": "General price level."
+    },
+    {
+     "question_text": "The paradox of thrift, where saving more by all households may reduce total income, is an example of:",
+     "options": [
+      "A macroeconomic idea where what is true for one person may not be true for the whole economy",
+      "A microeconomic law of diminishing returns",
+      "The theory of rent",
+      "The law of demand"
+     ],
+     "correct_index": 0,
+     "explanation": "Macro paradox."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.2 Law of Demand and Exceptions",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The law of demand states that, ceteris paribus, when the price of a commodity falls:",
+     "options": [
+      "Its quantity demanded rises",
+      "Its supply curve shifts to the right",
+      "Its demand curve shifts to the left",
+      "Its quantity demanded falls"
+     ],
+     "correct_index": 0,
+     "explanation": "Inverse relation."
+    },
+    {
+     "question_text": "Which of the following is NOT an assumption of the law of demand?",
+     "options": [
+      "Tastes and fashions remain unchanged",
+      "No expectation of a future change in the price",
+      "Prices of related goods remain unchanged",
+      "The price of the commodity changes along with the incomes of consumers"
+     ],
+     "correct_index": 3,
+     "explanation": "Income is assumed constant."
+    },
+    {
+     "question_text": "A fall in the price of a good raises the real income of the buyer and so more of the good is bought. This reason for the downward slope is called the:",
+     "options": [
+      "Income effect",
+      "Giffen effect",
+      "Veblen effect",
+      "Substitution effect"
+     ],
+     "correct_index": 0,
+     "explanation": "Income effect."
+    },
+    {
+     "question_text": "When a good becomes cheaper, consumers replace the costlier substitutes by it. This is the:",
+     "options": [
+      "Income effect",
+      "Demonstration effect",
+      "Substitution effect",
+      "Bandwagon effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Substitution effect."
+    },
+    {
+     "question_text": "Coarse cereals form a large part of the budget of the very poor. When their price falls, demand also falls. This exception to the law of demand is that of:",
+     "options": [
+      "Normal goods",
+      "Giffen goods",
+      "Complementary goods",
+      "Veblen goods"
+     ],
+     "correct_index": 1,
+     "explanation": "Giffen."
+    },
+    {
+     "question_text": "Demand for diamonds and designer cars rising when their price rises, as they are bought to show status, is the exception called:",
+     "options": [
+      "Giffen paradox",
+      "Substitution effect",
+      "Veblen effect or conspicuous consumption",
+      "Income effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Veblen."
+    },
+    {
+     "question_text": "Buying more of a share because its price is rising and a further rise is expected shows which exception to the law of demand?",
+     "options": [
+      "Giffen goods",
+      "Expectation of a future price change",
+      "Substitute goods",
+      "Normal goods"
+     ],
+     "correct_index": 1,
+     "explanation": "Speculative demand."
+    },
+    {
+     "question_text": "The downward-sloping demand curve is explained by the law of diminishing marginal utility because the consumer:",
+     "options": [
+      "Has an increasing marginal utility",
+      "Pays a higher price for each next unit",
+      "Buys only one unit in all cases",
+      "Is willing to buy more units only at a lower price"
+     ],
+     "correct_index": 3,
+     "explanation": "DMU."
+    },
+    {
+     "question_text": "Which of the following may cause a downward-sloping demand curve through the multiple uses of a commodity?",
+     "options": [
+      "When milk becomes costlier, new consumers buy it",
+      "When milk becomes cheaper it is used for curd, sweets and ghee as well as for drinking",
+      "When milk becomes costlier it is used for more purposes",
+      "When milk becomes cheaper it is used for fewer purposes"
+     ],
+     "correct_index": 1,
+     "explanation": "Multiple uses."
+    },
+    {
+     "question_text": "A price fall in a market attracts consumers who could not buy earlier. This reason for the law of demand is that of:",
+     "options": [
+      "New consumers",
+      "Veblen goods",
+      "Expectations",
+      "Giffen goods"
+     ],
+     "correct_index": 0,
+     "explanation": "New buyers."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.4 Elasticity of Demand and its Applications",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "A 20% fall in the price of a good leads to a 40% rise in the quantity demanded. The price elasticity of demand is:",
+     "options": [
+      "20",
+      "2",
+      "0.5",
+      "8"
+     ],
+     "correct_index": 1,
+     "explanation": "40/20."
+    },
+    {
+     "question_text": "When the percentage change in quantity demanded is smaller than the percentage change in price, demand is:",
+     "options": [
+      "Perfectly elastic",
+      "Relatively inelastic",
+      "Relatively elastic",
+      "Unitary elastic"
+     ],
+     "correct_index": 1,
+     "explanation": "Ed < 1."
+    },
+    {
+     "question_text": "The demand curve for a firm in perfect competition, which is horizontal, shows:",
+     "options": [
+      "Perfectly elastic demand (Ed = infinity)",
+      "Perfectly inelastic demand",
+      "Unitary elastic demand",
+      "Relatively inelastic demand"
+     ],
+     "correct_index": 0,
+     "explanation": "Horizontal curve."
+    },
+    {
+     "question_text": "A vertical demand curve, such as for life-saving drugs, shows:",
+     "options": [
+      "Perfectly inelastic demand (Ed = 0)",
+      "Unitary elastic demand",
+      "Perfectly elastic demand",
+      "Relatively elastic demand"
+     ],
+     "correct_index": 0,
+     "explanation": "Vertical curve."
+    },
+    {
+     "question_text": "If the price of a good rises from Rs 10 to Rs 12 and the quantity demanded falls from 100 to 90, the percentage method elasticity is:",
+     "options": [
+      "2",
+      "0.5",
+      "0.2",
+      "1"
+     ],
+     "correct_index": 1,
+     "explanation": "10/20."
+    },
+    {
+     "question_text": "The elasticity of demand with respect to income is called:",
+     "options": [
+      "Advertising elasticity",
+      "Price elasticity of demand",
+      "Cross elasticity of demand",
+      "Income elasticity of demand"
+     ],
+     "correct_index": 3,
+     "explanation": "Ey."
+    },
+    {
+     "question_text": "When the price of tea rises and the demand for coffee rises, the cross elasticity between them is:",
+     "options": [
+      "Negative, as they are complements",
+      "Infinite, as they are identical",
+      "Positive, as they are substitutes",
+      "Zero, as they are unrelated"
+     ],
+     "correct_index": 2,
+     "explanation": "Substitutes."
+    },
+    {
+     "question_text": "The total outlay method says that if a price fall raises total expenditure on the good, demand is:",
+     "options": [
+      "Unitary elastic",
+      "Inelastic",
+      "Elastic",
+      "Perfectly inelastic"
+     ],
+     "correct_index": 2,
+     "explanation": "Total outlay."
+    },
+    {
+     "question_text": "A seller who finds demand for his product inelastic can raise his total revenue by:",
+     "options": [
+      "Keeping the price constant forever",
+      "Lowering the price",
+      "Stopping production",
+      "Raising the price"
+     ],
+     "correct_index": 3,
+     "explanation": "Inelastic demand."
+    },
+    {
+     "question_text": "Which of the following goods is likely to have the least elastic demand?",
+     "options": [
+      "Salt",
+      "Luxury cars",
+      "Foreign holidays",
+      "Branded jewellery"
+     ],
+     "correct_index": 0,
+     "explanation": "Necessities."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 4.4 Market Equilibrium — Invisible Hand; Effects of Shifts in DC and SC",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "At a price above the equilibrium price, the market has:",
+     "options": [
+      "Equilibrium, and no pressure on the price",
+      "A surplus, and sellers compete to push the price down",
+      "A shortage, and buyers compete to push the price up",
+      "A shortage, and sellers compete to push the price down"
+     ],
+     "correct_index": 1,
+     "explanation": "Excess supply."
+    },
+    {
+     "question_text": "At a price below the equilibrium price, the market has:",
+     "options": [
+      "A surplus, and sellers compete to push the price down",
+      "Equilibrium, and no pressure on the price",
+      "A shortage, and buyers compete to push the price up",
+      "A surplus, and buyers compete to push the price up"
+     ],
+     "correct_index": 2,
+     "explanation": "Excess demand."
+    },
+    {
+     "question_text": "In a table showing price 8 with demand 40 and supply 60, the market position is:",
+     "options": [
+      "A shortage of 20",
+      "A surplus of 20",
+      "Equilibrium",
+      "A surplus of 100"
+     ],
+     "correct_index": 1,
+     "explanation": "Qs − Qd."
+    },
+    {
+     "question_text": "In a table showing price 4 with demand 70 and supply 30, the market position is:",
+     "options": [
+      "A shortage of 40",
+      "Equilibrium",
+      "A surplus of 40",
+      "A shortage of 100"
+     ],
+     "correct_index": 0,
+     "explanation": "Qd − Qs."
+    },
+    {
+     "question_text": "The \"invisible hand\" of Adam Smith suggests that:",
+     "options": [
+      "Self-interested individuals promote the interest of society through the price mechanism",
+      "Self-interest always harms society",
+      "Prices have no role in allocating resources",
+      "The government must plan every market"
+     ],
+     "correct_index": 0,
+     "explanation": "Invisible hand."
+    },
+    {
+     "question_text": "A stable equilibrium is one in which:",
+     "options": [
+      "Market forces restore the equilibrium after a disturbance",
+      "Price is zero",
+      "Demand is vertical",
+      "Market forces push the price further away after a disturbance"
+     ],
+     "correct_index": 0,
+     "explanation": "Stable."
+    },
+    {
+     "question_text": "If demand increases while supply remains unchanged, the equilibrium price and quantity both:",
+     "options": [
+      "Price rises and quantity falls",
+      "Fall",
+      "Price falls and quantity rises",
+      "Rise"
+     ],
+     "correct_index": 3,
+     "explanation": "Shift in demand."
+    },
+    {
+     "question_text": "If supply increases while demand remains unchanged, the equilibrium price falls and the quantity:",
+     "options": [
+      "Falls",
+      "Is unchanged",
+      "Rises",
+      "Becomes zero"
+     ],
+     "correct_index": 2,
+     "explanation": "Shift in supply."
+    },
+    {
+     "question_text": "If both demand and supply increase, the equilibrium quantity:",
+     "options": [
+      "Falls, and the effect on price is uncertain",
+      "Rises, and the effect on price is uncertain",
+      "Rises, and price must rise",
+      "Falls, and price must fall"
+     ],
+     "correct_index": 1,
+     "explanation": "Both shift."
+    },
+    {
+     "question_text": "If demand falls and supply rises, the equilibrium price:",
+     "options": [
+      "Rises",
+      "Is unchanged",
+      "Is uncertain",
+      "Falls"
+     ],
+     "correct_index": 3,
+     "explanation": "Both reduce price."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 4.5 Elasticity of Supply and its Application",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Elasticity of supply is positive because of the:",
+     "options": [
+      "Law of demand",
+      "Inverse relation between price and quantity supplied",
+      "Direct relation between price and quantity supplied",
+      "Absence of a relation between price and quantity"
+     ],
+     "correct_index": 2,
+     "explanation": "Direct."
+    },
+    {
+     "question_text": "A straight-line supply curve that passes through the origin has elasticity of supply:",
+     "options": [
+      "Equal to one",
+      "Equal to zero",
+      "Less than one",
+      "Greater than one"
+     ],
+     "correct_index": 0,
+     "explanation": "Geometric rule."
+    },
+    {
+     "question_text": "A straight-line supply curve which cuts the price (Y) axis has elasticity of supply:",
+     "options": [
+      "Equal to zero",
+      "Greater than one",
+      "Less than one",
+      "Equal to one"
+     ],
+     "correct_index": 1,
+     "explanation": "Geometric rule."
+    },
+    {
+     "question_text": "A straight-line supply curve which cuts the quantity (X) axis has elasticity of supply:",
+     "options": [
+      "Less than one",
+      "Equal to one",
+      "Infinity",
+      "Greater than one"
+     ],
+     "correct_index": 0,
+     "explanation": "Geometric rule."
+    },
+    {
+     "question_text": "When the price rises from Rs 20 to Rs 25 and the quantity supplied rises from 100 to 150, the elasticity of supply is:",
+     "options": [
+      "2",
+      "0.5",
+      "1",
+      "1.25"
+     ],
+     "correct_index": 0,
+     "explanation": "50/25."
+    },
+    {
+     "question_text": "In the market period, the supply of a perishable good is:",
+     "options": [
+      "Unitary elastic",
+      "Perfectly elastic",
+      "Highly elastic",
+      "Perfectly inelastic"
+     ],
+     "correct_index": 3,
+     "explanation": "Time."
+    },
+    {
+     "question_text": "Supply is more elastic in the long run than in the short run because:",
+     "options": [
+      "Prices are fixed by the government",
+      "All inputs can be varied and firms can enter the industry",
+      "Costs are zero",
+      "Demand is constant"
+     ],
+     "correct_index": 1,
+     "explanation": "Time period."
+    },
+    {
+     "question_text": "Which of the following goods has the more elastic supply?",
+     "options": [
+      "Perishable goods",
+      "Fresh milk",
+      "Fresh fish",
+      "Durable goods that can be stored"
+     ],
+     "correct_index": 3,
+     "explanation": "Nature of good."
+    },
+    {
+     "question_text": "A perfectly elastic supply curve is:",
+     "options": [
+      "A line from the origin at 45 degrees",
+      "A downward sloping line",
+      "A horizontal line",
+      "A vertical line"
+     ],
+     "correct_index": 2,
+     "explanation": "Es = infinity."
+    },
+    {
+     "question_text": "If the supply curve is vertical, then:",
+     "options": [
+      "Supply is perfectly elastic",
+      "Quantity supplied is fixed whatever the price",
+      "Quantity supplied is infinite",
+      "Supply is unitary elastic"
+     ],
+     "correct_index": 1,
+     "explanation": "Es = 0."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 6.2 Economies of Scale and Scope",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which of the following is an internal economy of scale?",
+     "options": [
+      "Bulk discounts enjoyed because of the firm's own large purchases",
+      "Better roads built in the region",
+      "A skilled labour pool in the cluster",
+      "Growth of ancillary industries in the area"
+     ],
+     "correct_index": 0,
+     "explanation": "Internal."
+    },
+    {
+     "question_text": "Which of the following is an external economy of scale?",
+     "options": [
+      "The growth of ancillary industries in an industrial cluster",
+      "Specialised managers hired by the firm",
+      "A larger machine bought by the firm",
+      "Cheaper credit for the firm because of its size"
+     ],
+     "correct_index": 0,
+     "explanation": "External."
+    },
+    {
+     "question_text": "Textile units in Tirupur gain from a pool of skilled workers and ancillary industries. These are:",
+     "options": [
+      "Economies of scope",
+      "External economies",
+      "Internal economies",
+      "Diseconomies of scale"
+     ],
+     "correct_index": 1,
+     "explanation": "Cluster."
+    },
+    {
+     "question_text": "Diseconomies of scale arise when a firm becomes too large because of:",
+     "options": [
+      "Better technology",
+      "Coordination and management problems",
+      "Specialisation of labour",
+      "Bulk buying"
+     ],
+     "correct_index": 1,
+     "explanation": "Rising AC."
+    },
+    {
+     "question_text": "Congestion and pollution in an industrial area are examples of:",
+     "options": [
+      "Managerial economies",
+      "Technical economies",
+      "External diseconomies",
+      "Internal economies"
+     ],
+     "correct_index": 2,
+     "explanation": "External diseconomies."
+    },
+    {
+     "question_text": "A dairy that produces milk, curd and butter using the same plant and distribution gains:",
+     "options": [
+      "Economies of scope",
+      "Diseconomies of scope",
+      "Economies of scale only",
+      "Diseconomies of scale"
+     ],
+     "correct_index": 0,
+     "explanation": "Joint production."
+    },
+    {
+     "question_text": "Economies of scope arise when:",
+     "options": [
+      "Output of a single product expands",
+      "Only one product is made",
+      "Fixed costs rise",
+      "Producing related products together costs less than producing them separately"
+     ],
+     "correct_index": 3,
+     "explanation": "Definition."
+    },
+    {
+     "question_text": "The technical economy of scale arises from:",
+     "options": [
+      "Bulk advertising",
+      "Large machines and specialisation",
+      "Diversification of products",
+      "Cheaper loans"
+     ],
+     "correct_index": 1,
+     "explanation": "Technical."
+    },
+    {
+     "question_text": "Risk-bearing economies of scale arise from:",
+     "options": [
+      "Bulk buying",
+      "Division of labour",
+      "Diversification of products and markets",
+      "Better machines"
+     ],
+     "correct_index": 2,
+     "explanation": "Risk."
+    },
+    {
+     "question_text": "Financial economies of scale mean that a large firm can:",
+     "options": [
+      "Use larger machines",
+      "Buy raw materials in bulk",
+      "Employ specialised labour",
+      "Raise funds more cheaply"
+     ],
+     "correct_index": 3,
+     "explanation": "Finance."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 6.4 Isocost Line",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The isocost line shows:",
+     "options": [
+      "The change in output",
+      "The marginal product of labour",
+      "All combinations of inputs that give the same output",
+      "All combinations of labour and capital that can be bought for a given outlay"
+     ],
+     "correct_index": 3,
+     "explanation": "Isocost."
+    },
+    {
+     "question_text": "The slope of the isocost line (with capital on the vertical axis) is:",
+     "options": [
+      "The total outlay",
+      "The rental rate divided by the wage rate with a plus sign",
+      "Minus the wage rate divided by the rental rate of capital",
+      "The wage rate multiplied by the rental rate"
+     ],
+     "correct_index": 2,
+     "explanation": "−w/r."
+    },
+    {
+     "question_text": "With total outlay of Rs 1,000, a wage rate of Rs 50 and a rental rate of Rs 100, the labour axis intercept is:",
+     "options": [
+      "100",
+      "20",
+      "10",
+      "50"
+     ],
+     "correct_index": 1,
+     "explanation": "1000/50."
+    },
+    {
+     "question_text": "With total outlay of Rs 1,000, a wage rate of Rs 50 and a rental rate of Rs 100, the capital axis intercept is:",
+     "options": [
+      "5",
+      "50",
+      "20",
+      "10"
+     ],
+     "correct_index": 3,
+     "explanation": "1000/100."
+    },
+    {
+     "question_text": "An equal increase in the outlay shifts the isocost line:",
+     "options": [
+      "By rotating around the labour axis intercept",
+      "Outward and parallel",
+      "By rotating around the capital axis intercept",
+      "Inward and parallel"
+     ],
+     "correct_index": 1,
+     "explanation": "Outlay change."
+    },
+    {
+     "question_text": "A rise in the wage rate, with outlay and the rental rate unchanged, rotates the isocost line:",
+     "options": [
+      "Inward around the capital axis intercept",
+      "Parallel outward",
+      "Parallel inward",
+      "Outward around the capital axis intercept"
+     ],
+     "correct_index": 0,
+     "explanation": "Wage change."
+    },
+    {
+     "question_text": "A fall in the rental rate of capital, with outlay and wages unchanged, rotates the isocost line:",
+     "options": [
+      "Parallel outward",
+      "Outward around the labour axis intercept",
+      "Inward around the labour axis intercept",
+      "Parallel inward"
+     ],
+     "correct_index": 1,
+     "explanation": "Rental change."
+    },
+    {
+     "question_text": "The isocost line is to the producer what the following is to the consumer:",
+     "options": [
+      "The budget line",
+      "The utility curve",
+      "The indifference curve",
+      "The demand curve"
+     ],
+     "correct_index": 0,
+     "explanation": "Analogy."
+    },
+    {
+     "question_text": "The total cost expressed by the isocost line is TC =:",
+     "options": [
+      "w plus L plus r plus K",
+      "w divided by r",
+      "w times L plus r times K",
+      "L times K"
+     ],
+     "correct_index": 2,
+     "explanation": "Cost equation."
+    },
+    {
+     "question_text": "The tangency of the isoquant and the isocost line gives:",
+     "options": [
+      "The least-cost combination of inputs",
+      "The lowest isoquant",
+      "The maximum cost",
+      "The highest isocost"
+     ],
+     "correct_index": 0,
+     "explanation": "Producer equilibrium."
+    }
+   ]
+  }
+ ]
+}

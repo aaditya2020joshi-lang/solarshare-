@@ -1,0 +1,518 @@
+{
+ "tests": [
+  {
+   "title": "Question bank – 1.5 Punctuation",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which sentence uses the semicolon correctly?",
+     "options": [
+      "The meeting ended late; and everyone was tired.",
+      "The meeting ended; late everyone was tired.",
+      "The meeting; ended late everyone was tired.",
+      "The meeting ended late; everyone was tired."
+     ],
+     "correct_index": 3,
+     "explanation": "Semicolon joins independent clauses."
+    },
+    {
+     "question_text": "Which sentence uses the colon correctly?",
+     "options": [
+      "You: need three things a laptop, a charger and a bag.",
+      "You need three things: a laptop, a charger and a bag.",
+      "You need three things a laptop: a charger and a bag.",
+      "You need: three things a laptop, a charger and a bag."
+     ],
+     "correct_index": 1,
+     "explanation": "Colon introduces a list."
+    },
+    {
+     "question_text": "Which sentence uses the apostrophe correctly for possession by several employees?",
+     "options": [
+      "The employees benefit's were revised.",
+      "The employees' benefits were revised.",
+      "The employee's benefits were revised by all the employees.",
+      "The employees's benefits were revised."
+     ],
+     "correct_index": 1,
+     "explanation": "Plural possessive."
+    },
+    {
+     "question_text": "Choose the correct form: \"The company changed ___ policy.\"",
+     "options": [
+      "its",
+      "its'",
+      "it is",
+      "it's"
+     ],
+     "correct_index": 0,
+     "explanation": "Its is possessive."
+    },
+    {
+     "question_text": "Which sentence has a comma splice error?",
+     "options": [
+      "Because the report was late, we missed the deadline.",
+      "The report was late; we missed the deadline.",
+      "The report was late, we missed the deadline.",
+      "The report was late, so we missed the deadline."
+     ],
+     "correct_index": 2,
+     "explanation": "Comma splice."
+    },
+    {
+     "question_text": "A comma should NOT be placed between:",
+     "options": [
+      "An introductory phrase and the main clause",
+      "A coordinating conjunction and the second independent clause",
+      "Items in a list",
+      "The subject and its verb"
+     ],
+     "correct_index": 3,
+     "explanation": "Rule."
+    },
+    {
+     "question_text": "Which sentence is correctly punctuated?",
+     "options": [
+      "However, the plan was approved.",
+      "However, the plan, was approved.",
+      "However the plan, was approved.",
+      "However the plan was, approved."
+     ],
+     "correct_index": 0,
+     "explanation": "Comma after introductory word."
+    },
+    {
+     "question_text": "The exclamation mark in formal business writing is generally:",
+     "options": [
+      "Used instead of a full stop",
+      "Avoided",
+      "Required at the end of each paragraph",
+      "Used in every sentence"
+     ],
+     "correct_index": 1,
+     "explanation": "Formal tone."
+    },
+    {
+     "question_text": "Quotation marks are used for:",
+     "options": [
+      "Abbreviations",
+      "Indirect speech",
+      "Direct speech and titles of short works",
+      "Dates"
+     ],
+     "correct_index": 2,
+     "explanation": "Quotation marks."
+    },
+    {
+     "question_text": "A hyphen is correctly used in:",
+     "options": [
+      "A well-known author",
+      "An author well-known",
+      "A wellknown author",
+      "A well known-author"
+     ],
+     "correct_index": 0,
+     "explanation": "Compound modifier."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.2 Genres and Difficulty Levels",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "News reports are usually written in the inverted pyramid style, which places:",
+     "options": [
+      "The most important information first",
+      "The details first",
+      "The least important information first",
+      "The conclusion last and the introduction first"
+     ],
+     "correct_index": 0,
+     "explanation": "Inverted pyramid."
+    },
+    {
+     "question_text": "Which genre of text expresses the opinion of a newspaper on an issue?",
+     "options": [
+      "News report",
+      "Obituary",
+      "Editorial",
+      "Weather report"
+     ],
+     "correct_index": 2,
+     "explanation": "Opinion."
+    },
+    {
+     "question_text": "Which genre relies on imagery, figurative language and rhythm?",
+     "options": [
+      "Poetry",
+      "Annual report",
+      "Contract",
+      "Memo"
+     ],
+     "correct_index": 0,
+     "explanation": "Poetry."
+    },
+    {
+     "question_text": "Which of the following is a business text?",
+     "options": [
+      "Sonnet",
+      "Memo, proposal or annual report",
+      "Fable",
+      "Novel"
+     ],
+     "correct_index": 1,
+     "explanation": "Business texts."
+    },
+    {
+     "question_text": "The elements of fiction include:",
+     "options": [
+      "Agenda and minutes",
+      "Plot, characters, setting, theme and tone",
+      "Salutation and complimentary close",
+      "Abstract, keywords and citations"
+     ],
+     "correct_index": 1,
+     "explanation": "Fiction."
+    },
+    {
+     "question_text": "Abstracts, research papers and textbooks are examples of:",
+     "options": [
+      "Academic or scientific texts",
+      "Advertising",
+      "Poetry",
+      "Fiction"
+     ],
+     "correct_index": 0,
+     "explanation": "Academic."
+    },
+    {
+     "question_text": "A biography is classed as:",
+     "options": [
+      "Drama",
+      "Poetry",
+      "Fiction",
+      "Non-fiction"
+     ],
+     "correct_index": 3,
+     "explanation": "Non-fiction."
+    },
+    {
+     "question_text": "Slogans, ads and brochures are examples of:",
+     "options": [
+      "Academic texts",
+      "Memoirs",
+      "Persuasive or advertising texts",
+      "Legal contracts"
+     ],
+     "correct_index": 2,
+     "explanation": "Persuasive."
+    },
+    {
+     "question_text": "The difficulty of a reading text depends on:",
+     "options": [
+      "The colour of the paper only",
+      "The font only",
+      "The length of the title only",
+      "Vocabulary, sentence length, structure and the reader's background knowledge"
+     ],
+     "correct_index": 3,
+     "explanation": "Difficulty levels."
+    },
+    {
+     "question_text": "Blogs, websites and infographics are examples of:",
+     "options": [
+      "Legal texts",
+      "Digital texts",
+      "Oral texts",
+      "Print-only texts"
+     ],
+     "correct_index": 1,
+     "explanation": "Digital."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 4.2 Dialogue Writing",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "In the script style of dialogue writing, each speaker's lines begin:",
+     "options": [
+      "On the same line as the previous speaker",
+      "On a new line after the speaker's name and a colon",
+      "In a new paragraph without any name",
+      "At the end of the page"
+     ],
+     "correct_index": 1,
+     "explanation": "Format."
+    },
+    {
+     "question_text": "Stage directions in a written dialogue are generally placed:",
+     "options": [
+      "In brackets",
+      "In capital letters in the middle of a sentence",
+      "In the title",
+      "In footnotes"
+     ],
+     "correct_index": 0,
+     "explanation": "Convention."
+    },
+    {
+     "question_text": "A formal business dialogue should use:",
+     "options": [
+      "Very long speeches",
+      "Polite expressions such as \"Could you please...\"",
+      "Slang",
+      "Abusive language"
+     ],
+     "correct_index": 1,
+     "explanation": "Formal tone."
+    },
+    {
+     "question_text": "The usual structure of a dialogue is:",
+     "options": [
+      "Greeting only",
+      "Topic only",
+      "Greeting, main topic, conclusion",
+      "Conclusion, topic, greeting"
+     ],
+     "correct_index": 2,
+     "explanation": "Structure."
+    },
+    {
+     "question_text": "Contractions such as \"it's\" and \"don't\" are:",
+     "options": [
+      "Allowed only in reports",
+      "Required in formal letters",
+      "Never allowed",
+      "Acceptable in informal dialogue"
+     ],
+     "correct_index": 3,
+     "explanation": "Informal."
+    },
+    {
+     "question_text": "A good dialogue is:",
+     "options": [
+      "One long speech by one person",
+      "Long and unrelated",
+      "Short, relevant and purposeful with natural turn-taking",
+      "Without any questions"
+     ],
+     "correct_index": 2,
+     "explanation": "Qualities."
+    },
+    {
+     "question_text": "The tone of a dialogue between friends should be:",
+     "options": [
+      "Legal",
+      "Technical",
+      "Very formal",
+      "Informal and natural"
+     ],
+     "correct_index": 3,
+     "explanation": "Tone."
+    },
+    {
+     "question_text": "The main purpose of dialogue in a story is to:",
+     "options": [
+      "Show how people speak and interact",
+      "List facts only",
+      "Replace the plot",
+      "Avoid characters"
+     ],
+     "correct_index": 0,
+     "explanation": "Purpose."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 4.3 Storytelling",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The sequence beginning, rising action, climax, falling action and resolution is known as:",
+     "options": [
+      "Fayol's principles",
+      "The AIDA formula",
+      "The PEEL structure",
+      "Freytag's pyramid"
+     ],
+     "correct_index": 3,
+     "explanation": "Freytag."
+    },
+    {
+     "question_text": "\"Show, don't tell\" in storytelling means:",
+     "options": [
+      "Do not tell the story",
+      "Use vivid sensory details instead of plain statements",
+      "Tell the ending first",
+      "Show pictures only"
+     ],
+     "correct_index": 1,
+     "explanation": "Technique."
+    },
+    {
+     "question_text": "The protagonist of a story is:",
+     "options": [
+      "The audience",
+      "The villain",
+      "The narrator only",
+      "The main character"
+     ],
+     "correct_index": 3,
+     "explanation": "Protagonist."
+    },
+    {
+     "question_text": "The antagonist of a story is:",
+     "options": [
+      "The hero",
+      "The narrator",
+      "The character or force that opposes the protagonist",
+      "The author"
+     ],
+     "correct_index": 2,
+     "explanation": "Antagonist."
+    },
+    {
+     "question_text": "The turning point of highest tension in a story is the:",
+     "options": [
+      "Climax",
+      "Setting",
+      "Exposition",
+      "Resolution"
+     ],
+     "correct_index": 0,
+     "explanation": "Climax."
+    },
+    {
+     "question_text": "The three-act structure of a story consists of:",
+     "options": [
+      "Beginning, middle and verdict only",
+      "Setup, confrontation and resolution",
+      "Premise, inference and conclusion",
+      "Introduction, thesis and conclusion"
+     ],
+     "correct_index": 1,
+     "explanation": "Three acts."
+    },
+    {
+     "question_text": "Joseph Campbell is associated with:",
+     "options": [
+      "The hero's journey",
+      "The rule of three",
+      "The Delphi technique",
+      "The inverted pyramid"
+     ],
+     "correct_index": 0,
+     "explanation": "Hero's journey."
+    },
+    {
+     "question_text": "In oral storytelling, voice modulation includes variations in:",
+     "options": [
+      "Only colour",
+      "Only font size",
+      "Pitch, volume and pace",
+      "Only length"
+     ],
+     "correct_index": 2,
+     "explanation": "Delivery."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 7.3 How to Moderate a Debate",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "A debate moderator or chair should be:",
+     "options": [
+      "A member of the audience",
+      "A supporter of the Opposition",
+      "Neutral and not take sides",
+      "A supporter of the Proposition"
+     ],
+     "correct_index": 2,
+     "explanation": "Impartiality."
+    },
+    {
+     "question_text": "At the opening of a debate, the moderator should:",
+     "options": [
+      "Give his own opinion",
+      "Announce the winner",
+      "Start with the closing",
+      "Introduce the motion, teams, judges and rules"
+     ],
+     "correct_index": 3,
+     "explanation": "Opening."
+    },
+    {
+     "question_text": "During the debate, the moderator enforces:",
+     "options": [
+      "His own views",
+      "The audience's applause",
+      "The grading of the speakers",
+      "Time limits and decorum"
+     ],
+     "correct_index": 3,
+     "explanation": "During."
+    },
+    {
+     "question_text": "When two speakers interrupt each other, the moderator should:",
+     "options": [
+      "Leave the room",
+      "Stop the interruption firmly and politely and give the floor to one",
+      "Cancel the debate",
+      "Join the argument"
+     ],
+     "correct_index": 1,
+     "explanation": "Order."
+    },
+    {
+     "question_text": "During the open floor or Q&A, the moderator should:",
+     "options": [
+      "Ignore questions",
+      "Allow long statements",
+      "Ensure fairness and paraphrase unclear questions",
+      "Take sides"
+     ],
+     "correct_index": 2,
+     "explanation": "Q&A."
+    },
+    {
+     "question_text": "Before the debate, the moderator should:",
+     "options": [
+      "Avoid the rules",
+      "Understand the motion and format and coordinate with timekeepers and judges",
+      "Choose the winner",
+      "Write the speeches of the teams"
+     ],
+     "correct_index": 1,
+     "explanation": "Preparation."
+    },
+    {
+     "question_text": "The moderator signals time limits to speakers using:",
+     "options": [
+      "A bell or cards",
+      "Nothing",
+      "A shout",
+      "A whistle only"
+     ],
+     "correct_index": 0,
+     "explanation": "Timing."
+    },
+    {
+     "question_text": "At the close, the moderator should:",
+     "options": [
+      "Thank participants and summarise the proceedings neutrally",
+      "Declare his favourite",
+      "Leave without a word",
+      "Criticise a team"
+     ],
+     "correct_index": 0,
+     "explanation": "Closing."
+    }
+   ]
+  }
+ ]
+}

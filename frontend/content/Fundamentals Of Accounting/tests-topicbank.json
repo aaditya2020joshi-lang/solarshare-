@@ -1,0 +1,595 @@
+{
+ "tests": [
+  {
+   "title": "Question bank – 2.2 Classification of Accounts and Golden Rules",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Under the traditional approach, outstanding salary is classified as a:",
+     "options": [
+      "Personal account of the representative type",
+      "Nominal account",
+      "Real account",
+      "Valuation account"
+     ],
+     "correct_index": 0,
+     "explanation": "Representative personal."
+    },
+    {
+     "question_text": "Under the traditional approach, prepaid insurance is classified as a:",
+     "options": [
+      "Real account",
+      "Contra account",
+      "Personal account of the representative type",
+      "Nominal account"
+     ],
+     "correct_index": 2,
+     "explanation": "Representative personal."
+    },
+    {
+     "question_text": "Which of the following is a natural personal account?",
+     "options": [
+      "Ram",
+      "Reliance Industries Ltd",
+      "A cricket club",
+      "State Bank of India"
+     ],
+     "correct_index": 0,
+     "explanation": "Natural person."
+    },
+    {
+     "question_text": "Which of the following is an artificial personal account?",
+     "options": [
+      "Ram",
+      "A bank or a company",
+      "Shyam",
+      "Mr Gupta"
+     ],
+     "correct_index": 1,
+     "explanation": "Artificial person."
+    },
+    {
+     "question_text": "Goodwill is classified as a:",
+     "options": [
+      "Real account of a tangible type",
+      "Personal account",
+      "Nominal account",
+      "Real account of an intangible type"
+     ],
+     "correct_index": 3,
+     "explanation": "Intangible real."
+    },
+    {
+     "question_text": "The golden rule for personal accounts is:",
+     "options": [
+      "Debit expenses and losses and credit incomes and gains",
+      "Debit what comes in and credit what goes out",
+      "Debit the giver and credit the receiver",
+      "Debit the receiver and credit the giver"
+     ],
+     "correct_index": 3,
+     "explanation": "Personal."
+    },
+    {
+     "question_text": "The golden rule for real accounts is:",
+     "options": [
+      "Debit all incomes and credit all expenses",
+      "Debit what comes in and credit what goes out",
+      "Credit what comes in and debit what goes out",
+      "Debit the receiver and credit the giver"
+     ],
+     "correct_index": 1,
+     "explanation": "Real."
+    },
+    {
+     "question_text": "The golden rule for nominal accounts is:",
+     "options": [
+      "Debit all incomes and credit all expenses",
+      "Debit what comes in and credit what goes out",
+      "Debit all expenses and losses and credit all incomes and gains",
+      "Debit the giver and credit the receiver"
+     ],
+     "correct_index": 2,
+     "explanation": "Nominal."
+    },
+    {
+     "question_text": "Rent paid, wages paid and discount allowed are:",
+     "options": [
+      "Nominal accounts to be credited",
+      "Nominal accounts to be debited",
+      "Real accounts to be credited",
+      "Personal accounts to be debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Expenses."
+    },
+    {
+     "question_text": "Commission earned and interest received are:",
+     "options": [
+      "Nominal accounts to be credited",
+      "Nominal accounts to be debited",
+      "Real accounts to be credited",
+      "Personal accounts to be debited"
+     ],
+     "correct_index": 0,
+     "explanation": "Incomes."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.3 Debit and Credit under English and American Systems — Application",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "In the English system, for purchase of machinery on credit, the entry is:",
+     "options": [
+      "Debit machinery and credit capital",
+      "Debit machinery and credit the creditor",
+      "Debit the creditor and credit machinery",
+      "Debit purchases and credit machinery"
+     ],
+     "correct_index": 1,
+     "explanation": "Real comes in, personal gives."
+    },
+    {
+     "question_text": "In the American system, purchase of machinery on credit means that an asset increases (debit) and a:",
+     "options": [
+      "Liability increases (credit)",
+      "Asset decreases (credit)",
+      "Liability decreases (debit)",
+      "Capital increases (credit)"
+     ],
+     "correct_index": 0,
+     "explanation": "Increase in liability."
+    },
+    {
+     "question_text": "Paying Rs 5,000 to a creditor is, in the English system:",
+     "options": [
+      "Debit the creditor and credit cash",
+      "Debit the creditor and credit purchases",
+      "Debit capital and credit cash",
+      "Debit cash and credit the creditor"
+     ],
+     "correct_index": 0,
+     "explanation": "Receiver is debited."
+    },
+    {
+     "question_text": "Received Rs 3,000 as rent. The entry is:",
+     "options": [
+      "Debit rent received and credit cash",
+      "Debit rent and credit cash",
+      "Debit cash and credit rent paid",
+      "Debit cash and credit rent received"
+     ],
+     "correct_index": 3,
+     "explanation": "Income."
+    },
+    {
+     "question_text": "Goods taken by the owner for personal use are recorded as:",
+     "options": [
+      "Debit drawings and credit sales",
+      "Debit purchases and credit drawings",
+      "Debit capital and credit sales",
+      "Debit drawings and credit purchases"
+     ],
+     "correct_index": 3,
+     "explanation": "Drawings at cost."
+    },
+    {
+     "question_text": "Under the American approach, an increase in an expense is:",
+     "options": [
+      "Recorded only in the balance sheet",
+      "Credited",
+      "Debited",
+      "Neither debited nor credited"
+     ],
+     "correct_index": 2,
+     "explanation": "Expenses."
+    },
+    {
+     "question_text": "Under the American approach, an increase in a liability is:",
+     "options": [
+      "Not recorded",
+      "Credited",
+      "Recorded in the profit and loss account",
+      "Debited"
+     ],
+     "correct_index": 1,
+     "explanation": "Liabilities."
+    },
+    {
+     "question_text": "Under the American approach, a decrease in an asset is:",
+     "options": [
+      "Added to capital",
+      "Credited",
+      "Debited",
+      "Not recorded"
+     ],
+     "correct_index": 1,
+     "explanation": "Assets."
+    },
+    {
+     "question_text": "Sold goods on credit to Mohan. Under the American approach, the debtor (asset) increases and:",
+     "options": [
+      "Capital decreases",
+      "A liability decreases",
+      "Income (sales) increases",
+      "An expense increases"
+     ],
+     "correct_index": 2,
+     "explanation": "Credit sales."
+    },
+    {
+     "question_text": "Commenced business with cash Rs 1,00,000. The English system entry is:",
+     "options": [
+      "Debit cash and credit capital",
+      "Debit cash and credit sales",
+      "Debit capital and credit cash",
+      "Debit drawings and credit cash"
+     ],
+     "correct_index": 0,
+     "explanation": "Opening."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.2 Recording Transactions in Journal — Illustrations",
+   "duration_minutes": 11,
+   "questions": [
+    {
+     "question_text": "On 1 January Mr Rao commenced business with cash Rs 1,00,000. The journal entry is:",
+     "options": [
+      "Cash A/c Dr. 1,00,000 to Sales A/c 1,00,000",
+      "Purchases A/c Dr. 1,00,000 to Cash A/c 1,00,000",
+      "Cash A/c Dr. 1,00,000 to Capital A/c 1,00,000",
+      "Capital A/c Dr. 1,00,000 to Cash A/c 1,00,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Opening entry."
+    },
+    {
+     "question_text": "Bought furniture for cash Rs 20,000. The entry is:",
+     "options": [
+      "Cash A/c Dr. 20,000 to Furniture A/c 20,000",
+      "Furniture A/c Dr. 20,000 to Cash A/c 20,000",
+      "Purchases A/c Dr. 20,000 to Cash A/c 20,000",
+      "Furniture A/c Dr. 20,000 to Capital A/c 20,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Asset purchase."
+    },
+    {
+     "question_text": "Sold goods to Shyam on credit for Rs 25,000. The entry is:",
+     "options": [
+      "Shyam Dr. 25,000 to Sales A/c 25,000",
+      "Cash A/c Dr. 25,000 to Sales A/c 25,000",
+      "Shyam Dr. 25,000 to Cash A/c 25,000",
+      "Sales A/c Dr. 25,000 to Shyam 25,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Credit sale."
+    },
+    {
+     "question_text": "Received Rs 24,000 from Shyam in full settlement of Rs 25,000. The discount allowed is:",
+     "options": [
+      "Nil",
+      "Rs 24,000, debited to discount allowed account",
+      "Rs 1,000, debited to discount allowed account",
+      "Rs 1,000, credited to discount received account"
+     ],
+     "correct_index": 2,
+     "explanation": "Discount allowed."
+    },
+    {
+     "question_text": "Paid Rs 29,000 to Ram in full settlement of Rs 30,000. The discount received is:",
+     "options": [
+      "Rs 1,000, credited to discount received account",
+      "Rs 1,000, debited to discount allowed account",
+      "Nil",
+      "Rs 29,000, credited to discount received account"
+     ],
+     "correct_index": 0,
+     "explanation": "Discount received."
+    },
+    {
+     "question_text": "Withdrew cash Rs 5,000 for personal use. The entry is:",
+     "options": [
+      "Capital A/c Dr. 5,000 to Cash A/c 5,000",
+      "Salaries A/c Dr. 5,000 to Cash A/c 5,000",
+      "Cash A/c Dr. 5,000 to Drawings A/c 5,000",
+      "Drawings A/c Dr. 5,000 to Cash A/c 5,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Drawings."
+    },
+    {
+     "question_text": "Goods costing Rs 3,000 were taken by the proprietor for personal use. The entry is:",
+     "options": [
+      "Drawings A/c Dr. 3,000 to Sales A/c 3,000",
+      "Purchases A/c Dr. 3,000 to Drawings A/c 3,000",
+      "Sales A/c Dr. 3,000 to Drawings A/c 3,000",
+      "Drawings A/c Dr. 3,000 to Purchases A/c 3,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Goods drawings."
+    },
+    {
+     "question_text": "Salary outstanding of Rs 4,000 at the month end. The journal entry is:",
+     "options": [
+      "Salaries A/c Dr. 4,000 to Outstanding salaries A/c 4,000",
+      "Cash A/c Dr. 4,000 to Salaries A/c 4,000",
+      "Salaries A/c Dr. 4,000 to Cash A/c 4,000",
+      "Outstanding salaries A/c Dr. 4,000 to Salaries A/c 4,000"
+     ],
+     "correct_index": 0,
+     "explanation": "Accrued expense."
+    },
+    {
+     "question_text": "Paid rent Rs 2,000 in cash. The entry is:",
+     "options": [
+      "Landlord Dr. 2,000 to Rent A/c 2,000",
+      "Rent A/c Dr. 2,000 to Cash A/c 2,000",
+      "Cash A/c Dr. 2,000 to Rent A/c 2,000",
+      "Rent A/c Dr. 2,000 to Capital A/c 2,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Expense."
+    },
+    {
+     "question_text": "Purchased goods from Ram on credit for Rs 30,000. The entry is:",
+     "options": [
+      "Cash A/c Dr. 30,000 to Ram 30,000",
+      "Purchases A/c Dr. 30,000 to Cash A/c 30,000",
+      "Purchases A/c Dr. 30,000 to Ram 30,000",
+      "Ram Dr. 30,000 to Purchases A/c 30,000"
+     ],
+     "correct_index": 2,
+     "explanation": "Credit purchase."
+    },
+    {
+     "question_text": "The opening entry credits capital with the:",
+     "options": [
+      "Total of the liabilities",
+      "Excess of assets over outside liabilities",
+      "Total of the assets",
+      "Total of the debtors"
+     ],
+     "correct_index": 1,
+     "explanation": "Capital is balancing."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.3 Problems on Journalising",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Mr Gupta's cash is Rs 15,000, stock Rs 40,000, debtors Rs 25,000 and furniture Rs 20,000, creditors Rs 30,000 and a bank loan Rs 20,000. His capital in the opening entry is:",
+     "options": [
+      "Rs 1,50,000",
+      "Rs 30,000",
+      "Rs 1,00,000",
+      "Rs 50,000"
+     ],
+     "correct_index": 3,
+     "explanation": "Assets less liabilities."
+    },
+    {
+     "question_text": "Goods sold to X for Rs 10,000 are paid for within the time allowed with 2% cash discount. The cash received is:",
+     "options": [
+      "Rs 10,000",
+      "Rs 9,980",
+      "Rs 200",
+      "Rs 9,800"
+     ],
+     "correct_index": 3,
+     "explanation": "10,000 − 200."
+    },
+    {
+     "question_text": "The closing entry for transferring sales to the trading account is:",
+     "options": [
+      "Capital A/c Dr. to Sales A/c",
+      "Trading A/c Dr. to Sales A/c",
+      "Sales A/c Dr. to Trading A/c",
+      "Sales A/c Dr. to Capital A/c"
+     ],
+     "correct_index": 2,
+     "explanation": "Closing sales."
+    },
+    {
+     "question_text": "The closing entry for transferring purchases to the trading account is:",
+     "options": [
+      "Trading A/c Dr. to Purchases A/c",
+      "Purchases A/c Dr. to Capital A/c",
+      "Capital A/c Dr. to Purchases A/c",
+      "Purchases A/c Dr. to Trading A/c"
+     ],
+     "correct_index": 0,
+     "explanation": "Closing purchases."
+    },
+    {
+     "question_text": "The closing entry for transferring net profit to capital is:",
+     "options": [
+      "Profit and Loss A/c Dr. to Capital A/c",
+      "Trading A/c Dr. to Capital A/c",
+      "Capital A/c Dr. to Profit and Loss A/c",
+      "Capital A/c Dr. to Drawings A/c"
+     ],
+     "correct_index": 0,
+     "explanation": "Profit."
+    },
+    {
+     "question_text": "The first step in solving a journalising problem is to:",
+     "options": [
+      "Prepare a trial balance",
+      "Post the entry in the ledger",
+      "Read the transaction and identify the accounts involved",
+      "Prepare the balance sheet"
+     ],
+     "correct_index": 2,
+     "explanation": "Steps."
+    },
+    {
+     "question_text": "Cheque of Rs 10,000 received from a debtor is deposited in the bank. The entry is:",
+     "options": [
+      "Bank A/c Dr. 10,000 to Sales A/c 10,000",
+      "Bank A/c Dr. 10,000 to Debtor 10,000",
+      "Cash A/c Dr. 10,000 to Debtor 10,000",
+      "Debtor Dr. 10,000 to Bank A/c 10,000"
+     ],
+     "correct_index": 1,
+     "explanation": "Receipt."
+    },
+    {
+     "question_text": "Goods worth Rs 2,000 returned by a customer are recorded as:",
+     "options": [
+      "Sales returns A/c Dr. to Customer",
+      "Customer Dr. to Sales returns A/c",
+      "Customer Dr. to Purchases returns A/c",
+      "Purchases returns A/c Dr. to Customer"
+     ],
+     "correct_index": 0,
+     "explanation": "Returns inwards."
+    },
+    {
+     "question_text": "A journal entry is made with the following parts:",
+     "options": [
+      "Only the date and the account name",
+      "Date, particulars, ledger folio, debit and credit amounts and narration",
+      "Only the amount",
+      "Only the narration"
+     ],
+     "correct_index": 1,
+     "explanation": "Format."
+    },
+    {
+     "question_text": "Cash of Rs 4,000 was paid to the proprietor as salary. The correct treatment is:",
+     "options": [
+      "Wages payable",
+      "Drawings, as a sole proprietor cannot be an employee of his own firm",
+      "Salaries expense",
+      "Capital contribution"
+     ],
+     "correct_index": 1,
+     "explanation": "Drawings."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 7.2 Reasons for Differences between Cash Book and Pass Book",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Cheques issued but not yet presented for payment make the pass book balance:",
+     "options": [
+      "Zero",
+      "Higher than the cash book balance",
+      "Equal to the cash book balance",
+      "Lower than the cash book balance"
+     ],
+     "correct_index": 1,
+     "explanation": "Timing difference."
+    },
+    {
+     "question_text": "Cheques deposited but not yet collected make the pass book balance:",
+     "options": [
+      "Zero",
+      "Higher than the cash book balance",
+      "Lower than the cash book balance",
+      "Equal to the cash book balance"
+     ],
+     "correct_index": 2,
+     "explanation": "Timing difference."
+    },
+    {
+     "question_text": "Which of the following needs an entry in the cash book on reconciliation?",
+     "options": [
+      "Bank charges debited by the bank",
+      "Cheques deposited but not collected",
+      "Cheques issued but not presented",
+      "A post-dated cheque not yet matured"
+     ],
+     "correct_index": 0,
+     "explanation": "Adjusted cash book."
+    },
+    {
+     "question_text": "Interest credited by the bank, not yet recorded in the cash book, will:",
+     "options": [
+      "Increase the cash book balance when recorded",
+      "Leave the cash book balance unchanged",
+      "Reverse the pass book",
+      "Decrease the cash book balance when recorded"
+     ],
+     "correct_index": 0,
+     "explanation": "Bank credit."
+    },
+    {
+     "question_text": "A cheque deposited on the last day of the month and credited by the bank on the next working day is:",
+     "options": [
+      "A cash book error",
+      "A fraud",
+      "A bank error",
+      "A timing difference that clears by itself"
+     ],
+     "correct_index": 3,
+     "explanation": "Timing."
+    },
+    {
+     "question_text": "A post-dated cheque received and recorded early in the cash book is credited by the bank:",
+     "options": [
+      "On the day of deposit",
+      "On or after the date on the cheque",
+      "Before the date on the cheque",
+      "Never"
+     ],
+     "correct_index": 1,
+     "explanation": "Post-dated."
+    },
+    {
+     "question_text": "A cheque deposited and dishonoured, which the cash book has not recorded, requires the cash book balance to be:",
+     "options": [
+      "Increased",
+      "Reduced",
+      "Left unchanged",
+      "Doubled"
+     ],
+     "correct_index": 1,
+     "explanation": "Dishonour."
+    },
+    {
+     "question_text": "A direct deposit by a customer into the bank, not yet recorded in the cash book, makes the cash book balance:",
+     "options": [
+      "Higher than the pass book before adjustment",
+      "Equal to the pass book before adjustment",
+      "Lower than the pass book before adjustment",
+      "Unknown"
+     ],
+     "correct_index": 2,
+     "explanation": "Bank credit."
+    },
+    {
+     "question_text": "Which of the following is a difference recorded by the bank but not yet in the cash book?",
+     "options": [
+      "Cheques deposited but not collected",
+      "Cheques issued but not presented",
+      "Post-dated cheques",
+      "Standing instruction payments and bank charges"
+     ],
+     "correct_index": 3,
+     "explanation": "Group B."
+    },
+    {
+     "question_text": "An error made by the bank, such as debiting a wrong account, requires:",
+     "options": [
+      "Correction by the bank, with the pass book adjusted in the reconciliation",
+      "Closing of the account",
+      "Correction in the cash book",
+      "No action"
+     ],
+     "correct_index": 0,
+     "explanation": "Bank error."
+    }
+   ]
+  }
+ ]
+}

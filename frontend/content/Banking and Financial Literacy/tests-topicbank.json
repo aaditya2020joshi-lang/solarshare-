@@ -1,0 +1,1435 @@
+{
+ "tests": [
+  {
+   "title": "Question bank – 1.1 Meaning and Importance of Financial Literacy",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which statement best separates financial inclusion from financial literacy?",
+     "options": [
+      "Both mean the same thing, as access to a product always brings understanding of it",
+      "Inclusion means teaching people about money, while literacy means giving loans to the poor",
+      "Inclusion is understanding how to use financial products, while literacy is simply holding a bank account",
+      "Inclusion is access to affordable products such as accounts and insurance, while literacy is understanding how to use them"
+     ],
+     "correct_index": 3,
+     "explanation": "Access versus understanding."
+    },
+    {
+     "question_text": "The OECD/INFE definition of financial literacy combines awareness, knowledge, skills and which other elements?",
+     "options": [
+      "Income and assets needed to make sound financial decisions",
+      "Tax slabs and insurance covers needed to make sound decisions",
+      "Attitudes and behaviours needed to make sound financial decisions",
+      "Credit scores and bank balances needed to make sound decisions"
+     ],
+     "correct_index": 2,
+     "explanation": "OECD/INFE."
+    },
+    {
+     "question_text": "Financial education differs from financial literacy in that financial education is:",
+     "options": [
+      "The result of understanding products, whereas literacy is the teaching process",
+      "The regulation of banks, whereas literacy is the regulation of insurers",
+      "The process of imparting the knowledge, whereas literacy is the resulting understanding",
+      "The act of opening accounts, whereas literacy is the act of borrowing"
+     ],
+     "correct_index": 2,
+     "explanation": "Process versus outcome."
+    },
+    {
+     "question_text": "Which of the following is NOT usually listed as an importance of financial literacy?",
+     "options": [
+      "It helps people plan income, expenses, savings and debt",
+      "It guarantees a fixed return on every investment made by the person",
+      "It protects people from frauds, scams and Ponzi schemes",
+      "It reduces dependence on informal moneylenders"
+     ],
+     "correct_index": 1,
+     "explanation": "Literacy cannot guarantee returns."
+    },
+    {
+     "question_text": "Greater household financial literacy supports the wider economy mainly by:",
+     "options": [
+      "Raising household savings and deepening the financial markets",
+      "Increasing the rate of inflation in the economy",
+      "Lowering the number of bank branches in a country",
+      "Removing the need for any financial regulator"
+     ],
+     "correct_index": 0,
+     "explanation": "Savings and markets."
+    },
+    {
+     "question_text": "A family learns to track expenses, keep an emergency fund and avoid unsecured high-interest loans. Which importance of financial literacy does this show?",
+     "options": [
+      "Better planning of income, savings and debt, and lower risk of over-indebtedness",
+      "Higher interest on savings accounts",
+      "Automatic improvement of the rate of return on all investments",
+      "Complete protection against rises in prices"
+     ],
+     "correct_index": 0,
+     "explanation": "Application."
+    },
+    {
+     "question_text": "Which body's view describes financial literacy as the ability to make informed judgements and take effective decisions about the use and management of money?",
+     "options": [
+      "The Securities Appellate Tribunal",
+      "RBI and the National Centre for Financial Education",
+      "The Goods and Services Tax Council",
+      "The Competition Commission of India"
+     ],
+     "correct_index": 1,
+     "explanation": "NCFE view."
+    },
+    {
+     "question_text": "Learning about frauds and phishing before using UPI is an example of which benefit of financial literacy?",
+     "options": [
+      "Lower income tax for every person",
+      "Safe use of digital payment tools and protection against fraud",
+      "Higher dividends from company shares",
+      "Free insurance cover for every person"
+     ],
+     "correct_index": 1,
+     "explanation": "Digital safety."
+    },
+    {
+     "question_text": "Which of the following is a direct result of better credit behaviour that financial literacy promotes?",
+     "options": [
+      "A guaranteed pension from the government",
+      "Exemption from paying any loan instalment",
+      "A higher bank deposit insurance limit",
+      "A higher credit score and easier access to loans on better terms"
+     ],
+     "correct_index": 3,
+     "explanation": "Credit score."
+    },
+    {
+     "question_text": "Which statement about financial inclusion is correct?",
+     "options": [
+      "It means access to affordable products like a bank account, credit, insurance and pension for all, especially weaker sections",
+      "It is a tax benefit available only to salaried employees",
+      "It is the process by which investors are taught about shares",
+      "It is the same as personal budgeting"
+     ],
+     "correct_index": 0,
+     "explanation": "Definition."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 1.2 Components of Financial Literacy",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Using the Rule of 72, money invested at 9% compound interest will roughly double in:",
+     "options": [
+      "7 years",
+      "12 years",
+      "9 years",
+      "8 years"
+     ],
+     "correct_index": 3,
+     "explanation": "72/9."
+    },
+    {
+     "question_text": "Which of the following is one of the \"big three\" financial literacy concepts?",
+     "options": [
+      "Share price, dividend and bonus issue",
+      "Interest compounding, inflation and risk diversification",
+      "Premium, claim and surrender value",
+      "Salary, bonus and pension"
+     ],
+     "correct_index": 1,
+     "explanation": "Lusardi-Mitchell questions."
+    },
+    {
+     "question_text": "The simple interest on Rs 20,000 at 6% for 3 years is:",
+     "options": [
+      "Rs 3,600",
+      "Rs 1,200",
+      "Rs 3,000",
+      "Rs 4,200"
+     ],
+     "correct_index": 0,
+     "explanation": "P×R×T/100."
+    },
+    {
+     "question_text": "Rs 10,000 at 10% compound interest for 2 years gives an amount of:",
+     "options": [
+      "Rs 12,100",
+      "Rs 11,000",
+      "Rs 12,000",
+      "Rs 11,100"
+     ],
+     "correct_index": 0,
+     "explanation": "10,000×1.1²."
+    },
+    {
+     "question_text": "Among the components of financial literacy, \"attitudes\" refers to:",
+     "options": [
+      "Long-term thinking, disciplined spending and willingness to plan",
+      "Knowing the meaning of interest and inflation",
+      "Calculating EMI and returns",
+      "Actually saving and paying bills on time"
+     ],
+     "correct_index": 0,
+     "explanation": "Attitude component."
+    },
+    {
+     "question_text": "Paying bills on time and avoiding unnecessary debt are examples of which component of financial literacy?",
+     "options": [
+      "Attitudes",
+      "Behaviour",
+      "Knowledge",
+      "Skills"
+     ],
+     "correct_index": 1,
+     "explanation": "Behaviour."
+    },
+    {
+     "question_text": "Which of the following is a pillar or major area of financial literacy?",
+     "options": [
+      "Importing, exporting, hedging and arbitrage",
+      "Mining, farming, trading and shipping",
+      "Earning, spending, saving, investing, borrowing, protecting and retirement planning",
+      "Printing, minting, auditing and licensing"
+     ],
+     "correct_index": 2,
+     "explanation": "Pillars."
+    },
+    {
+     "question_text": "If the interest rate is 12% per annum, the Rule of 72 says money doubles in about:",
+     "options": [
+      "12 years",
+      "9 years",
+      "3 years",
+      "6 years"
+     ],
+     "correct_index": 3,
+     "explanation": "72/12."
+    },
+    {
+     "question_text": "The ability to compare financial products and read statements belongs to which component?",
+     "options": [
+      "Attitudes",
+      "Skills",
+      "Behaviour",
+      "Knowledge of definitions only"
+     ],
+     "correct_index": 1,
+     "explanation": "Skills."
+    },
+    {
+     "question_text": "Compound interest amount is given by A = P(1 + r/100)^n. For P = Rs 5,000, r = 20% and n = 1 year, A is:",
+     "options": [
+      "Rs 7,000",
+      "Rs 5,200",
+      "Rs 6,000",
+      "Rs 5,100"
+     ],
+     "correct_index": 2,
+     "explanation": "Same as simple for one year."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 1.5 AI in Investment Risk Profiling",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "In risk profiling, \"risk capacity\" refers to:",
+     "options": [
+      "The age of the investor in years",
+      "The investor's psychological willingness to take risk",
+      "The investor's financial ability to bear a loss",
+      "The brokerage paid by the investor"
+     ],
+     "correct_index": 2,
+     "explanation": "Capacity versus tolerance."
+    },
+    {
+     "question_text": "In risk profiling, \"risk tolerance\" refers to:",
+     "options": [
+      "The investor's psychological willingness to bear fluctuations",
+      "The amount of savings the investor holds",
+      "The investor's tax slab",
+      "The number of years the investor has worked"
+     ],
+     "correct_index": 0,
+     "explanation": "Willingness."
+    },
+    {
+     "question_text": "Which regulator requires advisers and distributors to ensure that products suit a client's risk profile (suitability)?",
+     "options": [
+      "SEBI",
+      "NPCI",
+      "IRDAI for stock brokers",
+      "PFRDA for bank deposits"
+     ],
+     "correct_index": 0,
+     "explanation": "SEBI suitability."
+    },
+    {
+     "question_text": "Compared with a traditional questionnaire, AI-based risk profiling can infer an investor's risk behaviour from:",
+     "options": [
+      "Transaction history, spending patterns and behaviour during market falls",
+      "The address of the investor's branch",
+      "The colour of the investor's account statement",
+      "Only the stated attitude written on the form"
+     ],
+     "correct_index": 0,
+     "explanation": "Real behaviour."
+    },
+    {
+     "question_text": "A robo-advisor is best described as:",
+     "options": [
+      "A bank counter machine that dispenses cash",
+      "A human adviser who works only in the stock exchange hall",
+      "A government agency that fixes the share prices",
+      "An algorithm-based adviser that builds and rebalances portfolios at low cost"
+     ],
+     "correct_index": 3,
+     "explanation": "Robo-advice."
+    },
+    {
+     "question_text": "Which of the following is a concern about AI in investment risk profiling?",
+     "options": [
+      "It always lowers the cost for the investor to zero",
+      "It removes the need for any regulation",
+      "It makes human oversight completely unnecessary",
+      "Data privacy, algorithmic bias and black-box lack of transparency"
+     ],
+     "correct_index": 3,
+     "explanation": "Concerns."
+    },
+    {
+     "question_text": "Behavioural analytics in AI risk profiling is used to detect biases such as:",
+     "options": [
+      "Simple and compound interest",
+      "Loss aversion and overconfidence",
+      "Inflation and deflation",
+      "Repo and reverse repo"
+     ],
+     "correct_index": 1,
+     "explanation": "Behavioural biases."
+    },
+    {
+     "question_text": "Which statement about AI risk profiling is correct?",
+     "options": [
+      "It guarantees returns for the investor",
+      "It makes the questionnaire illegal",
+      "It can update the profile dynamically, but human oversight is still necessary",
+      "It works without any data"
+     ],
+     "correct_index": 2,
+     "explanation": "Oversight."
+    },
+    {
+     "question_text": "A person says he is \"aggressive\" but sold all his shares in panic when the market fell 20%. Which approach would reveal this gap better?",
+     "options": [
+      "Checking his bank branch location",
+      "AI profiling based on actual behaviour in market falls",
+      "Asking the person's friends about his job",
+      "A questionnaire asking about the stated attitude"
+     ],
+     "correct_index": 1,
+     "explanation": "Stated versus revealed."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 1.8 AI for Financial Literacy Awareness; RBI's Financial Literacy AI Assistants",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which of the following is used for conversational payments in UPI through voice and regional languages?",
+     "options": [
+      "The CIBIL app",
+      "Hello UPI of the NPCI",
+      "The Bima Sugam portal",
+      "The RBI Retail Direct portal"
+     ],
+     "correct_index": 1,
+     "explanation": "Hello UPI."
+    },
+    {
+     "question_text": "The Bhashini platform is used in financial awareness mainly for:",
+     "options": [
+      "Clearing cheques",
+      "Issuing insurance policies",
+      "Printing currency notes",
+      "Translation across Indian languages"
+     ],
+     "correct_index": 3,
+     "explanation": "Language translation."
+    },
+    {
+     "question_text": "MuleHunter.AI, promoted by the RBI's innovation hub, is used to:",
+     "options": [
+      "Print banknotes in new designs",
+      "Rank mutual fund schemes",
+      "Identify mule bank accounts used in frauds",
+      "Calculate EMI for borrowers"
+     ],
+     "correct_index": 2,
+     "explanation": "Fraud detection."
+    },
+    {
+     "question_text": "Which helpline is used to report cyber financial fraud in India?",
+     "options": [
+      "1930",
+      "108",
+      "1098",
+      "100 only for cyber fraud"
+     ],
+     "correct_index": 0,
+     "explanation": "Cyber helpline."
+    },
+    {
+     "question_text": "An AI chatbot used for financial literacy may produce incorrect advice. This risk is called:",
+     "options": [
+      "Diversification",
+      "Compounding",
+      "Hallucination",
+      "Amortisation"
+     ],
+     "correct_index": 2,
+     "explanation": "AI risk."
+    },
+    {
+     "question_text": "Which of the following is a limit of AI assistants for financial literacy?",
+     "options": [
+      "Digital divide and the need for human help and a grievance channel",
+      "They can work only in the daytime",
+      "They cannot answer any question on savings",
+      "They cannot work in regional languages at all"
+     ],
+     "correct_index": 0,
+     "explanation": "Limits."
+    },
+    {
+     "question_text": "Which of these is a correct fraud-awareness message promoted through AI tools?",
+     "options": [
+      "Click on every link sent by an unknown number",
+      "Share OTP only with callers who say they are from the bank",
+      "Install any app a caller recommends",
+      "Never share OTP, PIN or CVV and verify callers"
+     ],
+     "correct_index": 3,
+     "explanation": "Fraud awareness."
+    },
+    {
+     "question_text": "Bank chatbots such as SBI's SIA, HDFC's EVA and ICICI's iPal mainly help customers by:",
+     "options": [
+      "Auditing the bank",
+      "Answering queries 24x7, often in multiple languages",
+      "Setting the repo rate",
+      "Issuing currency notes"
+     ],
+     "correct_index": 1,
+     "explanation": "Bank chatbots."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.1 Meaning and Types of Banks",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Under Section 5(c) of the Banking Regulation Act, 1949, a bank is a company that accepts deposits from the public for the purpose of:",
+     "options": [
+      "Selling goods and services to the depositors only",
+      "Lending or investment, repayable on demand or otherwise",
+      "Collecting taxes for the government",
+      "Printing and issuing currency notes"
+     ],
+     "correct_index": 1,
+     "explanation": "Definition."
+    },
+    {
+     "question_text": "Which of the following is a primary function of a commercial bank?",
+     "options": [
+      "Controlling the credit of the country",
+      "Fixing the bank rate",
+      "Issuing currency notes",
+      "Accepting deposits and lending"
+     ],
+     "correct_index": 3,
+     "explanation": "Primary functions."
+    },
+    {
+     "question_text": "Agency services of a bank include:",
+     "options": [
+      "Fixing exchange rates",
+      "Collecting cheques and paying bills on behalf of customers",
+      "Printing currency",
+      "Regulating other banks"
+     ],
+     "correct_index": 1,
+     "explanation": "Agency."
+    },
+    {
+     "question_text": "The Reserve Bank of India was established on:",
+     "options": [
+      "15 August 1947 under the Banking Regulation Act",
+      "1 April 1935 under the RBI Act, 1934",
+      "1 July 1969 under the Nationalisation Act",
+      "26 January 1950 under the Constitution"
+     ],
+     "correct_index": 1,
+     "explanation": "RBI history."
+    },
+    {
+     "question_text": "Which of the following is a function of the central bank?",
+     "options": [
+      "Accepting savings deposits from individuals",
+      "Giving home loans to individuals",
+      "Selling insurance policies",
+      "Banker to the government and banker's bank"
+     ],
+     "correct_index": 3,
+     "explanation": "Central bank."
+    },
+    {
+     "question_text": "Which of these is a tool of credit control used by the RBI?",
+     "options": [
+      "CRR, SLR, repo rate and open market operations",
+      "Premium and sum assured",
+      "Brokerage and STT",
+      "Face value and market value"
+     ],
+     "correct_index": 0,
+     "explanation": "Credit control tools."
+    },
+    {
+     "question_text": "Cooperative banks in India are governed by:",
+     "options": [
+      "The Registrar of Cooperative Societies and the RBI",
+      "SEBI and the stock exchanges",
+      "IRDAI and PFRDA",
+      "The Ministry of Defence"
+     ],
+     "correct_index": 0,
+     "explanation": "Dual control."
+    },
+    {
+     "question_text": "Credit creation by commercial banks occurs when:",
+     "options": [
+      "Banks print notes",
+      "The government prints money",
+      "Loans given out of deposits come back as fresh deposits",
+      "The central bank sells shares"
+     ],
+     "correct_index": 2,
+     "explanation": "Money multiplier."
+    },
+    {
+     "question_text": "Which of the following is a type of bank by ownership?",
+     "options": [
+      "Fixed and floating rate banks",
+      "Retail and corporate loan banks",
+      "Public sector, private sector and foreign banks",
+      "Savings and current account banks"
+     ],
+     "correct_index": 2,
+     "explanation": "Types."
+    },
+    {
+     "question_text": "Utility services of a bank include:",
+     "options": [
+      "Lockers, remittances, letters of credit and bank guarantees",
+      "Printing currency and setting rates",
+      "Issuing shares to the public",
+      "Auditing companies"
+     ],
+     "correct_index": 0,
+     "explanation": "Utility services."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.3 Types of Bank Deposit Accounts",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which deposit account typically pays no interest and allows unlimited transactions, being meant for businesses?",
+     "options": [
+      "Current account",
+      "Savings account",
+      "Recurring deposit",
+      "Fixed deposit"
+     ],
+     "correct_index": 0,
+     "explanation": "Current account."
+    },
+    {
+     "question_text": "Interest on a savings account is calculated on:",
+     "options": [
+      "The balance at the start of the year only",
+      "The daily balance, at a rate set by the bank",
+      "A rate fixed by the government every day",
+      "The highest balance of the year only"
+     ],
+     "correct_index": 1,
+     "explanation": "Daily balance."
+    },
+    {
+     "question_text": "A recurring deposit requires the depositor to:",
+     "options": [
+      "Deposit a fixed amount every month for a fixed tenor",
+      "Deposit any amount whenever he likes without a fixed tenor",
+      "Deposit only during festivals",
+      "Deposit a lump sum once for a fixed period"
+     ],
+     "correct_index": 0,
+     "explanation": "RD."
+    },
+    {
+     "question_text": "The tax-saver fixed deposit under Section 80C (old regime) has a lock-in period of:",
+     "options": [
+      "1 year",
+      "3 years",
+      "10 years",
+      "5 years"
+     ],
+     "correct_index": 3,
+     "explanation": "Lock-in."
+    },
+    {
+     "question_text": "Which account offers zero minimum balance and is the Jan Dhan type of account?",
+     "options": [
+      "Basic Savings Bank Deposit Account",
+      "Current account",
+      "FCNR(B) deposit",
+      "NRE account"
+     ],
+     "correct_index": 0,
+     "explanation": "BSBDA."
+    },
+    {
+     "question_text": "Which NRI account has repatriable principal and interest that is tax-free in India?",
+     "options": [
+      "Savings account in rupees for residents",
+      "Recurring deposit of residents",
+      "NRE account",
+      "NRO account"
+     ],
+     "correct_index": 2,
+     "explanation": "NRE."
+    },
+    {
+     "question_text": "Which NRI account is used for income earned in India, is non-repatriable (with limits), and has taxable interest?",
+     "options": [
+      "NRE account",
+      "NRO account",
+      "Current account",
+      "FCNR(B) account"
+     ],
+     "correct_index": 1,
+     "explanation": "NRO."
+    },
+    {
+     "question_text": "A joint account with the mode \"either or survivor\" means:",
+     "options": [
+      "Only the first holder can operate",
+      "Both must sign every cheque",
+      "The account closes on the death of any holder",
+      "Either holder can operate it, and the survivor gets the money on the death of one"
+     ],
+     "correct_index": 3,
+     "explanation": "Operation mode."
+    },
+    {
+     "question_text": "The nominee of a bank deposit is:",
+     "options": [
+      "Always the legal owner of the deposit",
+      "A trustee who receives the deposit on the depositor's death",
+      "The person who operates the account during life",
+      "The person who pays the interest"
+     ],
+     "correct_index": 1,
+     "explanation": "Nominee."
+    },
+    {
+     "question_text": "Unclaimed deposits inoperative for 10 years are transferred to the:",
+     "options": [
+      "Bank's own profit account",
+      "State government treasury",
+      "RBI's Depositor Education and Awareness Fund",
+      "SEBI Investor Fund"
+     ],
+     "correct_index": 2,
+     "explanation": "DEA Fund."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.4 Formalities to Open Accounts and KYC Norms",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "KYC norms for banks are issued under which law and by which regulator?",
+     "options": [
+      "The Companies Act, with ROC",
+      "The Insurance Act, with IRDAI",
+      "The SEBI Act, with SEBI",
+      "The Prevention of Money Laundering Act, with RBI Master Directions"
+     ],
+     "correct_index": 3,
+     "explanation": "KYC basis."
+    },
+    {
+     "question_text": "Which of these is an Officially Valid Document for KYC?",
+     "options": [
+      "School ID card",
+      "Electricity bill only",
+      "Aadhaar or passport",
+      "Credit card bill"
+     ],
+     "correct_index": 2,
+     "explanation": "OVD."
+    },
+    {
+     "question_text": "Which is NOT one of the four elements of a KYC policy?",
+     "options": [
+      "Customer marketing policy",
+      "Customer Acceptance Policy",
+      "Monitoring of transactions",
+      "Customer Identification Procedures"
+     ],
+     "correct_index": 0,
+     "explanation": "Four elements."
+    },
+    {
+     "question_text": "The Central KYC (CKYC) registry assigns a KYC Identification Number of:",
+     "options": [
+      "12 digits",
+      "10 digits",
+      "16 digits",
+      "14 digits"
+     ],
+     "correct_index": 3,
+     "explanation": "CKYC."
+    },
+    {
+     "question_text": "A \"small account\" in KYC terms has a maximum balance of:",
+     "options": [
+      "Rs 10,000",
+      "Rs 50,000",
+      "Rs 1 lakh",
+      "Rs 5 lakh"
+     ],
+     "correct_index": 1,
+     "explanation": "Small account limit."
+    },
+    {
+     "question_text": "Periodic KYC updation for high-risk customers is required every:",
+     "options": [
+      "2 years",
+      "10 years",
+      "8 years",
+      "5 years"
+     ],
+     "correct_index": 0,
+     "explanation": "Risk-based."
+    },
+    {
+     "question_text": "Video-based Customer Identification Process (V-CIP) allows:",
+     "options": [
+      "Opening accounts without any identity proof",
+      "Remote KYC verification through a live video interaction",
+      "Cheque clearing through video",
+      "Cash deposit through video"
+     ],
+     "correct_index": 1,
+     "explanation": "V-CIP."
+    },
+    {
+     "question_text": "PAN or Form 60 is required for:",
+     "options": [
+      "Specified transactions such as large cash deposits",
+      "Only withdrawals from ATMs",
+      "Every transaction of any value",
+      "Only the opening of fixed deposits"
+     ],
+     "correct_index": 0,
+     "explanation": "PAN."
+    },
+    {
+     "question_text": "The main objectives of KYC include:",
+     "options": [
+      "Increasing the deposit interest rate",
+      "Preventing money laundering, terror financing, identity theft and fraud",
+      "Printing more passbooks",
+      "Reducing the bank's loans"
+     ],
+     "correct_index": 1,
+     "explanation": "Objectives."
+    },
+    {
+     "question_text": "Aadhaar OTP-based e-KYC helps banks to:",
+     "options": [
+      "Skip the identity verification altogether",
+      "Open accounts without consent",
+      "Verify identity quickly without physical documents",
+      "Fix interest rates"
+     ],
+     "correct_index": 2,
+     "explanation": "e-KYC."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.5 Types of Loans; EMI; CIBIL",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "A loan taken for 8 years to buy a house is classified by tenure as:",
+     "options": [
+      "Long term",
+      "Very short term",
+      "Medium term",
+      "Short term"
+     ],
+     "correct_index": 0,
+     "explanation": "Over 5 years."
+    },
+    {
+     "question_text": "Overdraft facility means that:",
+     "options": [
+      "The bank pays interest on the overdrawn amount",
+      "The account holder can withdraw more than the balance up to a sanctioned limit",
+      "The account holder can never withdraw",
+      "It is available only on fixed deposits"
+     ],
+     "correct_index": 1,
+     "explanation": "Overdraft."
+    },
+    {
+     "question_text": "A loan secured by gold ornaments is a:",
+     "options": [
+      "Secured loan",
+      "Government grant",
+      "Interest-free loan",
+      "Unsecured loan"
+     ],
+     "correct_index": 0,
+     "explanation": "Secured."
+    },
+    {
+     "question_text": "Which of the following is an unsecured loan?",
+     "options": [
+      "Personal loan",
+      "Loan against fixed deposit",
+      "Home loan",
+      "Gold loan"
+     ],
+     "correct_index": 0,
+     "explanation": "Unsecured."
+    },
+    {
+     "question_text": "For a loan of Rs 1,00,000 at 12% p.a. for 12 months, the EMI is about Rs 8,885. The total interest paid is about:",
+     "options": [
+      "Rs 12,000",
+      "Rs 8,885",
+      "Rs 6,619",
+      "Rs 1,06,619"
+     ],
+     "correct_index": 2,
+     "explanation": "EMI×12 − principal."
+    },
+    {
+     "question_text": "In the early EMIs of a reducing-balance loan, the larger part of the EMI goes towards:",
+     "options": [
+      "Insurance",
+      "Processing fee",
+      "Interest",
+      "Principal"
+     ],
+     "correct_index": 2,
+     "explanation": "Amortisation."
+    },
+    {
+     "question_text": "A flat-rate loan costs more in effect than a reducing-balance loan at the same stated rate because:",
+     "options": [
+      "The tenure is shorter",
+      "Interest is charged on the original principal throughout",
+      "Interest is charged on the outstanding balance",
+      "The EMI is lower"
+     ],
+     "correct_index": 1,
+     "explanation": "Flat versus reducing."
+    },
+    {
+     "question_text": "Floating-rate home loans are now linked to an external benchmark such as:",
+     "options": [
+      "Gold price",
+      "The exchange rate of the dollar",
+      "The Sensex",
+      "The repo rate"
+     ],
+     "correct_index": 3,
+     "explanation": "EBLR."
+    },
+    {
+     "question_text": "A CIBIL score generally ranges from:",
+     "options": [
+      "500 to 1000",
+      "300 to 900",
+      "0 to 100",
+      "100 to 500"
+     ],
+     "correct_index": 1,
+     "explanation": "Credit score."
+    },
+    {
+     "question_text": "Which action is most likely to improve a CIBIL score over time?",
+     "options": [
+      "Making only minimum payments for months",
+      "Applying for several loans at once",
+      "Closing the oldest account",
+      "Paying EMIs and card dues on time"
+     ],
+     "correct_index": 3,
+     "explanation": "Repayment history."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.3 AI-Powered Voice Payments and Biometric Authentication",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "In an AI-powered voice payment, the user's spoken command is turned into a payment instruction using:",
+     "options": [
+      "Speech recognition and natural language processing",
+      "Magnetic ink character recognition",
+      "Manual data entry by the bank clerk",
+      "Cheque truncation"
+     ],
+     "correct_index": 0,
+     "explanation": "Voice payments."
+    },
+    {
+     "question_text": "Which of the following is a biometric authentication method?",
+     "options": [
+      "Mobile number",
+      "Fingerprint, face or iris recognition",
+      "Password written on paper",
+      "ATM card number"
+     ],
+     "correct_index": 1,
+     "explanation": "Biometrics."
+    },
+    {
+     "question_text": "Liveness detection in biometric authentication is meant to:",
+     "options": [
+      "Speed up the internet",
+      "Check the balance in the account",
+      "Calculate the interest",
+      "Check that a real live person, not a photo or recording, is present"
+     ],
+     "correct_index": 3,
+     "explanation": "Anti-spoofing."
+    },
+    {
+     "question_text": "A key risk of voice-based authentication is:",
+     "options": [
+      "High interest rates",
+      "Cheque dishonour",
+      "Deepfake voice cloning and replay attacks",
+      "Complete inability to work on phones"
+     ],
+     "correct_index": 2,
+     "explanation": "Voice risk."
+    },
+    {
+     "question_text": "The privacy of biometric data in India is protected under the:",
+     "options": [
+      "Digital Personal Data Protection Act, 2023",
+      "Sale of Goods Act, 1930",
+      "Negotiable Instruments Act, 1881",
+      "Companies Act, 2013"
+     ],
+     "correct_index": 0,
+     "explanation": "DPDP Act."
+    },
+    {
+     "question_text": "Risk-based or adaptive authentication means that:",
+     "options": [
+      "No authentication is needed for large payments",
+      "Authentication is required only once in a lifetime",
+      "The same PIN is used for every transaction",
+      "The level of verification is adjusted to the risk of the transaction"
+     ],
+     "correct_index": 3,
+     "explanation": "Adaptive."
+    },
+    {
+     "question_text": "Voice payments are especially helpful to:",
+     "options": [
+      "Only large corporates",
+      "First-time users and visually impaired users",
+      "Only stock brokers",
+      "Only foreign tourists"
+     ],
+     "correct_index": 1,
+     "explanation": "Inclusion."
+    },
+    {
+     "question_text": "Which behavioural pattern can be used for biometric-style authentication?",
+     "options": [
+      "The colour of the debit card",
+      "Bank branch address",
+      "Typing speed and swipe pattern",
+      "Date of the last cheque"
+     ],
+     "correct_index": 2,
+     "explanation": "Behavioural biometrics."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.6 NLP in Digital Payment Queries",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "NLP stands for:",
+     "options": [
+      "Net Lending Plan",
+      "Natural Language Processing",
+      "Network Layer Protocol",
+      "National Loan Policy"
+     ],
+     "correct_index": 1,
+     "explanation": "Definition."
+    },
+    {
+     "question_text": "In digital payments, intent classification by NLP is used to:",
+     "options": [
+      "Block all queries",
+      "Print the payment receipt",
+      "Route a customer query such as a failed payment to the right ticket automatically",
+      "Set the UPI daily limit"
+     ],
+     "correct_index": 2,
+     "explanation": "Intent classification."
+    },
+    {
+     "question_text": "Sentiment analysis of customer complaints helps a payments company to:",
+     "options": [
+      "Mint coins",
+      "Print statements",
+      "Identify angry or urgent customers and prioritise them",
+      "Fix interest rates"
+     ],
+     "correct_index": 2,
+     "explanation": "Sentiment."
+    },
+    {
+     "question_text": "Code-mixing like \"Hinglish\" is a challenge for NLP because:",
+     "options": [
+      "It reduces the number of customers",
+      "The bank has only one language",
+      "It makes payments free",
+      "Queries mix languages and are hard to interpret accurately"
+     ],
+     "correct_index": 3,
+     "explanation": "Challenge."
+    },
+    {
+     "question_text": "Which of the following is a benefit of NLP chatbots in payment support?",
+     "options": [
+      "24x7 support in regional languages at lower cost",
+      "Freedom from regulation",
+      "Elimination of all human staff",
+      "Guaranteed removal of all fraud"
+     ],
+     "correct_index": 0,
+     "explanation": "Benefits."
+    },
+    {
+     "question_text": "NLP can also help detect:",
+     "options": [
+      "The price of gold",
+      "Fraudulent or phishing messages",
+      "The repo rate",
+      "The inflation rate"
+     ],
+     "correct_index": 1,
+     "explanation": "Fraud."
+    },
+    {
+     "question_text": "A challenge of using NLP in payments is:",
+     "options": [
+      "The chatbot is always correct",
+      "The chatbot cannot read digits",
+      "The chatbot cannot work online",
+      "Privacy of financial data and the need for human escalation"
+     ],
+     "correct_index": 3,
+     "explanation": "Challenges."
+    },
+    {
+     "question_text": "Which platform supports multilingual translation for Indian digital services?",
+     "options": [
+      "Bhashini",
+      "CKYC",
+      "CERSAI",
+      "CIBIL"
+     ],
+     "correct_index": 0,
+     "explanation": "Translation."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 5.6 Emerging Trends in Insurance",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Insurtech refers to:",
+     "options": [
+      "Government schemes only",
+      "Insurance sold only through paper forms",
+      "Re-insurance of ships",
+      "Digital-first insurers and aggregators using technology"
+     ],
+     "correct_index": 3,
+     "explanation": "Insurtech."
+    },
+    {
+     "question_text": "An e-insurance account (EIA) is used to:",
+     "options": [
+      "Pay premiums in cash",
+      "Hold insurance policies in electronic form",
+      "Store gold",
+      "Keep share certificates"
+     ],
+     "correct_index": 1,
+     "explanation": "EIA."
+    },
+    {
+     "question_text": "Pay-as-you-drive motor insurance relies on:",
+     "options": [
+      "The age of the agent",
+      "The colour of the car",
+      "Telematics data about how and how much the vehicle is driven",
+      "The brand of the tyres"
+     ],
+     "correct_index": 2,
+     "explanation": "Usage-based."
+    },
+    {
+     "question_text": "Parametric insurance pays out when:",
+     "options": [
+      "A pre-agreed trigger such as rainfall or an earthquake magnitude occurs",
+      "The insurer feels like paying",
+      "The insured submits detailed bills after months",
+      "The premium is doubled"
+     ],
+     "correct_index": 0,
+     "explanation": "Parametric."
+    },
+    {
+     "question_text": "The Bima Sugam platform is meant to be:",
+     "options": [
+      "A pension fund",
+      "A bank for agents",
+      "A stock exchange",
+      "A single digital marketplace for insurance"
+     ],
+     "correct_index": 3,
+     "explanation": "Bima Sugam."
+    },
+    {
+     "question_text": "Arogya Sanjeevani and Saral Jeevan Bima are examples of:",
+     "options": [
+      "Mutual funds",
+      "Foreign bank accounts",
+      "Standard products that simplify insurance",
+      "Pension funds"
+     ],
+     "correct_index": 2,
+     "explanation": "Standard products."
+    },
+    {
+     "question_text": "IRDAI's regulatory sandbox is meant to:",
+     "options": [
+      "Allow new insurance innovations to be tested under supervision",
+      "Print policies",
+      "Collect taxes",
+      "Close all insurers"
+     ],
+     "correct_index": 0,
+     "explanation": "Sandbox."
+    },
+    {
+     "question_text": "Embedded insurance is:",
+     "options": [
+      "Insurance that never pays",
+      "Insurance offered within another purchase journey such as an app or e-commerce checkout",
+      "Insurance printed on the back of a cheque",
+      "Insurance sold only in branches"
+     ],
+     "correct_index": 1,
+     "explanation": "Embedded."
+    },
+    {
+     "question_text": "The goal \"Insurance for All by 2047\" is associated with:",
+     "options": [
+      "Hello UPI",
+      "Bima Sugam, Bima Vistaar and Bima Vahaks",
+      "The Sensex",
+      "The Nifty"
+     ],
+     "correct_index": 1,
+     "explanation": "2047 vision."
+    },
+    {
+     "question_text": "Wearable-linked health insurance rewards policyholders for:",
+     "options": [
+      "Healthy habits tracked through wearables",
+      "Frequent hospital visits",
+      "Missing premium payments",
+      "Buying more cars"
+     ],
+     "correct_index": 0,
+     "explanation": "Wellness."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 6.3 DMAT Account; Do's and Don'ts; Trading in Securities",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The two depositories in India are:",
+     "options": [
+      "NSDL and CDSL",
+      "BSE and NSE",
+      "SEBI and RBI",
+      "LIC and GIC"
+     ],
+     "correct_index": 0,
+     "explanation": "Depositories."
+    },
+    {
+     "question_text": "The law under which demat accounts were introduced is the:",
+     "options": [
+      "Depositories Act, 1996",
+      "SEBI Act, 1992",
+      "RBI Act, 1934",
+      "Companies Act, 1956"
+     ],
+     "correct_index": 0,
+     "explanation": "Depositories Act."
+    },
+    {
+     "question_text": "The \"3-in-1 account\" combines:",
+     "options": [
+      "A PPF, an NPS and an EPF account",
+      "A bank account, a trading account and a demat account",
+      "A savings, a current and a recurring account",
+      "A debit, a credit and a prepaid card"
+     ],
+     "correct_index": 1,
+     "explanation": "3-in-1."
+    },
+    {
+     "question_text": "Which account lets an investor place buy and sell orders with a broker?",
+     "options": [
+      "PPF account",
+      "Demat account",
+      "Trading account",
+      "Savings account only"
+     ],
+     "correct_index": 2,
+     "explanation": "Trading account."
+    },
+    {
+     "question_text": "A Basic Services Demat Account (BSDA) is meant for:",
+     "options": [
+      "Foreign banks",
+      "Small investors with lower charges",
+      "Government departments",
+      "Large institutions only"
+     ],
+     "correct_index": 1,
+     "explanation": "BSDA."
+    },
+    {
+     "question_text": "Which of the following is a Do for a new investor?",
+     "options": [
+      "Invest in guaranteed-return schemes promised by strangers",
+      "Follow tips from social media gurus",
+      "Invest only through registered intermediaries and diversify",
+      "Borrow money to invest"
+     ],
+     "correct_index": 2,
+     "explanation": "Do's."
+    },
+    {
+     "question_text": "Which of the following is a Don't for a new investor?",
+     "options": [
+      "Reading offer documents",
+      "Checking contract notes",
+      "Setting a stop-loss",
+      "Following rumours or tips and borrowing to invest"
+     ],
+     "correct_index": 3,
+     "explanation": "Don'ts."
+    },
+    {
+     "question_text": "Which charge is levied every year for maintaining a demat account?",
+     "options": [
+      "Stamp duty on delivery",
+      "GST on the premium",
+      "Securities transaction tax",
+      "Annual maintenance charge (AMC)"
+     ],
+     "correct_index": 3,
+     "explanation": "AMC."
+    },
+    {
+     "question_text": "The client identification number of a demat account holder is called the:",
+     "options": [
+      "BO ID",
+      "CKYC",
+      "IFSC",
+      "PAN"
+     ],
+     "correct_index": 0,
+     "explanation": "Beneficial owner ID."
+    },
+    {
+     "question_text": "A contract note given by a broker shows:",
+     "options": [
+      "The insurance premium",
+      "The details of the trade including price, quantity and charges",
+      "The EMI schedule",
+      "The details of the bank balance only"
+     ],
+     "correct_index": 1,
+     "explanation": "Contract note."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 6.5 Basic ROI Numericals and SIP Calculations",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Bought 100 units at NAV Rs 20 and sold at Rs 26. The ROI is:",
+     "options": [
+      "6%",
+      "30%",
+      "26%",
+      "20%"
+     ],
+     "correct_index": 1,
+     "explanation": "600/2000."
+    },
+    {
+     "question_text": "Bought 50 shares at Rs 400, received dividend of Rs 500 and sold at Rs 460. The ROI is:",
+     "options": [
+      "20%",
+      "15%",
+      "17.5%",
+      "2.5%"
+     ],
+     "correct_index": 2,
+     "explanation": "(3000+500)/20000."
+    },
+    {
+     "question_text": "The number of mutual fund units bought with Rs 10,000 at NAV Rs 25 is:",
+     "options": [
+      "40 units",
+      "250 units",
+      "4,000 units",
+      "400 units"
+     ],
+     "correct_index": 3,
+     "explanation": "10,000/25."
+    },
+    {
+     "question_text": "Rs 1,00,000 grows to Rs 1,61,051 in 5 years. The CAGR is:",
+     "options": [
+      "8%",
+      "10%",
+      "12.2%",
+      "61%"
+     ],
+     "correct_index": 1,
+     "explanation": "1.1^5."
+    },
+    {
+     "question_text": "Rupee-cost averaging in a SIP means:",
+     "options": [
+      "More units are bought when the NAV is low and fewer when it is high",
+      "Units are bought only at the highest NAV",
+      "The NAV never changes",
+      "The same units are bought every month"
+     ],
+     "correct_index": 0,
+     "explanation": "Averaging."
+    },
+    {
+     "question_text": "A SIP of Rs 2,000 per month buys units at NAV Rs 10 and Rs 20 in two months. The average cost per unit is about:",
+     "options": [
+      "Rs 13.33",
+      "Rs 10",
+      "Rs 15",
+      "Rs 20"
+     ],
+     "correct_index": 0,
+     "explanation": "4000/300."
+    },
+    {
+     "question_text": "Absolute return differs from annualised return in that absolute return:",
+     "options": [
+      "Is always negative",
+      "Includes the time period of the investment",
+      "Is always lower",
+      "Ignores the time period of the investment"
+     ],
+     "correct_index": 3,
+     "explanation": "Absolute versus annualised."
+    },
+    {
+     "question_text": "XIRR is used to compute returns for:",
+     "options": [
+      "Fixed deposits only",
+      "Investments with multiple cash flows such as SIPs",
+      "Cash in hand",
+      "A single lump sum only"
+     ],
+     "correct_index": 1,
+     "explanation": "XIRR."
+    },
+    {
+     "question_text": "Investing Rs 5,000 at Rs 125 NAV gives:",
+     "options": [
+      "40 units",
+      "25 units",
+      "400 units",
+      "625 units"
+     ],
+     "correct_index": 0,
+     "explanation": "5000/125."
+    },
+    {
+     "question_text": "The current value of 200 units at NAV Rs 35 is:",
+     "options": [
+      "Rs 235",
+      "Rs 700",
+      "Rs 7,000",
+      "Rs 70,000"
+     ],
+     "correct_index": 2,
+     "explanation": "200×35."
+    }
+   ]
+  }
+ ]
+}

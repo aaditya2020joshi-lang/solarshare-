@@ -12,7 +12,7 @@ router.get(
     const { rows } = await pool.query(
       `SELECT s.id, s.name, s.created_at, COUNT(t.id)::int AS test_count
        FROM subjects s
-       LEFT JOIN tests t ON t.subject_id = s.id
+       LEFT JOIN tests t ON t.subject_id = s.id AND t.title NOT LIKE 'Question bank%'
        WHERE s.user_id = $1
        GROUP BY s.id
        ORDER BY s.created_at DESC`,
@@ -49,7 +49,7 @@ router.get(
       `SELECT t.id, t.title, t.duration_minutes, t.created_at, COUNT(q.id)::int AS question_count
        FROM tests t
        LEFT JOIN questions q ON q.test_id = t.id
-       WHERE t.subject_id = $1 AND t.user_id = $2
+       WHERE t.subject_id = $1 AND t.user_id = $2 AND t.title NOT LIKE 'Question bank%'
        GROUP BY t.id
        ORDER BY t.created_at DESC`,
       [subject.id, req.userId]

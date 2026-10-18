@@ -1,0 +1,833 @@
+{
+ "tests": [
+  {
+   "title": "Question bank – 1.1 Definition of Management",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Which writer defined management as \"the art of getting things done through people\"?",
+     "options": [
+      "Peter Drucker",
+      "Mary Parker Follett",
+      "F. W. Taylor",
+      "Henri Fayol"
+     ],
+     "correct_index": 1,
+     "explanation": "Follett."
+    },
+    {
+     "question_text": "\"To manage is to forecast and plan, to organise, to command, to coordinate and to control\" is the definition given by:",
+     "options": [
+      "Harold Koontz",
+      "Stoner",
+      "Mary Parker Follett",
+      "Henri Fayol"
+     ],
+     "correct_index": 3,
+     "explanation": "Fayol."
+    },
+    {
+     "question_text": "\"Knowing exactly what you want men to do and then seeing that they do it in the best and cheapest way\" is the definition of management given by:",
+     "options": [
+      "Harold Koontz",
+      "Henri Fayol",
+      "F. W. Taylor",
+      "Peter Drucker"
+     ],
+     "correct_index": 2,
+     "explanation": "Taylor."
+    },
+    {
+     "question_text": "Peter Drucker described management as:",
+     "options": [
+      "A process of forecasting only",
+      "A multi-purpose organ that manages a business, managers, and workers and work",
+      "A technique of controlling only",
+      "The art of getting things done through people only"
+     ],
+     "correct_index": 1,
+     "explanation": "Drucker."
+    },
+    {
+     "question_text": "Which definition describes management as the process of planning, organising, leading and controlling the efforts of members and using all other resources?",
+     "options": [
+      "Fayol",
+      "Follett",
+      "Stoner",
+      "Taylor"
+     ],
+     "correct_index": 2,
+     "explanation": "Stoner."
+    },
+    {
+     "question_text": "Harold Koontz defined management as the art of getting things done through and with people in:",
+     "options": [
+      "Formally organised groups",
+      "Government departments only",
+      "Business firms only",
+      "Informal groups only"
+     ],
+     "correct_index": 0,
+     "explanation": "Koontz."
+    },
+    {
+     "question_text": "The resources managed by an organisation include:",
+     "options": [
+      "Only financial resources",
+      "Only human resources",
+      "Only physical resources",
+      "Human, financial, physical and informational resources"
+     ],
+     "correct_index": 3,
+     "explanation": "Resources."
+    },
+    {
+     "question_text": "The management definition by Fayol includes which five elements?",
+     "options": [
+      "Planning, organising, commanding, coordinating and controlling",
+      "Production, finance, marketing, personnel and accounts",
+      "Planning, staffing, directing, motivating and leading",
+      "Forecasting, auditing, budgeting, costing and reporting"
+     ],
+     "correct_index": 0,
+     "explanation": "POCCC."
+    },
+    {
+     "question_text": "Management is concerned with achieving goals:",
+     "options": [
+      "Efficiently and effectively",
+      "Only cheaply",
+      "Only efficiently",
+      "Only quickly"
+     ],
+     "correct_index": 0,
+     "explanation": "Efficient and effective."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 1.7 Evolution of Management Thought: Pre-Classical Thoughts",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Who is called the father of modern personnel management for improving working conditions at the New Lanark mills?",
+     "options": [
+      "Robert Owen",
+      "Charles Babbage",
+      "F. W. Taylor",
+      "Adam Smith"
+     ],
+     "correct_index": 0,
+     "explanation": "Owen."
+    },
+    {
+     "question_text": "Adam Smith's pin factory example in the Wealth of Nations (1776) explained:",
+     "options": [
+      "Scientific management",
+      "Unity of command",
+      "Span of control",
+      "Division of labour"
+     ],
+     "correct_index": 3,
+     "explanation": "Division of labour."
+    },
+    {
+     "question_text": "Charles Babbage, in On the Economy of Machinery and Manufactures, advocated:",
+     "options": [
+      "Human relations",
+      "Unity of direction",
+      "Theory X and Theory Y",
+      "Division of mental labour, time study and profit sharing"
+     ],
+     "correct_index": 3,
+     "explanation": "Babbage."
+    },
+    {
+     "question_text": "Which ancient work on state administration is attributed to Kautilya?",
+     "options": [
+      "Arthashastra",
+      "The Republic",
+      "The Prince",
+      "The Art of War"
+     ],
+     "correct_index": 0,
+     "explanation": "Arthashastra."
+    },
+    {
+     "question_text": "Sun Tzu's \"Art of War\" is an example of early management thought from:",
+     "options": [
+      "Greece",
+      "Rome",
+      "China",
+      "Egypt"
+     ],
+     "correct_index": 2,
+     "explanation": "Sun Tzu."
+    },
+    {
+     "question_text": "Robert Owen described workers as \"vital machines\" deserving:",
+     "options": [
+      "Only wages",
+      "No care",
+      "As much care as the physical machines",
+      "Less care than the physical machines"
+     ],
+     "correct_index": 2,
+     "explanation": "Owen."
+    },
+    {
+     "question_text": "The Industrial Revolution of the 18th century created a need for management because of:",
+     "options": [
+      "The fall of population",
+      "The factory system, which needed supervision and productivity of large organisations",
+      "The decline of trade",
+      "The end of machines"
+     ],
+     "correct_index": 1,
+     "explanation": "Factory system."
+    },
+    {
+     "question_text": "Pre-classical contributors differ from the classical writers (Taylor and Fayol) in that they:",
+     "options": [
+      "Discussed only marketing",
+      "Made early observations but did not build a systematic body of management principles",
+      "Built a complete theory of management",
+      "Rejected the factory system"
+     ],
+     "correct_index": 1,
+     "explanation": "Early."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 2.7 Decision-Making Errors and Biases",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "A manager continues funding a failing project because of the money already spent on it. This is the:",
+     "options": [
+      "Availability bias",
+      "Sunk-cost fallacy or escalation of commitment",
+      "Hindsight bias",
+      "Anchoring bias"
+     ],
+     "correct_index": 1,
+     "explanation": "Sunk cost."
+    },
+    {
+     "question_text": "Relying too heavily on the first piece of information received is the:",
+     "options": [
+      "Confirmation bias",
+      "Overconfidence bias",
+      "Anchoring bias",
+      "Framing effect"
+     ],
+     "correct_index": 2,
+     "explanation": "Anchoring."
+    },
+    {
+     "question_text": "Seeking only the information that supports one's existing view is the:",
+     "options": [
+      "Availability bias",
+      "Confirmation bias",
+      "Anchoring bias",
+      "Representativeness bias"
+     ],
+     "correct_index": 1,
+     "explanation": "Confirmation."
+    },
+    {
+     "question_text": "Judging the likelihood of an event by how easily examples come to mind is the:",
+     "options": [
+      "Framing effect",
+      "Hindsight bias",
+      "Availability bias",
+      "Randomness error"
+     ],
+     "correct_index": 2,
+     "explanation": "Availability."
+    },
+    {
+     "question_text": "Believing after the event that it was obvious or predictable is the:",
+     "options": [
+      "Overconfidence bias",
+      "Anchoring bias",
+      "Framing effect",
+      "Hindsight bias"
+     ],
+     "correct_index": 3,
+     "explanation": "Hindsight."
+    },
+    {
+     "question_text": "When a choice changes just because the same information is presented as \"90% survive\" versus \"10% die\", it is the:",
+     "options": [
+      "Anchoring bias",
+      "Framing effect",
+      "Randomness error",
+      "Sunk-cost fallacy"
+     ],
+     "correct_index": 1,
+     "explanation": "Framing."
+    },
+    {
+     "question_text": "Seeing patterns in random events is the:",
+     "options": [
+      "Randomness error",
+      "Hindsight bias",
+      "Confirmation bias",
+      "Self-serving bias"
+     ],
+     "correct_index": 0,
+     "explanation": "Randomness."
+    },
+    {
+     "question_text": "Taking credit for success but blaming external causes for failure is the:",
+     "options": [
+      "Self-serving bias",
+      "Anchoring bias",
+      "Overconfidence bias",
+      "Availability bias"
+     ],
+     "correct_index": 0,
+     "explanation": "Self-serving."
+    },
+    {
+     "question_text": "Overestimating one's own ability and knowledge is the:",
+     "options": [
+      "Framing effect",
+      "Hindsight bias",
+      "Status-quo bias",
+      "Overconfidence bias"
+     ],
+     "correct_index": 3,
+     "explanation": "Overconfidence."
+    },
+    {
+     "question_text": "Mental shortcuts that can cause systematic errors in decisions are called:",
+     "options": [
+      "Heuristics",
+      "Budgets",
+      "Standards",
+      "Algorithms"
+     ],
+     "correct_index": 0,
+     "explanation": "Heuristics."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 3.5 MBO and MBE",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Management by Objectives was popularised by:",
+     "options": [
+      "Henri Fayol in 1916",
+      "F. W. Taylor in 1911",
+      "Peter Drucker in The Practice of Management (1954)",
+      "Elton Mayo in 1933"
+     ],
+     "correct_index": 2,
+     "explanation": "Drucker."
+    },
+    {
+     "question_text": "In MBO the objectives are set:",
+     "options": [
+      "Jointly by the superior and the subordinate",
+      "By top management alone",
+      "By subordinates alone",
+      "By outsiders"
+     ],
+     "correct_index": 0,
+     "explanation": "Participative."
+    },
+    {
+     "question_text": "Which of the following is a step in the MBO process?",
+     "options": [
+      "Avoiding appraisal",
+      "Closing departments",
+      "Reducing all salaries",
+      "Periodic review of performance and feedback"
+     ],
+     "correct_index": 3,
+     "explanation": "MBO steps."
+    },
+    {
+     "question_text": "Management by Exception (MBE) means that managers:",
+     "options": [
+      "Check every activity of every employee",
+      "Avoid control",
+      "Never delegate",
+      "Focus on significant deviations from the plans"
+     ],
+     "correct_index": 3,
+     "explanation": "MBE."
+    },
+    {
+     "question_text": "Which of the following is a feature of MBO?",
+     "options": [
+      "Individual goals unrelated to the organisation",
+      "Measurable results, a time frame and joint review",
+      "Vague goals set without time",
+      "Absence of feedback"
+     ],
+     "correct_index": 1,
+     "explanation": "Features."
+    },
+    {
+     "question_text": "A limitation of MBO is that it:",
+     "options": [
+      "Can be time-consuming and may overemphasise quantitative goals",
+      "Lacks participation",
+      "Reduces motivation always",
+      "Gives no clarity to the employees"
+     ],
+     "correct_index": 0,
+     "explanation": "Limitation."
+    },
+    {
+     "question_text": "MBE saves a manager's time because:",
+     "options": [
+      "No control is applied",
+      "Only the major deviations need the manager's attention",
+      "No standards are set",
+      "All deviations are reported to the manager"
+     ],
+     "correct_index": 1,
+     "explanation": "MBE benefits."
+    },
+    {
+     "question_text": "MBO links individual goals to:",
+     "options": [
+      "Organisational goals",
+      "Competitors' goals",
+      "Government budgets",
+      "Personal hobbies"
+     ],
+     "correct_index": 0,
+     "explanation": "Alignment."
+    },
+    {
+     "question_text": "A manager attends only to cases where the cost overrun exceeds 10%. This is an application of:",
+     "options": [
+      "Management by objectives",
+      "Zero-based budgeting",
+      "Management by exception",
+      "Break-even analysis"
+     ],
+     "correct_index": 2,
+     "explanation": "MBE."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 6.4 Types of Control",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Inspecting raw material before it enters production is an example of:",
+     "options": [
+      "Strategic control",
+      "Feedback control",
+      "Feedforward control",
+      "Concurrent control"
+     ],
+     "correct_index": 2,
+     "explanation": "Preventive."
+    },
+    {
+     "question_text": "A supervisor correcting a worker's method while the job is going on exercises:",
+     "options": [
+      "Feedforward control",
+      "Budgetary control",
+      "Feedback control",
+      "Concurrent control"
+     ],
+     "correct_index": 3,
+     "explanation": "Real time."
+    },
+    {
+     "question_text": "Comparing the final results with the standards after the activity is:",
+     "options": [
+      "Feedforward control",
+      "Concurrent control",
+      "Preventive control",
+      "Feedback control"
+     ],
+     "correct_index": 3,
+     "explanation": "Post-action."
+    },
+    {
+     "question_text": "Control at the top level concerned with the long-term overall performance is:",
+     "options": [
+      "Concurrent control",
+      "Strategic control",
+      "Tactical control",
+      "Operational control"
+     ],
+     "correct_index": 1,
+     "explanation": "Level."
+    },
+    {
+     "question_text": "Control at the middle level is called:",
+     "options": [
+      "Market control",
+      "Tactical control",
+      "Operational control",
+      "Strategic control"
+     ],
+     "correct_index": 1,
+     "explanation": "Level."
+    },
+    {
+     "question_text": "Day-to-day control of activities is:",
+     "options": [
+      "Operational control",
+      "Tactical control",
+      "Strategic control",
+      "Clan control"
+     ],
+     "correct_index": 0,
+     "explanation": "Operational."
+    },
+    {
+     "question_text": "Financial statements and audits are examples of:",
+     "options": [
+      "Feedforward control",
+      "Concurrent control",
+      "Feedback control",
+      "Real-time control"
+     ],
+     "correct_index": 2,
+     "explanation": "Post-action."
+    },
+    {
+     "question_text": "Preventive maintenance of machines is an example of:",
+     "options": [
+      "Feedforward control",
+      "Market control",
+      "Feedback control",
+      "Concurrent control"
+     ],
+     "correct_index": 0,
+     "explanation": "Preventive."
+    },
+    {
+     "question_text": "Control based on the shared values and culture of the group is:",
+     "options": [
+      "Financial control",
+      "Clan control",
+      "Market control",
+      "Bureaucratic control"
+     ],
+     "correct_index": 1,
+     "explanation": "Clan."
+    },
+    {
+     "question_text": "Control that relies on rules, procedures and hierarchy is:",
+     "options": [
+      "Bureaucratic control",
+      "Strategic control",
+      "Clan control",
+      "Market control"
+     ],
+     "correct_index": 0,
+     "explanation": "Bureaucratic."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 7.1 Agile Management",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The Agile Manifesto was written in 2001 by 17 software developers at:",
+     "options": [
+      "Silicon Valley, California",
+      "Snowbird, Utah",
+      "London, England",
+      "Tokyo, Japan"
+     ],
+     "correct_index": 1,
+     "explanation": "Manifesto."
+    },
+    {
+     "question_text": "According to the Agile Manifesto, which is valued more?",
+     "options": [
+      "Comprehensive documentation over working software",
+      "Contract negotiation over customer collaboration",
+      "Following a plan over responding to change",
+      "Responding to change over following a plan"
+     ],
+     "correct_index": 3,
+     "explanation": "Values."
+    },
+    {
+     "question_text": "Agile values individuals and interactions over:",
+     "options": [
+      "Processes and tools",
+      "Customers",
+      "Working software",
+      "Change"
+     ],
+     "correct_index": 0,
+     "explanation": "Value 1."
+    },
+    {
+     "question_text": "Agile values working software over:",
+     "options": [
+      "Comprehensive documentation",
+      "Change",
+      "Individuals",
+      "Collaboration"
+     ],
+     "correct_index": 0,
+     "explanation": "Value 2."
+    },
+    {
+     "question_text": "Agile values customer collaboration over:",
+     "options": [
+      "Change",
+      "Individuals",
+      "Contract negotiation",
+      "Working software"
+     ],
+     "correct_index": 2,
+     "explanation": "Value 3."
+    },
+    {
+     "question_text": "An agile team delivers the product in short cycles called:",
+     "options": [
+      "Annual plans",
+      "Audits",
+      "Sprints or iterations",
+      "Waterfalls"
+     ],
+     "correct_index": 2,
+     "explanation": "Iterations."
+    },
+    {
+     "question_text": "In Scrum, the prioritised list of work items for the product is the:",
+     "options": [
+      "Balance sheet",
+      "Product backlog",
+      "Organisation chart",
+      "Waterfall plan"
+     ],
+     "correct_index": 1,
+     "explanation": "Backlog."
+    },
+    {
+     "question_text": "Agile management differs from rigid, waterfall planning in that it:",
+     "options": [
+      "Delivers only at the end of the project",
+      "Fixes requirements at the start and never changes them",
+      "Avoids customer feedback",
+      "Welcomes changing requirements and delivers frequently"
+     ],
+     "correct_index": 3,
+     "explanation": "Agile versus waterfall."
+    },
+    {
+     "question_text": "A short daily team meeting in Scrum is called the:",
+     "options": [
+      "Daily stand-up",
+      "Annual general meeting",
+      "Board meeting",
+      "Audit committee"
+     ],
+     "correct_index": 0,
+     "explanation": "Stand-up."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 7.2 Corporate Social Responsibility (CSR)",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "Who is called the \"Father of CSR\" for his 1953 book Social Responsibilities of the Businessman?",
+     "options": [
+      "Peter Drucker",
+      "Howard Bowen",
+      "Archie Carroll",
+      "Milton Friedman"
+     ],
+     "correct_index": 1,
+     "explanation": "Bowen."
+    },
+    {
+     "question_text": "Milton Friedman argued that the social responsibility of business is:",
+     "options": [
+      "To reduce prices",
+      "To avoid profit",
+      "To increase its profits",
+      "To spend on social causes"
+     ],
+     "correct_index": 2,
+     "explanation": "Friedman."
+    },
+    {
+     "question_text": "The base layer of Carroll's CSR pyramid is:",
+     "options": [
+      "Philanthropic responsibility",
+      "Ethical responsibility",
+      "Legal responsibility",
+      "Economic responsibility, to be profitable"
+     ],
+     "correct_index": 3,
+     "explanation": "Pyramid."
+    },
+    {
+     "question_text": "The top layer of Carroll's CSR pyramid is:",
+     "options": [
+      "Ethical responsibility",
+      "Legal responsibility",
+      "Economic responsibility",
+      "Philanthropic responsibility"
+     ],
+     "correct_index": 3,
+     "explanation": "Pyramid."
+    },
+    {
+     "question_text": "Which of the following is an argument for CSR?",
+     "options": [
+      "Improved reputation and long-term self-interest",
+      "Costs passed to consumers",
+      "Managers lack social expertise",
+      "Dilution of the profit motive"
+     ],
+     "correct_index": 0,
+     "explanation": "For CSR."
+    },
+    {
+     "question_text": "Which of the following is an argument against CSR given by its critics?",
+     "options": [
+      "Managers lack social expertise and shareholders' money is used",
+      "It improves the reputation",
+      "It improves employee morale",
+      "It supports sustainable development"
+     ],
+     "correct_index": 0,
+     "explanation": "Against CSR."
+    },
+    {
+     "question_text": "The World Business Council for Sustainable Development describes CSR as:",
+     "options": [
+      "A legal penalty",
+      "A continuing commitment to behave ethically and contribute to economic development",
+      "A one-time donation",
+      "A tax"
+     ],
+     "correct_index": 1,
+     "explanation": "WBCSD."
+    },
+    {
+     "question_text": "Under the Companies Act, 2013, CSR spending is required at:",
+     "options": [
+      "5% of the capital",
+      "1% of the sales",
+      "2% of the average net profit of the previous three years for eligible companies",
+      "10% of the revenue"
+     ],
+     "correct_index": 2,
+     "explanation": "Section 135."
+    }
+   ]
+  },
+  {
+   "title": "Question bank – 7.4 Green Management",
+   "duration_minutes": 10,
+   "questions": [
+    {
+     "question_text": "The 3Rs of green management are:",
+     "options": [
+      "Plan, organise and control",
+      "Rent, resell and retire",
+      "Recruit, reward and retain",
+      "Reduce, reuse and recycle"
+     ],
+     "correct_index": 3,
+     "explanation": "3Rs."
+    },
+    {
+     "question_text": "Green management means:",
+     "options": [
+      "Avoiding regulations",
+      "Painting offices green",
+      "Increasing production only",
+      "Integrating environmental concerns into all managerial functions"
+     ],
+     "correct_index": 3,
+     "explanation": "Definition."
+    },
+    {
+     "question_text": "Which international agreement of 2015 on climate change is a driver of green management?",
+     "options": [
+      "The Plaza Accord",
+      "The Paris Agreement",
+      "The Bretton Woods Agreement",
+      "The Kyoto Treaty of 1840"
+     ],
+     "correct_index": 1,
+     "explanation": "Paris."
+    },
+    {
+     "question_text": "Life-cycle assessment in green planning studies:",
+     "options": [
+      "The wages of workers",
+      "The environmental impact of a product from raw material to disposal",
+      "The profit of a product",
+      "The advertising of a product"
+     ],
+     "correct_index": 1,
+     "explanation": "LCA."
+    },
+    {
+     "question_text": "Eco-labelling and honest environmental claims belong to:",
+     "options": [
+      "Green production",
+      "Green accounting",
+      "Green marketing",
+      "Green planning"
+     ],
+     "correct_index": 2,
+     "explanation": "Marketing."
+    },
+    {
+     "question_text": "The circular economy aims at:",
+     "options": [
+      "Keeping resources in use by reusing and recycling to minimise waste",
+      "Avoiding recycling",
+      "Increasing waste",
+      "Using resources once and discarding"
+     ],
+     "correct_index": 0,
+     "explanation": "Circular."
+    },
+    {
+     "question_text": "Which Indian law is a driver of green management?",
+     "options": [
+      "The Sale of Goods Act, 1930",
+      "The Negotiable Instruments Act, 1881",
+      "The Environment Protection Act, 1986",
+      "The Banking Regulation Act, 1949"
+     ],
+     "correct_index": 2,
+     "explanation": "EPA."
+    },
+    {
+     "question_text": "The UN 2030 agenda on sustainable development goals is abbreviated as:",
+     "options": [
+      "SDGs",
+      "MBO",
+      "GDP",
+      "ESOP"
+     ],
+     "correct_index": 0,
+     "explanation": "SDGs."
+    }
+   ]
+  }
+ ]
+}
