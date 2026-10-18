@@ -89,50 +89,16 @@ html.dark body {
   background-color: #09090b;
 }
 
-.nature-bg {
+.wallpaper-bg {
   position: fixed;
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  overflow: hidden;
-  --nb-leaf: #16a34a;
-  --nb-crown: #22c55e;
-  --nb-trunk: #92400e;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)), url('/wallpaper.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-html.dark .nature-bg {
-  --nb-leaf: #4ade80;
-  --nb-crown: #16a34a;
-  --nb-trunk: #78716c;
+html.dark .wallpaper-bg {
+  background-image: linear-gradient(rgba(9, 9, 11, 0.72), rgba(9, 9, 11, 0.72)), url('/wallpaper.jpg');
 }
-.nb-leaves,
-.nb-trees {
-  position: absolute;
-  left: 0;
-  width: 100%;
-}
-.nb-leaves {
-  top: 0;
-  height: 100%;
-}
-.nb-trees {
-  bottom: 0;
-  height: 32vh;
-  min-height: 160px;
-}
-.nb-leaf {
-  fill: var(--nb-leaf);
-  stroke: var(--nb-leaf);
-  stroke-width: 0.8;
-  opacity: 0.16;
-}
-.nb-crown {
-  fill: var(--nb-crown);
-  opacity: 0.14;
-}
-.nb-trunk {
-  fill: var(--nb-trunk);
-  opacity: 0.16;
-}
-html.dark .nb-leaf { opacity: 0.12; }
-html.dark .nb-crown { opacity: 0.11; }
-html.dark .nb-trunk { opacity: 0.14; }
