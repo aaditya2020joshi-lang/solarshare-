@@ -194,13 +194,8 @@ export default function SiteTime() {
               >
                 History
               </button>
-            </li>
-          );
-        })}
-        {users.length === 0 && <li className="text-sm text-gray-500">No users yet.</li>}
-      </ul>
-      {editing && (
-        <form onSubmit={saveToday} className="mt-3 rounded-xl border border-gray-200 dark:border-gray-800 p-3">
+              {editing && editing.id === u.id && (
+        <form onSubmit={saveToday} className="mt-2 rounded-xl border border-gray-200 dark:border-gray-800 p-3">
           <div className="text-xs text-gray-500 mb-2">Set today's study time</div>
           <div className="flex items-center gap-2 text-sm">
             <input
@@ -233,6 +228,11 @@ export default function SiteTime() {
           </div>
         </form>
       )}
+            </li>
+          );
+        })}
+        {users.length === 0 && <li className="text-sm text-gray-500">No users yet.</li>}
+      </ul>
       {historyFor && <History userId={historyFor.id} name={historyFor.name} onClose={() => setHistoryFor(null)} />}
     </aside>
   );
