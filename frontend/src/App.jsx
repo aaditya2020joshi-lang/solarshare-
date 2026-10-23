@@ -19,6 +19,7 @@ import Search from './pages/Search';
 import Notes from './pages/Notes';
 import NotesSubject from './pages/NotesSubject';
 import Admin from './pages/Admin';
+import Accounts from './pages/Accounts';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -33,6 +34,14 @@ export default function App() {
           element={
             <ProtectedRoute>
               <Dashboard />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/accounts"
+          element={
+            <ProtectedRoute>
+              <Accounts />
             </ProtectedRoute>
           }
         />

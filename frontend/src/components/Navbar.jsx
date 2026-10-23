@@ -48,6 +48,9 @@ export default function Navbar() {
       <Link to="/" onClick={closeMenu} className={linkClass}>
         Dashboard
       </Link>
+      <Link to="/accounts" onClick={closeMenu} className={linkClass}>
+        Accounts
+      </Link>
       <Link to="/subjects" onClick={closeMenu} className={linkClass}>
         Subjects
       </Link>
