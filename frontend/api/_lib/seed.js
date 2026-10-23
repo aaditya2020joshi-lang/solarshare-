@@ -46,12 +46,72 @@ async function insertRows(client, table, columns, rows, suffix = '') {
   }
 }
 
-export async function seedUserContent(userId) {
-  if (seededUsers.has(userId) || content.length === 0) return;
+// A page load fires many API calls at once, each of which wants to seed the same new user. Without care,
+// each of them sees "nothing seeded yet" and inserts its own copy of every note. So seeding runs one
+// at a time per user (in this process by sharing one promise, across processes by a database lock).
+const inFlight = new Map();
+
+export function seedUserContent(userId) {
+  if (seededUsers.has(userId) || content.length === 0) return Promise.resolve();
+  if (!inFlight.has(userId)) {
+    inFlight.set(
+      userId,
+      doSeed(userId).finally(() => inFlight.delete(userId))
+    );
+  }
+  return inFlight.get(userId);
+}
+
+// Removes exact duplicates that earlier concurrent seeding left behind. Safe to run repeatedly.
+export async function removeDuplicates(client, userId) {
+  // Two subjects with the same name: move everything into the oldest one, then drop the extras.
+  const { rows: dupSubjects } = await client.query(
+    `SELECT s.id, k.keep_id FROM subjects s
+     JOIN (SELECT name, MIN(id) AS keep_id FROM subjects WHERE user_id = $1 GROUP BY name HAVING COUNT(*) > 1) k
+       ON k.name = s.name
+     WHERE s.user_id = $1 AND s.id <> k.keep_id`,
+    [userId]
+  );
+  for (const { id, keep_id: keepId } of dupSubjects) {
+    for (const table of ['notes', 'tests', 'flashcards']) {
+      await client.query(`UPDATE ${table} SET subject_id = $1 WHERE subject_id = $2`, [keepId, id]);
+    }
+    await client.query('DELETE FROM subjects WHERE id = $1', [id]);
+  }
+
+  await client.query(
+    `DELETE FROM notes n USING notes m
+     WHERE n.user_id = $1 AND m.user_id = $1 AND n.subject_id = m.subject_id
+       AND n.title = m.title AND n.content = m.content AND n.id > m.id`,
+    [userId]
+  );
+  await client.query(
+    `DELETE FROM flashcards f USING flashcards m
+     WHERE f.user_id = $1 AND m.user_id = $1 AND f.subject_id = m.subject_id
+       AND f.front = m.front AND f.back = m.back AND f.id > m.id`,
+    [userId]
+  );
+  // Duplicate tests: keep the one that has been attempted (else the oldest) so no results are lost.
+  await client.query(
+    `WITH t AS (
+       SELECT id, subject_id, title, (SELECT COUNT(*) FROM attempts a WHERE a.test_id = tests.id) AS attempts
+       FROM tests WHERE user_id = $1
+     )
+     DELETE FROM tests WHERE id IN (
+       SELECT x.id FROM t x JOIN t y
+         ON x.subject_id = y.subject_id AND x.title = y.title AND x.id <> y.id
+       WHERE x.attempts = 0 AND (y.attempts > 0 OR y.id < x.id)
+     )`,
+    [userId]
+  );
+}
+
+async function doSeed(userId) {
   let client;
   try {
     client = await pool.connect();
     await client.query('BEGIN');
+    await client.query('SELECT pg_advisory_xact_lock(7001, $1)', [userId]);
     const done = new Set(
       (await client.query('SELECT item_key FROM seeded_content WHERE user_id = $1', [userId])).rows.map((r) => r.item_key)
     );
@@ -135,6 +195,7 @@ export async function seedUserContent(userId) {
     }
 
     await insertRows(client, 'seeded_content', ['user_id', 'item_key'], marks, 'ON CONFLICT DO NOTHING');
+    await removeDuplicates(client, userId);
     await client.query('COMMIT');
     seededUsers.add(userId);
   } catch (err) {
