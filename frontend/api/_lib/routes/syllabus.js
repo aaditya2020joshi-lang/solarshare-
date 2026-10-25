@@ -2,6 +2,66 @@ import { Router } from 'express';
 import { pool } from '../db.js';
 import { asyncHandler } from '../asyncHandler.js';
 import { requireAuth } from '../auth.js';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+
+// A vocabulary of every word in the starter notes, flash cards and questions, used to fix spelling mistakes.
+const CONTENT_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..', '..', 'content');
+let vocab = null;
+function getVocab() {
+  if (vocab) return vocab;
+  const counts = new Map();
+  const add = (text) => {
+    for (const w of String(text || '').toLowerCase().replace(/[^a-z0-9\s-]/g, ' ').split(/\s+/)) {
+      if (w.length >= 4) counts.set(w, (counts.get(w) || 0) + 1);
+    }
+  };
+  try {
+    for (const dir of fs.readdirSync(CONTENT_DIR, { withFileTypes: true })) {
+      if (!dir.isDirectory()) continue;
+      for (const file of fs.readdirSync(path.join(CONTENT_DIR, dir.name))) {
+        if (!file.endsWith('.json')) continue;
+        const data = JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, dir.name, file), 'utf8'));
+        (data.notes || []).forEach((n) => { add(n.title); add(n.content); });
+        (data.flashcards || []).forEach((c) => { add(c.front); add(c.back); });
+        (data.tests || []).forEach((t) => t.questions.forEach((q) => { add(q.question_text); add(q.explanation); }));
+      }
+    }
+  } catch {
+    // no starter content: spelling help is simply off
+  }
+  vocab = counts;
+  return vocab;
+}
+
+// Optimal string alignment distance (counts a swap of two neighbouring letters as one mistake).
+function distance(a, b) {
+  const d = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 0; j <= b.length; j += 1) d[0][j] = j;
+  for (let i = 1; i <= a.length; i += 1) {
+    for (let j = 1; j <= b.length; j += 1) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + cost);
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1);
+    }
+  }
+  return d[a.length][b.length];
+}
+
+export function fixSpelling(word) {
+  const v = getVocab();
+  if (word.length < 5 || v.has(word) || v.size === 0) return word;
+  const maxDist = word.length >= 8 ? 2 : 1;
+  let best = null;
+  for (const [cand, freq] of v) {
+    if (Math.abs(cand.length - word.length) > maxDist || cand[0] !== word[0]) continue;
+    const dist = distance(word, cand);
+    if (dist <= maxDist && (!best || dist < best.dist || (dist === best.dist && freq > best.freq))) best = { cand, dist, freq };
+  }
+  return best ? best.cand : word;
+}
 
 const router = Router();
 router.use(requireAuth);
@@ -54,8 +114,10 @@ router.get(
   asyncHandler(async (req, res) => {
     const q = String(req.query.q || '').trim();
     if (q.length < 3) return res.status(400).json({ error: 'Type your question first.' });
-    const words = keywords(q);
-    if (!words.length) return res.json({ words, results: [] });
+    const original = keywords(q);
+    const words = original.map(fixSpelling);
+    const corrected = words.some((w, i) => w !== original[i]) ? words.join(' ') : null;
+    if (!words.length) return res.json({ words, results: [], corrected });
     const patterns = words.map((w) => `%${esc(w)}%`);
 
     const [notes, cards, questions] = await Promise.all([
@@ -118,7 +180,7 @@ router.get(
     const best = top[0]?.score || 0;
     // Drop weak matches that only touch one word when a much better match exists.
     const filtered = top.filter((r) => r.score >= Math.max(10, best * 0.3));
-    res.json({ words, results: filtered });
+    res.json({ words, results: filtered, corrected });
   })
 );
 

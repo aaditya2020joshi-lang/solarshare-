@@ -9,6 +9,7 @@ export default function AskSyllabus() {
   const [query, setQuery] = useState('');
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState(null);
+  const [corrected, setCorrected] = useState(null);
   const [error, setError] = useState('');
   const [aiLoading, setAiLoading] = useState(false);
   const [aiAnswer, setAiAnswer] = useState('');
@@ -25,6 +26,7 @@ export default function AskSyllabus() {
     try {
       const res = await client.get('/syllabus-search', { params: { q: query.trim() } });
       setResults(res.data.results);
+      setCorrected(res.data.corrected);
     } catch (err) {
       setError(err.response?.data?.error || 'Search failed. Please try again.');
     } finally {
@@ -71,6 +73,11 @@ export default function AskSyllabus() {
 
       {results && (
         <div className="mt-4 flex flex-col gap-3">
+          {corrected && (
+            <p className="text-sm text-gray-600 dark:text-gray-300">
+              Showing results for <span className="font-semibold">{corrected}</span> (spelling corrected)
+            </p>
+          )}
           {results.length === 0 ? (
             <p className="text-sm text-gray-500">Nothing found in your syllabus. Try different words.</p>
           ) : (
