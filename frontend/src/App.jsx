@@ -1,3 +1,4 @@
+import { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import NatureBackground from './components/NatureBackground';
@@ -19,7 +20,10 @@ import Search from './pages/Search';
 import Notes from './pages/Notes';
 import NotesSubject from './pages/NotesSubject';
 import Admin from './pages/Admin';
-import Accounts from './pages/Accounts';
+import Spinner from './components/Spinner';
+
+// The accounting practice data is large, so it loads only when the Accounts page is opened.
+const Accounts = lazy(() => import('./pages/Accounts'));
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -41,7 +45,15 @@ export default function App() {
           path="/accounts"
           element={
             <ProtectedRoute>
-              <Accounts />
+              <Suspense
+                fallback={
+                  <div className="flex justify-center py-24">
+                    <Spinner />
+                  </div>
+                }
+              >
+                <Accounts />
+              </Suspense>
             </ProtectedRoute>
           }
         />

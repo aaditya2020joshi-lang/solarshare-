@@ -9,6 +9,7 @@ import {
   profitLoss,
   balanceSheet,
 } from '../data/accountingFormats';
+import { Problems, FiveMarkQuestions } from '../components/ProblemsPractice';
 
 const input =
   'w-full rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 px-2 py-1 text-sm text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-brand-500';
@@ -482,15 +483,13 @@ const PILLS = [
   ['bs', '6. Balance Sheet'],
 ];
 
-export default function Accounts() {
+function FormatsPractice() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-10">
-      <h1 className="text-2xl font-display font-bold text-gray-900 dark:text-white mb-1">Accounts</h1>
+    <>
       <p className="text-sm text-gray-500 mb-4">
         Practise the accounting formats — Final Accounts with a worked example. Fill in each format, press “Check my
         answer”, and see what is right or wrong.
       </p>
-
       <div className="flex flex-wrap gap-2 mb-6 sticky top-16 z-20 py-2">
         {PILLS.map(([id, label]) => (
           <a
@@ -555,6 +554,48 @@ export default function Accounts() {
           hint="Show Capital, add net profit and less drawings as separate lines."
         />
       </div>
+    </>
+  );
+}
+
+const TABS = [
+  ['formats', 'Formats'],
+  ['problems', 'Problems with solutions'],
+  ['marks', '5-mark questions'],
+];
+
+export default function Accounts() {
+  const [tab, setTab] = useState('formats');
+  return (
+    <div className="max-w-4xl mx-auto px-4 py-10">
+      <h1 className="text-2xl font-display font-bold text-gray-900 dark:text-white mb-4">Accounts</h1>
+      <div className="flex flex-wrap gap-2 mb-6">
+        {TABS.map(([id, label]) => (
+          <button
+            key={id}
+            type="button"
+            onClick={() => setTab(id)}
+            className={`text-sm font-semibold rounded-lg px-4 py-2 border ${
+              tab === id
+                ? 'bg-brand-600 text-white border-brand-600'
+                : 'bg-white/90 dark:bg-gray-900/90 border-gray-200 dark:border-gray-800 text-gray-700 dark:text-gray-200'
+            }`}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+      {tab === 'formats' && <FormatsPractice />}
+      {tab === 'problems' && (
+        <>
+          <p className="text-sm text-gray-500 mb-4">
+            Fundamentals of Accounting — questions with solutions (Parts A–E). Journal entry problems (Parts A and C) are
+            checked automatically; for the others write your working, then compare with the solution.
+          </p>
+          <Problems />
+        </>
+      )}
+      {tab === 'marks' && <FiveMarkQuestions />}
     </div>
   );
 }
